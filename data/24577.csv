@@ -1,0 +1,24 @@
+# Amtliche Adressen für die Postleitzahl 24577
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBB,24577,Bordesholm,Mühlenredder,11,a,54.1755326,10.05004334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBC,24577,Bordesholm,Mühlenredder,11,b,54.17552635,10.04992809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBD,24577,Bordesholm,Mühlenredder,11,c,54.17552059,10.04982184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBE,24577,Bordesholm,Mühlenredder,13,a,54.17564797,10.05001634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBF,24577,Bordesholm,Mühlenredder,13,b,54.17571685,10.04998241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBG,24577,Bordesholm,Mühlenredder,13,c,54.17578967,10.04994812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBI,24577,Bordesholm,Mühlenredder,13,d,54.17586127,10.04991373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBJ,24577,Bordesholm,Mühlenredder,15,a,54.17599963,10.0499615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBL,24577,Bordesholm,Mühlenredder,15,b,54.17608838,10.0499277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBM,24577,Bordesholm,Mühlenredder,15,c,54.17614793,10.04989236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBO,24577,Bordesholm,Mühlenredder,15,d,54.17621558,10.04985831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBP,24577,Bordesholm,Mühlenredder,17,a,54.17639559,10.0498983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBQ,24577,Bordesholm,Mühlenredder,17,b,54.17639011,10.04979693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HWBR,24577,Bordesholm,Mühlenredder,17,c,54.17640084,10.0496803

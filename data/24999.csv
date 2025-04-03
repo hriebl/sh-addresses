@@ -1,0 +1,973 @@
+# Amtliche Adressen für die Postleitzahl 24999
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA0,24999,Wees,Ulstrup,3,,54.81477115,9.54402766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA1,24999,Wees,Ulstrup,31,,54.81360401,9.5498912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA2,24999,Wees,Ulstrup,4,,54.81373964,9.54601096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA3,24999,Wees,Ulstrup,5,,54.81419633,9.54599717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA4,24999,Wees,Ulstrup,6,,54.81369426,9.54712851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA5,24999,Wees,Ulstrup,7,,54.81415724,9.5463965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA6,24999,Wees,Ulstrup,8,,54.81408355,9.5480227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA7,24999,Wees,Ulstrup,9,,54.81407795,9.54700427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA8,24999,Wees,Ulstrupfeld,1,,54.82209183,9.54277577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrA9,24999,Wees,Ulstrupfeld,1,a,54.82227349,9.54246154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAA,24999,Wees,Wiesenbogen,14,,54.80422167,9.52552713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAB,24999,Wees,Wiesenbogen,15,,54.80560117,9.52476323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAC,24999,Wees,Wiesenbogen,18,,54.80452519,9.52581573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAD,24999,Wees,Wiesenbogen,2,,54.80414939,9.52462851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAE,24999,Wees,Wiesenbogen,20,,54.80467889,9.52583935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAF,24999,Wees,Wiesenbogen,24,,54.80491586,9.52577493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAG,24999,Wees,Wiesenbogen,24,a,54.80495547,9.52618298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAH,24999,Wees,Wiesenbogen,26,a,54.80525012,9.52601675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAI,24999,Wees,Wiesenbogen,26,b,54.80522591,9.52591562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAJ,24999,Wees,Wiesenbogen,28,a,54.80530062,9.52633767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAL,24999,Wees,Wiesenbogen,3,,54.8045044,9.52539317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAM,24999,Wees,Wiesenbogen,3,a,54.80464102,9.52538841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAN,24999,Wees,Wiesenbogen,3,b,54.80469933,9.5254017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAO,24999,Wees,Wiesenbogen,30,a,54.80554051,9.5257523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAP,24999,Wees,Wiesenbogen,30,b,54.80549955,9.52567558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAQ,24999,Wees,Wiesenbogen,32,,54.80562673,9.52594307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAR,24999,Wees,Wiesenbogen,32,a,54.80575718,9.52624438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAS,24999,Wees,Wiesenbogen,32,b,54.80603435,9.52645568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAT,24999,Wees,Wiesenbogen,34,a,54.80569159,9.52532736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAU,24999,Wees,Wiesenbogen,34,b,54.80565289,9.52540956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAV,24999,Wees,Wiesenbogen,36,,54.80574168,9.52571313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAW,24999,Wees,Wiesenbogen,36,a,54.80586953,9.526016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAX,24999,Wees,Wiesenbogen,36,b,54.80591461,9.52611037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAY,24999,Wees,Wiesenbogen,4,,54.80413894,9.52474811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAZ,24999,Wees,Wiesenbogen,5,,54.80484306,9.5254082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAa,24999,Wees,Ulstrupfeld,11,,54.82327774,9.541106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAb,24999,Wees,Ulstrupfeld,2,,54.82253644,9.5424909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAc,24999,Wees,Ulstrupfeld,3,,54.82256028,9.54159325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAd,24999,Wees,Ulstrupfeld,4,,54.82243019,9.54278451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAe,24999,Wees,Ulstrupfeld,5,,54.82289017,9.54164173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAf,24999,Wees,Ulstrupfeld,7,,54.82303145,9.54147313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAg,24999,Wees,Ulstrupfeld,9,,54.82317071,9.54122957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAh,24999,Wees,Weesries,1,,54.79328986,9.52184317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAi,24999,Wees,Weesries,2,,54.79309923,9.51961297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAj,24999,Wees,Weesries,3,,54.79228714,9.51953983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAk,24999,Wees,Weesries,4,,54.79230576,9.51882644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAl,24999,Wees,Weesries,5,,54.79190532,9.51775797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAm,24999,Wees,Weesries,6,,54.79126858,9.51372234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAn,24999,Wees,Weesries,7,,54.79119003,9.51543671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAo,24999,Wees,Weesrieser Straße,2,,54.80553958,9.51356127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAp,24999,Wees,Weesrieser Straße,4,,54.80530959,9.51353276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAq,24999,Wees,Weesrieser Straße,6,,54.80504251,9.51347813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAr,24999,Wees,Weesrieser Straße,8,,54.79781794,9.51793292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAs,24999,Wees,Weesrieser Straße,9,,54.79802217,9.51966363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAt,24999,Wees,Wiesenbogen,1,,54.80434216,9.52500994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAu,24999,Wees,Wiesenbogen,10,,54.80386202,9.52528689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAx,24999,Wees,Wiesenbogen,11,,54.80540041,9.52533491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAy,24999,Wees,Wiesenbogen,12,,54.80377942,9.52568204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrAz,24999,Wees,Wiesenbogen,13,,54.80557232,9.52489161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB0,24999,Wees,Wiesenbogen,6,,54.80411074,9.52505689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB1,24999,Wees,Wiesenbogen,7,,54.80501121,9.52538316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB2,24999,Wees,Wiesenbogen,8,,54.80410288,9.52515942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB3,24999,Wees,Wiesenbogen,9,,54.80516477,9.52537652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnA,24999,Wees,Am Bahnhof,1,c,54.80487338,9.50559178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnB,24999,Wees,Am Bahnhof,1,d,54.80488755,9.50548778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnC,24999,Wees,Am Bahnhof,1,e,54.80489242,9.5053883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnD,24999,Wees,Am Bahnhof,1,f,54.80488861,9.50528257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnE,24999,Wees,Am Bahnhof,1,g,54.80489428,9.50516911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnF,24999,Wees,Am Bahnhof,1,h,54.80490778,9.50507899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnG,24999,Wees,Am Bahnhof,1,i,54.80491275,9.50497641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnH,24999,Wees,Am Bahnhof,10,,54.80455525,9.50708112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnI,24999,Wees,Am Bahnhof,12,,54.80459389,9.50730408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnJ,24999,Wees,Am Bahnhof,12,a,54.80434496,9.50740778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnK,24999,Wees,Am Bahnhof,12,b,54.80435716,9.50752144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnL,24999,Wees,Am Bahnhof,14,,54.80461349,9.50745948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnM,24999,Wees,Am Bahnhof,2,,54.80431489,9.50538421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnN,24999,Wees,Am Bahnhof,2,a,54.8042971,9.50493591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnO,24999,Wees,Am Bahnhof,3,,54.80455786,9.50490642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnP,24999,Wees,Am Bahnhof,4,,54.80436026,9.50574956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnQ,24999,Wees,Am Bahnhof,4,a,54.80398785,9.50613042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnR,24999,Wees,Am Bahnhof,4,b,54.80442482,9.50627169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnS,24999,Wees,Am Bahnhof,4,c,54.80436939,9.50629728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnT,24999,Wees,Am Bahnhof,4,d,54.80431457,9.50631369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnU,24999,Wees,Am Bahnhof,4,e,54.80420419,9.50636068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnV,24999,Wees,Am Bahnhof,4,f,54.80414687,9.50638165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnW,24999,Wees,Am Bahnhof,4,g,54.80416281,9.50594273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnX,24999,Wees,Am Bahnhof,4,h,54.80415446,9.50584483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnY,24999,Wees,Am Bahnhof,5,,54.80470824,9.50623182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrnZ,24999,Wees,Am Bahnhof,6,,54.80448652,9.50659995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrny,24999,Wees,Am Bahnhof,1,a,54.80467188,9.50528146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrnz,24999,Wees,Am Bahnhof,1,b,54.80466103,9.5051804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro0,24999,Wees,Am Bahnhof,6,a,54.8041356,9.50671588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro1,24999,Wees,Am Bahnhof,8,,54.80452056,9.50685085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro2,24999,Wees,Am Pahl,1,a,54.80482819,9.50450692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro3,24999,Wees,Am Pahl,1,b,54.80488183,9.50428287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro4,24999,Wees,Am Pahl,1,d,54.80488398,9.50399674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro5,24999,Wees,Am Pahl,1,f,54.80492024,9.50374061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro6,24999,Wees,Am Pahl,1,g,54.80492107,9.50364421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro7,24999,Wees,Am Pahl,1,h,54.80494212,9.50346564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro8,24999,Wees,Am Pahl,1,i,54.80494288,9.50337078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nro9,24999,Wees,Am Pahl,2,a,54.80471696,9.50414395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroA,24999,Wees,Am Dorfplatz,16,c,54.80612899,9.52252124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroB,24999,Wees,Am Dorfplatz,18,a,54.806408,9.5229838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroC,24999,Wees,Am Dorfplatz,18,b,54.80637306,9.52269131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroD,24999,Wees,Am Dorfplatz,18,c,54.80632366,9.52241592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroE,24999,Wees,Am Dorfplatz,2,,54.80586145,9.52352287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroF,24999,Wees,Am Dorfplatz,20,,54.80662389,9.52286097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroG,24999,Wees,Am Dorfplatz,22,,54.80654642,9.52247522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroH,24999,Wees,Am Dorfplatz,24,,54.8064588,9.52201687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroI,24999,Wees,Am Dorfplatz,3,,54.80575951,9.52403359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroJ,24999,Wees,Am Dorfplatz,4,,54.80579762,9.52353378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroK,24999,Wees,Am Dorfplatz,6,,54.80574185,9.52353626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroL,24999,Wees,Am Dorfplatz,7,,54.80571318,9.52423025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroM,24999,Wees,Am Dorfplatz,9,,54.8060503,9.52380427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroN,24999,Wees,Am Kascher,1,,54.80771915,9.51468252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroO,24999,Wees,Am Moor,1,,54.8054342,9.52114747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroP,24999,Wees,Am Moor,10,,54.80493824,9.52177973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroQ,24999,Wees,Am Moor,11,,54.80530129,9.52236408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroR,24999,Wees,Am Moor,13,,54.80512692,9.52238417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroS,24999,Wees,Am Moor,15,,54.80495787,9.52240166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroT,24999,Wees,Am Moor,17,,54.80478104,9.52239732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroU,24999,Wees,Am Moor,19,,54.80460272,9.52235405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroV,24999,Wees,Am Moor,2,,54.80518371,9.52093659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroW,24999,Wees,Am Moor,3,,54.80547753,9.52145951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroX,24999,Wees,Am Moor,4,,54.80521584,9.52120358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroY,24999,Wees,Am Moor,5,,54.80553846,9.52174628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NroZ,24999,Wees,Am Moor,6,,54.80525011,9.52148188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroa,24999,Wees,Am Pahl,2,b,54.80469189,9.50388243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrob,24999,Wees,Am Pahl,2,c,54.80469263,9.50378757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroc,24999,Wees,Am Pahl,2,d,54.80467626,9.50360232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrod,24999,Wees,Am Pahl,2,e,54.80467697,9.503509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroe,24999,Wees,Am Pahl,2,f,54.80466861,9.50342182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrof,24999,Wees,Am Pahl,2,g,54.8046693,9.50333165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrog,24999,Wees,Am Pahl,3,,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroh,24999,Wees,Am Pahl,3,a,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroi,24999,Wees,Am Pahl,3,b,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroj,24999,Wees,Am Pahl,3,c,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrok,24999,Wees,Am Pahl,3,d,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrol,24999,Wees,Am Pahl,3,e,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrom,24999,Wees,Am Pahl,3,f,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nron,24999,Wees,Am Pahl,3,g,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroo,24999,Wees,Am Pahl,3,h,54.80497789,9.50278937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrop,24999,Wees,Am Dorfplatz,1,,54.80575775,9.52394184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroq,24999,Wees,Am Dorfplatz,10,,54.80561693,9.523571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nror,24999,Wees,Am Dorfplatz,11,,54.80619508,9.5235414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nros,24999,Wees,Am Dorfplatz,12,,54.80554864,9.52357473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrot,24999,Wees,Am Dorfplatz,14,a,54.80604044,9.52298476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrou,24999,Wees,Am Dorfplatz,14,b,54.80602238,9.52288477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrov,24999,Wees,Am Dorfplatz,14,c,54.80600688,9.5227989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrow,24999,Wees,Am Dorfplatz,14,d,54.80599117,9.52271205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrox,24999,Wees,Am Dorfplatz,14,e,54.80597284,9.52261017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroy,24999,Wees,Am Dorfplatz,16,a,54.80622532,9.52306015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nroz,24999,Wees,Am Dorfplatz,16,b,54.80617939,9.52280314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp0,24999,Wees,Am Moor,7,,54.80554322,9.52206655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp1,24999,Wees,Am Moor,8,,54.80528149,9.52174746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp2,24999,Wees,Am Moor,9,,54.8055812,9.52241119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp3,24999,Wees,An der Nordstraße,1,,54.80341516,9.54601769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp4,24999,Wees,An der Nordstraße,1,a,54.80322433,9.54601762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp5,24999,Wees,Birkland,1,,54.80723161,9.51492794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp7,24999,Wees,Birkland,2,,54.80656661,9.51473495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp8,24999,Wees,Birkland,2,a,54.8064884,9.514082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrp9,24999,Wees,Birkland,2,b,54.80623178,9.51406597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpA,24999,Wees,Birkenbogen,4,,54.80794603,9.51367193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpB,24999,Wees,Birkenbogen,5,,54.80774353,9.51301627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpC,24999,Wees,Birkenbogen,6,,54.80840795,9.51329492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpD,24999,Wees,Birkenbogen,7,,54.80802007,9.51324432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpE,24999,Wees,Birkenbogen,8,,54.80842098,9.51229252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpF,24999,Wees,Birkenbogen,8,a,54.80841432,9.51185229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpG,24999,Wees,Birkenbogen,9,,54.80800919,9.51136936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpH,24999,Wees,Birkhof,1,,54.80764896,9.51725624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpI,24999,Wees,Birkhof,10,,54.80746949,9.51847571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpJ,24999,Wees,Birkhof,11,,54.80711047,9.51762905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpK,24999,Wees,Birkhof,12,,54.80753032,9.5184544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpL,24999,Wees,Birkhof,13,,54.8071755,9.51786468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpM,24999,Wees,Birkhof,14,,54.8075878,9.51843422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpN,24999,Wees,Birkhof,15,,54.80718052,9.51809189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpO,24999,Wees,Birkhof,16,,54.8076471,9.51841348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpP,24999,Wees,Birkhof,17,,54.80718729,9.51823891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpQ,24999,Wees,Birkhof,18,,54.80786282,9.51827776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpR,24999,Wees,Birkhof,19,,54.80720427,9.51847678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpS,24999,Wees,Birkhof,2,,54.80732921,9.51791075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpT,24999,Wees,Birkhof,20,,54.80784027,9.51814617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpU,24999,Wees,Birkhof,21,,54.80721082,9.51861683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpV,24999,Wees,Birkhof,22,,54.80782065,9.51803193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpW,24999,Wees,Birkhof,23,,54.80726935,9.51890177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpX,24999,Wees,Birkhof,24,,54.80780399,9.51793509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpY,24999,Wees,Birkhof,25,,54.80729102,9.51902813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrpZ,24999,Wees,Birkhof,26,,54.80778709,9.51783679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpa,24999,Wees,Birkland,4,,54.80675728,9.51334939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpb,24999,Wees,Birkland,5,,54.80846882,9.50949337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpc,24999,Wees,Birkland,6,,54.80683541,9.51300961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpd,24999,Wees,Birklück,17,,54.80702276,9.50906281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpe,24999,Wees,Birkweg,2,,54.80682266,9.51213151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpf,24999,Wees,Großacker,1,,54.8056424,9.51830605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpg,24999,Wees,Großacker,11,,54.80515247,9.51772234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrph,24999,Wees,Großacker,13,,54.80496653,9.51772918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpi,24999,Wees,Großacker,15,,54.80480382,9.51753759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpj,24999,Wees,Großacker,17,,54.80475646,9.51780297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpk,24999,Wees,Großacker,19,,54.80473002,9.51806227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpl,24999,Wees,Großacker,2,,54.80536843,9.51839142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpm,24999,Wees,Großacker,21,,54.80471092,9.51835751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpn,24999,Wees,Großacker,23,,54.80467583,9.51860282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpo,24999,Wees,Großacker,4,,54.8053508,9.51808792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpp,24999,Wees,Großacker,6,,54.80505259,9.51815655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpq,24999,Wees,Großacker,7,a,54.80553853,9.51755695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpr,24999,Wees,Großacker,7,b,54.80560234,9.51755451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrps,24999,Wees,Großacker,8,,54.80486769,9.51839139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpt,24999,Wees,Großacker,8,a,54.80486971,9.51852664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpu,24999,Wees,Großacker,9,,54.80535544,9.51773158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpv,24999,Wees,Birkenbogen,1,,54.80722619,9.51273787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpw,24999,Wees,Birkenbogen,10,,54.80834463,9.51113797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpx,24999,Wees,Birkenbogen,12,,54.80787985,9.51088136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpy,24999,Wees,Birkenbogen,2,,54.80745649,9.51332609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrpz,24999,Wees,Birkenbogen,3,,54.80748914,9.51257345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq0,24999,Wees,Birkhof,27,,54.80733234,9.51926965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq1,24999,Wees,Birkhof,28,,54.80777042,9.51773951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq2,24999,Wees,Birkhof,29,,54.80751331,9.51881268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq3,24999,Wees,Birkhof,3,,54.80736275,9.51755226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq4,24999,Wees,Birkhof,30,,54.80775227,9.51763388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq5,24999,Wees,Birkhof,31,,54.80753648,9.51894857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq6,24999,Wees,Birkhof,33,,54.80757623,9.51917897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq7,24999,Wees,Birkhof,35,,54.80775849,9.51872897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq8,24999,Wees,Birkhof,37,,54.80777958,9.51885208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrq9,24999,Wees,Birkhof,39,,54.80782139,9.51909796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqA,24999,Wees,Dorfstraße,11,c,54.80617471,9.51945902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqB,24999,Wees,Dorfstraße,11,d,54.80603921,9.51957134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqD,24999,Wees,Dorfstraße,12,a,54.80662394,9.51833129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqE,24999,Wees,Dorfstraße,12,b,54.80662892,9.51791631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqF,24999,Wees,Dorfstraße,12,c,54.80670523,9.51757007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqG,24999,Wees,Dorfstraße,12,d,54.80686337,9.51714894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqH,24999,Wees,Dorfstraße,13,,54.80637647,9.51878401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqI,24999,Wees,Dorfstraße,14,,54.80628045,9.51656031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqJ,24999,Wees,Dorfstraße,15,,54.80631123,9.51839694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqK,24999,Wees,Dorfstraße,15,a,54.80629042,9.51801676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqL,24999,Wees,Dorfstraße,16,,54.8061023,9.51617407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqM,24999,Wees,Dorfstraße,17,,54.80629196,9.51761154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqN,24999,Wees,Dorfstraße,18,,54.80587038,9.51548059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqO,24999,Wees,Dorfstraße,18,a,54.80587759,9.51497522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqP,24999,Wees,Dorfstraße,18,b,54.80588017,9.51510747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqQ,24999,Wees,Dorfstraße,18,c,54.80618017,9.51497891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqR,24999,Wees,Dorfstraße,2,,54.80745073,9.5215517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqS,24999,Wees,Dorfstraße,20,,54.80590761,9.51453819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqT,24999,Wees,Dorfstraße,21,,54.80599241,9.51669012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqU,24999,Wees,Dorfstraße,22,,54.80579515,9.51415305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqV,24999,Wees,Dorfstraße,23,,54.80583875,9.51639057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqW,24999,Wees,Dorfstraße,24,,54.80580494,9.51376276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqX,24999,Wees,Dorfstraße,25,,54.80568758,9.51615112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqY,24999,Wees,Dorfstraße,26,,54.80579426,9.51337542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrqZ,24999,Wees,Dorfstraße,26,a,54.8061823,9.51337552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqa,24999,Wees,Birkhof,4,,54.80733499,9.51803512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqb,24999,Wees,Birkhof,41,,54.80796219,9.51860515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqc,24999,Wees,Birkhof,43,,54.80797212,9.5186902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqd,24999,Wees,Birkhof,5,,54.8073123,9.51760041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqe,24999,Wees,Birkhof,6,,54.80734073,9.51815789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqf,24999,Wees,Birkhof,7,,54.80725187,9.517609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqg,24999,Wees,Birkhof,8,,54.80739583,9.51850164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqh,24999,Wees,Birkhof,9,,54.80719246,9.51761745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqi,24999,Wees,Blixberg,1,,54.81563116,9.55372029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqj,24999,Wees,Blixberg,1,a,54.81569327,9.55415511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqk,24999,Wees,Blixberg,2,,54.81429725,9.55081774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrql,24999,Wees,Blixberg,3,,54.81815033,9.553766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqm,24999,Wees,Blixberg,3,a,54.81795374,9.55313973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqn,24999,Wees,Blixberg,4,,54.81462282,9.55196406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqo,24999,Wees,Blixberg,4,a,54.8147567,9.55239617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqp,24999,Wees,Blixberg,6,,54.81488991,9.55274942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqq,24999,Wees,Dorfstraße,1,,54.80699696,9.52209721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqr,24999,Wees,Dorfstraße,1,a,54.80721535,9.52235093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqs,24999,Wees,Dorfstraße,1,b,54.80715826,9.52238659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqt,24999,Wees,Dorfstraße,1,c,54.80709468,9.52242638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqu,24999,Wees,Dorfstraße,1,d,54.80702666,9.5224688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqv,24999,Wees,Dorfstraße,10,,54.80680901,9.5195081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqw,24999,Wees,Dorfstraße,10,a,54.80676025,9.51918091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqx,24999,Wees,Dorfstraße,11,,54.80650165,9.51925808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqy,24999,Wees,Dorfstraße,11,a,54.80642843,9.51906599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrqz,24999,Wees,Dorfstraße,11,b,54.80623241,9.51942581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr0,24999,Wees,Dorfstraße,27,,54.80554749,9.51587929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr1,24999,Wees,Dorfstraße,28,,54.80578375,9.51298532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr2,24999,Wees,Dorfstraße,29,a,54.80556231,9.51557664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr3,24999,Wees,Dorfstraße,29,b,54.80556543,9.51551728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr4,24999,Wees,Dorfstraße,3,,54.80697506,9.52129763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr5,24999,Wees,Dorfstraße,30,,54.80577324,9.51263663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr6,24999,Wees,Dorfstraße,31,a,54.80555828,9.51525813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr7,24999,Wees,Dorfstraße,31,b,54.80555239,9.51519938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr8,24999,Wees,Dorfstraße,32,,54.80583175,9.51228396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrr9,24999,Wees,Dorfstraße,33,,54.80556893,9.51492427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrA,24999,Wees,Grönholm,12,,54.8026653,9.51065767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrB,24999,Wees,Grönholm,13,,54.80240471,9.51012296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrC,24999,Wees,Grönholm,14,,54.802833,9.50937647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrD,24999,Wees,Grönholm,15,,54.80240262,9.50980686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrE,24999,Wees,Grönholm,16,,54.80277854,9.50903322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrF,24999,Wees,Grönholm,17,,54.80242188,9.50946191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrG,24999,Wees,Grönholm,18,,54.80287778,9.50760246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrH,24999,Wees,Grönholm,19,,54.80243212,9.50910911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrI,24999,Wees,Grönholm,2,,54.80299518,9.51371279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrJ,24999,Wees,Grönholm,20,,54.80279134,9.50728289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrK,24999,Wees,Grönholm,20,a,54.80282215,9.50574681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrL,24999,Wees,Grönholm,20,b,54.80301204,9.50570969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrM,24999,Wees,Grönholm,20,c,54.80318264,9.50555253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrN,24999,Wees,Grönholm,20,d,54.8034166,9.50542404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrO,24999,Wees,Grönholm,20,e,54.80343961,9.50555018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrP,24999,Wees,Grönholm,20,f,54.80347467,9.50574348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrQ,24999,Wees,Grönholm,20,g,54.80349568,9.5058589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrR,24999,Wees,Grönholm,20,h,54.80364772,9.50526543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrS,24999,Wees,Grönholm,20,i,54.80366488,9.50535869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrT,24999,Wees,Grönholm,21,,54.80244332,9.50870309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrU,24999,Wees,Grönholm,22,a,54.80389511,9.5051025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrV,24999,Wees,Grönholm,22,b,54.80391893,9.50521316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrW,24999,Wees,Grönholm,22,c,54.80396561,9.50549135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrX,24999,Wees,Grönholm,22,d,54.80398118,9.50561287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrY,24999,Wees,Grönholm,23,,54.8024528,9.50828512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrrZ,24999,Wees,Grönholm,24,,54.80407958,9.50498187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrra,24999,Wees,Dorfstraße,34,,54.80571995,9.51204703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrb,24999,Wees,Dorfstraße,34,a,54.80607984,9.51189811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrc,24999,Wees,Dorfstraße,35,a,54.80553308,9.51463013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrd,24999,Wees,Dorfstraße,35,b,54.80552722,9.51457138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrre,24999,Wees,Dorfstraße,36,,54.80565421,9.51170588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrf,24999,Wees,Dorfstraße,37,a,54.80552909,9.51430366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrg,24999,Wees,Dorfstraße,37,b,54.80552143,9.51424505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrh,24999,Wees,Dorfstraße,38,,54.80553998,9.51154216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrri,24999,Wees,Dorfstraße,39,,54.80551851,9.51395629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrj,24999,Wees,Dorfstraße,4,,54.80708369,9.52086401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrk,24999,Wees,Dorfstraße,40,,54.80551859,9.51140493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrl,24999,Wees,Dorfstraße,41,,54.80541904,9.51217551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrm,24999,Wees,Dorfstraße,41,a,54.80550484,9.51249645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrn,24999,Wees,Dorfstraße,42,,54.80552058,9.51080711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrro,24999,Wees,Dorfstraße,43,,54.80534347,9.51172901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrp,24999,Wees,Dorfstraße,45,,54.8052567,9.51117607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrq,24999,Wees,Dorfstraße,47,,54.80513205,9.51060081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrr,24999,Wees,Dorfstraße,49,,54.80512759,9.51026512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrs,24999,Wees,Dorfstraße,5,,54.80686482,9.52104017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrt,24999,Wees,Dorfstraße,6,,54.80705199,9.52035783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrru,24999,Wees,Dorfstraße,7,,54.80683286,9.52051976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrv,24999,Wees,Dorfstraße,8,,54.80696925,9.52002388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrw,24999,Wees,Dorfstraße,9,,54.80655549,9.51974757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrx,24999,Wees,Geschlossenheck,1,,54.80773584,9.50470637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrry,24999,Wees,Grönholm,1,,54.80248012,9.51249464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrrz,24999,Wees,Grönholm,11,,54.8024312,9.51080537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs0,24999,Wees,Grönholm,25,,54.80246193,9.50798815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs1,24999,Wees,Grönholm,27,,54.80247449,9.50764037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs2,24999,Wees,Grönholm,29,,54.80247638,9.50725453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs3,24999,Wees,Grönholm,3,,54.80245645,9.51215371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs4,24999,Wees,Grönholm,31,,54.8024884,9.50690948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs5,24999,Wees,Grönholm,5,,54.80244809,9.51187209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs6,24999,Wees,Grönholm,7,,54.80244902,9.51151452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs7,24999,Wees,Grönholm,9,,54.80238282,9.51118212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs8,24999,Wees,Grönheck,1,,54.80284456,9.506259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrs9,24999,Wees,Grönheck,10,,54.80327956,9.50646428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsA,24999,Wees,Grönkamp,3,,54.80290379,9.51124213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsB,24999,Wees,Grönkamp,4,,54.80293057,9.51167348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsC,24999,Wees,Grönkamp,5,,54.80308278,9.51120674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsD,24999,Wees,Grönkamp,6,,54.80312952,9.51178649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsE,24999,Wees,Grönkamp,7,,54.80327785,9.5111634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsF,24999,Wees,Grönkamp,8,,54.80330535,9.51163627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsG,24999,Wees,Grönkamp,9,,54.80342952,9.51112907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsH,24999,Wees,Grönlund,1,,54.80283384,9.51311239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsI,24999,Wees,Grönlund,10,,54.803989,9.51338492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsJ,24999,Wees,Grönlund,11,,54.80399309,9.51309711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsK,24999,Wees,Grönlund,12,,54.80402789,9.51279153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsL,24999,Wees,Grönlund,13,,54.80404212,9.51251744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsM,24999,Wees,Grönlund,13,a,54.80403514,9.51239905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsN,24999,Wees,Grönlund,14,,54.80396536,9.51225791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsO,24999,Wees,Grönlund,2,,54.80300975,9.51315405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsP,24999,Wees,Grönlund,3,,54.80320461,9.51316503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsQ,24999,Wees,Grönlund,4,,54.80324734,9.51367249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsR,24999,Wees,Grönlund,5,,54.80342439,9.51363485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsS,24999,Wees,Grönlund,6,,54.80342043,9.51318306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsT,24999,Wees,Grönlund,7,,54.80360268,9.51315071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsU,24999,Wees,Grönlund,8,,54.80383203,9.51308121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsV,24999,Wees,Grönlund,9,,54.80381317,9.51338566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsW,24999,Wees,Hau-Weg,2,,54.80622891,9.55625106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsX,24999,Wees,Hau-Weg,4,,54.80683277,9.55446026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrsZ,24999,Wees,Hau-Weg,8,,54.81407358,9.55888194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsa,24999,Wees,Grönheck,12,,54.80330582,9.50664395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsb,24999,Wees,Grönheck,14,,54.80331444,9.50673446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsc,24999,Wees,Grönheck,16,,54.80351263,9.50639313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsd,24999,Wees,Grönheck,18,,54.80364089,9.50631896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrse,24999,Wees,Grönheck,2,,54.8030048,9.5065561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsf,24999,Wees,Grönheck,3,,54.80304575,9.50615083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsg,24999,Wees,Grönheck,4,,54.8030249,9.50666925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsh,24999,Wees,Grönheck,5,,54.80323337,9.506058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsi,24999,Wees,Grönheck,6,,54.80303888,9.50678185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsj,24999,Wees,Grönheck,8,,54.80326906,9.50637356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsk,24999,Wees,Grönkamp,1,,54.80273213,9.51124593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsl,24999,Wees,Grönkamp,10,,54.8034887,9.51167034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsm,24999,Wees,Grönkamp,11,,54.80362206,9.51107839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsn,24999,Wees,Grönkamp,12,,54.80365008,9.51150141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrso,24999,Wees,Grönkamp,13,,54.80378761,9.51105652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsp,24999,Wees,Grönkamp,14,,54.80382641,9.51153041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsq,24999,Wees,Grönkamp,15,,54.80394941,9.51036616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsr,24999,Wees,Grönkamp,16,,54.80406681,9.51172114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrss,24999,Wees,Grönkamp,17,,54.80386645,9.50966025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrst,24999,Wees,Grönkamp,18,,54.80410662,9.51136556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsu,24999,Wees,Grönkamp,2,,54.80274427,9.51178128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsv,24999,Wees,Grönkamp,20,,54.80413018,9.51094124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsw,24999,Wees,Grönkamp,22,,54.80417927,9.51058432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsx,24999,Wees,Grönkamp,24,,54.80422131,9.51015581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsy,24999,Wees,Grönkamp,26,,54.80418054,9.50984146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrsz,24999,Wees,Grönkamp,28,,54.80417128,9.50950505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt0,24999,Wees,Hauslücke,1,,54.80459667,9.5230797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt1,24999,Wees,Hauslücke,10,,54.80523233,9.52356735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt2,24999,Wees,Hauslücke,11,,54.80556162,9.52307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt3,24999,Wees,Hauslücke,12,,54.80540324,9.52351902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt4,24999,Wees,Hauslücke,13,,54.8056888,9.52302937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt5,24999,Wees,Hauslücke,2,,54.80453788,9.52357071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt6,24999,Wees,Hauslücke,3,,54.80476102,9.52308643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt7,24999,Wees,Hauslücke,4,,54.80470184,9.52346619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt8,24999,Wees,Hauslücke,5,a,54.80490324,9.52305733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrt9,24999,Wees,Hauslücke,5,b,54.80496436,9.52305309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtA,24999,Wees,Heideweg,18,,54.80297056,9.50817974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtB,24999,Wees,Heideweg,19,,54.80341127,9.50869633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtC,24999,Wees,Heideweg,2,,54.80457152,9.50785671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtD,24999,Wees,Heideweg,20,,54.80276625,9.50828971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtE,24999,Wees,Heideweg,21,,54.80324249,9.50870687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtF,24999,Wees,Heideweg,23,,54.80326589,9.50912736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtG,24999,Wees,Heideweg,25,,54.80303262,9.50929741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtH,24999,Wees,Heideweg,27,,54.80301703,9.50868809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtI,24999,Wees,Heideweg,29,,54.80278917,9.50871739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtJ,24999,Wees,Heideweg,3,,54.804542,9.50836498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtK,24999,Wees,Heideweg,4,,54.80434108,9.50791958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtL,24999,Wees,Heideweg,5,,54.8043594,9.50842805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtM,24999,Wees,Heideweg,6,,54.80413307,9.50799532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtN,24999,Wees,Heideweg,7,,54.80418557,9.50844516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtO,24999,Wees,Heideweg,8,,54.80391992,9.5080122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtP,24999,Wees,Heideweg,9,,54.8039907,9.50851402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtQ,24999,Wees,Himmershoi,10,,54.8046032,9.5018756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtR,24999,Wees,Himmershoi,12,,54.80461733,9.50161619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtS,24999,Wees,Himmershoi,14,,54.80457432,9.50113584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtT,24999,Wees,Himmershoi,15,,54.80418202,9.50040861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtU,24999,Wees,Himmershoi,16,,54.80451024,9.50049274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtV,24999,Wees,Himmershoi,2,,54.80449322,9.50422117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtW,24999,Wees,Himmershoi,2,a,54.80445472,9.5038296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtX,24999,Wees,Himmershoi,4,,54.80462358,9.50278056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtY,24999,Wees,Himmershoi,6,,54.80462403,9.50253319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrtZ,24999,Wees,Himmershoi,8,,54.8045998,9.50215601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrta,24999,Wees,Hauslücke,6,,54.80486522,9.52349232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtb,24999,Wees,Hauslücke,7,,54.80511326,9.52305825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtc,24999,Wees,Hauslücke,8,,54.80504668,9.52348654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtd,24999,Wees,Hauslücke,9,,54.80529225,9.52306121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrte,24999,Wees,Heidefeld,1,,54.80283871,9.50981577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtf,24999,Wees,Heidefeld,10,,54.80346963,9.51022656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtg,24999,Wees,Heidefeld,11,,54.80361894,9.50965513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrth,24999,Wees,Heidefeld,12,,54.80368323,9.51010448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrti,24999,Wees,Heidefeld,2,,54.80280625,9.51019406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtj,24999,Wees,Heidefeld,3,,54.80303336,9.50984718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtk,24999,Wees,Heidefeld,4,,54.80296316,9.51022823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtl,24999,Wees,Heidefeld,5,,54.80321796,9.50981373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtm,24999,Wees,Heidefeld,6,,54.80311871,9.51023393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtn,24999,Wees,Heidefeld,7,,54.80340387,9.50976109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrto,24999,Wees,Heidefeld,8,,54.80329546,9.51026535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtp,24999,Wees,Heidefeld,9,,54.80362777,9.50977354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtq,24999,Wees,Heideweg,1,,54.80470724,9.50826954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtr,24999,Wees,Heideweg,10,,54.80372655,9.50805708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrts,24999,Wees,Heideweg,11,,54.80383165,9.50855352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtt,24999,Wees,Heideweg,12,,54.80349223,9.50810235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtu,24999,Wees,Heideweg,13,,54.80362018,9.50859414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtv,24999,Wees,Heideweg,14,,54.80334201,9.50814535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtw,24999,Wees,Heideweg,15,,54.80366414,9.50904174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtx,24999,Wees,Heideweg,16,,54.80322694,9.50817505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrty,24999,Wees,Heideweg,16,b,54.8031158,9.5076727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrtz,24999,Wees,Heideweg,17,,54.80346101,9.50909056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru0,24999,Wees,Im Winkel,1,,54.8081015,9.52525159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru1,24999,Wees,Im Winkel,10,,54.80888664,9.52542935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru2,24999,Wees,Im Winkel,12,,54.80907434,9.5254325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru3,24999,Wees,Im Winkel,14,,54.80938302,9.52556348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru4,24999,Wees,Im Winkel,16,,54.80941607,9.52576444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru5,24999,Wees,Im Winkel,18,,54.8096882,9.52581463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru6,24999,Wees,Im Winkel,18,a,54.80958285,9.52582721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru7,24999,Wees,Im Winkel,2,,54.80816168,9.52563048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru8,24999,Wees,Im Winkel,20,,54.80957216,9.52556085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nru9,24999,Wees,Im Winkel,22,,54.80956965,9.52530645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruA,24999,Wees,Kolk,2,,54.80875009,9.52638451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruB,24999,Wees,Kolk,20,,54.80898636,9.52790366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruC,24999,Wees,Kolk,21,,54.80897301,9.52756737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruD,24999,Wees,Kolk,22,,54.80890819,9.52723874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruE,24999,Wees,Kolk,3,,54.80868871,9.52612538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruF,24999,Wees,Kolk,4,,54.80888145,9.52623435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruG,24999,Wees,Kolk,5,,54.8089988,9.52662039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruH,24999,Wees,Kolk,5,a,54.80907011,9.52657366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruI,24999,Wees,Kolk,6,,54.80920977,9.52643298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruJ,24999,Wees,Kolk,7,,54.80937866,9.5264405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruK,24999,Wees,Kolk,8,,54.80954748,9.52645466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruL,24999,Wees,Kolk,9,,54.80976767,9.52648307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruM,24999,Wees,Kaschestraße,1,,54.80683628,9.51655598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruN,24999,Wees,Kaschestraße,2,,54.80707848,9.51715729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruO,24999,Wees,Kaschestraße,3,,54.80703486,9.51653902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruP,24999,Wees,Kaschestraße,4,,54.80715308,9.51714718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruQ,24999,Wees,Kaschestraße,5,,54.80728727,9.51652455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruR,24999,Wees,Kaschestraße,6,,54.80728676,9.51698949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruS,24999,Wees,Kaschestraße,7,a,54.80747171,9.5163818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruT,24999,Wees,Kaschestraße,7,b,54.80754001,9.51637592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruU,24999,Wees,Kaschestraße,7,c,54.8076047,9.51637034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruV,24999,Wees,Lange Straße,2,,54.80787728,9.53845395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruW,24999,Wees,Lange Straße,2,a,54.80788986,9.5386409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruX,24999,Wees,Mittelweg,1,,54.8051755,9.52015431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruY,24999,Wees,Mittelweg,3,,54.80512521,9.51989662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NruZ,24999,Wees,Mittelweg,5,,54.8051034,9.51963495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrua,24999,Wees,Im Winkel,24,,54.80951186,9.52499467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrub,24999,Wees,Im Winkel,26,,54.80948619,9.52465334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruc,24999,Wees,Im Winkel,28,,54.8095431,9.52440521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrud,24999,Wees,Im Winkel,3,,54.80917635,9.52507268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrue,24999,Wees,Im Winkel,30,,54.80958433,9.52411054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruf,24999,Wees,Im Winkel,31,,54.80930779,9.52432766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrug,24999,Wees,Im Winkel,32,,54.80907868,9.52424889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruh,24999,Wees,Im Winkel,34,,54.80891012,9.52425449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrui,24999,Wees,Im Winkel,36,,54.80869621,9.52420771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruj,24999,Wees,Im Winkel,38,,54.80870092,9.52454485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruk,24999,Wees,Im Winkel,4,,54.80829728,9.52548789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrul,24999,Wees,Im Winkel,40,,54.80867645,9.52504843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrum,24999,Wees,Im Winkel,5,,54.8092815,9.5246759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrun,24999,Wees,Im Winkel,6,,54.80852361,9.52543732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruo,24999,Wees,Im Winkel,8,,54.80869041,9.52545014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrup,24999,Wees,Kolk,1,,54.80878888,9.52677374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruq,24999,Wees,Kolk,10,,54.80971405,9.52689434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrur,24999,Wees,Kolk,11,,54.8094911,9.52695179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrus,24999,Wees,Kolk,12,,54.80922152,9.52693819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrut,24999,Wees,Kolk,13,,54.80920457,9.52732962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruu,24999,Wees,Kolk,14,,54.80948207,9.52751565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruv,24999,Wees,Kolk,15,,54.80973491,9.52727415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruw,24999,Wees,Kolk,16,,54.80972598,9.52765503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrux,24999,Wees,Kolk,17,,54.80970059,9.52807768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruy,24999,Wees,Kolk,18,,54.80944308,9.52798673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nruz,24999,Wees,Kolk,19,,54.80922361,9.52785622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv0,24999,Wees,Moorstraße,1,,54.80446163,9.52419344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv1,24999,Wees,Moorstraße,1,a,54.80460348,9.52421467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv2,24999,Wees,Moorstraße,1,b,54.80467896,9.52421061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv3,24999,Wees,Moorstraße,10,,54.8050005,9.52483017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv4,24999,Wees,Moorstraße,10,a,54.80506339,9.52482606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv5,24999,Wees,Moorstraße,11,,54.8054203,9.52416862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv6,24999,Wees,Moorstraße,12,,54.80523976,9.52471483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv7,24999,Wees,Moorstraße,13,,54.80626808,9.52456796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv8,24999,Wees,Moorstraße,14,,54.80540502,9.52468507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrv9,24999,Wees,Moorstraße,15,,54.80602736,9.52426473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvA,24999,Wees,Moorstraße,6,,54.80470424,9.52478193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvB,24999,Wees,Moorstraße,7,,54.80511659,9.52418615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvC,24999,Wees,Moorstraße,8,,54.80486606,9.52476098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvD,24999,Wees,Moorstraße,9,,54.80527113,9.52417628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvE,24999,Wees,Norderstraße,1,,54.8079151,9.52207315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvF,24999,Wees,Norderstraße,1,a,54.80761018,9.52228576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvG,24999,Wees,Norderstraße,10,,54.80991987,9.52140699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvH,24999,Wees,Norderstraße,10,a,54.80984046,9.52207691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvI,24999,Wees,Norderstraße,12,,54.81049878,9.52198701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvJ,24999,Wees,Norderstraße,14,,54.80988187,9.51973163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvK,24999,Wees,Norderstraße,16,,54.80983797,9.51931438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvL,24999,Wees,Norderstraße,18,,54.81047855,9.51780569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvM,24999,Wees,Norderstraße,19,,54.81166065,9.51630296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvN,24999,Wees,Norderstraße,2,,54.80800306,9.52257965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvO,24999,Wees,Norderstraße,20,,54.81117627,9.51702691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvP,24999,Wees,Norderstraße,21,,54.81058812,9.5129386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvQ,24999,Wees,Norderstraße,3,,54.80815004,9.52213694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvR,24999,Wees,Norderstraße,4,,54.80810723,9.52283146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvS,24999,Wees,Norderstraße,5,,54.8083696,9.52200579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvT,24999,Wees,Norderstraße,6,,54.80815268,9.52320573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvU,24999,Wees,Norderstraße,6,a,54.80808662,9.52357871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvV,24999,Wees,Norderstraße,7,,54.80859914,9.52184018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvW,24999,Wees,Norderstraße,8,,54.80876835,9.52213606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvX,24999,Wees,Norderstraße,9,,54.80880765,9.52143992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvY,24999,Wees,Oxbüll-Nord,1,,54.80690341,9.53725081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrvZ,24999,Wees,Oxbüll-Nord,10,,54.80332924,9.53710746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrva,24999,Wees,Moorstraße,16,a,54.80582805,9.52485483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvb,24999,Wees,Moorstraße,16,b,54.80587715,9.52491939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvc,24999,Wees,Moorstraße,17,,54.80639877,9.52419486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvd,24999,Wees,Moorstraße,18,a,54.80604639,9.52519973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrve,24999,Wees,Moorstraße,18,b,54.80598681,9.52530646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvf,24999,Wees,Moorstraße,19,,54.80648735,9.52556312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvg,24999,Wees,Moorstraße,19,a,54.80655422,9.52550328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvh,24999,Wees,Moorstraße,20,a,54.80622714,9.52551101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvi,24999,Wees,Moorstraße,20,b,54.80619644,9.52541851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvj,24999,Wees,Moorstraße,21,,54.80666833,9.52577505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvk,24999,Wees,Moorstraße,22,,54.80627788,9.52575357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvl,24999,Wees,Moorstraße,23,,54.80685809,9.5260579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvm,24999,Wees,Moorstraße,24,,54.80629436,9.52609452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvn,24999,Wees,Moorstraße,24,a,54.80623926,9.52616997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvo,24999,Wees,Moorstraße,26,,54.80640439,9.52633472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvp,24999,Wees,Moorstraße,28,,54.80654507,9.52645902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvq,24999,Wees,Moorstraße,3,,54.80480117,9.52420307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvr,24999,Wees,Moorstraße,30,,54.80670229,9.52653451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvs,24999,Wees,Moorstraße,32,,54.80686895,9.5265651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvt,24999,Wees,Moorstraße,34,,54.80703271,9.52646783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvu,24999,Wees,Moorstraße,36,,54.80720313,9.52640016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvv,24999,Wees,Moorstraße,38,,54.80732703,9.52623892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvw,24999,Wees,Moorstraße,4,,54.80455639,9.52469549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvx,24999,Wees,Moorstraße,40,,54.80768103,9.52613133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvy,24999,Wees,Moorstraße,42,,54.80769613,9.52631021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrvz,24999,Wees,Moorstraße,5,,54.80495758,9.52419374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw0,24999,Wees,Oxbüll-Nord,2,,54.8063652,9.53427303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw1,24999,Wees,Oxbüll-Nord,2,a,54.80761074,9.53681007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw2,24999,Wees,Oxbüll-Nord,3,,54.80650254,9.53670783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw3,24999,Wees,Oxbüll-Nord,4,,54.80484948,9.53579932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw4,24999,Wees,Oxbüll-Nord,5,,54.80464517,9.53725587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw5,24999,Wees,Oxbüll-Nord,6,,54.80405284,9.53712623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw6,24999,Wees,Oxbüll-Nord,7,,54.80437507,9.53782699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw7,24999,Wees,Oxbüll-Nord,8,,54.80305087,9.53490992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw8,24999,Wees,Oxbüll-Nord,9,,54.80279259,9.53744016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrw9,24999,Wees,Oxbüll-Süd,1,,54.80196679,9.53591941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwA,24999,Wees,Oxbüll-Süd,3,,54.80179632,9.53606297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwB,24999,Wees,Oxbüll-Süd,3,a,54.80173075,9.53608489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwC,24999,Wees,Oxbüll-Süd,3,b,54.80159763,9.53609426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwD,24999,Wees,Oxbüll-Süd,3,c,54.80153125,9.53611684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwE,24999,Wees,Oxbüll-Süd,3,d,54.80140856,9.53619464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwF,24999,Wees,Oxbüll-Süd,3,e,54.80134199,9.53621715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwG,24999,Wees,Oxbüll-Süd,3,f,54.80121507,9.53625333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwH,24999,Wees,Oxbüll-Süd,3,g,54.80124042,9.53647295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwI,24999,Wees,Oxbüll-Süd,30,,54.79789697,9.54224566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwJ,24999,Wees,Oxbüll-Süd,4,,54.8017755,9.53498178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwK,24999,Wees,Oxbüll-Süd,5,,54.80098875,9.536038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwL,24999,Wees,Oxbüll-Süd,6,,54.8016124,9.53521077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwM,24999,Wees,Oxbüll-Süd,7,,54.80085796,9.53601954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwN,24999,Wees,Oxbüll-Süd,8,,54.80134986,9.53468113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwO,24999,Wees,Oxbüll-Süd,9,,54.80073249,9.53612002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwQ,24999,Wees,Peerekopp,10,,54.80444482,9.52154966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwR,24999,Wees,Peerekopp,11,,54.80554863,9.52071762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwS,24999,Wees,Peerekopp,12,,54.8044051,9.52180925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwT,24999,Wees,Peerekopp,13,,54.80494152,9.5210789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwU,24999,Wees,Peerekopp,14,,54.80438453,9.52208388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwV,24999,Wees,Peerekopp,15,,54.80446231,9.52363284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwW,24999,Wees,Peerekopp,16,,54.80436387,9.5223909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwX,24999,Wees,Peerekopp,17,,54.80442564,9.52402743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwY,24999,Wees,Peerekopp,18,,54.80427444,9.52296169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrwZ,24999,Wees,Peerekopp,2,,54.80557869,9.52020048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwa,24999,Wees,Oxbüll-Süd,1,a,54.80191007,9.53593857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwb,24999,Wees,Oxbüll-Süd,10,,54.80105033,9.53464166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwc,24999,Wees,Oxbüll-Süd,10,a,54.8009434,9.53545055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwd,24999,Wees,Oxbüll-Süd,11,,54.80053186,9.53663779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwe,24999,Wees,Oxbüll-Süd,12,,54.80026115,9.53568448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwf,24999,Wees,Oxbüll-Süd,13,,54.80044128,9.53620068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwg,24999,Wees,Oxbüll-Süd,13,a,54.79978155,9.53650726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwh,24999,Wees,Oxbüll-Süd,14,,54.80011361,9.53565975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwi,24999,Wees,Oxbüll-Süd,15,,54.79947761,9.53638992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwj,24999,Wees,Oxbüll-Süd,15,a,54.79955781,9.536719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwk,24999,Wees,Oxbüll-Süd,15,b,54.79949325,9.53670987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwl,24999,Wees,Oxbüll-Süd,15,c,54.79937748,9.53669343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwm,24999,Wees,Oxbüll-Süd,16,,54.79998861,9.5356826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwn,24999,Wees,Oxbüll-Süd,17,,54.79911052,9.5365591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwo,24999,Wees,Oxbüll-Süd,18,,54.79983465,9.53562786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwp,24999,Wees,Oxbüll-Süd,19,,54.79889735,9.53657869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwq,24999,Wees,Oxbüll-Süd,2,,54.80210986,9.5350339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwr,24999,Wees,Oxbüll-Süd,2,a,54.80194739,9.53514339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrws,24999,Wees,Oxbüll-Süd,21,,54.79871617,9.53655158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwt,24999,Wees,Oxbüll-Süd,22,,54.79961134,9.53587319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwu,24999,Wees,Oxbüll-Süd,23,,54.79850166,9.53651142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwv,24999,Wees,Oxbüll-Süd,24,,54.79941391,9.53601437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrww,24999,Wees,Oxbüll-Süd,25,,54.79829138,9.53646195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwx,24999,Wees,Oxbüll-Süd,26,,54.79926784,9.53609907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwy,24999,Wees,Oxbüll-Süd,28,,54.7979997,9.53639331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrwz,24999,Wees,Oxbüll-Süd,29,,54.79798927,9.54151568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx0,24999,Wees,Peerekopp,2,a,54.80610093,9.52003887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx1,24999,Wees,Peerekopp,20,,54.80428876,9.52323388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx2,24999,Wees,Peerekopp,22,,54.80426429,9.52349784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx3,24999,Wees,Peerekopp,24,,54.80423141,9.5238598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx4,24999,Wees,Peerekopp,24,a,54.80424104,9.52375266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx5,24999,Wees,Peerekopp,26,,54.80422156,9.52396865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx6,24999,Wees,Peerekopp,3,,54.80633572,9.52032627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx7,24999,Wees,Peerekopp,4,,54.80540919,9.52027611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx8,24999,Wees,Peerekopp,4,a,54.80517312,9.52046051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrx9,24999,Wees,Peerekopp,5,,54.80611093,9.52042699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxA,24999,Wees,Rothenhaus,4,,54.81728118,9.52437352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxC,24999,Wees,Rothenhaus,6,,54.81843353,9.52452116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxD,24999,Wees,Rothenhaus,7,,54.81850238,9.52455428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxE,24999,Wees,Rüllschauer Weg,1,,54.79233787,9.52515304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxF,24999,Wees,Süderfeld,1,,54.80054258,9.53560303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxG,24999,Wees,Süderfeld,10,,54.80061593,9.53349508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxH,24999,Wees,Süderfeld,11,,54.8004604,9.53372878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxI,24999,Wees,Süderfeld,12,,54.80067923,9.53298636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxJ,24999,Wees,Süderfeld,13,,54.80044752,9.53349208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxK,24999,Wees,Süderfeld,14,,54.80058375,9.53266679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxL,24999,Wees,Süderfeld,15,,54.80036922,9.53313501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxM,24999,Wees,Süderfeld,17,,54.80035187,9.53265185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxN,24999,Wees,Süderfeld,2,a,54.80076503,9.53556836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxO,24999,Wees,Süderfeld,2,b,54.80075324,9.53532567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxP,24999,Wees,Süderfeld,3,,54.80052236,9.53518285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxQ,24999,Wees,Süderfeld,4,,54.80085706,9.53498033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxR,24999,Wees,Süderfeld,5,,54.80050428,9.53487968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxS,24999,Wees,Süderfeld,6,,54.80075436,9.53460717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxT,24999,Wees,Süderfeld,7,,54.80047982,9.53449405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxU,24999,Wees,Süderfeld,8,,54.80071265,9.53421018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxV,24999,Wees,Süderfeld,9,,54.80046086,9.53418488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxW,24999,Wees,Süderlücke,1,,54.80556121,9.51980734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxX,24999,Wees,Süderlücke,10,,54.80563656,9.51868225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxY,24999,Wees,Süderlücke,11,,54.80484395,9.51950544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrxZ,24999,Wees,Süderlücke,12,,54.80541377,9.51881947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxa,24999,Wees,Peerekopp,6,,54.80500039,9.52056746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxb,24999,Wees,Peerekopp,7,,54.80596274,9.52049558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxc,24999,Wees,Peerekopp,8,,54.8045879,9.52098412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxd,24999,Wees,Peerekopp,8,a,54.80448978,9.52126904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxe,24999,Wees,Peerekopp,9,,54.80575753,9.52063118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxf,24999,Wees,Rosgaard,1,,54.79723285,9.5360857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxg,24999,Wees,Rosgaard,10,,54.79289988,9.53742972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxh,24999,Wees,Rosgaard,11,,54.79252522,9.53936331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxi,24999,Wees,Rosgaard,12,,54.79258938,9.54013989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxj,24999,Wees,Rosgaard,13,,54.7926566,9.53971974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxk,24999,Wees,Rosgaard,14,,54.79359359,9.5425557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxl,24999,Wees,Rosgaard,16,,54.79726494,9.5428732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxm,24999,Wees,Rosgaard,18,,54.79797511,9.54021296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxn,24999,Wees,Rosgaard,2,,54.79653758,9.53589903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxo,24999,Wees,Rosgaard,3,,54.79467625,9.53654708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxp,24999,Wees,Rosgaard,4,,54.79611501,9.53582271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxq,24999,Wees,Rosgaard,5,,54.79311289,9.53667034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxr,24999,Wees,Rosgaard,6,,54.79453714,9.53636512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxs,24999,Wees,Rosgaard,6,a,54.79420044,9.53619844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxt,24999,Wees,Rosgaard,7,,54.79078247,9.53539641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxu,24999,Wees,Rosgaard,8,,54.79401678,9.53646733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxv,24999,Wees,Rosgaard,9,,54.79239437,9.53877744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxw,24999,Wees,Rosgaard,9,a,54.79304359,9.53779275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxx,24999,Wees,Rothenhaus,1,,54.81828507,9.5242103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxy,24999,Wees,Rothenhaus,2,,54.81705094,9.52425426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrxz,24999,Wees,Rothenhaus,3,,54.81847537,9.5242816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry0,24999,Wees,Süderlücke,13,,54.80481711,9.51993457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry1,24999,Wees,Süderlücke,14,,54.80523799,9.51893167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry2,24999,Wees,Süderlücke,15,,54.80486195,9.52022748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry3,24999,Wees,Süderlücke,16,,54.80506633,9.51899765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry4,24999,Wees,Süderlücke,18,,54.80489789,9.51906939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry5,24999,Wees,Süderlücke,2,,54.80585129,9.52006604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry6,24999,Wees,Süderlücke,20,,54.8046366,9.51907011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry7,24999,Wees,Süderlücke,22,,54.80463719,9.51929637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry8,24999,Wees,Süderlücke,24,,54.80461317,9.51958823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nry9,24999,Wees,Süderlücke,26,,54.80460178,9.51987265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryA,24999,Wees,Schmiedehof,8,,54.80824779,9.52391414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryB,24999,Wees,Schmiedehof,9,,54.80824779,9.52391414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryC,24999,Wees,Schmiedestraße,1,,54.80757567,9.52277124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryD,24999,Wees,Schmiedestraße,10,,54.8075662,9.52454375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryE,24999,Wees,Schmiedestraße,11,a,54.80826781,9.52649844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryF,24999,Wees,Schmiedestraße,11,b,54.80833813,9.52647593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryG,24999,Wees,Schmiedestraße,12,,54.80762856,9.52483729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryH,24999,Wees,Schmiedestraße,13,a,54.80834508,9.52670157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryI,24999,Wees,Schmiedestraße,13,b,54.8083655,9.52679504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryJ,24999,Wees,Schmiedestraße,13,c,54.80838305,9.52687619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryK,24999,Wees,Schmiedestraße,13,d,54.80840163,9.5269619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryL,24999,Wees,Schmiedestraße,13,e,54.80841951,9.52704439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryM,24999,Wees,Schmiedestraße,14,,54.80764093,9.52511093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryN,24999,Wees,Schmiedestraße,14,a,54.80765981,9.52520886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryO,24999,Wees,Schmiedestraße,15,,54.80855078,9.52749904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryP,24999,Wees,Schmiedestraße,16,,54.80771705,9.52546467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryQ,24999,Wees,Schmiedestraße,17,,54.8085215,9.52780363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryR,24999,Wees,Schmiedestraße,18,,54.80794424,9.52609269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryS,24999,Wees,Schmiedestraße,19,,54.80869849,9.52806547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryT,24999,Wees,Schmiedestraße,2,,54.80727948,9.52291694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryU,24999,Wees,Schmiedestraße,2,a,54.80730947,9.52334376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryV,24999,Wees,Schmiedestraße,25,,54.80764442,9.53462205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryW,24999,Wees,Schmiedestraße,27,,54.80769371,9.53515272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryX,24999,Wees,Schmiedestraße,29,,54.80773514,9.53538958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryY,24999,Wees,Schmiedestraße,3,,54.80756685,9.52304838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NryZ,24999,Wees,Schmiedestraße,3,a,54.80760033,9.52324001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrya,24999,Wees,Süderlücke,28,,54.80459103,9.52015893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryb,24999,Wees,Süderlücke,3,,54.80552632,9.51952701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryc,24999,Wees,Süderlücke,30,,54.8045822,9.52041656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryd,24999,Wees,Süderlücke,32,,54.80469391,9.52073873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrye,24999,Wees,Süderlücke,4,,54.80577192,9.5197322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryf,24999,Wees,Süderlücke,5,,54.80543508,9.51924135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryg,24999,Wees,Süderlücke,6,,54.80572961,9.5193989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryh,24999,Wees,Süderlücke,7,,54.80522334,9.51928184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryi,24999,Wees,Süderlücke,8,,54.80568278,9.51903735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryj,24999,Wees,Süderlücke,9,,54.80503247,9.51934866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryk,24999,Wees,Schmiedehof,1,,54.80788142,9.52406972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryl,24999,Wees,Schmiedehof,10,,54.80824779,9.52391414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrym,24999,Wees,Schmiedehof,11,,54.80812051,9.52437498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryn,24999,Wees,Schmiedehof,12,,54.80812051,9.52437498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryo,24999,Wees,Schmiedehof,13,,54.80812051,9.52437498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryp,24999,Wees,Schmiedehof,14,,54.80812051,9.52437498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryq,24999,Wees,Schmiedehof,15,,54.80844929,9.52422226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryr,24999,Wees,Schmiedehof,16,,54.80844929,9.52422226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrys,24999,Wees,Schmiedehof,17,,54.80844929,9.52422226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryt,24999,Wees,Schmiedehof,18,,54.80844929,9.52422226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryu,24999,Wees,Schmiedehof,2,,54.80788142,9.52406972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryv,24999,Wees,Schmiedehof,3,,54.80788142,9.52406972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryw,24999,Wees,Schmiedehof,4,,54.80788142,9.52406972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryx,24999,Wees,Schmiedehof,5,,54.80788142,9.52406972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryy,24999,Wees,Schmiedehof,6,,54.80824779,9.52391414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nryz,24999,Wees,Schmiedehof,7,,54.80824779,9.52391414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz0,24999,Wees,Schmiedestraße,31,,54.80781434,9.53566734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz1,24999,Wees,Schmiedestraße,33,,54.80795913,9.53587205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz2,24999,Wees,Schmiedestraße,35,,54.80802789,9.5367117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz3,24999,Wees,Schmiedestraße,35,a,54.80819091,9.53627328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz4,24999,Wees,Schmiedestraße,4,,54.80741436,9.52382619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz5,24999,Wees,Schmiedestraße,5,,54.80762471,9.52351525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz6,24999,Wees,Schmiedestraße,6,,54.80746161,9.52403538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz7,24999,Wees,Schmiedestraße,7,a,54.80798721,9.52492168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz8,24999,Wees,Schmiedestraße,7,b,54.80805188,9.52490749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrz9,24999,Wees,Schmiedestraße,7,c,54.80810688,9.52486815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzA,24999,Wees,Schulstraße,2,,54.80029706,9.53649041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzB,24999,Wees,Schulstraße,3,,54.80010405,9.53679637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzC,24999,Wees,Schulstraße,4,,54.80040131,9.53735184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzD,24999,Wees,Schulstraße,5,,54.80011115,9.5372572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzE,24999,Wees,Schulstraße,6,,54.80042607,9.53777349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzF,24999,Wees,Schulstraße,7,,54.79982505,9.53729095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzG,24999,Wees,Schulstraße,8,,54.80081264,9.53759458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzH,24999,Wees,Schulstraße,9,,54.79964683,9.53725606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzI,24999,Wees,Ulstrup,1,,54.81445421,9.54425238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzJ,24999,Wees,Ulstrup,1,a,54.81467811,9.54359908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzK,24999,Wees,Ulstrup,10,,54.81417215,9.54844114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzL,24999,Wees,Ulstrup,11,,54.81423153,9.54761031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzM,24999,Wees,Ulstrup,12,,54.81439378,9.54922816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzN,24999,Wees,Ulstrup,13,,54.81465189,9.54750512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzO,24999,Wees,Ulstrup,14,,54.81386358,9.54932376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzP,24999,Wees,Ulstrup,15,,54.81456728,9.54777796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzQ,24999,Wees,Ulstrup,16,,54.81358569,9.54930882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzR,24999,Wees,Ulstrup,17,,54.81437289,9.54793468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzS,24999,Wees,Ulstrup,19,,54.81448248,9.54833921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzT,24999,Wees,Ulstrup,2,,54.81337048,9.54529658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzU,24999,Wees,Ulstrup,21,,54.81497804,9.54760925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzV,24999,Wees,Ulstrup,21,a,54.81518569,9.54761747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzW,24999,Wees,Ulstrup,23,,54.81533188,9.54817392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzX,24999,Wees,Ulstrup,25,,54.81470929,9.54870222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzY,24999,Wees,Ulstrup,27,,54.81404369,9.54987543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrzZ,24999,Wees,Ulstrup,29,,54.81382613,9.54985894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrza,24999,Wees,Schmiedestraße,7,d,54.80816801,9.52485463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzb,24999,Wees,Schmiedestraße,8,,54.80751292,9.52427664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzc,24999,Wees,Schmiedestraße,9,,54.80820098,9.52611137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzd,24999,Wees,Schmidtlücke,1,,54.80717009,9.5259044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrze,24999,Wees,Schmidtlücke,10,,54.8070343,9.524451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzf,24999,Wees,Schmidtlücke,12,,54.80694184,9.52416826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzg,24999,Wees,Schmidtlücke,14,,54.80684156,9.52378556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzh,24999,Wees,Schmidtlücke,16,,54.80673695,9.52333427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzi,24999,Wees,Schmidtlücke,2,,54.8073422,9.52576097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzj,24999,Wees,Schmidtlücke,3,,54.80705638,9.52553655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzk,24999,Wees,Schmidtlücke,4,,54.80736011,9.52540181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzl,24999,Wees,Schmidtlücke,5,,54.80697113,9.52523254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzm,24999,Wees,Schmidtlücke,6,,54.80719096,9.52512334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzn,24999,Wees,Schmidtlücke,7,,54.80663671,9.52381496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzo,24999,Wees,Schmidtlücke,8,,54.80712903,9.52477691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzp,24999,Wees,Schmidtlücke,9,,54.80652952,9.52352734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzq,24999,Wees,Schönmai,1,,54.805059,9.51301992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzr,24999,Wees,Schönmai,2,,54.80550099,9.51287274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzs,24999,Wees,Schönmai,3,,54.80511062,9.51265903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzt,24999,Wees,Schönmai,4,,54.80531936,9.51290992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzu,24999,Wees,Schulstraße,1,,54.80005899,9.53641614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzv,24999,Wees,Schulstraße,10,,54.80081933,9.53771281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzw,24999,Wees,Schulstraße,11,,54.79949326,9.53718004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzx,24999,Wees,Schulstraße,12,,54.80108602,9.53752268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzy,24999,Wees,Schulstraße,13,,54.79932528,9.53723212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nrzz,24999,Wees,Schulstraße,14,,54.80109243,9.53763791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004HXYX,24999,Wees,Birklück,7,,54.80549068,9.50938751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UbL0,24999,Wees,Birklück,11,,54.80596338,9.50759614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UbL6,24999,Wees,Birklück,6,,54.8055088,9.50989727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004akqU,24999,Wees,Wiesenbogen,28,,54.80530916,9.52623159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000569IR,24999,Wees,Birklück,3,,54.80672548,9.5096408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057J4C,24999,Wees,Oxbüll-Süd,11,a,54.80080195,9.53687987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057qJC,24999,Wees,Großacker,3,,54.8055459,9.51797877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057qJw,24999,Wees,Großacker,5,,54.80580267,9.51791281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059xaj,24999,Wees,Himmershoi,4,a,54.80467623,9.50303322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005DDEe,24999,Wees,Birkland,10,,54.8078189,9.50898512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005DECr,24999,Wees,Birklück,1,,54.80743225,9.50981953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005DsmC,24999,Wees,Birkland,12,,54.8078297,9.50840562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GJwc,24999,Wees,Marrensmoor,44,a,54.80675831,9.52954296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GJwd,24999,Wees,Marrensmoor,44,b,54.80677814,9.52965615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtsC,24999,Wees,Dorfstraße,13,a,54.80609344,9.51890641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JIcl,24999,Wees,Ulstrupfeld,3,a,54.82283013,9.54020265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KUgG,24999,Wees,Schmiedestraße,28,a,54.80823428,9.52831043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KUgL,24999,Wees,Schmiedestraße,28,b,54.8083068,9.52830332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RVKH,24999,Wees,Am Bahnhof,5,a,54.80476914,9.50684025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005S70Y,24999,Wees,Schmidtlücke,5,a,54.80678543,9.52425969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VZN8,24999,Wees,Marrensmoor,22,a,54.80625514,9.5281678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VZN9,24999,Wees,Marrensmoor,22,b,54.80617317,9.52820625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VZNm,24999,Wees,Marrensmoor,10,a,54.80769625,9.52796115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VZNn,24999,Wees,Marrensmoor,10,b,54.80767837,9.52783639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a9y4,24999,Wees,Dorfstraße,13,b,54.80599682,9.51858643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fPUg,24999,Wees,Birklück,8,,54.80542046,9.50905686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iw1t,24999,Wees,Dorfstraße,10,b,54.80667335,9.51892152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re2G,24999,Wees,Marrensmoor,50,,54.80733989,9.52906312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re2M,24999,Wees,Marrensmoor,52,,54.80742363,9.52939861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re2S,24999,Wees,Marrensmoor,48,,54.80710542,9.5293481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re2Y,24999,Wees,Marrensmoor,46,,54.80694166,9.52940612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re34,24999,Wees,Marrensmoor,21,,54.80697984,9.528939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3a,24999,Wees,Marrensmoor,23,,54.8069444,9.52865827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3d,24999,Wees,Marrensmoor,4,,54.80790837,9.52797212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3g,24999,Wees,Marrensmoor,19,,54.80668629,9.52916725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3j,24999,Wees,Marrensmoor,1,,54.80803696,9.52839705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3m,24999,Wees,Marrensmoor,5,,54.80657613,9.52853052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005re3p,24999,Wees,Marrensmoor,3,,54.80684672,9.52831093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWB,24999,Wees,Schmiedestraße,24,,54.80817517,9.52743974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWM,24999,Wees,Schmiedestraße,30,,54.80836049,9.52856382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWO,24999,Wees,Schmiedestraße,32,,54.80833602,9.52884494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWQ,24999,Wees,Schmiedestraße,34,,54.80831879,9.52910497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWS,24999,Wees,Marrensmoor,2,,54.80808856,9.52792717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWU,24999,Wees,Marrensmoor,6,,54.80786799,9.52746841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWW,24999,Wees,Marrensmoor,8,,54.80761032,9.52758003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWY,24999,Wees,Marrensmoor,12,,54.80737234,9.52759775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgWw,24999,Wees,Schmiedestraße,22,,54.8081354,9.52720638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgX1,24999,Wees,Marrensmoor,14,,54.80718703,9.52779333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgX4,24999,Wees,Marrensmoor,16,,54.80685133,9.52792087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgX5,24999,Wees,Marrensmoor,38,,54.80618546,9.52989716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXA,24999,Wees,Marrensmoor,28,,54.80571405,9.52870259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXD,24999,Wees,Marrensmoor,11,,54.80600796,9.52891011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXE,24999,Wees,Marrensmoor,30,,54.80579613,9.52906489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXI,24999,Wees,Marrensmoor,32,,54.80584816,9.52941237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXL,24999,Wees,Marrensmoor,13,,54.80611043,9.52942992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXM,24999,Wees,Marrensmoor,34,,54.80594812,9.52973261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXQ,24999,Wees,Marrensmoor,36,,54.80599642,9.53011341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXR,24999,Wees,Marrensmoor,15,,54.80633703,9.52937151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXW,24999,Wees,Marrensmoor,17,,54.80654054,9.52925113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXa,24999,Wees,Marrensmoor,18,,54.80664231,9.52802715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXb,24999,Wees,Marrensmoor,40,,54.80638826,9.52974717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXe,24999,Wees,Marrensmoor,20,,54.80642629,9.52811587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXh,24999,Wees,Marrensmoor,42,,54.80658542,9.5296751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXo,24999,Wees,Marrensmoor,24,,54.80601113,9.52835407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXt,24999,Wees,Marrensmoor,7,,54.80640257,9.52864966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXu,24999,Wees,Marrensmoor,26,,54.80582984,9.52841879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rgXz,24999,Wees,Marrensmoor,9,,54.80621445,9.52871315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sebU,24999,Wees,Birklück,15,,54.80652895,9.50843523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vkMD,24999,Wees,Birklück,14,,54.8066274,9.50893752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vkMk,24999,Wees,Birklück,13,a,54.80616212,9.50912451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vkMs,24999,Wees,Birklück,13,b,54.80588936,9.50882021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vw2J,24999,Wees,Wiesenbogen,14,b,54.80404719,9.52574211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vw2P,24999,Wees,Wiesenbogen,14,a,54.80403474,9.52586442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DBX,24999,Wees,Kaswai,12,,54.80632289,9.52752486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DBt,24999,Wees,Kaswai,13,,54.80654813,9.52745159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DC2,24999,Wees,Kaswai,11,,54.80612037,9.52757552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DC3,24999,Wees,Kaswai,9,,54.80586417,9.52743372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCJ,24999,Wees,Kaswai,5,,54.80639514,9.52711602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCT,24999,Wees,Kaswai,4,,54.80659423,9.52717599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCY,24999,Wees,Kaswai,3,,54.80683154,9.52723628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCb,24999,Wees,Kaswai,7,,54.80596865,9.52695154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCc,24999,Wees,Kaswai,10,,54.80580801,9.52788943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCr,24999,Wees,Kaswai,6,,54.80614402,9.5270519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DCu,24999,Wees,Kaswai,8,,54.80585555,9.52717032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DD3,24999,Wees,Kaswai,2,,54.80708073,9.52712877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061DDa,24999,Wees,Kaswai,1,,54.80731055,9.52714469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006C26K,24999,Wees,Ulstrupfeld,1,c,54.82120072,9.5405318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006C26L,24999,Wees,Ulstrupfeld,1,d,54.82117641,9.54043593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006C26M,24999,Wees,Ulstrupfeld,1,e,54.82121032,9.53938189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006C26y,24999,Wees,Ulstrupfeld,1,b,54.82209054,9.5424066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G6ge,24999,Wees,Birklück,9,a,54.8055158,9.50801123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Lo95,24999,Wees,Birklück,10,,54.80537435,9.50713258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rm0R,24999,Wees,Schmiedestraße,26,a,54.80825149,9.52770341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rm0S,24999,Wees,Schmiedestraße,26,b,54.8082714,9.52780062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rr5b,24999,Wees,Oxbüll-Süd,6,a,54.80165359,9.53468214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bW08,24999,Wees,Blixberg,5,,54.81417383,9.55644037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006clhn,24999,Wees,Kaswai,1,a,54.80737167,9.52711642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006m192,24999,Wees,Birkland,2,c,54.8065098,9.51373007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006poK9,24999,Wees,Birkenbogen,10,a,54.80867857,9.51134189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s6ep,24999,Wees,Birklück,9,,54.80560293,9.50834288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006syWd,24999,Wees,Birklück,5,,54.80595431,9.5095954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wLPG,24999,Wees,Birklück,12,,54.80582796,9.50824327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wLsQ,24999,Wees,Kaswai,7,a,54.80583907,9.52690629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078Sn5,24999,Wees,Kaswai,10,a,54.80580369,9.52778893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MiKA,24999,Wees,Rothenhaus,5,b,54.81889904,9.52376766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MiKB,24999,Wees,Rothenhaus,5,c,54.81897696,9.52363878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MiKz,24999,Wees,Rothenhaus,5,a,54.81880407,9.52361203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PoDl,24999,Wees,An der Nordstraße,1,b,54.80336528,9.54639538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBVF,24999,Wees,Dorfstraße,10,c,54.80682874,9.51879801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBVN,24999,Wees,Dorfstraße,10,f,54.80696113,9.51826267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBVV,24999,Wees,Dorfstraße,10,g,54.80689325,9.51828775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBW3,24999,Wees,Dorfstraße,10,h,54.8067872,9.518299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBWc,24999,Wees,Dorfstraße,10,e,54.8069825,9.51879166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBWk,24999,Wees,Dorfstraße,10,d,54.80691426,9.51880871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dAS9,24999,Wees,Birklück,16,,54.8067043,9.50779991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEk,24999,Wees,Birkweg,19,,54.80745691,9.51059005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEl,24999,Wees,Birkweg,17,,54.80742108,9.51069094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEm,24999,Wees,Birkweg,15,,54.80738747,9.51079426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEn,24999,Wees,Birkweg,13,,54.80735624,9.51090093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEo,24999,Wees,Birkweg,11,,54.80731954,9.511008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEp,24999,Wees,Birkweg,9,,54.80717855,9.51117548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEq,24999,Wees,Birkweg,7,,54.80714756,9.5112824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEr,24999,Wees,Birkweg,5,,54.80711505,9.51138573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEs,24999,Wees,Birkweg,3,,54.80708626,9.51149423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wEu,24999,Wees,Birkweg,1,,54.80705129,9.51160318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080wFi,24999,Wees,Dorfstraße,40,a,54.80549702,9.51126978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081lcm,24999,Wees,Grönholm,20,k,54.80371665,9.50565441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000865cU,24999,Wees,Kaschestraße,8,,54.80858996,9.51693859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mwHE,24999,Wees,Schmiedestraße,37,,54.80804612,9.53678357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mwHF,24999,Wees,Schmiedestraße,39,,54.80808994,9.53701049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mwHG,24999,Wees,Schmiedestraße,41,,54.80820803,9.53692191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mwHH,24999,Wees,Schmiedestraße,43,,54.80845503,9.53682168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008quww,24999,Wees,Weesries,2,a,54.79308592,9.51917726

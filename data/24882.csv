@@ -1,0 +1,652 @@
+# Amtliche Adressen für die Postleitzahl 24882
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nco6,24882,Brodersby-Goltoft,Geelbek,2,,54.53837496,9.67968421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUA,24882,Brodersby-Goltoft,Redderkoppel,10,,54.54569431,9.63290923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUB,24882,Brodersby-Goltoft,Redderkoppel,11,,54.54577726,9.63205886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUC,24882,Brodersby-Goltoft,Redderkoppel,12,,54.54569431,9.63290923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUD,24882,Brodersby-Goltoft,Redderkoppel,13,,54.54577726,9.63205886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUE,24882,Brodersby-Goltoft,Redderkoppel,14,,54.54566591,9.63255072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUF,24882,Brodersby-Goltoft,Redderkoppel,15,,54.54577726,9.63205886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUG,24882,Brodersby-Goltoft,Redderkoppel,17,,54.54577726,9.63205886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUH,24882,Brodersby-Goltoft,Redderkoppel,19,,54.54614694,9.63218869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUI,24882,Brodersby-Goltoft,Redderkoppel,2,,54.54576875,9.63322592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUK,24882,Brodersby-Goltoft,Redderkoppel,21,,54.54614022,9.63184086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUL,24882,Brodersby-Goltoft,Redderkoppel,22,,54.54608058,9.6325977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUM,24882,Brodersby-Goltoft,Redderkoppel,23,,54.54615879,9.63152748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUN,24882,Brodersby-Goltoft,Redderkoppel,24,,54.54624422,9.63258464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUO,24882,Brodersby-Goltoft,Redderkoppel,25,,54.54638291,9.63149256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUP,24882,Brodersby-Goltoft,Redderkoppel,26,,54.54642429,9.63251815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUQ,24882,Brodersby-Goltoft,Redderkoppel,27,,54.54640842,9.63181272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUR,24882,Brodersby-Goltoft,Redderkoppel,28,,54.54659883,9.6324317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUS,24882,Brodersby-Goltoft,Redderkoppel,29,,54.54638323,9.63218105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUT,24882,Brodersby-Goltoft,Redderkoppel,3,,54.54568849,9.63178935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUU,24882,Brodersby-Goltoft,Redderkoppel,30,,54.54685929,9.63220733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUV,24882,Brodersby-Goltoft,Redderkoppel,31,,54.5466892,9.63171372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUW,24882,Brodersby-Goltoft,Redderkoppel,32,,54.54711611,9.6319829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUX,24882,Brodersby-Goltoft,Redderkoppel,33,,54.54665559,9.63139287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUY,24882,Brodersby-Goltoft,Redderkoppel,34,,54.54731761,9.63188896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUZ,24882,Brodersby-Goltoft,Redderkoppel,35,,54.54690674,9.63177078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUz,24882,Brodersby-Goltoft,Redderkoppel,1,,54.54562378,9.63179502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV0,24882,Brodersby-Goltoft,Redderkoppel,4,,54.54587438,9.63313959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV1,24882,Brodersby-Goltoft,Redderkoppel,5,,54.54574929,9.63178402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV2,24882,Brodersby-Goltoft,Redderkoppel,6,,54.54569431,9.63290923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV3,24882,Brodersby-Goltoft,Redderkoppel,7,,54.54580467,9.63177917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV4,24882,Brodersby-Goltoft,Redderkoppel,8,,54.54569431,9.63290923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV5,24882,Brodersby-Goltoft,Redderkoppel,9,,54.54586246,9.63177409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV6,24882,Brodersby-Goltoft,Am Grünen Weg,1,,54.54895378,9.62534044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV7,24882,Brodersby-Goltoft,Am Grünen Weg,2,,54.54887133,9.62501071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV8,24882,Brodersby-Goltoft,Am Grünen Weg,3,,54.54874903,9.62466738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgV9,24882,Brodersby-Goltoft,Am Grünen Weg,4,,54.54868522,9.62542511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVA,24882,Brodersby-Goltoft,Böstens Hoi,20,,54.5465258,9.63032389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVB,24882,Brodersby-Goltoft,Böstens Hoi,20,a,54.54674848,9.63011782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVC,24882,Brodersby-Goltoft,Böstens Hoi,21,,54.5477095,9.62970114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVD,24882,Brodersby-Goltoft,Böstens Hoi,22,,54.5468776,9.62999253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVE,24882,Brodersby-Goltoft,Böstens Hoi,23,,54.5478059,9.62964281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVF,24882,Brodersby-Goltoft,Böstens Hoi,24,,54.54702136,9.63019737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVG,24882,Brodersby-Goltoft,Böstens Hoi,25,,54.54800505,9.6298866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVH,24882,Brodersby-Goltoft,Böstens Hoi,26,,54.5471747,9.63044855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVI,24882,Brodersby-Goltoft,Böstens Hoi,27,,54.54801162,9.63018025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVJ,24882,Brodersby-Goltoft,Böstens Hoi,28,,54.54736193,9.63057578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVK,24882,Brodersby-Goltoft,Böstens Hoi,29,,54.54811042,9.63049872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVL,24882,Brodersby-Goltoft,Böstens Hoi,3,,54.54656114,9.6282225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVM,24882,Brodersby-Goltoft,Böstens Hoi,3,a,54.54669988,9.62820568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVN,24882,Brodersby-Goltoft,Böstens Hoi,30,,54.54759105,9.63062908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVO,24882,Brodersby-Goltoft,Böstens Hoi,31,,54.5480662,9.63082673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVP,24882,Brodersby-Goltoft,Böstens Hoi,32,,54.54781125,9.63061289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVQ,24882,Brodersby-Goltoft,Böstens Hoi,33,,54.54811892,9.63112886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVR,24882,Brodersby-Goltoft,Böstens Hoi,4,,54.54637459,9.62841236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVS,24882,Brodersby-Goltoft,Böstens Hoi,5,,54.54673568,9.62842692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVT,24882,Brodersby-Goltoft,Böstens Hoi,5,a,54.54683174,9.62861977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVU,24882,Brodersby-Goltoft,Böstens Hoi,6,,54.54654258,9.62877715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVV,24882,Brodersby-Goltoft,Böstens Hoi,7,,54.54696931,9.62923863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVW,24882,Brodersby-Goltoft,Böstens Hoi,8,,54.54630306,9.6288919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVX,24882,Brodersby-Goltoft,Böstens Hoi,9,,54.54712162,9.62901955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVY,24882,Brodersby-Goltoft,Füseholm,1,,54.54276111,9.64582729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVZ,24882,Brodersby-Goltoft,Hauptstraße,10,,54.54220939,9.61292697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVa,24882,Brodersby-Goltoft,Beekstraat,1,,54.55184432,9.63673137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVb,24882,Brodersby-Goltoft,Beekstraat,10,,54.55122141,9.63893774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVc,24882,Brodersby-Goltoft,Beekstraat,12,,54.55118242,9.63948989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVd,24882,Brodersby-Goltoft,Beekstraat,14,,54.55122183,9.63994784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVe,24882,Brodersby-Goltoft,Beekstraat,2,,54.55178897,9.63576389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVf,24882,Brodersby-Goltoft,Beekstraat,3,,54.55177049,9.63738432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVg,24882,Brodersby-Goltoft,Beekstraat,4,,54.55164342,9.63653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVh,24882,Brodersby-Goltoft,Beekstraat,5,,54.55165497,9.63766712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVi,24882,Brodersby-Goltoft,Beekstraat,6,,54.55162904,9.63678835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVj,24882,Brodersby-Goltoft,Beekstraat,8,,54.55101344,9.63858707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVk,24882,Brodersby-Goltoft,Böstens Hoi,1,,54.54644436,9.6279701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVl,24882,Brodersby-Goltoft,Böstens Hoi,10,,54.54610329,9.62892438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVm,24882,Brodersby-Goltoft,Böstens Hoi,11,,54.54731019,9.62904218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVn,24882,Brodersby-Goltoft,Böstens Hoi,12,,54.54641446,9.62925078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVo,24882,Brodersby-Goltoft,Böstens Hoi,12,a,54.54665266,9.62907795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVp,24882,Brodersby-Goltoft,Böstens Hoi,13,,54.54737961,9.62945342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVq,24882,Brodersby-Goltoft,Böstens Hoi,14,,54.54674682,9.6294788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVr,24882,Brodersby-Goltoft,Böstens Hoi,14,a,54.54659464,9.62965155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVs,24882,Brodersby-Goltoft,Böstens Hoi,15,,54.54705674,9.62952278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVt,24882,Brodersby-Goltoft,Böstens Hoi,16,,54.54647132,9.62981313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVu,24882,Brodersby-Goltoft,Böstens Hoi,17,a,54.54722922,9.62989035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVv,24882,Brodersby-Goltoft,Böstens Hoi,17,b,54.54726298,9.62997117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVw,24882,Brodersby-Goltoft,Böstens Hoi,18,,54.54628766,9.63021322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVx,24882,Brodersby-Goltoft,Böstens Hoi,19,a,54.54751567,9.63019084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVy,24882,Brodersby-Goltoft,Böstens Hoi,19,b,54.54770248,9.63017284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgVz,24882,Brodersby-Goltoft,Böstens Hoi,2,,54.54623954,9.62812598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW0,24882,Brodersby-Goltoft,Hauptstraße,11,,54.54698203,9.61908788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW1,24882,Brodersby-Goltoft,Hauptstraße,12,,54.54248963,9.61318774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW2,24882,Brodersby-Goltoft,Hauptstraße,13,,54.5481938,9.62497616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW3,24882,Brodersby-Goltoft,Hauptstraße,14,,54.54535069,9.61556079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW4,24882,Brodersby-Goltoft,Hauptstraße,15,,54.54836982,9.62526192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW5,24882,Brodersby-Goltoft,Hauptstraße,16,,54.54617613,9.61806806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW6,24882,Brodersby-Goltoft,Hauptstraße,17,,54.54871441,9.6259016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW7,24882,Brodersby-Goltoft,Hauptstraße,18,,54.54781058,9.62491434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW8,24882,Brodersby-Goltoft,Hauptstraße,19,,54.54909007,9.62619157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgW9,24882,Brodersby-Goltoft,Hauptstraße,2,,54.54139802,9.61267122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWA,24882,Brodersby-Goltoft,Hauptstraße,41,b,54.55040112,9.63216683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWB,24882,Brodersby-Goltoft,Hauptstraße,42,,54.54916037,9.62994567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWC,24882,Brodersby-Goltoft,Hauptstraße,43,,54.55034018,9.63324487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWD,24882,Brodersby-Goltoft,Hauptstraße,44,,54.54911397,9.63034134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWE,24882,Brodersby-Goltoft,Hauptstraße,45,,54.55021769,9.63380332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWG,24882,Brodersby-Goltoft,Hauptstraße,49,,54.55061797,9.63462726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWH,24882,Brodersby-Goltoft,Hauptstraße,5,,54.54655678,9.6181229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWI,24882,Brodersby-Goltoft,Hauptstraße,51,,54.55039028,9.63531735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWJ,24882,Brodersby-Goltoft,Hauptstraße,53,,54.55045775,9.63618407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWK,24882,Brodersby-Goltoft,Hauptstraße,55,,54.55050549,9.63649928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWL,24882,Brodersby-Goltoft,Hauptstraße,55,a,54.55023103,9.6368623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWM,24882,Brodersby-Goltoft,Hauptstraße,55,b,54.55016833,9.63716151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWN,24882,Brodersby-Goltoft,Hauptstraße,57,,54.55005386,9.63869956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWO,24882,Brodersby-Goltoft,Hauptstraße,57,a,54.55000871,9.63787111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWP,24882,Brodersby-Goltoft,Hauptstraße,59,,54.54977273,9.6400355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWQ,24882,Brodersby-Goltoft,Hauptstraße,6,,54.54181214,9.61296311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWR,24882,Brodersby-Goltoft,Hauptstraße,61,,54.54949214,9.64080202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWS,24882,Brodersby-Goltoft,Hauptstraße,65,,54.54917766,9.64086304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWT,24882,Brodersby-Goltoft,Hauptstraße,65,a,54.54884975,9.6402226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWU,24882,Brodersby-Goltoft,Hauptstraße,66,,54.5495835,9.63827643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWV,24882,Brodersby-Goltoft,Hauptstraße,67,,54.54854152,9.64020408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWW,24882,Brodersby-Goltoft,Hauptstraße,68,,54.5495929,9.63880376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWX,24882,Brodersby-Goltoft,Hauptstraße,69,,54.54833918,9.64029794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWY,24882,Brodersby-Goltoft,Hauptstraße,7,,54.5467345,9.6184988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWZ,24882,Brodersby-Goltoft,Hauptstraße,70,,54.54936669,9.63895981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWa,24882,Brodersby-Goltoft,Hauptstraße,20,,54.54797414,9.62522271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWb,24882,Brodersby-Goltoft,Hauptstraße,21,,54.54933265,9.62696145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWc,24882,Brodersby-Goltoft,Hauptstraße,22,,54.54812818,9.62550433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWd,24882,Brodersby-Goltoft,Hauptstraße,23,,54.54897996,9.62711092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWe,24882,Brodersby-Goltoft,Hauptstraße,24,,54.54827959,9.62572229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWf,24882,Brodersby-Goltoft,Hauptstraße,25,,54.54903675,9.62758856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWg,24882,Brodersby-Goltoft,Hauptstraße,25,b,54.54922122,9.62826513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWh,24882,Brodersby-Goltoft,Hauptstraße,26,,54.54858879,9.62691456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWi,24882,Brodersby-Goltoft,Hauptstraße,27,,54.54935426,9.62914499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWj,24882,Brodersby-Goltoft,Hauptstraße,28,,54.54874352,9.62750545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWk,24882,Brodersby-Goltoft,Hauptstraße,29,,54.54940835,9.62958197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWl,24882,Brodersby-Goltoft,Hauptstraße,3,,54.54617235,9.61642008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWm,24882,Brodersby-Goltoft,Hauptstraße,30,,54.54886104,9.62795409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWn,24882,Brodersby-Goltoft,Hauptstraße,31,,54.54947131,9.63005624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWo,24882,Brodersby-Goltoft,Hauptstraße,32,,54.54889908,9.62825912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWp,24882,Brodersby-Goltoft,Hauptstraße,33,,54.54950615,9.63032315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWq,24882,Brodersby-Goltoft,Hauptstraße,34,,54.54898607,9.62873217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWr,24882,Brodersby-Goltoft,Hauptstraße,35,,54.54960868,9.6309519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWs,24882,Brodersby-Goltoft,Hauptstraße,36,,54.54903208,9.62901374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWt,24882,Brodersby-Goltoft,Hauptstraße,37,,54.54965897,9.63152562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWu,24882,Brodersby-Goltoft,Hauptstraße,38,,54.54907275,9.62932626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWv,24882,Brodersby-Goltoft,Hauptstraße,39,,54.54978395,9.6320798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWw,24882,Brodersby-Goltoft,Hauptstraße,4,,54.54163477,9.61273674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWx,24882,Brodersby-Goltoft,Hauptstraße,40,,54.54911282,9.62962084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWy,24882,Brodersby-Goltoft,Hauptstraße,41,,54.54987479,9.63250332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgWz,24882,Brodersby-Goltoft,Hauptstraße,41,a,54.55016842,9.63285933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX0,24882,Brodersby-Goltoft,Hauptstraße,71,,54.54799993,9.64040429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX1,24882,Brodersby-Goltoft,Hauptstraße,72,,54.54932874,9.63954424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX2,24882,Brodersby-Goltoft,Hauptstraße,74,,54.54891301,9.6396687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX3,24882,Brodersby-Goltoft,Hauptstraße,76,,54.54864285,9.63989282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX4,24882,Brodersby-Goltoft,Hauptstraße,78,,54.54822619,9.63995959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX5,24882,Brodersby-Goltoft,Hauptstraße,8,,54.54196026,9.61282024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX6,24882,Brodersby-Goltoft,Hauptstraße,9,,54.54682373,9.61882566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX7,24882,Brodersby-Goltoft,Heerweg,1,,54.55510084,9.65861142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgX9,24882,Brodersby-Goltoft,Heerweg,3,,54.55552803,9.65937948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXA,24882,Brodersby-Goltoft,Lerchengrund,6,a,54.54614552,9.6262264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXB,24882,Brodersby-Goltoft,Lerchengrund,8,,54.54587925,9.62638169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXC,24882,Brodersby-Goltoft,Mühlenstraße,1,,54.54690482,9.64033499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXD,24882,Brodersby-Goltoft,Mühlenstraße,11,,54.54602147,9.63831632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXE,24882,Brodersby-Goltoft,Mühlenstraße,13,,54.54593429,9.63783464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXF,24882,Brodersby-Goltoft,Mühlenstraße,2,,54.5477434,9.63983931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXG,24882,Brodersby-Goltoft,Mühlenstraße,2,a,54.54764545,9.64009578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXH,24882,Brodersby-Goltoft,Mühlenstraße,3,,54.54670531,9.64040929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXI,24882,Brodersby-Goltoft,Mühlenstraße,4,,54.5465817,9.63971514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXJ,24882,Brodersby-Goltoft,Mühlenstraße,5,,54.54655971,9.64017376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXK,24882,Brodersby-Goltoft,Mühlenstraße,6,,54.54617335,9.63758917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXL,24882,Brodersby-Goltoft,Mühlenstraße,7,,54.54634634,9.64047804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXM,24882,Brodersby-Goltoft,Mühlenstraße,9,,54.54637717,9.63998434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXN,24882,Brodersby-Goltoft,Mühlenstraße,9,a,54.54626805,9.63947595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXO,24882,Brodersby-Goltoft,Nietoft,1,a,54.54861807,9.62845337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXP,24882,Brodersby-Goltoft,Nietoft,1,b,54.54861807,9.62845337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXQ,24882,Brodersby-Goltoft,Nietoft,1,c,54.54861807,9.62845337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXR,24882,Brodersby-Goltoft,Nietoft,1,d,54.54861807,9.62845337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXS,24882,Brodersby-Goltoft,Nietoft,10,,54.54830236,9.62950664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXT,24882,Brodersby-Goltoft,Nietoft,11,,54.54843199,9.62987549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXU,24882,Brodersby-Goltoft,Nietoft,12,,54.54850216,9.63019449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXV,24882,Brodersby-Goltoft,Nietoft,13,,54.54849673,9.63065013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXW,24882,Brodersby-Goltoft,Nietoft,14,,54.54868167,9.63050937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXX,24882,Brodersby-Goltoft,Nietoft,15,,54.54890881,9.63050097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXY,24882,Brodersby-Goltoft,Nietoft,16,,54.54879898,9.63003084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXZ,24882,Brodersby-Goltoft,Nietoft,17,,54.54864693,9.62973026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXa,24882,Brodersby-Goltoft,Heerweg,4,,54.55012641,9.64159639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXb,24882,Brodersby-Goltoft,Heerweg,6,,54.55182357,9.64503854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXc,24882,Brodersby-Goltoft,Heerweg,9,,54.55150926,9.64207888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXd,24882,Brodersby-Goltoft,Kahlebyer Weg,1,,54.54794689,9.64099563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXe,24882,Brodersby-Goltoft,Kahlebyer Weg,1,a,54.54789291,9.64141388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXf,24882,Brodersby-Goltoft,Kahlebyer Weg,11,,54.54511876,9.66408381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXg,24882,Brodersby-Goltoft,Kahlebyer Weg,13,,54.54406915,9.66599614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXh,24882,Brodersby-Goltoft,Kahlebyer Weg,15,,54.54351709,9.66680587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXi,24882,Brodersby-Goltoft,Kahlebyer Weg,17,,54.53694042,9.65650088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXj,24882,Brodersby-Goltoft,Kahlebyer Weg,2,,54.54612945,9.65595595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXk,24882,Brodersby-Goltoft,Kahlebyer Weg,3,,54.54801912,9.64221794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXl,24882,Brodersby-Goltoft,Kahlebyer Weg,4,,54.54674674,9.65826927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXm,24882,Brodersby-Goltoft,Kahlebyer Weg,5,,54.54697183,9.65812734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXn,24882,Brodersby-Goltoft,Kahlebyer Weg,5,a,54.54795464,9.65757774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXo,24882,Brodersby-Goltoft,Kahlebyer Weg,6,,54.53896537,9.65766504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXp,24882,Brodersby-Goltoft,Kahlebyer Weg,7,,54.54543935,9.66274103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXq,24882,Brodersby-Goltoft,Kahlebyer Weg,9,,54.54522209,9.66329377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXr,24882,Brodersby-Goltoft,Lerchengrund,1,,54.54609998,9.6274934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXs,24882,Brodersby-Goltoft,Lerchengrund,10,,54.54567832,9.62657876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXt,24882,Brodersby-Goltoft,Lerchengrund,12,,54.54550659,9.62670218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXu,24882,Brodersby-Goltoft,Lerchengrund,14,,54.54552337,9.62699984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXv,24882,Brodersby-Goltoft,Lerchengrund,2,,54.54629386,9.62745356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXw,24882,Brodersby-Goltoft,Lerchengrund,3,,54.545995,9.62705217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXx,24882,Brodersby-Goltoft,Lerchengrund,4,,54.54619526,9.62702182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXy,24882,Brodersby-Goltoft,Lerchengrund,5,,54.54571754,9.62698065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgXz,24882,Brodersby-Goltoft,Lerchengrund,6,,54.5461398,9.62665122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY0,24882,Brodersby-Goltoft,Nietoft,18,,54.54867078,9.62926007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY1,24882,Brodersby-Goltoft,Nietoft,2,,54.54843866,9.62841051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY2,24882,Brodersby-Goltoft,Nietoft,3,,54.54815936,9.62838339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY3,24882,Brodersby-Goltoft,Nietoft,4,,54.54792179,9.62853326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY4,24882,Brodersby-Goltoft,Nietoft,4,a,54.54785063,9.62857554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY5,24882,Brodersby-Goltoft,Nietoft,5,,54.54768038,9.62875606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY6,24882,Brodersby-Goltoft,Nietoft,6,,54.54752213,9.62897049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY7,24882,Brodersby-Goltoft,Nietoft,7,,54.54763783,9.62916383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY8,24882,Brodersby-Goltoft,Nietoft,8,,54.54787876,9.62909321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgY9,24882,Brodersby-Goltoft,Nietoft,9,,54.54810226,9.62896487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYA,24882,Brodersby-Goltoft,Schulstraße,18,,54.54501269,9.63119258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYB,24882,Brodersby-Goltoft,Schulstraße,19,,54.54607527,9.62829672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYC,24882,Brodersby-Goltoft,Schulstraße,2,,54.54844994,9.62652934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYD,24882,Brodersby-Goltoft,Schulstraße,20,,54.54504223,9.63141479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYE,24882,Brodersby-Goltoft,Schulstraße,21,,54.54586048,9.62826635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYF,24882,Brodersby-Goltoft,Schulstraße,21,a,54.54593426,9.62847239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYG,24882,Brodersby-Goltoft,Schulstraße,22,,54.5450709,9.63165641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYH,24882,Brodersby-Goltoft,Schulstraße,23,a,54.54572777,9.62845676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYI,24882,Brodersby-Goltoft,Schulstraße,23,b,54.54577729,9.62860713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYJ,24882,Brodersby-Goltoft,Schulstraße,24,,54.54507708,9.63193068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYK,24882,Brodersby-Goltoft,Schulstraße,25,,54.54559944,9.62867622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYL,24882,Brodersby-Goltoft,Schulstraße,26,,54.54513593,9.63252751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYM,24882,Brodersby-Goltoft,Schulstraße,27,a,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYN,24882,Brodersby-Goltoft,Schulstraße,27,b,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYO,24882,Brodersby-Goltoft,Schulstraße,27,c,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYP,24882,Brodersby-Goltoft,Schulstraße,27,d,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYQ,24882,Brodersby-Goltoft,Schulstraße,27,e,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYR,24882,Brodersby-Goltoft,Schulstraße,27,f,54.54516235,9.62990319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYS,24882,Brodersby-Goltoft,Schulstraße,28,,54.54511346,9.63293872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYT,24882,Brodersby-Goltoft,Schulstraße,29,a,54.54540351,9.62985037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYU,24882,Brodersby-Goltoft,Schulstraße,29,b,54.54540351,9.62985037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYV,24882,Brodersby-Goltoft,Schulstraße,29,c,54.54540351,9.62985037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYW,24882,Brodersby-Goltoft,Schulstraße,29,d,54.54540351,9.62985037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYX,24882,Brodersby-Goltoft,Schulstraße,3,,54.54815263,9.62710746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYY,24882,Brodersby-Goltoft,Schulstraße,30,,54.54522344,9.63325389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYZ,24882,Brodersby-Goltoft,Schulstraße,33,,54.54516327,9.63043691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYa,24882,Brodersby-Goltoft,Pastoratsweg,1,,54.54526748,9.6283849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYb,24882,Brodersby-Goltoft,Pastoratsweg,10,,54.54485352,9.62710111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYc,24882,Brodersby-Goltoft,Pastoratsweg,12,,54.54470217,9.62725799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYd,24882,Brodersby-Goltoft,Pastoratsweg,2,,54.54540826,9.62813907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYe,24882,Brodersby-Goltoft,Pastoratsweg,3,,54.54512195,9.62810186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYf,24882,Brodersby-Goltoft,Pastoratsweg,4,,54.54523434,9.62787047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYg,24882,Brodersby-Goltoft,Pastoratsweg,5,,54.54498168,9.62788569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYh,24882,Brodersby-Goltoft,Pastoratsweg,6,,54.54517539,9.6276342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYi,24882,Brodersby-Goltoft,Pastoratsweg,7,,54.5448032,9.62762863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYj,24882,Brodersby-Goltoft,Pastoratsweg,8,,54.54505404,9.62732581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYk,24882,Brodersby-Goltoft,Raiffeisenstraße,1,,54.55248183,9.62945869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYl,24882,Brodersby-Goltoft,Raiffeisenstraße,3,,54.54415416,9.63422927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYm,24882,Brodersby-Goltoft,Schulstraße,1,,54.54834689,9.62708226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYn,24882,Brodersby-Goltoft,Schulstraße,10,,54.54681278,9.62733936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYo,24882,Brodersby-Goltoft,Schulstraße,10,a,54.54590145,9.62771779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYp,24882,Brodersby-Goltoft,Schulstraße,10,b,54.54566388,9.62788046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYq,24882,Brodersby-Goltoft,Schulstraße,11,,54.54734948,9.62830347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYr,24882,Brodersby-Goltoft,Schulstraße,12,,54.54498692,9.62876793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYs,24882,Brodersby-Goltoft,Schulstraße,12,a,54.54499211,9.62922776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYt,24882,Brodersby-Goltoft,Schulstraße,12,b,54.54488353,9.62955567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYu,24882,Brodersby-Goltoft,Schulstraße,13,,54.5470901,9.6284358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYv,24882,Brodersby-Goltoft,Schulstraße,14,,54.54486844,9.63007532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYw,24882,Brodersby-Goltoft,Schulstraße,15,,54.54696761,9.62801168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYx,24882,Brodersby-Goltoft,Schulstraße,16,,54.54493051,9.63073869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYy,24882,Brodersby-Goltoft,Schulstraße,17,,54.54695049,9.62765599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgYz,24882,Brodersby-Goltoft,Schulstraße,17,c,54.54662563,9.62783681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ0,24882,Brodersby-Goltoft,Schulstraße,35,,54.54518218,9.63057016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ1,24882,Brodersby-Goltoft,Schulstraße,37,,54.54526153,9.63086158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ2,24882,Brodersby-Goltoft,Schulstraße,39,,54.54530152,9.63106551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ3,24882,Brodersby-Goltoft,Schulstraße,4,,54.54818628,9.62670166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ4,24882,Brodersby-Goltoft,Schulstraße,41,,54.54533309,9.63139508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ5,24882,Brodersby-Goltoft,Schulstraße,43,,54.54538412,9.63175355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ6,24882,Brodersby-Goltoft,Schulstraße,45,,54.54541741,9.63206095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ7,24882,Brodersby-Goltoft,Schulstraße,47,,54.54546497,9.63251152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ8,24882,Brodersby-Goltoft,Schulstraße,49,,54.54549392,9.63281457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZ9,24882,Brodersby-Goltoft,Schulstraße,5,,54.54798656,9.6273549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZA,24882,Brodersby-Goltoft,Weide,20,,54.55487222,9.64041839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZB,24882,Brodersby-Goltoft,Weide,22,,54.55519152,9.64022768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZC,24882,Brodersby-Goltoft,Weide,22,a,54.55543094,9.6398501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZD,24882,Brodersby-Goltoft,Weide,3,,54.55263817,9.63635956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZE,24882,Brodersby-Goltoft,Weide,4,,54.55243932,9.63659147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZF,24882,Brodersby-Goltoft,Weide,4,a,54.55264249,9.63691051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZG,24882,Brodersby-Goltoft,Weide,5,,54.55288234,9.63675474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZH,24882,Brodersby-Goltoft,Weide,5,a,54.55331547,9.63705266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZI,24882,Brodersby-Goltoft,Weide,6,,54.552882,9.63720799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZJ,24882,Brodersby-Goltoft,Weide,7,,54.55367804,9.63703897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZK,24882,Brodersby-Goltoft,Weide,8,,54.55324298,9.63738382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZL,24882,Brodersby-Goltoft,Weide,9,,54.55407328,9.63720021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZM,24882,Brodersby-Goltoft,Tolkwade,1,,54.5617128,9.63144658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZN,24882,Brodersby-Goltoft,An der Kirche,1,,54.54502355,9.61563969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZO,24882,Brodersby-Goltoft,An der Kirche,10,,54.5442728,9.61705292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZP,24882,Brodersby-Goltoft,An der Kirche,11,,54.54433176,9.61785648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZQ,24882,Brodersby-Goltoft,An der Kirche,12,,54.54426043,9.61737177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZR,24882,Brodersby-Goltoft,An der Kirche,2,,54.5443247,9.61583407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZS,24882,Brodersby-Goltoft,An der Kirche,3,,54.54479245,9.61566288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZT,24882,Brodersby-Goltoft,An der Kirche,4,,54.54431026,9.61616732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZU,24882,Brodersby-Goltoft,An der Kirche,5,,54.5446283,9.61568533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZV,24882,Brodersby-Goltoft,An der Kirche,6,,54.54430141,9.61646878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZW,24882,Brodersby-Goltoft,An der Kirche,7,,54.54452636,9.61671992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZX,24882,Brodersby-Goltoft,An der Kirche,7,a,54.54450783,9.61708066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZY,24882,Brodersby-Goltoft,An der Kirche,7,b,54.54451464,9.61742208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZZ,24882,Brodersby-Goltoft,An der Kirche,8,,54.54429109,9.61677233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZa,24882,Brodersby-Goltoft,Schulstraße,51,,54.54551708,9.63307502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZb,24882,Brodersby-Goltoft,Schulstraße,53,,54.5455952,9.63339606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZc,24882,Brodersby-Goltoft,Schulstraße,6,,54.5480031,9.62677161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZd,24882,Brodersby-Goltoft,Schulstraße,6,a,54.54805639,9.62671458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZe,24882,Brodersby-Goltoft,Schulstraße,7,,54.54710205,9.62763054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZf,24882,Brodersby-Goltoft,Schulstraße,8,,54.54772761,9.62675496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZg,24882,Brodersby-Goltoft,Schulstraße,9,,54.54727622,9.62795174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZh,24882,Brodersby-Goltoft,Siedlung,1,,54.54455592,9.63085851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZi,24882,Brodersby-Goltoft,Siedlung,10,,54.5437679,9.6307927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZj,24882,Brodersby-Goltoft,Siedlung,2,,54.54489744,9.63041133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZk,24882,Brodersby-Goltoft,Siedlung,3,,54.54428166,9.63095994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZl,24882,Brodersby-Goltoft,Siedlung,4,,54.54448497,9.63054275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZm,24882,Brodersby-Goltoft,Siedlung,5,,54.54412506,9.63099394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZn,24882,Brodersby-Goltoft,Siedlung,6,,54.54424218,9.63062889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZo,24882,Brodersby-Goltoft,Siedlung,8,,54.54402909,9.63071777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZp,24882,Brodersby-Goltoft,Weide,1,,54.55233102,9.63586014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZq,24882,Brodersby-Goltoft,Weide,10,,54.5537247,9.63753686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZr,24882,Brodersby-Goltoft,Weide,10,a,54.55376411,9.63786743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZs,24882,Brodersby-Goltoft,Weide,11,,54.55416069,9.6376899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZt,24882,Brodersby-Goltoft,Weide,12,,54.55394474,9.63792588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZu,24882,Brodersby-Goltoft,Weide,13,,54.55646313,9.63819226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZv,24882,Brodersby-Goltoft,Weide,14,,54.55404694,9.63819803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZw,24882,Brodersby-Goltoft,Weide,15,,54.56151573,9.643696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZx,24882,Brodersby-Goltoft,Weide,16,,54.55417213,9.63861308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZy,24882,Brodersby-Goltoft,Weide,18,,54.55433809,9.6391246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgZz,24882,Brodersby-Goltoft,Weide,2,,54.55205084,9.63594591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh00,24882,Brodersby-Goltoft,An der Kirche,9,,54.54451023,9.61789757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh01,24882,Brodersby-Goltoft,Dorfstraße,1,,54.54330897,9.61209307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh02,24882,Brodersby-Goltoft,Dorfstraße,10,,54.54288341,9.61564179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh03,24882,Brodersby-Goltoft,Dorfstraße,10,a,54.54303884,9.61602481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh04,24882,Brodersby-Goltoft,Dorfstraße,11,,54.54407309,9.61789602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh05,24882,Brodersby-Goltoft,Dorfstraße,12,,54.54335568,9.61688609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh06,24882,Brodersby-Goltoft,Dorfstraße,13,,54.54422614,9.61861235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh07,24882,Brodersby-Goltoft,Dorfstraße,14,,54.54358909,9.61729381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh08,24882,Brodersby-Goltoft,Dorfstraße,15,,54.54439191,9.61862245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh09,24882,Brodersby-Goltoft,Dorfstraße,16,,54.54389997,9.61832169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0A,24882,Brodersby-Goltoft,Klensbyer Weg,2,,54.53231312,9.59999196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0B,24882,Brodersby-Goltoft,Klensbyer Weg,2,a,54.53264248,9.60015169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0C,24882,Brodersby-Goltoft,Klensbyer Weg,20,,54.532301,9.6027056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0D,24882,Brodersby-Goltoft,Klensbyer Weg,22,,54.5323766,9.60321238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0E,24882,Brodersby-Goltoft,Klensbyer Weg,3,,54.53244389,9.60151442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0F,24882,Brodersby-Goltoft,Klensbyer Weg,4,,54.53180281,9.6006682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0G,24882,Brodersby-Goltoft,Klensbyer Weg,5,,54.53246068,9.6017967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0H,24882,Brodersby-Goltoft,Klensbyer Weg,6,,54.53194884,9.60112288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0I,24882,Brodersby-Goltoft,Klensbyer Weg,7,,54.53248113,9.60207343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0J,24882,Brodersby-Goltoft,Klensbyer Weg,8,,54.53228533,9.60168154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0K,24882,Brodersby-Goltoft,Klensbyer Weg,9,,54.53250108,9.6024441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0L,24882,Brodersby-Goltoft,Moldeniter Weg,10,,54.54141136,9.59484698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0M,24882,Brodersby-Goltoft,Moldeniter Weg,2,,54.54366873,9.60517948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0N,24882,Brodersby-Goltoft,Moldeniter Weg,4,,54.54308042,9.60277302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0O,24882,Brodersby-Goltoft,Moldeniter Weg,6,,54.54307264,9.6023723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0P,24882,Brodersby-Goltoft,Moldeniter Weg,8,,54.54234069,9.5972229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0Q,24882,Brodersby-Goltoft,Wiesenstraße,1,,54.54265813,9.61528716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0R,24882,Brodersby-Goltoft,Wiesenstraße,11,,54.54226405,9.61748133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0S,24882,Brodersby-Goltoft,Wiesenstraße,13,,54.5420306,9.61811211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0T,24882,Brodersby-Goltoft,Wiesenstraße,2,,54.54260114,9.61440851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0U,24882,Brodersby-Goltoft,Wiesenstraße,3,,54.54228968,9.61515669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0V,24882,Brodersby-Goltoft,Wiesenstraße,4,,54.54246722,9.6147898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0W,24882,Brodersby-Goltoft,Wiesenstraße,5,,54.54219102,9.61545812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0X,24882,Brodersby-Goltoft,Wiesenstraße,6,,54.54226293,9.61477722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0Y,24882,Brodersby-Goltoft,Wiesenstraße,7,,54.54227089,9.61582217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0Z,24882,Brodersby-Goltoft,Wiesenstraße,8,,54.54196181,9.61529693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0a,24882,Brodersby-Goltoft,Dorfstraße,17,,54.54455088,9.61852564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0b,24882,Brodersby-Goltoft,Dorfstraße,18,,54.54410144,9.61886907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0c,24882,Brodersby-Goltoft,Dorfstraße,19,,54.54491742,9.61850407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0d,24882,Brodersby-Goltoft,Dorfstraße,2,,54.54379005,9.61087923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0e,24882,Brodersby-Goltoft,Dorfstraße,20,,54.54442621,9.6189659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0f,24882,Brodersby-Goltoft,Dorfstraße,21,,54.54515574,9.61840114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0g,24882,Brodersby-Goltoft,Dorfstraße,22,,54.54457871,9.61907175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0h,24882,Brodersby-Goltoft,Dorfstraße,23,,54.54541037,9.61831148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0i,24882,Brodersby-Goltoft,Dorfstraße,25,,54.5456527,9.61824985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0j,24882,Brodersby-Goltoft,Dorfstraße,27,,54.5459151,9.6181857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0k,24882,Brodersby-Goltoft,Dorfstraße,3,,54.54320532,9.61252899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0l,24882,Brodersby-Goltoft,Dorfstraße,4,,54.54318786,9.61170365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0m,24882,Brodersby-Goltoft,Dorfstraße,6,,54.54300863,9.61222701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0n,24882,Brodersby-Goltoft,Dorfstraße,6,a,54.54286295,9.61260421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0o,24882,Brodersby-Goltoft,Dorfstraße,7,,54.54340911,9.61531442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0p,24882,Brodersby-Goltoft,Dorfstraße,8,,54.54288595,9.61428112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0q,24882,Brodersby-Goltoft,Dorfstraße,9,,54.54391316,9.61674587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0r,24882,Brodersby-Goltoft,Klensbyer Weg,1,,54.53237928,9.60086925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0s,24882,Brodersby-Goltoft,Klensbyer Weg,10,,54.53224771,9.60193803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0t,24882,Brodersby-Goltoft,Klensbyer Weg,11,,54.53254842,9.60297891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0u,24882,Brodersby-Goltoft,Klensbyer Weg,11,a,54.5327931,9.60317543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0v,24882,Brodersby-Goltoft,Klensbyer Weg,12,,54.53187913,9.60182021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0w,24882,Brodersby-Goltoft,Klensbyer Weg,13,,54.53273968,9.60363746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0x,24882,Brodersby-Goltoft,Klensbyer Weg,14,,54.53180054,9.60208234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0y,24882,Brodersby-Goltoft,Klensbyer Weg,16,,54.53187744,9.60245048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh0z,24882,Brodersby-Goltoft,Klensbyer Weg,18,,54.53217643,9.60239778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh10,24882,Brodersby-Goltoft,Wiesenstraße,9,,54.54206657,9.61679336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh11,24882,Brodersby-Goltoft,Winninger Allee,1,,54.54095992,9.6127936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh12,24882,Brodersby-Goltoft,Winninger Allee,10,,54.5388597,9.61331494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh13,24882,Brodersby-Goltoft,Winninger Allee,12,,54.53857598,9.61355491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh15,24882,Brodersby-Goltoft,Winninger Allee,2,a,54.54004663,9.6119902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh16,24882,Brodersby-Goltoft,Winninger Allee,2,b,54.53997198,9.61167526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh17,24882,Brodersby-Goltoft,Winninger Allee,2,c,54.53985981,9.61134976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh18,24882,Brodersby-Goltoft,Winninger Allee,2,d,54.53974312,9.61146707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh19,24882,Brodersby-Goltoft,Winninger Allee,2,e,54.53956838,9.61154925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1A,24882,Brodersby-Goltoft,An den Toften,6,b,54.53296256,9.65152298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1B,24882,Brodersby-Goltoft,An den Toften,6,c,54.53293051,9.65187356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1C,24882,Brodersby-Goltoft,An den Toften,8,,54.53333409,9.65216415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1D,24882,Brodersby-Goltoft,Ekeberg,1,,54.5412331,9.68120288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1E,24882,Brodersby-Goltoft,Ekeberg,2,,54.54293405,9.67186178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1F,24882,Brodersby-Goltoft,Ekeberg,3,,54.54017778,9.67842735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1G,24882,Brodersby-Goltoft,Füsingfeld,1,,54.54724061,9.66780529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1H,24882,Brodersby-Goltoft,Füsingfeld,2,,54.55059647,9.67129957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1I,24882,Brodersby-Goltoft,Füsingfeld,3,,54.55154901,9.67367737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1J,24882,Brodersby-Goltoft,Füsingfeld,4,,54.55183572,9.6748885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1K,24882,Brodersby-Goltoft,Kiesbarg,1,,54.5361965,9.65616075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1L,24882,Brodersby-Goltoft,Kiesbarg,10,,54.53382414,9.65513058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1M,24882,Brodersby-Goltoft,Kiesbarg,2,,54.53578914,9.65546662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1N,24882,Brodersby-Goltoft,Kiesbarg,3,,54.53607244,9.65604119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1O,24882,Brodersby-Goltoft,Kiesbarg,4,,54.53481031,9.65516847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1P,24882,Brodersby-Goltoft,Kiesbarg,4,a,54.53453705,9.65512339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1Q,24882,Brodersby-Goltoft,Kiesbarg,5,,54.53513495,9.65545101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1R,24882,Brodersby-Goltoft,Kiesbarg,6,,54.53434681,9.65497745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1S,24882,Brodersby-Goltoft,Kiesbarg,8,,54.53406694,9.65507223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1T,24882,Brodersby-Goltoft,Meiereiweg,1,,54.53494816,9.6527295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1U,24882,Brodersby-Goltoft,Meiereiweg,10,,54.53502064,9.65509419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1V,24882,Brodersby-Goltoft,Meiereiweg,2,,54.53490589,9.6521481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1W,24882,Brodersby-Goltoft,Meiereiweg,2,a,54.53454828,9.65234516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1X,24882,Brodersby-Goltoft,Meiereiweg,3,,54.53494867,9.65322295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1Y,24882,Brodersby-Goltoft,Meiereiweg,4,,54.53486522,9.65377154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1Z,24882,Brodersby-Goltoft,Meiereiweg,4,a,54.53485898,9.65396927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1a,24882,Brodersby-Goltoft,Winninger Allee,2,f,54.53979622,9.61174439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1b,24882,Brodersby-Goltoft,Winninger Allee,2,g,54.53989583,9.61198368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1c,24882,Brodersby-Goltoft,Winninger Allee,2,h,54.53997971,9.61231181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1d,24882,Brodersby-Goltoft,Winninger Allee,3,,54.53982737,9.61267517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1e,24882,Brodersby-Goltoft,Winninger Allee,4,,54.53967303,9.61237384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1f,24882,Brodersby-Goltoft,Winninger Allee,6,,54.53924368,9.61280588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1g,24882,Brodersby-Goltoft,Winninger Allee,8,,54.53904254,9.61306329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1h,24882,Brodersby-Goltoft,Trollhoe,1,,54.54550015,9.61504552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1i,24882,Brodersby-Goltoft,Trollhoe,3,,54.54626917,9.61483158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1j,24882,Brodersby-Goltoft,An den Toften,1,,54.53321954,9.65117209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1k,24882,Brodersby-Goltoft,An den Toften,10,,54.53346717,9.65229479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1l,24882,Brodersby-Goltoft,An den Toften,12,,54.53373669,9.65291465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1m,24882,Brodersby-Goltoft,An den Toften,14,,54.53421725,9.65307311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1n,24882,Brodersby-Goltoft,An den Toften,14,a,54.5343738,9.65341399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1o,24882,Brodersby-Goltoft,An den Toften,16,,54.53464462,9.65348325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1p,24882,Brodersby-Goltoft,An den Toften,18,,54.53458783,9.65411143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1q,24882,Brodersby-Goltoft,An den Toften,2,,54.53296499,9.64984447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1r,24882,Brodersby-Goltoft,An den Toften,20,,54.53455675,9.65442784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1t,24882,Brodersby-Goltoft,An den Toften,24,,54.53431321,9.65398698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1u,24882,Brodersby-Goltoft,An den Toften,24,a,54.53432766,9.65388688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1v,24882,Brodersby-Goltoft,An den Toften,3,,54.53396261,9.65232188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1w,24882,Brodersby-Goltoft,An den Toften,4,,54.53297632,9.65018857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1x,24882,Brodersby-Goltoft,An den Toften,5,,54.53467789,9.65303589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1y,24882,Brodersby-Goltoft,An den Toften,6,,54.53297439,9.65074601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh1z,24882,Brodersby-Goltoft,An den Toften,6,a,54.53297564,9.65120829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh20,24882,Brodersby-Goltoft,Meiereiweg,5,,54.53512769,9.6533669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh21,24882,Brodersby-Goltoft,Meiereiweg,5,a,54.53506342,9.65363659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh22,24882,Brodersby-Goltoft,Meiereiweg,6,,54.5349813,9.65449458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh23,24882,Brodersby-Goltoft,Meiereiweg,7,,54.53520825,9.65465177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh24,24882,Brodersby-Goltoft,Meiereiweg,8,,54.53500515,9.65477004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh25,24882,Brodersby-Goltoft,Meiereiweg,9,,54.53541597,9.65454823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh26,24882,Brodersby-Goltoft,Schleiblick,1,,54.53509824,9.65578633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh27,24882,Brodersby-Goltoft,Schleiblick,2,,54.53482473,9.65555386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh28,24882,Brodersby-Goltoft,Schleiblick,3,,54.53507232,9.65609597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh29,24882,Brodersby-Goltoft,Schleiblick,4,,54.53483907,9.65583233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2A,24882,Brodersby-Goltoft,Schleidörfer Straße,22,d,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2B,24882,Brodersby-Goltoft,Schleidörfer Straße,22,e,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2C,24882,Brodersby-Goltoft,Schleidörfer Straße,22,f,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2D,24882,Brodersby-Goltoft,Schleidörfer Straße,23,,54.53471769,9.64886631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2E,24882,Brodersby-Goltoft,Schleidörfer Straße,24,,54.53588791,9.65421065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2F,24882,Brodersby-Goltoft,Schleidörfer Straße,25,,54.53465574,9.6491642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2G,24882,Brodersby-Goltoft,Schleidörfer Straße,25,a,54.53470791,9.64947493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2H,24882,Brodersby-Goltoft,Schleidörfer Straße,26,,54.53594582,9.65462455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2I,24882,Brodersby-Goltoft,Schleidörfer Straße,27,,54.53482909,9.65056117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2J,24882,Brodersby-Goltoft,Schleidörfer Straße,28,,54.53619892,9.65559717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2K,24882,Brodersby-Goltoft,Schleidörfer Straße,29,,54.53526941,9.65126439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2L,24882,Brodersby-Goltoft,Schleidörfer Straße,3,,54.53260376,9.5979549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2M,24882,Brodersby-Goltoft,Schleidörfer Straße,31,,54.53545716,9.65223293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2N,24882,Brodersby-Goltoft,Schleidörfer Straße,33,,54.53562485,9.65257867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2O,24882,Brodersby-Goltoft,Schleidörfer Straße,35,,54.53594858,9.65268204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2P,24882,Brodersby-Goltoft,Schleidörfer Straße,37,,54.5357885,9.65315502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2Q,24882,Brodersby-Goltoft,Schleidörfer Straße,39,,54.53584349,9.65340854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2R,24882,Brodersby-Goltoft,Schleidörfer Straße,4,,54.5344777,9.64875499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2S,24882,Brodersby-Goltoft,Schleidörfer Straße,41,,54.53608246,9.65368974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2T,24882,Brodersby-Goltoft,Schleidörfer Straße,43,,54.53639249,9.65424149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2V,24882,Brodersby-Goltoft,Schleidörfer Straße,5,,54.53269863,9.59816168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2W,24882,Brodersby-Goltoft,Schleidörfer Straße,6,,54.53445414,9.64919035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2X,24882,Brodersby-Goltoft,Schleidörfer Straße,7,,54.53289721,9.59831679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2Y,24882,Brodersby-Goltoft,Schleidörfer Straße,8,,54.53450482,9.64969444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2Z,24882,Brodersby-Goltoft,Schleidörfer Straße,9,,54.53306122,9.59896058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2a,24882,Brodersby-Goltoft,Schleiblick,5,,54.53511592,9.65645844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2b,24882,Brodersby-Goltoft,Schleiblick,6,,54.5348092,9.65618701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2c,24882,Brodersby-Goltoft,Schleiblick,8,,54.53477605,9.65652177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2d,24882,Brodersby-Goltoft,Schleidörfer Straße,1,,54.53103801,9.59686473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2e,24882,Brodersby-Goltoft,Schleidörfer Straße,10,,54.5344821,9.65068778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2f,24882,Brodersby-Goltoft,Schleidörfer Straße,11,,54.53331535,9.59904627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2g,24882,Brodersby-Goltoft,Schleidörfer Straße,12,,54.53396537,9.65098987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2h,24882,Brodersby-Goltoft,Schleidörfer Straße,13,,54.53333307,9.59986496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2i,24882,Brodersby-Goltoft,Schleidörfer Straße,14,,54.53476826,9.6517056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2j,24882,Brodersby-Goltoft,Schleidörfer Straße,14,a,54.53449536,9.65199681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2k,24882,Brodersby-Goltoft,Schleidörfer Straße,15,,54.53423109,9.60160516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2l,24882,Brodersby-Goltoft,Schleidörfer Straße,16,,54.53508275,9.65222714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2m,24882,Brodersby-Goltoft,Schleidörfer Straße,17,,54.53616272,9.6058957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2n,24882,Brodersby-Goltoft,Schleidörfer Straße,17,a,54.53635983,9.60625769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2o,24882,Brodersby-Goltoft,Schleidörfer Straße,18,,54.53521578,9.652466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2p,24882,Brodersby-Goltoft,Schleidörfer Straße,19,,54.5364387,9.60663218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2q,24882,Brodersby-Goltoft,Schleidörfer Straße,2,,54.53266593,9.59897298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2r,24882,Brodersby-Goltoft,Schleidörfer Straße,2,a,54.53296235,9.59965667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2s,24882,Brodersby-Goltoft,Schleidörfer Straße,20,,54.53534136,9.65276698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2t,24882,Brodersby-Goltoft,Schleidörfer Straße,20,a,54.5354099,9.65307597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2u,24882,Brodersby-Goltoft,Schleidörfer Straße,20,b,54.53554721,9.65331759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2v,24882,Brodersby-Goltoft,Schleidörfer Straße,21,,54.53671041,9.60706581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2w,24882,Brodersby-Goltoft,Schleidörfer Straße,22,,54.53545038,9.65384253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2x,24882,Brodersby-Goltoft,Schleidörfer Straße,22,a,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2y,24882,Brodersby-Goltoft,Schleidörfer Straße,22,b,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh2z,24882,Brodersby-Goltoft,Schleidörfer Straße,22,c,54.5357613,9.65383919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh30,24882,Brodersby-Goltoft,Schmiedekoppel,1,,54.53563459,9.65582907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh31,24882,Brodersby-Goltoft,Schmiedekoppel,2,,54.53544421,9.65593613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh32,24882,Brodersby-Goltoft,Schmiedekoppel,3,,54.53585794,9.65599742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh33,24882,Brodersby-Goltoft,Schmiedekoppel,4,,54.53540574,9.65635172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh34,24882,Brodersby-Goltoft,Schmiedekoppel,6,,54.5356452,9.65642545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh35,24882,Brodersby-Goltoft,Schmiedekoppel,8,,54.535824,9.6564251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh36,24882,Brodersby-Goltoft,Sparrhöh,1,,54.53402641,9.65360619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh37,24882,Brodersby-Goltoft,Sparrhöh,10,,54.53349276,9.65468371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh38,24882,Brodersby-Goltoft,Sparrhöh,11,,54.53359668,9.65620938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh39,24882,Brodersby-Goltoft,Sparrhöh,11,a,54.53355264,9.65652693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3A,24882,Brodersby-Goltoft,Winningmay,9,b,54.53037871,9.64294725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3B,24882,Brodersby-Goltoft,Ziegeleiweg,1,,54.527972,9.6495021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3C,24882,Brodersby-Goltoft,Ziegeleiweg,2,,54.52519367,9.65828651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3D,24882,Brodersby-Goltoft,Ziegeleiweg,3,,54.52666272,9.66559448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3a,24882,Brodersby-Goltoft,Sparrhöh,11,b,54.53360536,9.65667292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3b,24882,Brodersby-Goltoft,Sparrhöh,12,,54.53347871,9.65505096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3c,24882,Brodersby-Goltoft,Sparrhöh,12,a,54.53346236,9.65537652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3d,24882,Brodersby-Goltoft,Sparrhöh,12,b,54.5334738,9.65574586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3e,24882,Brodersby-Goltoft,Sparrhöh,13,,54.53429426,9.65613803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3f,24882,Brodersby-Goltoft,Sparrhöh,14,,54.53341036,9.65597514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3g,24882,Brodersby-Goltoft,Sparrhöh,15,,54.53419982,9.65642065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3h,24882,Brodersby-Goltoft,Sparrhöh,3,,54.53390154,9.65397734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3i,24882,Brodersby-Goltoft,Sparrhöh,4,,54.53368205,9.65351557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3j,24882,Brodersby-Goltoft,Sparrhöh,5,,54.53384998,9.65441675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3k,24882,Brodersby-Goltoft,Sparrhöh,6,,54.53363567,9.65390361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3l,24882,Brodersby-Goltoft,Sparrhöh,7,,54.53365933,9.65551479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3m,24882,Brodersby-Goltoft,Sparrhöh,8,,54.53354686,9.6542679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3n,24882,Brodersby-Goltoft,Sparrhöh,9,,54.53362039,9.65580494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3o,24882,Brodersby-Goltoft,Winningmay,1,,54.53342928,9.65053094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3p,24882,Brodersby-Goltoft,Winningmay,11,,54.52949292,9.63434824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3q,24882,Brodersby-Goltoft,Winningmay,13,,54.52918194,9.63245049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3r,24882,Brodersby-Goltoft,Winningmay,2,,54.53428235,9.64984679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3s,24882,Brodersby-Goltoft,Winningmay,2,a,54.53398744,9.64955787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3t,24882,Brodersby-Goltoft,Winningmay,4,,54.53349188,9.64937209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3u,24882,Brodersby-Goltoft,Winningmay,5,,54.5327059,9.64973669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3v,24882,Brodersby-Goltoft,Winningmay,6,,54.53302797,9.64931979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3w,24882,Brodersby-Goltoft,Winningmay,7,,54.53028039,9.64436013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3x,24882,Brodersby-Goltoft,Winningmay,8,,54.52955544,9.63336493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3y,24882,Brodersby-Goltoft,Winningmay,9,,54.53033836,9.64368867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nh3z,24882,Brodersby-Goltoft,Winningmay,9,a,54.53024568,9.64318465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CWN6,24882,Brodersby-Goltoft,Hauptstraße,25,a,54.54916091,9.62793469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CWNb,24882,Brodersby-Goltoft,Hauptstraße,25,c,54.54926862,9.62859496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPI,24882,Brodersby-Goltoft,Mühlenstraße,17,,54.54575114,9.63714873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPM,24882,Brodersby-Goltoft,Mühlenstraße,15,,54.54581504,9.63743111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPT,24882,Brodersby-Goltoft,Mühlenstraße,27,,54.54535464,9.63537748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPX,24882,Brodersby-Goltoft,Mühlenstraße,25,,54.54540857,9.63586315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPa,24882,Brodersby-Goltoft,Mühlenstraße,31,,54.54521208,9.63479811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPe,24882,Brodersby-Goltoft,Mühlenstraße,29,,54.54527319,9.63506477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPi,24882,Brodersby-Goltoft,Mühlenstraße,33,,54.54516673,9.63441504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPq,24882,Brodersby-Goltoft,Mühlenstraße,23,,54.54554688,9.63621213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPu,24882,Brodersby-Goltoft,Mühlenstraße,21,,54.54559981,9.6365001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JGPy,24882,Brodersby-Goltoft,Mühlenstraße,19,,54.54568122,9.63679505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KNpc,24882,Brodersby-Goltoft,Klensbyer Weg,26,,54.5283584,9.6163144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056Iuq,24882,Brodersby-Goltoft,B 201,10,,54.55322191,9.61052668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Azez,24882,Brodersby-Goltoft,Siedlung,10,a,54.54369485,9.63082073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Kow2,24882,Brodersby-Goltoft,Weide,1,b,54.55211316,9.63572294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Kowg,24882,Brodersby-Goltoft,Weide,1,a,54.55242808,9.635813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PmzY,24882,Brodersby-Goltoft,Hauptstraße,51,a,54.550604,9.63579897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006B3fv,24882,Brodersby-Goltoft,Kahlebyer Weg,8,,54.53862212,9.6573801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DrIe,24882,Brodersby-Goltoft,Mühlenstraße,1,a,54.54734372,9.64032135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GUyR,24882,Brodersby-Goltoft,Schulstraße,26,a,54.54505396,9.63223317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TSUB,24882,Brodersby-Goltoft,Mühlenstraße,4,a,54.54653433,9.63958771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YpyQ,24882,Brodersby-Goltoft,Sparrhöh,5,a,54.53379634,9.65472671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYA,24882,Brodersby-Goltoft,Dreilingseck,2,,54.52848896,9.6321892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYG,24882,Brodersby-Goltoft,Dreilingseck,1,,54.5286748,9.63204775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYK,24882,Brodersby-Goltoft,Gut Winning,1,,54.53224104,9.62108398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYP,24882,Brodersby-Goltoft,Gut Winning,2,,54.53196043,9.62157844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYU,24882,Brodersby-Goltoft,Gut Winning,3,,54.53197066,9.62174804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYY,24882,Brodersby-Goltoft,Gut Winning,4,,54.53159464,9.62220513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYg,24882,Brodersby-Goltoft,Dreilingseck,7,,54.52739078,9.63271815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYk,24882,Brodersby-Goltoft,Dreilingseck,6,,54.52761763,9.63263667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYo,24882,Brodersby-Goltoft,Dreilingseck,5,,54.52787806,9.63250432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYs,24882,Brodersby-Goltoft,Dreilingseck,4,,54.52809535,9.63241868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DYw,24882,Brodersby-Goltoft,Dreilingseck,3,,54.52828026,9.63229479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZ2,24882,Brodersby-Goltoft,Gut Winning,5,,54.53200301,9.62220851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZ6,24882,Brodersby-Goltoft,Gut Winning,6,,54.53200683,9.62230089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZK,24882,Brodersby-Goltoft,Gut Winning,11,,54.53232981,9.62330714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZO,24882,Brodersby-Goltoft,Gut Winning,12,,54.53256978,9.62366778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZS,24882,Brodersby-Goltoft,Gut Winning,13,,54.53270263,9.62346208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZa,24882,Brodersby-Goltoft,Gut Winning,7,,54.53228753,9.62274403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZe,24882,Brodersby-Goltoft,Gut Winning,8,,54.53230308,9.62290468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZi,24882,Brodersby-Goltoft,Gut Winning,9,,54.53231449,9.62305274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070DZm,24882,Brodersby-Goltoft,Gut Winning,10,,54.53232401,9.62317625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070FIe,24882,Brodersby-Goltoft,Gut Winning,14,,54.53293475,9.62188724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070LgG,24882,Brodersby-Goltoft,Nietoft,32,a,54.54877209,9.62835186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071V43,24882,Brodersby-Goltoft,Füseholm,2,,54.54264686,9.64552743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071V47,24882,Brodersby-Goltoft,Hauptstraße,63,,54.54962361,9.6421977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071V4d,24882,Brodersby-Goltoft,Hauptstraße,76,a,54.54854736,9.63991235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071V4e,24882,Brodersby-Goltoft,Hauptstraße,76,b,54.54848633,9.63976171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071rb3,24882,Brodersby-Goltoft,Schulstraße,14,a,54.54467168,9.63002406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071rb9,24882,Brodersby-Goltoft,Dorfstraße,16,a,54.54387724,9.61886246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071sVX,24882,Brodersby-Goltoft,Tolkwade,2,,54.56186217,9.63086275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071sW0,24882,Brodersby-Goltoft,Tolkwade,2,b,54.56177779,9.63081071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071sW1,24882,Brodersby-Goltoft,Tolkwade,3,,54.56140587,9.63036432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071sW8,24882,Brodersby-Goltoft,Tolkschau,4,,54.56453911,9.63306542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076FMZ,24882,Brodersby-Goltoft,Schleidörfer Straße,45,,54.53667493,9.65504363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076Fz6,24882,Brodersby-Goltoft,Schleidörfer Straße,45,a,54.53638012,9.65492633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077bw2,24882,Brodersby-Goltoft,Sparrhöh,9,a,54.53389006,9.65591806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007G7gf,24882,Brodersby-Goltoft,Hauptstraße,47,a,54.55023323,9.63422767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007G7gg,24882,Brodersby-Goltoft,Hauptstraße,47,b,54.55025813,9.63433319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007G7gh,24882,Brodersby-Goltoft,Hauptstraße,47,c,54.55028141,9.63442683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SviT,24882,Brodersby-Goltoft,Ziegeleiweg,1,a,54.52739916,9.65039327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cHn9,24882,Brodersby-Goltoft,Kahlebyer Weg,9,a,54.54543542,9.66343843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jt6G,24882,Brodersby-Goltoft,Schleidörfer Straße,12,a,54.53428985,9.65142147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qP06,24882,Brodersby-Goltoft,An den Toften,6,d,54.53315431,9.65207548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qTx2,24882,Brodersby-Goltoft,Redderkoppel,16,,54.5458872,9.63252256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vbtc,24882,Brodersby-Goltoft,An den Toften,22,a,54.53428725,9.65432716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vbtf,24882,Brodersby-Goltoft,An den Toften,22,b,54.53425502,9.65453328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008537F,24882,Brodersby-Goltoft,Beekstraat,1,a,54.55181554,9.63629416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00088yj1,24882,Brodersby-Goltoft,Fährhaus,1,a,54.53197811,9.62593736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00088yj2,24882,Brodersby-Goltoft,Fährhaus,1,b,54.53189941,9.62592775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I58S,24882,Brodersby-Goltoft,Winningmay,8,a,54.52945151,9.6331482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I58T,24882,Brodersby-Goltoft,Winningmay,8,b,54.52947362,9.63301259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I58U,24882,Brodersby-Goltoft,Winningmay,8,c,54.52953523,9.63305342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQQN,24882,Brodersby-Goltoft,Pahldamm,1,,54.55100609,9.63472719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQQR,24882,Brodersby-Goltoft,Pahldamm,12,,54.55059148,9.63426029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQQY,24882,Brodersby-Goltoft,Pahldamm,10,,54.55089306,9.6340436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQR5,24882,Brodersby-Goltoft,Pahldamm,8,,54.55095869,9.63400714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQRX,24882,Brodersby-Goltoft,Pahldamm,2,,54.55111769,9.63489667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQRd,24882,Brodersby-Goltoft,Pahldamm,6,,54.55102454,9.63421096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gQRl,24882,Brodersby-Goltoft,Pahldamm,4,,54.55107524,9.63458423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qv47,24882,Brodersby-Goltoft,Redderkoppel,28,a,54.54666136,9.63239023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tLkX,24882,Brodersby-Goltoft,Winninger Allee,2,i,54.54021089,9.61244955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tLkY,24882,Brodersby-Goltoft,Winninger Allee,2,j,54.54014255,9.61242675

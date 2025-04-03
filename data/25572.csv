@@ -1,0 +1,776 @@
+# Amtliche Adressen für die Postleitzahl 25572
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuO,25572,Aebtissinwisch,Moorweg,11,,53.92823159,9.20837174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuP,25572,Aebtissinwisch,Moorweg,3,,53.92892756,9.20847946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuQ,25572,Aebtissinwisch,Moorweg,4,,53.92560763,9.20772786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuR,25572,Aebtissinwisch,Moorweg,5,,53.92875422,9.20845052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuS,25572,Aebtissinwisch,Moorweg,7,,53.92863289,9.20843373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACuT,25572,Aebtissinwisch,Moorweg,9,,53.92845327,9.20840725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AEV3,25572,Aebtissinwisch,Fähre-Süd,1,,53.98204752,9.28106011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AEV4,25572,Aebtissinwisch,Fähre-Süd,2,,53.99014515,9.2935324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AEV5,25572,Aebtissinwisch,Fähre-Süd,3,,53.97981117,9.28288786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AEV6,25572,Aebtissinwisch,Fähre-Süd,4,,53.98123285,9.28271304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AEV7,25572,Aebtissinwisch,Fähre-Süd,6,,53.97908345,9.28554123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIA,25572,Aebtissinwisch,Dorfstraße,15,,53.97587314,9.29924117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIB,25572,Aebtissinwisch,Dorfstraße,16,,53.97725061,9.2862062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIC,25572,Aebtissinwisch,Dorfstraße,17,,53.97851125,9.28518242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XID,25572,Aebtissinwisch,Dorfstraße,18,,53.97872688,9.28570477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIE,25572,Aebtissinwisch,Dorfstraße,19,,53.97802376,9.2772201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIF,25572,Aebtissinwisch,Dorfstraße,2,,53.96852691,9.2887184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIG,25572,Aebtissinwisch,Dorfstraße,2,a,53.96884132,9.2888816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIH,25572,Aebtissinwisch,Dorfstraße,20,,53.97662412,9.27824927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XII,25572,Aebtissinwisch,Dorfstraße,3,,53.96906132,9.28898588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIJ,25572,Aebtissinwisch,Dorfstraße,3,a,53.96938959,9.28912948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIK,25572,Aebtissinwisch,Dorfstraße,4,,53.9694586,9.29015676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIL,25572,Aebtissinwisch,Dorfstraße,5,,53.96989834,9.28930748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIM,25572,Aebtissinwisch,Dorfstraße,5,b,53.97045078,9.28956811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIN,25572,Aebtissinwisch,Dorfstraße,6,,53.97091442,9.28780314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIO,25572,Aebtissinwisch,Dorfstraße,7,,53.97110571,9.28970427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIP,25572,Aebtissinwisch,Dorfstraße,8,,53.97115873,9.29056192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIQ,25572,Aebtissinwisch,Dorfstraße,9,,53.97147521,9.28980485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIR,25572,Aebtissinwisch,Obersten Wehr,1,,53.9788127,9.29216978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIq,25572,Aebtissinwisch,Alte Landstraße,1,,53.96734811,9.28885976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIr,25572,Aebtissinwisch,Alte Landstraße,2,,53.96784892,9.28815552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIs,25572,Aebtissinwisch,Alte Landstraße,3,,53.96636545,9.28851997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIt,25572,Aebtissinwisch,Alte Landstraße,4,,53.96555188,9.28477368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIu,25572,Aebtissinwisch,Dorfstraße,1,,53.96718217,9.29017232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIv,25572,Aebtissinwisch,Dorfstraße,10,,53.97166681,9.28988686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIw,25572,Aebtissinwisch,Dorfstraße,11,,53.97172968,9.28989472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIx,25572,Aebtissinwisch,Dorfstraße,12,,53.97243624,9.29200533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIy,25572,Aebtissinwisch,Dorfstraße,13,,53.97291533,9.28956127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049XIz,25572,Aebtissinwisch,Dorfstraße,14,,53.97304198,9.28741073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Y4E,25572,Aebtissinwisch,Oberstenwehr,3,,53.97915933,9.29231861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Y4F,25572,Aebtissinwisch,Oberstenwehr,4,,53.97889814,9.29060914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAA,25572,Aebtissinwisch,Hauptstraße,1,,53.89897287,9.23254692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAB,25572,Aebtissinwisch,Hauptstraße,2,,53.89877314,9.231827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAC,25572,Aebtissinwisch,Hauptstraße,3,,53.89987588,9.22790989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAD,25572,Aebtissinwisch,Hauptstraße,30,,53.89809793,9.21887912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAE,25572,Aebtissinwisch,Hauptstraße,5,,53.90047922,9.227522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAF,25572,Aebtissinwisch,Hauptstraße,7,,53.90050708,9.2271071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAG,25572,Aebtissinwisch,Holstendamm,2,,53.90992832,9.21345208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAH,25572,Aebtissinwisch,Holstendamm,51,,53.90434513,9.21628249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAI,25572,Aebtissinwisch,Holstendamm,54,,53.90590106,9.21819267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAJ,25572,Aebtissinwisch,Kanal-Ost,1,,53.89966122,9.22850362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAK,25572,Aebtissinwisch,Kanal-Ost,2,,53.89949366,9.22779531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAL,25572,Aebtissinwisch,Kanal-Ost,3,,53.89892978,9.22678208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAM,25572,Aebtissinwisch,Kuhlen,19,,53.92213648,9.22524723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAN,25572,Aebtissinwisch,Kuhlen,22,,53.92128714,9.23368216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAO,25572,Aebtissinwisch,Kuhlen,23,,53.92209075,9.23535091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAP,25572,Aebtissinwisch,Kuhlen,24,,53.92182879,9.23608654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAQ,25572,Aebtissinwisch,Kuhlen,3,,53.91605682,9.24257714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAR,25572,Aebtissinwisch,Kuhlen,4,,53.91596448,9.24200005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAS,25572,Aebtissinwisch,Müllereiweg,2,,53.89934397,9.22507581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAT,25572,Aebtissinwisch,Müllereiweg,4,,53.89905031,9.22496123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAU,25572,Aebtissinwisch,Müllereiweg,6,,53.89836837,9.22506461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAV,25572,Aebtissinwisch,Nordbüttel,1,,53.90208015,9.23318979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAX,25572,Aebtissinwisch,Schmiedestraße,3,,53.90071785,9.22864155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAY,25572,Aebtissinwisch,Schmiedestraße,5,,53.90079419,9.22922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YAx,25572,Aebtissinwisch,Deichstraße,1,,53.89815766,9.23234869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLA,25572,Aebtissinwisch,Ackenboer Straße,8,,53.93536857,9.30155807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLB,25572,Aebtissinwisch,Am Schötenweg,1,,53.95935784,9.27948915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLC,25572,Aebtissinwisch,Am Schötenweg,2,,53.95965538,9.27894376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLD,25572,Aebtissinwisch,Am Schötenweg,3,,53.96104617,9.27862465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLE,25572,Aebtissinwisch,Am Schötenweg,4,,53.96198538,9.28175114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLG,25572,Aebtissinwisch,An der Winterbahn,1,,53.94115159,9.23152147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLH,25572,Aebtissinwisch,An der Winterbahn,2,,53.94038168,9.2347104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLI,25572,Aebtissinwisch,An der Winterbahn,3,,53.93857229,9.23452791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLJ,25572,Aebtissinwisch,Austrich,1,,53.93643373,9.30765394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLK,25572,Aebtissinwisch,Austrich,2,,53.94237038,9.30923908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLL,25572,Aebtissinwisch,Austrich,3,,53.94634074,9.29810217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLM,25572,Aebtissinwisch,Austrich,4,,53.94980905,9.30075227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLN,25572,Aebtissinwisch,Austrich,5,,53.95192156,9.29898091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLO,25572,Aebtissinwisch,Austrich,6,,53.95215722,9.29876211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLP,25572,Aebtissinwisch,Austrich,7,,53.95517561,9.29595827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLQ,25572,Aebtissinwisch,Austrich,8,,53.95764349,9.29543156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLR,25572,Aebtissinwisch,Brokreihe,2,,53.93180116,9.28372051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLS,25572,Aebtissinwisch,Brokreihe,3,,53.93413881,9.28587079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLT,25572,Aebtissinwisch,Brokreihe,4,,53.93037973,9.2858918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLU,25572,Aebtissinwisch,Brokreihe,5,,53.93218455,9.28897686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLV,25572,Aebtissinwisch,Ecklakerhörn,1,,53.93864611,9.2676129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLW,25572,Aebtissinwisch,Ecklakerhörn,10,,53.94209127,9.28486343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLX,25572,Aebtissinwisch,Ecklakerhörn,11,,53.94303467,9.28732329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLY,25572,Aebtissinwisch,Ecklakerhörn,2,,53.9389154,9.26926836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLZ,25572,Aebtissinwisch,Ecklakerhörn,3,,53.93909036,9.26977831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLm,25572,Aebtissinwisch,Ackenboer Moorweg,1,,53.94120185,9.29116197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLn,25572,Aebtissinwisch,Ackenboer Moorweg,2,,53.94107371,9.28855981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLo,25572,Aebtissinwisch,Ackenboer Moorweg,3,,53.93971963,9.29116889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLp,25572,Aebtissinwisch,Ackenboer Moorweg,4,,53.9380664,9.28994245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLq,25572,Aebtissinwisch,Ackenboer Moorweg,5,,53.93828416,9.29163734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLr,25572,Aebtissinwisch,Ackenboer Moorweg,6,,53.93666665,9.28986199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLs,25572,Aebtissinwisch,Ackenboer Moorweg,7,,53.93718522,9.29140041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLt,25572,Aebtissinwisch,Ackenboer Moorweg,8,,53.93579469,9.29257319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLu,25572,Aebtissinwisch,Ackenboer Straße,1,,53.94232371,9.28927618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLv,25572,Aebtissinwisch,Ackenboer Straße,2,,53.94223531,9.29153212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLw,25572,Aebtissinwisch,Ackenboer Straße,3,,53.94106545,9.29216317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLx,25572,Aebtissinwisch,Ackenboer Straße,4,,53.94135519,9.29327203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLy,25572,Aebtissinwisch,Ackenboer Straße,5,,53.93863978,9.29515657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YLz,25572,Aebtissinwisch,Ackenboer Straße,6,,53.93900039,9.29796565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM0,25572,Aebtissinwisch,Ecklakerhörn,4,,53.93891002,9.27206568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM1,25572,Aebtissinwisch,Ecklakerhörn,5,,53.93960705,9.27233967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM2,25572,Aebtissinwisch,Ecklakerhörn,6,,53.938789,9.27282625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM3,25572,Aebtissinwisch,Ecklakerhörn,7,,53.9377592,9.27392358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM4,25572,Aebtissinwisch,Ecklakerhörn,8,,53.9410741,9.27587034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM5,25572,Aebtissinwisch,Ecklakerhörn,9,,53.9421815,9.27438821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM6,25572,Aebtissinwisch,Eschenweg,1,,53.93866268,9.26929851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM7,25572,Aebtissinwisch,Eschenweg,2,,53.937378,9.26911401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM8,25572,Aebtissinwisch,Eschenweg,3,,53.93597151,9.26734674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YM9,25572,Aebtissinwisch,Eschenweg,4,,53.93477918,9.267346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMA,25572,Aebtissinwisch,Hauptstraße,28,a,53.95503749,9.26285315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMB,25572,Aebtissinwisch,Hauptstraße,29,,53.95513032,9.26362132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMC,25572,Aebtissinwisch,Hauptstraße,3,,53.94132878,9.25686414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMD,25572,Aebtissinwisch,Hauptstraße,30,,53.95533422,9.26339704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YME,25572,Aebtissinwisch,Hauptstraße,31,,53.9552488,9.26418884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMF,25572,Aebtissinwisch,Hauptstraße,32,,53.95625375,9.26354714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMG,25572,Aebtissinwisch,Hauptstraße,32,a,53.95565824,9.26387315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMH,25572,Aebtissinwisch,Hauptstraße,33,,53.95588203,9.26436392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMI,25572,Aebtissinwisch,Hauptstraße,34,,53.95705716,9.26523845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMJ,25572,Aebtissinwisch,Hauptstraße,35,,53.95777621,9.26879494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMK,25572,Aebtissinwisch,Hauptstraße,36,,53.95833537,9.27054811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YML,25572,Aebtissinwisch,Hauptstraße,37,,53.95882178,9.27127318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMM,25572,Aebtissinwisch,Hauptstraße,37,a,53.95818934,9.27179057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMN,25572,Aebtissinwisch,Hauptstraße,38,,53.96062493,9.2759765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMO,25572,Aebtissinwisch,Hauptstraße,39,,53.961337,9.27526818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMP,25572,Aebtissinwisch,Hauptstraße,4,,53.94157295,9.25659828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMQ,25572,Aebtissinwisch,Hauptstraße,40,,53.96120481,9.27694541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMR,25572,Aebtissinwisch,Hauptstraße,41,,53.96225854,9.27786844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMS,25572,Aebtissinwisch,Hauptstraße,42,,53.96265706,9.27874762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMT,25572,Aebtissinwisch,Hauptstraße,43,,53.96432394,9.28317527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMU,25572,Aebtissinwisch,Hauptstraße,5,,53.94236961,9.2558635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMV,25572,Aebtissinwisch,Hauptstraße,6,,53.94439942,9.25592722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMW,25572,Aebtissinwisch,Hauptstraße,7,,53.94467515,9.25582536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMX,25572,Aebtissinwisch,Hauptstraße,8,,53.94518107,9.25582119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMY,25572,Aebtissinwisch,Hauptstraße,9,,53.94567391,9.25562306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMZ,25572,Aebtissinwisch,Hörner Weg,1,,53.93597169,9.26293553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMa,25572,Aebtissinwisch,Eschenweg,5,,53.93545101,9.26568465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMb,25572,Aebtissinwisch,Eschenweg,6,,53.93517106,9.26589986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMc,25572,Aebtissinwisch,Eschenweg,7,,53.93483286,9.26606359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMd,25572,Aebtissinwisch,Eschenweg,8,,53.93524175,9.27110191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMe,25572,Aebtissinwisch,Hauptstraße,1,,53.93933837,9.26209534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMf,25572,Aebtissinwisch,Hauptstraße,10,,53.9463574,9.25560957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMg,25572,Aebtissinwisch,Hauptstraße,11,,53.94708409,9.25584087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMh,25572,Aebtissinwisch,Hauptstraße,12,,53.94866808,9.25569124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMi,25572,Aebtissinwisch,Hauptstraße,13,,53.95020735,9.25385995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMj,25572,Aebtissinwisch,Hauptstraße,14,,53.95023611,9.25933608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMk,25572,Aebtissinwisch,Hauptstraße,15,,53.95156188,9.26204801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMl,25572,Aebtissinwisch,Hauptstraße,16,,53.95198695,9.26203265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMm,25572,Aebtissinwisch,Hauptstraße,17,,53.95217763,9.26060059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMn,25572,Aebtissinwisch,Hauptstraße,18,,53.95235399,9.26160555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMo,25572,Aebtissinwisch,Hauptstraße,18,a,53.95269792,9.26335139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMp,25572,Aebtissinwisch,Hauptstraße,19,,53.95288881,9.26279621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMq,25572,Aebtissinwisch,Hauptstraße,2,,53.94136887,9.25758395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMr,25572,Aebtissinwisch,Hauptstraße,20,,53.95306285,9.26333678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMs,25572,Aebtissinwisch,Hauptstraße,21,,53.95310313,9.26255936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMt,25572,Aebtissinwisch,Hauptstraße,22,,53.95338334,9.26272611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMu,25572,Aebtissinwisch,Hauptstraße,23,,53.95379051,9.26270037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMv,25572,Aebtissinwisch,Hauptstraße,24,,53.95389588,9.26232168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMw,25572,Aebtissinwisch,Hauptstraße,25,,53.9540807,9.26274735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMx,25572,Aebtissinwisch,Hauptstraße,26,,53.95426693,9.26287223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMy,25572,Aebtissinwisch,Hauptstraße,27,,53.95432788,9.26210394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YMz,25572,Aebtissinwisch,Hauptstraße,28,,53.95445349,9.26254218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN0,25572,Aebtissinwisch,Hörner Weg,2,,53.93646383,9.26028991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN1,25572,Aebtissinwisch,Hörner Weg,3,,53.93702289,9.26068796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN2,25572,Aebtissinwisch,Kellerweg,1,,53.94263702,9.28174786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN3,25572,Aebtissinwisch,Kellerweg,2,,53.94751848,9.27699459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN4,25572,Aebtissinwisch,Kellerweg,3,,53.94718082,9.2782092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN5,25572,Aebtissinwisch,Klosterweg,1,,53.95526513,9.26293681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN6,25572,Aebtissinwisch,Klosterweg,1,a,53.95540694,9.2623989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN7,25572,Aebtissinwisch,Klosterweg,2,,53.95542415,9.26114958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN8,25572,Aebtissinwisch,Klosterweg,3,,53.95500782,9.25999758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YN9,25572,Aebtissinwisch,Klosterweg,4,,53.95523512,9.25974249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNA,25572,Aebtissinwisch,Wolfsnest,4,,53.95393061,9.25793269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNB,25572,Aebtissinwisch,Wolfsnest,5,,53.95339421,9.25476734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNC,25572,Aebtissinwisch,Wolfsnest,6,,53.95337554,9.25277075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YND,25572,Aebtissinwisch,Wolfsnest,7,,53.95297618,9.25289835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNE,25572,Aebtissinwisch,Wolfsnest,8,,53.95294987,9.25211374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNF,25572,Aebtissinwisch,Wolfsnest,9,,53.95214303,9.25290274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNa,25572,Aebtissinwisch,Klosterweg,5,,53.95511997,9.25931285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNb,25572,Aebtissinwisch,Landscheider Weg,20,,53.92252205,9.27365012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNc,25572,Aebtissinwisch,Landscheider Weg,8,,53.92132785,9.27589543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNd,25572,Aebtissinwisch,Seedorf,1,,53.94805364,9.25402184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNe,25572,Aebtissinwisch,Seedorf,10,,53.94560956,9.2440235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNf,25572,Aebtissinwisch,Seedorf,11,,53.94543871,9.24081804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNg,25572,Aebtissinwisch,Seedorf,12,,53.94514737,9.24089886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNh,25572,Aebtissinwisch,Seedorf,13,,53.94421654,9.24026843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNi,25572,Aebtissinwisch,Seedorf,14,,53.94391337,9.24071815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNj,25572,Aebtissinwisch,Seedorf,15,,53.94404211,9.23652347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNk,25572,Aebtissinwisch,Seedorf,16,,53.94392247,9.23578957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNl,25572,Aebtissinwisch,Seedorf,17,,53.94299429,9.23364112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNm,25572,Aebtissinwisch,Seedorf,18,,53.94099753,9.22992599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNn,25572,Aebtissinwisch,Seedorf,2,,53.94916277,9.24930571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNo,25572,Aebtissinwisch,Seedorf,3,,53.9468324,9.24592647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNp,25572,Aebtissinwisch,Seedorf,4,,53.94771524,9.24440764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNq,25572,Aebtissinwisch,Seedorf,5,,53.94845647,9.24408106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNr,25572,Aebtissinwisch,Seedorf,6,,53.94580307,9.24565909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNs,25572,Aebtissinwisch,Seedorf,7,,53.94544906,9.24546396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNt,25572,Aebtissinwisch,Seedorf,9,,53.94494804,9.24532003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNu,25572,Aebtissinwisch,Wolfsnest,1,,53.95334197,9.26061909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNv,25572,Aebtissinwisch,Wolfsnest,1,a,53.95370126,9.26156225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNw,25572,Aebtissinwisch,Wolfsnest,10,,53.9518067,9.25156041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNx,25572,Aebtissinwisch,Wolfsnest,11,,53.95512566,9.24912825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNy,25572,Aebtissinwisch,Wolfsnest,2,,53.95367479,9.26063158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNz,25572,Aebtissinwisch,Wolfsnest,3,,53.95372438,9.2576002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OElD,25572,Aebtissinwisch,Hauptstraße,2,a,53.89943003,9.23076944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TWDF,25572,Aebtissinwisch,Süderkamp,3,,53.88844438,9.25817902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A0,25572,Aebtissinwisch,Dörpstroot,15,,53.93028353,9.21262772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A1,25572,Aebtissinwisch,Dörpstroot,16,,53.93020365,9.21241943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A2,25572,Aebtissinwisch,Dörpstroot,17,,53.92990397,9.21207268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A3,25572,Aebtissinwisch,Dörpstroot,18,,53.93010429,9.21215258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A4,25572,Aebtissinwisch,Dörpstroot,19,,53.9298449,9.21183988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A5,25572,Aebtissinwisch,Dörpstroot,2,,53.93133087,9.2172385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A6,25572,Aebtissinwisch,Dörpstroot,20,,53.93000033,9.21150584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A7,25572,Aebtissinwisch,Dörpstroot,21,,53.92989936,9.21073212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A8,25572,Aebtissinwisch,Dörpstroot,22,,53.93050799,9.21048531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5A9,25572,Aebtissinwisch,Dörpstroot,23,,53.9294574,9.21028479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5AA,25572,Aebtissinwisch,Sushörn,1,,53.93898765,9.2330944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5AB,25572,Aebtissinwisch,Sushörn,2,,53.93787708,9.23308242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5AC,25572,Aebtissinwisch,Sushörn,3,,53.93671847,9.23235854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5AD,25572,Aebtissinwisch,Sushörn,4,,53.93625645,9.23211352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Aa,25572,Aebtissinwisch,Dörpstroot,23,a,53.92937219,9.21000676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ab,25572,Aebtissinwisch,Dörpstroot,24,,53.92963967,9.2098767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ac,25572,Aebtissinwisch,Dörpstroot,25,,53.92963111,9.20935237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ad,25572,Aebtissinwisch,Dörpstroot,26,,53.92755402,9.21152615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ae,25572,Aebtissinwisch,Dörpstroot,27,,53.92767774,9.21083986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Af,25572,Aebtissinwisch,Dörpstroot,28,,53.92942317,9.20921758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ag,25572,Aebtissinwisch,Dörpstroot,29,,53.92966289,9.20891358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ah,25572,Aebtissinwisch,Dörpstroot,3,,53.93112921,9.21788572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ai,25572,Aebtissinwisch,Dörpstroot,4,,53.93123187,9.216976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Aj,25572,Aebtissinwisch,Dörpstroot,5,,53.93096191,9.21706317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ak,25572,Aebtissinwisch,Dörpstroot,6,,53.93100211,9.21582993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Al,25572,Aebtissinwisch,Dörpstroot,7,,53.93057722,9.21625573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Am,25572,Aebtissinwisch,Dörpstroot,8,,53.9293943,9.21664145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5An,25572,Aebtissinwisch,Dörpstroot,9,,53.93061437,9.21416093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ao,25572,Aebtissinwisch,Möhlenweg,1,,53.93053297,9.21131329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ap,25572,Aebtissinwisch,Möhlenweg,1,a,53.93033159,9.2115207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Aq,25572,Aebtissinwisch,Möhlenweg,2,,53.9308387,9.2108633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ar,25572,Aebtissinwisch,Möhlenweg,3,,53.9307179,9.21172598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5As,25572,Aebtissinwisch,Möhlenweg,4,,53.93101137,9.21159206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5At,25572,Aebtissinwisch,Moorweg,12,,53.92742387,9.20843887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Au,25572,Aebtissinwisch,Moorweg,13,,53.92696785,9.20839554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Av,25572,Aebtissinwisch,Moorweg,14,,53.92570177,9.20820814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Aw,25572,Aebtissinwisch,Moorweg,15,,53.92547493,9.20815126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ax,25572,Aebtissinwisch,Moorweg,16,,53.92445183,9.20773859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ay,25572,Aebtissinwisch,Moorweg,17,,53.92385978,9.20824178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Az,25572,Aebtissinwisch,Moorweg,18,,53.92405059,9.2086967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NM,25572,Aebtissinwisch,Am Bahnhof,1,,53.92027598,9.25243275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NN,25572,Aebtissinwisch,Am Bahnhof,10,,53.9197605,9.25086024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NO,25572,Aebtissinwisch,Am Bahnhof,11,,53.9199673,9.2505787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NP,25572,Aebtissinwisch,Am Bahnhof,12,,53.91991713,9.25026812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NQ,25572,Aebtissinwisch,Am Bahnhof,13,,53.91966049,9.25030387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NR,25572,Aebtissinwisch,Am Bahnhof,14,,53.91985679,9.249899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NS,25572,Aebtissinwisch,Am Bahnhof,15,,53.92018001,9.24974567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NT,25572,Aebtissinwisch,Am Bahnhof,16,,53.9201323,9.24953444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NU,25572,Aebtissinwisch,Am Bahnhof,17,,53.92033538,9.24892931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NV,25572,Aebtissinwisch,Am Bahnhof,18,,53.9198083,9.24957221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NW,25572,Aebtissinwisch,Am Bahnhof,19,,53.9195746,9.24980598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NX,25572,Aebtissinwisch,Am Bahnhof,2,,53.92022965,9.25217518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NY,25572,Aebtissinwisch,Am Bahnhof,20,,53.9197473,9.24902498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5NZ,25572,Aebtissinwisch,Am Bahnhof,21,,53.91966172,9.24841972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O0,25572,Aebtissinwisch,Am Bahnhof,22,,53.91959839,9.24819713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O1,25572,Aebtissinwisch,Am Bahnhof,23,,53.91955381,9.24795951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O2,25572,Aebtissinwisch,Am Bahnhof,24,,53.91912095,9.24758778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O3,25572,Aebtissinwisch,Am Bahnhof,3,,53.9199901,9.25228337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O4,25572,Aebtissinwisch,Am Bahnhof,4,,53.92018518,9.2519285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O5,25572,Aebtissinwisch,Am Bahnhof,5,,53.91991252,9.25183217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O6,25572,Aebtissinwisch,Am Bahnhof,6,,53.92013958,9.25165726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O7,25572,Aebtissinwisch,Am Bahnhof,7,,53.92009862,9.25142272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O8,25572,Aebtissinwisch,Am Bahnhof,8,,53.91983712,9.25135983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5O9,25572,Aebtissinwisch,Am Bahnhof,9,,53.92001028,9.25084821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OA,25572,Aebtissinwisch,Flethseer Straße,23,a,53.92348615,9.25075259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OB,25572,Aebtissinwisch,Flethseer Straße,24,,53.92494688,9.25257298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OC,25572,Aebtissinwisch,Flethseer Straße,25,,53.92403713,9.25076643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OD,25572,Aebtissinwisch,Flethseer Straße,26,,53.92537239,9.25248149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OE,25572,Aebtissinwisch,Flethseer Straße,27,,53.92562079,9.25177455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OF,25572,Aebtissinwisch,Flethseer Straße,28,,53.92554612,9.25058027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OG,25572,Aebtissinwisch,Flethseer Straße,29,,53.92653433,9.25028965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OH,25572,Aebtissinwisch,Flethseer Straße,3,,53.91445748,9.2596028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OI,25572,Aebtissinwisch,Flethseer Straße,30,,53.92610798,9.24915698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OJ,25572,Aebtissinwisch,Flethseer Straße,31,,53.92642247,9.24868297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OK,25572,Aebtissinwisch,Flethseer Straße,32,,53.9266217,9.24881284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OL,25572,Aebtissinwisch,Flethseer Straße,33,,53.92894701,9.25230572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OM,25572,Aebtissinwisch,Flethseer Straße,34,,53.92694535,9.24876545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ON,25572,Aebtissinwisch,Flethseer Straße,35,,53.92726372,9.24954825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OO,25572,Aebtissinwisch,Flethseer Straße,36,,53.92894378,9.25054371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OP,25572,Aebtissinwisch,Flethseer Straße,37,,53.92812627,9.24908588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OQ,25572,Aebtissinwisch,Flethseer Straße,38,,53.92947831,9.2488723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OR,25572,Aebtissinwisch,Flethseer Straße,39,,53.93080108,9.24851312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OS,25572,Aebtissinwisch,Flethseer Straße,40,,53.93057354,9.24787093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OT,25572,Aebtissinwisch,Flethseer Straße,41,,53.93135294,9.24846435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OU,25572,Aebtissinwisch,Flethseer Straße,42,,53.93177988,9.24789178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OV,25572,Aebtissinwisch,Flethseer Straße,43,,53.93274494,9.24789059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OW,25572,Aebtissinwisch,Flethseer Straße,5,,53.91787484,9.25567631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OX,25572,Aebtissinwisch,Flethseer Straße,6,,53.91930441,9.25301355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OY,25572,Aebtissinwisch,Flethseer Straße,7,,53.91955732,9.25304998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5OZ,25572,Aebtissinwisch,Flethseer Straße,8,,53.91983932,9.25267779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oa,25572,Aebtissinwisch,Birkenallee,1,,53.9315129,9.24531238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ob,25572,Aebtissinwisch,Birkenallee,2,,53.93127061,9.24432414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oc,25572,Aebtissinwisch,Birkenallee,3,,53.93269902,9.2411843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Od,25572,Aebtissinwisch,Birkenallee,4,,53.93229299,9.24022888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oe,25572,Aebtissinwisch,Birkenallee,5,,53.93086541,9.2432085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Of,25572,Aebtissinwisch,Birkenallee,6,,53.92988614,9.24250477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Og,25572,Aebtissinwisch,Birkenallee,7,,53.93105909,9.23732383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oh,25572,Aebtissinwisch,Birkenallee,8,,53.93111029,9.23465559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oi,25572,Aebtissinwisch,Flethseer Straße,1,,53.91266187,9.26068683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oj,25572,Aebtissinwisch,Flethseer Straße,10,,53.92014596,9.25307385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ok,25572,Aebtissinwisch,Flethseer Straße,11,,53.92050938,9.25284585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ol,25572,Aebtissinwisch,Flethseer Straße,12,,53.92127488,9.25238676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Om,25572,Aebtissinwisch,Flethseer Straße,12,a,53.92146675,9.25246237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5On,25572,Aebtissinwisch,Flethseer Straße,13,,53.92138885,9.25182531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oo,25572,Aebtissinwisch,Flethseer Straße,14,,53.92158347,9.25224025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Op,25572,Aebtissinwisch,Flethseer Straße,15,,53.92171173,9.25216546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oq,25572,Aebtissinwisch,Flethseer Straße,16,,53.92212595,9.25427176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Or,25572,Aebtissinwisch,Flethseer Straße,17,,53.92207342,9.25198233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Os,25572,Aebtissinwisch,Flethseer Straße,18,,53.92203792,9.25157797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ot,25572,Aebtissinwisch,Flethseer Straße,19,,53.92217482,9.25147113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ou,25572,Aebtissinwisch,Flethseer Straße,2,,53.91363385,9.26028718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ov,25572,Aebtissinwisch,Flethseer Straße,20,,53.92228225,9.25186448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ow,25572,Aebtissinwisch,Flethseer Straße,20,a,53.92244429,9.25176557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ox,25572,Aebtissinwisch,Flethseer Straße,21,,53.92234908,9.25135455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oy,25572,Aebtissinwisch,Flethseer Straße,22,,53.92262612,9.25167853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Oz,25572,Aebtissinwisch,Flethseer Straße,23,,53.92492042,9.25920734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P0,25572,Aebtissinwisch,Flethseer Straße,9,,53.92009788,9.2527458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P1,25572,Aebtissinwisch,Landscheider Weg,1,,53.91641535,9.26868098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P2,25572,Aebtissinwisch,Landscheider Weg,10,,53.91866423,9.27704487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P3,25572,Aebtissinwisch,Landscheider Weg,11,,53.91954978,9.27635011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P4,25572,Aebtissinwisch,Landscheider Weg,12,,53.91986742,9.27600714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P5,25572,Aebtissinwisch,Landscheider Weg,13,,53.92004049,9.27574756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P6,25572,Aebtissinwisch,Landscheider Weg,14,,53.92047323,9.27514138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P7,25572,Aebtissinwisch,Landscheider Weg,15,,53.92085039,9.27491722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P8,25572,Aebtissinwisch,Landscheider Weg,16,,53.92087164,9.27455281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5P9,25572,Aebtissinwisch,Landscheider Weg,17,,53.92128769,9.27432516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pa,25572,Aebtissinwisch,Landscheider Weg,18,,53.92117958,9.27387568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pb,25572,Aebtissinwisch,Landscheider Weg,2,,53.91742326,9.27784914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pc,25572,Aebtissinwisch,Landscheider Weg,3,,53.91802382,9.278069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pe,25572,Aebtissinwisch,Landscheider Weg,9,,53.91824258,9.27793419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pf,25572,Aebtissinwisch,Moorweg,1,,53.91710656,9.265718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pg,25572,Aebtissinwisch,Moorweg,3,,53.91967721,9.26387752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ph,25572,Aebtissinwisch,Moorweg,4,,53.92061695,9.25744147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pi,25572,Aebtissinwisch,Moorweg,5,,53.92153349,9.25656904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pj,25572,Aebtissinwisch,Wetterndorf,1,,53.9132934,9.27069744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pk,25572,Aebtissinwisch,Wetterndorf,10,,53.91049356,9.2840688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pl,25572,Aebtissinwisch,Wetterndorf,11,,53.90647152,9.27985364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pm,25572,Aebtissinwisch,Wetterndorf,13,,53.90348553,9.27513122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pn,25572,Aebtissinwisch,Wetterndorf,2,,53.9112352,9.27198846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Po,25572,Aebtissinwisch,Wetterndorf,3,,53.91146468,9.28147691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pp,25572,Aebtissinwisch,Wetterndorf,4,,53.91355726,9.28088525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pq,25572,Aebtissinwisch,Wetterndorf,5,,53.91396258,9.28057208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pr,25572,Aebtissinwisch,Wetterndorf,6,,53.91151698,9.27667812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Ps,25572,Aebtissinwisch,Wetterndorf,7,,53.90743081,9.27933856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pt,25572,Aebtissinwisch,Wetterndorf,8,,53.90814894,9.27952276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5Pu,25572,Aebtissinwisch,Wetterndorf,9,,53.90890411,9.2845878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zA,25572,Aebtissinwisch,An Lütten Kanol,12,,53.92679489,9.21425993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zB,25572,Aebtissinwisch,An Lütten Kanol,13,,53.92658673,9.21444475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zC,25572,Aebtissinwisch,An Lütten Kanol,14,,53.92288371,9.21762285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zD,25572,Aebtissinwisch,An Lütten Kanol,15,,53.92223504,9.21815213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zE,25572,Aebtissinwisch,An Lütten Kanol,16,,53.92174453,9.21854329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zF,25572,Aebtissinwisch,An Lütten Kanol,17,,53.92934958,9.21138869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zG,25572,Aebtissinwisch,An Lütten Kanol,18,,53.92902695,9.21173624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zH,25572,Aebtissinwisch,An Lütten Kanol,19,,53.92878245,9.21200131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zI,25572,Aebtissinwisch,An Lütten Kanol,2,,53.92933279,9.21188115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zJ,25572,Aebtissinwisch,An Lütten Kanol,20,,53.92852889,9.21224886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zK,25572,Aebtissinwisch,An Lütten Kanol,21,,53.92822081,9.21253777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zL,25572,Aebtissinwisch,An Lütten Kanol,22,,53.92797523,9.21272595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zM,25572,Aebtissinwisch,An Lütten Kanol,3,,53.9292024,9.21201978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zN,25572,Aebtissinwisch,An Lütten Kanol,4,,53.92909369,9.21212872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zO,25572,Aebtissinwisch,An Lütten Kanol,5,,53.92881072,9.21248139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zP,25572,Aebtissinwisch,An Lütten Kanol,6,,53.92858846,9.21266934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zQ,25572,Aebtissinwisch,An Lütten Kanol,7,,53.92844885,9.21279324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zR,25572,Aebtissinwisch,An Lütten Kanol,8,,53.92813751,9.21304825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zS,25572,Aebtissinwisch,An Lütten Kanol,9,,53.9276723,9.21349716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zT,25572,Aebtissinwisch,Dörpstroot,1,,53.93139246,9.22046518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zU,25572,Aebtissinwisch,Dörpstroot,10,,53.93031623,9.21409996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zV,25572,Aebtissinwisch,Dörpstroot,11,,53.93051822,9.21364082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zW,25572,Aebtissinwisch,Dörpstroot,12,,53.93020619,9.21361353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zX,25572,Aebtissinwisch,Dörpstroot,13,,53.93043436,9.212978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zY,25572,Aebtissinwisch,Dörpstroot,14,,53.92979966,9.21275114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zZ,25572,Aebtissinwisch,Dörpstroot,14,a,53.92995948,9.21260159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zw,25572,Aebtissinwisch,An Kanol,1,,53.93404987,9.21045814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zx,25572,Aebtissinwisch,An Lütten Kanol,1,,53.92947689,9.21175095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zy,25572,Aebtissinwisch,An Lütten Kanol,10,,53.92733635,9.21379636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5zz,25572,Aebtissinwisch,An Lütten Kanol,11,,53.92698529,9.21410024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Sx,25572,Aebtissinwisch,Am Schöpfwerk,2,,53.98740374,9.2867113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7cY,25572,Aebtissinwisch,Am Sportplatz,1,,53.89164789,9.25995983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7cZ,25572,Aebtissinwisch,Am Sportplatz,10,,53.89233724,9.26005133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d0,25572,Aebtissinwisch,Am Sportplatz,11,,53.8925987,9.26001571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d1,25572,Aebtissinwisch,Am Sportplatz,12,,53.89253191,9.25958915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d2,25572,Aebtissinwisch,Am Sportplatz,13,,53.89248511,9.25912942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d3,25572,Aebtissinwisch,Am Sportplatz,14,,53.89220334,9.25921725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d4,25572,Aebtissinwisch,Am Sportplatz,15,,53.89213702,9.25977193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d5,25572,Aebtissinwisch,Am Sportplatz,16,,53.89199225,9.25937134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d6,25572,Aebtissinwisch,Am Sportplatz,17,,53.89178668,9.25962094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d7,25572,Aebtissinwisch,Am Sportplatz,2,,53.89170398,9.26034825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d8,25572,Aebtissinwisch,Am Sportplatz,3,,53.89175058,9.26063916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7d9,25572,Aebtissinwisch,Am Sportplatz,4,,53.89175217,9.26088617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dA,25572,Aebtissinwisch,Bahnhofstraße,28,c,53.89456989,9.25369955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dB,25572,Aebtissinwisch,Bahnhofstraße,3,,53.89266464,9.25410085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dC,25572,Aebtissinwisch,Bahnhofstraße,30,,53.89485232,9.25361073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dD,25572,Aebtissinwisch,Bahnhofstraße,32,,53.89510135,9.25361026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dE,25572,Aebtissinwisch,Bahnhofstraße,34,,53.89522368,9.25355063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dF,25572,Aebtissinwisch,Bahnhofstraße,36,,53.89532009,9.25350231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dG,25572,Aebtissinwisch,Bahnhofstraße,38,,53.89541148,9.25346353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dH,25572,Aebtissinwisch,Bahnhofstraße,4,,53.89284395,9.25367058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dI,25572,Aebtissinwisch,Bahnhofstraße,40,,53.89554421,9.25335639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dJ,25572,Aebtissinwisch,Bahnhofstraße,5,,53.89278497,9.25405357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dK,25572,Aebtissinwisch,Bahnhofstraße,6,,53.8929884,9.25362726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dL,25572,Aebtissinwisch,Bahnhofstraße,7,,53.8929332,9.25408784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dM,25572,Aebtissinwisch,Bahnhofstraße,8,,53.89314369,9.253567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dN,25572,Aebtissinwisch,Bahnhofstraße,9,,53.89308564,9.2540445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dO,25572,Aebtissinwisch,Deichreihe,1,,53.89125814,9.25383108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dP,25572,Aebtissinwisch,Deichreihe,10,,53.89045432,9.2546147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dQ,25572,Aebtissinwisch,Deichreihe,2,,53.89117864,9.25395785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dR,25572,Aebtissinwisch,Deichreihe,3,,53.89110542,9.25406598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dS,25572,Aebtissinwisch,Deichreihe,4,,53.89103588,9.25415938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dT,25572,Aebtissinwisch,Deichreihe,5,,53.89093427,9.25425429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dU,25572,Aebtissinwisch,Deichreihe,6,,53.89085334,9.25431886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dV,25572,Aebtissinwisch,Deichreihe,7,,53.89074965,9.25440221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dW,25572,Aebtissinwisch,Deichreihe,8,,53.89061215,9.25451586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dX,25572,Aebtissinwisch,Deichreihe,9,,53.8905422,9.254566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dY,25572,Aebtissinwisch,Dorfstraße,1,,53.89200572,9.25399466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dZ,25572,Aebtissinwisch,Dorfstraße,10,,53.89106469,9.25460843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7da,25572,Aebtissinwisch,Am Sportplatz,5,,53.89189708,9.26010264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7db,25572,Aebtissinwisch,Am Sportplatz,6,,53.89205684,9.26049763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dc,25572,Aebtissinwisch,Am Sportplatz,7,,53.89215139,9.26089928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dd,25572,Aebtissinwisch,Am Sportplatz,8,,53.8925185,9.26075797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7de,25572,Aebtissinwisch,Am Sportplatz,9,,53.89238606,9.26037808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7df,25572,Aebtissinwisch,Bahnhofstraße,1,,53.89251818,9.25414193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dg,25572,Aebtissinwisch,Bahnhofstraße,11,,53.89320922,9.25403439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dh,25572,Aebtissinwisch,Bahnhofstraße,12,,53.89338301,9.2535867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7di,25572,Aebtissinwisch,Bahnhofstraße,13,,53.89336202,9.25404283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dj,25572,Aebtissinwisch,Bahnhofstraße,14,,53.89390821,9.25367378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dk,25572,Aebtissinwisch,Bahnhofstraße,15,,53.89351176,9.25404384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dl,25572,Aebtissinwisch,Bahnhofstraße,16,,53.89390821,9.25367378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dm,25572,Aebtissinwisch,Bahnhofstraße,17,,53.8938114,9.25607138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dn,25572,Aebtissinwisch,Bahnhofstraße,18,,53.89373277,9.25340969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7do,25572,Aebtissinwisch,Bahnhofstraße,19,,53.89363717,9.25682973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dp,25572,Aebtissinwisch,Bahnhofstraße,2,,53.89270498,9.25371638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dq,25572,Aebtissinwisch,Bahnhofstraße,20,,53.89373277,9.25340969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dr,25572,Aebtissinwisch,Bahnhofstraße,21,,53.89375316,9.25426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ds,25572,Aebtissinwisch,Bahnhofstraße,21,a,53.89378395,9.25450474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7du,25572,Aebtissinwisch,Bahnhofstraße,23,,53.89390903,9.25422988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dw,25572,Aebtissinwisch,Bahnhofstraße,25,,53.89588064,9.25784668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dy,25572,Aebtissinwisch,Bahnhofstraße,28,a,53.89422354,9.25371847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7dz,25572,Aebtissinwisch,Bahnhofstraße,28,b,53.89439657,9.25383917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e0,25572,Aebtissinwisch,Dorfstraße,11,,53.89157143,9.25413549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e1,25572,Aebtissinwisch,Dorfstraße,12,,53.8909544,9.25475686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e2,25572,Aebtissinwisch,Dorfstraße,13,,53.89138601,9.25406097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e3,25572,Aebtissinwisch,Dorfstraße,15,,53.89064662,9.25498925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e4,25572,Aebtissinwisch,Dorfstraße,16,,53.89028372,9.25630629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e5,25572,Aebtissinwisch,Dorfstraße,17,,53.8905098,9.25507681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e6,25572,Aebtissinwisch,Dorfstraße,18,,53.88981033,9.25596372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e7,25572,Aebtissinwisch,Dorfstraße,19,,53.89037952,9.25515255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e8,25572,Aebtissinwisch,Dorfstraße,2,,53.89158002,9.25468597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7e9,25572,Aebtissinwisch,Dorfstraße,20,,53.88967133,9.25603236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eA,25572,Aebtissinwisch,Dorfstraße,9,,53.89158632,9.25366479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eB,25572,Aebtissinwisch,Elredefleth,1,,53.88886655,9.257511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eC,25572,Aebtissinwisch,Elredefleth,10,,53.88921712,9.25824417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eD,25572,Aebtissinwisch,Elredefleth,11,,53.88916409,9.25936167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eE,25572,Aebtissinwisch,Elredefleth,12,,53.88925184,9.2585409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eF,25572,Aebtissinwisch,Elredefleth,13,,53.88911182,9.25966844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eG,25572,Aebtissinwisch,Elredefleth,14,,53.88929186,9.25893348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eH,25572,Aebtissinwisch,Elredefleth,15,,53.88938976,9.25955694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eI,25572,Aebtissinwisch,Elredefleth,2,,53.88900524,9.25699491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eJ,25572,Aebtissinwisch,Elredefleth,3,,53.88889949,9.25790725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eK,25572,Aebtissinwisch,Elredefleth,4,,53.88908503,9.25725122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eL,25572,Aebtissinwisch,Elredefleth,5,,53.88896261,9.25846114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eM,25572,Aebtissinwisch,Elredefleth,6,,53.88914805,9.25753916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eN,25572,Aebtissinwisch,Elredefleth,7,,53.8889879,9.25877914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eO,25572,Aebtissinwisch,Elredefleth,8,,53.88917967,9.25788804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eP,25572,Aebtissinwisch,Elredefleth,9,,53.88903779,9.25912925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eQ,25572,Aebtissinwisch,Hafenstraße,1,,53.89251083,9.25183882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eR,25572,Aebtissinwisch,Hafenstraße,2,,53.89256946,9.25161476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eS,25572,Aebtissinwisch,Hafenstraße,3,,53.89272472,9.25173572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eT,25572,Aebtissinwisch,Hafenstraße,4,,53.89278322,9.2515025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eU,25572,Aebtissinwisch,Hauptstraße,1,,53.89105045,9.25999098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eV,25572,Aebtissinwisch,Hauptstraße,10,,53.89162381,9.25823958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eW,25572,Aebtissinwisch,Hauptstraße,11,,53.89163619,9.25582161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eX,25572,Aebtissinwisch,Hauptstraße,12,,53.89198646,9.25590894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eY,25572,Aebtissinwisch,Hauptstraße,13,,53.89196812,9.25457977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eZ,25572,Aebtissinwisch,Hauptstraße,14,,53.8921327,9.25465307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ea,25572,Aebtissinwisch,Dorfstraße,21,,53.89023801,9.25513871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eb,25572,Aebtissinwisch,Dorfstraße,22,,53.88950817,9.25613051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ec,25572,Aebtissinwisch,Dorfstraße,23,,53.89010491,9.2552128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ed,25572,Aebtissinwisch,Dorfstraße,24,,53.88928038,9.25632786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ee,25572,Aebtissinwisch,Dorfstraße,25,,53.88991635,9.25569084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ef,25572,Aebtissinwisch,Dorfstraße,26,,53.88908842,9.25638017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eg,25572,Aebtissinwisch,Dorfstraße,27,,53.88984167,9.25572334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eh,25572,Aebtissinwisch,Dorfstraße,28,,53.88892429,9.25655357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ei,25572,Aebtissinwisch,Dorfstraße,29,,53.88966495,9.25532165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ej,25572,Aebtissinwisch,Dorfstraße,3,,53.89189929,9.25407036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ek,25572,Aebtissinwisch,Dorfstraße,30,,53.88853754,9.25651969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7el,25572,Aebtissinwisch,Dorfstraße,31,,53.88969462,9.2557868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7em,25572,Aebtissinwisch,Dorfstraße,32,,53.88833358,9.25641223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7en,25572,Aebtissinwisch,Dorfstraße,33,,53.88956232,9.25541672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eo,25572,Aebtissinwisch,Dorfstraße,34,,53.88812445,9.25656852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ep,25572,Aebtissinwisch,Dorfstraße,35,,53.88941114,9.25545394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eq,25572,Aebtissinwisch,Dorfstraße,37,,53.88929908,9.25587138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7er,25572,Aebtissinwisch,Dorfstraße,39,,53.88924942,9.25588798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7es,25572,Aebtissinwisch,Dorfstraße,4,,53.89163848,9.25438454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7et,25572,Aebtissinwisch,Dorfstraße,41,,53.88850126,9.25607291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7eu,25572,Aebtissinwisch,Dorfstraße,45,,53.88791039,9.25577404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ev,25572,Aebtissinwisch,Dorfstraße,5,,53.89177933,9.25411695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ew,25572,Aebtissinwisch,Dorfstraße,6,,53.8914508,9.25434687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ex,25572,Aebtissinwisch,Dorfstraße,7,,53.89180273,9.25351354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ey,25572,Aebtissinwisch,Dorfstraße,7,a,53.89180273,9.25351354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ez,25572,Aebtissinwisch,Dorfstraße,8,,53.89120023,9.25448856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f0,25572,Aebtissinwisch,Hauptstraße,15,,53.89210667,9.25380026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f1,25572,Aebtissinwisch,Hauptstraße,16,,53.8922346,9.25426151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f2,25572,Aebtissinwisch,Hauptstraße,17,,53.89210977,9.25337687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f3,25572,Aebtissinwisch,Hauptstraße,18,,53.89239897,9.2534913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f4,25572,Aebtissinwisch,Hauptstraße,19,,53.89226634,9.25321966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f5,25572,Aebtissinwisch,Hauptstraße,2,,53.89149227,9.25960261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f6,25572,Aebtissinwisch,Hauptstraße,20,,53.89287188,9.25307349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f7,25572,Aebtissinwisch,Hauptstraße,21,,53.89233487,9.25302827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f8,25572,Aebtissinwisch,Hauptstraße,22,,53.89272638,9.25267215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7f9,25572,Aebtissinwisch,Hauptstraße,24,,53.89282076,9.25230767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fA,25572,Aebtissinwisch,Heideducht,19,,53.88390783,9.25723801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fB,25572,Aebtissinwisch,Heideducht,2,,53.88725633,9.25612185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fC,25572,Aebtissinwisch,Heideducht,20,,53.88365503,9.25697922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fD,25572,Aebtissinwisch,Heideducht,22,,53.88370197,9.25790788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fE,25572,Aebtissinwisch,Heideducht,23,,53.88268743,9.25826562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fF,25572,Aebtissinwisch,Heideducht,24,,53.88087203,9.26037659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fG,25572,Aebtissinwisch,Heideducht,25,,53.88055134,9.26102281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fH,25572,Aebtissinwisch,Heideducht,26,,53.88011676,9.26249708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fI,25572,Aebtissinwisch,Heideducht,27,,53.87966733,9.26275606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fJ,25572,Aebtissinwisch,Heideducht,28,,53.87978736,9.26380188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fK,25572,Aebtissinwisch,Heideducht,29,,53.87962877,9.26423941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fL,25572,Aebtissinwisch,Heideducht,3,,53.88702484,9.25535481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fM,25572,Aebtissinwisch,Heideducht,3,a,53.88673833,9.25580512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fN,25572,Aebtissinwisch,Heideducht,30,,53.87778022,9.26813707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fO,25572,Aebtissinwisch,Heideducht,31,,53.87795175,9.26919312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fP,25572,Aebtissinwisch,Heideducht,32,,53.87796997,9.26967698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fQ,25572,Aebtissinwisch,Heideducht,33,,53.87884698,9.27153099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fR,25572,Aebtissinwisch,Heideducht,34,,53.87833454,9.2726648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fS,25572,Aebtissinwisch,Heideducht,35,,53.87832348,9.27586846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fT,25572,Aebtissinwisch,Heideducht,5,,53.88657307,9.25551519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fU,25572,Aebtissinwisch,Heideducht,6,,53.8863254,9.25662085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fV,25572,Aebtissinwisch,Heideducht,7,,53.88613942,9.25597204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fW,25572,Aebtissinwisch,Heideducht,8,,53.88586413,9.25632039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fX,25572,Aebtissinwisch,Heideducht,9,,53.88593393,9.255926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fY,25572,Aebtissinwisch,Herzogstraße,1,,53.89168551,9.25535317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fZ,25572,Aebtissinwisch,Herzogstraße,2,,53.8913557,9.25557362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fa,25572,Aebtissinwisch,Hauptstraße,25,,53.89245195,9.25282841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fb,25572,Aebtissinwisch,Hauptstraße,26,,53.89301661,9.2520897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fc,25572,Aebtissinwisch,Hauptstraße,27,,53.8922344,9.25238179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fd,25572,Aebtissinwisch,Hauptstraße,27,a,53.89249071,9.25260493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fe,25572,Aebtissinwisch,Hauptstraße,28,,53.89344815,9.25187119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ff,25572,Aebtissinwisch,Hauptstraße,29,,53.89248722,9.25224686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fg,25572,Aebtissinwisch,Hauptstraße,3,,53.89109246,9.25947236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fh,25572,Aebtissinwisch,Hauptstraße,4,,53.89147417,9.25933907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fi,25572,Aebtissinwisch,Hauptstraße,5,,53.89108202,9.25936429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fj,25572,Aebtissinwisch,Hauptstraße,6,,53.89147011,9.25917357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fk,25572,Aebtissinwisch,Hauptstraße,7,,53.89102383,9.25905114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fl,25572,Aebtissinwisch,Hauptstraße,8,,53.89152319,9.25877679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fm,25572,Aebtissinwisch,Hauptstraße,8,a,53.89161766,9.25884183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fn,25572,Aebtissinwisch,Hauptstraße,9,,53.89155828,9.25619673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fo,25572,Aebtissinwisch,Heideducht,1,,53.88747452,9.25537551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fp,25572,Aebtissinwisch,Heideducht,1,a,53.88728067,9.25553187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fq,25572,Aebtissinwisch,Heideducht,10,,53.88568963,9.25597736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fr,25572,Aebtissinwisch,Heideducht,10,a,53.88546199,9.25634553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fs,25572,Aebtissinwisch,Heideducht,11,,53.88533353,9.25677038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ft,25572,Aebtissinwisch,Heideducht,12,,53.88508654,9.25614468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fu,25572,Aebtissinwisch,Heideducht,13,,53.88493117,9.25642591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fv,25572,Aebtissinwisch,Heideducht,14,,53.88476321,9.256479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fw,25572,Aebtissinwisch,Heideducht,15,,53.88465359,9.25648732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fx,25572,Aebtissinwisch,Heideducht,16,,53.88450164,9.25652925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fy,25572,Aebtissinwisch,Heideducht,17,,53.88436252,9.25668946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7fz,25572,Aebtissinwisch,Heideducht,18,,53.88413475,9.25691382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g0,25572,Aebtissinwisch,Herzogstraße,3,,53.89143649,9.2553277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g1,25572,Aebtissinwisch,Herzogstraße,4,,53.89105005,9.25532189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g2,25572,Aebtissinwisch,Herzogstraße,5,,53.89136102,9.25530515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g3,25572,Aebtissinwisch,Herzogstraße,7,,53.89121064,9.25519889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g4,25572,Aebtissinwisch,Hoher Kamp,1,,53.88939669,9.25709285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g5,25572,Aebtissinwisch,Hoher Kamp,1,a,53.88934676,9.25674218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g6,25572,Aebtissinwisch,Hoher Kamp,10,,53.88970415,9.25787108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g7,25572,Aebtissinwisch,Hoher Kamp,11,,53.88958469,9.25880109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g8,25572,Aebtissinwisch,Hoher Kamp,12,,53.88973174,9.25820908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7g9,25572,Aebtissinwisch,Hoher Kamp,13,,53.88966807,9.25947279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gA,25572,Aebtissinwisch,Kirchducht,10,,53.89390084,9.2497005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gB,25572,Aebtissinwisch,Kirchducht,12,,53.89396529,9.24930418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gC,25572,Aebtissinwisch,Kirchducht,14,,53.89401891,9.24910107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gD,25572,Aebtissinwisch,Kirchducht,16,,53.89408359,9.24890931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gE,25572,Aebtissinwisch,Kirchducht,16,a,53.89426642,9.24909544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gF,25572,Aebtissinwisch,Kirchducht,18,,53.89448665,9.24837299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gG,25572,Aebtissinwisch,Kirchducht,18,a,53.89446805,9.24882188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gH,25572,Aebtissinwisch,Kirchducht,18,b,53.89428142,9.2486288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gI,25572,Aebtissinwisch,Kirchducht,2,,53.89335222,9.25095055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gJ,25572,Aebtissinwisch,Kirchducht,20,,53.89441074,9.24795743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gK,25572,Aebtissinwisch,Kirchducht,22,,53.89461757,9.24812698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gL,25572,Aebtissinwisch,Kirchducht,23,,53.89451129,9.24450377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gM,25572,Aebtissinwisch,Kirchducht,24,,53.89463165,9.24799789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gN,25572,Aebtissinwisch,Kirchducht,25,,53.89431106,9.24191883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gO,25572,Aebtissinwisch,Kirchducht,26,,53.89470789,9.24755984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gP,25572,Aebtissinwisch,Kirchducht,27,,53.89425114,9.24024565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gQ,25572,Aebtissinwisch,Kirchducht,28,,53.89478388,9.2470067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gR,25572,Aebtissinwisch,Kirchducht,29,,53.89436879,9.23940517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gS,25572,Aebtissinwisch,Kirchducht,30,a,53.89492782,9.24621055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gT,25572,Aebtissinwisch,Kirchducht,30,b,53.89520797,9.24621988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gU,25572,Aebtissinwisch,Kirchducht,30,c,53.89510012,9.24666956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gV,25572,Aebtissinwisch,Kirchducht,30,d,53.89487704,9.24657521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gW,25572,Aebtissinwisch,Kirchducht,31,,53.89468434,9.23859037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gX,25572,Aebtissinwisch,Kirchducht,32,,53.89500476,9.24502007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gY,25572,Aebtissinwisch,Kirchducht,33,,53.89498585,9.23796322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gZ,25572,Aebtissinwisch,Kirchducht,34,,53.89511077,9.24416284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ga,25572,Aebtissinwisch,Hoher Kamp,14,,53.88977925,9.25864321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gb,25572,Aebtissinwisch,Hoher Kamp,15,,53.88969249,9.25976801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gc,25572,Aebtissinwisch,Hoher Kamp,16,,53.88982327,9.25894277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gd,25572,Aebtissinwisch,Hoher Kamp,17,,53.88966099,9.2601139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ge,25572,Aebtissinwisch,Hoher Kamp,18,,53.88987243,9.25941164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gf,25572,Aebtissinwisch,Hoher Kamp,19,,53.88958474,9.26034786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gg,25572,Aebtissinwisch,Hoher Kamp,21,,53.88933939,9.26041579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gh,25572,Aebtissinwisch,Hoher Kamp,22,,53.88998545,9.26000841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gi,25572,Aebtissinwisch,Hoher Kamp,23,,53.8892952,9.25998467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gj,25572,Aebtissinwisch,Hoher Kamp,24,,53.88990601,9.26025382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gk,25572,Aebtissinwisch,Hoher Kamp,25,,53.88913632,9.26001824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gl,25572,Aebtissinwisch,Hoher Kamp,26,,53.88998836,9.26066109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gm,25572,Aebtissinwisch,Hoher Kamp,27,,53.88918009,9.2603775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gn,25572,Aebtissinwisch,Hoher Kamp,28,,53.89004316,9.26103455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7go,25572,Aebtissinwisch,Hoher Kamp,3,,53.88943798,9.2574446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gp,25572,Aebtissinwisch,Hoher Kamp,30,,53.88984378,9.2610463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gq,25572,Aebtissinwisch,Hoher Kamp,32,,53.88979105,9.26067918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gr,25572,Aebtissinwisch,Hoher Kamp,36,,53.88947394,9.26119193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gs,25572,Aebtissinwisch,Hoher Kamp,38,,53.88932855,9.2612392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gt,25572,Aebtissinwisch,Hoher Kamp,40,,53.88924742,9.26087188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gu,25572,Aebtissinwisch,Hoher Kamp,5,,53.8894788,9.25775648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gv,25572,Aebtissinwisch,Hoher Kamp,6,,53.88962636,9.25715167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gw,25572,Aebtissinwisch,Hoher Kamp,7,,53.88950597,9.25817441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gx,25572,Aebtissinwisch,Hoher Kamp,8,,53.88967142,9.25754732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gy,25572,Aebtissinwisch,Hoher Kamp,9,,53.88954392,9.25847392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7gz,25572,Aebtissinwisch,Kirchducht,1,,53.89304406,9.25101155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h0,25572,Aebtissinwisch,Kirchducht,35,,53.89558236,9.23678387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h1,25572,Aebtissinwisch,Kirchducht,36,,53.89497676,9.24371905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h2,25572,Aebtissinwisch,Kirchducht,37,,53.89678144,9.23475762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h3,25572,Aebtissinwisch,Kirchducht,38,,53.89688329,9.23566232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h4,25572,Aebtissinwisch,Kirchducht,4,,53.89346124,9.25071094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h5,25572,Aebtissinwisch,Kirchducht,41,,53.89785564,9.2339387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h6,25572,Aebtissinwisch,Kirchducht,6,,53.89357293,9.25038259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h7,25572,Aebtissinwisch,Kirchducht,8,,53.89403987,9.24988661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h8,25572,Aebtissinwisch,Kirchducht,8,b,53.89373422,9.25008334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7h9,25572,Aebtissinwisch,Osterbünge-Mitte,1,,53.89415027,9.27765682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hA,25572,Aebtissinwisch,Poststraße,10,,53.89072546,9.25544806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hB,25572,Aebtissinwisch,Poststraße,11,,53.89069336,9.25527383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hC,25572,Aebtissinwisch,Poststraße,2,,53.89104877,9.25818343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hD,25572,Aebtissinwisch,Poststraße,3,,53.89101293,9.25796925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hE,25572,Aebtissinwisch,Poststraße,4,,53.89097325,9.25757508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hF,25572,Aebtissinwisch,Poststraße,5,,53.89090555,9.25707711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hG,25572,Aebtissinwisch,Poststraße,6,,53.89065819,9.25686708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hH,25572,Aebtissinwisch,Poststraße,7,,53.89054807,9.25604798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hI,25572,Aebtissinwisch,Poststraße,8,,53.89054304,9.25575959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hJ,25572,Aebtissinwisch,Poststraße,9,,53.89051298,9.25553595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hK,25572,Aebtissinwisch,Schulweg,1,,53.89238078,9.255577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hL,25572,Aebtissinwisch,Schulweg,2,,53.89232429,9.25537939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hM,25572,Aebtissinwisch,Schulweg,3,,53.89263454,9.2555969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hN,25572,Aebtissinwisch,Stuven,1,,53.89687958,9.25219543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hO,25572,Aebtissinwisch,Stuven,10,,53.90528646,9.25421997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hP,25572,Aebtissinwisch,Stuven,11,,53.9065898,9.25611563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hQ,25572,Aebtissinwisch,Stuven,12,,53.90872421,9.25894615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hR,25572,Aebtissinwisch,Stuven,13,,53.90839667,9.25670552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hS,25572,Aebtissinwisch,Stuven,14,,53.9095811,9.26004403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hT,25572,Aebtissinwisch,Stuven,15,,53.91072671,9.26013941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hU,25572,Aebtissinwisch,Stuven,2,,53.89818124,9.25282195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hV,25572,Aebtissinwisch,Stuven,3,,53.89918696,9.25311855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hW,25572,Aebtissinwisch,Stuven,3,a,53.89996651,9.25356331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hX,25572,Aebtissinwisch,Stuven,4,,53.90031788,9.25360787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hY,25572,Aebtissinwisch,Stuven,5,,53.90185719,9.25340629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hZ,25572,Aebtissinwisch,Stuven,6,,53.90332731,9.2522316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ha,25572,Aebtissinwisch,Osterbünge-Mitte,10,,53.90135246,9.28418749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hb,25572,Aebtissinwisch,Osterbünge-Mitte,11,,53.90337139,9.28587162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hc,25572,Aebtissinwisch,Osterbünge-Mitte,2,,53.89488588,9.27782565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hd,25572,Aebtissinwisch,Osterbünge-Mitte,3,,53.89556394,9.27830232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7he,25572,Aebtissinwisch,Osterbünge-Mitte,4,,53.89655663,9.27858655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hf,25572,Aebtissinwisch,Osterbünge-Mitte,5,,53.89770316,9.27959932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hg,25572,Aebtissinwisch,Osterbünge-Mitte,6,,53.8984633,9.28079512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hh,25572,Aebtissinwisch,Osterbünge-Mitte,7,,53.89834911,9.28159825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hi,25572,Aebtissinwisch,Osterbünge-Mitte,8,,53.898788,9.28265757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hj,25572,Aebtissinwisch,Osterbünge-Mitte,9,,53.9000912,9.2836572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hk,25572,Aebtissinwisch,Osterbünge-Nord,1,,53.8942052,9.28616711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hl,25572,Aebtissinwisch,Osterbünge-Nord,2,,53.89581851,9.29270382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hm,25572,Aebtissinwisch,Osterbünge-Nord,3,,53.89754239,9.29582582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hn,25572,Aebtissinwisch,Osterbünge-Nord,4,,53.8993131,9.29323387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ho,25572,Aebtissinwisch,Osterbünge-Nord,5,,53.89995519,9.29100351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hp,25572,Aebtissinwisch,Osterbünge-Nord,6,,53.90281374,9.29237693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hq,25572,Aebtissinwisch,Osterbünge-Süd,1,,53.88769043,9.2851467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hr,25572,Aebtissinwisch,Osterbünge-Süd,2,,53.88976963,9.27998202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hs,25572,Aebtissinwisch,Osterbünge-Süd,3,,53.89162171,9.27619031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ht,25572,Aebtissinwisch,Osterbünge-Süd,4,,53.89209422,9.26935198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hu,25572,Aebtissinwisch,Osterbünge-Süd,5,,53.88944918,9.27574755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hv,25572,Aebtissinwisch,Osterbünge-Süd,6,,53.88667277,9.27531833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hw,25572,Aebtissinwisch,Osterbünge-Süd,7,,53.88422729,9.2684215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hx,25572,Aebtissinwisch,Osterbünge-Süd,8,,53.88231241,9.26723386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hy,25572,Aebtissinwisch,Osterbünge-Süd,9,,53.8819029,9.27013552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7hz,25572,Aebtissinwisch,Poststraße,1,,53.89103954,9.25842968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i0,25572,Aebtissinwisch,Stuven,7,,53.90478933,9.25383934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i1,25572,Aebtissinwisch,Stuven,8,,53.90500439,9.25400658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i2,25572,Aebtissinwisch,Stuven,9,,53.90514615,9.25411932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i3,25572,Aebtissinwisch,Süderkamp,1,,53.88863009,9.25811721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i4,25572,Aebtissinwisch,Süderkamp,10,,53.88877796,9.25985479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i5,25572,Aebtissinwisch,Süderkamp,11,,53.88850161,9.25951905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i6,25572,Aebtissinwisch,Süderkamp,12,,53.88882602,9.26021773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i7,25572,Aebtissinwisch,Süderkamp,13,,53.88854508,9.25990973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i8,25572,Aebtissinwisch,Süderkamp,14,,53.88897864,9.2605555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7i9,25572,Aebtissinwisch,Süderkamp,14,a,53.8889084,9.26058417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iA,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,2,,53.89385571,9.25285514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iB,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,3,,53.89409238,9.25313702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iC,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,4,,53.89383427,9.25269211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iD,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,5,,53.89406726,9.25280921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iE,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,6,,53.89381809,9.25240892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iF,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,7,,53.89405381,9.25267717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iG,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,8,,53.89381229,9.25205885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iH,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,9,,53.89401822,9.25232576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ia,25572,Aebtissinwisch,Süderkamp,15,,53.88858664,9.26024621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ib,25572,Aebtissinwisch,Süderkamp,16,,53.88900347,9.26089247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ic,25572,Aebtissinwisch,Süderkamp,16,a,53.88889655,9.26092584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7id,25572,Aebtissinwisch,Süderkamp,17,,53.88862714,9.26059463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ie,25572,Aebtissinwisch,Süderkamp,18,,53.88893804,9.26133694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7if,25572,Aebtissinwisch,Süderkamp,19,,53.88866696,9.2609705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ig,25572,Aebtissinwisch,Süderkamp,2,,53.88868805,9.2584311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ih,25572,Aebtissinwisch,Süderkamp,21,,53.88866548,9.26133134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ii,25572,Aebtissinwisch,Süderkamp,5,,53.88830867,9.25826278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ij,25572,Aebtissinwisch,Süderkamp,6,,53.88872174,9.25925964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ik,25572,Aebtissinwisch,Süderkamp,7,,53.88836975,9.25862062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7il,25572,Aebtissinwisch,Süderkamp,8,,53.88874186,9.25960194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7im,25572,Aebtissinwisch,Süderkamp,9,,53.88844094,9.25895836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7in,25572,Aebtissinwisch,Weberhörn,1,,53.88876509,9.25541464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7io,25572,Aebtissinwisch,Weberhörn,2,,53.88825092,9.25508967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ip,25572,Aebtissinwisch,Weberhörn,3,,53.8880938,9.25547912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iq,25572,Aebtissinwisch,Weberhörn,4,,53.8880448,9.25511908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ir,25572,Aebtissinwisch,Weberhörn,5,,53.88766542,9.2552817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7is,25572,Aebtissinwisch,Wiesenweg,1,,53.88861115,9.25707413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7it,25572,Aebtissinwisch,Wiesenweg,2,,53.88862577,9.25737823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iu,25572,Aebtissinwisch,Wiesenweg,5,,53.88818402,9.25713253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iv,25572,Aebtissinwisch,Wiesenweg,6,,53.88820497,9.25751959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iw,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,1,,53.8941033,9.25325267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ix,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,1,a,53.89432464,9.25300556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iy,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,10,,53.89378853,9.25190135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7iz,25572,Aebtissinwisch,Wilhelm-Jensen-Weg,12,,53.89344868,9.25231489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Fw0a,25572,Aebtissinwisch,Wiesenweg,1,a,53.88853904,9.25709757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bNJx,25572,Aebtissinwisch,Holstendamm,9,,53.90803646,9.23910736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hHoA,25572,Aebtissinwisch,Müllereiweg,1,,53.89940366,9.22451913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hHpo,25572,Aebtissinwisch,Hauptstraße,17,,53.89796172,9.22062046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005onK5,25572,Aebtissinwisch,Hoher Kamp,4,,53.88968364,9.25669897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000640Zk,25572,Aebtissinwisch,Flethseer Straße,1,a,53.91325895,9.26051369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068ImN,25572,Aebtissinwisch,Dörpstroot,12,a,53.929833,9.2139028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006A4yg,25572,Aebtissinwisch,Heideducht,4,,53.88648339,9.25650455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BX8I,25572,Aebtissinwisch,Schmiedestraße,1,,53.90060302,9.22787546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Fg7Z,25572,Aebtissinwisch,Wetterndorf,3,a,53.9119541,9.27977598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ULR3,25572,Aebtissinwisch,Dorfstraße,5,c,53.97063455,9.28949469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VUFw,25572,Aebtissinwisch,Holstendamm,3,,53.90717481,9.21590784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006miyA,25572,Aebtissinwisch,Stuven,6,,53.90358871,9.25153077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yi0s,25572,Aebtissinwisch,Hoher Kamp,20,,53.88992009,9.25971241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007iQrM,25572,Aebtissinwisch,Hauptstraße,26,a,53.95495111,9.26343203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007y4Pg,25572,Aebtissinwisch,Hauptstraße,11,,53.89821843,9.22228354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085i9G,25572,Aebtissinwisch,Süderkamp,4,,53.88868048,9.25890819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cBBV,25572,Aebtissinwisch,Bahnhofstraße,22,,53.89359612,9.25302866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cBBW,25572,Aebtissinwisch,Bahnhofstraße,24,,53.89356829,9.25281842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cBBX,25572,Aebtissinwisch,Bahnhofstraße,26,,53.8935219,9.25257354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ngUy,25572,Aebtissinwisch,Alte Landstraße,2,a,53.96814326,9.28800632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qnOM,25572,Aebtissinwisch,Weberhörn,2,a,53.88839043,9.25558773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ro5v,25572,Aebtissinwisch,Wiesenweg,3,,53.8883693,9.25713256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008y5KM,25572,Aebtissinwisch,Austrich,9,,53.95213545,9.29125404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yv7j,25572,Aebtissinwisch,Wiesenweg,4,,53.88842038,9.25741625

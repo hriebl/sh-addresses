@@ -1,0 +1,540 @@
+# Amtliche Adressen für die Postleitzahl 23829
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4A,23829,Kükels,Dorfstraße,4,,53.89496647,10.23921064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4B,23829,Kükels,Dorfstraße,5,,53.89473826,10.23942777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4C,23829,Kükels,Dorfstraße,6,,53.89539677,10.23929886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4D,23829,Kükels,Dorfstraße,7,,53.89472408,10.23868826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4E,23829,Kükels,Dorfstraße,8,,53.89554214,10.23913602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4F,23829,Kükels,Dorfstraße,8,a,53.895583,10.23854832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4G,23829,Kükels,Dorfstraße,9,,53.89488908,10.23788677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4H,23829,Kükels,Fredesdorfer Weg,1,,53.89581545,10.23360778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4I,23829,Kükels,Fredesdorfer Weg,10,,53.89587638,10.23098952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4J,23829,Kükels,Fredesdorfer Weg,2,,53.89630851,10.23405462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4K,23829,Kükels,Fredesdorfer Weg,2,a,53.89629667,10.23395222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4L,23829,Kükels,Fredesdorfer Weg,3,,53.8957454,10.23310423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4M,23829,Kükels,Fredesdorfer Weg,4,,53.89622527,10.23358704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4N,23829,Kükels,Fredesdorfer Weg,6,,53.89613523,10.23330303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4O,23829,Kükels,Fredesdorfer Weg,8,,53.89607116,10.23276818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4P,23829,Kükels,Hohenfelde,2,,53.88726419,10.2398263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4Q,23829,Kükels,Hohler Weg,1,,53.89362688,10.23623361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4R,23829,Kükels,Hohler Weg,3,,53.89356515,10.23591929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4S,23829,Kükels,Hohler Weg,5,,53.89328601,10.2335093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4T,23829,Kükels,Hohler Weg,7,,53.89300095,10.23104081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4U,23829,Kükels,Klostertwiete,1,,53.89435245,10.23791098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4V,23829,Kükels,Klostertwiete,10,,53.89251408,10.2369115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4W,23829,Kükels,Klostertwiete,11,,53.89221732,10.2375527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4X,23829,Kükels,Klostertwiete,12,,53.89246155,10.23693977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4Y,23829,Kükels,Klostertwiete,13,,53.89212913,10.23761418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4Z,23829,Kükels,Klostertwiete,14,,53.89233584,10.23704022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4k,23829,Kükels,Dorfstraße,1,a,53.89494999,10.24079125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4l,23829,Kükels,Dorfstraße,1,b,53.8946195,10.24074948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4m,23829,Kükels,Dorfstraße,1,c,53.89491582,10.24036844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4n,23829,Kükels,Dorfstraße,10,,53.89582319,10.23840616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4o,23829,Kükels,Dorfstraße,11,,53.89536301,10.23838411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4p,23829,Kükels,Dorfstraße,12,,53.89596981,10.23822886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4q,23829,Kükels,Dorfstraße,13,,53.89557354,10.23817852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4r,23829,Kükels,Dorfstraße,14,,53.89625757,10.23848917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4s,23829,Kükels,Dorfstraße,16,,53.89667152,10.23739734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4t,23829,Kükels,Dorfstraße,17,,53.89605187,10.2368232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4u,23829,Kükels,Dorfstraße,18,,53.89707065,10.23727221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4v,23829,Kükels,Dorfstraße,19,,53.89618696,10.23576917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4w,23829,Kükels,Dorfstraße,2,,53.89498555,10.23983462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4x,23829,Kükels,Dorfstraße,20,,53.89667174,10.23637101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4y,23829,Kükels,Dorfstraße,22,,53.89631812,10.23537797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4z,23829,Kükels,Dorfstraße,3,,53.89483244,10.23997898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA50,23829,Kükels,Klostertwiete,16,,53.89214786,10.2370526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA51,23829,Kükels,Klostertwiete,18,,53.89197852,10.23717564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA52,23829,Kükels,Klostertwiete,2,,53.89407932,10.236978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA53,23829,Kükels,Klostertwiete,2,a,53.89376322,10.2367251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA54,23829,Kükels,Klostertwiete,20,,53.89063556,10.23807324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA55,23829,Kükels,Klostertwiete,3,,53.89323329,10.23705649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA56,23829,Kükels,Klostertwiete,4,,53.89318158,10.23629852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA57,23829,Kükels,Klostertwiete,4,a,53.89283956,10.23640105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA58,23829,Kükels,Klostertwiete,5,,53.89280513,10.23718657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA59,23829,Kükels,Klostertwiete,6,,53.89300891,10.23667417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5A,23829,Kükels,Schwarzer Berg,3,a,53.89723796,10.2339307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5B,23829,Kükels,Schwarzer Berg,4,,53.89660992,10.23449432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5C,23829,Kükels,Schwarzer Berg,5,,53.8971821,10.23359946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5D,23829,Kükels,Schwarzer Berg,6,,53.89687827,10.23442276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5E,23829,Kükels,Schwarzer Berg,7,,53.89759499,10.23378269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5F,23829,Kükels,Schwarzer Berg,8,,53.89718533,10.23434658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5G,23829,Kükels,Schwarzer Berg,9,,53.89829107,10.2334737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5H,23829,Kükels,Seekoppel,1,,53.90179103,10.2334815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5I,23829,Kükels,Seekoppel,1,a,53.90171526,10.23310551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5J,23829,Kükels,Seekoppel,1,b,53.90196015,10.23348705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5K,23829,Kükels,Seekoppel,10,,53.90166276,10.23487808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5L,23829,Kükels,Seekoppel,11,,53.90204585,10.23516687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5M,23829,Kükels,Seekoppel,12,,53.90169169,10.23527759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5N,23829,Kükels,Seekoppel,13,,53.90209205,10.23548701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5O,23829,Kükels,Seekoppel,14,,53.90169862,10.23577526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5P,23829,Kükels,Seekoppel,16,,53.90186292,10.2355655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5Q,23829,Kükels,Seekoppel,2,,53.90147159,10.23316637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5R,23829,Kükels,Seekoppel,3,,53.90190289,10.23381683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5S,23829,Kükels,Seekoppel,4,,53.90149658,10.23371531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5T,23829,Kükels,Seekoppel,5,,53.90195147,10.23409804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5U,23829,Kükels,Seekoppel,6,,53.90158626,10.23410636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5V,23829,Kükels,Seekoppel,6,a,53.9015536,10.23398048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5W,23829,Kükels,Seekoppel,7,,53.9019754,10.23446875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5X,23829,Kükels,Seekoppel,8,,53.90165324,10.23446426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5Y,23829,Kükels,Seekoppel,9,,53.90199124,10.23479813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5Z,23829,Kükels,I. Seeweg,1,,53.90123415,10.23379312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5a,23829,Kükels,Klostertwiete,7,,53.89266474,10.23724772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5b,23829,Kükels,Klostertwiete,8,,53.89260828,10.23666964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5c,23829,Kükels,Klostertwiete,9,,53.89253364,10.2373446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5d,23829,Kükels,Mühlentwiete,1,,53.89369305,10.23987082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5e,23829,Kükels,Mühlentwiete,2,,53.89358717,10.24081679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5f,23829,Kükels,Mühlentwiete,3,,53.89422248,10.23928137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5g,23829,Kükels,Mühlentwiete,4,,53.89393295,10.24024664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5h,23829,Kükels,Mühlentwiete,6,,53.89423055,10.24086001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5i,23829,Kükels,Mühlentwiete,8,,53.89431793,10.23979464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5j,23829,Kükels,Schwarzer Berg,1,,53.89662379,10.23412973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5k,23829,Kükels,Schwarzer Berg,1,a,53.8967514,10.23349564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5l,23829,Kükels,Schwarzer Berg,10,,53.89748083,10.23420658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5m,23829,Kükels,Schwarzer Berg,11,,53.8994428,10.23293313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5n,23829,Kükels,Schwarzer Berg,12,,53.89784494,10.23399588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5o,23829,Kükels,Schwarzer Berg,13,,53.89963252,10.23293098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5p,23829,Kükels,Schwarzer Berg,14,,53.89829684,10.23387754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5q,23829,Kükels,Schwarzer Berg,16,,53.89822249,10.23497758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5r,23829,Kükels,Schwarzer Berg,16,a,53.89834514,10.23493246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5s,23829,Kükels,Schwarzer Berg,16,b,53.89817848,10.23456957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5t,23829,Kükels,Schwarzer Berg,18,,53.89885361,10.23380042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5u,23829,Kükels,Schwarzer Berg,2,,53.89627483,10.2346296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5v,23829,Kükels,Schwarzer Berg,20,,53.89930078,10.23361636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5w,23829,Kükels,Schwarzer Berg,22,,53.89949553,10.23353689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5x,23829,Kükels,Schwarzer Berg,24,,53.89963713,10.23346674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5y,23829,Kükels,Schwarzer Berg,26,,53.89991583,10.23399232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA5z,23829,Kükels,Schwarzer Berg,3,,53.89689848,10.23406448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA60,23829,Kükels,I. Seeweg,1,a,53.90125427,10.23428426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA61,23829,Kükels,I. Seeweg,1,c,53.90124311,10.23503517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA62,23829,Kükels,I. Seeweg,10,,53.90090946,10.23496814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA63,23829,Kükels,I. Seeweg,12,,53.90066358,10.23524058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA64,23829,Kükels,I. Seeweg,14,,53.90092463,10.23553158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA65,23829,Kükels,I. Seeweg,16,,53.90073011,10.23592127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA66,23829,Kükels,I. Seeweg,18,,53.90089816,10.23611433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA67,23829,Kükels,I. Seeweg,2,,53.90083496,10.23362903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA68,23829,Kükels,I. Seeweg,3,,53.90128551,10.23537211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA69,23829,Kükels,I. Seeweg,4,,53.90084379,10.23396668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6A,23829,Kükels,Wittenborner Weg,26,,53.90210458,10.23253439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6B,23829,Kükels,Wittenborner Weg,28,,53.90228113,10.23248188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6C,23829,Kükels,Wittenborner Weg,3,,53.90011688,10.23275867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6D,23829,Kükels,Wittenborner Weg,3,a,53.90000545,10.23242087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6E,23829,Kükels,Wittenborner Weg,3,b,53.90007136,10.23239421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6F,23829,Kükels,Wittenborner Weg,3,c,53.90029514,10.23231143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6G,23829,Kükels,Wittenborner Weg,30,,53.902428,10.23243876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6H,23829,Kükels,Wittenborner Weg,32,,53.90268816,10.23239817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6I,23829,Kükels,Wittenborner Weg,34,,53.90297146,10.23256266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6J,23829,Kükels,Wittenborner Weg,4,,53.90009976,10.23328764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6K,23829,Kükels,Wittenborner Weg,5,,53.90035065,10.23266725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6L,23829,Kükels,Wittenborner Weg,5,a,53.90054221,10.23263563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6M,23829,Kükels,Wittenborner Weg,5,b,53.90050281,10.23220437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6N,23829,Kükels,Wittenborner Weg,6,,53.90025501,10.23385997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6O,23829,Kükels,Wittenborner Weg,7,,53.90080158,10.23249786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6P,23829,Kükels,Wittenborner Weg,7,a,53.90071628,10.23214048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6Q,23829,Kükels,Wittenborner Weg,8,,53.90030172,10.2342976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6R,23829,Kükels,Wittenborner Weg,8,a,53.90049131,10.23417247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6S,23829,Kükels,Wittenborner Weg,9,,53.90110211,10.23237241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6a,23829,Kükels,I. Seeweg,5,,53.90135141,10.23612931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6b,23829,Kükels,I. Seeweg,6,,53.90087866,10.23434934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6c,23829,Kükels,I. Seeweg,8,,53.90060371,10.23463713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6d,23829,Kükels,II. Seeweg,2,,53.90437362,10.23592118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6e,23829,Kükels,II. Seeweg,4,,53.9043866,10.23700545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6f,23829,Kükels,II. Seeweg,6,,53.90454187,10.23852401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6h,23829,Kükels,Todesfelder Weg,4,,53.89944911,10.23229771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6i,23829,Kükels,Wittenborner Weg,1,,53.89983884,10.2327949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6j,23829,Kükels,Wittenborner Weg,10,,53.90012324,10.23465185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6k,23829,Kükels,Wittenborner Weg,11,,53.90134669,10.23226701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6l,23829,Kükels,Wittenborner Weg,12,,53.90052397,10.23311351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6m,23829,Kükels,Wittenborner Weg,12,a,53.90049865,10.23350571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6n,23829,Kükels,Wittenborner Weg,14,,53.90074848,10.23304163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6o,23829,Kükels,Wittenborner Weg,15,,53.90154288,10.23219581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6p,23829,Kükels,Wittenborner Weg,16,,53.901001,10.2329516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6q,23829,Kükels,Wittenborner Weg,17,,53.90179547,10.23203761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6r,23829,Kükels,Wittenborner Weg,18,,53.901185,10.23287788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6s,23829,Kükels,Wittenborner Weg,2,,53.89983799,10.23340516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6t,23829,Kükels,Wittenborner Weg,2,a,53.89995858,10.23335497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6u,23829,Kükels,Wittenborner Weg,20,,53.9014152,10.23278104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6v,23829,Kükels,Wittenborner Weg,21,,53.90233561,10.23187764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6w,23829,Kükels,Wittenborner Weg,22,,53.90172,10.23270179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6x,23829,Kükels,Wittenborner Weg,23,,53.90259641,10.23171844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6y,23829,Kükels,Wittenborner Weg,24,,53.9019225,10.23275961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA6z,23829,Kükels,Wittenborner Weg,25,,53.90292444,10.23158028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9E,23829,Kükels,Amselweg,1,,53.92120229,10.22595658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9F,23829,Kükels,Amselweg,10,,53.92159974,10.22492484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9G,23829,Kükels,Amselweg,12,,53.92153351,10.22451473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9H,23829,Kükels,Amselweg,2,,53.92145372,10.22607747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9I,23829,Kükels,Amselweg,3,,53.92125174,10.225591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9J,23829,Kükels,Amselweg,4,,53.92169649,10.22610883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9K,23829,Kükels,Amselweg,5,,53.92128784,10.22525373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9L,23829,Kükels,Amselweg,6,,53.92159263,10.22560031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9M,23829,Kükels,Amselweg,7,,53.92130139,10.22489384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9N,23829,Kükels,Amselweg,8,,53.92151975,10.22530004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9O,23829,Kükels,Amselweg,9,,53.92123872,10.22461308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9P,23829,Kükels,Barker Weg,1,,53.91956011,10.21748449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9Q,23829,Kükels,Barker Weg,10,,53.92029719,10.21956962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9R,23829,Kükels,Barker Weg,12,,53.92023612,10.2192979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9S,23829,Kükels,Barker Weg,14,,53.92017948,10.2190066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9T,23829,Kükels,Barker Weg,16,,53.9201069,10.21859411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9U,23829,Kükels,Barker Weg,18,,53.92006252,10.21824599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9V,23829,Kükels,Barker Weg,2,,53.92057259,10.22101645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9W,23829,Kükels,Barker Weg,2,a,53.92052287,10.22067816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9X,23829,Kükels,Barker Weg,4,,53.92046632,10.22039074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9Y,23829,Kükels,Barker Weg,6,,53.92039211,10.22011304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK9Z,23829,Kükels,Barker Weg,8,,53.92034059,10.21986491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa0,23829,Kükels,Bergstraße,1,,53.92841147,10.22338326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa1,23829,Kükels,Bergstraße,2,,53.928162,10.2237045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa2,23829,Kükels,Bergstraße,3,,53.92839905,10.22393362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa3,23829,Kükels,Bergstraße,4,,53.92811953,10.22404469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa4,23829,Kükels,Bergstraße,6,,53.92815411,10.22441926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa5,23829,Kükels,Birkenweg,1,,53.92114342,10.22089667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa6,23829,Kükels,Birkenweg,10,,53.9209432,10.2183852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa7,23829,Kükels,Birkenweg,11,,53.92082643,10.21944918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa8,23829,Kükels,Birkenweg,12,,53.92069359,10.21818821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKa9,23829,Kükels,Birkenweg,13,,53.92073512,10.21918045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaA,23829,Kükels,Bürgermeister-Juister-Straße,11,b,53.92229887,10.22311905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaB,23829,Kükels,Bürgermeister-Juister-Straße,12,,53.92294715,10.2225682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaC,23829,Kükels,Bürgermeister-Juister-Straße,13,,53.92260523,10.2227501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaD,23829,Kükels,Bürgermeister-Juister-Straße,14,,53.92283428,10.22216704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaE,23829,Kükels,Bürgermeister-Juister-Straße,15,,53.92244243,10.22258005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaF,23829,Kükels,Bürgermeister-Juister-Straße,16,,53.92255568,10.22212817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaG,23829,Kükels,Bürgermeister-Juister-Straße,17,,53.9222098,10.22238834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaH,23829,Kükels,Bürgermeister-Juister-Straße,18,,53.922351,10.22190352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaI,23829,Kükels,Bürgermeister-Juister-Straße,19,,53.92214159,10.22253512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaJ,23829,Kükels,Bürgermeister-Juister-Straße,2,,53.92345646,10.22400088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaK,23829,Kükels,Bürgermeister-Juister-Straße,2,a,53.92363486,10.22362085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaL,23829,Kükels,Bürgermeister-Juister-Straße,20,,53.92218245,10.2217395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaM,23829,Kükels,Bürgermeister-Juister-Straße,22,,53.92202308,10.22161608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaN,23829,Kükels,Bürgermeister-Juister-Straße,3,,53.92316529,10.2240089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaO,23829,Kükels,Bürgermeister-Juister-Straße,4,,53.92325132,10.22354481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaP,23829,Kükels,Bürgermeister-Juister-Straße,5,,53.92304184,10.22374852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaQ,23829,Kükels,Bürgermeister-Juister-Straße,6,,53.92314648,10.2231893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaR,23829,Kükels,Bürgermeister-Juister-Straße,7,,53.92293986,10.22352026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaS,23829,Kükels,Bürgermeister-Juister-Straße,8,,53.92328538,10.22278361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaT,23829,Kükels,Bürgermeister-Juister-Straße,9,,53.92282486,10.22326143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaU,23829,Kükels,Dorfkamp,1,,53.92247811,10.22575451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaV,23829,Kükels,Dorfkamp,2,,53.92272819,10.22449909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaW,23829,Kükels,Dorfkamp,4,,53.9226386,10.22432178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaX,23829,Kükels,Dorfkamp,6,,53.92240134,10.22423949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaY,23829,Kükels,Eichenweg,1,,53.92064757,10.22545024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaZ,23829,Kükels,Eichenweg,2,,53.92092232,10.22560344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaa,23829,Kükels,Birkenweg,15,,53.92070669,10.21890055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKab,23829,Kükels,Birkenweg,17,,53.92061339,10.21848081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKac,23829,Kükels,Birkenweg,2,,53.92148277,10.22085451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKad,23829,Kükels,Birkenweg,2,a,53.92144476,10.22068068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKae,23829,Kükels,Birkenweg,3,,53.92115074,10.22058051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaf,23829,Kükels,Birkenweg,4,,53.92133985,10.22030338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKag,23829,Kükels,Birkenweg,4,a,53.92134228,10.21998602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKah,23829,Kükels,Birkenweg,5,,53.92107858,10.2202739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKai,23829,Kükels,Birkenweg,6,,53.92122048,10.21967524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaj,23829,Kükels,Birkenweg,7,,53.9209968,10.22000954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKak,23829,Kükels,Birkenweg,8,,53.92109949,10.21905314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKal,23829,Kükels,Birkenweg,8,a,53.92102242,10.21873154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKam,23829,Kükels,Birkenweg,9,,53.92091781,10.21971818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKan,23829,Kükels,Bramstedter Straße,1,,53.92415828,10.22015292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKao,23829,Kükels,Bramstedter Straße,10,,53.92269399,10.20981529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKap,23829,Kükels,Bramstedter Straße,2,,53.92321455,10.21506725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaq,23829,Kükels,Bramstedter Straße,3,,53.92221361,10.20944575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKar,23829,Kükels,Bramstedter Straße,4,,53.923152,10.21473523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKas,23829,Kükels,Bramstedter Straße,4,a,53.92322738,10.2144379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKat,23829,Kükels,Bramstedter Straße,4,b,53.92334917,10.21479129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKau,23829,Kükels,Bramstedter Straße,6,,53.92363209,10.21412401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKav,23829,Kükels,Bramstedter Straße,8,,53.92359849,10.21380634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaw,23829,Kükels,Bürgermeister-Juister-Straße,1,,53.92325414,10.22421067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKax,23829,Kükels,Bürgermeister-Juister-Straße,10,,53.92295043,10.22287835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKay,23829,Kükels,Bürgermeister-Juister-Straße,11,,53.92270495,10.22299522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKaz,23829,Kükels,Bürgermeister-Juister-Straße,11,a,53.92241568,10.22334309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb0,23829,Kükels,Eichenweg,3,,53.92060857,10.22507856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb1,23829,Kükels,Eichenweg,4,,53.92091431,10.22528971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb2,23829,Kükels,Eichenweg,5,,53.92057701,10.22462711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb3,23829,Kükels,Eichenweg,6,,53.92090633,10.22498945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb4,23829,Kükels,Eichenweg,8,,53.92080469,10.22470044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb5,23829,Kükels,Hörn,1,,53.92571726,10.22558816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb7,23829,Kükels,Hörn,2,,53.92547459,10.22592658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb8,23829,Kükels,Hörn,4,,53.92579475,10.22618538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKb9,23829,Kükels,Hörn,4,a,53.92567665,10.2263227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbA,23829,Kükels,Kükelser Weg,16,,53.92178119,10.22070344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbB,23829,Kükels,Kükelser Weg,16,a,53.92178948,10.22060167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbC,23829,Kükels,Kükelser Weg,18,,53.92138678,10.21903695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbD,23829,Kükels,Kükelser Weg,2,,53.92438662,10.2205977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbE,23829,Kükels,Kükelser Weg,20,,53.92082116,10.2210179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbF,23829,Kükels,Kükelser Weg,3,,53.92450707,10.22102838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbG,23829,Kükels,Kükelser Weg,4,,53.92415849,10.22073952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbH,23829,Kükels,Kükelser Weg,4,a,53.92352608,10.22107267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbI,23829,Kükels,Kükelser Weg,4,b,53.92351857,10.22097947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbJ,23829,Kükels,Kükelser Weg,4,c,53.92350394,10.22079947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbK,23829,Kükels,Kükelser Weg,4,d,53.92349708,10.22071391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbL,23829,Kükels,Kükelser Weg,4,e,53.92348281,10.22053855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbM,23829,Kükels,Kükelser Weg,4,f,53.92347524,10.2204484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbN,23829,Kükels,Kükelser Weg,5,,53.92427391,10.22131359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbO,23829,Kükels,Kükelser Weg,6,,53.92318937,10.22095374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbP,23829,Kükels,Kükelser Weg,6,a,53.92312618,10.22042447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbQ,23829,Kükels,Kükelser Weg,7,,53.92351667,10.22203404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbR,23829,Kükels,Kükelser Weg,8,,53.92291784,10.22089373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbS,23829,Kükels,Kükelser Weg,9,,53.9231823,10.22163958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbT,23829,Kükels,Lerchenweg,1,,53.92161242,10.22826778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbU,23829,Kükels,Lerchenweg,10,,53.92055834,10.22684049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbV,23829,Kükels,Lerchenweg,11,,53.92054513,10.22756327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbW,23829,Kükels,Lerchenweg,12,,53.9204165,10.22667545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbX,23829,Kükels,Lerchenweg,13,,53.92024977,10.22728637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbY,23829,Kükels,Lerchenweg,14,,53.92018189,10.22670002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbZ,23829,Kükels,Lerchenweg,15,,53.91996537,10.22740184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKba,23829,Kükels,Hörn,6,,53.92587845,10.22761952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbb,23829,Kükels,Hörn,8,,53.92607973,10.22645816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbc,23829,Kükels,Kiefernweg,1,,53.92774146,10.22391678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbd,23829,Kükels,Kiefernweg,10,,53.9290696,10.2248887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbe,23829,Kükels,Kiefernweg,14,,53.92940466,10.22524943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbf,23829,Kükels,Kiefernweg,16,,53.92980961,10.22544281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbg,23829,Kükels,Kiefernweg,18,,53.92976819,10.22504942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbh,23829,Kükels,Kiefernweg,2,,53.92791859,10.22492838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbi,23829,Kükels,Kiefernweg,20,,53.92974031,10.22460122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbj,23829,Kükels,Kiefernweg,3,,53.92869694,10.22440038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbk,23829,Kükels,Kiefernweg,4,,53.92825589,10.22492777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbl,23829,Kükels,Kiefernweg,5,,53.92894692,10.22441752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbm,23829,Kükels,Kiefernweg,6,,53.9285549,10.22485984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbn,23829,Kükels,Kiefernweg,7,,53.92917036,10.22433694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbo,23829,Kükels,Kiefernweg,8,,53.92882572,10.22497952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbp,23829,Kükels,Kiefernweg,9,,53.92950488,10.22427037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbq,23829,Kükels,Kükelser Weg,1,,53.92465206,10.22094885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbr,23829,Kükels,Kükelser Weg,10,,53.92229746,10.22114315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbs,23829,Kükels,Kükelser Weg,11,,53.92293174,10.22158468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbt,23829,Kükels,Kükelser Weg,12,,53.9224415,10.22083649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbu,23829,Kükels,Kükelser Weg,12,a,53.92218646,10.22089642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbv,23829,Kükels,Kükelser Weg,12,b,53.92219706,10.22075824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbw,23829,Kükels,Kükelser Weg,13,,53.92266627,10.22155288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbx,23829,Kükels,Kükelser Weg,13,a,53.92251482,10.22150057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKby,23829,Kükels,Kükelser Weg,14,a,53.92198198,10.22075194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKbz,23829,Kükels,Kükelser Weg,14,b,53.92199064,10.22064725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc0,23829,Kükels,Lerchenweg,16,,53.92001855,10.22682522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc1,23829,Kükels,Lerchenweg,2,,53.92115779,10.22779739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc2,23829,Kükels,Lerchenweg,3,,53.92133394,10.22833599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc3,23829,Kükels,Lerchenweg,4,,53.92092889,10.22763739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc4,23829,Kükels,Lerchenweg,5,,53.92108447,10.2282192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc5,23829,Kükels,Lerchenweg,6,,53.9207769,10.22728861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc6,23829,Kükels,Lerchenweg,7,,53.92080163,10.22826832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc7,23829,Kükels,Lerchenweg,8,,53.92075879,10.22694382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc8,23829,Kükels,Lerchenweg,9,,53.92068144,10.22794313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKc9,23829,Kükels,Sanddörp,1,,53.9240506,10.22411865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcA,23829,Kükels,Seestraße,3,a,53.92181431,10.22348637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcB,23829,Kükels,Seestraße,4,,53.92138401,10.22201896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcC,23829,Kükels,Seestraße,4,a,53.92142332,10.2223053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcD,23829,Kükels,Seestraße,5,,53.92187912,10.2237014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcE,23829,Kükels,Seestraße,6,,53.92145702,10.22262204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcF,23829,Kükels,Seestraße,6,a,53.9214608,10.22291675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcG,23829,Kükels,Seestraße,7,,53.92188648,10.22416458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcH,23829,Kükels,Seestraße,7,a,53.92204986,10.22550087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcI,23829,Kükels,Seestraße,8,,53.92134006,10.223488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcJ,23829,Kükels,Seestraße,9,,53.92200314,10.22597577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcK,23829,Kükels,Segeberger Straße,10,,53.92646192,10.2259442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcL,23829,Kükels,Segeberger Straße,10,a,53.9264319,10.22627635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcM,23829,Kükels,Segeberger Straße,11,,53.9267296,10.22530279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcN,23829,Kükels,Segeberger Straße,11,a,53.92692314,10.22555646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcO,23829,Kükels,Segeberger Straße,11,b,53.92708076,10.22531854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcP,23829,Kükels,Segeberger Straße,11,c,53.92721351,10.22546005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcQ,23829,Kükels,Segeberger Straße,11,d,53.92716617,10.22594198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcR,23829,Kükels,Segeberger Straße,12,,53.92641841,10.22668387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcS,23829,Kükels,Segeberger Straße,12,b,53.9264268,10.22759972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcT,23829,Kükels,Segeberger Straße,13,,53.92680263,10.22589168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcU,23829,Kükels,Segeberger Straße,14,,53.92646205,10.22794504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcV,23829,Kükels,Segeberger Straße,15,,53.92683927,10.22624558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcW,23829,Kükels,Segeberger Straße,16,,53.92646461,10.2282327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcX,23829,Kükels,Segeberger Straße,17,,53.92673791,10.22677694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcY,23829,Kükels,Segeberger Straße,18,,53.92656495,10.22884638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcZ,23829,Kükels,Segeberger Straße,18,a,53.92651962,10.22856849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKca,23829,Kükels,Sanddörp,11,,53.92376255,10.22006414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcb,23829,Kükels,Sanddörp,11,a,53.92340445,10.22010229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcc,23829,Kükels,Sanddörp,12,,53.92417375,10.22197933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcd,23829,Kükels,Sanddörp,12,a,53.92407469,10.22149898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKce,23829,Kükels,Sanddörp,13,,53.92369373,10.21949382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcf,23829,Kükels,Sanddörp,13,a,53.92359655,10.21924687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcg,23829,Kükels,Sanddörp,13,b,53.9235759,10.21916251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKch,23829,Kükels,Sanddörp,14,,53.92399266,10.22014801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKci,23829,Kükels,Sanddörp,15,,53.92350462,10.21894927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcj,23829,Kükels,Sanddörp,2,,53.92423527,10.22412163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKck,23829,Kükels,Sanddörp,3,,53.92388445,10.22294447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcl,23829,Kükels,Sanddörp,4,,53.92450616,10.22412214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcm,23829,Kükels,Sanddörp,4,a,53.92445228,10.22365504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcn,23829,Kükels,Sanddörp,5,,53.92395222,10.22223465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKco,23829,Kükels,Sanddörp,5,a,53.92389398,10.22204173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcp,23829,Kükels,Sanddörp,6,,53.92446267,10.22313763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcq,23829,Kükels,Sanddörp,7,,53.92368533,10.22154569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcr,23829,Kükels,Sanddörp,8,,53.92432017,10.22266062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcs,23829,Kükels,Sanddörp,9,,53.92378466,10.22094171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKct,23829,Kükels,Seestraße,1,,53.92171597,10.22262398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcu,23829,Kükels,Seestraße,10,,53.9214871,10.22399113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcv,23829,Kükels,Seestraße,11,,53.92211899,10.22665656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcw,23829,Kükels,Seestraße,17,,53.92259261,10.22686649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcx,23829,Kükels,Seestraße,2,,53.92124334,10.22141807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcy,23829,Kükels,Seestraße,2,a,53.92133763,10.22164211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKcz,23829,Kükels,Seestraße,3,,53.92176375,10.22324271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd0,23829,Kükels,Segeberger Straße,2,,53.92491015,10.22159171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd1,23829,Kükels,Segeberger Straße,20,,53.92667917,10.229433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd2,23829,Kükels,Segeberger Straße,20,a,53.92672873,10.22968475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd3,23829,Kükels,Segeberger Straße,22,,53.92713847,10.23149357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd4,23829,Kükels,Segeberger Straße,24,,53.92768057,10.23413379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd5,23829,Kükels,Segeberger Straße,3,,53.92626915,10.22228577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd6,23829,Kükels,Segeberger Straße,3,a,53.9267807,10.22329906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd7,23829,Kükels,Segeberger Straße,4,,53.92605145,10.22304703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd8,23829,Kükels,Segeberger Straße,4,a,53.9257973,10.22269348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKd9,23829,Kükels,Segeberger Straße,5,,53.92657176,10.22347659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdA,23829,Kükels,Teichstraße,10,,53.91908029,10.22635489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdB,23829,Kükels,Teichstraße,11,,53.92094113,10.22649739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdC,23829,Kükels,Teichstraße,12,,53.91916853,10.22661135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdD,23829,Kükels,Teichstraße,13,,53.92072939,10.22614251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdE,23829,Kükels,Teichstraße,14,,53.91918994,10.2270177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdF,23829,Kükels,Teichstraße,15,,53.9204957,10.22605557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdG,23829,Kükels,Teichstraße,16,,53.9194861,10.22742906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdH,23829,Kükels,Teichstraße,17,,53.92025286,10.22599167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdI,23829,Kükels,Teichstraße,18,,53.91973374,10.22739597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdJ,23829,Kükels,Teichstraße,19,,53.91999732,10.22593929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdK,23829,Kükels,Teichstraße,2,,53.92176466,10.2274256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdL,23829,Kükels,Teichstraße,21,,53.91975033,10.2261927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdM,23829,Kükels,Teichstraße,23,,53.91964868,10.22654444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdN,23829,Kükels,Teichstraße,25,,53.91970026,10.22682737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdO,23829,Kükels,Teichstraße,3,,53.92139166,10.22763845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdP,23829,Kükels,Teichstraße,5,,53.92139421,10.22727221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdQ,23829,Kükels,Teichstraße,6,,53.91967008,10.22516382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdR,23829,Kükels,Teichstraße,7,,53.92127336,10.22701165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdS,23829,Kükels,Teichstraße,8,,53.91939911,10.22588403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdT,23829,Kükels,Teichstraße,9,,53.92115407,10.22667729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdU,23829,Kükels,Wahlstedter Weg,10,,53.9281403,10.22328743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdV,23829,Kükels,Wahlstedter Weg,14,,53.92895579,10.22359253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdW,23829,Kükels,Wahlstedter Weg,16,,53.92931299,10.22370832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdX,23829,Kükels,Wahlstedter Weg,18,,53.92946338,10.22383981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdY,23829,Kükels,Wahlstedter Weg,2,,53.9269493,10.22284677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdZ,23829,Kükels,Wahlstedter Weg,4,,53.92729369,10.22295914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKda,23829,Kükels,Segeberger Straße,6,,53.92640884,10.22478484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdb,23829,Kükels,Segeberger Straße,7,,53.92663383,10.22375961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdc,23829,Kükels,Segeberger Straße,8,,53.92645026,10.22538745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdd,23829,Kükels,Segeberger Straße,9,a,53.9269106,10.22519817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKde,23829,Kükels,Steindamm,1,,53.92625771,10.22396067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdf,23829,Kükels,Steindamm,11,,53.92484824,10.22576458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdg,23829,Kükels,Steindamm,13,,53.92449125,10.22570044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdh,23829,Kükels,Steindamm,14,,53.92462471,10.2246578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdi,23829,Kükels,Steindamm,14,a,53.92455883,10.22510196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdj,23829,Kükels,Steindamm,16,,53.92391787,10.22475408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdk,23829,Kükels,Steindamm,18,,53.92369186,10.22444872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdl,23829,Kükels,Steindamm,2,,53.92605713,10.22377221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdm,23829,Kükels,Steindamm,23,,53.92437358,10.22536078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdn,23829,Kükels,Steindamm,27,,53.92412557,10.22527389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdo,23829,Kükels,Steindamm,29,,53.92387919,10.22513576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdp,23829,Kükels,Steindamm,31,,53.92372758,10.22499639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdq,23829,Kükels,Steindamm,33,,53.9233529,10.22444844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdr,23829,Kükels,Steindamm,4,,53.92579596,10.22417568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKds,23829,Kükels,Steindamm,5,,53.92599095,10.22466359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdt,23829,Kükels,Steindamm,5,a,53.92597276,10.22563207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdu,23829,Kükels,Steindamm,6,,53.92558341,10.22450841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdv,23829,Kükels,Steindamm,7,,53.92515274,10.22544886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdw,23829,Kükels,Steindamm,8,,53.92523964,10.22351935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdx,23829,Kükels,Steindamm,9,,53.92524613,10.2270049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdy,23829,Kükels,Teichstraße,1,,53.92190553,10.22803385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKdz,23829,Kükels,Teichstraße,1,a,53.92193682,10.22832155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe0,23829,Kükels,Wahlstedter Weg,6,,53.92751041,10.22298194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe1,23829,Kükels,Wahlstedter Weg,6,a,53.92771446,10.22307938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe2,23829,Kükels,Wahlstedter Weg,8,,53.92795424,10.22307116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe3,23829,Kükels,Waldweg,1,,53.92703192,10.22199293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe4,23829,Kükels,Waldweg,3,,53.92737074,10.2214939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe5,23829,Kükels,Waldweg,7,,53.92755428,10.22105798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe6,23829,Kükels,Industriestraße,1,,53.92038346,10.21632202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe7,23829,Kükels,Industriestraße,10,,53.91637563,10.21516952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe8,23829,Kükels,Industriestraße,11,,53.91697875,10.2181888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKe9,23829,Kükels,Industriestraße,12,,53.91638425,10.21499642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeA,23829,Kükels,Schafkoppel,5,,53.92090243,10.22223045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeB,23829,Kükels,Schafkoppel,6,,53.92047488,10.22210005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeC,23829,Kükels,Schafkoppel,7,,53.92095726,10.22255179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeD,23829,Kükels,Schafkoppel,8,,53.92074375,10.22272623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeE,23829,Kükels,Schafkoppel,9,,53.92101847,10.22292712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeF,23829,Kükels,An der Alten Schule,7,,53.92705777,10.22410674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeG,23829,Kükels,An der Alten Schule,8,,53.92738161,10.22392214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKea,23829,Kükels,Industriestraße,13,,53.91664703,10.21793356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeb,23829,Kükels,Industriestraße,15,,53.9167838,10.21862749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKec,23829,Kükels,Industriestraße,17,,53.91618682,10.21757622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKed,23829,Kükels,Industriestraße,17,b,53.91632879,10.21856655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKee,23829,Kükels,Industriestraße,2,,53.91989403,10.21358602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKef,23829,Kükels,Industriestraße,21,,53.91532672,10.21732744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeg,23829,Kükels,Industriestraße,23,,53.91666323,10.21680699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeh,23829,Kükels,Industriestraße,3,,53.91989494,10.21638231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKei,23829,Kükels,Industriestraße,9,,53.91677565,10.21749632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKej,23829,Kükels,Am Karpfenteich,1,,53.92558682,10.22352139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKek,23829,Kükels,Am Karpfenteich,2,,53.92579062,10.22340694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKel,23829,Kükels,Am Karpfenteich,3,,53.9255071,10.22320125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKem,23829,Kükels,Am Karpfenteich,4,,53.92566528,10.22312255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKen,23829,Kükels,Am Karpfenteich,5,,53.92540428,10.22289758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeo,23829,Kükels,Am Karpfenteich,7,,53.92539126,10.22254281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKep,23829,Kükels,Schafkoppel,1,,53.92087785,10.22159047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeq,23829,Kükels,Schafkoppel,10,,53.9205189,10.22273487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKer,23829,Kükels,Schafkoppel,11,,53.9210044,10.22325942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKes,23829,Kükels,Schafkoppel,12,,53.92059319,10.22333514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKet,23829,Kükels,Schafkoppel,13,,53.92111416,10.2237093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKeu,23829,Kükels,Schafkoppel,14,,53.92062335,10.22376991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKev,23829,Kükels,Schafkoppel,15,,53.92094284,10.22369571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKew,23829,Kükels,Schafkoppel,16,,53.92076907,10.22363675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKex,23829,Kükels,Schafkoppel,2,,53.92067883,10.22167706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKey,23829,Kükels,Schafkoppel,3,,53.92087982,10.22191165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cKez,23829,Kükels,Schafkoppel,4,,53.92045985,10.22170255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004LOvr,23829,Kükels,Segeberger Straße,19,,53.92687785,10.22787242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOTM,23829,Kükels,Bürgermeister-Petzold-Straße,1,,53.92745308,10.22813667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOTW,23829,Kükels,Bürgermeister-Petzold-Straße,3,,53.92752687,10.22786631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOU6,23829,Kükels,Bürgermeister-Petzold-Straße,5,,53.92765405,10.227572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUG,23829,Kükels,Bürgermeister-Petzold-Straße,9,,53.9275824,10.22683567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUN,23829,Kükels,Bürgermeister-Petzold-Straße,15,,53.92759513,10.2259824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUX,23829,Kükels,Bürgermeister-Petzold-Straße,17,,53.92740643,10.22593772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUb,23829,Kükels,Bürgermeister-Petzold-Straße,11,,53.92780319,10.22679294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUm,23829,Kükels,Bürgermeister-Petzold-Straße,7,,53.92760266,10.2271606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOUt,23829,Kükels,Bürgermeister-Petzold-Straße,13,,53.92782111,10.22634167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOV3,23829,Kükels,Bürgermeister-Petzold-Straße,30,,53.92803148,10.22568131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOV8,23829,Kükels,Bürgermeister-Petzold-Straße,36,,53.92746056,10.22568354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOVE,23829,Kükels,Bürgermeister-Petzold-Straße,32,,53.92784822,10.22566727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOVP,23829,Kükels,Bürgermeister-Petzold-Straße,24,,53.92819123,10.22642634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOVl,23829,Kükels,Bürgermeister-Petzold-Straße,28,,53.92812927,10.2258481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOVq,23829,Kükels,Bürgermeister-Petzold-Straße,34,,53.92764069,10.22567554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOVz,23829,Kükels,Bürgermeister-Petzold-Straße,26,,53.92812717,10.22605153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOW2,23829,Kükels,Bürgermeister-Petzold-Straße,22,,53.92800623,10.22648353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOW5,23829,Kükels,Bürgermeister-Petzold-Straße,16,,53.92792738,10.2275396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOWE,23829,Kükels,Bürgermeister-Petzold-Straße,18,,53.92801317,10.22730324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOWF,23829,Kükels,Bürgermeister-Petzold-Straße,12,,53.92777741,10.22806587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOWT,23829,Kükels,Bürgermeister-Petzold-Straße,10,,53.92772622,10.22828153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOWo,23829,Kükels,Bürgermeister-Petzold-Straße,20,,53.9279979,10.22696463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOWp,23829,Kükels,Bürgermeister-Petzold-Straße,14,,53.92780473,10.22771678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOX4,23829,Kükels,Bürgermeister-Petzold-Straße,8,,53.92752704,10.22842211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOXA,23829,Kükels,Bürgermeister-Petzold-Straße,2,,53.92691175,10.22870757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOXg,23829,Kükels,Bürgermeister-Petzold-Straße,6,,53.92738059,10.22855937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOXo,23829,Kükels,Bürgermeister-Petzold-Straße,4,,53.92713986,10.22855052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PSvd,23829,Kükels,Schwarzer Berg,6,a,53.89701991,10.23492478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UuFt,23829,Kükels,Fredesdorfer Weg,30,,53.89428878,10.21783289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ayyn,23829,Kükels,An der Alten Schule,2,,53.92729489,10.22476213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fN2j,23829,Kükels,An der Alten Schule,1,,53.92677311,10.22451509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005k9Gy,23829,Kükels,An der Alten Schule,6,,53.92743705,10.22435327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mxi4,23829,Kükels,An der Alten Schule,4,,53.92749832,10.22468353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s3XQ,23829,Kükels,Hörn,3,,53.92586968,10.22592003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s3XW,23829,Kükels,Hörn,5,,53.92591862,10.22600901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tOfR,23829,Kükels,Schwarzer Berg,5,a,53.89744352,10.23371368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zpqC,23829,Kükels,An der Alten Schule,5,,53.9268902,10.22406416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zpqr,23829,Kükels,An der Alten Schule,3,,53.9269666,10.22461998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gc1C,23829,Kükels,Klostertwiete,1,a,53.89366815,10.23712887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006imdc,23829,Kükels,Seestraße,11,a,53.92251083,10.22626978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nI4F,23829,Kükels,Kiefernweg,1,b,53.92850481,10.2244715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v922,23829,Kükels,Bürgermeister-Petzold-Straße,9,a,53.9275883,10.22668709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072DIC,23829,Kükels,Sanddörp,9,a,53.92380718,10.22072252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072DID,23829,Kükels,Sanddörp,9,b,53.92379857,10.22062477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072DIE,23829,Kükels,Sanddörp,9,c,53.92380089,10.22043172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072DIF,23829,Kükels,Sanddörp,9,d,53.92379231,10.22033417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K2GI,23829,Kükels,I. Seeweg,1,b,53.90127978,10.23477014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P1Nu,23829,Kükels,Fredesdorfer Weg,8,d,53.89597557,10.23152754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TmPZ,23829,Kükels,Wahlstedter Weg,2,a,53.92709248,10.2229881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Z4d7,23829,Kükels,Bürgermeister-Petzold-Straße,1,a,53.92712182,10.22829828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007omRU,23829,Kükels,Steindamm,20,,53.92375787,10.22391721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007omRV,23829,Kükels,Steindamm,22,,53.92388342,10.22379578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007orbb,23829,Kükels,Kiefernweg,1,a,53.92783435,10.22449425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007uXlH,23829,Kükels,Fredesdorfer Weg,8,c,53.89603205,10.23186974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ynah,23829,Kükels,Seestraße,6,b,53.92150362,10.22323244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AFt2,23829,Kükels,Fredesdorfer Weg,9,,53.89554625,10.23201684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008l9cx,23829,Kükels,Todesfelder Weg,6,,53.89931971,10.23205567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008okqg,23829,Kükels,Fredesdorfer Weg,8,b,53.89608656,10.23214881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008z5mg,23829,Kükels,Kiefernweg,6,a,53.92860627,10.22524783

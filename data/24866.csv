@@ -1,0 +1,850 @@
+# Amtliche Adressen für die Postleitzahl 24866
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA0,24866,Nahe,Ahornweg,12,b,54.49389996,9.55513167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA2,24866,Nahe,Ahornweg,2,,54.494051,9.55386276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA3,24866,Nahe,Ahornweg,26,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA4,24866,Nahe,Ahornweg,28,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA5,24866,Nahe,Ahornweg,3,,54.49449261,9.55420139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA6,24866,Nahe,Ahornweg,30,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA7,24866,Nahe,Ahornweg,32,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA8,24866,Nahe,Ahornweg,34,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcA9,24866,Nahe,Ahornweg,36,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAA,24866,Nahe,An der Bahn,14,,54.48261583,9.5463992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAB,24866,Nahe,An der Bahn,2,,54.48749308,9.54923757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAC,24866,Nahe,An der Bahn,3,,54.48521897,9.54934476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAD,24866,Nahe,An der Bahn,4,,54.48705981,9.54877554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAE,24866,Nahe,An der Bahn,4,a,54.48594611,9.54888077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAF,24866,Nahe,An der Bahn,4,b,54.48584807,9.54852803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAG,24866,Nahe,An der Bahn,5,,54.48493425,9.54926737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAH,24866,Nahe,An der Bahn,6,,54.48552177,9.54900916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAI,24866,Nahe,An der Bahn,8,,54.48543917,9.54900321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAJ,24866,Nahe,Bergholm,1,,54.4921443,9.54716357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAK,24866,Nahe,Bergholm,10,,54.49304257,9.54692825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAL,24866,Nahe,Bergholm,10,a,54.49314658,9.54722753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAM,24866,Nahe,Bergholm,11,,54.49277975,9.54680281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAN,24866,Nahe,Bergholm,12,,54.49326634,9.54673749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAO,24866,Nahe,Bergholm,13,,54.49299932,9.54655575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAP,24866,Nahe,Bergholm,14,,54.4934672,9.54651614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAQ,24866,Nahe,Bergholm,14,a,54.49349589,9.5468302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAR,24866,Nahe,Bergholm,15,,54.49315863,9.54635308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAS,24866,Nahe,Bergholm,16,,54.49360309,9.54637868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAT,24866,Nahe,Bergholm,17,,54.4933637,9.54620467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAU,24866,Nahe,Bergholm,18,,54.49388108,9.54620074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAV,24866,Nahe,Bergholm,19,,54.49348318,9.54594168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAW,24866,Nahe,Bergholm,2,,54.49222405,9.54762118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAX,24866,Nahe,Bergholm,21,,54.49371548,9.5459006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAY,24866,Nahe,Bergholm,21,a,54.49359333,9.54561002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAZ,24866,Nahe,Bergholm,3,,54.49229683,9.54715894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAa,24866,Nahe,Ahornweg,38,,54.49444436,9.55532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAb,24866,Nahe,Ahornweg,4,,54.49413941,9.55415471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAc,24866,Nahe,Ahornweg,6,,54.49416269,9.55422671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAd,24866,Nahe,Ahornweg,8,,54.49420158,9.55445841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAe,24866,Nahe,Alte Landstraße,1,,54.49036698,9.55038376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAf,24866,Nahe,Alte Landstraße,1,a,54.49010568,9.55016253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAg,24866,Nahe,Alte Landstraße,1,b,54.49008389,9.55029004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAh,24866,Nahe,Alte Landstraße,10,,54.4874133,9.54514424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAi,24866,Nahe,Alte Landstraße,11,,54.48695677,9.54532418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAj,24866,Nahe,Alte Landstraße,12,,54.48752735,9.54501051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAk,24866,Nahe,Alte Landstraße,13,,54.48653237,9.54469042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAl,24866,Nahe,Alte Landstraße,14,,54.48729372,9.54502192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAm,24866,Nahe,Alte Landstraße,16,,54.48661138,9.54431528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAn,24866,Nahe,Alte Landstraße,18,,54.48438556,9.54118448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAo,24866,Nahe,Alte Landstraße,2,,54.49058723,9.55098477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAp,24866,Nahe,Alte Landstraße,3,,54.48968441,9.54983561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAq,24866,Nahe,Alte Landstraße,4,,54.49059784,9.55069623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAr,24866,Nahe,Alte Landstraße,5,,54.49018493,9.54953096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAs,24866,Nahe,Alte Landstraße,6,,54.49060407,9.55059615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAt,24866,Nahe,Alte Landstraße,7,,54.48732522,9.54556651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAu,24866,Nahe,Alte Landstraße,7,a,54.48704769,9.54594594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAv,24866,Nahe,Alte Landstraße,8,,54.49060164,9.55034318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAw,24866,Nahe,Alte Landstraße,9,,54.48712932,9.54541029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAx,24866,Nahe,An der Bahn,1,,54.4854006,9.54941092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAy,24866,Nahe,An der Bahn,10,,54.48222685,9.54661346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcAz,24866,Nahe,An der Bahn,12,,54.4824096,9.54652284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB0,24866,Nahe,Bergholm,4,,54.49241089,9.54756634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB1,24866,Nahe,Bergholm,5,,54.492319,9.54689367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB2,24866,Nahe,Bergholm,6,,54.49265398,9.54735694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB3,24866,Nahe,Bergholm,6,a,54.49275667,9.54727034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB4,24866,Nahe,Bergholm,7,,54.49250119,9.54672347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB5,24866,Nahe,Bergholm,9,,54.49252289,9.54692405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB6,24866,Nahe,Am Margarethenwall,1,,54.489087,9.54232268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB7,24866,Nahe,Am Margarethenwall,4,,54.48949228,9.54122765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB8,24866,Nahe,Schwartkell,1,,54.49238891,9.54582357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcB9,24866,Nahe,Schwartkell,11,,54.49188927,9.54614959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBA,24866,Nahe,Lindenweg,7,,54.48836359,9.55158864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBB,24866,Nahe,Lindenweg,7,a,54.48843949,9.55146634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBD,24866,Nahe,Lindenweg,8,a,54.48784543,9.5518022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBE,24866,Nahe,Lindenweg,9,,54.48812329,9.55183205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBF,24866,Nahe,Eschenweg,1,,54.48770207,9.55051169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBG,24866,Nahe,Eschenweg,10,,54.48684725,9.55107209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBH,24866,Nahe,Eschenweg,10,a,54.4868754,9.55089601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBI,24866,Nahe,Eschenweg,11,,54.48679254,9.55147807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBJ,24866,Nahe,Eschenweg,11,a,54.48681043,9.5513662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBK,24866,Nahe,Eschenweg,2,,54.48731877,9.55036991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBL,24866,Nahe,Eschenweg,3,,54.48750379,9.55089819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBM,24866,Nahe,Eschenweg,4,,54.48730469,9.55065067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBN,24866,Nahe,Eschenweg,5,,54.48741144,9.55122665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBO,24866,Nahe,Eschenweg,6,,54.48728687,9.55076343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBP,24866,Nahe,Eschenweg,7,,54.48730884,9.55158874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBQ,24866,Nahe,Eschenweg,7,a,54.48749966,9.55158412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBR,24866,Nahe,Eschenweg,8,,54.48714166,9.55098764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBS,24866,Nahe,Eschenweg,8,a,54.48712963,9.55107061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBT,24866,Nahe,Eschenweg,9,,54.48705677,9.55142177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBU,24866,Nahe,Thorshammer,10,,54.48039265,9.54464559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBV,24866,Nahe,Thorshammer,11,,54.48032689,9.54263994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBW,24866,Nahe,Thorshammer,11,a,54.48015001,9.54261453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBX,24866,Nahe,Thorshammer,12,,54.48173778,9.54147296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBY,24866,Nahe,Thorshammer,17,,54.48130146,9.5411964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBZ,24866,Nahe,Thorshammer,2,,54.47818373,9.54405168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBa,24866,Nahe,Schwartkell,13,,54.49215963,9.54611278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBb,24866,Nahe,Schwartkell,15,,54.49209761,9.54581336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBc,24866,Nahe,Schwartkell,17,,54.49187033,9.54584357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBd,24866,Nahe,Schwartkell,19,,54.49200998,9.54544722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBe,24866,Nahe,Schwartkell,2,,54.49242087,9.54628581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBf,24866,Nahe,Schwartkell,21,,54.49197183,9.54513592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBg,24866,Nahe,Schwartkell,3,,54.49238848,9.54548722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBh,24866,Nahe,Schwartkell,4,,54.49254577,9.54620965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBi,24866,Nahe,Schwartkell,5,,54.49235868,9.54521811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBj,24866,Nahe,Schwartkell,6,,54.49270122,9.54598727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBk,24866,Nahe,Schwartkell,7,,54.49224229,9.54652527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBl,24866,Nahe,Schwartkell,8,,54.49288899,9.54540724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBm,24866,Nahe,Schwartkell,9,,54.49187383,9.54654946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBn,24866,Nahe,Kastanienweg,1,,54.4973286,9.55405569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBo,24866,Nahe,Kastanienweg,1,a,54.49723325,9.5543494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBp,24866,Nahe,Kastanienweg,2,,54.49754298,9.55401105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBq,24866,Nahe,Kastanienweg,3,,54.49774505,9.55423572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBr,24866,Nahe,Lindenweg,1,,54.48817032,9.55061984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBs,24866,Nahe,Lindenweg,10,a,54.48781943,9.55217121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBt,24866,Nahe,Lindenweg,10,b,54.48782082,9.55228336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBu,24866,Nahe,Lindenweg,2,,54.48801993,9.5507015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBv,24866,Nahe,Lindenweg,3,,54.48821163,9.55093866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBw,24866,Nahe,Lindenweg,4,,54.48797713,9.55100951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBx,24866,Nahe,Lindenweg,4,a,54.48795779,9.55112932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBy,24866,Nahe,Lindenweg,5,,54.48821083,9.55143387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcBz,24866,Nahe,Lindenweg,6,,54.48790944,9.5514245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC0,24866,Nahe,Thorshammer,21,,54.48166508,9.54086393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC1,24866,Nahe,Thorshammer,23,,54.48176372,9.5402894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC2,24866,Nahe,Thorshammer,25,,54.48199334,9.53985817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC3,24866,Nahe,Thorshammer,3,,54.47949149,9.5442997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC4,24866,Nahe,Thorshammer,4,,54.47893089,9.54443168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC5,24866,Nahe,Thorshammer,6,,54.47946086,9.54486142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC6,24866,Nahe,Thorshammer,7,,54.47966481,9.54446001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC7,24866,Nahe,Thorshammer,9,,54.48032458,9.54361734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC8,24866,Nahe,Mölken,1,,54.48612494,9.54370476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcC9,24866,Nahe,Mölken,1,a,54.4861547,9.54362562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCA,24866,Nahe,Mölken,29,,54.48672311,9.54074009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCB,24866,Nahe,Mölken,3,,54.4862192,9.54345364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCC,24866,Nahe,Mölken,3,a,54.4862669,9.54332723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCD,24866,Nahe,Mölken,31,,54.48662734,9.5409688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCE,24866,Nahe,Mölken,33,,54.48653299,9.54119542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCF,24866,Nahe,Mölken,34,,54.48771586,9.54053758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCG,24866,Nahe,Mölken,35,,54.48645718,9.54151164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCH,24866,Nahe,Mölken,36,,54.48754733,9.54035841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCI,24866,Nahe,Mölken,37,,54.48637163,9.541868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCJ,24866,Nahe,Mölken,38,,54.48742129,9.54016911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCK,24866,Nahe,Mölken,39,,54.48623934,9.54218212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCL,24866,Nahe,Mölken,4,,54.48642071,9.54365252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCM,24866,Nahe,Mölken,40,,54.48723156,9.53995842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCN,24866,Nahe,Mölken,40,a,54.48717709,9.53989279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCO,24866,Nahe,Mölken,41,,54.48610535,9.54241826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCP,24866,Nahe,Mölken,42,,54.48705747,9.53985544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCQ,24866,Nahe,Mölken,42,a,54.48700247,9.5398573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCR,24866,Nahe,Mölken,43,,54.48601116,9.54266921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCS,24866,Nahe,Mölken,44,,54.4868382,9.53986421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCT,24866,Nahe,Mölken,45,,54.4859948,9.54271221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCU,24866,Nahe,Mölken,46,,54.48671453,9.54009873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCV,24866,Nahe,Mölken,47,,54.48591803,9.54290177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCW,24866,Nahe,Mölken,48,,54.48656479,9.54037154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCX,24866,Nahe,Mölken,49,,54.48588015,9.5430019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCY,24866,Nahe,Mölken,5,,54.48635555,9.54318171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCZ,24866,Nahe,Mölken,5,a,54.48638822,9.54309668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCa,24866,Nahe,Mölken,10,,54.48675513,9.54297984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCb,24866,Nahe,Mölken,11,,54.48667201,9.54225301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCc,24866,Nahe,Mölken,11,a,54.48670733,9.54215919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCd,24866,Nahe,Mölken,12,,54.48677494,9.54274843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCe,24866,Nahe,Mölken,12,a,54.48684638,9.54282829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCf,24866,Nahe,Mölken,13,,54.48689559,9.54190881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCg,24866,Nahe,Mölken,14,,54.48686419,9.54246065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCh,24866,Nahe,Mölken,15,,54.48694737,9.54163097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCi,24866,Nahe,Mölken,16,,54.48699488,9.54226061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCj,24866,Nahe,Mölken,17,,54.48704105,9.54145982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCk,24866,Nahe,Mölken,17,a,54.48707906,9.54136296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCl,24866,Nahe,Mölken,18,,54.48708427,9.54200944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCm,24866,Nahe,Mölken,18,a,54.48712032,9.54191699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCn,24866,Nahe,Mölken,19,,54.48718096,9.5411579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCo,24866,Nahe,Mölken,2,,54.4862867,9.54386389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCp,24866,Nahe,Mölken,2,a,54.48636722,9.5439546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCq,24866,Nahe,Mölken,20,,54.48718769,9.54167612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCr,24866,Nahe,Mölken,20,a,54.48722822,9.54159088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCs,24866,Nahe,Mölken,21,,54.48724949,9.54093218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCt,24866,Nahe,Mölken,21,a,54.4872857,9.54083992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCu,24866,Nahe,Mölken,22,,54.48736451,9.54141909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCv,24866,Nahe,Mölken,23,,54.48738984,9.54064063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCw,24866,Nahe,Mölken,24,,54.48744465,9.54109575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCx,24866,Nahe,Mölken,25,,54.48699539,9.54028111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCy,24866,Nahe,Mölken,26,,54.48755705,9.54082235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcCz,24866,Nahe,Mölken,27,,54.48683168,9.54048813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD0,24866,Nahe,Mölken,50,,54.48648893,9.5406182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD1,24866,Nahe,Mölken,51,,54.4857661,9.54317494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD2,24866,Nahe,Mölken,52,,54.4864149,9.54090267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD3,24866,Nahe,Mölken,54,,54.48631375,9.54111377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD4,24866,Nahe,Mölken,56,,54.48618719,9.54132386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD5,24866,Nahe,Mölken,58,,54.4861227,9.54162642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD6,24866,Nahe,Mölken,6,,54.48648929,9.54337519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD7,24866,Nahe,Mölken,60,,54.48605883,9.54189435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD8,24866,Nahe,Mölken,62,,54.48596062,9.54211808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcD9,24866,Nahe,Mölken,64,,54.48586376,9.54236741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDA,24866,Nahe,Moorschlag,23,,54.48453373,9.54652335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDB,24866,Nahe,Moorschlag,23,a,54.48437762,9.54611579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDC,24866,Nahe,Moorschlag,24,,54.48463284,9.54537466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDD,24866,Nahe,Moorschlag,25,,54.48430997,9.54573542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDE,24866,Nahe,Moorschlag,26,,54.48477721,9.54514821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDF,24866,Nahe,Moorschlag,27,,54.48430968,9.54543022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDG,24866,Nahe,Moorschlag,28,,54.48497511,9.54491701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDH,24866,Nahe,Moorschlag,29,,54.4844681,9.54514206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDI,24866,Nahe,Moorschlag,3,,54.48596427,9.54456285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDJ,24866,Nahe,Moorschlag,30,,54.48506197,9.54465699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDK,24866,Nahe,Moorschlag,31,,54.48459033,9.5449137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDL,24866,Nahe,Moorschlag,32,,54.48517547,9.54439769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDM,24866,Nahe,Moorschlag,33,,54.48477966,9.54456732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDN,24866,Nahe,Moorschlag,34,,54.48536578,9.54422747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDO,24866,Nahe,Moorschlag,35,,54.48487642,9.54440197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDP,24866,Nahe,Moorschlag,35,a,54.48498669,9.54431119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDQ,24866,Nahe,Moorschlag,36,,54.48544277,9.54392325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDR,24866,Nahe,Moorschlag,37,,54.48510704,9.54409507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDS,24866,Nahe,Moorschlag,38,,54.48561248,9.54376115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDT,24866,Nahe,Moorschlag,39,,54.48521235,9.54389003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDU,24866,Nahe,Moorschlag,39,a,54.4852889,9.54374684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDV,24866,Nahe,Moorschlag,4,,54.48580228,9.54440168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDW,24866,Nahe,Moorschlag,41,,54.48538852,9.54358783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDX,24866,Nahe,Moorschlag,41,a,54.48541184,9.54354441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDY,24866,Nahe,Moorschlag,5,,54.48581259,9.54489085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDZ,24866,Nahe,Moorschlag,6,,54.48571164,9.5445967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDa,24866,Nahe,Mölken,66,,54.48582265,9.54247776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDb,24866,Nahe,Mölken,68,,54.48572815,9.54269999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDc,24866,Nahe,Mölken,7,,54.48645119,9.54287007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDd,24866,Nahe,Mölken,7,a,54.48648761,9.54277343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDe,24866,Nahe,Mölken,70,,54.48569521,9.54278979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDf,24866,Nahe,Mölken,74,,54.48562352,9.54302708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDg,24866,Nahe,Mölken,8,,54.48657031,9.54311141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDh,24866,Nahe,Mölken,9,,54.48656904,9.5425565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDi,24866,Nahe,Mölken,9,a,54.4866048,9.54246159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDj,24866,Nahe,Moorschlag,1,,54.48618743,9.54429747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDk,24866,Nahe,Moorschlag,1,a,54.48613467,9.54439212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDl,24866,Nahe,Moorschlag,10,,54.4853929,9.54506625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDm,24866,Nahe,Moorschlag,11,,54.48526854,9.54563524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDn,24866,Nahe,Moorschlag,11,a,54.48539238,9.5457774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDo,24866,Nahe,Moorschlag,12,,54.48519632,9.54540446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDp,24866,Nahe,Moorschlag,13,,54.48514931,9.54585015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDq,24866,Nahe,Moorschlag,14,,54.48504041,9.54566279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDr,24866,Nahe,Moorschlag,15,,54.48503772,9.54617495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDs,24866,Nahe,Moorschlag,16,,54.48487318,9.54593867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDt,24866,Nahe,Moorschlag,17,,54.48492036,9.54641491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDu,24866,Nahe,Moorschlag,18,,54.48470294,9.5462109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDv,24866,Nahe,Moorschlag,19,,54.48477393,9.54655551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDw,24866,Nahe,Moorschlag,2,,54.48595248,9.54410015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDx,24866,Nahe,Moorschlag,21,,54.48460102,9.54687686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDy,24866,Nahe,Moorschlag,21,a,54.48450165,9.54712525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcDz,24866,Nahe,Moorschlag,22,,54.48446473,9.54570502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE0,24866,Nahe,Moorschlag,7,,54.48564409,9.54510528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE1,24866,Nahe,Moorschlag,8,,54.48554885,9.5448787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE2,24866,Nahe,Moorschlag,9,,54.48554205,9.54529285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE3,24866,Nahe,Am Busdorfer Teich,1,,54.49625152,9.55236495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE4,24866,Nahe,Am Busdorfer Teich,2,,54.49646712,9.55216097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE5,24866,Nahe,Am Busdorfer Teich,3,,54.49629445,9.5519053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE6,24866,Nahe,Am Busdorfer Teich,4,,54.49651928,9.55210257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE7,24866,Nahe,Am Busdorfer Teich,5,,54.4962457,9.5515781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE8,24866,Nahe,Am Busdorfer Teich,6,,54.49649366,9.55161864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcE9,24866,Nahe,Am Königshügel,2,,54.47701257,9.54743622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEa,24866,Nahe,Am Königshügel,4,,54.47705564,9.54944554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEb,24866,Nahe,Süderende,1,,54.48580435,9.54584599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEc,24866,Nahe,Süderende,10,,54.48510151,9.5471221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEd,24866,Nahe,Süderende,11,,54.48555194,9.54674605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEe,24866,Nahe,Süderende,12,,54.48497957,9.54733858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEf,24866,Nahe,Süderende,13,,54.48538569,9.54706564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEg,24866,Nahe,Süderende,14,,54.48483635,9.54758319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEh,24866,Nahe,Süderende,15,,54.48526935,9.54726547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEi,24866,Nahe,Süderende,16,,54.48471828,9.54778161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEj,24866,Nahe,Süderende,17,,54.48508883,9.54757262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEk,24866,Nahe,Süderende,19,,54.48489654,9.54789496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEl,24866,Nahe,Süderende,2,,54.48565267,9.54615541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEm,24866,Nahe,Süderende,21,,54.4847582,9.54809844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEn,24866,Nahe,Süderende,3,,54.48602028,9.54597992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEo,24866,Nahe,Süderende,4,,54.48550445,9.54639906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEp,24866,Nahe,Süderende,5,,54.48592101,9.54615199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEq,24866,Nahe,Süderende,6,,54.48537539,9.54661871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEr,24866,Nahe,Süderende,7,,54.48583839,9.546378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEs,24866,Nahe,Süderende,8,,54.48523085,9.54692161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcEt,24866,Nahe,Süderende,9,,54.48567573,9.54653592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsA,24866,Nahe,Am Hang,1,,54.49504059,9.55189967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsB,24866,Nahe,Am Hang,10,,54.49575724,9.5520313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsC,24866,Nahe,Am Hang,2,,54.49476528,9.55214324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsD,24866,Nahe,Am Hang,3,,54.49526739,9.55183662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsE,24866,Nahe,Am Hang,4,,54.49502235,9.55224848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsF,24866,Nahe,Am Hang,5,,54.49545352,9.55161274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsG,24866,Nahe,Am Hang,6,,54.49530352,9.55217064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsH,24866,Nahe,Am Hang,7,,54.49565313,9.55135298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsI,24866,Nahe,Am Hang,8,,54.49555253,9.55206641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsJ,24866,Nahe,Am Hang,9,,54.49570722,9.55168576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsK,24866,Nahe,Am Haddebyer Noor,2,,54.49587973,9.56680501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsL,24866,Nahe,Am Runenstein,1,,54.48652014,9.54867619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsM,24866,Nahe,Am Runenstein,10,,54.48736006,9.54732372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsN,24866,Nahe,Am Runenstein,11,,54.48661168,9.54781421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsO,24866,Nahe,Am Runenstein,12,,54.48747996,9.54711652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsP,24866,Nahe,Am Runenstein,13,,54.4867659,9.54756269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsQ,24866,Nahe,Am Runenstein,14,,54.4882398,9.54514682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsR,24866,Nahe,Am Runenstein,15,,54.48688469,9.54737832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsS,24866,Nahe,Am Runenstein,16,,54.48830277,9.54482468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsT,24866,Nahe,Am Runenstein,17,,54.48699048,9.54713625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsU,24866,Nahe,Am Runenstein,18,,54.48839206,9.54451273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsV,24866,Nahe,Am Runenstein,19,,54.48712655,9.54690171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsW,24866,Nahe,Am Runenstein,2,,54.48687584,9.54831876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsX,24866,Nahe,Am Runenstein,20,,54.48849423,9.5442417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsY,24866,Nahe,Am Runenstein,21,,54.48724278,9.5466666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcsZ,24866,Nahe,Am Runenstein,22,,54.48858419,9.54385045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsl,24866,Nahe,Achter de Wall,1,,54.48904167,9.5521096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsm,24866,Nahe,Achter de Wall,10,,54.48837843,9.55263193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsn,24866,Nahe,Achter de Wall,11,,54.48841493,9.55306505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncso,24866,Nahe,Achter de Wall,12,,54.48824023,9.55284083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsp,24866,Nahe,Achter de Wall,14,,54.48778621,9.55257992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsq,24866,Nahe,Achter de Wall,2,,54.48894724,9.55173402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsr,24866,Nahe,Achter de Wall,4,,54.48880401,9.55199333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncss,24866,Nahe,Achter de Wall,6,,54.48866947,9.55218987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncst,24866,Nahe,Achter de Wall,7,,54.48864051,9.55267373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsu,24866,Nahe,Achter de Wall,8,,54.4885331,9.55239716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsv,24866,Nahe,Achter de Wall,9,,54.48866274,9.55308281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsw,24866,Nahe,Achterwall,1,,54.49022104,9.55148985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsx,24866,Nahe,Achterwall,2,,54.49026099,9.55230285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncsy,24866,Nahe,Achterwall,3,,54.48995541,9.55205479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct0,24866,Nahe,Am Runenstein,23,,54.48751111,9.54613107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct1,24866,Nahe,Am Runenstein,24,,54.48865649,9.54356647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct2,24866,Nahe,Am Runenstein,25,,54.48758244,9.54597367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct3,24866,Nahe,Am Runenstein,26,,54.488744,9.54326699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct4,24866,Nahe,Am Runenstein,27,,54.48762484,9.54532942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct5,24866,Nahe,Am Runenstein,28,,54.48885874,9.54291066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct6,24866,Nahe,Am Runenstein,29,,54.48775481,9.5450783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct7,24866,Nahe,Am Runenstein,3,,54.48637137,9.54844441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct8,24866,Nahe,Am Runenstein,30,,54.48884397,9.54259583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nct9,24866,Nahe,Am Runenstein,31,,54.48797771,9.54462788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctA,24866,Nahe,Bergstraße,13,,54.49267436,9.54919993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctB,24866,Nahe,Bergstraße,13,a,54.49264924,9.54889209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctC,24866,Nahe,Bergstraße,13,b,54.49263803,9.54874633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctD,24866,Nahe,Bergstraße,14,,54.49283805,9.54887224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctE,24866,Nahe,Bergstraße,16,,54.49282308,9.54865405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctF,24866,Nahe,Bergstraße,2,,54.49298879,9.55205669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctG,24866,Nahe,Bergstraße,2,a,54.49310875,9.55159738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctH,24866,Nahe,Bergstraße,2,b,54.49322442,9.55202238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctI,24866,Nahe,Bergstraße,3,,54.49261874,9.55098881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctJ,24866,Nahe,Bergstraße,4,,54.49314167,9.55108286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctK,24866,Nahe,Bergstraße,5,,54.49262039,9.55085995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctL,24866,Nahe,Bergstraße,5,a,54.49292099,9.55104935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctM,24866,Nahe,Bergstraße,5,b,54.49290793,9.55064979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctN,24866,Nahe,Bergstraße,5,c,54.49266349,9.55039808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctO,24866,Nahe,Bergstraße,6,,54.49314236,9.55089377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctP,24866,Nahe,Bergstraße,7,,54.4928726,9.55029553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctQ,24866,Nahe,Bergstraße,7,a,54.49265853,9.54982321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctR,24866,Nahe,Bergstraße,8,,54.49305314,9.55053677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctS,24866,Nahe,Bergstraße,8,a,54.49305111,9.55026588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctT,24866,Nahe,Bergstraße,9,,54.49280659,9.54993483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctU,24866,Nahe,Dannewerker Straße,1,,54.48731648,9.54861008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctV,24866,Nahe,Dannewerker Straße,10,,54.48830857,9.54872715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctW,24866,Nahe,Dannewerker Straße,11,,54.48805703,9.54747303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctX,24866,Nahe,Dannewerker Straße,12,,54.48849294,9.54869141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctY,24866,Nahe,Dannewerker Straße,13,,54.48808876,9.54741484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NctZ,24866,Nahe,Dannewerker Straße,14,,54.48871148,9.54869333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncta,24866,Nahe,Am Runenstein,32,,54.48883735,9.54230059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctb,24866,Nahe,Am Runenstein,33,,54.48819554,9.54414344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctc,24866,Nahe,Am Runenstein,34,,54.48884413,9.5420637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctd,24866,Nahe,Am Runenstein,35,,54.48828627,9.54377159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncte,24866,Nahe,Am Runenstein,36,,54.48864926,9.5419737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctf,24866,Nahe,Am Runenstein,37,,54.48835496,9.54349766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctg,24866,Nahe,Am Runenstein,38,,54.48843765,9.54174394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncth,24866,Nahe,Am Runenstein,39,,54.48850515,9.5430933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncti,24866,Nahe,Am Runenstein,4,,54.48696044,9.54802294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctj,24866,Nahe,Am Runenstein,41,,54.48850159,9.54276614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctk,24866,Nahe,Am Runenstein,43,,54.48846607,9.54242411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctl,24866,Nahe,Am Runenstein,45,,54.48832241,9.54208114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctm,24866,Nahe,Am Runenstein,5,,54.4862511,9.54825421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctn,24866,Nahe,Am Runenstein,6,,54.48706373,9.54778459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncto,24866,Nahe,Am Runenstein,7,,54.48609793,9.54806867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctp,24866,Nahe,Am Runenstein,8,,54.48719795,9.54757019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctq,24866,Nahe,Am Runenstein,9,,54.48647458,9.54803171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctr,24866,Nahe,Am Sonnenhügel,10,,54.49881528,9.55538704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncts,24866,Nahe,Am Sonnenhügel,4,,54.49794205,9.55502014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctt,24866,Nahe,Am Sonnenhügel,5,,54.49800882,9.55531613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctu,24866,Nahe,Am Sonnenhügel,6,,54.49843529,9.55574702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctv,24866,Nahe,Am Sonnenhügel,8,,54.49864286,9.55559956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctw,24866,Nahe,Bergstraße,1,,54.49280811,9.55210596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctx,24866,Nahe,Bergstraße,10,,54.49298341,9.55005965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncty,24866,Nahe,Bergstraße,11,,54.49274697,9.54956521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nctz,24866,Nahe,Bergstraße,12,,54.49286378,9.54928362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu0,24866,Nahe,Dannewerker Straße,15,,54.48812091,9.5473558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu1,24866,Nahe,Dannewerker Straße,16,,54.48890545,9.54866742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu2,24866,Nahe,Dannewerker Straße,17,,54.4878245,9.54722435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu3,24866,Nahe,Dannewerker Straße,18,,54.48918441,9.54851155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu4,24866,Nahe,Dannewerker Straße,19,,54.48786176,9.54715717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu5,24866,Nahe,Dannewerker Straße,2,,54.48764092,9.54881916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu6,24866,Nahe,Dannewerker Straße,20,,54.48903884,9.54836524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu7,24866,Nahe,Dannewerker Straße,21,,54.48789281,9.54710087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu8,24866,Nahe,Dannewerker Straße,22,,54.48893504,9.5481487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncu9,24866,Nahe,Dannewerker Straße,23,,54.48792517,9.54704229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuB,24866,Nahe,Kirchenweg,10,,54.49314841,9.55501786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuC,24866,Nahe,Kirchenweg,10,a,54.49286894,9.55505107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuD,24866,Nahe,Kirchenweg,11,,54.49549489,9.56238305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuE,24866,Nahe,Kirchenweg,12,,54.49314577,9.55521884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuF,24866,Nahe,Kirchenweg,14,,54.4931675,9.55560479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuG,24866,Nahe,Kirchenweg,14,a,54.4928153,9.55548071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuH,24866,Nahe,Kirchenweg,14,b,54.49246801,9.55539861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuI,24866,Nahe,Kirchenweg,2,,54.4933911,9.55333506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuK,24866,Nahe,Kirchenweg,4,,54.49333863,9.55387393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuL,24866,Nahe,Kirchenweg,5,,54.4933495,9.5548566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuM,24866,Nahe,Kirchenweg,6,,54.49322938,9.55450375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuN,24866,Nahe,Kirchenweg,6,a,54.49285165,9.55450091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuO,24866,Nahe,Kirchenweg,7,,54.49387361,9.55750464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuP,24866,Nahe,Kirchenweg,8,,54.49317482,9.55472647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuQ,24866,Nahe,Kirchenweg,8,a,54.49284135,9.5548184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuR,24866,Nahe,Kirchenweg,9,,54.4939281,9.55759625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuS,24866,Nahe,Kreuzstraße,1,,54.49405466,9.5518979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuT,24866,Nahe,Kreuzstraße,11,,54.4934598,9.55046854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuU,24866,Nahe,Kreuzstraße,12,,54.49398544,9.55142538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuV,24866,Nahe,Kreuzstraße,13,,54.49343388,9.55018862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuW,24866,Nahe,Kreuzstraße,13,a,54.49340289,9.54989548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuX,24866,Nahe,Kreuzstraße,14,,54.49390212,9.55123179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuY,24866,Nahe,Kreuzstraße,15,,54.49341856,9.5494739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcuZ,24866,Nahe,Kreuzstraße,15,a,54.49329644,9.54913654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncua,24866,Nahe,Dannewerker Straße,24,,54.48875308,9.54800716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncub,24866,Nahe,Dannewerker Straße,25,,54.48763112,9.5469149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuc,24866,Nahe,Dannewerker Straße,26,,54.48863934,9.54779312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncud,24866,Nahe,Dannewerker Straße,27,,54.4876658,9.54685254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncue,24866,Nahe,Dannewerker Straße,28,,54.48849344,9.54753301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuf,24866,Nahe,Dannewerker Straße,29,,54.48769935,9.54679286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncug,24866,Nahe,Dannewerker Straße,3,,54.48742964,9.54839806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuh,24866,Nahe,Dannewerker Straße,30,,54.48843156,9.54783336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncui,24866,Nahe,Dannewerker Straße,31,,54.48773443,9.54672966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuj,24866,Nahe,Dannewerker Straße,32,,54.48828719,9.54807034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuk,24866,Nahe,Dannewerker Straße,34,,54.48812801,9.54829453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncul,24866,Nahe,Dannewerker Straße,4,,54.48794841,9.54852279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncum,24866,Nahe,Dannewerker Straße,5,,54.48758727,9.54820463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncun,24866,Nahe,Dannewerker Straße,6,,54.48782414,9.54870106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuo,24866,Nahe,Dannewerker Straße,7,,54.48784472,9.54778146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncup,24866,Nahe,Dannewerker Straße,7,a,54.48775362,9.5474762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuq,24866,Nahe,Dannewerker Straße,8,,54.48812276,9.54874209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncur,24866,Nahe,Dannewerker Straße,9,,54.48802097,9.54754072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncus,24866,Nahe,Haddebyer Chaussee,10,,54.49952188,9.55485452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncut,24866,Nahe,Haddebyer Chaussee,11,,54.50058699,9.55582604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuu,24866,Nahe,Haddebyer Chaussee,12,,54.50028436,9.55975193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuv,24866,Nahe,Haddebyer Chaussee,13,,54.50102969,9.56982542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuw,24866,Nahe,Haddebyer Chaussee,14,,54.50004337,9.56118997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncux,24866,Nahe,Haddebyer Chaussee,15,,54.50180725,9.57151551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuy,24866,Nahe,Haddebyer Chaussee,5,,54.4998171,9.55310778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncuz,24866,Nahe,Haddebyer Chaussee,8,,54.49943486,9.55337058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv0,24866,Nahe,Kreuzstraße,16,,54.49383692,9.55067266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv1,24866,Nahe,Kreuzstraße,16,a,54.49363096,9.54993612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv2,24866,Nahe,Kreuzstraße,16,b,54.49370137,9.5502471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv3,24866,Nahe,Kreuzstraße,17,,54.49328128,9.54898097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv4,24866,Nahe,Kreuzstraße,18,,54.49362736,9.5492052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv5,24866,Nahe,Kreuzstraße,19,,54.49331904,9.5483374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv6,24866,Nahe,Kreuzstraße,19,a,54.49338131,9.54867068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv7,24866,Nahe,Kreuzstraße,2,,54.49447959,9.55243371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv8,24866,Nahe,Kreuzstraße,20,,54.49353162,9.54908904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncv9,24866,Nahe,Kreuzstraße,21,,54.493586,9.54849099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvA,24866,Nahe,Reesendamm,19,,54.49422167,9.54603599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvB,24866,Nahe,Reesendamm,2,,54.49417582,9.5490474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvC,24866,Nahe,Reesendamm,3,,54.4932044,9.54957595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvD,24866,Nahe,Reesendamm,4,,54.4943058,9.54882918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvE,24866,Nahe,Reesendamm,5,,54.49411908,9.5487824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvF,24866,Nahe,Reesendamm,6,,54.4944463,9.5484653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvG,24866,Nahe,Reesendamm,7,,54.49421065,9.54846026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvH,24866,Nahe,Reesendamm,8,,54.49453902,9.54799124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvI,24866,Nahe,Reesendamm,9,,54.49406162,9.54803299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvJ,24866,Nahe,Rendsburger Straße,1,,54.49730183,9.55331292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvK,24866,Nahe,Rendsburger Straße,10,,54.49681215,9.55303582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvL,24866,Nahe,Rendsburger Straße,11,,54.49467145,9.55332462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvM,24866,Nahe,Rendsburger Straße,11,a,54.49457607,9.5533434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvN,24866,Nahe,Rendsburger Straße,11,b,54.49442108,9.55333728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvP,24866,Nahe,Rendsburger Straße,12,,54.49666182,9.55295018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvQ,24866,Nahe,Rendsburger Straße,13,,54.49384968,9.55354963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvR,24866,Nahe,Rendsburger Straße,14,,54.49636529,9.55285677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvS,24866,Nahe,Rendsburger Straße,15,,54.49367078,9.55332932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvT,24866,Nahe,Rendsburger Straße,16,,54.49610033,9.55278251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvU,24866,Nahe,Rendsburger Straße,17,,54.49303173,9.55322276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvV,24866,Nahe,Rendsburger Straße,18,,54.4958596,9.55286646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvW,24866,Nahe,Rendsburger Straße,19,,54.4927777,9.55329261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvX,24866,Nahe,Rendsburger Straße,2,,54.49729885,9.55283456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvY,24866,Nahe,Rendsburger Straße,20,,54.49562838,9.55294252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcvZ,24866,Nahe,Rendsburger Straße,20,a,54.49534792,9.55281069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncva,24866,Nahe,Kreuzstraße,22,,54.49367157,9.54870361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvc,24866,Nahe,Kreuzstraße,3,,54.49375242,9.55178679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvd,24866,Nahe,Kreuzstraße,4,,54.49469791,9.55170942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncve,24866,Nahe,Kreuzstraße,5,,54.49372161,9.55137838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvf,24866,Nahe,Kreuzstraße,6,,54.49480368,9.55148969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvg,24866,Nahe,Kreuzstraße,7,,54.49367923,9.55105728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvh,24866,Nahe,Kreuzstraße,8,,54.49437148,9.55186383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvi,24866,Nahe,Kreuzstraße,9,,54.49356605,9.55071495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvj,24866,Nahe,Panellenweg,1,,54.48695589,9.55013837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvk,24866,Nahe,Panellenweg,1,a,54.48694613,9.5501986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvl,24866,Nahe,Panellenweg,1,b,54.48692775,9.55031107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvm,24866,Nahe,Panellenweg,1,c,54.48691794,9.55037089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvn,24866,Nahe,Panellenweg,1,d,54.48689932,9.55048422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvo,24866,Nahe,Panellenweg,1,e,54.48688955,9.55054266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvp,24866,Nahe,Panellenweg,1,f,54.48687556,9.55062553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvq,24866,Nahe,Panellenweg,3,,54.4866068,9.55014211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvr,24866,Nahe,Panellenweg,3,a,54.48658713,9.55033011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvs,24866,Nahe,Panellenweg,5,,54.48585518,9.55002019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvt,24866,Nahe,Panellenweg,7,,54.48513882,9.54998208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvu,24866,Nahe,Reesendamm,1,,54.49290776,9.54967878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvv,24866,Nahe,Reesendamm,10,,54.49462715,9.54762729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvw,24866,Nahe,Reesendamm,11,,54.49432746,9.5479174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvx,24866,Nahe,Reesendamm,13,,54.49439635,9.54755379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvy,24866,Nahe,Reesendamm,15,,54.49440602,9.54721181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncvz,24866,Nahe,Reesendamm,17,,54.49433683,9.5465146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw0,24866,Nahe,Rendsburger Straße,20,b,54.49568324,9.55252417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw1,24866,Nahe,Rendsburger Straße,21,,54.4921252,9.55240758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw2,24866,Nahe,Rendsburger Straße,22,,54.49455053,9.55291583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw3,24866,Nahe,Rendsburger Straße,22,a,54.49459699,9.55290451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw4,24866,Nahe,Rendsburger Straße,22,b,54.49472501,9.55290057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw5,24866,Nahe,Rendsburger Straße,22,c,54.49478884,9.55288545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw6,24866,Nahe,Rendsburger Straße,22,d,54.49495699,9.55287653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw7,24866,Nahe,Rendsburger Straße,22,e,54.49512421,9.55284744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw8,24866,Nahe,Rendsburger Straße,23,,54.49197885,9.55219243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncw9,24866,Nahe,Rendsburger Straße,24,,54.49416307,9.55285217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwA,24866,Nahe,Rendsburger Straße,48,,54.49175802,9.55169226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwB,24866,Nahe,Rendsburger Straße,48,a,54.49162928,9.55157227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwC,24866,Nahe,Rendsburger Straße,5,,54.49697277,9.55358969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwD,24866,Nahe,Rendsburger Straße,50,,54.49139064,9.55146771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwE,24866,Nahe,Rendsburger Straße,50,a,54.4912466,9.55128232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwF,24866,Nahe,Rendsburger Straße,52,,54.49109047,9.55126203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwG,24866,Nahe,Rendsburger Straße,54,,54.49095202,9.55107479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwH,24866,Nahe,Rendsburger Straße,54,a,54.49082945,9.5510334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwI,24866,Nahe,Rendsburger Straße,54,b,54.49060513,9.55111784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwJ,24866,Nahe,Rendsburger Straße,54,c,54.49027456,9.55099108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwK,24866,Nahe,Rendsburger Straße,56,,54.49009079,9.55082918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwL,24866,Nahe,Rendsburger Straße,58,,54.48989415,9.55073605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwM,24866,Nahe,Rendsburger Straße,6,,54.49701853,9.55303523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwN,24866,Nahe,Rendsburger Straße,60,,54.48968773,9.55069196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwO,24866,Nahe,Rendsburger Straße,62,,54.48947955,9.55059416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwP,24866,Nahe,Rendsburger Straße,64,,54.48924457,9.55047343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwQ,24866,Nahe,Rendsburger Straße,64,a,54.4893673,9.54991527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwR,24866,Nahe,Rendsburger Straße,66,,54.48906658,9.55037306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwS,24866,Nahe,Rendsburger Straße,68,,54.48886398,9.55032236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwT,24866,Nahe,Rendsburger Straße,7,,54.49676767,9.5532665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwU,24866,Nahe,Rendsburger Straße,7,a,54.49679492,9.55379516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwV,24866,Nahe,Rendsburger Straße,70,,54.48865786,9.55027332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwW,24866,Nahe,Rendsburger Straße,72,,54.48845348,9.55020709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwX,24866,Nahe,Rendsburger Straße,74,,54.48815849,9.55008866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwY,24866,Nahe,Rendsburger Straße,8,,54.49680557,9.55258381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcwZ,24866,Nahe,Rendsburger Straße,8,a,54.49677148,9.55221224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwa,24866,Nahe,Rendsburger Straße,25,,54.49170692,9.55203017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwb,24866,Nahe,Rendsburger Straße,26,,54.49380244,9.55288073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwc,24866,Nahe,Rendsburger Straße,27,,54.49151516,9.55195021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwd,24866,Nahe,Rendsburger Straße,27,a,54.49134609,9.55189151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwe,24866,Nahe,Rendsburger Straße,28,,54.49362885,9.55285478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwf,24866,Nahe,Rendsburger Straße,29,,54.49115984,9.55182459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwg,24866,Nahe,Rendsburger Straße,29,a,54.49103914,9.55193526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwh,24866,Nahe,Rendsburger Straße,29,b,54.49078684,9.55173322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwi,24866,Nahe,Rendsburger Straße,3,,54.49715302,9.5534804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwj,24866,Nahe,Rendsburger Straße,30,,54.49318049,9.5524173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwk,24866,Nahe,Rendsburger Straße,31,,54.48981857,9.55143957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwm,24866,Nahe,Rendsburger Straße,32,,54.49316955,9.55281333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwn,24866,Nahe,Rendsburger Straße,33,,54.4892017,9.55110471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwo,24866,Nahe,Rendsburger Straße,34,,54.49293876,9.55269934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwp,24866,Nahe,Rendsburger Straße,35,,54.48908408,9.55104984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwq,24866,Nahe,Rendsburger Straße,36,,54.49271155,9.55251196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwr,24866,Nahe,Rendsburger Straße,37,,54.48876146,9.55095065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncws,24866,Nahe,Rendsburger Straße,38,,54.49255981,9.55238953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwt,24866,Nahe,Rendsburger Straße,39,,54.48856716,9.55086188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwu,24866,Nahe,Rendsburger Straße,4,,54.4972437,9.55285943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwv,24866,Nahe,Rendsburger Straße,40,,54.49245736,9.55226555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwx,24866,Nahe,Rendsburger Straße,42,,54.49229858,9.55212985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwy,24866,Nahe,Rendsburger Straße,44,,54.49218056,9.5520156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncwz,24866,Nahe,Rendsburger Straße,46,,54.49203766,9.55190389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx0,24866,Nahe,Rendsburger Straße,8,b,54.49677808,9.55211476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx1,24866,Nahe,Rendsburger Straße,8,c,54.49672499,9.55168444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx2,24866,Nahe,Rendsburger Straße,9,,54.49504979,9.55328917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx3,24866,Nahe,Rendsburger Straße,9,a,54.49520055,9.55327901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx4,24866,Nahe,Riesberg,1,,54.4996074,9.5558697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx5,24866,Nahe,Riesberg,10,,54.49901789,9.55741018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx6,24866,Nahe,Riesberg,11,,54.49929945,9.55791211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx7,24866,Nahe,Riesberg,12,,54.49912731,9.55777118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx8,24866,Nahe,Riesberg,13,,54.49911446,9.5583717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncx9,24866,Nahe,Riesberg,14,,54.49881846,9.55842159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxA,24866,Nahe,Ringstraße,2,,54.49269821,9.55127843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxB,24866,Nahe,Ringstraße,20,,54.49226852,9.54979635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxC,24866,Nahe,Ringstraße,21,,54.49102301,9.55015694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxD,24866,Nahe,Ringstraße,22,,54.4924211,9.54960808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxE,24866,Nahe,Ringstraße,23,,54.49064638,9.55022034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxF,24866,Nahe,Ringstraße,24,,54.49241264,9.54937391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxG,24866,Nahe,Ringstraße,26,,54.49227844,9.54929388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxH,24866,Nahe,Ringstraße,28,,54.49213542,9.54947361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxI,24866,Nahe,Ringstraße,3,,54.49228117,9.55136965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxJ,24866,Nahe,Ringstraße,30,,54.49197977,9.54955028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxK,24866,Nahe,Ringstraße,32,,54.49182947,9.54963107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxL,24866,Nahe,Ringstraße,34,,54.49167237,9.549667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxM,24866,Nahe,Ringstraße,36,,54.49148752,9.54963837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxN,24866,Nahe,Ringstraße,38,,54.49135195,9.54976559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxO,24866,Nahe,Ringstraße,4,,54.49245765,9.55116775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxP,24866,Nahe,Ringstraße,40,,54.49118723,9.54980189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxQ,24866,Nahe,Ringstraße,42,,54.49103747,9.54981528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxR,24866,Nahe,Ringstraße,44,,54.49087119,9.54983452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxS,24866,Nahe,Ringstraße,46,,54.49056994,9.54985593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxT,24866,Nahe,Ringstraße,5,,54.4921347,9.55126662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxU,24866,Nahe,Ringstraße,6,,54.49232059,9.55101494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxV,24866,Nahe,Ringstraße,7,,54.49199834,9.55109712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxW,24866,Nahe,Ringstraße,8,,54.49218567,9.55087997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcxX,24866,Nahe,Ringstraße,9,,54.49187822,9.5509129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxa,24866,Nahe,Riesberg,15,,54.49894823,9.55887436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxb,24866,Nahe,Riesberg,17,,54.49905193,9.55891039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxc,24866,Nahe,Riesberg,19,,54.49915429,9.5589492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxd,24866,Nahe,Riesberg,2,,54.49929336,9.55577909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxe,24866,Nahe,Riesberg,21,,54.49924998,9.55933409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxf,24866,Nahe,Riesberg,21,a,54.49930864,9.55923103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxg,24866,Nahe,Riesberg,23,,54.49940706,9.55935332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxh,24866,Nahe,Riesberg,23,a,54.49944659,9.55942349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxi,24866,Nahe,Riesberg,25,,54.49984081,9.55987592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxj,24866,Nahe,Riesberg,3,,54.49939966,9.55646249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxk,24866,Nahe,Riesberg,4,,54.49924146,9.55601596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxl,24866,Nahe,Riesberg,5,,54.49936544,9.55680859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxm,24866,Nahe,Riesberg,6,,54.49916266,9.55663728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxn,24866,Nahe,Riesberg,8,,54.49916641,9.55697464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxo,24866,Nahe,Riesberg,8,a,54.49881022,9.55715242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxp,24866,Nahe,Ringstraße,1,,54.4928339,9.55164615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxq,24866,Nahe,Ringstraße,1,a,54.49257895,9.55152505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxr,24866,Nahe,Ringstraße,10,,54.49205031,9.5506837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxs,24866,Nahe,Ringstraße,11,,54.49174695,9.55077214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxt,24866,Nahe,Ringstraße,12,,54.49191899,9.55052602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxu,24866,Nahe,Ringstraße,13,,54.49164987,9.55060826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxv,24866,Nahe,Ringstraße,14,,54.49166332,9.5501709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxw,24866,Nahe,Ringstraße,15,,54.49153064,9.55045067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxx,24866,Nahe,Ringstraße,17,,54.49140438,9.55026155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxy,24866,Nahe,Ringstraße,18,,54.49204708,9.54986757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncxz,24866,Nahe,Ringstraße,19,,54.49123986,9.55016626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy0,24866,Nahe,Svenweg,1,,54.48784177,9.54438879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy1,24866,Nahe,Svenweg,2,,54.48785928,9.54379104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy2,24866,Nahe,Svenweg,3,,54.48778233,9.54415205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy3,24866,Nahe,Svenweg,4,,54.48788511,9.54334992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy4,24866,Nahe,Svenweg,5,,54.48763301,9.54401286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy5,24866,Nahe,Svenweg,6,,54.48802633,9.54297031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy6,24866,Nahe,Svenweg,7,,54.48750547,9.5437369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy7,24866,Nahe,Svenweg,8,,54.48803451,9.54265413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy8,24866,Nahe,Schulstraße,1,,54.49256335,9.55334176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncy9,24866,Nahe,Schulstraße,10,,54.49188836,9.55345115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyA,24866,Nahe,Schulstraße,34,,54.48944429,9.55411452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyB,24866,Nahe,Schulstraße,4,,54.49236324,9.553069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyC,24866,Nahe,Schulstraße,5,,54.49256788,9.55459437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyD,24866,Nahe,Schulstraße,5,b,54.49228942,9.55484804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyE,24866,Nahe,Schulstraße,6,,54.49210039,9.55322144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyF,24866,Nahe,Schulstraße,7,,54.49223762,9.55441702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyG,24866,Nahe,Schulstraße,8,,54.4919928,9.5533322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyH,24866,Nahe,Schulstraße,9,,54.49242915,9.55410286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyI,24866,Nahe,Strandweg,2,,54.50286465,9.55621956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyJ,24866,Nahe,Teichblick,1,,54.49439218,9.55123593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyK,24866,Nahe,Teichblick,10,,54.49448228,9.55019626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyL,24866,Nahe,Teichblick,11,,54.49402859,9.54959259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyM,24866,Nahe,Teichblick,12,,54.49444237,9.5498877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyN,24866,Nahe,Teichblick,14,,54.49438573,9.54946938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyO,24866,Nahe,Teichblick,16,,54.4942388,9.54954244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyP,24866,Nahe,Teichblick,2,,54.49453295,9.55119186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyQ,24866,Nahe,Teichblick,3,,54.49430618,9.55091908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyR,24866,Nahe,Teichblick,4,,54.49451637,9.55085636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyS,24866,Nahe,Teichblick,5,,54.49419624,9.5506324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyT,24866,Nahe,Teichblick,6,,54.49450388,9.55056531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyU,24866,Nahe,Teichblick,7,,54.49411708,9.55025312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyV,24866,Nahe,Teichblick,8,,54.49448812,9.55043849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyW,24866,Nahe,Teichblick,9,,54.49405242,9.54992921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyX,24866,Nahe,Tweebarg,1,,54.48492369,9.54874774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyY,24866,Nahe,Tweebarg,10,,54.48590214,9.54779991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NcyZ,24866,Nahe,Tweebarg,11,,54.48594227,9.54709558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncya,24866,Nahe,Schulstraße,10,a,54.49164399,9.55350182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyb,24866,Nahe,Schulstraße,11,,54.49213301,9.55395106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyc,24866,Nahe,Schulstraße,12,,54.49153164,9.55363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyd,24866,Nahe,Schulstraße,13,,54.49205479,9.5545662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncye,24866,Nahe,Schulstraße,14,,54.49139986,9.5531467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyf,24866,Nahe,Schulstraße,15,,54.49158003,9.55417122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyg,24866,Nahe,Schulstraße,15,a,54.49177579,9.55476967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyh,24866,Nahe,Schulstraße,15,b,54.49177041,9.55466638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyi,24866,Nahe,Schulstraße,15,c,54.49176397,9.55454346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyj,24866,Nahe,Schulstraße,15,d,54.49175749,9.55441837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyk,24866,Nahe,Schulstraße,15,e,54.49177351,9.55426984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyl,24866,Nahe,Schulstraße,15,f,54.49176777,9.55415783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncym,24866,Nahe,Schulstraße,15,g,54.49174746,9.55401051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyn,24866,Nahe,Schulstraße,16,,54.49144174,9.55281699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyo,24866,Nahe,Schulstraße,17,,54.49152003,9.55500499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyp,24866,Nahe,Schulstraße,18,,54.49147933,9.55254829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyq,24866,Nahe,Schulstraße,19,,54.49135851,9.55427966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyr,24866,Nahe,Schulstraße,2,,54.49246862,9.55295743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncys,24866,Nahe,Schulstraße,20,,54.49131741,9.55251308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyt,24866,Nahe,Schulstraße,22,,54.49125168,9.55288124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyu,24866,Nahe,Schulstraße,24,,54.49124917,9.55334406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyv,24866,Nahe,Schulstraße,26,,54.49128943,9.55375326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyw,24866,Nahe,Schulstraße,28,,54.49095946,9.55386304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyx,24866,Nahe,Schulstraße,3,,54.49267887,9.5539741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyy,24866,Nahe,Schulstraße,30,,54.49084789,9.55385826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncyz,24866,Nahe,Schulstraße,32,,54.49069051,9.55386138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz0,24866,Nahe,Tweebarg,12,,54.486093,9.54732699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz1,24866,Nahe,Tweebarg,13,,54.48611237,9.54681708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz2,24866,Nahe,Tweebarg,14,,54.48621304,9.5471158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz3,24866,Nahe,Tweebarg,15,,54.48624797,9.54652531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz4,24866,Nahe,Tweebarg,16,,54.48637471,9.54687424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz5,24866,Nahe,Tweebarg,17,,54.48634085,9.54626723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz6,24866,Nahe,Tweebarg,17,a,54.4862336,9.54566469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz7,24866,Nahe,Tweebarg,17,b,54.48643138,9.54554601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz8,24866,Nahe,Tweebarg,17,c,54.48660985,9.54530557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncz9,24866,Nahe,Tweebarg,17,d,54.48675015,9.54495342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczA,24866,Nahe,Tweebarg,4,,54.48544036,9.548429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczB,24866,Nahe,Tweebarg,40,,54.48777476,9.54236261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczC,24866,Nahe,Tweebarg,41,,54.48779302,9.54156667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczD,24866,Nahe,Tweebarg,42,,54.48785902,9.54208691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczE,24866,Nahe,Tweebarg,42,a,54.4878964,9.54200013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczF,24866,Nahe,Tweebarg,43,,54.487883,9.54120856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczG,24866,Nahe,Tweebarg,44,,54.48796602,9.54177984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczH,24866,Nahe,Tweebarg,44,a,54.48800158,9.54164664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczI,24866,Nahe,Tweebarg,46,,54.48815196,9.54144109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczJ,24866,Nahe,Tweebarg,48,,54.48822715,9.54107763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczK,24866,Nahe,Tweebarg,5,,54.48523561,9.54821567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczL,24866,Nahe,Tweebarg,50,,54.48798481,9.54081279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczM,24866,Nahe,Tweebarg,6,,54.4855623,9.54822331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczN,24866,Nahe,Tweebarg,7,,54.48537478,9.54800289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczO,24866,Nahe,Tweebarg,8,,54.48575051,9.54799623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczP,24866,Nahe,Tweebarg,9,,54.48566148,9.54746671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczQ,24866,Nahe,Wittgenstein,1,,54.47920506,9.54001174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczR,24866,Nahe,Wittgenstein,2,,54.47708654,9.54492744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczS,24866,Nahe,Wittgenstein,3,,54.47920442,9.54101006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczT,24866,Nahe,Wittgenstein,5,,54.47892582,9.54170869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczU,24866,Nahe,Wittgenstein,9,,54.47783809,9.54523792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczV,24866,Nahe,Zum Nordtor,1,,54.4935922,9.5590346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczW,24866,Nahe,Ahornweg,1,,54.49425342,9.55384766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczX,24866,Nahe,Ahornweg,10,,54.49424028,9.5545815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczY,24866,Nahe,Ahornweg,12,,54.49424226,9.55470504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NczZ,24866,Nahe,Ahornweg,12,a,54.49401689,9.55492633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncza,24866,Nahe,Tweebarg,18,,54.48652977,9.54673043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczb,24866,Nahe,Tweebarg,19,,54.48690043,9.54449333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczc,24866,Nahe,Tweebarg,2,,54.48528648,9.54867441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczd,24866,Nahe,Tweebarg,20,,54.48673534,9.54646331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ncze,24866,Nahe,Tweebarg,21,,54.48693372,9.54414479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczf,24866,Nahe,Tweebarg,22,,54.4865771,9.54619192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczg,24866,Nahe,Tweebarg,23,,54.48676487,9.54397073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczi,24866,Nahe,Tweebarg,24,a,54.48672972,9.54564077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczj,24866,Nahe,Tweebarg,25,,54.48694299,9.5437904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczk,24866,Nahe,Tweebarg,26,,54.48714902,9.54465488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczl,24866,Nahe,Tweebarg,27,,54.48700232,9.54344689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczm,24866,Nahe,Tweebarg,28,,54.4872085,9.54432706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczn,24866,Nahe,Tweebarg,29,,54.48710355,9.54318308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczo,24866,Nahe,Tweebarg,3,,54.48505634,9.54852824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczp,24866,Nahe,Tweebarg,30,,54.48729171,9.54396072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczq,24866,Nahe,Tweebarg,31,,54.48722014,9.54299123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczr,24866,Nahe,Tweebarg,32,,54.48733514,9.5435369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczs,24866,Nahe,Tweebarg,33,,54.48730259,9.54278075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczt,24866,Nahe,Tweebarg,33,a,54.48735082,9.54265955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczu,24866,Nahe,Tweebarg,34,,54.48746306,9.54329534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczv,24866,Nahe,Tweebarg,35,,54.48746123,9.54242504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczw,24866,Nahe,Tweebarg,36,,54.48758955,9.54302881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczx,24866,Nahe,Tweebarg,37,,54.48756745,9.5421655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczy,24866,Nahe,Tweebarg,38,,54.48770967,9.54269965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nczz,24866,Nahe,Tweebarg,39,,54.48767057,9.54188488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njgv,24866,Nahe,Am Königshügel,15,,54.47697259,9.54648244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004GkdE,24866,Nahe,Riesberg,6,a,54.49869167,9.5567883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JXHa,24866,Nahe,Dannewerker Straße,7,b,54.48761966,9.54766806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RVzA,24866,Nahe,Bergholm,2,d,54.49199584,9.54769702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RVzB,24866,Nahe,Bergholm,2,e,54.49203186,9.54787534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RVzn,24866,Nahe,Bergholm,1,b,54.49184186,9.54682762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RVzs,24866,Nahe,Bergholm,1,a,54.4918068,9.54730412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054EI9,24866,Nahe,Riesberg,12,a,54.49908302,9.55791682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054duy,24866,Nahe,Rosenhof,1,,54.48937777,9.55170968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005644j,24866,Nahe,Riesberg,12,b,54.49898053,9.55812581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005853n,24866,Nahe,Bergholm,2,c,54.49182722,9.54775827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059sOe,24866,Nahe,Bergholm,2,b,54.49167493,9.547831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bn8C,24866,Nahe,Svenweg,8,a,54.48812473,9.5425848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bn9O,24866,Nahe,Am Runenstein,22,a,54.4886931,9.54384345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BoqN,24866,Nahe,Lindenweg,8,b,54.48782664,9.55191479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BoqR,24866,Nahe,Rendsburger Straße,39,a,54.48843262,9.55081446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BoqV,24866,Nahe,Achter de Wall,1,a,54.48961093,9.55244192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bor0,24866,Nahe,Dannewerker Straße,15,a,54.48814723,9.54730643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BpBP,24866,Nahe,Strandweg,1,a,54.50274903,9.55314628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BpBU,24866,Nahe,Strandweg,1,,54.50276277,9.55349953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BpjD,24866,Nahe,Ahornweg,14,,54.4942266,9.55510805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BpjI,24866,Nahe,Kreuzstraße,20,a,54.49376295,9.54890234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BpjN,24866,Nahe,Kreuzstraße,21,a,54.49340591,9.5482396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BvO4,24866,Nahe,Kreuzstraße,17,a,54.49322255,9.5487924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BxFB,24866,Nahe,Kreuzstraße,6,a,54.49475271,9.55131086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ggs6,24866,Nahe,Ahornweg,5,,54.49468836,9.55408461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Xygf,24866,Nahe,Ahornweg,14,a,54.49417133,9.55546547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Xz2q,24866,Nahe,Ahornweg,14,b,54.49403022,9.55551136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nMCD,24866,Nahe,Skartheweg,2,,54.4893315,9.54864077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nMDa,24866,Nahe,Skartheweg,4,,54.48953446,9.54869622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o51n,24866,Nahe,Bergholm,2,a,54.49152596,9.54793848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vZ91,24866,Nahe,Twischenwark,1,,54.48644226,9.56147108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061fXH,24866,Nahe,Thorshammer,19,a,54.48138173,9.53979709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061fXW,24866,Nahe,Thorshammer,19,b,54.48101474,9.53934402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061fXv,24866,Nahe,Thorshammer,19,,54.48123851,9.54023228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006AsJ7,24866,Nahe,Riesberg,6,b,54.49879084,9.55593197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006B0b1,24866,Nahe,Tweebarg,22,a,54.48667167,9.54605341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006B0b2,24866,Nahe,Tweebarg,22,b,54.48669678,9.5460995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H0GS,24866,Nahe,Thorshammer,14,,54.48205724,9.54057036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IUXZ,24866,Nahe,Fliederhof,1,,54.4936394,9.55370433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IUY0,24866,Nahe,Fliederhof,2,,54.49361889,9.55383235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IUY1,24866,Nahe,Fliederhof,3,,54.49359916,9.55395815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IUY2,24866,Nahe,Fliederhof,4,,54.49357752,9.55409015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1F,24866,Nahe,Fliederhof,11,,54.49375725,9.5546946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1K,24866,Nahe,Fliederhof,10,,54.49382962,9.55465186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1P,24866,Nahe,Fliederhof,9,,54.49390164,9.55460872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1h,24866,Nahe,Fliederhof,5,,54.49367805,9.55407174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1m,24866,Nahe,Fliederhof,6,,54.49372048,9.55418054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1r,24866,Nahe,Fliederhof,7,,54.49376199,9.55428695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IV1w,24866,Nahe,Fliederhof,8,,54.49380376,9.55439406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IquY,24866,Nahe,Rosenhof,3,,54.48940755,9.55157874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqvE,24866,Nahe,Rosenhof,7,,54.48946452,9.55131321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqvH,24866,Nahe,Rosenhof,11,,54.4895811,9.55131916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqvU,24866,Nahe,Rosenhof,13,,54.48965441,9.55134051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqvZ,24866,Nahe,Rosenhof,9,,54.48953122,9.55128184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqvm,24866,Nahe,Rosenhof,5,,54.48943881,9.55145123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqwF,24866,Nahe,Rosenhof,19,,54.48960705,9.55184281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqwl,24866,Nahe,Rosenhof,21,,54.48959077,9.55197969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqx8,24866,Nahe,Rosenhof,17,,54.48963224,9.55167724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqxf,24866,Nahe,Rosenhof,15,,54.48965213,9.55154319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IqyR,24866,Nahe,Rosenhof,2,,54.48934015,9.55233726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqz5,24866,Nahe,Rosenhof,4,,54.48928786,9.55241351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqze,24866,Nahe,Rosenhof,6,,54.48921182,9.5525241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iqzr,24866,Nahe,Rosenhof,8,,54.48915618,9.55260529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QTkw,24866,Nahe,Bergholm,8,a,54.49286996,9.5470556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QTkx,24866,Nahe,Bergholm,8,b,54.49291063,9.5470557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QTky,24866,Nahe,Bergholm,8,c,54.49286996,9.5470556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WUrH,24866,Nahe,Thorshammer,13,a,54.48020339,9.54184312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WUrN,24866,Nahe,Thorshammer,15,a,54.48067861,9.54147569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WUrs,24866,Nahe,Thorshammer,15,,54.48104435,9.54192633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fFxi,24866,Nahe,Thorshammer,1,,54.47820078,9.54355502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fFxm,24866,Nahe,Thorshammer,1,a,54.47902543,9.54381942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fFxr,24866,Nahe,Thorshammer,2,a,54.47853605,9.54439683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ubmz,24866,Nahe,Kirchenweg,4,a,54.49308854,9.55415868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000723Hq,24866,Nahe,Mölken,37,a,54.48635047,9.54192389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076gTT,24866,Nahe,Thorshammer,13,,54.48090979,9.54268006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007EaMu,24866,Nahe,Bergstraße,13,c,54.49261911,9.54927507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JuNt,24866,Nahe,Riesberg,7,,54.49928584,9.55713422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007KEtJ,24866,Nahe,Rendsburger Straße,74,a,54.4880781,9.55002715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007KEtO,24866,Nahe,Rendsburger Straße,76,,54.48792669,9.54982273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Whry,24866,Nahe,Rodelberg,6,,53.79949537,10.13534102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bpUh,24866,Nahe,Wildbahn,37,,54.55074492,9.51941561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bpUo,24866,Nahe,Wildbahn,35,,54.55077966,9.51982072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007er0N,24866,Nahe,Haddebyer Chaussee,5,a,54.49965011,9.55322566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gwj5,24866,Nahe,Moorschlag,6,a,54.48566095,9.54468822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gwja,24866,Nahe,Moorschlag,10,a,54.48534884,9.54515935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hEOY,24866,Nahe,Kreuzstraße,10,,54.49418561,9.55181341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hEP3,24866,Nahe,Rendsburger Straße,24,a,54.49411425,9.55259935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jk96,24866,Nahe,Bergholm,6,b,54.49274594,9.54752421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007k1bv,24866,Nahe,Achterwall,1,b,54.49019453,9.55170177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kKC9,24866,Nahe,Kirchenweg,16,,54.49366492,9.55819851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mg4s,24866,Nahe,Am Haddebyer Noor,3,,54.49864387,9.57049899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007phoI,24866,Nahe,Haddebyer Chaussee,1,,54.49982582,9.55151546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089D7W,24866,Nahe,Thorshammer,8,a,54.47999655,9.54560239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiHJ,24866,Nahe,Thorshammer,8,,54.47977324,9.54510592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iOfU,24866,Nahe,Rendsburger Straße,7,c,54.49613646,9.55337396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iOfW,24866,Nahe,Rendsburger Straße,7,b,54.49644237,9.55321992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yluG,24866,Nahe,Rodelberg,8,,53.79950848,10.13572177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yvDF,24866,Nahe,Ringstraße,6,a,54.49234478,9.5508419

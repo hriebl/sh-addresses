@@ -1,0 +1,958 @@
+# Amtliche Adressen für die Postleitzahl 23744
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6D9,23744,Schönwalde,Ausbau,1,,54.18414711,10.82100588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IA,23744,Schönwalde,Am Diekshagen,1,,54.18090342,10.74444612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IB,23744,Schönwalde,Am Diekshagen,10,,54.1813645,10.74521668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IC,23744,Schönwalde,Am Diekshagen,11,,54.18137728,10.74405648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ID,23744,Schönwalde,Am Diekshagen,12,,54.18150445,10.74512464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IE,23744,Schönwalde,Am Diekshagen,13,,54.18118343,10.74401398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IF,23744,Schönwalde,Am Diekshagen,14,,54.18163142,10.74495706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IG,23744,Schönwalde,Am Diekshagen,15,,54.18098251,10.74402711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IH,23744,Schönwalde,Am Diekshagen,16,,54.18173443,10.74471677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6II,23744,Schönwalde,Am Diekshagen,18,,54.18183268,10.74448277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IJ,23744,Schönwalde,Am Diekshagen,2,,54.18060965,10.74478079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IK,23744,Schönwalde,Am Diekshagen,20,,54.18199531,10.74422301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IL,23744,Schönwalde,Am Diekshagen,22,,54.18213741,10.74403242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IM,23744,Schönwalde,Am Diekshagen,24,,54.18199717,10.74385955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IN,23744,Schönwalde,Am Diekshagen,26,,54.18183241,10.74365038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IO,23744,Schönwalde,Am Diekshagen,28,,54.18173636,10.74344796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IP,23744,Schönwalde,Am Diekshagen,3,,54.18112913,10.74459139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IQ,23744,Schönwalde,Am Diekshagen,30,,54.18152281,10.74356512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IR,23744,Schönwalde,Am Diekshagen,32,,54.18132917,10.74363868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IS,23744,Schönwalde,Am Diekshagen,34,,54.18116055,10.74359562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IT,23744,Schönwalde,Am Diekshagen,36,,54.18098586,10.74359068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IU,23744,Schönwalde,Am Diekshagen,38,,54.18079676,10.74361056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IV,23744,Schönwalde,Am Diekshagen,40,,54.18066168,10.74380551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IW,23744,Schönwalde,Am Diekshagen,42,,54.18057345,10.74400326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IX,23744,Schönwalde,Am Diekshagen,44,,54.18053159,10.74426947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IY,23744,Schönwalde,Am Diekshagen,46,,54.18033541,10.74422936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6IZ,23744,Schönwalde,Am Diekshagen,5,,54.18138625,10.74467647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Io,23744,Schönwalde,Ortsteil Schönwalde a.B.,999,,54.18806694,10.75456261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ip,23744,Schönwalde,Alte Meierei,1,,54.21955722,10.73420234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iq,23744,Schönwalde,Alte Meierei,2,,54.21981226,10.73465265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ir,23744,Schönwalde,Alte Meierei,3,,54.2193195,10.73373044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Is,23744,Schönwalde,Alte Meierei,5,,54.21962838,10.73370089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6It,23744,Schönwalde,Alter Töpferweg,1,,54.18272533,10.74847653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iu,23744,Schönwalde,Alter Töpferweg,2,,54.1827041,10.74804826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iv,23744,Schönwalde,Alter Töpferweg,3,,54.18290535,10.74825609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iw,23744,Schönwalde,Alter Töpferweg,4,,54.18286425,10.74795581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ix,23744,Schönwalde,Alter Töpferweg,5,,54.18306104,10.74847857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iy,23744,Schönwalde,Alter Töpferweg,7,,54.1830925,10.74797305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Iz,23744,Schönwalde,Alter Töpferweg,9,,54.18324017,10.74807128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J0,23744,Schönwalde,Am Diekshagen,6,,54.18092344,10.74525634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J1,23744,Schönwalde,Am Diekshagen,7,,54.18160196,10.74445825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J2,23744,Schönwalde,Am Diekshagen,8,,54.18119776,10.74498073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J3,23744,Schönwalde,Am Diekshagen,9,,54.18156689,10.7440141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J4,23744,Schönwalde,Am Hof,1,,54.21952584,10.7370266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J5,23744,Schönwalde,Am Hof,2,,54.22012942,10.73700563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J6,23744,Schönwalde,Am Hof,3,,54.21950333,10.73664604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J7,23744,Schönwalde,Am Hof,4,,54.22011439,10.73674234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J8,23744,Schönwalde,Am Hof,4,a,54.22009766,10.73645006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6J9,23744,Schönwalde,Am Hof,5,,54.21948174,10.73626529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JA,23744,Schönwalde,Am Schierenbek,2,,54.18667759,10.7814126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JB,23744,Schönwalde,Am Schierenbek,3,,54.18434818,10.78217393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JC,23744,Schönwalde,Am Schierenbek,5,,54.1831595,10.78167022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JD,23744,Schönwalde,Am Schierenbek,7,,54.18237994,10.78050254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JE,23744,Schönwalde,Am Schönberg,1,,54.18688615,10.75848234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JF,23744,Schönwalde,Am Schönberg,10,,54.18650147,10.75988324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JG,23744,Schönwalde,Am Schönberg,11,,54.18625192,10.75951146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JH,23744,Schönwalde,Am Schönberg,12,,54.18657116,10.76012211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JI,23744,Schönwalde,Am Schönberg,13,,54.18628273,10.75987638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JJ,23744,Schönwalde,Am Schönberg,15,,54.18626028,10.76024915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JK,23744,Schönwalde,Am Schönberg,17,,54.18629179,10.76071394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JL,23744,Schönwalde,Am Schönberg,2,,54.18701182,10.75893347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JM,23744,Schönwalde,Am Schönberg,3,,54.18667386,10.758609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JN,23744,Schönwalde,Am Schönberg,4,,54.18683107,10.75898736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JO,23744,Schönwalde,Am Schönberg,5,,54.18650088,10.75865984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JP,23744,Schönwalde,Am Schönberg,6,,54.18660938,10.75908606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JQ,23744,Schönwalde,Am Schönberg,7,,54.18625124,10.75870242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JR,23744,Schönwalde,Am Schönberg,8,,54.18651566,10.75955851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JS,23744,Schönwalde,Am Schönberg,9,,54.18622893,10.75917791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JT,23744,Schönwalde,Am Steinberg,1,,54.18136971,10.74679368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JU,23744,Schönwalde,Am Steinberg,10,,54.18190187,10.74549831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JV,23744,Schönwalde,Am Steinberg,11,,54.1821394,10.74547757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JW,23744,Schönwalde,Am Steinberg,11,a,54.18223384,10.74555528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JX,23744,Schönwalde,Am Steinberg,12,,54.18205895,10.74506968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JY,23744,Schönwalde,Am Steinberg,2,,54.18126235,10.74655798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6JZ,23744,Schönwalde,Am Steinberg,3,,54.18187981,10.7468763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ja,23744,Schönwalde,Am Hof,6,,54.22007992,10.73613938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jb,23744,Schönwalde,Am Hof,7,,54.21971667,10.73568083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jc,23744,Schönwalde,Am Hof,8,,54.21984752,10.73559173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jd,23744,Schönwalde,Am Lachsbach,1,,54.18737117,10.75104485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Je,23744,Schönwalde,Am Lachsbach,2,,54.18703312,10.75086663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jf,23744,Schönwalde,Am Lachsbach,2,a,54.18718222,10.75064898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jg,23744,Schönwalde,Am Lachsbach,2,b,54.18745855,10.75009172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jh,23744,Schönwalde,Am Lachsbach,3,,54.18745156,10.75062836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ji,23744,Schönwalde,Am Lachsbach,4,,54.18771493,10.7499245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jj,23744,Schönwalde,Am Lachsbach,5,,54.18773611,10.75039192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jk,23744,Schönwalde,Am Lachsbach,6,,54.18803863,10.74970974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jl,23744,Schönwalde,Am Lachsbach,7,,54.18795932,10.75010863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jm,23744,Schönwalde,Am Ruhsal,10,,54.18827938,10.75473012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jn,23744,Schönwalde,Am Ruhsal,10,a,54.1881957,10.75537657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jo,23744,Schönwalde,Am Ruhsal,10,b,54.18836348,10.75528111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jr,23744,Schönwalde,Am Ruhsal,12,,54.1880585,10.75493772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Js,23744,Schönwalde,Am Ruhsal,2,,54.18794775,10.75367491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jt,23744,Schönwalde,Am Ruhsal,2,b,54.18794917,10.75247813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ju,23744,Schönwalde,Am Ruhsal,2,c,54.18794917,10.75247813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jv,23744,Schönwalde,Am Ruhsal,4,,54.18821802,10.75359339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jw,23744,Schönwalde,Am Ruhsal,6,,54.18864311,10.75291173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jx,23744,Schönwalde,Am Ruhsal,8,,54.18836306,10.75460859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jy,23744,Schönwalde,Am Schierenbek,1,,54.18696049,10.78219962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Jz,23744,Schönwalde,Am Schierenbek,1,a,54.18726956,10.78262405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K0,23744,Schönwalde,Am Steinberg,4,,54.18128778,10.74628275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K1,23744,Schönwalde,Am Steinberg,5,,54.18165484,10.74630869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K2,23744,Schönwalde,Am Steinberg,6,,54.18142741,10.74606182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K3,23744,Schönwalde,Am Steinberg,6,a,54.18149699,10.74611377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K4,23744,Schönwalde,Am Steinberg,7,,54.18188065,10.74590822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K5,23744,Schönwalde,Am Steinberg,7,a,54.18219942,10.74645174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K6,23744,Schönwalde,Am Steinberg,8,,54.18166234,10.74594753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K7,23744,Schönwalde,Am Steinberg,9,,54.18202344,10.74570451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K8,23744,Schönwalde,Bergfelder Straße,1,,54.18633925,10.7503989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6K9,23744,Schönwalde,Bergfelder Straße,10,,54.18583724,10.74882221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KA,23744,Schönwalde,Bergfelder Straße,30,,54.18605295,10.74506334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KB,23744,Schönwalde,Bergfelder Straße,32,,54.18605443,10.74468575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KC,23744,Schönwalde,Bergfelder Straße,32,a,54.186015,10.74400889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KD,23744,Schönwalde,Bergfelder Straße,34,,54.18633463,10.74400532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KE,23744,Schönwalde,Bergfelder Straße,4,,54.18589122,10.74984944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KF,23744,Schönwalde,Bergfelder Straße,40,,54.18742877,10.74370498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KG,23744,Schönwalde,Bergfelder Straße,44,,54.18824464,10.74292078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KH,23744,Schönwalde,Bergfelder Straße,5,,54.18603971,10.74931445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KI,23744,Schönwalde,Bergfelder Straße,6,,54.18583528,10.74938253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KJ,23744,Schönwalde,Bergfelder Straße,7,,54.18611572,10.74857283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KK,23744,Schönwalde,Bergfelder Straße,8,,54.18545628,10.74998763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KL,23744,Schönwalde,Bergfelder Straße,9,,54.18612721,10.74827424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KM,23744,Schönwalde,Breslauer Straße,1,,54.18431409,10.76724607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KN,23744,Schönwalde,Breslauer Straße,11,,54.18516931,10.76729476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KO,23744,Schönwalde,Breslauer Straße,13,,54.18537247,10.76741137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KP,23744,Schönwalde,Breslauer Straße,15,,54.18547403,10.7671496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KQ,23744,Schönwalde,Breslauer Straße,3,,54.18449142,10.76721323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KR,23744,Schönwalde,Breslauer Straße,5,,54.18465835,10.76716969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KS,23744,Schönwalde,Breslauer Straße,7,,54.18483266,10.7671802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KT,23744,Schönwalde,Breslauer Straße,9,,54.18500257,10.7671787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KU,23744,Schönwalde,Quitschenbarg,1,,54.1929578,10.75582424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KV,23744,Schönwalde,Quitschenbarg,11,,54.19256666,10.75480335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KW,23744,Schönwalde,Quitschenbarg,2,,54.19274889,10.75553435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KX,23744,Schönwalde,Quitschenbarg,3,,54.19306881,10.75562748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KY,23744,Schönwalde,Quitschenbarg,4,,54.19282331,10.75525689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6KZ,23744,Schönwalde,Quitschenbarg,5,,54.19318676,10.7552871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ka,23744,Schönwalde,Bergfelder Straße,10,a,54.18587693,10.74852077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kb,23744,Schönwalde,Bergfelder Straße,11,,54.18614167,10.74790959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kc,23744,Schönwalde,Bergfelder Straße,12,,54.18585394,10.74795922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kd,23744,Schönwalde,Bergfelder Straße,13,,54.18615556,10.74767467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ke,23744,Schönwalde,Bergfelder Straße,15,,54.18619819,10.74732528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kf,23744,Schönwalde,Bergfelder Straße,16,,54.18566758,10.74823124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kg,23744,Schönwalde,Bergfelder Straße,17,,54.18642307,10.74713825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kh,23744,Schönwalde,Bergfelder Straße,17,a,54.18624393,10.74679194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ki,23744,Schönwalde,Bergfelder Straße,17,b,54.18624911,10.74669352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kj,23744,Schönwalde,Bergfelder Straße,18,,54.18550446,10.74773475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kk,23744,Schönwalde,Bergfelder Straße,19,,54.18626103,10.74645566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kl,23744,Schönwalde,Bergfelder Straße,2,,54.18592497,10.74994675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Km,23744,Schönwalde,Bergfelder Straße,20,,54.18551537,10.74843613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kn,23744,Schönwalde,Bergfelder Straße,20,a,54.18544173,10.74808872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ko,23744,Schönwalde,Bergfelder Straße,20,b,54.18513827,10.74773513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kp,23744,Schönwalde,Bergfelder Straße,21,,54.18630551,10.74601121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kq,23744,Schönwalde,Bergfelder Straße,22,,54.18597153,10.74712631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kr,23744,Schönwalde,Bergfelder Straße,22,a,54.18596719,10.74646132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ks,23744,Schönwalde,Bergfelder Straße,23,,54.18637411,10.74559742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kt,23744,Schönwalde,Bergfelder Straße,24,,54.18599524,10.74596105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ku,23744,Schönwalde,Bergfelder Straße,25,,54.18634667,10.74532397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kv,23744,Schönwalde,Bergfelder Straße,26,,54.1860143,10.7456788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kw,23744,Schönwalde,Bergfelder Straße,27,,54.18637673,10.74506618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kx,23744,Schönwalde,Bergfelder Straße,27,a,54.18655377,10.74488958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ky,23744,Schönwalde,Bergfelder Straße,29,,54.18675077,10.74479637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Kz,23744,Schönwalde,Bergfelder Straße,3,,54.18612466,10.74969307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L0,23744,Schönwalde,Quitschenbarg,6,,54.19254068,10.75511678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L1,23744,Schönwalde,Quitschenbarg,7,,54.19322271,10.75501585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L2,23744,Schönwalde,Quitschenbarg,9,,54.19285408,10.75491684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L3,23744,Schönwalde,Schmiedekamp,1,,54.19249603,10.75562999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L4,23744,Schönwalde,Schmiedekamp,10,,54.19232219,10.75662745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L5,23744,Schönwalde,Schmiedekamp,11,,54.19226669,10.75507396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L6,23744,Schönwalde,Schmiedekamp,12,,54.19242894,10.75628978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L7,23744,Schönwalde,Schmiedekamp,13,,54.19229983,10.75473737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L8,23744,Schönwalde,Schmiedekamp,14,,54.19243984,10.75600681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6L9,23744,Schönwalde,Schmiedekamp,15,,54.1920396,10.7547039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LA,23744,Schönwalde,Bungsbergstraße,1,,54.18865012,10.7542784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LB,23744,Schönwalde,Bungsbergstraße,10,,54.18942371,10.75421745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LC,23744,Schönwalde,Bungsbergstraße,11,,54.19030104,10.75527186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LD,23744,Schönwalde,Bungsbergstraße,12,,54.18961732,10.75440062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LE,23744,Schönwalde,Bungsbergstraße,13,,54.19057939,10.75558476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LF,23744,Schönwalde,Bungsbergstraße,14,,54.18978206,10.75448762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LH,23744,Schönwalde,Bungsbergstraße,14,b,54.19038711,10.75435323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LI,23744,Schönwalde,Bungsbergstraße,15,,54.19070583,10.75579027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LJ,23744,Schönwalde,Bungsbergstraße,16,,54.19049618,10.75489409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LK,23744,Schönwalde,Bungsbergstraße,17,,54.19083518,10.75599844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LL,23744,Schönwalde,Bungsbergstraße,18,,54.1905415,10.75502929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LM,23744,Schönwalde,Bungsbergstraße,2,,54.18864626,10.75387568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LN,23744,Schönwalde,Bungsbergstraße,20,,54.19074591,10.7550783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LO,23744,Schönwalde,Bungsbergstraße,21,,54.1912794,10.75676989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LP,23744,Schönwalde,Bungsbergstraße,22,,54.19084859,10.75530929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LQ,23744,Schönwalde,Bungsbergstraße,23,,54.19134095,10.75686855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LR,23744,Schönwalde,Bungsbergstraße,23,a,54.19152298,10.75724643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LS,23744,Schönwalde,Bungsbergstraße,24,,54.1909094,10.75558106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LT,23744,Schönwalde,Bungsbergstraße,24,a,54.19114462,10.75572989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LU,23744,Schönwalde,Bungsbergstraße,25,a,54.19167137,10.75747536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LV,23744,Schönwalde,Bungsbergstraße,25,b,54.19181303,10.75768833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LW,23744,Schönwalde,Bungsbergstraße,26,,54.19125855,10.75612185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LX,23744,Schönwalde,Bungsbergstraße,27,,54.1920807,10.75746825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LY,23744,Schönwalde,Bungsbergstraße,28,,54.19144635,10.75645763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6LZ,23744,Schönwalde,Bungsbergstraße,29,,54.1924464,10.7579007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6La,23744,Schönwalde,Schmiedekamp,16,,54.19221484,10.75587296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lb,23744,Schönwalde,Schmiedekamp,17,a,54.19182064,10.75468647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lc,23744,Schönwalde,Schmiedekamp,17,b,54.19177295,10.75476606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ld,23744,Schönwalde,Schmiedekamp,18,,54.19217231,10.75626374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Le,23744,Schönwalde,Schmiedekamp,19,,54.19157136,10.75507912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lf,23744,Schönwalde,Schmiedekamp,2,,54.19261255,10.75602871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lg,23744,Schönwalde,Schmiedekamp,20,,54.19194938,10.75582242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lh,23744,Schönwalde,Schmiedekamp,21,,54.19143864,10.75479307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Li,23744,Schönwalde,Schmiedekamp,22,,54.19181518,10.75560521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lj,23744,Schönwalde,Schmiedekamp,24,,54.1916738,10.75542832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lk,23744,Schönwalde,Schmiedekamp,26,,54.19149914,10.75527712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ll,23744,Schönwalde,Schmiedekamp,28,,54.19128599,10.75491612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lm,23744,Schönwalde,Schmiedekamp,3,,54.19235253,10.75559609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ln,23744,Schönwalde,Schmiedekamp,4,,54.19258551,10.75636529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lo,23744,Schönwalde,Schmiedekamp,5,,54.19218148,10.75555164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lq,23744,Schönwalde,Schmiedekamp,7,,54.19197533,10.75541874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ls,23744,Schönwalde,Schmiedekamp,9,,54.19201884,10.75500026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lt,23744,Schönwalde,Ortsteil Bungsberghof,999,,54.19784118,10.72023015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lu,23744,Schönwalde,Bungsberghof,1,,54.19869101,10.72100592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lv,23744,Schönwalde,Bungsberghof,3,,54.19815312,10.72053755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lw,23744,Schönwalde,Bungsberghof,4,,54.20225166,10.72262026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lx,23744,Schönwalde,Bungsberghof,4,a,54.20289813,10.72274988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ly,23744,Schönwalde,Bungsberghof,6,,54.19973356,10.72063779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Lz,23744,Schönwalde,Bungsberghof,8,,54.19895244,10.71893706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M0,23744,Schönwalde,Bungsbergstraße,3,,54.18889449,10.75436009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M1,23744,Schönwalde,Bungsbergstraße,30,,54.19171527,10.7568497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M2,23744,Schönwalde,Bungsbergstraße,31,,54.19273463,10.75721252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M3,23744,Schönwalde,Bungsbergstraße,31,a,54.19272479,10.75760355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M4,23744,Schönwalde,Bungsbergstraße,32,,54.19193888,10.75710469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M5,23744,Schönwalde,Bungsbergstraße,34,,54.192186,10.75706776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M6,23744,Schönwalde,Bungsbergstraße,36,,54.19282502,10.75662586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M7,23744,Schönwalde,Bungsbergstraße,38,,54.1929319,10.75642834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M8,23744,Schönwalde,Bungsbergstraße,39,,54.19423384,10.75578607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6M9,23744,Schönwalde,Bungsbergstraße,4,,54.1887864,10.75394435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MA,23744,Schönwalde,Dorfstraße,22,,54.17045871,10.81084496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MB,23744,Schönwalde,Dorfstraße,3,,54.17267186,10.80902811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MC,23744,Schönwalde,Dorfstraße,4,,54.17319569,10.80820365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MD,23744,Schönwalde,Dorfstraße,5,,54.17251022,10.80925218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ME,23744,Schönwalde,Dorfstraße,7,,54.1717194,10.81052736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MF,23744,Schönwalde,Dorfstraße,8,,54.17250464,10.80887124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MG,23744,Schönwalde,Dorfstraße,9,,54.17132015,10.81056581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MH,23744,Schönwalde,Eutiner Straße,1,,54.18763386,10.75295201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MI,23744,Schönwalde,Eutiner Straße,1,a,54.18744324,10.7547319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MJ,23744,Schönwalde,Eutiner Straße,10,,54.18684597,10.75196255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MK,23744,Schönwalde,Eutiner Straße,11,,54.18600944,10.75061152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ML,23744,Schönwalde,Eutiner Straße,12,,54.18665589,10.75174267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MM,23744,Schönwalde,Eutiner Straße,13,,54.18581223,10.75065847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MN,23744,Schönwalde,Eutiner Straße,14,,54.18657594,10.75115609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MO,23744,Schönwalde,Eutiner Straße,15,,54.18567171,10.75070084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MP,23744,Schönwalde,Eutiner Straße,17,,54.18427256,10.75072553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MQ,23744,Schönwalde,Eutiner Straße,2,,54.18729748,10.75401606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MR,23744,Schönwalde,Eutiner Straße,21,,54.18402017,10.7506326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MS,23744,Schönwalde,Eutiner Straße,22,,54.18591625,10.75101298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MT,23744,Schönwalde,Eutiner Straße,23,,54.18385183,10.75042722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MU,23744,Schönwalde,Eutiner Straße,24,,54.18574163,10.75120605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MV,23744,Schönwalde,Eutiner Straße,25,,54.18350926,10.74996967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MW,23744,Schönwalde,Eutiner Straße,26,,54.18553387,10.75126766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MX,23744,Schönwalde,Eutiner Straße,27,,54.18363149,10.74957742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MY,23744,Schönwalde,Eutiner Straße,28,,54.18532989,10.75117117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6MZ,23744,Schönwalde,Eutiner Straße,29,,54.18323229,10.74966137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ma,23744,Schönwalde,Bungsbergstraße,40,,54.19312406,10.75610238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mb,23744,Schönwalde,Bungsbergstraße,41,,54.19431944,10.75530985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mc,23744,Schönwalde,Bungsbergstraße,42,,54.19322941,10.75591453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Md,23744,Schönwalde,Bungsbergstraße,5,,54.18874571,10.75459343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Me,23744,Schönwalde,Bungsbergstraße,7,,54.18911212,10.75452597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mf,23744,Schönwalde,Bungsbergstraße,8,,54.18908238,10.7540904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mg,23744,Schönwalde,Bungsbergstraße,9,,54.18925127,10.75467657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mh,23744,Schönwalde,Die Weide,1,,54.21333876,10.77336392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mi,23744,Schönwalde,Die Weide,2,,54.21356061,10.77387859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mj,23744,Schönwalde,Die Weide,3,,54.21326156,10.77288436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mk,23744,Schönwalde,Die Weide,4,,54.21354987,10.77370849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ml,23744,Schönwalde,Die Weide,5,,54.21315065,10.77243589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mm,23744,Schönwalde,Die Weide,6,,54.21363832,10.77350171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mn,23744,Schönwalde,Die Weide,7,,54.21312152,10.77208393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mo,23744,Schönwalde,Die Weide,8,,54.213321,10.77254417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mp,23744,Schönwalde,Die Weide,8,a,54.21350056,10.77232149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mq,23744,Schönwalde,Dorfstraße,1,,54.1732024,10.80908965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mr,23744,Schönwalde,Dorfstraße,1,a,54.17334846,10.80845988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ms,23744,Schönwalde,Dorfstraße,10,,54.17240758,10.80895952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mt,23744,Schönwalde,Dorfstraße,12,,54.17216142,10.8085151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mu,23744,Schönwalde,Dorfstraße,14,,54.17182734,10.80940086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mv,23744,Schönwalde,Dorfstraße,16,,54.17104412,10.80861391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mw,23744,Schönwalde,Dorfstraße,18,,54.17140784,10.80982531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mx,23744,Schönwalde,Dorfstraße,18,a,54.17104694,10.81021796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6My,23744,Schönwalde,Dorfstraße,2,,54.17329293,10.80809252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Mz,23744,Schönwalde,Dorfstraße,20,,54.17088932,10.81042591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N0,23744,Schönwalde,Eutiner Straße,3,,54.18723774,10.75242306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N1,23744,Schönwalde,Eutiner Straße,3,a,54.18713189,10.75198361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N2,23744,Schönwalde,Eutiner Straße,30,,54.18514811,10.75126463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N3,23744,Schönwalde,Eutiner Straße,31,,54.1834824,10.74945684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N4,23744,Schönwalde,Eutiner Straße,33,,54.18312299,10.74915987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N5,23744,Schönwalde,Eutiner Straße,35,,54.18298151,10.74902409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N6,23744,Schönwalde,Eutiner Straße,37,a,54.1825608,10.74878767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N7,23744,Schönwalde,Eutiner Straße,38,,54.18364411,10.75046232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N8,23744,Schönwalde,Eutiner Straße,39,,54.1822927,10.74834268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6N9,23744,Schönwalde,Eutiner Straße,4,,54.18730059,10.75338996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NA,23744,Schönwalde,Eutiner Straße,63,,54.17965235,10.7410413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NB,23744,Schönwalde,Eutiner Straße,63,a,54.17947684,10.7418508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NC,23744,Schönwalde,Eutiner Straße,64,,54.18078342,10.74672415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ND,23744,Schönwalde,Eutiner Straße,66,,54.18053143,10.74635203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NE,23744,Schönwalde,Eutiner Straße,68,,54.18038282,10.74622658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NF,23744,Schönwalde,Eutiner Straße,7,,54.18658903,10.75075633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NG,23744,Schönwalde,Eutiner Straße,70,,54.18029044,10.74584684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NH,23744,Schönwalde,Eutiner Straße,72,,54.18020324,10.7454026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NI,23744,Schönwalde,Eutiner Straße,74,,54.17988843,10.74522687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NJ,23744,Schönwalde,Eutiner Straße,74,a,54.17966049,10.74474557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NK,23744,Schönwalde,Eutiner Straße,76,,54.17907245,10.74390561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NL,23744,Schönwalde,Eutiner Straße,8,,54.18699383,10.75240606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NM,23744,Schönwalde,Ferienpark,10,,54.22127886,10.74037061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NN,23744,Schönwalde,Ferienpark,11,,54.22140612,10.74133628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NO,23744,Schönwalde,Ferienpark,12,,54.2212862,10.74110246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NP,23744,Schönwalde,Ferienpark,13,,54.22122705,10.74086655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NQ,23744,Schönwalde,Ferienpark,14,,54.22112644,10.74066917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NR,23744,Schönwalde,Ferienpark,15,,54.2209371,10.74122746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NS,23744,Schönwalde,Ferienpark,16,,54.22089683,10.74156414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NT,23744,Schönwalde,Ferienpark,17,,54.22082548,10.74184821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NU,23744,Schönwalde,Ferienpark,18,,54.22074584,10.74215401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NV,23744,Schönwalde,Ferienpark,19,,54.22117205,10.74144989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NW,23744,Schönwalde,Ferienpark,2,,54.22124607,10.73989717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NX,23744,Schönwalde,Ferienpark,20,,54.22112489,10.74174491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NY,23744,Schönwalde,Ferienpark,21,,54.22109937,10.74203554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6NZ,23744,Schönwalde,Ferienpark,22,,54.22098858,10.74221947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Na,23744,Schönwalde,Eutiner Straße,40,,54.18356053,10.75036224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nb,23744,Schönwalde,Eutiner Straße,40,a,54.18326298,10.75008679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nc,23744,Schönwalde,Eutiner Straße,41,,54.18202351,10.74791231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nd,23744,Schönwalde,Eutiner Straße,42,,54.18305127,10.74983433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ne,23744,Schönwalde,Eutiner Straße,43,,54.18180982,10.74757976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nf,23744,Schönwalde,Eutiner Straße,44,,54.18280828,10.74962143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ng,23744,Schönwalde,Eutiner Straße,45,,54.18158854,10.74718216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ni,23744,Schönwalde,Eutiner Straße,47,,54.18084923,10.74612439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nj,23744,Schönwalde,Eutiner Straße,48,,54.182526,10.74935579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nk,23744,Schönwalde,Eutiner Straße,49,,54.18068914,10.74566769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nl,23744,Schönwalde,Eutiner Straße,5,,54.18687237,10.75132239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nm,23744,Schönwalde,Eutiner Straße,5,a,54.18680533,10.75101181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nn,23744,Schönwalde,Eutiner Straße,51,,54.180494,10.74542747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6No,23744,Schönwalde,Eutiner Straße,51,a,54.18020358,10.74480162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Np,23744,Schönwalde,Eutiner Straße,51,b,54.18044393,10.7453336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nq,23744,Schönwalde,Eutiner Straße,53,,54.1801003,10.74452269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nr,23744,Schönwalde,Eutiner Straße,53,a,54.1800034,10.74431866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ns,23744,Schönwalde,Eutiner Straße,55,,54.17982002,10.74396363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nu,23744,Schönwalde,Eutiner Straße,59,,54.17927707,10.74269612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nv,23744,Schönwalde,Eutiner Straße,6,,54.187032,10.75299729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nw,23744,Schönwalde,Eutiner Straße,60,,54.18115052,10.74748097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nx,23744,Schönwalde,Eutiner Straße,61,,54.17962649,10.74160237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ny,23744,Schönwalde,Eutiner Straße,62,,54.18091846,10.74701096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Nz,23744,Schönwalde,Eutiner Straße,62,a,54.18072016,10.74731087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O0,23744,Schönwalde,Ferienpark,23,,54.22082504,10.74257019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O1,23744,Schönwalde,Ferienpark,24,,54.22068021,10.74248428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O2,23744,Schönwalde,Ferienpark,25,,54.22069321,10.74281968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O3,23744,Schönwalde,Ferienpark,26,,54.22062564,10.74308427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O4,23744,Schönwalde,Ferienpark,27,,54.22049027,10.74328342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O5,23744,Schönwalde,Ferienpark,28,,54.22039532,10.74349234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O6,23744,Schönwalde,Ferienpark,29,,54.22029795,10.74369563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O7,23744,Schönwalde,Ferienpark,3,,54.22111494,10.74015356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O8,23744,Schönwalde,Ferienpark,30,,54.22019621,10.74393577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6O9,23744,Schönwalde,Ferienpark,31,,54.22067913,10.74125411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OA,23744,Schönwalde,Gläserland,5,,54.21142537,10.73830884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OB,23744,Schönwalde,Gläserland,7,,54.21199097,10.73753672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OC,23744,Schönwalde,Glinder Weg,1,,54.18365675,10.76671355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OD,23744,Schönwalde,Glinder Weg,10,,54.18397088,10.7681083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OE,23744,Schönwalde,Glinder Weg,11,,54.18386321,10.76858577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OF,23744,Schönwalde,Glinder Weg,12,,54.18428287,10.76822219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OG,23744,Schönwalde,Glinder Weg,13,,54.18404867,10.76871387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OH,23744,Schönwalde,Glinder Weg,14,,54.18448161,10.76820628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OI,23744,Schönwalde,Glinder Weg,15,,54.18425982,10.76868311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OJ,23744,Schönwalde,Glinder Weg,16,,54.18471661,10.76825602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OK,23744,Schönwalde,Glinder Weg,17,,54.18444999,10.76876153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OL,23744,Schönwalde,Glinder Weg,18,,54.18492287,10.76818082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OM,23744,Schönwalde,Glinder Weg,19,,54.1847022,10.76868184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ON,23744,Schönwalde,Glinder Weg,2,,54.18383559,10.76653963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OO,23744,Schönwalde,Glinder Weg,20,,54.18507253,10.76827361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OP,23744,Schönwalde,Glinder Weg,21,,54.18491864,10.76873418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OQ,23744,Schönwalde,Glinder Weg,23,,54.18507673,10.76854373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OR,23744,Schönwalde,Glinder Weg,3,,54.18363053,10.76703564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OS,23744,Schönwalde,Glinder Weg,4,,54.1838767,10.76686412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OT,23744,Schönwalde,Glinder Weg,5,,54.1835628,10.76754839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OU,23744,Schönwalde,Glinder Weg,6,,54.18385984,10.76723282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OV,23744,Schönwalde,Glinder Weg,7,,54.18361364,10.76797681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OW,23744,Schönwalde,Glinder Weg,7,a,54.18341056,10.76801304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OX,23744,Schönwalde,Glinder Weg,7,b,54.1829988,10.76789698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OY,23744,Schönwalde,Glinder Weg,7,c,54.18314218,10.76826664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6OZ,23744,Schönwalde,Glinder Weg,7,d,54.18324772,10.76861785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oa,23744,Schönwalde,Ferienpark,32,,54.22057376,10.74142378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ob,23744,Schönwalde,Ferienpark,33,,54.22051996,10.74168809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oc,23744,Schönwalde,Ferienpark,34,,54.22054368,10.74197685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Od,23744,Schönwalde,Ferienpark,35,a,54.22046925,10.74232541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oe,23744,Schönwalde,Ferienpark,36,a,54.22039291,10.74251846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Of,23744,Schönwalde,Ferienpark,37,,54.22033325,10.74274351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Og,23744,Schönwalde,Ferienpark,38,,54.22024414,10.74296659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oh,23744,Schönwalde,Ferienpark,39,,54.22016427,10.74318567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oi,23744,Schönwalde,Ferienpark,4,,54.2210226,10.74040331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oj,23744,Schönwalde,Ferienpark,40,,54.22007631,10.74345633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ok,23744,Schönwalde,Ferienpark,41,,54.22023802,10.74199322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ol,23744,Schönwalde,Ferienpark,42,,54.22014075,10.74218132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Om,23744,Schönwalde,Ferienpark,43,,54.22002803,10.74236375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6On,23744,Schönwalde,Ferienpark,44,,54.21996147,10.74255034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oo,23744,Schönwalde,Ferienpark,45,,54.21989085,10.74276465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Op,23744,Schönwalde,Ferienpark,46,,54.21987483,10.74307735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oq,23744,Schönwalde,Ferienpark,47,,54.21983102,10.74337173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Or,23744,Schönwalde,Ferienpark,48,,54.21979059,10.74361799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Os,23744,Schönwalde,Ferienpark,49,,54.21974152,10.74392147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ot,23744,Schönwalde,Ferienpark,5,,54.22089445,10.74072414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ou,23744,Schönwalde,Ferienpark,6,,54.22158867,10.7402654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ov,23744,Schönwalde,Ferienpark,7,,54.22146394,10.74011279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ow,23744,Schönwalde,Ferienpark,8,,54.22156377,10.74089352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ox,23744,Schönwalde,Ferienpark,9,,54.22143734,10.74058656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oy,23744,Schönwalde,Gläserland,1,,54.20862883,10.74110174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Oz,23744,Schönwalde,Gläserland,3,,54.20971519,10.74073257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P0,23744,Schönwalde,Glinder Weg,8,,54.18387758,10.76759459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P1,23744,Schönwalde,Glinder Weg,9,,54.18363941,10.76850187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P2,23744,Schönwalde,Ortsteil Halendorf,999,,54.19138065,10.80340668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P3,23744,Schönwalde,Halendorf,1,,54.18685423,10.79011573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P4,23744,Schönwalde,Halendorf,10,,54.19047537,10.80282724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P5,23744,Schönwalde,Halendorf,11,,54.19245864,10.80434652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P6,23744,Schönwalde,Halendorf,2,,54.18586532,10.77592822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P7,23744,Schönwalde,Halendorf,3,,54.18855871,10.79899198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P8,23744,Schönwalde,Halendorf,3,a,54.18859679,10.79917133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6P9,23744,Schönwalde,Halendorf,4,,54.18837097,10.78876458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PA,23744,Schönwalde,Hauptstraße,12,,54.20999671,10.77303822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PB,23744,Schönwalde,Hauptstraße,12,a,54.21047269,10.77283464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PC,23744,Schönwalde,Hauptstraße,13,,54.20694371,10.77289194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PD,23744,Schönwalde,Hauptstraße,14,,54.21067276,10.77299884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PE,23744,Schönwalde,Hauptstraße,15,,54.20704439,10.77289571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PF,23744,Schönwalde,Hauptstraße,17,,54.20732854,10.77282713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PG,23744,Schönwalde,Hauptstraße,18,,54.21107929,10.77336963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PH,23744,Schönwalde,Hauptstraße,19,,54.20743859,10.77271415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PI,23744,Schönwalde,Hauptstraße,2,,54.20420115,10.7715918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PJ,23744,Schönwalde,Hauptstraße,20,,54.21123212,10.77350356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PK,23744,Schönwalde,Hauptstraße,21,,54.20768555,10.77246214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PL,23744,Schönwalde,Hauptstraße,22,,54.21140105,10.77367684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PM,23744,Schönwalde,Hauptstraße,23,,54.20781284,10.77225658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PN,23744,Schönwalde,Hauptstraße,24,,54.21153456,10.77387839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PO,23744,Schönwalde,Hauptstraße,25,,54.20809802,10.77203472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PP,23744,Schönwalde,Hauptstraße,26,,54.2116141,10.77394102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PQ,23744,Schönwalde,Hauptstraße,27,,54.20843235,10.77165095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PR,23744,Schönwalde,Hauptstraße,28,,54.21180157,10.77396319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PS,23744,Schönwalde,Hauptstraße,29,,54.20864592,10.77148046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PT,23744,Schönwalde,Hauptstraße,3,,54.205688,10.77309266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PU,23744,Schönwalde,Hauptstraße,30,,54.21245852,10.77442552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PV,23744,Schönwalde,Hauptstraße,31,,54.20883984,10.77147959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PW,23744,Schönwalde,Hauptstraße,32,,54.21251713,10.77443993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PX,23744,Schönwalde,Hauptstraße,34,,54.21355832,10.77458728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PY,23744,Schönwalde,Hauptstraße,35,,54.21206054,10.77358141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6PZ,23744,Schönwalde,Hauptstraße,36,,54.21384739,10.77447275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pa,23744,Schönwalde,Halendorf,5,,54.18864042,10.79988997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pb,23744,Schönwalde,Halendorf,6,,54.18902825,10.79971731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pc,23744,Schönwalde,Halendorf,7,,54.18888957,10.80056248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pd,23744,Schönwalde,Halendorf,7,a,54.18899022,10.80089522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pe,23744,Schönwalde,Halendorf,8,,54.18926866,10.80034163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pf,23744,Schönwalde,Halendorf,9,,54.19237327,10.80420143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pg,23744,Schönwalde,Hansühner Straße,1,,54.21418003,10.73753916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ph,23744,Schönwalde,Hansühner Straße,1,a,54.2143546,10.73782328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pi,23744,Schönwalde,Hansühner Straße,10,,54.22505666,10.74356303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pj,23744,Schönwalde,Hansühner Straße,11,,54.22434326,10.74123445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pk,23744,Schönwalde,Hansühner Straße,12,,54.22966962,10.74903483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pl,23744,Schönwalde,Hansühner Straße,13,,54.22587776,10.74339442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pm,23744,Schönwalde,Hansühner Straße,14,,54.23020098,10.74923646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pn,23744,Schönwalde,Hansühner Straße,15,,54.22942356,10.74818633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Po,23744,Schönwalde,Hansühner Straße,2,,54.21600272,10.73789069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pp,23744,Schönwalde,Hansühner Straße,3,,54.21583567,10.73739657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pq,23744,Schönwalde,Hansühner Straße,4,,54.21609173,10.73789452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pr,23744,Schönwalde,Hansühner Straße,5,,54.21607405,10.73728761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ps,23744,Schönwalde,Hansühner Straße,6,,54.21930244,10.73816746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pt,23744,Schönwalde,Hansühner Straße,7,,54.22417955,10.74110324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pu,23744,Schönwalde,Hansühner Straße,8,,54.22221544,10.74103459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pv,23744,Schönwalde,Hansühner Straße,8,a,54.22214277,10.74138795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Px,23744,Schönwalde,Hauptstraße,1,,54.20550731,10.77256611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Py,23744,Schönwalde,Hauptstraße,10,,54.20618797,10.77343891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Pz,23744,Schönwalde,Hauptstraße,11,,54.20647945,10.77295377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q0,23744,Schönwalde,Hauptstraße,37,,54.21246315,10.77313766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q1,23744,Schönwalde,Hauptstraße,38,,54.2153873,10.77383122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q2,23744,Schönwalde,Hauptstraße,39,,54.21227175,10.77292302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q3,23744,Schönwalde,Hauptstraße,4,,54.20485539,10.77263819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q4,23744,Schönwalde,Hauptstraße,40,,54.21546014,10.77389041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q5,23744,Schönwalde,Hauptstraße,41,,54.21270074,10.77306257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q6,23744,Schönwalde,Hauptstraße,42,,54.21605713,10.77445044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q7,23744,Schönwalde,Hauptstraße,42,d,54.2171017,10.77445104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q8,23744,Schönwalde,Hauptstraße,43,,54.21291344,10.77383757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Q9,23744,Schönwalde,Hauptstraße,44,,54.2174283,10.77431906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QA,23744,Schönwalde,Helms Teich,2,,54.21877477,10.77351935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QB,23744,Schönwalde,Helms Teich,3,,54.21873078,10.77280597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QC,23744,Schönwalde,Helms Teich,5,,54.21862269,10.77248531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QD,23744,Schönwalde,Helms Teich,6,,54.21892316,10.77272852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QE,23744,Schönwalde,Helms Teich,7,,54.21853562,10.7721497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QF,23744,Schönwalde,Helms Teich,8,,54.21884893,10.77249732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QG,23744,Schönwalde,Hirtenhufe,1,,54.17871683,10.81337626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QH,23744,Schönwalde,Hirtenhufe,11,,54.17984813,10.81647893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QI,23744,Schönwalde,Hirtenhufe,13,,54.18003244,10.81726056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QJ,23744,Schönwalde,Hirtenhufe,2,,54.17959737,10.8158982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QK,23744,Schönwalde,Hirtenhufe,3,,54.17898205,10.81387847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QL,23744,Schönwalde,Hirtenhufe,4,,54.17960957,10.81612601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QM,23744,Schönwalde,Hirtenhufe,5,,54.17902397,10.81395805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QN,23744,Schönwalde,Hirtenhufe,7,,54.17974105,10.815575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QO,23744,Schönwalde,Hirtenhufe,9,,54.17973781,10.81562256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QQ,23744,Schönwalde,Hobstiner Straße,13,,54.17363585,10.8065967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QR,23744,Schönwalde,Hobstiner Straße,15,,54.17356932,10.80746044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QS,23744,Schönwalde,Hobstiner Straße,1,,54.16527782,10.79723587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QT,23744,Schönwalde,Hobstiner Straße,11,,54.17086565,10.79848879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QU,23744,Schönwalde,Hobstiner Straße,2,,54.16917084,10.80215353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QV,23744,Schönwalde,Hobstiner Straße,4,,54.16920586,10.80227221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QW,23744,Schönwalde,Hobstiner Straße,5,,54.168278,10.79751219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QX,23744,Schönwalde,Hobstiner Straße,6,,54.1699539,10.80123892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6QZ,23744,Schönwalde,Hobstiner Straße,9,,54.17022458,10.79891154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qa,23744,Schönwalde,Hauptstraße,45,,54.21311797,10.7738305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qb,23744,Schönwalde,Hauptstraße,46,,54.21778835,10.77417448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qc,23744,Schönwalde,Hauptstraße,47,,54.21323944,10.77385473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qd,23744,Schönwalde,Hauptstraße,47,a,54.21401309,10.77393201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qe,23744,Schönwalde,Hauptstraße,48,,54.21810183,10.77403863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qf,23744,Schönwalde,Hauptstraße,49,,54.21426984,10.77373608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qg,23744,Schönwalde,Hauptstraße,5,,54.20584732,10.77327961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qh,23744,Schönwalde,Hauptstraße,50,,54.21847631,10.77392632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qi,23744,Schönwalde,Hauptstraße,51,,54.21481937,10.77343535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qj,23744,Schönwalde,Hauptstraße,53,,54.21562003,10.77355813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qk,23744,Schönwalde,Hauptstraße,55,,54.21565311,10.77358243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ql,23744,Schönwalde,Hauptstraße,57,,54.21580157,10.77372479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qm,23744,Schönwalde,Hauptstraße,57,a,54.21611991,10.77393912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qn,23744,Schönwalde,Hauptstraße,57,j,54.21732162,10.77391648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qo,23744,Schönwalde,Hauptstraße,57,k,54.21709225,10.77363161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qp,23744,Schönwalde,Hauptstraße,57,l,54.21705055,10.77324191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qq,23744,Schönwalde,Hauptstraße,57,m,54.21700122,10.77280798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qr,23744,Schönwalde,Hauptstraße,59,,54.21801255,10.7736933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qs,23744,Schönwalde,Hauptstraße,6,,54.20507908,10.77290236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qt,23744,Schönwalde,Hauptstraße,61,,54.21820894,10.77361711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qu,23744,Schönwalde,Hauptstraße,7,,54.20601181,10.77313389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qv,23744,Schönwalde,Hauptstraße,8,,54.20542471,10.77326971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qw,23744,Schönwalde,Hauptstraße,9,,54.20627685,10.77301624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qx,23744,Schönwalde,Helms Teich,1,,54.21853373,10.77339896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qy,23744,Schönwalde,Helms Teich,10,,54.21887749,10.77214217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Qz,23744,Schönwalde,Helms Teich,12,,54.21875446,10.77187093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R0,23744,Schönwalde,Hochfelder Weg,1,,54.17851243,10.81814272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R1,23744,Schönwalde,Hochfelder Weg,3,,54.1756104,10.81941833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R2,23744,Schönwalde,Hochfelder Weg,5,,54.17538844,10.81990284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R3,23744,Schönwalde,Hof Mühlenberg,1,,54.18296565,10.75346781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R4,23744,Schönwalde,Hof Mühlenberg,2,,54.18287476,10.75296592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R5,23744,Schönwalde,Hörn,1,,54.18886054,10.753512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R6,23744,Schönwalde,Hörn,11,,54.18999305,10.75289937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R7,23744,Schönwalde,Hörn,13,,54.19016896,10.75286637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R8,23744,Schönwalde,Hörn,2,,54.18906103,10.75263339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6R9,23744,Schönwalde,Hörn,3,,54.18912443,10.75298737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RA,23744,Schönwalde,Jahnweg,5,,54.18653736,10.753185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RB,23744,Schönwalde,Jahnweg,5,b,54.18618925,10.75318861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RC,23744,Schönwalde,Jahnweg,7,,54.18619358,10.7540072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RD,23744,Schönwalde,Jahnweg,9,,54.18592583,10.7541297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RE,23744,Schönwalde,Kesselkrug,1,,54.21503933,10.77278365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RF,23744,Schönwalde,Kesselkrug,10,,54.21735702,10.76797412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RG,23744,Schönwalde,Kesselkrug,12,,54.21740144,10.76785612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RH,23744,Schönwalde,Kesselkrug,2,,54.21536295,10.77280224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RI,23744,Schönwalde,Kesselkrug,2,a,54.21552071,10.77248475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RJ,23744,Schönwalde,Kesselkrug,3,,54.2152283,10.77252896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RK,23744,Schönwalde,Kesselkrug,4,,54.21644361,10.77091739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RL,23744,Schönwalde,Kesselkrug,5,,54.21648149,10.77025597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RM,23744,Schönwalde,Kesselkrug,6,,54.21679009,10.76866776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RN,23744,Schönwalde,Kesselkrug,8,,54.21681161,10.76855178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RO,23744,Schönwalde,Kirchnücheler Weg,1,,54.2183102,10.73548655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RP,23744,Schönwalde,Kirchnücheler Weg,11,,54.2139805,10.72017945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RQ,23744,Schönwalde,Kirchnücheler Weg,2,,54.21685413,10.71915171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RR,23744,Schönwalde,Kirchnücheler Weg,3,,54.21743935,10.73122344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RS,23744,Schönwalde,Kirchnücheler Weg,4,,54.2143569,10.71806574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RT,23744,Schönwalde,Kirchnücheler Weg,5,,54.21706895,10.72935453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RU,23744,Schönwalde,Kirchnücheler Weg,6,,54.21460256,10.71792951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RV,23744,Schönwalde,Kirchnücheler Weg,7,,54.21610565,10.72538708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RW,23744,Schönwalde,Kirchnücheler Weg,8,,54.21220588,10.71541314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RX,23744,Schönwalde,Kirchnücheler Weg,9,,54.21537636,10.72337682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RY,23744,Schönwalde,Kniphagener Weg,1,,54.18585507,10.76599505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6RZ,23744,Schönwalde,Kniphagener Weg,10,,54.18499249,10.76646419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ra,23744,Schönwalde,Hörn,4,,54.18953867,10.7521552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rb,23744,Schönwalde,Hörn,5,,54.18918,10.75289366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rc,23744,Schönwalde,Hörn,5,a,54.18936031,10.7528195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rd,23744,Schönwalde,Hörn,6,,54.18977122,10.75244919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Re,23744,Schönwalde,Hörn,7,,54.18960596,10.75294645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rf,23744,Schönwalde,Hörn,9,,54.1898296,10.753089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rg,23744,Schönwalde,Ortsteil Hollergraben,999,,54.1899101,10.81566302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rh,23744,Schönwalde,Hollergraben,1,,54.19244469,10.80525088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ri,23744,Schönwalde,Hollergraben,2,,54.18948152,10.81410323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rj,23744,Schönwalde,Hollergraben,3,,54.19272798,10.80566684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rk,23744,Schönwalde,Hollergraben,5,,54.19300355,10.80606591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rl,23744,Schönwalde,Hollergraben,7,,54.18991029,10.81417143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rm,23744,Schönwalde,Hollergraben,9,,54.18623645,10.81712544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rn,23744,Schönwalde,Jahnweg,1,,54.18673961,10.75376984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ro,23744,Schönwalde,Jahnweg,11,,54.18555849,10.75444637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rp,23744,Schönwalde,Jahnweg,12,,54.18671132,10.75443915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rq,23744,Schönwalde,Jahnweg,13,,54.18512561,10.75482008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rr,23744,Schönwalde,Jahnweg,14,,54.18594109,10.75469342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rs,23744,Schönwalde,Jahnweg,15,,54.18498291,10.75503548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rt,23744,Schönwalde,Jahnweg,16,,54.1857004,10.75493281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ru,23744,Schönwalde,Jahnweg,17,,54.1847777,10.75521531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rv,23744,Schönwalde,Jahnweg,18,,54.18507477,10.75552393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rw,23744,Schönwalde,Jahnweg,2,a,54.18605704,10.7556664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rx,23744,Schönwalde,Jahnweg,20,,54.18430617,10.75628615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ry,23744,Schönwalde,Jahnweg,22,,54.18404747,10.75646363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Rz,23744,Schönwalde,Jahnweg,3,,54.18644269,10.7539391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S0,23744,Schönwalde,Kniphagener Weg,11,,54.18506046,10.76605292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S1,23744,Schönwalde,Kniphagener Weg,12,,54.18460072,10.76644327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S2,23744,Schönwalde,Kniphagener Weg,13,,54.1850359,10.76554171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S3,23744,Schönwalde,Kniphagener Weg,14,,54.18413934,10.76656775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S4,23744,Schönwalde,Kniphagener Weg,15,,54.18480622,10.76536074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S5,23744,Schönwalde,Kniphagener Weg,15,a,54.1847514,10.76551662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S6,23744,Schönwalde,Kniphagener Weg,17,,54.1848303,10.76604888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S7,23744,Schönwalde,Kniphagener Weg,17,a,54.18471575,10.76589031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S8,23744,Schönwalde,Kniphagener Weg,19,,54.184455,10.76597661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6S9,23744,Schönwalde,Kniphagener Weg,2,,54.1857947,10.76645056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SA,23744,Schönwalde,Lindhorst,1,,54.21331249,10.77501659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SB,23744,Schönwalde,Lindhorst,2,,54.21265789,10.77494396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SC,23744,Schönwalde,Lindhorst,6,,54.2122628,10.77541682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SD,23744,Schönwalde,Lütjenburger Straße,2,,54.19359628,10.74015414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SE,23744,Schönwalde,Milchstraße,1,,54.19071779,10.75416988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SG,23744,Schönwalde,Milchstraße,3,,54.1909027,10.75409943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SH,23744,Schönwalde,Ortsteil Mönchbuschkate,999,,54.20135704,10.78016903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SI,23744,Schönwalde,Mönchbusch,1,,54.20595115,10.77365627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SJ,23744,Schönwalde,Mönchbusch,10,,54.20096682,10.78038151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SK,23744,Schönwalde,Mönchbusch,11,,54.20219942,10.77990623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SM,23744,Schönwalde,Mönchbusch,13,,54.20053537,10.78207121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SN,23744,Schönwalde,Mönchbusch,14,,54.2006327,10.78099189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SP,23744,Schönwalde,Mönchbusch,2,,54.2056235,10.77367417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SQ,23744,Schönwalde,Mönchbusch,2,f,54.20165273,10.77934007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SR,23744,Schönwalde,Mönchbusch,3,,54.2058841,10.77373812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SS,23744,Schönwalde,Mönchbusch,4,,54.20145756,10.77959207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6ST,23744,Schönwalde,Mönchbusch,5,,54.20576265,10.7740068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SU,23744,Schönwalde,Mönchbusch,6,,54.2012792,10.77982406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SV,23744,Schönwalde,Mönchbusch,7,,54.20551452,10.77445957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SW,23744,Schönwalde,Mönchbusch,8,,54.20111531,10.78008037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SX,23744,Schönwalde,Mönchbusch,9,,54.20230899,10.77976927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SY,23744,Schönwalde,Ortsteil Mönchneversdorf,999,,54.21967868,10.73521569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6SZ,23744,Schönwalde,Neu-Petersdorf,1,,54.18558083,10.76833638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sa,23744,Schönwalde,Kniphagener Weg,21,,54.18417452,10.76597178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sb,23744,Schönwalde,Kniphagener Weg,3,,54.18582172,10.7654207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sc,23744,Schönwalde,Kniphagener Weg,4,,54.18559164,10.76645029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sd,23744,Schönwalde,Kniphagener Weg,5,,54.18578386,10.76519995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Se,23744,Schönwalde,Kniphagener Weg,6,,54.18542212,10.76647345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sf,23744,Schönwalde,Kniphagener Weg,7,,54.1855409,10.76550661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sg,23744,Schönwalde,Kniphagener Weg,8,,54.18524481,10.76644986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sh,23744,Schönwalde,Kniphagener Weg,9,,54.18560629,10.76599039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Si,23744,Schönwalde,Ortsteil Kniphagen,15,,54.17279736,10.78545658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sj,23744,Schönwalde,Ortsteil Kniphagen,17,,54.17265209,10.78531054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sk,23744,Schönwalde,Ortsteil Kniphagen,2,,54.17362905,10.78839953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sl,23744,Schönwalde,Ortsteil Kniphagen,999,,54.17446079,10.78790516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sm,23744,Schönwalde,Lange Reihe,2,,54.2157997,10.73886418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sn,23744,Schönwalde,Lange Reihe,4,,54.21588969,10.73887765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6So,23744,Schönwalde,Lange Reihe,6,,54.21611813,10.73891114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sp,23744,Schönwalde,Lange Reihe,8,,54.21620274,10.73892355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sq,23744,Schönwalde,Ortsteil Langenhagen,999,,54.21496009,10.77349823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sr,23744,Schönwalde,Langenhagener Weg,1,,54.19755141,10.75583406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ss,23744,Schönwalde,Langenhagener Weg,2,,54.19756547,10.75666904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6St,23744,Schönwalde,Langenhagener Weg,3,,54.19982979,10.75811314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Su,23744,Schönwalde,Langenhagener Weg,4,,54.19934031,10.76092252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sv,23744,Schönwalde,Langenhagener Weg,5,,54.20017258,10.75749254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sw,23744,Schönwalde,Langenhagener Weg,7,,54.19903799,10.75911394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sx,23744,Schönwalde,Langer Redder,1,,54.20942191,10.77116333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sy,23744,Schönwalde,Leezer Weg,1,,54.16422137,10.81183184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Sz,23744,Schönwalde,Leezer Weg,3,,54.16406847,10.81257858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T0,23744,Schönwalde,Neu-Petersdorf,11,,54.18508063,10.77057223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T1,23744,Schönwalde,Neu-Petersdorf,15,,54.18521573,10.77098414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T2,23744,Schönwalde,Neu-Petersdorf,17,,54.18521573,10.77098414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T3,23744,Schönwalde,Neu-Petersdorf,2,,54.18555106,10.77174568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T4,23744,Schönwalde,Neu-Petersdorf,3,,54.18541397,10.76919842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T5,23744,Schönwalde,Neu-Petersdorf,4,,54.18577929,10.77347035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T6,23744,Schönwalde,Neu-Petersdorf,5,,54.18540859,10.7696806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T7,23744,Schönwalde,Neu-Petersdorf,7,,54.18538682,10.7698189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T8,23744,Schönwalde,Neu-Petersdorf,9,,54.18529456,10.77038695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6T9,23744,Schönwalde,Ortsteil Neu-Petersdorf,999,,54.18293593,10.76676077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TA,23744,Schönwalde,Ostpreußenweg,1,,54.17923335,10.7441645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TB,23744,Schönwalde,Ostpreußenweg,2,,54.17937861,10.74438146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TC,23744,Schönwalde,Ostpreußenweg,3,,54.17918213,10.74448358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TD,23744,Schönwalde,Ostpreußenweg,4,,54.17935198,10.74463753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TE,23744,Schönwalde,Ostpreußenweg,5,,54.17917883,10.74476359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TF,23744,Schönwalde,Ostpreußenweg,6,,54.17943566,10.74509398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TG,23744,Schönwalde,Ostpreußenweg,7,,54.17917293,10.74522452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TH,23744,Schönwalde,Pommernring,1,,54.19009518,10.75585563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TI,23744,Schönwalde,Pommernring,10,,54.18894391,10.75884262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TJ,23744,Schönwalde,Pommernring,11,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TK,23744,Schönwalde,Pommernring,12,,54.18917121,10.75897777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TL,23744,Schönwalde,Pommernring,13,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TM,23744,Schönwalde,Pommernring,14,,54.18935154,10.7587345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TN,23744,Schönwalde,Pommernring,15,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TO,23744,Schönwalde,Pommernring,16,,54.18935154,10.7587345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TP,23744,Schönwalde,Pommernring,17,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TQ,23744,Schönwalde,Pommernring,18,,54.18950229,10.75845894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TR,23744,Schönwalde,Pommernring,19,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TS,23744,Schönwalde,Pommernring,2,,54.19035484,10.755924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TT,23744,Schönwalde,Pommernring,2,a,54.1901919,10.75616466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TU,23744,Schönwalde,Pommernring,20,,54.18950229,10.75845894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TV,23744,Schönwalde,Pommernring,21,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TW,23744,Schönwalde,Pommernring,22,,54.189651,10.7581903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TX,23744,Schönwalde,Pommernring,23,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TY,23744,Schönwalde,Pommernring,24,,54.189651,10.7581903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6TZ,23744,Schönwalde,Pommernring,25,,54.19009223,10.75688232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ta,23744,Schönwalde,Oldenburger Straße,1,,54.18755794,10.7553216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tb,23744,Schönwalde,Oldenburger Straße,10,,54.1876545,10.75674387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tc,23744,Schönwalde,Oldenburger Straße,12,,54.18762678,10.75701429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Td,23744,Schönwalde,Oldenburger Straße,14,,54.18757815,10.75741113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Te,23744,Schönwalde,Oldenburger Straße,16,,54.18753957,10.75772125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tf,23744,Schönwalde,Oldenburger Straße,17,,54.18709729,10.75836728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tg,23744,Schönwalde,Oldenburger Straße,18,,54.1875424,10.75817919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Th,23744,Schönwalde,Oldenburger Straße,18,a,54.18717974,10.76128673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ti,23744,Schönwalde,Oldenburger Straße,2,,54.18787067,10.75486151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tj,23744,Schönwalde,Oldenburger Straße,2,a,54.18776489,10.75519495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tk,23744,Schönwalde,Oldenburger Straße,20,,54.18716104,10.76142836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tl,23744,Schönwalde,Oldenburger Straße,28,,54.18699559,10.76297105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tm,23744,Schönwalde,Oldenburger Straße,3,,54.18748,10.75579213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tn,23744,Schönwalde,Oldenburger Straße,30,,54.18710884,10.76314667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6To,23744,Schönwalde,Oldenburger Straße,38,,54.18660834,10.76493416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tp,23744,Schönwalde,Oldenburger Straße,4,,54.18772001,10.75596601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tq,23744,Schönwalde,Oldenburger Straße,40,,54.18649802,10.76523445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tr,23744,Schönwalde,Oldenburger Straße,42,a,54.18745537,10.76505786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ts,23744,Schönwalde,Oldenburger Straße,42,b,54.18745537,10.76505786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tt,23744,Schönwalde,Oldenburger Straße,42,c,54.18745537,10.76505786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tu,23744,Schönwalde,Oldenburger Straße,44,a,54.18766714,10.76484651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tv,23744,Schönwalde,Oldenburger Straße,44,b,54.18766714,10.76484651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tw,23744,Schönwalde,Oldenburger Straße,44,c,54.18766714,10.76484651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tx,23744,Schönwalde,Oldenburger Straße,46,,54.18726297,10.76763362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ty,23744,Schönwalde,Oldenburger Straße,6,,54.18770448,10.75624235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Tz,23744,Schönwalde,Oldenburger Straße,8,,54.18767909,10.7564912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U0,23744,Schönwalde,Pommernring,27,,54.1899055,10.75769037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U1,23744,Schönwalde,Pommernring,29,,54.1895805,10.75768259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U2,23744,Schönwalde,Pommernring,29,a,54.18944001,10.75760707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U3,23744,Schönwalde,Pommernring,3,,54.19009518,10.75585563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U4,23744,Schönwalde,Pommernring,31,,54.18939005,10.75776756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U5,23744,Schönwalde,Pommernring,33,,54.18921412,10.75780485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U6,23744,Schönwalde,Pommernring,35,,54.18898305,10.75787518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U7,23744,Schönwalde,Pommernring,37,,54.18898305,10.75787518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U8,23744,Schönwalde,Pommernring,39,,54.18877694,10.75854601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6U9,23744,Schönwalde,Pommernring,4,,54.19036788,10.75650713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UA,23744,Schönwalde,Rabensberg,5,,54.21978831,10.77696238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UB,23744,Schönwalde,Rabensberg,7,,54.21989282,10.77797267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UC,23744,Schönwalde,Ortsteil Rethwisch,999,,54.22544676,10.79166181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UD,23744,Schönwalde,Rethwisch,1,,54.22319906,10.78992471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UE,23744,Schönwalde,Rethwisch,10,,54.22165982,10.7944102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UF,23744,Schönwalde,Rethwisch,10,a,54.22140771,10.79598867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UG,23744,Schönwalde,Rethwisch,12,,54.22168486,10.79681146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UH,23744,Schönwalde,Rethwisch,14,,54.22335225,10.79082756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UI,23744,Schönwalde,Rethwisch,16,,54.2234171,10.79088753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UJ,23744,Schönwalde,Rethwisch,18,,54.22351019,10.79096787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UK,23744,Schönwalde,Rethwisch,2,,54.22275933,10.79008616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UL,23744,Schönwalde,Rethwisch,20,,54.22666475,10.79462431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UM,23744,Schönwalde,Rethwisch,22,,54.22692123,10.79499469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UN,23744,Schönwalde,Rethwisch,3,,54.22355049,10.79061087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UO,23744,Schönwalde,Rethwisch,4,,54.22289727,10.79167443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UP,23744,Schönwalde,Rethwisch,5,,54.2237706,10.79038465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UQ,23744,Schönwalde,Rethwisch,6,,54.22287391,10.7917944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UR,23744,Schönwalde,Rethwisch,6,a,54.22144615,10.79358504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6US,23744,Schönwalde,Rethwisch,7,,54.22782653,10.79461301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UT,23744,Schönwalde,Rethwisch,8,,54.22163098,10.79422785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UU,23744,Schönwalde,Rethwisch,9,,54.22794438,10.79515916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UV,23744,Schönwalde,Rosenstraße,1,,54.18895907,10.75519718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UW,23744,Schönwalde,Rosenstraße,10,,54.18886202,10.75602689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UX,23744,Schönwalde,Rosenstraße,11,,54.18832738,10.75618192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UY,23744,Schönwalde,Rosenstraße,12,,54.18873957,10.75617053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6UZ,23744,Schönwalde,Rosenstraße,14,,54.18867776,10.75635909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ua,23744,Schönwalde,Pommernring,4,a,54.1906111,10.75634242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ub,23744,Schönwalde,Pommernring,41,,54.18873621,10.75878932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uc,23744,Schönwalde,Pommernring,43,,54.18878904,10.7590525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ud,23744,Schönwalde,Pommernring,45,,54.18891639,10.75927819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ue,23744,Schönwalde,Pommernring,47,,54.18908102,10.75937482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uf,23744,Schönwalde,Pommernring,48,,54.18928383,10.75959728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ug,23744,Schönwalde,Pommernring,5,,54.19009518,10.75585563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uh,23744,Schönwalde,Pommernring,51,,54.18947244,10.75911017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ui,23744,Schönwalde,Pommernring,53,,54.1895926,10.75889113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uj,23744,Schönwalde,Pommernring,55,,54.18977695,10.75857699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uk,23744,Schönwalde,Pommernring,57,,54.18988319,10.7583712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ul,23744,Schönwalde,Pommernring,59,,54.1899935,10.75814813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Um,23744,Schönwalde,Pommernring,6,,54.18911734,10.75825434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Un,23744,Schönwalde,Pommernring,63,,54.19025746,10.75768869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uo,23744,Schönwalde,Pommernring,65,,54.19042528,10.75753358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Up,23744,Schönwalde,Pommernring,67,,54.19057337,10.75728079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uq,23744,Schönwalde,Pommernring,67,a,54.19064681,10.75701105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ur,23744,Schönwalde,Pommernring,67,b,54.19069007,10.75706865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Us,23744,Schönwalde,Pommernring,67,c,54.19072464,10.75712714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ut,23744,Schönwalde,Pommernring,69,,54.19089853,10.75641074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uu,23744,Schönwalde,Pommernring,69,a,54.19074302,10.75671403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uv,23744,Schönwalde,Pommernring,7,,54.18978226,10.75639706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uw,23744,Schönwalde,Pommernring,8,,54.18898506,10.75851421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ux,23744,Schönwalde,Pommernring,9,,54.18978226,10.75639706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uy,23744,Schönwalde,Rabensberg,1,,54.21974788,10.77555598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Uz,23744,Schönwalde,Rabensberg,3,,54.21977221,10.77646254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V0,23744,Schönwalde,Rosenstraße,16,,54.18856357,10.75649667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V1,23744,Schönwalde,Rosenstraße,18,,54.18848864,10.75672015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V2,23744,Schönwalde,Rosenstraße,2,,54.18930939,10.75517527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V3,23744,Schönwalde,Rosenstraße,20,,54.18839277,10.75685872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V4,23744,Schönwalde,Rosenstraße,22,,54.1883351,10.75708412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V5,23744,Schönwalde,Rosenstraße,24,,54.18819282,10.75723489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V6,23744,Schönwalde,Rosenstraße,26,,54.18817384,10.75758075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V7,23744,Schönwalde,Rosenstraße,28,,54.1881336,10.75787596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V8,23744,Schönwalde,Rosenstraße,28,a,54.18798589,10.75793996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6V9,23744,Schönwalde,Rosenstraße,4,,54.1891524,10.75536794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VA,23744,Schönwalde,Schüttendiek,1,,54.21439995,10.74625336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VB,23744,Schönwalde,Steinbuschkate,1,,54.2195464,10.77393399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VC,23744,Schönwalde,Steinbuschkate,10,,54.22051468,10.7749021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VD,23744,Schönwalde,Steinbuschkate,2,,54.21971338,10.77491023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VE,23744,Schönwalde,Steinbuschkate,3,,54.21979023,10.77418399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VF,23744,Schönwalde,Steinbuschkate,4,,54.2199054,10.77499912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VG,23744,Schönwalde,Steinbuschkate,6,,54.2201133,10.77495044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VH,23744,Schönwalde,Steinbuschkate,8,,54.22031084,10.7749209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VI,23744,Schönwalde,Ortsteil Stolperhufen,999,,54.1693687,10.79964563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VJ,23744,Schönwalde,Stolper Weg,1,,54.16315319,10.79888327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VK,23744,Schönwalde,Stolper Weg,3,,54.16248401,10.80004909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VL,23744,Schönwalde,Stolper Weg,5,,54.15961428,10.79607889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VM,23744,Schönwalde,To'n Rösterbarg,1,,54.18405736,10.74887903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VN,23744,Schönwalde,To'n Rösterbarg,10,,54.18374955,10.74910036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VO,23744,Schönwalde,To'n Rösterbarg,12,,54.18377427,10.74874878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VP,23744,Schönwalde,To'n Rösterbarg,14,,54.18376014,10.74842595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VQ,23744,Schönwalde,To'n Rösterbarg,18,,54.18372184,10.74787936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VR,23744,Schönwalde,To'n Rösterbarg,2,,54.1843594,10.75043294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VS,23744,Schönwalde,To'n Rösterbarg,22,,54.18368224,10.7475192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VT,23744,Schönwalde,To'n Rösterbarg,24,,54.18362388,10.74728111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VU,23744,Schönwalde,To'n Rösterbarg,26,,54.18359237,10.74689321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VV,23744,Schönwalde,To'n Rösterbarg,4,,54.18436229,10.75036561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VW,23744,Schönwalde,To'n Rösterbarg,8,,54.183851,10.74941225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VX,23744,Schönwalde,Viertenteilshufe,1,,54.19194109,10.75788317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VY,23744,Schönwalde,Viertenteilshufe,2,,54.19503918,10.76198821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6VZ,23744,Schönwalde,Ortsteil Vogelsang,999,,54.18021984,10.81693135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Va,23744,Schönwalde,Rosenstraße,5,,54.18876483,10.7555283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vb,23744,Schönwalde,Rosenstraße,6,,54.1890854,10.75566539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vc,23744,Schönwalde,Rosenstraße,7,,54.18869083,10.75573125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vd,23744,Schönwalde,Rosenstraße,8,,54.18892642,10.75581918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ve,23744,Schönwalde,Rosenstraße,9,,54.18860112,10.75593458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vf,23744,Schönwalde,Sandwurth,1,,54.20708172,10.7720305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vg,23744,Schönwalde,Sandwurth,2,,54.20742983,10.77179975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vh,23744,Schönwalde,Sandwurth,4,,54.20758486,10.77164395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vi,23744,Schönwalde,Scharenbrook,2,,54.16876962,10.8194054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vj,23744,Schönwalde,Ortsteil Scheelholz,999,,54.20092655,10.75247706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vk,23744,Schönwalde,Scheelholz,1,,54.20085663,10.75057954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vl,23744,Schönwalde,Scheelholz,10,,54.20260176,10.74958342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vm,23744,Schönwalde,Scheelholz,11,,54.20231532,10.74921523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vn,23744,Schönwalde,Scheelholz,12,,54.20260176,10.74958342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vo,23744,Schönwalde,Scheelholz,13,,54.20251329,10.74902323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vp,23744,Schönwalde,Scheelholz,14,,54.20281736,10.7493716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vq,23744,Schönwalde,Scheelholz,15,,54.20275695,10.74841808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vr,23744,Schönwalde,Scheelholz,16,,54.20299372,10.74888899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vs,23744,Schönwalde,Scheelholz,17,,54.20301706,10.74817493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vt,23744,Schönwalde,Scheelholz,18,,54.20305829,10.74877289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vu,23744,Schönwalde,Scheelholz,2,,54.2018352,10.75090234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vv,23744,Schönwalde,Scheelholz,2,a,54.20176957,10.75119205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vw,23744,Schönwalde,Scheelholz,3,,54.20110293,10.75042397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vx,23744,Schönwalde,Scheelholz,4,,54.2019267,10.75080149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vy,23744,Schönwalde,Scheelholz,6,,54.20221003,10.75029245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Vz,23744,Schönwalde,Scheelholz,8,,54.20221003,10.75029245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W0,23744,Schönwalde,Walkmühle,1,,54.18206499,10.74885249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W1,23744,Schönwalde,Walkmühle,2,,54.18193396,10.74938642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W2,23744,Schönwalde,Walkmühle,3,,54.18188642,10.74907646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W3,23744,Schönwalde,Walkmühle,4,,54.18171721,10.74949177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W4,23744,Schönwalde,Walkmühle,5,,54.18137533,10.74924831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W5,23744,Schönwalde,Walkmühle,6,,54.18175205,10.75011877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W6,23744,Schönwalde,Wiesenweg,1,,54.19541585,10.75457169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W7,23744,Schönwalde,Wiesenweg,11,,54.19530317,10.75310433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W8,23744,Schönwalde,Wiesenweg,13,,54.19541989,10.75388465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6W9,23744,Schönwalde,Wiesenweg,15,,54.19536156,10.75396913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6WA,23744,Schönwalde,Zum Schloßberg,4,a,54.22192273,10.73794517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6WB,23744,Schönwalde,Meiereiberg,1,,54.2203543,10.73450139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6WC,23744,Schönwalde,Meiereiberg,3,,54.22036778,10.73412081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6WD,23744,Schönwalde,Zur Bekkate,2,,54.2141121,10.77993172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wa,23744,Schönwalde,Wiesenweg,17,,54.19508178,10.75367475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wb,23744,Schönwalde,Wiesenweg,19,,54.1949334,10.75347058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wc,23744,Schönwalde,Wiesenweg,2,,54.19519941,10.75445578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wd,23744,Schönwalde,Wiesenweg,21,,54.19474692,10.75333197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6We,23744,Schönwalde,Wiesenweg,21,a,54.19476257,10.75346462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wf,23744,Schönwalde,Wiesenweg,3,,54.19555846,10.7541097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wg,23744,Schönwalde,Wiesenweg,3,a,54.19555846,10.7541097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wh,23744,Schönwalde,Wiesenweg,4,,54.19502919,10.75440507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wi,23744,Schönwalde,Wiesenweg,5,,54.19561205,10.75357397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wj,23744,Schönwalde,Wiesenweg,6,,54.19488448,10.75439399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wk,23744,Schönwalde,Wiesenweg,7,,54.19561205,10.75357397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wl,23744,Schönwalde,Wiesenweg,8,,54.19473813,10.75423782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wm,23744,Schönwalde,Wiesenweg,9,,54.19551958,10.75292698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wn,23744,Schönwalde,Zum Eichholz,1,,54.22759349,10.74779629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wo,23744,Schönwalde,Zum Eichholz,2,,54.22693723,10.74714528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wp,23744,Schönwalde,Zum großen Born,1,,54.19152969,10.80267529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wq,23744,Schönwalde,Zum großen Born,3,,54.19166712,10.80205314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wr,23744,Schönwalde,Zum großen Born,5,,54.19187247,10.79999846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ws,23744,Schönwalde,Zum Kavian,1,,54.18608431,10.77764866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wt,23744,Schönwalde,Zum Kavian,3,,54.18656813,10.77739278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wu,23744,Schönwalde,Zum Schloßberg,1,,54.21897206,10.73473745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wv,23744,Schönwalde,Zum Schloßberg,1,a,54.21924349,10.73478649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Ww,23744,Schönwalde,Zum Schloßberg,2,,54.22074867,10.73517785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wx,23744,Schönwalde,Zum Schloßberg,2,a,54.22090283,10.73571352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wy,23744,Schönwalde,Zum Schloßberg,3,,54.21951481,10.73468371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C6Wz,23744,Schönwalde,Zum Schloßberg,4,,54.22196996,10.73782105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FAxN,23744,Schönwalde,Langenreiherkoppel,9,,54.19561603,10.7564606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Hm26,23744,Schönwalde,Langenreiherkoppel,5,,54.19597908,10.75610959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004INMp,23744,Schönwalde,To'n Rösterbarg,20,,54.1837083,10.74779076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004NU3g,23744,Schönwalde,Langenreiherkoppel,7,,54.19578216,10.75630597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OULW,23744,Schönwalde,Bungsbergstraße,14,c,54.18994883,10.75440647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PrGe,23744,Schönwalde,Bungsbergstraße,14,a,54.18996787,10.7540426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QaLZ,23744,Schönwalde,Langenreiherkoppel,1,,54.19546719,10.7557519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RUMK,23744,Schönwalde,Rosenstraße,17,,54.18808266,10.75687751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V6AQ,23744,Schönwalde,Langenreiherkoppel,3,,54.19609626,10.75580905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V6AU,23744,Schönwalde,Langenreiherkoppel,13,,54.19543947,10.75718989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V6B0,23744,Schönwalde,Langenreiherkoppel,15,,54.19518463,10.75736812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V6B1,23744,Schönwalde,Langenreiherkoppel,17,,54.19528351,10.7575443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCJ6,23744,Schönwalde,Am Ruhsal,1,,54.18789928,10.75445608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054z8d,23744,Schönwalde,Oldenburger Straße,2,b,54.18775186,10.7554713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005J0QX,23744,Schönwalde,Hansühner Straße,7,a,54.22387895,10.74051412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Qfms,23744,Schönwalde,Bungsbergstraße,34,a,54.19250979,10.75691275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lxv9,23744,Schönwalde,Hobstiner Straße,7,,54.16832155,10.79743821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oTDu,23744,Schönwalde,Dorfstraße,5,a,54.1723454,10.8095195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oTV1,23744,Schönwalde,Eutiner Straße,43,a,54.18180232,10.74776239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067gYZ,23744,Schönwalde,Walkmühle,3,a,54.18162505,10.74926961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZ3,23744,Schönwalde,Am Kornhof,1,,54.18646653,10.74899037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZ7,23744,Schönwalde,Am Kornhof,2,,54.18649951,10.7492345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZC,23744,Schönwalde,Am Kornhof,7,,54.1867912,10.75002212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZG,23744,Schönwalde,Am Kornhof,8,,54.18699603,10.75003043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZL,23744,Schönwalde,Am Kornhof,9,,54.18708942,10.74985784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZW,23744,Schönwalde,Am Kornhof,10,,54.18692572,10.74963093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZb,23744,Schönwalde,Am Kornhof,3,,54.18651431,10.74948495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZf,23744,Schönwalde,Am Kornhof,4,,54.18657088,10.74974656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZj,23744,Schönwalde,Am Kornhof,5,,54.18661665,10.75001583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DxZo,23744,Schönwalde,Am Kornhof,6,,54.18673665,10.750365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy00,23744,Schönwalde,Am Kornhof,11,,54.18684704,10.74940969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy04,23744,Schönwalde,Am Kornhof,12,,54.18677688,10.74911937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy09,23744,Schönwalde,Am Kornhof,13,,54.18673369,10.74879773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy0g,23744,Schönwalde,Am Kornhof,15,a,54.18660976,10.74853771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy0h,23744,Schönwalde,Am Kornhof,15,b,54.18659736,10.74844621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy0r,23744,Schönwalde,Am Kornhof,14,a,54.18679141,10.74846737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Dy0s,23744,Schönwalde,Am Kornhof,14,b,54.18677971,10.74838114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GsEn,23744,Schönwalde,Eutiner Straße,2,a,54.18727356,10.75386917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MdYA,23744,Schönwalde,Ortsteil Kniphagen,1,a,54.16974871,10.7865189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006U3Hs,23744,Schönwalde,Hauptstraße,57,b,54.2163626,10.77399313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UkrB,23744,Schönwalde,Ferienpark,1,,54.22138092,10.73970322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bxNT,23744,Schönwalde,Oldenburger Straße,44,d,54.1875539,10.76533296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bxNU,23744,Schönwalde,Oldenburger Straße,44,e,54.18761942,10.7652849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bxNV,23744,Schönwalde,Oldenburger Straße,44,f,54.18768001,10.76519785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bxNW,23744,Schönwalde,Oldenburger Straße,44,g,54.18773847,10.76515511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bxNX,23744,Schönwalde,Oldenburger Straße,44,h,54.18779532,10.76511357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006byZS,23744,Schönwalde,Bungsberg,1,,54.20947932,10.72501668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006byZT,23744,Schönwalde,Bungsberg,3,,54.20883573,10.72521401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rTh0,23744,Schönwalde,Dorfstraße,6,,54.17275632,10.80862719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yRNZ,23744,Schönwalde,Dorfstraße,1,c,54.1736816,10.80821788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070IqQ,23744,Schönwalde,Bungsberg,1,a,54.2092317,10.72527193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070IqR,23744,Schönwalde,Bungsberg,1,b,54.20914815,10.72530849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070IqS,23744,Schönwalde,Bungsberg,3,a,54.2087425,10.72520808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070Ir0,23744,Schönwalde,Bungsberg,2,a,54.20920168,10.72423049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070Ir1,23744,Schönwalde,Bungsberg,2,b,54.20908287,10.72436105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070Ir7,23744,Schönwalde,Bungsberg,2,,54.20932982,10.72408016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071evK,23744,Schönwalde,Alte Meierei,1,a,54.21941565,10.73439567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071mFS,23744,Schönwalde,Sandwurth,6,,54.20792288,10.77070245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078UNZ,23744,Schönwalde,Hobstiner Straße,14,,54.17340135,10.80777715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007RhWJ,23744,Schönwalde,Eutiner Straße,37,,54.18280009,10.74888373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UD3e,23744,Schönwalde,Dorfstraße,11,,54.17107455,10.8106241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Y4ms,23744,Schönwalde,Steinbuschkate,7,,54.22026766,10.7744717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZZH2,23744,Schönwalde,Bergfelder Straße,12,a,54.18590269,10.74809766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZZH3,23744,Schönwalde,Bergfelder Straße,12,b,54.18587651,10.7480233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZZH4,23744,Schönwalde,Bergfelder Straße,12,c,54.18598249,10.74772357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZZH5,23744,Schönwalde,Bergfelder Straße,12,d,54.18598885,10.74763015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZZH6,23744,Schönwalde,Bergfelder Straße,12,e,54.18599439,10.74754191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081vqx,23744,Schönwalde,Mönchbusch,12,,54.20083697,10.78067415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081vrd,23744,Schönwalde,Mönchbusch,14,b,54.20022024,10.78124042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086LuO,23744,Schönwalde,Langenreiherkoppel,1,a,54.1957447,10.75565394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089eV7,23744,Schönwalde,Kesselkrug,2,b,54.21532935,10.77311136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o6rM,23744,Schönwalde,Eutiner Straße,33,a,54.1831953,10.7490575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008s7A7,23744,Schönwalde,Eutiner Straße,50,,54.18229159,10.74893015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tr1c,23744,Schönwalde,Mönchbusch,2,a,54.20543515,10.77415239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008trl4,23744,Schönwalde,Oldenburger Straße,19,,54.18669541,10.76286932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zboI,23744,Schönwalde,To'n Rösterbarg,16,,54.18374098,10.74813089

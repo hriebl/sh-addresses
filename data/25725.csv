@@ -1,0 +1,602 @@
+# Amtliche Adressen für die Postleitzahl 25725
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bQ1H,25725,Tensbüttel-Röst,Forsthaus,1,,54.08311882,9.31485996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bQ1I,25725,Tensbüttel-Röst,Zum Töpferberg,1,,54.0936763,9.31683548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bQ1J,25725,Tensbüttel-Röst,Zum Töpferberg,3,,54.09863232,9.31516441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA0,25725,Tensbüttel-Röst,Schulweg,3,,54.05451416,9.29972411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA1,25725,Tensbüttel-Röst,Schulweg,4,,54.05473399,9.29850971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA2,25725,Tensbüttel-Röst,Schulweg,5,,54.05452159,9.29922917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA3,25725,Tensbüttel-Röst,Schulweg,6,,54.05478793,9.29796301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA4,25725,Tensbüttel-Röst,Schulweg,7,,54.05455862,9.29870713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA5,25725,Tensbüttel-Röst,Schulweg,9,,54.05456953,9.29836977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA6,25725,Tensbüttel-Röst,Zum Sportplatz,2,,54.05940632,9.3002479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA7,25725,Tensbüttel-Röst,Zum Sportplatz,4,,54.05976369,9.29938291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA8,25725,Tensbüttel-Röst,Zum Sportplatz,6,,54.05943775,9.29909335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANA9,25725,Tensbüttel-Röst,Zum Sportplatz,6,a,54.0599139,9.29905176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAA,25725,Tensbüttel-Röst,Heisterbarg,23,,54.08576098,9.30115082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAB,25725,Tensbüttel-Röst,Heisterbarg,25,,54.08590427,9.30175394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAC,25725,Tensbüttel-Röst,Heisterbarg,27,,54.08607113,9.3019591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAD,25725,Tensbüttel-Röst,Heisterbarg,29,,54.086014,9.30229129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAE,25725,Tensbüttel-Röst,Heisterbarg,3,,54.08396898,9.29585828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAF,25725,Tensbüttel-Röst,Heisterbarg,3,a,54.08413436,9.29624905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAG,25725,Tensbüttel-Röst,Heisterbarg,31,,54.08629845,9.30329946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAH,25725,Tensbüttel-Röst,Heisterbarg,4,,54.08445944,9.29740573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAI,25725,Tensbüttel-Röst,Heisterbarg,5,,54.08437581,9.29653959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAJ,25725,Tensbüttel-Röst,Heisterbarg,6,,54.08473748,9.29794164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAK,25725,Tensbüttel-Röst,Heisterbarg,7,,54.08451911,9.29686153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAL,25725,Tensbüttel-Röst,Heisterbarg,8,,54.08488975,9.29855905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAM,25725,Tensbüttel-Röst,Heisterbarg,9,,54.08468047,9.29711333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAN,25725,Tensbüttel-Röst,Hochfeld,1,,54.10130126,9.29421972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAO,25725,Tensbüttel-Röst,Hochfeld,3,,54.10502886,9.29335373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAP,25725,Tensbüttel-Röst,Hochfeld,5,,54.10524697,9.29257193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAQ,25725,Tensbüttel-Röst,Hochfeld,7,,54.10750038,9.29270533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAR,25725,Tensbüttel-Röst,Hoye,1,,54.09032463,9.2834463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAS,25725,Tensbüttel-Röst,Hanroden,1,,54.07418991,9.2825725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAT,25725,Tensbüttel-Röst,Hanroden,10,,54.08374068,9.26499759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAU,25725,Tensbüttel-Röst,Hanroden,11,,54.07490641,9.2757303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAV,25725,Tensbüttel-Röst,Hanroden,13,,54.08008861,9.26940445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAW,25725,Tensbüttel-Röst,Hanroden,15,,54.08041318,9.26507896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAX,25725,Tensbüttel-Röst,Hanroden,17,,54.08088649,9.26380938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAY,25725,Tensbüttel-Röst,Hanroden,5,,54.0739267,9.28030027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAZ,25725,Tensbüttel-Röst,Hanroden,6,,54.08302048,9.264709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAa,25725,Tensbüttel-Röst,Zum Sportplatz,8,,54.05939491,9.29830231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAb,25725,Tensbüttel-Röst,Am Kanal,4,,54.05813171,9.30723674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAc,25725,Tensbüttel-Röst,Am Kanal,6,,54.05838339,9.30732138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAd,25725,Tensbüttel-Röst,Eichenkamp,2,,54.08289029,9.29697843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAe,25725,Tensbüttel-Röst,Eichenkamp,4,,54.08301538,9.29742318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAf,25725,Tensbüttel-Röst,Eichenkamp,6,,54.08313177,9.29776201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAg,25725,Tensbüttel-Röst,Friedhofsallee,1,,54.08492034,9.29721267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAh,25725,Tensbüttel-Röst,Friedhofsallee,2,,54.08534079,9.29802553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAi,25725,Tensbüttel-Röst,Friedhofsallee,3,,54.08640181,9.29871552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAj,25725,Tensbüttel-Röst,Friedhofsallee,4,,54.08568314,9.29845525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAk,25725,Tensbüttel-Röst,Friedhofsallee,6,,54.08577598,9.29857825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAl,25725,Tensbüttel-Röst,Friedhofsallee,8,,54.08609901,9.29889512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAm,25725,Tensbüttel-Röst,Friedrichslust,1,,54.10913369,9.28766495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAn,25725,Tensbüttel-Röst,Friedrichslust,2,,54.10887118,9.28505565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAo,25725,Tensbüttel-Röst,Heisterbarg,1,,54.08388457,9.2955844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAp,25725,Tensbüttel-Röst,Heisterbarg,10,,54.08571334,9.30217387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAq,25725,Tensbüttel-Röst,Heisterbarg,11,,54.08491851,9.29787893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAr,25725,Tensbüttel-Röst,Heisterbarg,12,,54.08579728,9.30253069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAs,25725,Tensbüttel-Röst,Heisterbarg,13,,54.08504767,9.29819935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAt,25725,Tensbüttel-Röst,Heisterbarg,13,a,54.08520026,9.2984778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAu,25725,Tensbüttel-Röst,Heisterbarg,15,,54.08528464,9.2989305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAv,25725,Tensbüttel-Röst,Heisterbarg,17,,54.08536684,9.299205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAw,25725,Tensbüttel-Röst,Heisterbarg,19,,54.08559608,9.30038706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAx,25725,Tensbüttel-Röst,Heisterbarg,2,,54.0842912,9.29710869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAy,25725,Tensbüttel-Röst,Heisterbarg,2,a,54.08406083,9.29683815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANAz,25725,Tensbüttel-Röst,Heisterbarg,21,,54.08565478,9.30064851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB0,25725,Tensbüttel-Röst,Hanroden,7,,54.07481654,9.27904139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB1,25725,Tensbüttel-Röst,Hanroden,8,,54.08338326,9.26524587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB2,25725,Tensbüttel-Röst,Hanroden,9,,54.07490803,9.27644249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB3,25725,Tensbüttel-Röst,Hohenhörner Straße,1,,54.07967426,9.29407214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB4,25725,Tensbüttel-Röst,Hohenhörner Straße,10,,54.0773006,9.29732593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB5,25725,Tensbüttel-Röst,Hohenhörner Straße,12,,54.07276151,9.30367433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB6,25725,Tensbüttel-Röst,Hohenhörner Straße,13,,54.07430848,9.30401472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB7,25725,Tensbüttel-Röst,Hohenhörner Straße,14,,54.07068083,9.30419758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB8,25725,Tensbüttel-Röst,Hohenhörner Straße,15,,54.07376417,9.30387288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANB9,25725,Tensbüttel-Röst,Hohenhörner Straße,16,,54.0697562,9.30387928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBA,25725,Tensbüttel-Röst,Ochsenweg,2,,54.0617852,9.30532873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBB,25725,Tensbüttel-Röst,Ochsenweg,4,,54.06177728,9.30569828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBC,25725,Tensbüttel-Röst,Ochsenweg,6,,54.0617755,9.30596263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBD,25725,Tensbüttel-Röst,Ochsenweg,8,,54.06174965,9.30636177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBE,25725,Tensbüttel-Röst,Birkenallee,2,,54.06459139,9.30365263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBF,25725,Tensbüttel-Röst,Birkenallee,4,,54.06417234,9.30353715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBG,25725,Tensbüttel-Röst,Birkenallee,4,a,54.06390895,9.30335504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBH,25725,Tensbüttel-Röst,Birkenallee,6,,54.06358102,9.30297642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBI,25725,Tensbüttel-Röst,Birkenallee,8,,54.06323693,9.30273625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBJ,25725,Tensbüttel-Röst,Judenstraße,1,,54.08209049,9.2966742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBK,25725,Tensbüttel-Röst,Judenstraße,10,,54.08240359,9.29789486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBL,25725,Tensbüttel-Röst,Judenstraße,10,a,54.08245015,9.29830764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBM,25725,Tensbüttel-Röst,Judenstraße,11,,54.08265904,9.29931168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBN,25725,Tensbüttel-Röst,Judenstraße,12,,54.08254683,9.29850676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBO,25725,Tensbüttel-Röst,Judenstraße,13,,54.08229028,9.29965302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBP,25725,Tensbüttel-Röst,Judenstraße,14,,54.08237632,9.2989862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBQ,25725,Tensbüttel-Röst,Judenstraße,15,,54.08211988,9.29991933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBR,25725,Tensbüttel-Röst,Judenstraße,16,,54.08212509,9.29942595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBS,25725,Tensbüttel-Röst,Judenstraße,17,,54.0819354,9.30020772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBT,25725,Tensbüttel-Röst,Judenstraße,18,,54.08198588,9.29966439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBU,25725,Tensbüttel-Röst,Judenstraße,19,,54.08166164,9.300628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBV,25725,Tensbüttel-Röst,Judenstraße,2,,54.08188682,9.29669449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBW,25725,Tensbüttel-Röst,Judenstraße,20,,54.08187777,9.29984974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBX,25725,Tensbüttel-Röst,Judenstraße,21,,54.08152575,9.30083834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBY,25725,Tensbüttel-Röst,Judenstraße,22,,54.08176139,9.30005696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBZ,25725,Tensbüttel-Röst,Judenstraße,23,,54.08132093,9.30115964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBa,25725,Tensbüttel-Röst,Hohenhörner Straße,17,,54.0732946,9.30414328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBb,25725,Tensbüttel-Röst,Hohenhörner Straße,18,,54.06871053,9.3036746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBc,25725,Tensbüttel-Röst,Hohenhörner Straße,2,,54.0793414,9.29372875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBd,25725,Tensbüttel-Röst,Hohenhörner Straße,20,a,54.06731725,9.30298126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBf,25725,Tensbüttel-Röst,Hohenhörner Straße,22,,54.0657574,9.30452547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBg,25725,Tensbüttel-Röst,Hohenhörner Straße,23,,54.06388482,9.30624051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBh,25725,Tensbüttel-Röst,Hohenhörner Straße,25,,54.06379462,9.30680832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBi,25725,Tensbüttel-Röst,Hohenhörner Straße,27,,54.06353513,9.30645843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBj,25725,Tensbüttel-Röst,Hohenhörner Straße,29,,54.06339351,9.30671492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBk,25725,Tensbüttel-Röst,Hohenhörner Straße,3,,54.07949766,9.29420092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBl,25725,Tensbüttel-Röst,Hohenhörner Straße,31,,54.06332796,9.30705939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBm,25725,Tensbüttel-Röst,Hohenhörner Straße,33,,54.06313072,9.30802461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBn,25725,Tensbüttel-Röst,Hohenhörner Straße,35,,54.06313637,9.30827969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBo,25725,Tensbüttel-Röst,Hohenhörner Straße,4,,54.07900575,9.29443608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBp,25725,Tensbüttel-Röst,Hohenhörner Straße,5,,54.07938267,9.29430357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBq,25725,Tensbüttel-Röst,Hohenhörner Straße,6,,54.07856365,9.29515088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBr,25725,Tensbüttel-Röst,Hohenhörner Straße,6,a,54.07844381,9.29546105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBs,25725,Tensbüttel-Röst,Hohenhörner Straße,7,,54.07911269,9.29477576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBt,25725,Tensbüttel-Röst,Hohenhörner Straße,8,,54.07761988,9.29676444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBu,25725,Tensbüttel-Röst,Hohenhörner Straße,9,,54.07898952,9.29545033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBv,25725,Tensbüttel-Röst,Pathen,1,,54.06654496,9.30857425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBw,25725,Tensbüttel-Röst,Pathen,2,,54.06440807,9.30958093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBx,25725,Tensbüttel-Röst,Pathen,3,,54.06759652,9.3105314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBy,25725,Tensbüttel-Röst,Pathen,4,,54.06644554,9.30900448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANBz,25725,Tensbüttel-Röst,Pathen,5,,54.0691776,9.31087738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC0,25725,Tensbüttel-Röst,Judenstraße,24,,54.08163931,9.30025065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC1,25725,Tensbüttel-Röst,Judenstraße,25,,54.08113018,9.30150455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC2,25725,Tensbüttel-Röst,Judenstraße,25,a,54.08092679,9.30198382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC3,25725,Tensbüttel-Röst,Judenstraße,26,,54.0814738,9.30051602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC4,25725,Tensbüttel-Röst,Judenstraße,26,a,54.08132104,9.30070718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC5,25725,Tensbüttel-Röst,Judenstraße,27,,54.08081657,9.3022167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC6,25725,Tensbüttel-Röst,Judenstraße,28,,54.08121617,9.30086225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC7,25725,Tensbüttel-Röst,Judenstraße,29,,54.08071187,9.30247773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC8,25725,Tensbüttel-Röst,Judenstraße,3,,54.08233519,9.29730196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANC9,25725,Tensbüttel-Röst,Judenstraße,30,,54.08102174,9.3012363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCA,25725,Tensbüttel-Röst,Klosterhof,4,,54.07805112,9.29395301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCB,25725,Tensbüttel-Röst,Klint,2,,54.07976483,9.29211443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCC,25725,Tensbüttel-Röst,Klint,3,,54.07919592,9.29175432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCD,25725,Tensbüttel-Röst,Klint,4,,54.0793562,9.2914761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCE,25725,Tensbüttel-Röst,Luruperdamm,1,,54.06320963,9.30578507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCF,25725,Tensbüttel-Röst,Luruperdamm,10,,54.06001519,9.29645435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCG,25725,Tensbüttel-Röst,Luruperdamm,2,,54.06354998,9.30559472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCH,25725,Tensbüttel-Röst,Luruperdamm,3,,54.0596655,9.29723892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCI,25725,Tensbüttel-Röst,Luruperdamm,4,,54.06348732,9.30397946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCJ,25725,Tensbüttel-Röst,Luruperdamm,5,,54.05913662,9.29487781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCK,25725,Tensbüttel-Röst,Luruperdamm,6,,54.0618591,9.30086317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCL,25725,Tensbüttel-Röst,Luruperdamm,7,,54.06178726,9.28492442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCM,25725,Tensbüttel-Röst,Luruperdamm,8,,54.06012491,9.29857755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCN,25725,Tensbüttel-Röst,Möhlnbarg,1,,54.08360299,9.29486237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCO,25725,Tensbüttel-Röst,Möhlnbarg,10,,54.08452337,9.29520651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCP,25725,Tensbüttel-Röst,Möhlnbarg,11,,54.08487872,9.29475146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCQ,25725,Tensbüttel-Röst,Möhlnbarg,12,,54.08500715,9.29507521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCR,25725,Tensbüttel-Röst,Möhlnbarg,12,a,54.08527238,9.29512113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCS,25725,Tensbüttel-Röst,Möhlnbarg,12,b,54.08545988,9.29507958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCT,25725,Tensbüttel-Röst,Möhlnbarg,12,c,54.08566812,9.29500959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCU,25725,Tensbüttel-Röst,Möhlnbarg,12,d,54.08572505,9.29499839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCV,25725,Tensbüttel-Röst,Möhlnbarg,13,,54.08504447,9.29470656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCW,25725,Tensbüttel-Röst,Möhlnbarg,14,,54.08591623,9.29494329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCX,25725,Tensbüttel-Röst,Möhlnbarg,15,,54.08535276,9.29463368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCY,25725,Tensbüttel-Röst,Möhlnbarg,16,,54.08638718,9.29494627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCZ,25725,Tensbüttel-Röst,Möhlnbarg,17,,54.08552459,9.29458433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCa,25725,Tensbüttel-Röst,Judenstraße,31,,54.08060477,9.30280601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCb,25725,Tensbüttel-Röst,Judenstraße,32,,54.08084767,9.30141443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCc,25725,Tensbüttel-Röst,Judenstraße,33,,54.08045099,9.30351889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCd,25725,Tensbüttel-Röst,Judenstraße,34,,54.08073754,9.30158183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCe,25725,Tensbüttel-Röst,Judenstraße,35,,54.08020956,9.30322809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCf,25725,Tensbüttel-Röst,Judenstraße,36,,54.08064122,9.3017939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCg,25725,Tensbüttel-Röst,Judenstraße,38,,54.08051725,9.30214964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCh,25725,Tensbüttel-Röst,Judenstraße,39,,54.07984069,9.30288745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCi,25725,Tensbüttel-Röst,Judenstraße,4,,54.08167134,9.29695557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCj,25725,Tensbüttel-Röst,Judenstraße,40,,54.0804291,9.30234035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCk,25725,Tensbüttel-Röst,Judenstraße,41,,54.07773292,9.30312587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCl,25725,Tensbüttel-Röst,Judenstraße,42,,54.08029472,9.3025564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCm,25725,Tensbüttel-Röst,Judenstraße,43,,54.07747787,9.30282426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCn,25725,Tensbüttel-Röst,Judenstraße,44,,54.0800061,9.30242197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCo,25725,Tensbüttel-Röst,Judenstraße,45,,54.07689263,9.30030434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCp,25725,Tensbüttel-Röst,Judenstraße,46,,54.07690552,9.29978918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCq,25725,Tensbüttel-Röst,Judenstraße,46,a,54.07735558,9.30036505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCr,25725,Tensbüttel-Röst,Judenstraße,47,,54.07735654,9.2991437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCs,25725,Tensbüttel-Röst,Judenstraße,5,,54.08247708,9.29766253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCt,25725,Tensbüttel-Röst,Judenstraße,6,,54.08198183,9.29696687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCu,25725,Tensbüttel-Röst,Judenstraße,7,,54.08262118,9.29818233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCv,25725,Tensbüttel-Röst,Judenstraße,8,,54.08215763,9.29735037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCw,25725,Tensbüttel-Röst,Judenstraße,9,,54.08277808,9.29854258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCx,25725,Tensbüttel-Röst,Klosterhof,1,,54.07734776,9.29457691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCy,25725,Tensbüttel-Röst,Klosterhof,2,,54.07785255,9.29519667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANCz,25725,Tensbüttel-Röst,Klosterhof,3,,54.07747775,9.29429205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND0,25725,Tensbüttel-Röst,Möhlnbarg,18,,54.08652351,9.29530609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND1,25725,Tensbüttel-Röst,Möhlnbarg,20,,54.08664926,9.29506376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND2,25725,Tensbüttel-Röst,Möhlnbarg,22,,54.08693013,9.2948029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND3,25725,Tensbüttel-Röst,Möhlnbarg,24,,54.08831933,9.29439955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND4,25725,Tensbüttel-Röst,Möhlnbarg,26,,54.08881743,9.29417048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND5,25725,Tensbüttel-Röst,Möhlnbarg,3,,54.08393266,9.29477508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND6,25725,Tensbüttel-Röst,Möhlnbarg,4,,54.08404515,9.29528001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND7,25725,Tensbüttel-Röst,Möhlnbarg,5,,54.08407348,9.29477061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND8,25725,Tensbüttel-Röst,Möhlnbarg,6,,54.08420874,9.29525522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AND9,25725,Tensbüttel-Röst,Möhlnbarg,7,,54.08427929,9.29483864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDA,25725,Tensbüttel-Röst,Osterheese,7,,54.06909612,9.30602665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDB,25725,Tensbüttel-Röst,Oln Esch,1,,54.0813537,9.29646842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDC,25725,Tensbüttel-Röst,Oln Esch,10,,54.08052913,9.29557795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDD,25725,Tensbüttel-Röst,Oln Esch,12,,54.08034796,9.29591986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDE,25725,Tensbüttel-Röst,Oln Esch,14,,54.08042553,9.29669782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDF,25725,Tensbüttel-Röst,Oln Esch,16,,54.08054167,9.29700003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDG,25725,Tensbüttel-Röst,Oln Esch,18,,54.0805737,9.29729702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDH,25725,Tensbüttel-Röst,Oln Esch,2,,54.08109005,9.29627434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDI,25725,Tensbüttel-Röst,Oln Esch,20,,54.08062463,9.29758935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDJ,25725,Tensbüttel-Röst,Oln Esch,3,,54.08120163,9.29664354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDK,25725,Tensbüttel-Röst,Oln Esch,4,,54.08082188,9.29665598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDL,25725,Tensbüttel-Röst,Oln Esch,5,,54.0810272,9.29697596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDM,25725,Tensbüttel-Röst,Oln Esch,6,,54.08065011,9.29625425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDN,25725,Tensbüttel-Röst,Oln Esch,7,,54.08092838,9.29725669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDO,25725,Tensbüttel-Röst,Oln Esch,8,,54.08062144,9.2959299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDP,25725,Tensbüttel-Röst,Rosenhof,1,,54.08699728,9.30734214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDQ,25725,Tensbüttel-Röst,Rosenhof,2,,54.08626738,9.30633039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDR,25725,Tensbüttel-Röst,Rosenhof,2,a,54.08657026,9.30737127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDS,25725,Tensbüttel-Röst,Rosenhof,3,,54.08743265,9.30786037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDT,25725,Tensbüttel-Röst,Rosenhof,4,,54.08633032,9.30716689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDU,25725,Tensbüttel-Röst,Rosenhof,6,,54.08601456,9.308637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDV,25725,Tensbüttel-Röst,Hauptstraße,1,,54.08333939,9.29502188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDW,25725,Tensbüttel-Röst,Hauptstraße,1,a,54.08304503,9.29462472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDX,25725,Tensbüttel-Röst,Hauptstraße,1,b,54.08290753,9.29424482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDY,25725,Tensbüttel-Röst,Hauptstraße,10,,54.08273798,9.29299395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDZ,25725,Tensbüttel-Röst,Hauptstraße,11,,54.0808247,9.29329123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDa,25725,Tensbüttel-Röst,Möhlnbarg,8,,54.0843652,9.29523164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDb,25725,Tensbüttel-Röst,Möhlnbarg,9,,54.08459323,9.29468914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDc,25725,Tensbüttel-Röst,Nordholz,1,,54.09712362,9.28616093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDd,25725,Tensbüttel-Röst,Nordholz,10,,54.10288269,9.2807314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDe,25725,Tensbüttel-Röst,Nordholz,11,,54.10081627,9.28171404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDf,25725,Tensbüttel-Röst,Nordholz,12,,54.10353271,9.28223844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDg,25725,Tensbüttel-Röst,Nordholz,13,,54.10252888,9.28042594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDh,25725,Tensbüttel-Röst,Nordholz,14,,54.10944726,9.27679982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDi,25725,Tensbüttel-Röst,Nordholz,15,,54.10335464,9.27990746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDj,25725,Tensbüttel-Röst,Nordholz,17,,54.10394669,9.27965672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDk,25725,Tensbüttel-Röst,Nordholz,19,,54.10807788,9.27760796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDl,25725,Tensbüttel-Röst,Nordholz,2,,54.10028322,9.2827985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDm,25725,Tensbüttel-Röst,Nordholz,21,,54.10971805,9.27591249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDn,25725,Tensbüttel-Röst,Nordholz,3,,54.09803849,9.28561726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDo,25725,Tensbüttel-Röst,Nordholz,4,,54.1004551,9.2824987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDp,25725,Tensbüttel-Röst,Nordholz,5,,54.09882416,9.2847269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDq,25725,Tensbüttel-Röst,Nordholz,6,,54.10163097,9.28167568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDr,25725,Tensbüttel-Röst,Nordholz,7,,54.09992402,9.28266737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDs,25725,Tensbüttel-Röst,Nordholz,8,,54.10255263,9.28097266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDt,25725,Tensbüttel-Röst,Nordholz,9,,54.10052392,9.2819356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDu,25725,Tensbüttel-Röst,Osterheese,1,,54.06861904,9.30597423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDv,25725,Tensbüttel-Röst,Osterheese,2,,54.068686,9.30637236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDw,25725,Tensbüttel-Röst,Osterheese,3,,54.06878067,9.30603856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDx,25725,Tensbüttel-Röst,Osterheese,4,,54.06886413,9.30641881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDy,25725,Tensbüttel-Röst,Osterheese,5,,54.0689353,9.30603403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANDz,25725,Tensbüttel-Röst,Osterheese,6,,54.06908126,9.30652578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE0,25725,Tensbüttel-Röst,Hauptstraße,12,,54.08107844,9.29285532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE1,25725,Tensbüttel-Röst,Hauptstraße,13,,54.08009897,9.29364042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE2,25725,Tensbüttel-Röst,Hauptstraße,15,,54.07889004,9.29344548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE3,25725,Tensbüttel-Röst,Hauptstraße,16,,54.08050605,9.29314119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE4,25725,Tensbüttel-Röst,Hauptstraße,17,,54.07841969,9.29352236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE5,25725,Tensbüttel-Röst,Hauptstraße,18,,54.08020247,9.29330832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE6,25725,Tensbüttel-Röst,Hauptstraße,19,,54.0724421,9.28658795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE7,25725,Tensbüttel-Röst,Hauptstraße,19,a,54.07701736,9.2938541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE8,25725,Tensbüttel-Röst,Hauptstraße,2,,54.0834637,9.29454477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANE9,25725,Tensbüttel-Röst,Hauptstraße,2,a,54.08354704,9.29449979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEA,25725,Tensbüttel-Röst,Bargkoppel,12,,54.08349031,9.30082214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEB,25725,Tensbüttel-Röst,Bargkoppel,12,a,54.08354328,9.30096426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEC,25725,Tensbüttel-Röst,Bargkoppel,2,,54.0828748,9.29927254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANED,25725,Tensbüttel-Röst,Bargkoppel,4,,54.08302237,9.29955464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEE,25725,Tensbüttel-Röst,Bargkoppel,6,,54.08313508,9.29984887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEF,25725,Tensbüttel-Röst,Bargkoppel,8,,54.08324104,9.3000899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEG,25725,Tensbüttel-Röst,Buchenweg,1,,54.08316538,9.29842489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEH,25725,Tensbüttel-Röst,Buchenweg,10,,54.08395803,9.29842627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEI,25725,Tensbüttel-Röst,Buchenweg,12,,54.08412383,9.29835199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEJ,25725,Tensbüttel-Röst,Buchenweg,2,,54.08307671,9.29897211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEK,25725,Tensbüttel-Röst,Buchenweg,3,,54.08344485,9.2982286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEL,25725,Tensbüttel-Röst,Buchenweg,4,,54.08332755,9.29870679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEO,25725,Tensbüttel-Röst,Buchenweg,7,,54.08382367,9.29803015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEP,25725,Tensbüttel-Röst,Buchenweg,8,,54.08371175,9.29842629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEQ,25725,Tensbüttel-Röst,Buchenweg,9,,54.08397868,9.29779791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANER,25725,Tensbüttel-Röst,Ahornweg,1,,54.08333908,9.29940042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANES,25725,Tensbüttel-Röst,Ahornweg,2,,54.08348327,9.29970289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANET,25725,Tensbüttel-Röst,Ahornweg,3,,54.08354016,9.29929592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEU,25725,Tensbüttel-Röst,Ahornweg,4,,54.08373397,9.29966324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEV,25725,Tensbüttel-Röst,Ahornweg,5,,54.08375882,9.29914434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEW,25725,Tensbüttel-Röst,Ahornweg,6,,54.08389266,9.29942116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEX,25725,Tensbüttel-Röst,Ahornweg,7,,54.08397482,9.29902426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEY,25725,Tensbüttel-Röst,Ahornweg,8,,54.08409203,9.29945607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEZ,25725,Tensbüttel-Röst,Ahornweg,9,,54.08418008,9.29875126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEa,25725,Tensbüttel-Röst,Hauptstraße,2,b,54.08332742,9.29436228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEb,25725,Tensbüttel-Röst,Hauptstraße,20,,54.07979446,9.29304356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEc,25725,Tensbüttel-Röst,Hauptstraße,21,,54.07223045,9.28626786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEd,25725,Tensbüttel-Röst,Hauptstraße,22,,54.07889362,9.29303713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEe,25725,Tensbüttel-Röst,Hauptstraße,24,,54.07858136,9.29298768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEf,25725,Tensbüttel-Röst,Hauptstraße,26,,54.07812297,9.29322385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEg,25725,Tensbüttel-Röst,Hauptstraße,28,,54.07789968,9.29328265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEh,25725,Tensbüttel-Röst,Hauptstraße,28,a,54.07761216,9.2933766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEi,25725,Tensbüttel-Röst,Hauptstraße,3,,54.0829018,9.29384283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEj,25725,Tensbüttel-Röst,Hauptstraße,30,,54.07542369,9.28954605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEk,25725,Tensbüttel-Röst,Hauptstraße,4,,54.08317973,9.29405536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEl,25725,Tensbüttel-Röst,Hauptstraße,5,,54.08283317,9.29364567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEm,25725,Tensbüttel-Röst,Hauptstraße,6,,54.08315311,9.29356915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEn,25725,Tensbüttel-Röst,Hauptstraße,6,a,54.0829928,9.29336401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEo,25725,Tensbüttel-Röst,Hauptstraße,7,,54.08211346,9.29301935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEp,25725,Tensbüttel-Röst,Hauptstraße,8,,54.08302154,9.29292492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEq,25725,Tensbüttel-Röst,Hauptstraße,9,,54.08136417,9.293284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEr,25725,Tensbüttel-Röst,Wiesengrund,1,,54.07673284,9.29855199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEs,25725,Tensbüttel-Röst,Wiesengrund,2,,54.07682142,9.29826306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEt,25725,Tensbüttel-Röst,Wiesengrund,3,,54.07656218,9.29855872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEu,25725,Tensbüttel-Röst,Wiesengrund,4,,54.07665428,9.29818696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEv,25725,Tensbüttel-Röst,Wiesengrund,5,,54.07634082,9.29849556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEw,25725,Tensbüttel-Röst,Wiesengrund,6,,54.07645065,9.29812138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEx,25725,Tensbüttel-Röst,Wiesengrund,7,,54.07615826,9.29853103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEy,25725,Tensbüttel-Röst,Wiesengrund,8,,54.07624196,9.29813343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANEz,25725,Tensbüttel-Röst,Bargkoppel,10,,54.08336935,9.3004431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF0,25725,Tensbüttel-Röst,Tensbüttler Straße,1,,54.08527873,9.27240574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF1,25725,Tensbüttel-Röst,Tensbüttler Straße,2,,54.08268989,9.29017914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF2,25725,Tensbüttel-Röst,Tensbüttler Straße,4,,54.0861169,9.27022364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF3,25725,Tensbüttel-Röst,Tensbüttler Straße,5,,54.08628823,9.26155166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF4,25725,Tensbüttel-Röst,Tensbüttler Straße,6,,54.08672465,9.26314876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF5,25725,Tensbüttel-Röst,Erlengrund,1,,54.08009073,9.29230573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF6,25725,Tensbüttel-Röst,Erlengrund,1,a,54.08008192,9.29170798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF7,25725,Tensbüttel-Röst,Erlengrund,2,,54.0806078,9.29218299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF8,25725,Tensbüttel-Röst,Erlengrund,3,,54.08041365,9.29205976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANF9,25725,Tensbüttel-Röst,Erlengrund,4,,54.08039418,9.29236304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFA,25725,Tensbüttel-Röst,Lärchenweg,2,,54.08377827,9.30073188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFB,25725,Tensbüttel-Röst,Lärchenweg,3,,54.08378947,9.30024689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFC,25725,Tensbüttel-Röst,Lärchenweg,4,,54.08391119,9.30061235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFD,25725,Tensbüttel-Röst,Lärchenweg,5,,54.08397888,9.30010658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFE,25725,Tensbüttel-Röst,Lärchenweg,6,,54.08419956,9.30034331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFF,25725,Tensbüttel-Röst,Lärchenweg,7,,54.08417987,9.29997758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFG,25725,Tensbüttel-Röst,Lärchenweg,8,,54.08445032,9.30029391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFH,25725,Tensbüttel-Röst,Lärchenweg,9,,54.08442294,9.2997773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFI,25725,Tensbüttel-Röst,Lindenstraße,1,,54.08535563,9.30063469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFJ,25725,Tensbüttel-Röst,Lindenstraße,10,,54.08415246,9.30118337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFK,25725,Tensbüttel-Röst,Lindenstraße,11,,54.08415119,9.30163298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFL,25725,Tensbüttel-Röst,Lindenstraße,12,,54.08395294,9.30130535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFM,25725,Tensbüttel-Röst,Lindenstraße,13,,54.08425627,9.30214779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFN,25725,Tensbüttel-Röst,Lindenstraße,14,,54.08369593,9.30138472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFO,25725,Tensbüttel-Röst,Lindenstraße,15,,54.0844936,9.30199562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFP,25725,Tensbüttel-Röst,Lindenstraße,16,,54.08390472,9.30197812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFQ,25725,Tensbüttel-Röst,Lindenstraße,17,,54.08472581,9.30184769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFR,25725,Tensbüttel-Röst,Lindenstraße,18,,54.08403398,9.30228471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFS,25725,Tensbüttel-Röst,Lindenstraße,19,,54.08498893,9.301592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFT,25725,Tensbüttel-Röst,Lindenstraße,2,,54.08504301,9.30048971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFU,25725,Tensbüttel-Röst,Lindenstraße,20,,54.08414519,9.30266122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFV,25725,Tensbüttel-Röst,Lindenstraße,22,,54.08437492,9.30241817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFW,25725,Tensbüttel-Röst,Lindenstraße,24,,54.08459296,9.30224955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFX,25725,Tensbüttel-Röst,Lindenstraße,26,,54.08480649,9.30205401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFY,25725,Tensbüttel-Röst,Lindenstraße,28,,54.08500506,9.30191091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFZ,25725,Tensbüttel-Röst,Lindenstraße,28,a,54.08507809,9.30185383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFa,25725,Tensbüttel-Röst,Erlengrund,5,,54.08066162,9.2917363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFb,25725,Tensbüttel-Röst,Erlengrund,7,,54.08091214,9.29160453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFc,25725,Tensbüttel-Röst,Erlengrund,9,,54.08091992,9.29195957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFd,25725,Tensbüttel-Röst,Wassermühle,1,,54.09408154,9.28829831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFe,25725,Tensbüttel-Röst,Westerheese,1,,54.06851481,9.30455006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFf,25725,Tensbüttel-Röst,Westerheese,10,,54.0691406,9.30493998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFg,25725,Tensbüttel-Röst,Westerheese,2,,54.06855487,9.30490899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFh,25725,Tensbüttel-Röst,Westerheese,3,,54.06869115,9.3045657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFi,25725,Tensbüttel-Röst,Westerheese,4,,54.06871737,9.30491483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFj,25725,Tensbüttel-Röst,Westerheese,5,,54.06883661,9.30459503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFk,25725,Tensbüttel-Röst,Westerheese,6,,54.06884294,9.30491413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFl,25725,Tensbüttel-Röst,Westerheese,7,,54.06905781,9.30450509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFm,25725,Tensbüttel-Röst,Westerheese,8,,54.06901254,9.30493542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFn,25725,Tensbüttel-Röst,Ziegelhof,1,,54.09803479,9.29436762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFo,25725,Tensbüttel-Röst,Ziegelhof,2,,54.09731134,9.29504353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFp,25725,Tensbüttel-Röst,Ziegelhof,3,,54.09825307,9.29441591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFq,25725,Tensbüttel-Röst,Ziegelhof,4,,54.09789274,9.29504815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFr,25725,Tensbüttel-Röst,Ziegelhof,5,,54.09913131,9.29448787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFs,25725,Tensbüttel-Röst,Weidenhof,1,,54.09588705,9.31513136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFt,25725,Tensbüttel-Röst,Weidenhof,3,,54.09835898,9.31433608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFu,25725,Tensbüttel-Röst,Lärchenweg,1,,54.08362007,9.30033797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFv,25725,Tensbüttel-Röst,Lärchenweg,10,,54.08466628,9.30006001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFw,25725,Tensbüttel-Röst,Lärchenweg,11,,54.08457292,9.29952968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFx,25725,Tensbüttel-Röst,Lärchenweg,12,,54.08490797,9.299999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFy,25725,Tensbüttel-Röst,Lärchenweg,13,,54.08466914,9.29895038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANFz,25725,Tensbüttel-Röst,Lärchenweg,15,,54.08480534,9.29957881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG0,25725,Tensbüttel-Röst,Lindenstraße,3,,54.08516403,9.30092163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG1,25725,Tensbüttel-Röst,Lindenstraße,32,,54.08556029,9.30160819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG2,25725,Tensbüttel-Röst,Lindenstraße,34,,54.08546489,9.30121606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG3,25725,Tensbüttel-Röst,Lindenstraße,36,,54.0851813,9.3014385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG4,25725,Tensbüttel-Röst,Lindenstraße,4,,54.08481751,9.30068568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG5,25725,Tensbüttel-Röst,Lindenstraße,6,,54.08460661,9.30086719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG6,25725,Tensbüttel-Röst,Lindenstraße,8,,54.08436937,9.30106323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG7,25725,Tensbüttel-Röst,Lindenstraße,9,,54.08439526,9.30143289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG8,25725,Tensbüttel-Röst,Kreinfot Siedlung,1,,54.05587059,9.30228968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANG9,25725,Tensbüttel-Röst,Kreinfot Siedlung,10,,54.05595636,9.30352702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGA,25725,Tensbüttel-Röst,Kreinfot,3,,54.05557202,9.3022784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGB,25725,Tensbüttel-Röst,Kreinfot,5,,54.05535013,9.30275123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGC,25725,Tensbüttel-Röst,Kreinfot,6,,54.0526873,9.3054565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGD,25725,Tensbüttel-Röst,Kreinfot,7,,54.055283,9.30302086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGE,25725,Tensbüttel-Röst,Kreinfot,9,,54.055417,9.30342613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGa,25725,Tensbüttel-Röst,Kreinfot Siedlung,11,,54.05635992,9.3030261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGb,25725,Tensbüttel-Röst,Kreinfot Siedlung,12,,54.05591624,9.30376337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGc,25725,Tensbüttel-Röst,Kreinfot Siedlung,13,,54.05623834,9.30347537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGd,25725,Tensbüttel-Röst,Kreinfot Siedlung,14,,54.05577718,9.30414726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGe,25725,Tensbüttel-Röst,Kreinfot Siedlung,15,,54.05601948,9.30380018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGf,25725,Tensbüttel-Röst,Kreinfot Siedlung,16,,54.05565671,9.30372424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGg,25725,Tensbüttel-Röst,Kreinfot Siedlung,17,,54.05598404,9.30414596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGh,25725,Tensbüttel-Röst,Kreinfot Siedlung,18,,54.05555895,9.30389817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGi,25725,Tensbüttel-Röst,Kreinfot Siedlung,19,,54.05573375,9.30448126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGj,25725,Tensbüttel-Röst,Kreinfot Siedlung,2,,54.05562814,9.30276165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGk,25725,Tensbüttel-Röst,Kreinfot Siedlung,20,,54.05522798,9.30383216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGl,25725,Tensbüttel-Röst,Kreinfot Siedlung,21,,54.05546331,9.30456097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGm,25725,Tensbüttel-Röst,Kreinfot Siedlung,22,,54.05501098,9.30370691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGn,25725,Tensbüttel-Röst,Kreinfot Siedlung,23,,54.05523512,9.30446427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGo,25725,Tensbüttel-Röst,Kreinfot Siedlung,25,,54.05501262,9.30434194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGp,25725,Tensbüttel-Röst,Kreinfot Siedlung,27,,54.05478557,9.30421543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGq,25725,Tensbüttel-Röst,Kreinfot Siedlung,3,,54.05613915,9.30219547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGr,25725,Tensbüttel-Röst,Kreinfot Siedlung,4,,54.05579754,9.30279586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGs,25725,Tensbüttel-Röst,Kreinfot Siedlung,5,,54.05636558,9.30216161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGt,25725,Tensbüttel-Röst,Kreinfot Siedlung,6,,54.0560983,9.30293572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGu,25725,Tensbüttel-Röst,Kreinfot Siedlung,7,,54.05657466,9.30225934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGv,25725,Tensbüttel-Röst,Kreinfot Siedlung,8,,54.05602108,9.30317936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGw,25725,Tensbüttel-Röst,Kreinfot Siedlung,9,,54.05647655,9.30261472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGx,25725,Tensbüttel-Röst,Kreinfot,1,,54.05564579,9.3017888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGy,25725,Tensbüttel-Röst,Kreinfot,11,,54.05514867,9.30341278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANGz,25725,Tensbüttel-Röst,Kreinfot,2,,54.0532732,9.30429033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANy8,25725,Tensbüttel-Röst,An Barg,1,,54.08433439,9.29616837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANy9,25725,Tensbüttel-Röst,An Barg,10,,54.08546571,9.29628794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyA,25725,Tensbüttel-Röst,Dorfstraße,19,,54.08278604,9.29586478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyB,25725,Tensbüttel-Röst,Dorfstraße,2,,54.07994731,9.29399917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyC,25725,Tensbüttel-Röst,Dorfstraße,21,,54.08296375,9.29573806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyD,25725,Tensbüttel-Röst,Dorfstraße,3,,54.08085769,9.29417688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyE,25725,Tensbüttel-Röst,Dorfstraße,3,a,54.08118582,9.29457593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyF,25725,Tensbüttel-Röst,Dorfstraße,4,,54.0803935,9.2942774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyG,25725,Tensbüttel-Röst,Dorfstraße,5,,54.081241,9.29488628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyH,25725,Tensbüttel-Röst,Dorfstraße,6,,54.08057801,9.29439726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyI,25725,Tensbüttel-Röst,Dorfstraße,7,,54.08134317,9.29521809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyJ,25725,Tensbüttel-Röst,Dorfstraße,8,,54.08095922,9.29486406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyK,25725,Tensbüttel-Röst,Dorfstraße,9,,54.08144109,9.29546748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyL,25725,Tensbüttel-Röst,Dückerswischer Straße,1,,54.0596521,9.30076485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyM,25725,Tensbüttel-Röst,Dückerswischer Straße,10,,54.056637,9.30037726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyN,25725,Tensbüttel-Röst,Dückerswischer Straße,10,a,54.05634696,9.30045228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyO,25725,Tensbüttel-Röst,Dückerswischer Straße,11,,54.0568013,9.30090713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyP,25725,Tensbüttel-Röst,Dückerswischer Straße,12,,54.05619431,9.30047435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyQ,25725,Tensbüttel-Röst,Dückerswischer Straße,13,,54.05653618,9.30091706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyR,25725,Tensbüttel-Röst,Dückerswischer Straße,14,,54.0559061,9.30040046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyS,25725,Tensbüttel-Röst,Dückerswischer Straße,14,a,54.055683,9.30044098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyT,25725,Tensbüttel-Röst,Dückerswischer Straße,15,,54.0561738,9.30091838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyU,25725,Tensbüttel-Röst,Dückerswischer Straße,15,a,54.05554426,9.30097785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyV,25725,Tensbüttel-Röst,Dückerswischer Straße,15,b,54.05547958,9.30098059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyW,25725,Tensbüttel-Röst,Dückerswischer Straße,15,c,54.05519677,9.30096958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyX,25725,Tensbüttel-Röst,Dückerswischer Straße,16,,54.05540003,9.30042034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyY,25725,Tensbüttel-Röst,Dückerswischer Straße,16,a,54.055159,9.3004758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyZ,25725,Tensbüttel-Röst,Dückerswischer Straße,16,b,54.05499492,9.30047652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANya,25725,Tensbüttel-Röst,An Barg,11,,54.08537882,9.29593312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyb,25725,Tensbüttel-Röst,An Barg,12,,54.08565276,9.29625275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyc,25725,Tensbüttel-Röst,An Barg,14,,54.08591963,9.29611575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyd,25725,Tensbüttel-Röst,An Barg,16,,54.08585978,9.2958536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANye,25725,Tensbüttel-Röst,An Barg,18,,54.0857702,9.29548951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyf,25725,Tensbüttel-Röst,An Barg,2,,54.08469363,9.29649244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyg,25725,Tensbüttel-Röst,An Barg,3,,54.08450423,9.29614428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyh,25725,Tensbüttel-Röst,An Barg,4,,54.08485905,9.29646477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyi,25725,Tensbüttel-Röst,An Barg,5,,54.08466196,9.29597342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyj,25725,Tensbüttel-Röst,An Barg,6,,54.08511097,9.29652452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyk,25725,Tensbüttel-Röst,An Barg,7,,54.08495136,9.29608712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyl,25725,Tensbüttel-Röst,An Barg,8,,54.08530287,9.29646793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANym,25725,Tensbüttel-Röst,An Barg,9,,54.08516442,9.29603244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyn,25725,Tensbüttel-Röst,Dorfstraße,1,,54.0804071,9.29397315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyo,25725,Tensbüttel-Röst,Dorfstraße,1,a,54.08058616,9.29403339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyp,25725,Tensbüttel-Röst,Dorfstraße,10,,54.08131678,9.29577868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyq,25725,Tensbüttel-Röst,Dorfstraße,11,,54.08160484,9.2958031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyr,25725,Tensbüttel-Röst,Dorfstraße,12,,54.08151352,9.29607549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANys,25725,Tensbüttel-Röst,Dorfstraße,13,,54.0817875,9.29601573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyt,25725,Tensbüttel-Röst,Dorfstraße,14,,54.08166492,9.29633549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyu,25725,Tensbüttel-Röst,Dorfstraße,15,,54.08226046,9.29617616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyv,25725,Tensbüttel-Röst,Dorfstraße,16,,54.08258628,9.29645444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyx,25725,Tensbüttel-Röst,Dorfstraße,17,,54.08243397,9.29607139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyy,25725,Tensbüttel-Röst,Dorfstraße,17,a,54.08258429,9.29598411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANyz,25725,Tensbüttel-Röst,Dorfstraße,18,,54.083406,9.29580479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz0,25725,Tensbüttel-Röst,Dückerswischer Straße,17,,54.05467191,9.30095913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz1,25725,Tensbüttel-Röst,Dückerswischer Straße,18,,54.05474957,9.30049653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz2,25725,Tensbüttel-Röst,Dückerswischer Straße,19,,54.05440323,9.30102907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz3,25725,Tensbüttel-Röst,Dückerswischer Straße,2,,54.06004556,9.30023843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz4,25725,Tensbüttel-Röst,Dückerswischer Straße,2,a,54.0602589,9.30014902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz5,25725,Tensbüttel-Röst,Dückerswischer Straße,20,,54.05428045,9.30068071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz6,25725,Tensbüttel-Röst,Dückerswischer Straße,20,a,54.05407193,9.30049859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz7,25725,Tensbüttel-Röst,Dückerswischer Straße,20,b,54.05368024,9.30064224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz8,25725,Tensbüttel-Röst,Dückerswischer Straße,21,,54.05414182,9.30100108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANz9,25725,Tensbüttel-Röst,Dückerswischer Straße,22,,54.05334458,9.30061878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzA,25725,Tensbüttel-Röst,Kanalweg,6,,54.0571576,9.30481845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzB,25725,Tensbüttel-Röst,Kanalweg,8,,54.05667602,9.30678499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzC,25725,Tensbüttel-Röst,Lehmberg,1,,54.05132119,9.30497908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzD,25725,Tensbüttel-Röst,Süderweg,1,,54.04991576,9.29698369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzE,25725,Tensbüttel-Röst,Süderweg,11,,54.05279427,9.28996444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzF,25725,Tensbüttel-Röst,Süderweg,13,,54.05381284,9.29091574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzG,25725,Tensbüttel-Röst,Süderweg,15,,54.05482651,9.29493554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzH,25725,Tensbüttel-Röst,Süderweg,2,,54.05047906,9.29480819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzI,25725,Tensbüttel-Röst,Süderweg,3,,54.05024724,9.29470529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzJ,25725,Tensbüttel-Röst,Süderweg,3,a,54.05035158,9.29412291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzK,25725,Tensbüttel-Röst,Süderweg,5,,54.05061435,9.29354662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzL,25725,Tensbüttel-Röst,Süderweg,7,,54.05081335,9.29292639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzM,25725,Tensbüttel-Röst,Süderweg,9,,54.05216318,9.28942687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzN,25725,Tensbüttel-Röst,Westweg,1,,54.05973726,9.29841643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzO,25725,Tensbüttel-Röst,Westweg,2,,54.05948856,9.29784701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzP,25725,Tensbüttel-Röst,Westweg,2,a,54.05923431,9.29775793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzQ,25725,Tensbüttel-Röst,Westweg,3,,54.05156156,9.2956181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzR,25725,Tensbüttel-Röst,Westweg,4,,54.05884766,9.29750083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzS,25725,Tensbüttel-Röst,Westweg,6,,54.05695242,9.29653869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzT,25725,Tensbüttel-Röst,Westweg,8,,54.0521768,9.29459357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzU,25725,Tensbüttel-Röst,Schulweg,1,,54.05448828,9.30054815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzV,25725,Tensbüttel-Röst,Schulweg,1,a,54.05449863,9.30016852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzW,25725,Tensbüttel-Röst,Schulweg,11,,54.05460222,9.29797296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzX,25725,Tensbüttel-Röst,Schulweg,2,,54.05471012,9.29994549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzY,25725,Tensbüttel-Röst,Schulweg,2,a,54.05475642,9.29946465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzZ,25725,Tensbüttel-Röst,Schulweg,2,b,54.05476514,9.29880948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANza,25725,Tensbüttel-Röst,Dückerswischer Straße,23,,54.05383211,9.30110238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzb,25725,Tensbüttel-Röst,Dückerswischer Straße,24,,54.05286608,9.30048886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzc,25725,Tensbüttel-Röst,Dückerswischer Straße,24,a,54.0526204,9.30065246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzd,25725,Tensbüttel-Röst,Dückerswischer Straße,25,,54.05163196,9.30133344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANze,25725,Tensbüttel-Röst,Dückerswischer Straße,26,,54.05213892,9.30005915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzf,25725,Tensbüttel-Röst,Dückerswischer Straße,27,,54.04987261,9.30164855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzg,25725,Tensbüttel-Röst,Dückerswischer Straße,28,,54.0521487,9.3006802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzh,25725,Tensbüttel-Röst,Dückerswischer Straße,29,,54.04648991,9.29899379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzi,25725,Tensbüttel-Röst,Dückerswischer Straße,3,,54.05910968,9.30078316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzj,25725,Tensbüttel-Röst,Dückerswischer Straße,31,,54.04607212,9.29863653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzk,25725,Tensbüttel-Röst,Dückerswischer Straße,33,,54.04581344,9.29871288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzl,25725,Tensbüttel-Röst,Dückerswischer Straße,4,,54.05979492,9.30025309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzm,25725,Tensbüttel-Röst,Dückerswischer Straße,5,,54.05871075,9.3008009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzn,25725,Tensbüttel-Röst,Dückerswischer Straße,5,a,54.05794521,9.30083498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzo,25725,Tensbüttel-Röst,Dückerswischer Straße,6,,54.05961878,9.30027261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzp,25725,Tensbüttel-Röst,Dückerswischer Straße,7,,54.05745014,9.30086161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzq,25725,Tensbüttel-Röst,Dückerswischer Straße,8,,54.05918649,9.30028838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzr,25725,Tensbüttel-Röst,Dückerswischer Straße,8,a,54.0585474,9.30028552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzs,25725,Tensbüttel-Röst,Dückerswischer Straße,9,,54.05725225,9.30091653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzt,25725,Tensbüttel-Röst,Dückerswischer Straße,9,a,54.05697292,9.30088688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzu,25725,Tensbüttel-Röst,Kanalweg,1,,54.05847178,9.30150301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzv,25725,Tensbüttel-Röst,Kanalweg,2,,54.05834318,9.30095335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzw,25725,Tensbüttel-Röst,Kanalweg,3,,54.0579378,9.30336234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzx,25725,Tensbüttel-Röst,Kanalweg,4,,54.0581132,9.30173523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzy,25725,Tensbüttel-Röst,Kanalweg,5,,54.05704383,9.30661433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ANzz,25725,Tensbüttel-Röst,Kanalweg,5,a,54.05698187,9.30677441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQk7,25725,Tensbüttel-Röst,Krüzkamp,14,,54.08528981,9.30249448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQka,25725,Tensbüttel-Röst,Krüzkamp,12,,54.08516716,9.30273512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkd,25725,Tensbüttel-Röst,Krüzkamp,10,,54.08497556,9.30292342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkg,25725,Tensbüttel-Röst,Krüzkamp,8,,54.08478525,9.30311945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkj,25725,Tensbüttel-Röst,Krüzkamp,6,,54.08457884,9.30328766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkm,25725,Tensbüttel-Röst,Krüzkamp,4,,54.0843576,9.30342942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkp,25725,Tensbüttel-Röst,Krüzkamp,2,,54.08426634,9.30307436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQks,25725,Tensbüttel-Röst,Krüzkamp,1,,54.08464625,9.30293101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkv,25725,Tensbüttel-Röst,Krüzkamp,3,,54.08483444,9.30274635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IQkz,25725,Tensbüttel-Röst,Krüzkamp,5,,54.08501465,9.30257665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000517Am,25725,Tensbüttel-Röst,Lindenstraße,7,,54.08463834,9.30119344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Aw9G,25725,Tensbüttel-Röst,Lindenstraße,5,,54.08488789,9.30100846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Eeei,25725,Tensbüttel-Röst,Klint,1,,54.07942912,9.2924796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Eeen,25725,Tensbüttel-Röst,Klint,1,a,54.07928582,9.29207295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LZqk,25725,Tensbüttel-Röst,Lindenstraße,30,,54.08530817,9.30172971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Vww7,25725,Tensbüttel-Röst,Dorfstraße,23,,54.08317886,9.29554464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000622nH,25725,Tensbüttel-Röst,Buchenweg,6,,54.08351091,9.29854695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063SGO,25725,Tensbüttel-Röst,Buchenweg,5,,54.08360896,9.29814728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063SGY,25725,Tensbüttel-Röst,Buchenweg,5,a,54.08367375,9.29810856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069nYS,25725,Tensbüttel-Röst,Hauptstraße,10,a,54.08152491,9.292425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GsuC,25725,Tensbüttel-Röst,Hohenhörner Straße,20,,54.06732969,9.30371524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6J3,25725,Tensbüttel-Röst,Geestbarg,1,,54.08515496,9.29742653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6J7,25725,Tensbüttel-Röst,Geestbarg,3,,54.08534278,9.29734966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6JH,25725,Tensbüttel-Röst,Geestbarg,11,,54.08576862,9.29690805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6JL,25725,Tensbüttel-Röst,Geestbarg,13,,54.08604386,9.29670186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6JP,25725,Tensbüttel-Röst,Geestbarg,15,,54.08613534,9.29714592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6JT,25725,Tensbüttel-Röst,Geestbarg,17,,54.08635097,9.29667322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6JX,25725,Tensbüttel-Röst,Geestbarg,19,,54.08620176,9.29655489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Jb,25725,Tensbüttel-Röst,Geestbarg,5,,54.08552378,9.29704616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Je,25725,Tensbüttel-Röst,Geestbarg,7,,54.08565445,9.29750878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Jj,25725,Tensbüttel-Röst,Geestbarg,9,,54.08590441,9.29730733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6K1,25725,Tensbüttel-Röst,Geestbarg,21,,54.08639664,9.29630714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6K5,25725,Tensbüttel-Röst,Geestbarg,16,,54.08645546,9.29680882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6K9,25725,Tensbüttel-Röst,Geestbarg,14,,54.08652921,9.29720033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Kd,25725,Tensbüttel-Röst,Geestbarg,12,,54.08637619,9.29738648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Kh,25725,Tensbüttel-Röst,Geestbarg,10,,54.08617427,9.29745206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Kl,25725,Tensbüttel-Röst,Geestbarg,8,,54.0859518,9.29761817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Kp,25725,Tensbüttel-Röst,Geestbarg,6,,54.08569145,9.29782459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S6Kx,25725,Tensbüttel-Röst,Geestbarg,2,,54.0853842,9.29758595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YfxA,25725,Tensbüttel-Röst,Heisterbarg,29,a,54.08617381,9.30275075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YfxG,25725,Tensbüttel-Röst,Heisterbarg,29,b,54.08624313,9.30302951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006e5Ns,25725,Tensbüttel-Röst,Judenstraße,46,b,54.07736101,9.29943374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006e5Nx,25725,Tensbüttel-Röst,Oln Esch,12,a,54.08029331,9.29636611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJ6Q,25725,Tensbüttel-Röst,Dorfstraße,2,a,54.08003375,9.29412188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJ6R,25725,Tensbüttel-Röst,Dorfstraße,2,b,54.08003103,9.29427699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJ6S,25725,Tensbüttel-Röst,Dorfstraße,2,c,54.0800569,9.29441148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJ6T,25725,Tensbüttel-Röst,Dorfstraße,2,d,54.08006894,9.29447411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJ6U,25725,Tensbüttel-Röst,Dorfstraße,2,e,54.08011847,9.29498295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5qL,25725,Tensbüttel-Röst,Südblick,5,,54.04605783,9.21000397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5qS,25725,Tensbüttel-Röst,Südblick,7,,54.04601405,9.20969393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5qY,25725,Tensbüttel-Röst,Südblick,1,,54.04612445,9.2105894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5r7,25725,Tensbüttel-Röst,Südblick,9,,54.04595974,9.20929978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5rI,25725,Tensbüttel-Röst,Südblick,4,,54.04628444,9.21014238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5rW,25725,Tensbüttel-Röst,Südblick,6,,54.04624845,9.2097597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5ri,25725,Tensbüttel-Röst,Südblick,2,,54.0463441,9.21048302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5rj,25725,Tensbüttel-Röst,Südblick,8,,54.04621031,9.20943356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q5s1,25725,Tensbüttel-Röst,Südblick,3,,54.04609911,9.21026375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vfpC,25725,Tensbüttel-Röst,Hauptstraße,10,b,54.08206093,9.29177962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ycIA,25725,Tensbüttel-Röst,Kreinfot,1,a,54.05584204,9.30141059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Cugq,25725,Tensbüttel-Röst,Geestbarg,2,a,54.08549378,9.2976339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DHSB,25725,Tensbüttel-Röst,Hauptstraße,28,,54.08896419,9.25692638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aBlP,25725,Tensbüttel-Röst,Judenstraße,14,a,54.08222441,9.29897253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mlhb,25725,Tensbüttel-Röst,Dückerswischer Straße,22,a,54.05306899,9.30063984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085ffs,25725,Tensbüttel-Röst,Dorfstraße,14,a,54.08245507,9.29645873

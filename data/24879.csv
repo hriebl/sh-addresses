@@ -1,0 +1,867 @@
+# Amtliche Adressen für die Postleitzahl 24879
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nc5W,24879,Neuberend,Flensburger Straße,13,,54.59619448,9.48219161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPA,24879,Neuberend,Holzkrug,6,,54.56908425,9.49331136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPB,24879,Neuberend,Holzkrug,6,a,54.56940665,9.49119369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPC,24879,Neuberend,Holzkrug,8,,54.56865377,9.49302767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPD,24879,Neuberend,Idstedtwege,4,,54.56158016,9.50914801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPE,24879,Neuberend,Röhmke,1,,54.59140819,9.50873113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPF,24879,Neuberend,Röhmke,2,,54.59191419,9.50909143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPG,24879,Neuberend,Röhmke,3,,54.59174098,9.50876282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPH,24879,Neuberend,Röhmke,5,,54.59392866,9.50723963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPI,24879,Neuberend,Alter Stolker Weg,1,,54.58691412,9.51496558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPJ,24879,Neuberend,Alter Stolker Weg,10,,54.5876739,9.51686942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPK,24879,Neuberend,Alter Stolker Weg,11,,54.58772881,9.51603354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPL,24879,Neuberend,Alter Stolker Weg,12,,54.58781307,9.51717124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPM,24879,Neuberend,Alter Stolker Weg,13,,54.58775508,9.51632404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPN,24879,Neuberend,Alter Stolker Weg,14,,54.58794744,9.51737914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPO,24879,Neuberend,Alter Stolker Weg,15,,54.58801207,9.51704408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPP,24879,Neuberend,Alter Stolker Weg,16,,54.58820996,9.51770968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPQ,24879,Neuberend,Alter Stolker Weg,17,,54.58859214,9.51697893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPR,24879,Neuberend,Alter Stolker Weg,18,,54.58844667,9.51761111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPS,24879,Neuberend,Alter Stolker Weg,19,,54.58846747,9.51719903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPT,24879,Neuberend,Alter Stolker Weg,2,,54.58709956,9.51546156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPU,24879,Neuberend,Alter Stolker Weg,4,,54.58729183,9.51591103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPV,24879,Neuberend,Alter Stolker Weg,4,a,54.58724523,9.51599469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPW,24879,Neuberend,Alter Stolker Weg,5,,54.58740759,9.51515796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPX,24879,Neuberend,Alter Stolker Weg,6,,54.58742798,9.51628108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPY,24879,Neuberend,Alter Stolker Weg,7,,54.58744563,9.51549075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPZ,24879,Neuberend,Alter Stolker Weg,8,,54.5875431,9.51654698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPh,24879,Neuberend,Idstedtkirche,1,,54.57726836,9.4955685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPi,24879,Neuberend,Idstedtkirche,2,,54.5792379,9.50053358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPj,24879,Neuberend,Idstedtkirche,3,,54.5769732,9.49406035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPk,24879,Neuberend,Idstedtkirche,4,,54.57717538,9.49348192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPl,24879,Neuberend,Idstedtkirche,5,,54.57653179,9.49356743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPm,24879,Neuberend,Idstedtkirche,6,,54.57658351,9.48963918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPn,24879,Neuberend,Idstedtkirche,7,,54.57593136,9.48484552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPo,24879,Neuberend,Holzkrug,1,,54.56998418,9.49390774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPp,24879,Neuberend,Holzkrug,10,,54.56852315,9.49280798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPq,24879,Neuberend,Holzkrug,12,,54.56830589,9.49299548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPr,24879,Neuberend,Holzkrug,14,,54.56793,9.49303184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPs,24879,Neuberend,Holzkrug,16,,54.56717728,9.4929468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPt,24879,Neuberend,Holzkrug,18,,54.56671919,9.49278135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPu,24879,Neuberend,Holzkrug,2,,54.56995738,9.49245996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPv,24879,Neuberend,Holzkrug,20,,54.56549535,9.49309446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPw,24879,Neuberend,Holzkrug,22,,54.56431257,9.49219219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPx,24879,Neuberend,Holzkrug,3,,54.56631861,9.49364839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPy,24879,Neuberend,Holzkrug,4,,54.5693528,9.49332936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdPz,24879,Neuberend,Holzkrug,5,,54.56601081,9.49364263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ0,24879,Neuberend,Alter Stolker Weg,9,,54.58761627,9.51562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ1,24879,Neuberend,Am Sportplatz,1,,54.5832767,9.50966358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ2,24879,Neuberend,Am Sportplatz,11,,54.58337108,9.50689126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ3,24879,Neuberend,Am Sportplatz,13,,54.58333454,9.50663036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ4,24879,Neuberend,Am Sportplatz,16,,54.58420487,9.50517886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ5,24879,Neuberend,Am Sportplatz,3,,54.58311094,9.50891626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ6,24879,Neuberend,Am Sportplatz,3,a,54.58278741,9.50873297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ7,24879,Neuberend,Am Sportplatz,5,,54.58330579,9.50833624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ8,24879,Neuberend,Am Sportplatz,7,,54.58337552,9.50801763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQ9,24879,Neuberend,Am Sportplatz,9,,54.5834,9.50740843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQA,24879,Neuberend,Dorfstraße,35,,54.58468462,9.50956389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQB,24879,Neuberend,Dorfstraße,35,a,54.58442168,9.50962727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQC,24879,Neuberend,Dorfstraße,36,,54.5858798,9.51143142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQD,24879,Neuberend,Dorfstraße,36,a,54.58588045,9.51181508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQE,24879,Neuberend,Dorfstraße,37,,54.58506181,9.51011333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQF,24879,Neuberend,Dorfstraße,38,,54.58587114,9.51197419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQG,24879,Neuberend,Dorfstraße,39,,54.58518071,9.51039119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQH,24879,Neuberend,Dorfstraße,4,,54.58067714,9.50851251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQI,24879,Neuberend,Dorfstraße,4,a,54.58068883,9.50861869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQJ,24879,Neuberend,Dorfstraße,4,b,54.58076417,9.50891294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQK,24879,Neuberend,Dorfstraße,40,,54.5858639,9.51234655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQL,24879,Neuberend,Dorfstraße,41,,54.5854112,9.51042853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQM,24879,Neuberend,Dorfstraße,42,,54.58574745,9.51268699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQN,24879,Neuberend,Dorfstraße,44,,54.58555617,9.51313518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQO,24879,Neuberend,Dorfstraße,45,,54.58613179,9.51176614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQP,24879,Neuberend,Dorfstraße,46,,54.58550782,9.51346356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQQ,24879,Neuberend,Dorfstraße,47,,54.58612894,9.51212297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQR,24879,Neuberend,Dorfstraße,48,,54.58525905,9.51380541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQS,24879,Neuberend,Dorfstraße,49,,54.58599559,9.51292582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQT,24879,Neuberend,Dorfstraße,5,,54.58129392,9.50922605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQU,24879,Neuberend,Dorfstraße,50,,54.58476419,9.51418985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQV,24879,Neuberend,Dorfstraße,50,a,54.58554969,9.51412997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQW,24879,Neuberend,Dorfstraße,50,b,54.58559871,9.51422611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQX,24879,Neuberend,Dorfstraße,51,,54.58587275,9.513385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQY,24879,Neuberend,Dorfstraße,52,,54.5857848,9.51454934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQZ,24879,Neuberend,Dorfstraße,53,,54.58584044,9.51359228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQa,24879,Neuberend,Dorfstraße,1,,54.58053462,9.50670623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQb,24879,Neuberend,Dorfstraße,1,a,54.58063046,9.50719163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQc,24879,Neuberend,Dorfstraße,10,,54.58119381,9.51028245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQd,24879,Neuberend,Dorfstraße,12,,54.58154372,9.51084733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQe,24879,Neuberend,Dorfstraße,13,,54.58187817,9.51096702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQf,24879,Neuberend,Dorfstraße,14,,54.58156042,9.5109882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQg,24879,Neuberend,Dorfstraße,15,,54.5821422,9.51125766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQh,24879,Neuberend,Dorfstraße,16,,54.58192923,9.51165425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQi,24879,Neuberend,Dorfstraße,17,,54.58253296,9.5114775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQj,24879,Neuberend,Dorfstraße,18,,54.58259617,9.51172839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQk,24879,Neuberend,Dorfstraße,19,,54.58274568,9.51118123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQl,24879,Neuberend,Dorfstraße,20,,54.58285951,9.51157749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQm,24879,Neuberend,Dorfstraße,23,,54.58315428,9.51099041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQn,24879,Neuberend,Dorfstraße,24,,54.5833771,9.51111635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQo,24879,Neuberend,Dorfstraße,25,,54.58350725,9.51081232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQp,24879,Neuberend,Dorfstraße,26,,54.58395465,9.51098909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQq,24879,Neuberend,Dorfstraße,26,a,54.5837934,9.51105571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQr,24879,Neuberend,Dorfstraße,27,,54.58388053,9.51065728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQs,24879,Neuberend,Dorfstraße,27,a,54.58408615,9.51051779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQt,24879,Neuberend,Dorfstraße,28,,54.58425067,9.51083513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQu,24879,Neuberend,Dorfstraße,29,,54.58435306,9.51045373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQv,24879,Neuberend,Dorfstraße,3,,54.58096251,9.5085107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQw,24879,Neuberend,Dorfstraße,30,,54.5845364,9.51082458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQx,24879,Neuberend,Dorfstraße,31,,54.58454216,9.51038592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQy,24879,Neuberend,Dorfstraße,33,,54.58469682,9.51033693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdQz,24879,Neuberend,Dorfstraße,34,,54.58554914,9.51124712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR0,24879,Neuberend,Dorfstraße,53,a,54.58579784,9.5138991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR1,24879,Neuberend,Dorfstraße,54,,54.58602194,9.51467537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR2,24879,Neuberend,Dorfstraße,55,,54.58598604,9.51415596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR3,24879,Neuberend,Dorfstraße,56,,54.58621343,9.51499072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR4,24879,Neuberend,Dorfstraße,57,,54.58633427,9.51433374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR5,24879,Neuberend,Dorfstraße,58,,54.58632866,9.5152035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR6,24879,Neuberend,Dorfstraße,59,,54.58678439,9.51552208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR7,24879,Neuberend,Dorfstraße,6,,54.58096921,9.50916338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR8,24879,Neuberend,Dorfstraße,60,,54.58640555,9.51548312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdR9,24879,Neuberend,Dorfstraße,61,,54.58691456,9.51593878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRA,24879,Neuberend,Neuberender Weg,7,a,54.57792832,9.51890015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRB,24879,Neuberend,Neuberender Weg,8,,54.58144113,9.51226196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRC,24879,Neuberend,Neuberender Weg,9,,54.57232956,9.51442586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRD,24879,Neuberend,Nordheider Weg,1,,54.58808213,9.51150745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRE,24879,Neuberend,Nordheider Weg,10,,54.58811307,9.51280916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRF,24879,Neuberend,Nordheider Weg,11,,54.5886266,9.51317359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRG,24879,Neuberend,Nordheider Weg,12,,54.58819842,9.51318181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRH,24879,Neuberend,Nordheider Weg,13,,54.58837275,9.51349263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRI,24879,Neuberend,Nordheider Weg,14,,54.58799864,9.51362697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRJ,24879,Neuberend,Nordheider Weg,15,,54.58827895,9.51371353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRK,24879,Neuberend,Nordheider Weg,16,,54.58785532,9.51386219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRL,24879,Neuberend,Nordheider Weg,17,,54.58818964,9.51395466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRM,24879,Neuberend,Nordheider Weg,18,,54.58769718,9.51413326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRN,24879,Neuberend,Nordheider Weg,19,,54.58806589,9.51413292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRO,24879,Neuberend,Nordheider Weg,2,,54.58773691,9.51168606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRP,24879,Neuberend,Nordheider Weg,20,,54.58759415,9.51440591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRQ,24879,Neuberend,Nordheider Weg,21,,54.58795481,9.51429252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRR,24879,Neuberend,Nordheider Weg,22,,54.58747533,9.51462403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRS,24879,Neuberend,Nordheider Weg,23,,54.5878302,9.51455019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRT,24879,Neuberend,Nordheider Weg,23,a,54.58777518,9.51465195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRU,24879,Neuberend,Nordheider Weg,24,,54.58732153,9.51484641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRV,24879,Neuberend,Nordheider Weg,25,,54.58759422,9.51481936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRW,24879,Neuberend,Nordheider Weg,27,,54.58771917,9.51516588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRX,24879,Neuberend,Nordheider Weg,3,,54.5881912,9.51178767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRY,24879,Neuberend,Nordheider Weg,4,,54.58789202,9.5119813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRZ,24879,Neuberend,Nordheider Weg,5,,54.58828465,9.51215575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRa,24879,Neuberend,Dorfstraße,62,,54.5865126,9.51572029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRb,24879,Neuberend,Dorfstraße,63,,54.58704432,9.51634698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRc,24879,Neuberend,Dorfstraße,64,,54.5866239,9.51600762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRd,24879,Neuberend,Dorfstraße,65,,54.58714613,9.51699299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRe,24879,Neuberend,Dorfstraße,66,,54.58668853,9.51629904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRf,24879,Neuberend,Dorfstraße,67,,54.58718047,9.51729398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRg,24879,Neuberend,Dorfstraße,68,,54.58674267,9.51657648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRh,24879,Neuberend,Dorfstraße,69,,54.58722617,9.51768741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRi,24879,Neuberend,Dorfstraße,7,,54.58137552,9.50941829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRj,24879,Neuberend,Dorfstraße,70,,54.58680356,9.51688596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRk,24879,Neuberend,Dorfstraße,74,,54.58686621,9.51733384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRl,24879,Neuberend,Dorfstraße,8,,54.5810256,9.50946741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRm,24879,Neuberend,Dorfstraße,9,,54.58153875,9.50980311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRn,24879,Neuberend,Neuberender Weg,10,,54.58120179,9.5124028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRo,24879,Neuberend,Neuberender Weg,11,,54.56615238,9.51799555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRp,24879,Neuberend,Neuberender Weg,12,,54.57670423,9.51428857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRq,24879,Neuberend,Neuberender Weg,13,,54.56362201,9.52171727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRr,24879,Neuberend,Neuberender Weg,14,,54.57332881,9.51382364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRs,24879,Neuberend,Neuberender Weg,16,,54.57082744,9.51386305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRt,24879,Neuberend,Neuberender Weg,18,,54.56637181,9.51740331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRu,24879,Neuberend,Neuberender Weg,2,,54.58173515,9.51188184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRv,24879,Neuberend,Neuberender Weg,3,,54.58143318,9.51289138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRw,24879,Neuberend,Neuberender Weg,4,,54.58152078,9.51204186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRx,24879,Neuberend,Neuberender Weg,5,,54.58121849,9.5129207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRy,24879,Neuberend,Neuberender Weg,6,,54.58162776,9.51230038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdRz,24879,Neuberend,Neuberender Weg,7,,54.5779681,9.51883007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS0,24879,Neuberend,Nordheider Weg,6,,54.5878977,9.51229583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS1,24879,Neuberend,Nordheider Weg,7,,54.58841922,9.51243555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS2,24879,Neuberend,Nordheider Weg,7,a,54.58856412,9.51237725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS3,24879,Neuberend,Nordheider Weg,8,,54.58795706,9.51257463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS4,24879,Neuberend,Nordheider Weg,9,,54.58850354,9.512793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS5,24879,Neuberend,Pfuhlwattweg,10,,54.58659921,9.50900357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS6,24879,Neuberend,Pfuhlwattweg,11,,54.58632804,9.50857127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS7,24879,Neuberend,Pfuhlwattweg,12,,54.58659252,9.50839908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS8,24879,Neuberend,Pfuhlwattweg,13,,54.58633533,9.50823724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdS9,24879,Neuberend,Pfuhlwattweg,14,,54.58652295,9.50803461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSA,24879,Neuberend,Pfuhlwattweg,6,,54.5866085,9.50985062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSB,24879,Neuberend,Pfuhlwattweg,7,,54.58632934,9.50934649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSC,24879,Neuberend,Pfuhlwattweg,8,,54.58660524,9.50940866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSD,24879,Neuberend,Pfuhlwattweg,9,,54.58634723,9.50899153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSE,24879,Neuberend,Röhmker Weg,10,,54.58729423,9.51164867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSF,24879,Neuberend,Röhmker Weg,11,,54.5876497,9.51104839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSG,24879,Neuberend,Röhmker Weg,12,,54.58743203,9.51161815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSH,24879,Neuberend,Röhmker Weg,13,,54.58785491,9.51092896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSI,24879,Neuberend,Röhmker Weg,15,,54.58800174,9.51085536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSJ,24879,Neuberend,Röhmker Weg,15,a,54.58807343,9.51085143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSK,24879,Neuberend,Röhmker Weg,17,,54.58822196,9.51084094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSL,24879,Neuberend,Röhmker Weg,2,,54.58658057,9.5118298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSM,24879,Neuberend,Röhmker Weg,3,,54.58671598,9.51131246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSN,24879,Neuberend,Röhmker Weg,4,,54.5868188,9.51175795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSO,24879,Neuberend,Röhmker Weg,5,,54.58711212,9.51116801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSP,24879,Neuberend,Röhmker Weg,6,,54.58699764,9.51172633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSQ,24879,Neuberend,Röhmker Weg,7,,54.5872902,9.51104558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSR,24879,Neuberend,Röhmker Weg,8,,54.58715423,9.51167625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSS,24879,Neuberend,Röhmker Weg,9,,54.58747411,9.51106294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdST,24879,Neuberend,Schulberg,10,,54.58236613,9.50963753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSU,24879,Neuberend,Schulberg,12,,54.58217853,9.50936225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSV,24879,Neuberend,Schulberg,13,,54.58207795,9.50972964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSW,24879,Neuberend,Schulberg,14,,54.5822016,9.50866891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSX,24879,Neuberend,Schulberg,15,,54.58181971,9.5095263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSY,24879,Neuberend,Schulberg,16,,54.58177176,9.50898508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSZ,24879,Neuberend,Schulberg,18,,54.5815743,9.50878329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSa,24879,Neuberend,Pfuhlwattweg,15,,54.58629479,9.50793915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSb,24879,Neuberend,Pfuhlwattweg,16,,54.58662071,9.50756886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSc,24879,Neuberend,Pfuhlwattweg,17,,54.5863179,9.50761461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSd,24879,Neuberend,Pfuhlwattweg,18,a,54.58656512,9.50703298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSe,24879,Neuberend,Pfuhlwattweg,19,,54.5862588,9.50733718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSf,24879,Neuberend,Pfuhlwattweg,2,,54.58618211,9.51111805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSg,24879,Neuberend,Pfuhlwattweg,20,,54.58648873,9.50622961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSh,24879,Neuberend,Pfuhlwattweg,21,,54.58630053,9.50695594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSi,24879,Neuberend,Pfuhlwattweg,22,,54.58638664,9.50559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSj,24879,Neuberend,Pfuhlwattweg,23,,54.58617738,9.50621026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSk,24879,Neuberend,Pfuhlwattweg,24,,54.58634561,9.50515267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSl,24879,Neuberend,Pfuhlwattweg,25,,54.58616459,9.50592854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSm,24879,Neuberend,Pfuhlwattweg,26,,54.58639571,9.50444597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSn,24879,Neuberend,Pfuhlwattweg,27,,54.58614667,9.50579547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSo,24879,Neuberend,Pfuhlwattweg,29,,54.58610948,9.5054472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSp,24879,Neuberend,Pfuhlwattweg,3,,54.58618827,9.51029434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSq,24879,Neuberend,Pfuhlwattweg,30,,54.58631044,9.50400992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSr,24879,Neuberend,Pfuhlwattweg,31,,54.58606905,9.50496853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSs,24879,Neuberend,Pfuhlwattweg,33,,54.58607038,9.50457184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSt,24879,Neuberend,Pfuhlwattweg,34,,54.5866825,9.50372252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSu,24879,Neuberend,Pfuhlwattweg,35,,54.58601306,9.50414547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSv,24879,Neuberend,Pfuhlwattweg,36,,54.58878549,9.50151079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSw,24879,Neuberend,Pfuhlwattweg,4,,54.58653249,9.51029644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSx,24879,Neuberend,Pfuhlwattweg,41,,54.58464583,9.49558837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSy,24879,Neuberend,Pfuhlwattweg,42,,54.58504625,9.49590252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdSz,24879,Neuberend,Pfuhlwattweg,5,,54.58627221,9.50985623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT0,24879,Neuberend,Schulberg,18,a,54.58137384,9.50855436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT1,24879,Neuberend,Schulberg,2,,54.58383887,9.51006473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT2,24879,Neuberend,Schulberg,20,,54.58121757,9.50837308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT3,24879,Neuberend,Schulberg,22,,54.5809538,9.50791778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT4,24879,Neuberend,Schulberg,3,,54.58314525,9.51014079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT5,24879,Neuberend,Schulberg,4,,54.58360149,9.50978074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT6,24879,Neuberend,Schulberg,5,,54.58296771,9.51011236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT7,24879,Neuberend,Schulberg,6,,54.58306119,9.50985504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT8,24879,Neuberend,Schulberg,7,,54.58262808,9.51029316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdT9,24879,Neuberend,Schulberg,8,,54.58289019,9.50975512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTA,24879,Neuberend,Flensburger Straße,5,,54.58923175,9.49393637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTB,24879,Neuberend,Flensburger Straße,6,,54.59518735,9.48918694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTC,24879,Neuberend,Flensburger Straße,7,,54.59409443,9.48800119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTD,24879,Neuberend,Flensburger Straße,9,,54.59527489,9.48665809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTE,24879,Neuberend,Harkweg,2,,54.5876008,9.48509219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTF,24879,Neuberend,Harkweg,4,,54.58756767,9.48408544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTH,24879,Neuberend,Munkweg,1,,54.58988513,9.5064741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTI,24879,Neuberend,Munkweg,2,,54.59467573,9.49757084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTJ,24879,Neuberend,Munkweg,4,,54.59482822,9.49666679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTK,24879,Neuberend,Osterfeld,1,,54.58176793,9.52977418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTL,24879,Neuberend,Osterfeld,2,,54.5841624,9.52753833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTM,24879,Neuberend,Osterfeld,3,,54.58176466,9.53404732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTN,24879,Neuberend,Osterfeld,4,,54.57753447,9.52598905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTO,24879,Neuberend,Osterfeld,5,,54.57703533,9.52656263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTP,24879,Neuberend,Osterfeld,6,,54.57653036,9.5247961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTQ,24879,Neuberend,Osterfeld,7,,54.5727332,9.52469862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTR,24879,Neuberend,Osterfeld,8,,54.57450042,9.52460254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTS,24879,Neuberend,Osterfeld,9,,54.57243618,9.52499567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTT,24879,Neuberend,Nordheider Ring,1,,54.5885733,9.51073122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTU,24879,Neuberend,Nordheider Ring,10,,54.58913501,9.51012797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTV,24879,Neuberend,Nordheider Ring,11,,54.58912057,9.50909892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTW,24879,Neuberend,Nordheider Ring,12,,54.58921825,9.5105422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTX,24879,Neuberend,Nordheider Ring,13,,54.58934211,9.50895139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTY,24879,Neuberend,Nordheider Ring,14,,54.58943954,9.510296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTZ,24879,Neuberend,Nordheider Ring,15,,54.5895522,9.50890229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTa,24879,Neuberend,Schulberg,9,,54.58272001,9.51056578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTb,24879,Neuberend,Zur Kühle,1,,54.58682407,9.51280784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTc,24879,Neuberend,Zur Kühle,10,,54.58645973,9.51342167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTd,24879,Neuberend,Zur Kühle,11,,54.587161,9.51384796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTe,24879,Neuberend,Zur Kühle,12,,54.58644331,9.51368722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTf,24879,Neuberend,Zur Kühle,13,,54.58675271,9.51387555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTg,24879,Neuberend,Zur Kühle,14,,54.58647286,9.5140542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTh,24879,Neuberend,Zur Kühle,15,,54.58682814,9.51441288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTi,24879,Neuberend,Zur Kühle,17,,54.58659332,9.51475218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTj,24879,Neuberend,Zur Kühle,2,,54.5865636,9.51225853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTk,24879,Neuberend,Zur Kühle,3,,54.58677933,9.51325546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTl,24879,Neuberend,Zur Kühle,4,,54.58655273,9.51257054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTm,24879,Neuberend,Zur Kühle,5,,54.58696136,9.51332221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTn,24879,Neuberend,Zur Kühle,6,,54.5865193,9.51284477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTo,24879,Neuberend,Zur Kühle,7,,54.58713149,9.51307936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTp,24879,Neuberend,Zur Kühle,8,,54.58649454,9.51311553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTq,24879,Neuberend,Zur Kühle,9,,54.5873179,9.5132498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTr,24879,Neuberend,Alte Landstraße,1,,54.57511738,9.49604791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTs,24879,Neuberend,Alte Landstraße,1,a,54.57377489,9.49544681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTt,24879,Neuberend,Alte Landstraße,2,,54.57570515,9.49533916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTu,24879,Neuberend,Alte Landstraße,3,,54.57303236,9.49464654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTv,24879,Neuberend,Flensburger Straße,1,,54.58045481,9.49441415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTw,24879,Neuberend,Flensburger Straße,11,,54.59544949,9.48637425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTx,24879,Neuberend,Flensburger Straße,2,,54.58745353,9.4955038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTy,24879,Neuberend,Flensburger Straße,3,,54.58862034,9.49410861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdTz,24879,Neuberend,Flensburger Straße,4,,54.59248824,9.4935153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU0,24879,Neuberend,Nordheider Ring,16,,54.58930544,9.50995399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU1,24879,Neuberend,Nordheider Ring,17,,54.58969778,9.50882171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU2,24879,Neuberend,Nordheider Ring,18,,54.58920693,9.50952425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU3,24879,Neuberend,Nordheider Ring,19,,54.58984114,9.50917957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU4,24879,Neuberend,Nordheider Ring,2,,54.58879782,9.51067247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU5,24879,Neuberend,Nordheider Ring,20,,54.58959494,9.50925793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU6,24879,Neuberend,Nordheider Ring,21,,54.5898477,9.50951078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU7,24879,Neuberend,Nordheider Ring,22,,54.58964077,9.50972577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU8,24879,Neuberend,Nordheider Ring,23,,54.58894264,9.51125412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdU9,24879,Neuberend,Nordheider Ring,24,,54.58968178,9.51012725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUa,24879,Neuberend,Nordheider Ring,25,,54.58895271,9.51157739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUb,24879,Neuberend,Nordheider Ring,26,,54.58862475,9.51132257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUc,24879,Neuberend,Nordheider Ring,27,,54.5891426,9.51192741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUd,24879,Neuberend,Nordheider Ring,28,,54.58873658,9.51171518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUe,24879,Neuberend,Nordheider Ring,29,,54.58944011,9.5117271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUf,24879,Neuberend,Nordheider Ring,3,,54.58851836,9.5103228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUg,24879,Neuberend,Nordheider Ring,30,,54.58884064,9.51202432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUh,24879,Neuberend,Nordheider Ring,31,,54.58937129,9.51137816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUi,24879,Neuberend,Nordheider Ring,32,,54.58891721,9.51236268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUj,24879,Neuberend,Nordheider Ring,33,,54.58929639,9.51106664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUk,24879,Neuberend,Nordheider Ring,34,,54.58913663,9.51231483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUl,24879,Neuberend,Nordheider Ring,35,,54.58950691,9.51100733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUm,24879,Neuberend,Nordheider Ring,36,,54.58933684,9.5122146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUo,24879,Neuberend,Nordheider Ring,38,,54.58954608,9.51218843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUp,24879,Neuberend,Nordheider Ring,39,,54.58964654,9.51166419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUq,24879,Neuberend,Nordheider Ring,4,,54.58874326,9.5102911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUr,24879,Neuberend,Nordheider Ring,40,,54.58976393,9.51202274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUs,24879,Neuberend,Nordheider Ring,5,,54.58845175,9.50992004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUt,24879,Neuberend,Nordheider Ring,6,,54.58865801,9.50983439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUu,24879,Neuberend,Nordheider Ring,7,,54.58864794,9.50935855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUv,24879,Neuberend,Nordheider Ring,8,,54.58904778,9.50969981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NdUw,24879,Neuberend,Nordheider Ring,9,,54.58888814,9.50926535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8O,24879,Neuberend,Am Knick,1,,54.54948644,9.53465291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8P,24879,Neuberend,Am Knick,10,,54.54914782,9.53369316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8Q,24879,Neuberend,Am Knick,11,,54.54877001,9.53406421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8R,24879,Neuberend,Am Knick,13,,54.54887613,9.5337476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8S,24879,Neuberend,Am Knick,15,,54.54896625,9.53348907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8T,24879,Neuberend,Am Knick,17,,54.5490962,9.53317759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8U,24879,Neuberend,Am Knick,2,,54.54951385,9.53404372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8V,24879,Neuberend,Am Knick,3,,54.54937879,9.5349787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8W,24879,Neuberend,Am Knick,4,,54.54938761,9.53427969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8X,24879,Neuberend,Am Knick,5,,54.54925976,9.53524768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8Y,24879,Neuberend,Am Knick,6,,54.54928799,9.53451074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8Z,24879,Neuberend,Am Knick,7,,54.54908663,9.53483657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng90,24879,Neuberend,Am Knick,8,,54.5490774,9.53405333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng91,24879,Neuberend,Am Knick,9,,54.54890148,9.53440291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng92,24879,Neuberend,Drosselweg,1,,54.54883276,9.52986485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng93,24879,Neuberend,Drosselweg,2,,54.54862447,9.52977205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng94,24879,Neuberend,Drosselweg,4,,54.54853303,9.53006312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng95,24879,Neuberend,An der Mühle,11,,54.54697583,9.54092953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng96,24879,Neuberend,An der Mühle,13,,54.54691875,9.54138431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng97,24879,Neuberend,An der Mühle,15,,54.54736827,9.54190195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng98,24879,Neuberend,An der Mühle,17,a,54.54683465,9.54209441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng99,24879,Neuberend,An der Mühle,21,,54.54627591,9.54259047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9A,24879,Neuberend,Erikastraße,20,,54.55044456,9.53080872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9B,24879,Neuberend,Erikastraße,21,,54.55069441,9.5306314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9C,24879,Neuberend,Erikastraße,22,,54.55061836,9.53099449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9D,24879,Neuberend,Erikastraße,3,,54.54856702,9.52901436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9E,24879,Neuberend,Erikastraße,4,,54.54895804,9.52949942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9F,24879,Neuberend,Erikastraße,5,,54.54875921,9.52903514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9G,24879,Neuberend,Erikastraße,6,,54.5491442,9.52956148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9H,24879,Neuberend,Erikastraße,7,,54.54892236,9.52900619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9I,24879,Neuberend,Erikastraße,8,,54.54977947,9.53008267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9J,24879,Neuberend,Erikastraße,9,,54.54915244,9.52901373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9K,24879,Neuberend,Fuchsbau,1,,54.55287863,9.5203826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9L,24879,Neuberend,Fuchsbau,2,,54.55281794,9.52074013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9M,24879,Neuberend,Fuchsbau,3,,54.55306166,9.520057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9N,24879,Neuberend,Fuchsbau,4,,54.55305527,9.52079358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9O,24879,Neuberend,Fuchsbau,6,,54.55323917,9.52047734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9P,24879,Neuberend,Haarholmer Weg,10,,54.55301029,9.53758649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9Q,24879,Neuberend,Haarholmer Weg,2,,54.55030346,9.54027589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9R,24879,Neuberend,Haarholmer Weg,4,,54.55082727,9.53975772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9S,24879,Neuberend,Haarholmer Weg,6,,54.55142253,9.53901931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9T,24879,Neuberend,Haarholmer Weg,8,,54.55288726,9.53772304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9U,24879,Neuberend,Heideweg,1,,54.55028497,9.52848249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9V,24879,Neuberend,Heideweg,1,a,54.55017362,9.52878374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9W,24879,Neuberend,Heideweg,10,,54.54945955,9.52983168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9X,24879,Neuberend,Heideweg,12,,54.54933432,9.53010665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9Y,24879,Neuberend,Heideweg,14,,54.54920984,9.53045889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9Z,24879,Neuberend,Heideweg,2,,54.54995071,9.52851235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9a,24879,Neuberend,An der Mühle,23,,54.54589129,9.54280356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9b,24879,Neuberend,An der Mühle,25,,54.54568558,9.54299952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9c,24879,Neuberend,An der Mühle,3,,54.5469316,9.53920481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9d,24879,Neuberend,An der Mühle,5,,54.54693578,9.53959532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9e,24879,Neuberend,An der Mühle,9,,54.54695053,9.54056782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9f,24879,Neuberend,Fasanenweg,1,,54.54964695,9.52821249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9g,24879,Neuberend,Fasanenweg,10,,54.54905507,9.52817298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9h,24879,Neuberend,Fasanenweg,12,,54.54925502,9.52844923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9i,24879,Neuberend,Fasanenweg,2,,54.54939696,9.52780779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9j,24879,Neuberend,Fasanenweg,3,,54.54962679,9.52827045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9k,24879,Neuberend,Fasanenweg,4,,54.54911586,9.52768331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9l,24879,Neuberend,Fasanenweg,5,,54.54940149,9.52846346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9m,24879,Neuberend,Fasanenweg,6,,54.54883431,9.52784867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9n,24879,Neuberend,Fasanenweg,8,,54.5488576,9.52812264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9o,24879,Neuberend,Erikastraße,1,,54.5483291,9.5289191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9p,24879,Neuberend,Erikastraße,10,,54.55004358,9.53040275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9q,24879,Neuberend,Erikastraße,11,,54.54939599,9.5290218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9r,24879,Neuberend,Erikastraße,12,,54.5499136,9.53078352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9s,24879,Neuberend,Erikastraße,13,,54.54983926,9.5297475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9t,24879,Neuberend,Erikastraße,14,,54.54986944,9.53102589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9u,24879,Neuberend,Erikastraße,15,,54.55008464,9.52998642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9v,24879,Neuberend,Erikastraße,16,,54.55012749,9.53103062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9w,24879,Neuberend,Erikastraße,17,,54.55029907,9.53020631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9x,24879,Neuberend,Erikastraße,18,,54.55023337,9.53070115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9y,24879,Neuberend,Erikastraße,19,,54.55047541,9.53038977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng9z,24879,Neuberend,Erikastraße,2,,54.54861799,9.52941432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga0,24879,Neuberend,Heideweg,3,,54.55005553,9.5291097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga1,24879,Neuberend,Heideweg,4,,54.54982212,9.52887609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga2,24879,Neuberend,Heideweg,5,,54.54994696,9.52939509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga3,24879,Neuberend,Heideweg,6,,54.54972218,9.52915935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga4,24879,Neuberend,Heideweg,7,,54.54958142,9.53041835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga5,24879,Neuberend,Heideweg,7,a,54.54972784,9.53013291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga6,24879,Neuberend,Heideweg,8,,54.5496146,9.52944585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga7,24879,Neuberend,Heideweg,9,,54.54947855,9.5307338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga8,24879,Neuberend,Idstedtwege,1,,54.56174335,9.51155046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nga9,24879,Neuberend,Idstedtwege,5,,54.55561668,9.50600081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaA,24879,Neuberend,Klosterreihe,35,,54.54745782,9.53103245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaB,24879,Neuberend,Klosterreihe,36,,54.54815865,9.52990783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaC,24879,Neuberend,Klosterreihe,37,,54.54756703,9.53074638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaD,24879,Neuberend,Klosterreihe,38,,54.54819725,9.52963748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaE,24879,Neuberend,Klosterreihe,39,,54.54767182,9.53041256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaF,24879,Neuberend,Klosterreihe,40,,54.54824471,9.52931608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaG,24879,Neuberend,Klosterreihe,41,,54.54772577,9.53008209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaH,24879,Neuberend,Klosterreihe,42,,54.54834476,9.52859125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaI,24879,Neuberend,Klosterreihe,43,,54.54784135,9.5296762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaJ,24879,Neuberend,Klosterreihe,44,,54.54837331,9.52820382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaK,24879,Neuberend,Klosterreihe,45,,54.54786948,9.52926851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaL,24879,Neuberend,Klosterreihe,46,,54.54845156,9.52778614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaM,24879,Neuberend,Klosterreihe,47,,54.54798306,9.52874775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaN,24879,Neuberend,Klosterreihe,48,,54.54855391,9.52716076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaO,24879,Neuberend,Klosterreihe,48,a,54.54890608,9.52596478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaP,24879,Neuberend,Klosterreihe,49,,54.54814272,9.52819355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaQ,24879,Neuberend,Klosterreihe,50,,54.54897658,9.5255639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaR,24879,Neuberend,Klosterreihe,51,,54.54803067,9.52779705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaS,24879,Neuberend,Klosterreihe,52,,54.54926157,9.52505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaT,24879,Neuberend,Klosterreihe,53,,54.54807996,9.52761527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaU,24879,Neuberend,Klosterreihe,54,a,54.54932797,9.52416512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaV,24879,Neuberend,Klosterreihe,55,,54.54824566,9.52731027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaW,24879,Neuberend,Klosterreihe,55,a,54.54827387,9.52695324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaX,24879,Neuberend,Klosterreihe,56,,54.54962033,9.52442989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaY,24879,Neuberend,Klosterreihe,57,,54.54838799,9.52653512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgaZ,24879,Neuberend,Klosterreihe,58,,54.5495567,9.52371381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaa,24879,Neuberend,Kirchenweg,6,,54.55386835,9.54405854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngab,24879,Neuberend,Klosterreihe,111,,54.55094511,9.51723703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngac,24879,Neuberend,Klosterreihe,113,,54.55107654,9.51694437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngad,24879,Neuberend,Klosterreihe,115,,54.5511708,9.51668151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngae,24879,Neuberend,Klosterreihe,117,,54.55130808,9.51615327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaf,24879,Neuberend,Klosterreihe,119,,54.55028614,9.51127175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngag,24879,Neuberend,Klosterreihe,119,a,54.55036113,9.51131787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngah,24879,Neuberend,Klosterreihe,15,,54.54698385,9.53515505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngai,24879,Neuberend,Klosterreihe,17,,54.54697314,9.534521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaj,24879,Neuberend,Klosterreihe,18,,54.54747795,9.53319393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngak,24879,Neuberend,Klosterreihe,19,,54.54703227,9.53423782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngal,24879,Neuberend,Klosterreihe,20,,54.54751699,9.53279027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngam,24879,Neuberend,Klosterreihe,21,,54.5470335,9.53395958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngan,24879,Neuberend,Klosterreihe,22,,54.54754042,9.53268571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngao,24879,Neuberend,Klosterreihe,23,,54.54709191,9.53356932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngap,24879,Neuberend,Klosterreihe,24,,54.54761217,9.53232519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaq,24879,Neuberend,Klosterreihe,25,,54.54712824,9.53328346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngar,24879,Neuberend,Klosterreihe,26,,54.54765585,9.53201649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngas,24879,Neuberend,Klosterreihe,27,,54.54715675,9.53294068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngat,24879,Neuberend,Klosterreihe,28,,54.54791985,9.53156324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngau,24879,Neuberend,Klosterreihe,29,,54.54728834,9.53233552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngav,24879,Neuberend,Klosterreihe,30,,54.54802344,9.53114113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaw,24879,Neuberend,Klosterreihe,31,,54.54730149,9.53209862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngax,24879,Neuberend,Klosterreihe,32,,54.54831307,9.53084539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngay,24879,Neuberend,Klosterreihe,33,,54.54737066,9.5315392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngaz,24879,Neuberend,Klosterreihe,34,,54.54806662,9.53017834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb0,24879,Neuberend,Klosterreihe,61,,54.54845746,9.5259988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb1,24879,Neuberend,Klosterreihe,63,,54.54856201,9.52539687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb2,24879,Neuberend,Klosterreihe,65,,54.54863731,9.52511103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb3,24879,Neuberend,Klosterreihe,67,,54.54871526,9.52478278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb4,24879,Neuberend,Klosterreihe,69,,54.5488109,9.52442842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb5,24879,Neuberend,Klosterreihe,71,,54.54893893,9.52405831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb6,24879,Neuberend,Klosterreihe,73,,54.54908348,9.52361181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb7,24879,Neuberend,Klosterreihe,75,,54.54916572,9.5233256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb8,24879,Neuberend,Klosterreihe,77,,54.54928137,9.52279052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngb9,24879,Neuberend,Klosterreihe,86,,54.55109115,9.51740007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbA,24879,Neuberend,Meisenring,1,,54.55322392,9.5209757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbB,24879,Neuberend,Meisenring,11,,54.55265014,9.52229922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbC,24879,Neuberend,Meisenring,2,,54.5525879,9.52096002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbD,24879,Neuberend,Meisenring,3,,54.55310494,9.52129385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbE,24879,Neuberend,Meisenring,4,,54.55263425,9.52137946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbF,24879,Neuberend,Meisenring,5,,54.55281755,9.52131621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbG,24879,Neuberend,Meisenring,6,,54.55260667,9.5217858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbH,24879,Neuberend,Meisenring,7,,54.55292009,9.5216236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbI,24879,Neuberend,Meisenring,9,,54.55285978,9.52203521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbJ,24879,Neuberend,Mittelreihe,1,,54.54721431,9.53758878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbK,24879,Neuberend,Mittelreihe,10,,54.54829507,9.53713935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbL,24879,Neuberend,Mittelreihe,100,,54.55618867,9.52427763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbM,24879,Neuberend,Mittelreihe,101,,54.55623058,9.5236441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbN,24879,Neuberend,Mittelreihe,102,,54.55639046,9.52397987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbO,24879,Neuberend,Mittelreihe,102,a,54.55646927,9.52387974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbP,24879,Neuberend,Mittelreihe,103,,54.55631571,9.52347561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbQ,24879,Neuberend,Mittelreihe,104,,54.5566936,9.52359966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbR,24879,Neuberend,Mittelreihe,104,a,54.55675525,9.52368923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbS,24879,Neuberend,Mittelreihe,104,b,54.55679672,9.52340602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbT,24879,Neuberend,Mittelreihe,105,,54.55645993,9.52327116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbU,24879,Neuberend,Mittelreihe,106,,54.55690652,9.52318038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbV,24879,Neuberend,Mittelreihe,107,,54.55663586,9.52294782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbW,24879,Neuberend,Mittelreihe,108,,54.55714401,9.52276742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbX,24879,Neuberend,Mittelreihe,109,,54.55673098,9.52270425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbY,24879,Neuberend,Mittelreihe,11,,54.54834396,9.53649088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgbZ,24879,Neuberend,Mittelreihe,110,,54.55767715,9.52327029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngba,24879,Neuberend,Klosterreihe,86,b,54.55136495,9.51736381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbb,24879,Neuberend,Klosterreihe,88,,54.55143614,9.51673339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbc,24879,Neuberend,Klosterreihe,90,,54.55148631,9.51657283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbd,24879,Neuberend,Klosterreihe,92,,54.55183956,9.51571267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbe,24879,Neuberend,Klosterreihe,92,a,54.55176902,9.51495838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbf,24879,Neuberend,Klosterreihe,94,,54.55145317,9.51119499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbg,24879,Neuberend,Klosterreihe,96,,54.55011174,9.51082516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbh,24879,Neuberend,Klosterreihe,96,a,54.54987523,9.51074214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbi,24879,Neuberend,Lerchenweg,1,,54.55167036,9.52956613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbj,24879,Neuberend,Lerchenweg,10,,54.55102386,9.53088465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbk,24879,Neuberend,Lerchenweg,11,,54.55130328,9.53119571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbl,24879,Neuberend,Lerchenweg,12,,54.55086231,9.53133733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbm,24879,Neuberend,Lerchenweg,13,,54.55114542,9.53152427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbn,24879,Neuberend,Lerchenweg,14,,54.55071852,9.53158828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbo,24879,Neuberend,Lerchenweg,15,,54.55101558,9.5317104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbp,24879,Neuberend,Lerchenweg,17,,54.55084486,9.53193265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbq,24879,Neuberend,Lerchenweg,19,,54.55071406,9.53218492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbr,24879,Neuberend,Lerchenweg,2,,54.55138546,9.5295359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbs,24879,Neuberend,Lerchenweg,3,,54.55159304,9.529865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbt,24879,Neuberend,Lerchenweg,4,,54.55129049,9.52992859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbu,24879,Neuberend,Lerchenweg,5,,54.55153031,9.53015051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbv,24879,Neuberend,Lerchenweg,5,a,54.55150322,9.5302665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbw,24879,Neuberend,Lerchenweg,6,,54.55120985,9.53025019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbx,24879,Neuberend,Lerchenweg,7,,54.55140387,9.53052184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngby,24879,Neuberend,Lerchenweg,8,,54.55113248,9.53060508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngbz,24879,Neuberend,Lerchenweg,9,,54.55138243,9.53094053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc0,24879,Neuberend,Mittelreihe,111,,54.55732621,9.52220753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc1,24879,Neuberend,Mittelreihe,112,,54.55777898,9.52244896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc2,24879,Neuberend,Mittelreihe,113,,54.5574553,9.52207259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc3,24879,Neuberend,Mittelreihe,114,,54.55800644,9.52241618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc4,24879,Neuberend,Mittelreihe,115,,54.55758382,9.52193547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc5,24879,Neuberend,Mittelreihe,116,,54.55817522,9.52242579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc6,24879,Neuberend,Mittelreihe,117,,54.55800714,9.52201553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc7,24879,Neuberend,Mittelreihe,117,a,54.5578142,9.52156788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc8,24879,Neuberend,Mittelreihe,118,,54.55819959,9.52338418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngc9,24879,Neuberend,Mittelreihe,12,,54.54863943,9.53669212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcA,24879,Neuberend,Mittelreihe,45,,54.55141566,9.5323944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcB,24879,Neuberend,Mittelreihe,46,,54.55210377,9.53178371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcC,24879,Neuberend,Mittelreihe,47,,54.55166057,9.53198308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcD,24879,Neuberend,Mittelreihe,48,,54.55220127,9.5316138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcE,24879,Neuberend,Mittelreihe,48,a,54.55236144,9.53189312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcF,24879,Neuberend,Mittelreihe,49,,54.55181725,9.53163435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcG,24879,Neuberend,Mittelreihe,50,,54.55245121,9.53089874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcH,24879,Neuberend,Mittelreihe,51,,54.55198247,9.53132984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcI,24879,Neuberend,Mittelreihe,52,,54.55251508,9.53057502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcJ,24879,Neuberend,Mittelreihe,53,,54.55208856,9.53083555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcK,24879,Neuberend,Mittelreihe,54,,54.55263513,9.5303697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcL,24879,Neuberend,Mittelreihe,55,,54.55185065,9.53076054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcM,24879,Neuberend,Mittelreihe,56,,54.55272949,9.53010301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcN,24879,Neuberend,Mittelreihe,57,,54.55190748,9.53040106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcO,24879,Neuberend,Mittelreihe,58,,54.55278136,9.52971834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcP,24879,Neuberend,Mittelreihe,59,,54.55202262,9.53005205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcQ,24879,Neuberend,Mittelreihe,60,,54.55284174,9.52932039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcR,24879,Neuberend,Mittelreihe,61,,54.55225846,9.53036516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcS,24879,Neuberend,Mittelreihe,62,,54.55292095,9.52900235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcT,24879,Neuberend,Mittelreihe,63,,54.55269426,9.52846833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcU,24879,Neuberend,Mittelreihe,65,,54.55285439,9.52797323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcV,24879,Neuberend,Mittelreihe,66,,54.55303723,9.52855457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcW,24879,Neuberend,Mittelreihe,67,,54.55294592,9.52756652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcX,24879,Neuberend,Mittelreihe,68,,54.55305946,9.52815002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcY,24879,Neuberend,Mittelreihe,69,,54.55315597,9.52718775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgcZ,24879,Neuberend,Mittelreihe,70,,54.55324793,9.52768571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngca,24879,Neuberend,Mittelreihe,123,,54.55888677,9.5220876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcb,24879,Neuberend,Mittelreihe,13,,54.54862672,9.53625067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcc,24879,Neuberend,Mittelreihe,13,a,54.54852534,9.53649833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcd,24879,Neuberend,Mittelreihe,19,,54.54916193,9.53578899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngce,24879,Neuberend,Mittelreihe,20,,54.54953708,9.53596079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcf,24879,Neuberend,Mittelreihe,22,,54.54961107,9.53572954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcg,24879,Neuberend,Mittelreihe,24,,54.54983829,9.53515852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngch,24879,Neuberend,Mittelreihe,24,a,54.54995227,9.53480659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngci,24879,Neuberend,Mittelreihe,26,,54.55015439,9.53466372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcj,24879,Neuberend,Mittelreihe,26,a,54.55036158,9.53436402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngck,24879,Neuberend,Mittelreihe,26,b,54.55053717,9.53415639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcl,24879,Neuberend,Mittelreihe,28,,54.55071067,9.53394988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcm,24879,Neuberend,Mittelreihe,30,,54.55085282,9.53365909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcn,24879,Neuberend,Mittelreihe,31,,54.5503149,9.53340044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngco,24879,Neuberend,Mittelreihe,32,,54.55102434,9.53350999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcp,24879,Neuberend,Mittelreihe,33,,54.55051256,9.5333644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcq,24879,Neuberend,Mittelreihe,34,,54.55128061,9.53316525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcr,24879,Neuberend,Mittelreihe,35,,54.55072793,9.53325046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcs,24879,Neuberend,Mittelreihe,37,,54.55090297,9.5331403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngct,24879,Neuberend,Mittelreihe,38,,54.55160988,9.53275995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcu,24879,Neuberend,Mittelreihe,39,,54.55102279,9.53292198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcv,24879,Neuberend,Mittelreihe,40,,54.55174855,9.53253859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcw,24879,Neuberend,Mittelreihe,41,,54.55113089,9.53279987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcx,24879,Neuberend,Mittelreihe,42,,54.55187277,9.53227228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcy,24879,Neuberend,Mittelreihe,43,,54.55127003,9.53255413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngcz,24879,Neuberend,Mittelreihe,44,,54.55198435,9.53204258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd0,24879,Neuberend,Mittelreihe,71,,54.55330242,9.52677933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd1,24879,Neuberend,Mittelreihe,72,,54.55336245,9.52744622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd2,24879,Neuberend,Mittelreihe,73,,54.5534598,9.52649754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd3,24879,Neuberend,Mittelreihe,74,,54.55354741,9.52717835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd4,24879,Neuberend,Mittelreihe,75,,54.55364248,9.52638251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd5,24879,Neuberend,Mittelreihe,76,,54.55375923,9.52671054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd6,24879,Neuberend,Mittelreihe,77,,54.5538536,9.52621804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd7,24879,Neuberend,Mittelreihe,78,,54.55387237,9.5271038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd8,24879,Neuberend,Mittelreihe,79,,54.55409447,9.52603744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngd9,24879,Neuberend,Mittelreihe,8,,54.54796595,9.53750289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdA,24879,Neuberend,Moorweg,13,,54.54806435,9.53668221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdB,24879,Neuberend,Moorweg,14,,54.54773072,9.53622551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdC,24879,Neuberend,Moorweg,15,,54.54788882,9.53692194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdD,24879,Neuberend,Moorweg,17,,54.54764984,9.53712427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdE,24879,Neuberend,Moorweg,2,,54.54748664,9.53440146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdF,24879,Neuberend,Moorweg,3,,54.54769984,9.53485592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdG,24879,Neuberend,Moorweg,4,,54.54746657,9.5347243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdH,24879,Neuberend,Moorweg,5,,54.5476996,9.53519362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdI,24879,Neuberend,Moorweg,6,,54.54747348,9.53504948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdJ,24879,Neuberend,Moorweg,7,,54.54775302,9.53568984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdK,24879,Neuberend,Moorweg,8,,54.54752188,9.53537609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdL,24879,Neuberend,Moorweg,9,,54.54788516,9.53604994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdM,24879,Neuberend,Neuer Weg,1,,54.55651641,9.52197773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdN,24879,Neuberend,Neuer Weg,10,,54.55663248,9.52087064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdO,24879,Neuberend,Neuer Weg,12,,54.55186126,9.51191532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdP,24879,Neuberend,Neuer Weg,2,,54.55698626,9.52262619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdQ,24879,Neuberend,Neuer Weg,3,,54.55632264,9.52144863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdR,24879,Neuberend,Neuer Weg,4,,54.55691883,9.52174048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdS,24879,Neuberend,Neuer Weg,5,,54.55608288,9.52083415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdT,24879,Neuberend,Neuer Weg,8,,54.55666755,9.52131372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdU,24879,Neuberend,Osterfeld,2,,54.56342559,9.52243986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdV,24879,Neuberend,Ruhekrug,10,,54.54440238,9.51793255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdW,24879,Neuberend,Ruhekrug,10,a,54.54430438,9.51826995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdX,24879,Neuberend,Ruhekrug,11,,54.5449495,9.51676264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdY,24879,Neuberend,Ruhekrug,12,,54.54398492,9.51804872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgdZ,24879,Neuberend,Ruhekrug,12,a,54.54408318,9.51867093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngda,24879,Neuberend,Mittelreihe,8,a,54.54811602,9.53739989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdb,24879,Neuberend,Mittelreihe,80,,54.55400527,9.52662709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdc,24879,Neuberend,Mittelreihe,81,,54.55424383,9.52587664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdd,24879,Neuberend,Mittelreihe,82,,54.55442046,9.52622013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngde,24879,Neuberend,Mittelreihe,83,,54.55446717,9.5256565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdf,24879,Neuberend,Mittelreihe,84,,54.55463089,9.52607118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdg,24879,Neuberend,Mittelreihe,85,,54.55464091,9.52550829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdh,24879,Neuberend,Mittelreihe,86,,54.55481439,9.52588678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdi,24879,Neuberend,Mittelreihe,87,,54.55505939,9.52516319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdj,24879,Neuberend,Mittelreihe,88,,54.55506932,9.52565633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdk,24879,Neuberend,Mittelreihe,89,,54.55532404,9.52488401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdl,24879,Neuberend,Mittelreihe,90,,54.55529889,9.52542023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdm,24879,Neuberend,Mittelreihe,91,,54.55545565,9.52472918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdn,24879,Neuberend,Mittelreihe,92,,54.55546173,9.52524049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdo,24879,Neuberend,Mittelreihe,93,,54.55560547,9.52451265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdp,24879,Neuberend,Mittelreihe,94,,54.55571058,9.52520273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdq,24879,Neuberend,Mittelreihe,95,,54.55575189,9.52429952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdr,24879,Neuberend,Mittelreihe,96,,54.55594297,9.52476123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngds,24879,Neuberend,Mittelreihe,97,,54.55592716,9.52405483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdt,24879,Neuberend,Mittelreihe,98,,54.55606099,9.5244503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdu,24879,Neuberend,Mittelreihe,99,,54.55605387,9.52388375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdv,24879,Neuberend,Moorweg,1,,54.54773076,9.53446381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdw,24879,Neuberend,Moorweg,10,,54.54735102,9.53603361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdx,24879,Neuberend,Moorweg,10,a,54.54734821,9.53577179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdy,24879,Neuberend,Moorweg,11,,54.54800002,9.53633768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngdz,24879,Neuberend,Moorweg,12,,54.5475781,9.53584888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge0,24879,Neuberend,Ruhekrug,14,,54.54417247,9.51891925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge1,24879,Neuberend,Ruhekrug,2,,54.54962607,9.51058775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge2,24879,Neuberend,Ruhekrug,4,,54.54818357,9.51531104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge3,24879,Neuberend,Ruhekrug,8,,54.54546439,9.51682428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge4,24879,Neuberend,Ruhekrug,9,,54.54507652,9.51658244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge5,24879,Neuberend,Schmiedestraße,1,,54.55464463,9.52694092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge6,24879,Neuberend,Schmiedestraße,10,,54.55465693,9.52809281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge7,24879,Neuberend,Schmiedestraße,11,,54.5555212,9.52613379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge8,24879,Neuberend,Schmiedestraße,12,,54.55483776,9.52759185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nge9,24879,Neuberend,Schmiedestraße,13,,54.55567749,9.52593292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeA,24879,Neuberend,Schulweg,14,,54.55098616,9.52798103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeB,24879,Neuberend,Schulweg,15,,54.54979269,9.52776641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeC,24879,Neuberend,Schulweg,16,,54.55058933,9.52787624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeD,24879,Neuberend,Schulweg,17,,54.54939776,9.52724024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeE,24879,Neuberend,Schulweg,18,,54.55028126,9.52757978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeF,24879,Neuberend,Schulweg,19,,54.54902206,9.52691134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeG,24879,Neuberend,Schulweg,2,,54.55245056,9.52923315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeH,24879,Neuberend,Schulweg,20,,54.54998215,9.52732462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeI,24879,Neuberend,Schulweg,21,,54.54879358,9.52686658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeJ,24879,Neuberend,Schulweg,22,,54.54973077,9.52710156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeK,24879,Neuberend,Schulweg,24,,54.54952595,9.52691355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeL,24879,Neuberend,Schulweg,26,,54.54932777,9.52676858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeM,24879,Neuberend,Schulweg,28,,54.54916662,9.52663488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeN,24879,Neuberend,Schulweg,3,,54.55184622,9.52924991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeO,24879,Neuberend,Schulweg,30,,54.54881775,9.52633443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeP,24879,Neuberend,Schulweg,4,,54.55186866,9.52882172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeQ,24879,Neuberend,Schulweg,5,,54.5513881,9.52892112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeR,24879,Neuberend,Schulweg,6,,54.55169321,9.52869886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeS,24879,Neuberend,Schulweg,7,,54.55117931,9.52881134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeT,24879,Neuberend,Schulweg,8,,54.55151131,9.52856059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeU,24879,Neuberend,Schulweg,9,,54.55083906,9.52859921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeV,24879,Neuberend,Teichstraße,1,,54.549705,9.53430751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeW,24879,Neuberend,Teichstraße,10,,54.54931834,9.53294464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeX,24879,Neuberend,Teichstraße,11,,54.54842859,9.53363347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeY,24879,Neuberend,Teichstraße,12,,54.54913491,9.53275274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgeZ,24879,Neuberend,Teichstraße,13,,54.54830643,9.53392066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngea,24879,Neuberend,Schmiedestraße,14,,54.55496531,9.52747023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeb,24879,Neuberend,Schmiedestraße,15,,54.5558367,9.52567192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngec,24879,Neuberend,Schmiedestraße,16,,54.55513208,9.52712309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nged,24879,Neuberend,Schmiedestraße,18,,54.55532809,9.52691703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngee,24879,Neuberend,Schmiedestraße,2,,54.55421035,9.52655929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngef,24879,Neuberend,Schmiedestraße,20,,54.55550137,9.52671595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeg,24879,Neuberend,Schmiedestraße,22,,54.55567369,9.52646415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeh,24879,Neuberend,Schmiedestraße,24,,54.55582313,9.5262125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngei,24879,Neuberend,Schmiedestraße,26,,54.55601668,9.52603255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngej,24879,Neuberend,Schmiedestraße,28,,54.55627768,9.52573618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngek,24879,Neuberend,Schmiedestraße,3,,54.55482894,9.52693136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngel,24879,Neuberend,Schmiedestraße,30,,54.55602697,9.52518861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngem,24879,Neuberend,Schmiedestraße,4,,54.55431975,9.52693556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngen,24879,Neuberend,Schmiedestraße,5,,54.5549892,9.52674319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeo,24879,Neuberend,Schmiedestraße,6,,54.55439989,9.52717975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngep,24879,Neuberend,Schmiedestraße,7,,54.55516187,9.52655857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeq,24879,Neuberend,Schmiedestraße,8,,54.55447885,9.52750273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nger,24879,Neuberend,Schmiedestraße,8,a,54.55457557,9.5277384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nges,24879,Neuberend,Schmiedestraße,9,,54.55535666,9.52636069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nget,24879,Neuberend,Schulweg,1,,54.5520455,9.5294417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngeu,24879,Neuberend,Schulweg,1,a,54.55238616,9.52971408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngev,24879,Neuberend,Schulweg,1,b,54.55222204,9.52956945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngew,24879,Neuberend,Schulweg,10,,54.55133886,9.52833917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngex,24879,Neuberend,Schulweg,11,,54.55065709,9.52851818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngey,24879,Neuberend,Schulweg,12,,54.55114985,9.52819124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngez,24879,Neuberend,Schulweg,13,,54.55049422,9.52824941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf0,24879,Neuberend,Teichstraße,14,,54.54890547,9.53255163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf1,24879,Neuberend,Teichstraße,15,,54.54820083,9.53418958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf2,24879,Neuberend,Teichstraße,16,,54.54871658,9.53254335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf3,24879,Neuberend,Teichstraße,17,,54.5480227,9.53438507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf4,24879,Neuberend,Teichstraße,18,,54.54855506,9.53266777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf5,24879,Neuberend,Teichstraße,2,,54.54988046,9.53402464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf6,24879,Neuberend,Teichstraße,20,,54.54841699,9.53291348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf7,24879,Neuberend,Teichstraße,22,,54.54824491,9.53314483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf8,24879,Neuberend,Teichstraße,24,,54.54783987,9.53347488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngf9,24879,Neuberend,Teichstraße,26,,54.54819128,9.53359084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfA,24879,Neuberend,Wildbahn,23,,54.55213549,9.52100882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfB,24879,Neuberend,Wildbahn,24,,54.55238602,9.51971584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfC,24879,Neuberend,Wildbahn,26,,54.55249152,9.52015103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfD,24879,Neuberend,Wildbahn,28,,54.55231495,9.52059939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfF,24879,Neuberend,Wildbahn,30,,54.55212181,9.52060255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfG,24879,Neuberend,Wildbahn,32,,54.5521468,9.52008268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfH,24879,Neuberend,Wildbahn,4,,54.55116436,9.51912712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfI,24879,Neuberend,Wildbahn,5,,54.5515257,9.51805068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfJ,24879,Neuberend,Wildbahn,6,,54.55126692,9.51897054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfK,24879,Neuberend,Wildbahn,7,,54.55179011,9.51829807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfL,24879,Neuberend,Wildbahn,8,,54.55144975,9.51923467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgfM,24879,Neuberend,Wildbahn,9,,54.55195273,9.51860785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfa,24879,Neuberend,Teichstraße,28,,54.54803555,9.53384474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfb,24879,Neuberend,Teichstraße,3,,54.54954945,9.53365821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfc,24879,Neuberend,Teichstraße,30,,54.54784136,9.53397234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfd,24879,Neuberend,Teichstraße,32,,54.54764577,9.5339995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfe,24879,Neuberend,Teichstraße,34,,54.54742518,9.53394809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngff,24879,Neuberend,Teichstraße,4,,54.54980167,9.53364783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfg,24879,Neuberend,Teichstraße,5,,54.54937204,9.53340338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfh,24879,Neuberend,Teichstraße,6,,54.54976031,9.5333131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfi,24879,Neuberend,Teichstraße,7,,54.54872783,9.53303949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfj,24879,Neuberend,Teichstraße,8,,54.54950514,9.53313217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfk,24879,Neuberend,Teichstraße,9,,54.54855744,9.53328356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfm,24879,Neuberend,Wildbahn,10,,54.5515584,9.51868105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfn,24879,Neuberend,Wildbahn,11,,54.55212633,9.5188544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfo,24879,Neuberend,Wildbahn,12,,54.5517437,9.51880262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfp,24879,Neuberend,Wildbahn,13,,54.55230129,9.51914211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfq,24879,Neuberend,Wildbahn,14,,54.55195104,9.51903244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfr,24879,Neuberend,Wildbahn,15,,54.55252504,9.51947801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfs,24879,Neuberend,Wildbahn,16,,54.55166481,9.51949413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngft,24879,Neuberend,Wildbahn,17,,54.55265469,9.51975989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfu,24879,Neuberend,Wildbahn,18,,54.55193504,9.51964173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfv,24879,Neuberend,Wildbahn,19,,54.55267374,9.52008155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfw,24879,Neuberend,Wildbahn,2,,54.5511026,9.51953555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfx,24879,Neuberend,Wildbahn,20,,54.55208759,9.51924743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfy,24879,Neuberend,Wildbahn,21,,54.55236216,9.52093885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngfz,24879,Neuberend,Wildbahn,22,,54.55224841,9.51950022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nl4x,24879,Neuberend,An der Mühle,2,,54.54662983,9.5399212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003f5E6,24879,Neuberend,Mittelreihe,14,,54.54902278,9.5365998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003p7kp,24879,Neuberend,Am Sportplatz,2,,54.58358775,9.50939875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDB,24879,Neuberend,Nordheider Ring,52,,54.590221,9.51070377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDD,24879,Neuberend,Nordheider Ring,48,,54.59030249,9.51142763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDF,24879,Neuberend,Nordheider Ring,46,,54.59037426,9.51188508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDH,24879,Neuberend,Nordheider Ring,44,,54.59010148,9.51178556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDJ,24879,Neuberend,Nordheider Ring,42,,54.58993035,9.51191423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDV,24879,Neuberend,Nordheider Ring,41,,54.59003576,9.51149355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDu,24879,Neuberend,Nordheider Ring,50,,54.59026039,9.51106732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UKDy,24879,Neuberend,Nordheider Ring,54,,54.59009208,9.5103847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ULGx,24879,Neuberend,Osterfeld,10,,54.57383587,9.52432181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EkKO,24879,Neuberend,Nordheider Ring,43,a,54.58995122,9.51115822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EkKP,24879,Neuberend,Nordheider Ring,43,b,54.58992314,9.51105088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EkKQ,24879,Neuberend,Nordheider Ring,43,c,54.5899049,9.51093703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EkL0,24879,Neuberend,Nordheider Ring,45,a,54.58989485,9.51070747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EkL1,24879,Neuberend,Nordheider Ring,45,b,54.58987716,9.51060181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAnS,24879,Neuberend,Wildbahn,44,,54.5515994,9.51981897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAo3,24879,Neuberend,Wildbahn,36,,54.5518639,9.52072024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAo4,24879,Neuberend,Wildbahn,46,,54.55139526,9.51972672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAoB,24879,Neuberend,Wildbahn,42,,54.55150347,9.5202069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAoI,24879,Neuberend,Wildbahn,38,,54.55162727,9.52080724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAoi,24879,Neuberend,Wildbahn,48,,54.55125339,9.52016383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAon,24879,Neuberend,Wildbahn,34,,54.5518372,9.52017749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAp9,24879,Neuberend,Wildbahn,40,,54.55152403,9.5204937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IApG,24879,Neuberend,Wildbahn,31,,54.55135894,9.52084097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IApN,24879,Neuberend,Wildbahn,27,,54.55138812,9.52129736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IApU,24879,Neuberend,Wildbahn,33,,54.55124418,9.52048252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IApi,24879,Neuberend,Wildbahn,25,,54.55157723,9.52130429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAqb,24879,Neuberend,Wildbahn,29,,54.55141956,9.52105346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IAqm,24879,Neuberend,Wildbahn,50,,54.55104891,9.5200287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005J3JH,24879,Neuberend,Pfuhlwattweg,21,a,54.58625499,9.5066013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JVyG,24879,Neuberend,Klosterreihe,88,a,54.5516996,9.51736359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JgvE,24879,Neuberend,Nordheider Ring,37,b,54.58965578,9.51132403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Jgvz,24879,Neuberend,Nordheider Ring,37,a,54.58962912,9.51119694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005REZY,24879,Neuberend,Osterfeld,10,c,54.57704406,9.53908961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WUiM,24879,Neuberend,Ruhekrug,4,a,54.54793061,9.51537813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZPNx,24879,Neuberend,Mittelreihe,67,a,54.55296831,9.52740674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bV2O,24879,Neuberend,Mittelreihe,33,a,54.5503676,9.53250576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005c4Mc,24879,Neuberend,Pfuhlwattweg,37,,54.58597115,9.50371574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065R4W,24879,Neuberend,Nordheider Ring,41,a,54.59000897,9.51137114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065bTQ,24879,Neuberend,Schulberg,11,,54.58218226,9.51007653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065bTR,24879,Neuberend,Schulberg,11,a,54.58211611,9.51017681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067Ulc,24879,Neuberend,Dorfstraße,24,a,54.58361723,9.5111324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068rYB,24879,Neuberend,Kirchenweg,6,,54.55385052,9.54422505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FS3a,24879,Neuberend,An der Mühle,27,,54.54414195,9.54473027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GQrH,24879,Neuberend,Mittelreihe,109,a,54.55719555,9.52233498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NJnS,24879,Neuberend,Dorfstraße,22,,54.58309084,9.5114904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PIb8,24879,Neuberend,Nordheider Weg,12,a,54.58811265,9.51335589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XcFl,24879,Neuberend,Wildbahn,42,a,54.55158781,9.52018762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YtbO,24879,Neuberend,Mittelreihe,16,,54.54922178,9.53641091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ZrAm,24879,Neuberend,Wildbahn,34,a,54.55182257,9.52007611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006a1br,24879,Neuberend,Mittelreihe,18,,54.54940418,9.53622889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006hjPd,24879,Neuberend,Schulweg,14,a,54.55105415,9.52624108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oC1h,24879,Neuberend,Pfuhlwattweg,2,a,54.58636068,9.51070329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000705Ks,24879,Neuberend,Wildbahn,33,a,54.55118845,9.520446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076qr2,24879,Neuberend,Nordheider Ring,28,a,54.58865377,9.51177094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007J14W,24879,Neuberend,Wildbahn,1,,54.55085903,9.51909234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZV85,24879,Neuberend,Mittelreihe,109,c,54.55717434,9.52235742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZV87,24879,Neuberend,Mittelreihe,109,b,54.5572116,9.52231676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007odYT,24879,Neuberend,Wildbahn,3,a,54.55111671,9.51831263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007odYV,24879,Neuberend,Wildbahn,3,b,54.55114353,9.51821486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zhQs,24879,Neuberend,Mittelreihe,17,,54.54895439,9.53598986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085KqD,24879,Neuberend,Wildbahn,1,a,54.55096665,9.51881829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJA7,24879,Neuberend,Meisenring,17,,54.55223979,9.5231462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJAG,24879,Neuberend,Meisenring,10,,54.55239193,9.52248965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJAg,24879,Neuberend,Meisenring,19,,54.55213498,9.52341738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJAq,24879,Neuberend,Meisenring,16,,54.55218685,9.52300472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJAz,24879,Neuberend,Meisenring,18,,54.5520547,9.52333776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJ7,24879,Neuberend,Meisenring,12,,54.5520264,9.52234993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJB,24879,Neuberend,Wildbahn,25,a,54.55159428,9.52163503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJS,24879,Neuberend,Meisenring,20,,54.55176203,9.52221043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJd,24879,Neuberend,Meisenring,22,,54.55170382,9.5226939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJk,24879,Neuberend,Meisenring,21,,54.55179813,9.52269252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJn,24879,Neuberend,Meisenring,25,,54.5514023,9.52203005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJJu,24879,Neuberend,Meisenring,23,,54.55174851,9.52274513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJK0,24879,Neuberend,Wildbahn,23,a,54.5520733,9.52153577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJK2,24879,Neuberend,Meisenring,14,,54.55194689,9.52213604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJxC,24879,Neuberend,Meisenring,8,,54.55250952,9.52219625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJzH,24879,Neuberend,Meisenring,13,,54.5524651,9.52258016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DJzR,24879,Neuberend,Meisenring,15,,54.55236571,9.52283097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcSO,24879,Neuberend,Meisenring,27,,54.55135042,9.52216273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcSP,24879,Neuberend,Meisenring,29,,54.55127255,9.52215579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcSQ,24879,Neuberend,Meisenring,31,,54.55112861,9.52200669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcSR,24879,Neuberend,Meisenring,33,,54.55097714,9.52184275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcSS,24879,Neuberend,Meisenring,35,,54.55080383,9.52166874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcST,24879,Neuberend,Meisenring,37,,54.55064477,9.52149818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcT1,24879,Neuberend,Meisenring,36,,54.55085866,9.52027484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTg,24879,Neuberend,Meisenring,24,,54.55121879,9.52190425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTh,24879,Neuberend,Meisenring,26,,54.55108154,9.52174869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTi,24879,Neuberend,Meisenring,28,,54.5509262,9.52159781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTj,24879,Neuberend,Meisenring,30,,54.55070556,9.52137247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTk,24879,Neuberend,Meisenring,32,,54.55067168,9.52084516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTl,24879,Neuberend,Meisenring,34,,54.55075872,9.52051247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTt,24879,Neuberend,Meisenring,39,,54.5503809,9.5214492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTu,24879,Neuberend,Meisenring,41,,54.5504842,9.52109382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTv,24879,Neuberend,Meisenring,43,,54.55054821,9.52080665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTw,24879,Neuberend,Meisenring,45,,54.55061026,9.52053419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KcTx,24879,Neuberend,Meisenring,47,,54.55074105,9.52020206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cB0s,24879,Neuberend,Wildbahn,3,,54.55104127,9.51856679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jGVT,24879,Neuberend,Mittelreihe,110,a,54.55778077,9.52294279

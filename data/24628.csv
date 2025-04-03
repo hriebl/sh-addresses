@@ -1,0 +1,702 @@
+# Amtliche Adressen für die Postleitzahl 24628
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3A,24628,Hartenholm,Bürgermeisterweg,16,,53.90170007,10.06370864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3B,24628,Hartenholm,Bürgermeisterweg,17,,53.9016752,10.06314483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3C,24628,Hartenholm,Bürgermeisterweg,18,,53.90185869,10.06397454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3D,24628,Hartenholm,Bürgermeisterweg,19,,53.90183305,10.06337066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3E,24628,Hartenholm,Bürgermeisterweg,21,,53.90204989,10.06353798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3F,24628,Hartenholm,Bürgermeisterweg,4,,53.90067905,10.06219197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3G,24628,Hartenholm,Bürgermeisterweg,6,,53.90085728,10.06244945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3H,24628,Hartenholm,Bürgermeisterweg,8,,53.90100506,10.06263043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3I,24628,Hartenholm,Bullenkloster,10,,53.87547324,10.07901996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3J,24628,Hartenholm,Bullenkloster,4,,53.88090841,10.07994754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3K,24628,Hartenholm,Bullenkloster,5,,53.88199433,10.07973501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3L,24628,Hartenholm,Bullenkloster,8,,53.8794722,10.08038802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3M,24628,Hartenholm,Bullenkloster,8,a,53.87823647,10.07799868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3N,24628,Hartenholm,Bullenkloster,9,,53.8749722,10.08003713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3O,24628,Hartenholm,Dorfplatz,1,,53.9002832,10.05968923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3P,24628,Hartenholm,Dorfplatz,1,a,53.90053876,10.06019859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3Q,24628,Hartenholm,Dorfplatz,1,b,53.90083464,10.05935384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3R,24628,Hartenholm,Dorfplatz,2,,53.90044883,10.06054715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3S,24628,Hartenholm,Dorfplatz,3,,53.90073031,10.0603421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3T,24628,Hartenholm,Dorfplatz,3,a,53.90087072,10.05991324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3U,24628,Hartenholm,Dorfplatz,4,,53.90070368,10.06085853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3V,24628,Hartenholm,Dorfplatz,5,,53.90087994,10.06056559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3W,24628,Hartenholm,Dorfplatz,6,,53.90089644,10.06128827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3X,24628,Hartenholm,Dorfstraße,1,,53.89756696,10.06715747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3Y,24628,Hartenholm,Dorfstraße,10,,53.89899294,10.06553721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3Z,24628,Hartenholm,Dorfstraße,11,,53.89929481,10.06396942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3f,24628,Hartenholm,Amselweg,1,,53.90087032,10.06596645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3g,24628,Hartenholm,Amselweg,10,,53.90164029,10.06533519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3h,24628,Hartenholm,Amselweg,11,,53.90163244,10.06452208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3i,24628,Hartenholm,Amselweg,12,,53.90176121,10.06511542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3j,24628,Hartenholm,Amselweg,14,,53.90187023,10.06488827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3k,24628,Hartenholm,Amselweg,16,,53.90191419,10.06463731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3l,24628,Hartenholm,Amselweg,18,,53.90207754,10.06439724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3m,24628,Hartenholm,Amselweg,3,,53.9010422,10.06564068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3n,24628,Hartenholm,Amselweg,3,a,53.90084315,10.06534935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3o,24628,Hartenholm,Amselweg,4,,53.90124353,10.06624761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3p,24628,Hartenholm,Amselweg,5,,53.90122751,10.06539446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3q,24628,Hartenholm,Amselweg,6,,53.90134291,10.06602378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3r,24628,Hartenholm,Amselweg,7,,53.90135549,10.06514821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3s,24628,Hartenholm,Amselweg,8,,53.90149094,10.065632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3t,24628,Hartenholm,Amselweg,9,,53.90148008,10.0647086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3u,24628,Hartenholm,Bürgermeisterweg,10,,53.90120317,10.06296807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3v,24628,Hartenholm,Bürgermeisterweg,11,,53.90126045,10.06255871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3w,24628,Hartenholm,Bürgermeisterweg,12,,53.90138775,10.06324345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3x,24628,Hartenholm,Bürgermeisterweg,13,,53.90141634,10.06275752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3y,24628,Hartenholm,Bürgermeisterweg,14,,53.90154127,10.06347572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv3z,24628,Hartenholm,Bürgermeisterweg,15,,53.90156158,10.06291825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv40,24628,Hartenholm,Dorfstraße,12,,53.89916215,10.06506024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv41,24628,Hartenholm,Dorfstraße,12,a,53.89949524,10.06583363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv42,24628,Hartenholm,Dorfstraße,12,b,53.89967223,10.06611593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv43,24628,Hartenholm,Dorfstraße,12,c,53.89936498,10.06544166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv44,24628,Hartenholm,Dorfstraße,14,,53.89939733,10.0649993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv45,24628,Hartenholm,Dorfstraße,16,,53.89973581,10.06402539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv46,24628,Hartenholm,Dorfstraße,17,a,53.89954481,10.06290753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv47,24628,Hartenholm,Dorfstraße,17,b,53.89954481,10.06290753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv48,24628,Hartenholm,Dorfstraße,17,c,53.8992239,10.0627912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv49,24628,Hartenholm,Dorfstraße,17,d,53.8992239,10.0627912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4A,24628,Hartenholm,Dorfstraße,34,,53.9003247,10.05848666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4B,24628,Hartenholm,Dorfstraße,35,,53.89963142,10.05635653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4C,24628,Hartenholm,Dorfstraße,36,,53.90037611,10.05797635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4D,24628,Hartenholm,Dorfstraße,37,,53.8993928,10.0559839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4E,24628,Hartenholm,Dorfstraße,38,,53.90042402,10.05739005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4F,24628,Hartenholm,Dorfstraße,38,a,53.90041995,10.05703349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4G,24628,Hartenholm,Dorfstraße,39,,53.89923366,10.05566657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4H,24628,Hartenholm,Dorfstraße,4,,53.89825185,10.06663328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4I,24628,Hartenholm,Dorfstraße,40,,53.90010553,10.05621138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4J,24628,Hartenholm,Dorfstraße,41,,53.89910696,10.05548111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4K,24628,Hartenholm,Dorfstraße,42,,53.89988616,10.05590179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4L,24628,Hartenholm,Dorfstraße,44,,53.89960027,10.05545992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4M,24628,Hartenholm,Dorfstraße,46,,53.89937795,10.05514294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4N,24628,Hartenholm,Dorfstraße,48,,53.89909837,10.05472842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4O,24628,Hartenholm,Dorfstraße,5,,53.89826583,10.06584603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4P,24628,Hartenholm,Dorfstraße,5,a,53.89800972,10.06515737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4Q,24628,Hartenholm,Dorfstraße,5,b,53.89834476,10.06547313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4R,24628,Hartenholm,Dorfstraße,50,,53.89900788,10.05458492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4S,24628,Hartenholm,Dorfstraße,52,,53.89884975,10.05433419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4T,24628,Hartenholm,Dorfstraße,54,,53.89865361,10.05403257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4U,24628,Hartenholm,Dorfstraße,6,,53.89841571,10.0663045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4V,24628,Hartenholm,Dorfstraße,7,,53.89856278,10.06526991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4W,24628,Hartenholm,Dorfstraße,8,,53.89872201,10.06569763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4X,24628,Hartenholm,Dorfstraße,8,a,53.89867304,10.06598552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4Y,24628,Hartenholm,Dorfstraße,9,,53.89881386,10.06485035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4Z,24628,Hartenholm,Eichenweg,1,,53.89390837,10.0441041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4a,24628,Hartenholm,Dorfstraße,17,e,53.8992239,10.0627912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4b,24628,Hartenholm,Dorfstraße,17,f,53.8992239,10.0627912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4c,24628,Hartenholm,Dorfstraße,18,,53.89978106,10.06368774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4d,24628,Hartenholm,Dorfstraße,19,,53.89956534,10.06255344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4e,24628,Hartenholm,Dorfstraße,19,a,53.89923798,10.06236501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4f,24628,Hartenholm,Dorfstraße,2,,53.89777072,10.06735094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4g,24628,Hartenholm,Dorfstraße,2,a,53.89801981,10.0670405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4h,24628,Hartenholm,Dorfstraße,20,,53.89986866,10.06330182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4i,24628,Hartenholm,Dorfstraße,20,a,53.90007529,10.06370284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4j,24628,Hartenholm,Dorfstraße,21,,53.899661,10.06198039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4k,24628,Hartenholm,Dorfstraße,22,,53.89992164,10.063011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4l,24628,Hartenholm,Dorfstraße,23,,53.89973441,10.06103653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4m,24628,Hartenholm,Dorfstraße,24,,53.90001136,10.06214607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4n,24628,Hartenholm,Dorfstraße,24,a,53.90017188,10.06237535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4o,24628,Hartenholm,Dorfstraße,25,,53.89986022,10.06023982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4p,24628,Hartenholm,Dorfstraße,26,,53.90015606,10.06179416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4q,24628,Hartenholm,Dorfstraße,27,,53.89998264,10.05932027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4r,24628,Hartenholm,Dorfstraße,28,,53.90016543,10.06089825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4s,24628,Hartenholm,Dorfstraße,29,,53.9000349,10.05870604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4t,24628,Hartenholm,Dorfstraße,29,a,53.89950816,10.05875438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4u,24628,Hartenholm,Dorfstraße,3,,53.89805861,10.06625539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4v,24628,Hartenholm,Dorfstraße,3,a,53.89794782,10.06613412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4w,24628,Hartenholm,Dorfstraße,30,,53.90025735,10.05950452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4x,24628,Hartenholm,Dorfstraße,31,,53.90000779,10.05789885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4y,24628,Hartenholm,Dorfstraße,31,a,53.89969545,10.05818295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv4z,24628,Hartenholm,Dorfstraße,32,,53.90025628,10.0590816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv50,24628,Hartenholm,Eichenweg,1,a,53.89411136,10.04505171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv51,24628,Hartenholm,Eichenweg,1,b,53.89415053,10.0444075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv52,24628,Hartenholm,Eichenweg,3,,53.893688,10.04367148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv54,24628,Hartenholm,Erlengrund,1,,53.90119474,10.07442739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv55,24628,Hartenholm,Erlengrund,10,,53.90168512,10.07318595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv56,24628,Hartenholm,Erlengrund,2,,53.90144739,10.07459008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv57,24628,Hartenholm,Erlengrund,3,,53.90127189,10.07412612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv58,24628,Hartenholm,Erlengrund,4,,53.90155829,10.07421089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv59,24628,Hartenholm,Erlengrund,4,a,53.90158537,10.0740929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5A,24628,Hartenholm,Fuhlenrüer Straße,48,,53.9054579,10.05078756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5B,24628,Hartenholm,Fuhlenrüer Straße,48,a,53.90566508,10.05066849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5C,24628,Hartenholm,Fuhlenrüer Straße,5,,53.90131566,10.06040272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5D,24628,Hartenholm,Fuhlenrüer Straße,50,,53.90570329,10.050324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5E,24628,Hartenholm,Fuhlenrüer Straße,51,,53.90554291,10.04944226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5F,24628,Hartenholm,Fuhlenrüer Straße,52,,53.90574618,10.05019074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5G,24628,Hartenholm,Fuhlenrüer Straße,54,,53.90591963,10.04962933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5H,24628,Hartenholm,Fuhlenrüer Straße,55,,53.9058111,10.04857137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5I,24628,Hartenholm,Fuhlenrüer Straße,56,,53.90595943,10.04950102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5J,24628,Hartenholm,Fuhlenrüer Straße,57,,53.90590833,10.04825117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5K,24628,Hartenholm,Fuhlenrüer Straße,58,,53.90610145,10.04904173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5L,24628,Hartenholm,Fuhlenrüer Straße,6,,53.90161102,10.0605702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5M,24628,Hartenholm,Fuhlenrüer Straße,60,,53.90614308,10.04890891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5N,24628,Hartenholm,Fuhlenrüer Straße,64,,53.90641161,10.04763465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5O,24628,Hartenholm,Fuhlenrüer Straße,64,a,53.90667328,10.04720222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5P,24628,Hartenholm,Fuhlenrüer Straße,65,,53.90646418,10.04641674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5Q,24628,Hartenholm,Fuhlenrüer Straße,68,,53.90686065,10.04614122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5R,24628,Hartenholm,Fuhlenrüer Straße,68,a,53.90711024,10.04555454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5S,24628,Hartenholm,Fuhlenrüer Straße,69,,53.90673823,10.04557175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5T,24628,Hartenholm,Fuhlenrüer Straße,7,,53.90144673,10.06019952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5U,24628,Hartenholm,Fuhlenrüer Straße,70,,53.90722233,10.04513493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5V,24628,Hartenholm,Fuhlenrüer Straße,70,a,53.90713808,10.04522725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5W,24628,Hartenholm,Fuhlenrüer Straße,71,,53.90677475,10.04545667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5X,24628,Hartenholm,Fuhlenrüer Straße,73,,53.90693459,10.04495397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5Y,24628,Hartenholm,Fuhlenrüer Straße,75,,53.90713413,10.04434434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5Z,24628,Hartenholm,Fuhlenrüer Straße,77,,53.90719697,10.04390325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5a,24628,Hartenholm,Erlengrund,5,,53.90137494,10.07375892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5b,24628,Hartenholm,Erlengrund,6,,53.90175254,10.07374717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5c,24628,Hartenholm,Erlengrund,7,,53.90142717,10.0733127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5d,24628,Hartenholm,Erlengrund,8,,53.90183696,10.07337509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5e,24628,Hartenholm,Fuhlenrüer Straße,1,,53.90107002,10.06079996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5f,24628,Hartenholm,Fuhlenrüer Straße,10,,53.90191517,10.05984394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5g,24628,Hartenholm,Fuhlenrüer Straße,11,,53.90161411,10.05991244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5h,24628,Hartenholm,Fuhlenrüer Straße,12,,53.90228835,10.05982238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5i,24628,Hartenholm,Fuhlenrüer Straße,14,,53.90238406,10.05942176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5j,24628,Hartenholm,Fuhlenrüer Straße,15,,53.90175071,10.05951511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5k,24628,Hartenholm,Fuhlenrüer Straße,17,,53.90192218,10.05936009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5l,24628,Hartenholm,Fuhlenrüer Straße,19,,53.90211923,10.05917031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5m,24628,Hartenholm,Fuhlenrüer Straße,2,,53.90121022,10.06117101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5n,24628,Hartenholm,Fuhlenrüer Straße,21,,53.90212385,10.05881633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5p,24628,Hartenholm,Fuhlenrüer Straße,32,,53.90426709,10.05457397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5q,24628,Hartenholm,Fuhlenrüer Straße,34,,53.90462207,10.05433379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5r,24628,Hartenholm,Fuhlenrüer Straße,36,,53.90457062,10.05375191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5s,24628,Hartenholm,Fuhlenrüer Straße,38,,53.90477696,10.0530833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5t,24628,Hartenholm,Fuhlenrüer Straße,4,,53.90140793,10.06083225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5u,24628,Hartenholm,Fuhlenrüer Straße,40,,53.9048114,10.05296733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5v,24628,Hartenholm,Fuhlenrüer Straße,41,,53.90449609,10.05289784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5w,24628,Hartenholm,Fuhlenrüer Straße,42,,53.90506828,10.05213782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5x,24628,Hartenholm,Fuhlenrüer Straße,42,a,53.90512717,10.05222005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5y,24628,Hartenholm,Fuhlenrüer Straße,44,,53.90539424,10.05171899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv5z,24628,Hartenholm,Fuhlenrüer Straße,46,,53.90533245,10.05122114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv60,24628,Hartenholm,Fuhlenrüer Straße,79,,53.90735911,10.04348095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv61,24628,Hartenholm,Fuhlenrüer Straße,8,,53.90186509,10.06015952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv62,24628,Hartenholm,Fuhlenrüer Straße,81,,53.90749134,10.04303589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv63,24628,Hartenholm,Fuhlenrüer Straße,9,,53.90149444,10.06010997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv64,24628,Hartenholm,Fuhlenrüer Straße,91,,53.90874469,10.03874975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv65,24628,Hartenholm,Grubeleck,1,,53.89959806,10.06431244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv66,24628,Hartenholm,Grubeleck,1,a,53.90011488,10.06512615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv67,24628,Hartenholm,Grubeleck,10,,53.90075523,10.06659114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv68,24628,Hartenholm,Grubeleck,10,a,53.90055057,10.06696721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv69,24628,Hartenholm,Grubeleck,11,,53.90188871,10.06768341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6A,24628,Hartenholm,Grüneneck,21,,53.89611386,10.04574869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6B,24628,Hartenholm,Grüneneck,22,,53.89617761,10.04488677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6C,24628,Hartenholm,Grüneneck,22,a,53.89602416,10.04475909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6D,24628,Hartenholm,Grüneneck,23,,53.89587896,10.04542046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6E,24628,Hartenholm,Grüneneck,23,a,53.89558695,10.04569405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6F,24628,Hartenholm,Grüneneck,24,,53.89584178,10.04467495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6G,24628,Hartenholm,Grüneneck,26,,53.89571501,10.04450891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6H,24628,Hartenholm,Grüneneck,27,,53.89544883,10.04467125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6I,24628,Hartenholm,Grüneneck,30,,53.89548282,10.04420669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6J,24628,Hartenholm,Grüneneck,7,,53.89751022,10.04746973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6K,24628,Hartenholm,Grüneneck,9,,53.89733567,10.04723763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6L,24628,Hartenholm,Hahneneck,1,,53.90537614,10.05286752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6M,24628,Hartenholm,Hahneneck,1,a,53.90518625,10.05226411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6N,24628,Hartenholm,Hahneneck,2,,53.90514849,10.05306112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6O,24628,Hartenholm,Hahneneck,3,,53.90554606,10.05311102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6P,24628,Hartenholm,Hahneneck,4,,53.90551392,10.05387033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6Q,24628,Hartenholm,Hahneneck,5,,53.90562411,10.05341241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6R,24628,Hartenholm,Hahneneck,7,,53.90601174,10.05391619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6S,24628,Hartenholm,Hasselbusch,1,a,53.90012215,10.07580728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6T,24628,Hartenholm,Hasselbusch,10,,53.90113756,10.07539673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6U,24628,Hartenholm,Hasselbusch,11,,53.90095674,10.07468504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6V,24628,Hartenholm,Hasselbusch,12,,53.90142731,10.07522872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6W,24628,Hartenholm,Hasselbusch,14,,53.90158839,10.07547168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6X,24628,Hartenholm,Hasselbusch,16,,53.90171478,10.07574937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6Y,24628,Hartenholm,Hasselbusch,2,,53.90027561,10.07660425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6Z,24628,Hartenholm,Hasselbusch,3,,53.90028777,10.07556455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6a,24628,Hartenholm,Grubeleck,12,,53.90095022,10.06712549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6b,24628,Hartenholm,Grubeleck,12,a,53.90137188,10.06764818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6c,24628,Hartenholm,Grubeleck,13,,53.90213734,10.06820465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6d,24628,Hartenholm,Grubeleck,14,,53.90142526,10.06844784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6e,24628,Hartenholm,Grubeleck,16,,53.91266486,10.07544995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6f,24628,Hartenholm,Grubeleck,2,,53.89955831,10.06475992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6g,24628,Hartenholm,Grubeleck,3,,53.90032555,10.06548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6h,24628,Hartenholm,Grubeleck,3,a,53.90048285,10.06525686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6i,24628,Hartenholm,Grubeleck,4,,53.89976677,10.06513782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6j,24628,Hartenholm,Grubeleck,5,,53.90048013,10.06580658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6k,24628,Hartenholm,Grubeleck,5,a,53.90069058,10.06560135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6l,24628,Hartenholm,Grubeleck,6,,53.89993504,10.06539542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6m,24628,Hartenholm,Grubeleck,7,,53.90110381,10.06658623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6n,24628,Hartenholm,Grubeleck,8,,53.90036168,10.06624679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6o,24628,Hartenholm,Grubeleck,9,,53.90162865,10.06739888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6p,24628,Hartenholm,Grüneneck,11,,53.89713623,10.04699019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6q,24628,Hartenholm,Grüneneck,12,,53.89762936,10.04714455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6r,24628,Hartenholm,Grüneneck,12,a,53.89749126,10.04673945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6s,24628,Hartenholm,Grüneneck,13,,53.89697137,10.0467846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6t,24628,Hartenholm,Grüneneck,14,,53.89723514,10.04662818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6u,24628,Hartenholm,Grüneneck,15,,53.89674743,10.04638937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6v,24628,Hartenholm,Grüneneck,16,,53.89703793,10.04626486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6w,24628,Hartenholm,Grüneneck,17,,53.89653873,10.04616019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6x,24628,Hartenholm,Grüneneck,18,,53.89677391,10.04600387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6y,24628,Hartenholm,Grüneneck,19,,53.89631892,10.04581938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv6z,24628,Hartenholm,Grüneneck,20,,53.89631421,10.04538075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv70,24628,Hartenholm,Hasselbusch,4,,53.9004015,10.07641218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv71,24628,Hartenholm,Hasselbusch,4,a,53.90058667,10.07613333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv72,24628,Hartenholm,Hasselbusch,5,,53.90046341,10.07527779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv73,24628,Hartenholm,Hasselbusch,6,,53.90075154,10.0758893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv74,24628,Hartenholm,Hasselbusch,7,,53.90061257,10.07508889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv75,24628,Hartenholm,Hasselbusch,8,,53.90092763,10.07566165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv76,24628,Hartenholm,Hasselbusch,9,,53.90080052,10.07487276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv77,24628,Hartenholm,Heideweg,11,,53.88790448,10.10537274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv78,24628,Hartenholm,Heideweg,12,,53.88765213,10.10586451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv79,24628,Hartenholm,Heideweg,4,,53.88776289,10.10187173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7A,24628,Hartenholm,Hofstraße,16,a,53.89949904,10.07627937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7B,24628,Hartenholm,Hofstraße,16,b,53.89904792,10.07631499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7C,24628,Hartenholm,Hofstraße,17,,53.90106244,10.07848537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7D,24628,Hartenholm,Hofstraße,18,,53.89965662,10.07654164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7E,24628,Hartenholm,Hofstraße,18,b,53.89979098,10.07676326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7F,24628,Hartenholm,Hofstraße,2,,53.89764243,10.06971657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7G,24628,Hartenholm,Hofstraße,20,,53.89994086,10.07706407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7H,24628,Hartenholm,Hofstraße,20,a,53.8999333,10.0777934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7I,24628,Hartenholm,Hofstraße,22,,53.90026875,10.07763162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7J,24628,Hartenholm,Hofstraße,22,a,53.90020483,10.0780032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7K,24628,Hartenholm,Hofstraße,24,,53.90038877,10.07783141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7L,24628,Hartenholm,Hofstraße,26,,53.90054425,10.0781621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7M,24628,Hartenholm,Hofstraße,28,,53.90058474,10.07824996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7N,24628,Hartenholm,Hofstraße,28,a,53.90037657,10.07864113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7O,24628,Hartenholm,Hofstraße,30,,53.90071685,10.07852083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7P,24628,Hartenholm,Hofstraße,30,a,53.90040364,10.07902489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7Q,24628,Hartenholm,Hofstraße,32,,53.90075845,10.07860538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7R,24628,Hartenholm,Hofstraße,32,a,53.9004895,10.07922495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7S,24628,Hartenholm,Hofstraße,5,,53.89937731,10.07439624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7T,24628,Hartenholm,Hofstraße,6,,53.8978085,10.07154973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7U,24628,Hartenholm,Hofstraße,7,,53.89944287,10.0751124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7V,24628,Hartenholm,Hofstraße,9,,53.90032207,10.07723687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7W,24628,Hartenholm,Hofstraße,9,a,53.90055996,10.07721845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7X,24628,Hartenholm,Hofstraße,9,b,53.90046752,10.07739434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7Y,24628,Hartenholm,Holunderweg,1,,53.90175861,10.07487209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7Z,24628,Hartenholm,Holunderweg,11,,53.9023769,10.07475752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7a,24628,Hartenholm,Heideweg,5,,53.88776391,10.10359818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7b,24628,Hartenholm,Heuweg,10,,53.89062327,10.05808328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7d,24628,Hartenholm,Heuweg,15,,53.89186131,10.0486155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7e,24628,Hartenholm,Heuweg,17,,53.89234019,10.04832514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7f,24628,Hartenholm,Heuweg,17,a,53.89242605,10.04818234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7g,24628,Hartenholm,Heuweg,19,,53.89351682,10.0471434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7h,24628,Hartenholm,Heuweg,2,,53.88952451,10.06392341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7i,24628,Hartenholm,Heuweg,3,,53.88940656,10.06274056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7j,24628,Hartenholm,Heuweg,6,,53.89016582,10.06034023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7k,24628,Hartenholm,Heuweg,8,,53.89032829,10.05940583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7l,24628,Hartenholm,Heuweg,9,,53.88978181,10.0606665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7m,24628,Hartenholm,Hofstraße,1,,53.89859478,10.07249066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7n,24628,Hartenholm,Hofstraße,1,a,53.89905433,10.07311795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7o,24628,Hartenholm,Hofstraße,1,b,53.89911825,10.07342516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7p,24628,Hartenholm,Hofstraße,1,c,53.89884217,10.07397855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7q,24628,Hartenholm,Hofstraße,1,d,53.8988949,10.07398666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7r,24628,Hartenholm,Hofstraße,10,,53.89865782,10.0746404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7s,24628,Hartenholm,Hofstraße,11,,53.90068392,10.0777411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7t,24628,Hartenholm,Hofstraße,12,,53.89886307,10.07475265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7u,24628,Hartenholm,Hofstraße,12,a,53.89847565,10.07575813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7v,24628,Hartenholm,Hofstraße,13,,53.90076864,10.07798184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7w,24628,Hartenholm,Hofstraße,14,,53.89896674,10.07524846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7x,24628,Hartenholm,Hofstraße,14,a,53.89910716,10.07553918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7y,24628,Hartenholm,Hofstraße,15,,53.90092573,10.07824789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv7z,24628,Hartenholm,Hofstraße,16,,53.89923341,10.0758198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv80,24628,Hartenholm,Holunderweg,2,,53.90192525,10.07537245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv81,24628,Hartenholm,Holunderweg,3,,53.90193371,10.07461731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv82,24628,Hartenholm,Holunderweg,4,,53.90215391,10.07504097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv83,24628,Hartenholm,Holunderweg,5,,53.90203728,10.07426356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv84,24628,Hartenholm,Holunderweg,7,,53.90211748,10.07393496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv85,24628,Hartenholm,Holunderweg,9,,53.90232183,10.07430576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv86,24628,Hartenholm,Im Vieh,1,,53.88163477,10.06450642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv87,24628,Hartenholm,Im Vieh,5,,53.87627145,10.06027551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv88,24628,Hartenholm,Im Winkel,1,,53.91145516,10.05128688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv89,24628,Hartenholm,Im Winkel,2,,53.91122828,10.05161611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8A,24628,Hartenholm,Jochenweg,38,,53.90140008,10.0488891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8B,24628,Hartenholm,Jochenweg,4,,53.90044103,10.05604499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8C,24628,Hartenholm,Jochenweg,6,,53.90047635,10.05559707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8D,24628,Hartenholm,Jochenweg,7,,53.9004787,10.05377121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8E,24628,Hartenholm,Jochenweg,8,,53.90048041,10.05519463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8F,24628,Hartenholm,Jochenweg,8,a,53.90048175,10.05492087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8G,24628,Hartenholm,Jochenweg,9,,53.90051718,10.05344411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8H,24628,Hartenholm,Meisenring,1,,53.90001715,10.06448011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8I,24628,Hartenholm,Meisenring,11,,53.90121636,10.06428931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8J,24628,Hartenholm,Meisenring,2,,53.9002454,10.0648122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8K,24628,Hartenholm,Meisenring,3,,53.9001839,10.06424348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8L,24628,Hartenholm,Meisenring,4,,53.9003707,10.06461665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8M,24628,Hartenholm,Meisenring,4,a,53.90062134,10.06493776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8N,24628,Hartenholm,Meisenring,5,,53.90033474,10.06398154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8O,24628,Hartenholm,Meisenring,6,,53.90054879,10.06436012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8P,24628,Hartenholm,Meisenring,7,,53.90045543,10.06375098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8Q,24628,Hartenholm,Meisenring,7,b,53.9007783,10.06334525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8R,24628,Hartenholm,Meisenring,8,,53.90098549,10.06446866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8S,24628,Hartenholm,Meisenring,9,,53.90091511,10.06395999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8T,24628,Hartenholm,Moordamm,11,,53.9028793,10.0481782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8U,24628,Hartenholm,Moordamm,11,a,53.90285419,10.04847815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8V,24628,Hartenholm,Moordamm,12,,53.90187274,10.04784336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8W,24628,Hartenholm,Moordamm,13,,53.90249203,10.04815702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8X,24628,Hartenholm,Moordamm,13,a,53.90229172,10.04829872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8Y,24628,Hartenholm,Moordamm,15,,53.90200221,10.04825074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8Z,24628,Hartenholm,Moordamm,17,,53.90149122,10.04822409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8a,24628,Hartenholm,Im Winkel,3,,53.91154142,10.05193189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8b,24628,Hartenholm,Im Winkel,4,,53.91113404,10.05237941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8c,24628,Hartenholm,Im Winkel,6,,53.91131671,10.0528939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8d,24628,Hartenholm,Jägerweg,1,,53.88887318,10.10643577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8e,24628,Hartenholm,Jochenweg,1,,53.90003207,10.05454243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8f,24628,Hartenholm,Jochenweg,10,,53.90046227,10.05458812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8g,24628,Hartenholm,Jochenweg,11,,53.90057891,10.05316931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8h,24628,Hartenholm,Jochenweg,12,,53.90082453,10.05423086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8i,24628,Hartenholm,Jochenweg,12,a,53.90067907,10.05468438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8j,24628,Hartenholm,Jochenweg,14,,53.90077944,10.05382309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8k,24628,Hartenholm,Jochenweg,15,,53.90061259,10.05243199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8l,24628,Hartenholm,Jochenweg,15,a,53.90066381,10.05214174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8m,24628,Hartenholm,Jochenweg,15,b,53.90065144,10.05183771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8n,24628,Hartenholm,Jochenweg,16,,53.90079416,10.0532946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8o,24628,Hartenholm,Jochenweg,17,,53.90091605,10.04974007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8p,24628,Hartenholm,Jochenweg,18,,53.90078349,10.05307533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8q,24628,Hartenholm,Jochenweg,19,,53.90089776,10.04911619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8r,24628,Hartenholm,Jochenweg,2,,53.90046969,10.0564844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8s,24628,Hartenholm,Jochenweg,20,,53.90082663,10.05265878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8t,24628,Hartenholm,Jochenweg,22,,53.9009246,10.05223365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8u,24628,Hartenholm,Jochenweg,24,,53.90100461,10.05170084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8v,24628,Hartenholm,Jochenweg,26,,53.90106552,10.05126554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8w,24628,Hartenholm,Jochenweg,28,,53.90113055,10.05067287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8x,24628,Hartenholm,Jochenweg,30,,53.90123422,10.04997878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8y,24628,Hartenholm,Jochenweg,32,,53.90160168,10.04997329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv8z,24628,Hartenholm,Jochenweg,34,,53.90129202,10.04928241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv90,24628,Hartenholm,Moordamm,9,,53.90320319,10.048309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv91,24628,Hartenholm,Moorweg,10,,53.89876379,10.05898223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv92,24628,Hartenholm,Moorweg,11,,53.89758629,10.06007897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv93,24628,Hartenholm,Moorweg,12,,53.898776,10.05964016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv94,24628,Hartenholm,Moorweg,13,,53.89729903,10.05991353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv95,24628,Hartenholm,Moorweg,14,,53.89857854,10.05960709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv96,24628,Hartenholm,Moorweg,15,,53.89707138,10.06008391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv97,24628,Hartenholm,Moorweg,16,,53.89838043,10.05897443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv98,24628,Hartenholm,Moorweg,17,,53.89678732,10.05995369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv99,24628,Hartenholm,Moorweg,2,,53.89932742,10.05947145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9A,24628,Hartenholm,Mühlenstraße,23,,53.88958279,10.06590126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9B,24628,Hartenholm,Mühlenstraße,24,,53.89319637,10.06393508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9C,24628,Hartenholm,Mühlenstraße,25,,53.88744167,10.0666153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9D,24628,Hartenholm,Mühlenstraße,25,a,53.88801947,10.06947302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9E,24628,Hartenholm,Mühlenstraße,26,,53.89237596,10.06417845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9F,24628,Hartenholm,Mühlenstraße,27,,53.88696102,10.06747236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9G,24628,Hartenholm,Mühlenstraße,27,a,53.88734784,10.06824493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9H,24628,Hartenholm,Mühlenstraße,27,b,53.88726436,10.06822468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9I,24628,Hartenholm,Mühlenstraße,27,c,53.88716952,10.06819357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9J,24628,Hartenholm,Mühlenstraße,28,,53.89184431,10.06405474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9K,24628,Hartenholm,Mühlenstraße,29,,53.88661361,10.06681811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9L,24628,Hartenholm,Mühlenstraße,35,,53.88473063,10.0664808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9M,24628,Hartenholm,Mühlenstraße,38,,53.88866988,10.06556797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9N,24628,Hartenholm,Mühlenstraße,4,,53.89713621,10.06670922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9O,24628,Hartenholm,Mühlenstraße,44,,53.88747099,10.06614381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9P,24628,Hartenholm,Mühlenstraße,52,,53.88537558,10.06609535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9Q,24628,Hartenholm,Mühlenstraße,54,,53.88498793,10.06555298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9R,24628,Hartenholm,Mühlenstraße,54,a,53.88513641,10.06552605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9S,24628,Hartenholm,Mühlenstraße,6,,53.89686668,10.06642998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9T,24628,Hartenholm,Mühlenstraße,7,,53.89454948,10.06481681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9U,24628,Hartenholm,Mühlenstraße,9,,53.89424742,10.06460113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9V,24628,Hartenholm,Scheideweg,11,,53.89389452,10.04745668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9W,24628,Hartenholm,Scheideweg,12,,53.89538262,10.04913527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9X,24628,Hartenholm,Scheideweg,13,,53.89357054,10.04693722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9Y,24628,Hartenholm,Scheideweg,16,,53.89465873,10.0480591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9Z,24628,Hartenholm,Scheideweg,18,,53.89453935,10.04784848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9a,24628,Hartenholm,Moorweg,2,a,53.89958798,10.05934123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9b,24628,Hartenholm,Moorweg,20,,53.8982732,10.05954918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9c,24628,Hartenholm,Moorweg,22,,53.89799213,10.05946266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9d,24628,Hartenholm,Moorweg,24,,53.89805591,10.05898439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9e,24628,Hartenholm,Moorweg,26,,53.89773915,10.05903185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9f,24628,Hartenholm,Moorweg,28,,53.8977788,10.05951022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9g,24628,Hartenholm,Moorweg,28,a,53.89778051,10.05940681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9h,24628,Hartenholm,Moorweg,3,,53.89847224,10.06011303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9i,24628,Hartenholm,Moorweg,30,,53.89750536,10.05956642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9j,24628,Hartenholm,Moorweg,4,,53.89909993,10.05956862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9k,24628,Hartenholm,Moorweg,4,a,53.89904496,10.05957726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9l,24628,Hartenholm,Moorweg,47,,53.89094238,10.05798388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9m,24628,Hartenholm,Moorweg,47,c,53.89122813,10.05894639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9n,24628,Hartenholm,Moorweg,47,d,53.89091787,10.05889093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9o,24628,Hartenholm,Moorweg,49,,53.89116858,10.0580678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9p,24628,Hartenholm,Moorweg,5,,53.89827218,10.06011239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9q,24628,Hartenholm,Moorweg,51,,53.89067567,10.05790943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9r,24628,Hartenholm,Moorweg,6,,53.89924513,10.05904924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9s,24628,Hartenholm,Moorweg,7,,53.8980836,10.06011893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9t,24628,Hartenholm,Moorweg,8,,53.89896039,10.05900306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9u,24628,Hartenholm,Moorweg,9,,53.89780545,10.06008685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9v,24628,Hartenholm,Mühlenstraße,10,,53.8962101,10.06577194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9w,24628,Hartenholm,Mühlenstraße,13,,53.89362856,10.06438369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9x,24628,Hartenholm,Mühlenstraße,15,,53.89319964,10.06471042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9y,24628,Hartenholm,Mühlenstraße,2,,53.89731207,10.06684219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cv9z,24628,Hartenholm,Mühlenstraße,20,,53.89386877,10.0638905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva0,24628,Hartenholm,Scheideweg,20,,53.89441208,10.04766285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva1,24628,Hartenholm,Scheideweg,22,,53.89428354,10.04745529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva2,24628,Hartenholm,Scheideweg,22,a,53.89420248,10.04728497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva3,24628,Hartenholm,Scheideweg,24,,53.89410001,10.04708483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva4,24628,Hartenholm,Scheideweg,26,,53.89321804,10.04552877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva5,24628,Hartenholm,Scheideweg,5,,53.89622742,10.05128451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva6,24628,Hartenholm,Scheideweg,5,a,53.8961452,10.0511605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva7,24628,Hartenholm,Schmalfelder Straße,1,,53.89829284,10.0537699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva8,24628,Hartenholm,Schmalfelder Straße,11,,53.89872466,10.05099351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cva9,24628,Hartenholm,Schmalfelder Straße,11,a,53.89874965,10.05074366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaA,24628,Hartenholm,Schwarzeneck,1,c,53.89411155,10.0459599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaB,24628,Hartenholm,Schwarzeneck,1,d,53.89426409,10.04575121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaC,24628,Hartenholm,Schwarzeneck,10,,53.89478592,10.04560648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaD,24628,Hartenholm,Schwarzeneck,11,,53.89553253,10.04313241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaE,24628,Hartenholm,Schwarzeneck,12,,53.89486131,10.04546739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaF,24628,Hartenholm,Schwarzeneck,12,a,53.89495892,10.04527587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaG,24628,Hartenholm,Schwarzeneck,13,,53.89569216,10.0430166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaH,24628,Hartenholm,Schwarzeneck,14,,53.89493237,10.04485067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaI,24628,Hartenholm,Schwarzeneck,15,,53.89580628,10.04271539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaJ,24628,Hartenholm,Schwarzeneck,16,,53.89515807,10.04483018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaK,24628,Hartenholm,Schwarzeneck,16,a,53.89560769,10.04395911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaL,24628,Hartenholm,Schwarzeneck,16,b,53.895717,10.04374822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaM,24628,Hartenholm,Schwarzeneck,16,c,53.89575423,10.04367919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaN,24628,Hartenholm,Schwarzeneck,16,d,53.89583969,10.04351999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaO,24628,Hartenholm,Schwarzeneck,16,e,53.89588038,10.0434446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaP,24628,Hartenholm,Schwarzeneck,17,,53.89588963,10.04248851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaQ,24628,Hartenholm,Schwarzeneck,17,a,53.89601933,10.04222883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaR,24628,Hartenholm,Schwarzeneck,18,,53.89607531,10.04331675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaS,24628,Hartenholm,Schwarzeneck,19,,53.8962862,10.04182395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaT,24628,Hartenholm,Schwarzeneck,2,,53.89422811,10.04647557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaU,24628,Hartenholm,Schwarzeneck,2,a,53.89401225,10.04676043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaV,24628,Hartenholm,Schwarzeneck,20,,53.89619773,10.04305916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaW,24628,Hartenholm,Schwarzeneck,22,,53.89621384,10.04273698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaX,24628,Hartenholm,Schwarzeneck,23,,53.8965248,10.04138252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaY,24628,Hartenholm,Schwarzeneck,25,,53.89658773,10.04097978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaZ,24628,Hartenholm,Schwarzeneck,26,,53.89643078,10.04228563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaa,24628,Hartenholm,Schmalfelder Straße,12,,53.89973548,10.04739304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvab,24628,Hartenholm,Schmalfelder Straße,13,,53.89921824,10.04859239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvac,24628,Hartenholm,Schmalfelder Straße,16,,53.89974355,10.04569551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvad,24628,Hartenholm,Schmalfelder Straße,16,a,53.90019589,10.04564675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvae,24628,Hartenholm,Schmalfelder Straße,18,,53.89964727,10.04509842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaf,24628,Hartenholm,Schmalfelder Straße,18,a,53.90040592,10.04525747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvag,24628,Hartenholm,Schmalfelder Straße,21,,53.89887193,10.0429475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvah,24628,Hartenholm,Schmalfelder Straße,23,,53.89879738,10.04265932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvai,24628,Hartenholm,Schmalfelder Straße,25,,53.89883136,10.04257038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaj,24628,Hartenholm,Schmalfelder Straße,26,,53.89924358,10.04177132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvak,24628,Hartenholm,Schmalfelder Straße,27,,53.89884821,10.04200129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cval,24628,Hartenholm,Schmalfelder Straße,28,,53.89908113,10.04133345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvam,24628,Hartenholm,Schmalfelder Straße,3,,53.89833415,10.05328782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvan,24628,Hartenholm,Schmalfelder Straße,31,,53.89893305,10.04118519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvao,24628,Hartenholm,Schmalfelder Straße,33,,53.89890824,10.04083999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvap,24628,Hartenholm,Schmalfelder Straße,34,,53.89942426,10.03875609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaq,24628,Hartenholm,Schmalfelder Straße,35,,53.89893986,10.04054432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvar,24628,Hartenholm,Schmalfelder Straße,37,,53.89898755,10.04010133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvas,24628,Hartenholm,Schmalfelder Straße,37,a,53.89897566,10.0402047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvat,24628,Hartenholm,Schmalfelder Straße,39,,53.89900953,10.0398084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvau,24628,Hartenholm,Schmalfelder Straße,5,,53.8983803,10.05304395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvav,24628,Hartenholm,Schmalfelder Straße,5,a,53.89843464,10.05265711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaw,24628,Hartenholm,Schmalfelder Straße,6,,53.89895945,10.05113576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvax,24628,Hartenholm,Schmalfelder Straße,7,,53.89854258,10.05198419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvay,24628,Hartenholm,Schmalfelder Straße,7,a,53.898492,10.05177666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvaz,24628,Hartenholm,Schmalfelder Straße,9,,53.89863513,10.05143146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb0,24628,Hartenholm,Schwarzeneck,27,,53.89692967,10.04072892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb1,24628,Hartenholm,Schwarzeneck,28,,53.89653852,10.04194858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb2,24628,Hartenholm,Schwarzeneck,28,a,53.89663809,10.04202766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb3,24628,Hartenholm,Schwarzeneck,29,,53.8970922,10.04059149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb4,24628,Hartenholm,Schwarzeneck,3,,53.89448556,10.04534682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb5,24628,Hartenholm,Schwarzeneck,30,,53.89670299,10.04177979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb6,24628,Hartenholm,Schwarzeneck,31,,53.89722566,10.04038766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb7,24628,Hartenholm,Schwarzeneck,32,,53.89688519,10.04153734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb8,24628,Hartenholm,Schwarzeneck,33,,53.89737478,10.04011448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvb9,24628,Hartenholm,Schwarzeneck,34,,53.89711273,10.0414306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbA,24628,Hartenholm,Timm-Schott-Weg,6,,53.90137077,10.06224031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbB,24628,Hartenholm,Todesfelder Straße,11,,53.89728719,10.07477546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbC,24628,Hartenholm,Todesfelder Straße,13,,53.88847444,10.09821437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbD,24628,Hartenholm,Todesfelder Straße,17,,53.88862116,10.1004402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbE,24628,Hartenholm,Todesfelder Straße,18,,53.89568467,10.07735921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbF,24628,Hartenholm,Todesfelder Straße,19,,53.88878266,10.10148244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbG,24628,Hartenholm,Todesfelder Straße,20,,53.89502979,10.07846925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbH,24628,Hartenholm,Todesfelder Straße,22,,53.89449708,10.07959541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbI,24628,Hartenholm,Todesfelder Straße,23,,53.88886243,10.10241372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbJ,24628,Hartenholm,Todesfelder Straße,3,,53.89772432,10.07380677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbK,24628,Hartenholm,Todesfelder Straße,31,,53.88691927,10.10640334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbL,24628,Hartenholm,Todesfelder Straße,32,,53.89286393,10.08304988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbM,24628,Hartenholm,Todesfelder Straße,34,,53.89229467,10.08412441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbN,24628,Hartenholm,Todesfelder Straße,36,,53.89221444,10.08486193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbO,24628,Hartenholm,Todesfelder Straße,37,,53.88390481,10.10727046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbP,24628,Hartenholm,Todesfelder Straße,40,,53.8882784,10.0993182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbQ,24628,Hartenholm,Todesfelder Straße,5,,53.89760475,10.07407274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbR,24628,Hartenholm,Todesfelder Straße,50,,53.88792543,10.10628331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbS,24628,Hartenholm,Todesfelder Straße,54,,53.88724694,10.10602444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbT,24628,Hartenholm,Todesfelder Straße,54,a,53.88724776,10.10574316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbU,24628,Hartenholm,Todesfelder Straße,62,,53.8857555,10.10600908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbV,24628,Hartenholm,Todesfelder Straße,7,,53.89750575,10.07430701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbW,24628,Hartenholm,Todesfelder Straße,9,,53.89734184,10.07466081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbX,24628,Hartenholm,Vossbarg,2,,53.89204116,10.06217187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbY,24628,Hartenholm,Vossbarg,999,,53.89264123,10.06119043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbZ,24628,Hartenholm,Weider Weg,14,,53.90626145,10.05458396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvba,24628,Hartenholm,Schwarzeneck,35,,53.89753301,10.04002993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbb,24628,Hartenholm,Schwarzeneck,36,,53.8972093,10.04095053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbc,24628,Hartenholm,Schwarzeneck,37,,53.89766634,10.03985225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbd,24628,Hartenholm,Schwarzeneck,38,,53.89729754,10.04081711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbe,24628,Hartenholm,Schwarzeneck,39,,53.89787039,10.03977782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbf,24628,Hartenholm,Schwarzeneck,4,,53.89431593,10.04621975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbg,24628,Hartenholm,Schwarzeneck,40,,53.89774079,10.0404967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbh,24628,Hartenholm,Schwarzeneck,41,,53.89803469,10.03979386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbi,24628,Hartenholm,Schwarzeneck,42,,53.89809052,10.04036373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbj,24628,Hartenholm,Schwarzeneck,43,,53.89817528,10.039633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbk,24628,Hartenholm,Schwarzeneck,44,,53.89830845,10.0402417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbl,24628,Hartenholm,Schwarzeneck,46,,53.89848948,10.04007633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbm,24628,Hartenholm,Schwarzeneck,48,,53.89867174,10.03997529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbn,24628,Hartenholm,Schwarzeneck,5,,53.89471678,10.04489319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbo,24628,Hartenholm,Schwarzeneck,5,a,53.89477812,10.04445055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbp,24628,Hartenholm,Schwarzeneck,6,,53.89449192,10.04605221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbq,24628,Hartenholm,Schwarzeneck,7,,53.89501015,10.04442008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbr,24628,Hartenholm,Schwarzeneck,8,,53.89464696,10.04594381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbs,24628,Hartenholm,Schwarzeneck,9,,53.89529654,10.04364372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbt,24628,Hartenholm,Timm-Schott-Weg,1,,53.90170966,10.06184619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbu,24628,Hartenholm,Timm-Schott-Weg,1,a,53.90141392,10.0615268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbv,24628,Hartenholm,Timm-Schott-Weg,10,,53.90181972,10.06269289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbw,24628,Hartenholm,Timm-Schott-Weg,12,,53.90196297,10.06284316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbx,24628,Hartenholm,Timm-Schott-Weg,2,,53.90109101,10.06146793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvby,24628,Hartenholm,Timm-Schott-Weg,3,,53.90184733,10.06149931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvbz,24628,Hartenholm,Timm-Schott-Weg,4,,53.90131822,10.06192848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc0,24628,Hartenholm,Weider Weg,16,,53.90645165,10.05442254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc1,24628,Hartenholm,Weider Weg,18,,53.90675177,10.05419611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc2,24628,Hartenholm,Weider Weg,21,,53.90734067,10.05333568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc3,24628,Hartenholm,Weider Weg,23,,53.90774652,10.05298735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc4,24628,Hartenholm,Weider Weg,26,,53.90770103,10.05355743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc5,24628,Hartenholm,Weider Weg,36,,53.90969204,10.05188267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc6,24628,Hartenholm,Weider Weg,38,,53.9100378,10.05167313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc7,24628,Hartenholm,Weider Weg,40,,53.91030253,10.05145024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc8,24628,Hartenholm,Weider Weg,43,,53.91126659,10.05026293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvc9,24628,Hartenholm,Weider Weg,44,,53.91091789,10.05107705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcA,24628,Hartenholm,Heidekoppeln,13,,53.90153691,10.05699854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcB,24628,Hartenholm,Heidekoppeln,14,,53.90169949,10.05818435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcC,24628,Hartenholm,Heidekoppeln,15,,53.90130797,10.05729577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcD,24628,Hartenholm,Heidekoppeln,17,,53.90113728,10.05747598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcE,24628,Hartenholm,Heidekoppeln,18,,53.90193011,10.0576849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcF,24628,Hartenholm,Heidekoppeln,2,,53.90064467,10.05827744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcG,24628,Hartenholm,Heidekoppeln,20,,53.9021503,10.05746704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcH,24628,Hartenholm,Heidekoppeln,24,,53.90175371,10.05688605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcI,24628,Hartenholm,Heidekoppeln,26,,53.90162546,10.05667702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcJ,24628,Hartenholm,Heidekoppeln,3,,53.90123109,10.05839367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcK,24628,Hartenholm,Heidekoppeln,30,,53.9012454,10.056188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcL,24628,Hartenholm,Heidekoppeln,32,,53.90105694,10.05586814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcM,24628,Hartenholm,Heidekoppeln,34,,53.90083012,10.05567258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcN,24628,Hartenholm,Heidekoppeln,36,,53.90084047,10.05607295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcO,24628,Hartenholm,Heidekoppeln,38,,53.90103054,10.0564681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcP,24628,Hartenholm,Heidekoppeln,4,,53.90083626,10.05849487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcQ,24628,Hartenholm,Heidekoppeln,40,,53.90120038,10.0565413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcR,24628,Hartenholm,Heidekoppeln,42,,53.90103937,10.05707945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcS,24628,Hartenholm,Heidekoppeln,46,,53.90091606,10.0573449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcT,24628,Hartenholm,Heidekoppeln,6,,53.90098263,10.0586781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcU,24628,Hartenholm,Heidekoppeln,7,,53.90148094,10.05794707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcV,24628,Hartenholm,Heidekoppeln,7,a,53.90150643,10.05787277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcW,24628,Hartenholm,Heidekoppeln,8,,53.90117254,10.05916848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcX,24628,Hartenholm,Heidekoppeln,9,,53.90160265,10.0576562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcY,24628,Hartenholm,Lütt Elendsiet,1,,53.89912953,10.06615217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcZ,24628,Hartenholm,Lütt Elendsiet,2,,53.89908663,10.06637035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvca,24628,Hartenholm,Weider Weg,48,,53.9117716,10.05031532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcb,24628,Hartenholm,Weider Weg,49,,53.91197675,10.04954454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcc,24628,Hartenholm,Weider Weg,49,a,53.91153688,10.04930835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcd,24628,Hartenholm,Weider Weg,50,,53.91213244,10.05003806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvce,24628,Hartenholm,Weider Weg,51,,53.91226354,10.04945279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcf,24628,Hartenholm,Weider Weg,53,,53.91240529,10.04933256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcg,24628,Hartenholm,Weider Weg,57,,53.91268542,10.04905197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvch,24628,Hartenholm,An der B 206,2,,53.91287151,10.05099211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvci,24628,Hartenholm,Falkenweg,1,,53.90142751,10.06664066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcj,24628,Hartenholm,Falkenweg,10,,53.90246304,10.0659394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvck,24628,Hartenholm,Falkenweg,10,a,53.90250744,10.06623777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcl,24628,Hartenholm,Falkenweg,11,,53.90220948,10.0652331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcm,24628,Hartenholm,Falkenweg,12,,53.9026642,10.06567674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcn,24628,Hartenholm,Falkenweg,13,,53.90227429,10.06489229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvco,24628,Hartenholm,Falkenweg,2,,53.90175486,10.06696828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcp,24628,Hartenholm,Falkenweg,3,,53.90162658,10.0664073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcq,24628,Hartenholm,Falkenweg,4,,53.90187136,10.06670799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcr,24628,Hartenholm,Falkenweg,5,,53.90180532,10.06615032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcs,24628,Hartenholm,Falkenweg,6,,53.90208098,10.06656143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvct,24628,Hartenholm,Falkenweg,6,a,53.9023269,10.06689015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcu,24628,Hartenholm,Falkenweg,7,,53.90196014,10.06593094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcv,24628,Hartenholm,Falkenweg,8,,53.90221792,10.06632295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcw,24628,Hartenholm,Falkenweg,9,,53.90211011,10.06561605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcx,24628,Hartenholm,Heidekoppeln,10,,53.9013482,10.0588071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcy,24628,Hartenholm,Heidekoppeln,11,,53.90175365,10.05728993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvcz,24628,Hartenholm,Heidekoppeln,12,,53.90154496,10.05855713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvd1,24628,Hartenholm,Lütt Elendsiet,4,,53.89916162,10.06666651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvd2,24628,Hartenholm,Lütt Elendsiet,5,,53.8996082,10.06668985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvd3,24628,Hartenholm,Lütt Elendsiet,6,,53.89931922,10.0669339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvd4,24628,Hartenholm,Lütt Elendsiet,8,,53.89943115,10.06699759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvd5,24628,Hartenholm,Am Torfmoor,1,,53.9024262,10.04964484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cvg3,24628,Hartenholm,Weider Weg,1,,53.91486411,10.04523633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CLge,24628,Hartenholm,Grubeleck,6,a,53.90010498,10.06566514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DM0e,24628,Hartenholm,Heidekoppeln,16,,53.90181081,10.05797948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FQzj,24628,Hartenholm,Schwarzeneck,38,a,53.89757825,10.04060084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004aimI,24628,Hartenholm,Dorfstraße,33,,53.90015164,10.05733404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055ez0,24628,Hartenholm,Heidekoppeln,19,,53.90105864,10.05782043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059d6P,24628,Hartenholm,Jochenweg,15,c,53.90071703,10.05157716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005C5PP,24628,Hartenholm,Heidekoppeln,22,,53.90197689,10.05711202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CLmA,24628,Hartenholm,Im Winkel,8,,53.91075493,10.05219357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Fz5c,24628,Hartenholm,Schwarzeneck,16,f,53.89600144,10.04364243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HP1P,24628,Hartenholm,Heidekoppeln,5,,53.90136484,10.05816841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KOEq,24628,Hartenholm,Bürgermeisterweg,2,,53.90048483,10.06185057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PPl3,24628,Hartenholm,Heidekoppeln,28,,53.90139796,10.05641673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QtFp,24628,Hartenholm,Grubeleck,11,a,53.90204407,10.0679211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZQAZ,24628,Hartenholm,Jochenweg,13,,53.90058806,10.05285317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005c0Dh,24628,Hartenholm,Weider Weg,45,,53.91157872,10.04993668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005c7mU,24628,Hartenholm,Dorfstraße,21,a,53.89967598,10.06180034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mkN6,24628,Hartenholm,Grüneneck,28,,53.89586841,10.04413442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mkN7,24628,Hartenholm,Grüneneck,28,a,53.89592407,10.04401969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xHkp,24628,Hartenholm,Jochenweg,15,d,53.90072219,10.05120982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000606Ti,24628,Hartenholm,Dorfstraße,23,a,53.89941944,10.06122828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wsB,24628,Hartenholm,Dorfstraße,43,,53.89897604,10.05525734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061iAh,24628,Hartenholm,Dorfstraße,31,b,53.89965935,10.05780793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KMOy,24628,Hartenholm,Hahneneck,7,a,53.90610693,10.05422549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Sk0e,24628,Hartenholm,Weinskoppel,15,,53.90200351,10.05609849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fsxB,24628,Hartenholm,Jochenweg,15,e,53.90077768,10.0508021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073UQp,24628,Hartenholm,Weinskoppel,7,,53.90256413,10.05643809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073UQv,24628,Hartenholm,Weinskoppel,12,,53.90282975,10.0554451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077KA6,24628,Hartenholm,Weinskoppel,4,,53.90294494,10.05643823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077oCf,24628,Hartenholm,Moorweg,1,,53.89864573,10.06011429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007AXpP,24628,Hartenholm,Bürgermeisterweg,2,a,53.90050292,10.06221195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DvL8,24628,Hartenholm,Weinskoppel,37,,53.90117099,10.05446661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007N0K3,24628,Hartenholm,Weinskoppel,22,,53.9022189,10.05471985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007OKHI,24628,Hartenholm,Weinskoppel,20,,53.90233282,10.05528008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PsPv,24628,Hartenholm,Weinskoppel,11,,53.90232727,10.05618097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R0ro,24628,Hartenholm,Grüneneck,25,,53.89568704,10.04505596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R0rr,24628,Hartenholm,Grüneneck,25,a,53.89563583,10.0451552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R0ru,24628,Hartenholm,Grüneneck,25,b,53.89550201,10.04541829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R0rx,24628,Hartenholm,Grüneneck,25,c,53.89544976,10.04552199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SZcI,24628,Hartenholm,Weinskoppel,9,,53.90245214,10.05589688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007T5Uy,24628,Hartenholm,Weinskoppel,23,,53.90168887,10.05541423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WW7g,24628,Hartenholm,Weinskoppel,21,,53.90191086,10.05523463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WWot,24628,Hartenholm,Schmalfelder Straße,29,,53.89888102,10.0416403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007XAn9,24628,Hartenholm,Weinskoppel,33,,53.90117535,10.05514995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YFTw,24628,Hartenholm,Grubeleck,14,a,53.90191362,10.06829516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gBe5,24628,Hartenholm,Lütt Elendsiet,3,,53.8994448,10.06637997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kHJh,24628,Hartenholm,Bürgermeisterweg,1,,53.90047434,10.06125626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lcFa,24628,Hartenholm,Weinskoppel,16,,53.90262464,10.05519558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mQZO,24628,Hartenholm,Weinskoppel,8,,53.9031515,10.05580219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007paCH,24628,Hartenholm,Weinskoppel,26,,53.90184446,10.05476208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qAp0,24628,Hartenholm,Weinskoppel,3,,53.90282358,10.0567943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007sLH5,24628,Hartenholm,Schwarzeneck,44,a,53.89826408,10.04026327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tlRn,24628,Hartenholm,Weinskoppel,19,,53.90219061,10.05558195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007uah6,24628,Hartenholm,Dorfstraße,21,b,53.89968867,10.06165128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007uiBQ,24628,Hartenholm,Weinskoppel,28,,53.90200716,10.05448536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007uj13,24628,Hartenholm,Weinskoppel,5,,53.90257995,10.05697058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vTGv,24628,Hartenholm,Weinskoppel,6,,53.90304542,10.05610438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vr8D,24628,Hartenholm,Weinskoppel,24,,53.9020711,10.05499073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wVDf,24628,Hartenholm,Weinskoppel,35,,53.90120456,10.05483748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xPm5,24628,Hartenholm,Weinskoppel,32,,53.90165898,10.05439843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yeCO,24628,Hartenholm,Weinskoppel,18,,53.90240333,10.05496756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081jth,24628,Hartenholm,Dorfstraße,21,c,53.89927486,10.06184904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000828ee,24628,Hartenholm,Dorfstraße,4,a,53.89850433,10.06693835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082hRZ,24628,Hartenholm,Hofstraße,13,c,53.90093587,10.07785341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082hS3,24628,Hartenholm,Hofstraße,13,b,53.900898,10.0777747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082hS7,24628,Hartenholm,Hofstraße,13,a,53.90080703,10.07806604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089y3q,24628,Hartenholm,Weider Weg,42,,53.910685,10.0510793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089y3t,24628,Hartenholm,Weider Weg,40,a,53.91048338,10.05123893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AB9v,24628,Hartenholm,Weinskoppel,1,,53.90305066,10.05693585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BUWe,24628,Hartenholm,Wiesendamm,6,,53.90350024,10.05271255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008D6Gs,24628,Hartenholm,Timm-Schott-Weg,5,,53.90200039,10.06136205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DcHC,24628,Hartenholm,Dorfplatz,6,a,53.9008573,10.06138665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DcHF,24628,Hartenholm,Dorfplatz,6,b,53.90078893,10.06155804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DcHI,24628,Hartenholm,Dorfplatz,6,c,53.9007541,10.06164557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008E4W9,24628,Hartenholm,Heidekoppeln,44,,53.90086352,10.05675222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EC18,24628,Hartenholm,Schwarzeneck,24,,53.89632085,10.04250907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EC5W,24628,Hartenholm,Schwarzeneck,7,a,53.89490826,10.04420752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Egng,24628,Hartenholm,Am Torfmoor,2,,53.90245387,10.04891203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GWM1,24628,Hartenholm,Bürgermeisterweg,14,a,53.90154124,10.06361954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KpmZ,24628,Hartenholm,Fuhlenrüer Straße,2,a,53.9033057,10.05635121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cNm0,24628,Hartenholm,Heuweg,11,,53.89039319,10.05703593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ko3Y,24628,Hartenholm,Weinskoppel,10,,53.90277094,10.05573615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008vmkA,24628,Hartenholm,Dorfstraße,22,a,53.90021849,10.06322145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008vmkw,24628,Hartenholm,Dorfstraße,22,b,53.90029636,10.06333493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xuoZ,24628,Hartenholm,Im Winkel,10,,53.91065952,10.05181612

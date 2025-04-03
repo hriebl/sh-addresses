@@ -1,0 +1,830 @@
+# Amtliche Adressen für die Postleitzahl 23746
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A0,23746,Kellenhusen,Ostlandstraße,21,,54.1947637,11.06421366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A1,23746,Kellenhusen,Ostlandstraße,22,,54.19446813,11.0665784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A2,23746,Kellenhusen,Ostlandstraße,23,,54.19493365,11.06360968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A3,23746,Kellenhusen,Ostlandstraße,23,a,54.19488557,11.06327926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A4,23746,Kellenhusen,Ostlandstraße,24,,54.19431692,11.06643552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A5,23746,Kellenhusen,Ostlandstraße,25,,54.19501198,11.06303122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A6,23746,Kellenhusen,Ostlandstraße,26,a,54.1949603,11.06524868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A7,23746,Kellenhusen,Ostlandstraße,27,,54.19503332,11.06278142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A8,23746,Kellenhusen,Ostlandstraße,28,,54.1949777,11.06486256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1A9,23746,Kellenhusen,Ostlandstraße,29,,54.19528214,11.06185794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AA,23746,Kellenhusen,Rosenstraße,11,,54.19356718,11.05626478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AB,23746,Kellenhusen,Rosenstraße,2,,54.19314048,11.05610744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AC,23746,Kellenhusen,Rosenstraße,3,,54.19321345,11.05579733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AD,23746,Kellenhusen,Rosenstraße,4,,54.19321555,11.05620876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AE,23746,Kellenhusen,Rosenstraße,5,,54.19333219,11.05595439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AF,23746,Kellenhusen,Rosenstraße,6,,54.19346182,11.05650583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AG,23746,Kellenhusen,Rosenstraße,7,,54.19345121,11.05611645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AH,23746,Kellenhusen,Rosenstraße,9,,54.19351648,11.05601997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AI,23746,Kellenhusen,Seestraße,1,,54.19094611,11.0611808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AJ,23746,Kellenhusen,Seestraße,11,,54.19123297,11.06184391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AK,23746,Kellenhusen,Seestraße,12,,54.19131819,11.06320564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AL,23746,Kellenhusen,Seestraße,12,a,54.19123597,11.06298336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AM,23746,Kellenhusen,Seestraße,13,,54.19127195,11.06214802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AN,23746,Kellenhusen,Seestraße,15,,54.19129813,11.06222764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AO,23746,Kellenhusen,Seestraße,17,,54.19156528,11.06277971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AP,23746,Kellenhusen,Seestraße,19,,54.19156528,11.06277971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AQ,23746,Kellenhusen,Seestraße,2,,54.19089891,11.06170397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AR,23746,Kellenhusen,Seestraße,21,,54.19156528,11.06277971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AS,23746,Kellenhusen,Seestraße,25,,54.19171191,11.06358822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AT,23746,Kellenhusen,Seestraße,3,,54.19098325,11.06128181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AU,23746,Kellenhusen,Seestraße,4,,54.19097717,11.06199648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AV,23746,Kellenhusen,Seestraße,5,,54.19107673,11.06144015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AW,23746,Kellenhusen,Seestraße,6,,54.1909832,11.06226393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AX,23746,Kellenhusen,Seestraße,7,,54.19111223,11.06153542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AY,23746,Kellenhusen,Seestraße,8,,54.19109598,11.06258645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1AZ,23746,Kellenhusen,Seestraße,9,,54.1911612,11.06170742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Aa,23746,Kellenhusen,Ostlandstraße,3,,54.1936655,11.06698531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ab,23746,Kellenhusen,Ostlandstraße,30,,54.19514761,11.06415568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ac,23746,Kellenhusen,Ostlandstraße,31,,54.19533459,11.06164704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ad,23746,Kellenhusen,Ostlandstraße,32,,54.19516699,11.06389034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ae,23746,Kellenhusen,Ostlandstraße,34,,54.19519245,11.06360358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Af,23746,Kellenhusen,Ostlandstraße,36,,54.19539352,11.06263545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ag,23746,Kellenhusen,Ostlandstraße,38,,54.19547085,11.06231234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ah,23746,Kellenhusen,Ostlandstraße,40,,54.19549391,11.06190476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ai,23746,Kellenhusen,Ostlandstraße,5,,54.193771,11.06670783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Aj,23746,Kellenhusen,Ostlandstraße,7,,54.19389883,11.06648297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ak,23746,Kellenhusen,Ostlandstraße,9,,54.19360619,11.0662714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Al,23746,Kellenhusen,Am Rapsfeld,1,,54.19746426,11.06397036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Am,23746,Kellenhusen,Am Rapsfeld,10,,54.19793395,11.06497436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1An,23746,Kellenhusen,Am Rapsfeld,2,,54.1972836,11.06442227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ao,23746,Kellenhusen,Am Rapsfeld,3,,54.19756728,11.06417216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ap,23746,Kellenhusen,Am Rapsfeld,4,,54.1974564,11.06458736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Aq,23746,Kellenhusen,Am Rapsfeld,5,,54.1977166,11.06432699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ar,23746,Kellenhusen,Am Rapsfeld,6,,54.19761199,11.06473565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1As,23746,Kellenhusen,Am Rapsfeld,7,,54.1979099,11.06443815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1At,23746,Kellenhusen,Am Rapsfeld,8,,54.19771003,11.06500306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Au,23746,Kellenhusen,Am Rapsfeld,9,,54.19801425,11.06455844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Av,23746,Kellenhusen,Ortsteil Rittbruch,999,,54.1876108,11.03799773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Aw,23746,Kellenhusen,Rittbruchweg,1,,54.18825634,11.03860956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ax,23746,Kellenhusen,Rittbruchweg,1,a,54.18769964,11.03848149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ay,23746,Kellenhusen,Rittbruchweg,2,,54.18804811,11.03762005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Az,23746,Kellenhusen,Rosenstraße,1,,54.19307503,11.05560601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B0,23746,Kellenhusen,Schützenweg,1,,54.1918744,11.06385628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B1,23746,Kellenhusen,Schützenweg,10,,54.19392438,11.0610312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B2,23746,Kellenhusen,Schützenweg,11,,54.19262324,11.06265221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B3,23746,Kellenhusen,Schützenweg,12,,54.19395313,11.06078383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B4,23746,Kellenhusen,Schützenweg,13,,54.19277755,11.06241324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B5,23746,Kellenhusen,Schützenweg,15,,54.19288016,11.06223559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B6,23746,Kellenhusen,Schützenweg,17,,54.19349003,11.06123103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B7,23746,Kellenhusen,Schützenweg,19,,54.19373622,11.06063722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B8,23746,Kellenhusen,Schützenweg,2,,54.19204108,11.06417098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1B9,23746,Kellenhusen,Schützenweg,2,a,54.19267656,11.06355719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BA,23746,Kellenhusen,Strandpromenade,2,,54.19303986,11.06934378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BB,23746,Kellenhusen,Strandpromenade,23,,54.18866718,11.06233298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BC,23746,Kellenhusen,Strandpromenade,26,,54.18835763,11.06185964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BD,23746,Kellenhusen,Strandpromenade,3,,54.19272611,11.06864688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BE,23746,Kellenhusen,Strandpromenade,32,,54.18742654,11.06075456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BF,23746,Kellenhusen,Strandpromenade,37,,54.186419,11.05965904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BG,23746,Kellenhusen,Strandpromenade,4,,54.19217133,11.06747421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BH,23746,Kellenhusen,Strandpromenade,5,,54.19210352,11.06732013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BI,23746,Kellenhusen,Strandpromenade,6,,54.1919254,11.06693359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BJ,23746,Kellenhusen,Strandpromenade,8,,54.19149622,11.06595417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BK,23746,Kellenhusen,Strandstraße,2,,54.18869591,11.05942867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BL,23746,Kellenhusen,Strandstraße,4,,54.18831606,11.05975107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BM,23746,Kellenhusen,Strandstraße,7,,54.18868538,11.05976601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BN,23746,Kellenhusen,Theodor-Storm-Weg,1,,54.19124195,11.06035302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BO,23746,Kellenhusen,Theodor-Storm-Weg,10,,54.19147405,11.06053832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BP,23746,Kellenhusen,Theodor-Storm-Weg,12,,54.19151754,11.06048328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BQ,23746,Kellenhusen,Theodor-Storm-Weg,14,,54.19160632,11.06035695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BR,23746,Kellenhusen,Theodor-Storm-Weg,16,,54.19165186,11.06029948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BS,23746,Kellenhusen,Theodor-Storm-Weg,18,,54.19172947,11.0601666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BT,23746,Kellenhusen,Theodor-Storm-Weg,2,,54.19118318,11.06083199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BU,23746,Kellenhusen,Theodor-Storm-Weg,20,,54.19177233,11.06011145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BV,23746,Kellenhusen,Theodor-Storm-Weg,22,,54.19189954,11.06004703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BW,23746,Kellenhusen,Theodor-Storm-Weg,24,,54.19194089,11.0599928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BX,23746,Kellenhusen,Theodor-Storm-Weg,3,,54.19136727,11.06019759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BY,23746,Kellenhusen,Theodor-Storm-Weg,4,,54.19122955,11.06074308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1BZ,23746,Kellenhusen,Theodor-Storm-Weg,5,,54.19149769,11.06002013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ba,23746,Kellenhusen,Schützenweg,21,,54.19385627,11.0604509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bb,23746,Kellenhusen,Schützenweg,23,,54.19399672,11.06024995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bc,23746,Kellenhusen,Schützenweg,25,,54.19412794,11.06004428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bd,23746,Kellenhusen,Schützenweg,3,,54.19205059,11.06340232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Be,23746,Kellenhusen,Schützenweg,4,,54.19306286,11.06282649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bf,23746,Kellenhusen,Schützenweg,5,,54.19220751,11.06323066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bg,23746,Kellenhusen,Schützenweg,6,,54.19338357,11.06223932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bh,23746,Kellenhusen,Schützenweg,7,,54.19232746,11.06294609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bi,23746,Kellenhusen,Schützenweg,8,,54.19370873,11.06114989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bj,23746,Kellenhusen,Schützenweg,9,,54.19247098,11.06276276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bk,23746,Kellenhusen,Schlehenkoppel,1,,54.19661865,11.06600867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bl,23746,Kellenhusen,Schlehenkoppel,10,,54.19705022,11.06723485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bm,23746,Kellenhusen,Schlehenkoppel,12,,54.19717786,11.0670222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bn,23746,Kellenhusen,Schlehenkoppel,2,,54.19641,11.06639496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bo,23746,Kellenhusen,Schlehenkoppel,3,,54.19681705,11.06622646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bp,23746,Kellenhusen,Schlehenkoppel,4,,54.19660584,11.06650535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bq,23746,Kellenhusen,Schlehenkoppel,5,,54.19696528,11.06639382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Br,23746,Kellenhusen,Schlehenkoppel,6,,54.19679016,11.06673359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bs,23746,Kellenhusen,Schlehenkoppel,7,,54.19712493,11.06656296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bt,23746,Kellenhusen,Schlehenkoppel,8,,54.19688293,11.06697939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bu,23746,Kellenhusen,Schlehenkoppel,9,,54.19729726,11.06674417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bv,23746,Kellenhusen,Strandpromenade,1,,54.19316163,11.06954148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bw,23746,Kellenhusen,Strandpromenade,11,,54.19160673,11.0652271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bx,23746,Kellenhusen,Strandpromenade,14,,54.1906289,11.06488629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1By,23746,Kellenhusen,Strandpromenade,18,,54.18953229,11.06342807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Bz,23746,Kellenhusen,Strandpromenade,19,,54.18928169,11.06309825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C0,23746,Kellenhusen,Theodor-Storm-Weg,6,,54.19133812,11.06066029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C1,23746,Kellenhusen,Theodor-Storm-Weg,7,,54.19164809,11.05979661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C2,23746,Kellenhusen,Theodor-Storm-Weg,8,,54.19136226,11.06062936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C3,23746,Kellenhusen,Theodor-Storm-Weg,9,,54.1917806,11.0596143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C4,23746,Kellenhusen,Ortsteil Vogelsang,999,,54.20180019,11.07119114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C5,23746,Kellenhusen,Vogelsang,1,,54.20316924,11.06991707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C6,23746,Kellenhusen,Vogelsang,2,,54.20114922,11.07180146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C7,23746,Kellenhusen,Vogelsang,3,,54.20166757,11.07211475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C8,23746,Kellenhusen,Vogelsang,5,,54.20179143,11.07284868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1C9,23746,Kellenhusen,Vogelsang,7,,54.20278198,11.07443346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CA,23746,Kellenhusen,Waldstraße,7,,54.19078188,11.05901262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CB,23746,Kellenhusen,Waldstraße,8,,54.19140653,11.05877754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CC,23746,Kellenhusen,Waldstraße,9,,54.19090389,11.0588379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CD,23746,Kellenhusen,Im Grünen Winkel,10,,54.1935965,11.05991266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CE,23746,Kellenhusen,Im Grünen Winkel,2,a,54.19367135,11.05883527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CF,23746,Kellenhusen,Im Grünen Winkel,2,b,54.19361989,11.0589137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CG,23746,Kellenhusen,Im Grünen Winkel,2,c,54.19357164,11.05899702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CH,23746,Kellenhusen,Im Grünen Winkel,4,,54.19347657,11.05912809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CI,23746,Kellenhusen,Im Grünen Winkel,6,,54.19328924,11.05943598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CJ,23746,Kellenhusen,Im Grünen Winkel,8,,54.19346493,11.05975755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CK,23746,Kellenhusen,Wintershörn,1,,54.18756687,11.05598992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CL,23746,Kellenhusen,Wintershörn,10,,54.18712978,11.05482164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CM,23746,Kellenhusen,Wintershörn,11,,54.18689442,11.05545266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CN,23746,Kellenhusen,Wintershörn,12,,54.18700405,11.05449434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CO,23746,Kellenhusen,Wintershörn,12,a,54.18693386,11.05418701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CP,23746,Kellenhusen,Wintershörn,13,,54.18679834,11.05572888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CQ,23746,Kellenhusen,Wintershörn,14,,54.18686372,11.05493459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CR,23746,Kellenhusen,Wintershörn,15,,54.18670236,11.05590273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CS,23746,Kellenhusen,Wintershörn,16,,54.1867258,11.05526215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CT,23746,Kellenhusen,Wintershörn,18,,54.1866641,11.05550238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CU,23746,Kellenhusen,Wintershörn,2,,54.18778831,11.05566938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CV,23746,Kellenhusen,Wintershörn,2,a,54.18780593,11.05540469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CW,23746,Kellenhusen,Wintershörn,20,,54.18654115,11.05577039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CX,23746,Kellenhusen,Wintershörn,4,,54.1875814,11.05546081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CY,23746,Kellenhusen,Wintershörn,4,a,54.1877062,11.05510624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1CZ,23746,Kellenhusen,Wintershörn,6,,54.18739564,11.05521658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ca,23746,Kellenhusen,Waldstraße,1,,54.19036883,11.05963573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cb,23746,Kellenhusen,Waldstraße,10,,54.1915262,11.05851492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cc,23746,Kellenhusen,Waldstraße,11,,54.19101486,11.05867475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cd,23746,Kellenhusen,Waldstraße,12,,54.19164177,11.05836693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ce,23746,Kellenhusen,Waldstraße,13,,54.19110915,11.05853001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cf,23746,Kellenhusen,Waldstraße,14,,54.19175382,11.05821453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cg,23746,Kellenhusen,Waldstraße,15,,54.1912566,11.05836802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ch,23746,Kellenhusen,Waldstraße,15,a,54.19142693,11.05732651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ci,23746,Kellenhusen,Waldstraße,16,,54.19188519,11.0581027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cj,23746,Kellenhusen,Waldstraße,17,,54.19140688,11.05811884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ck,23746,Kellenhusen,Waldstraße,18,,54.19204868,11.05788773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cl,23746,Kellenhusen,Waldstraße,19,,54.19167964,11.0577626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cm,23746,Kellenhusen,Waldstraße,2,a,54.1909114,11.05980355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cn,23746,Kellenhusen,Waldstraße,20,,54.19221378,11.05769989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Co,23746,Kellenhusen,Waldstraße,21,,54.19182157,11.05757284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cq,23746,Kellenhusen,Waldstraße,23,,54.19191943,11.05741047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cr,23746,Kellenhusen,Waldstraße,24,,54.19249951,11.05677909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cs,23746,Kellenhusen,Waldstraße,25,,54.19201076,11.05716494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ct,23746,Kellenhusen,Waldstraße,27,,54.19229129,11.05680021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cu,23746,Kellenhusen,Waldstraße,28,,54.19284444,11.05597989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cv,23746,Kellenhusen,Waldstraße,30,,54.19328589,11.05517498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cw,23746,Kellenhusen,Waldstraße,32,,54.19361117,11.05453839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cx,23746,Kellenhusen,Waldstraße,4,a,54.19109278,11.05914466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cy,23746,Kellenhusen,Waldstraße,5,,54.1906623,11.05920185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Cz,23746,Kellenhusen,Waldstraße,6,,54.19126269,11.05900445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D0,23746,Kellenhusen,Wintershörn,6,a,54.18756204,11.0548607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D1,23746,Kellenhusen,Wintershörn,8,,54.18725859,11.05505281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D2,23746,Kellenhusen,Wintershörn,8,a,54.18735435,11.05478916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D3,23746,Kellenhusen,Wintershörn,9,,54.18701947,11.05515736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D4,23746,Kellenhusen,Amselweg,10,,54.19331921,11.06399643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D5,23746,Kellenhusen,Amselweg,11,,54.19331921,11.06399643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D6,23746,Kellenhusen,Amselweg,12,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D7,23746,Kellenhusen,Amselweg,13,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D8,23746,Kellenhusen,Amselweg,14,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1D9,23746,Kellenhusen,Amselweg,15,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DA,23746,Kellenhusen,Meisenweg,13,,54.19640334,11.06708557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DB,23746,Kellenhusen,Meisenweg,14,,54.19543668,11.06665959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DC,23746,Kellenhusen,Meisenweg,15,,54.19655467,11.06714877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DD,23746,Kellenhusen,Meisenweg,16,,54.19547053,11.06674008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DE,23746,Kellenhusen,Meisenweg,17,,54.19663069,11.06723007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DF,23746,Kellenhusen,Meisenweg,18,,54.19555468,11.06682882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DG,23746,Kellenhusen,Meisenweg,2,,54.19481748,11.06587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DH,23746,Kellenhusen,Meisenweg,20,,54.19561204,11.06684508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DI,23746,Kellenhusen,Meisenweg,22,,54.19567832,11.06691681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DJ,23746,Kellenhusen,Meisenweg,24,,54.19571393,11.06700045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DK,23746,Kellenhusen,Meisenweg,26,,54.19580081,11.06708903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DL,23746,Kellenhusen,Meisenweg,28,,54.19583732,11.06712733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DM,23746,Kellenhusen,Meisenweg,3,,54.1951534,11.06569085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DN,23746,Kellenhusen,Meisenweg,30,,54.19592158,11.06721729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DO,23746,Kellenhusen,Meisenweg,32,,54.19595974,11.06725749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DP,23746,Kellenhusen,Meisenweg,34,,54.19604378,11.06734652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DQ,23746,Kellenhusen,Meisenweg,36,,54.19608152,11.06738631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DR,23746,Kellenhusen,Meisenweg,38,,54.196347,11.06750954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DS,23746,Kellenhusen,Meisenweg,4,,54.19481748,11.06587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DT,23746,Kellenhusen,Meisenweg,40,,54.19638542,11.06780537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DU,23746,Kellenhusen,Meisenweg,42,,54.19650099,11.0681445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DV,23746,Kellenhusen,Meisenweg,5,,54.19574806,11.06635274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DW,23746,Kellenhusen,Meisenweg,6,,54.19481748,11.06587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DX,23746,Kellenhusen,Meisenweg,7,,54.19589345,11.06649738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DY,23746,Kellenhusen,Meisenweg,8,,54.19481748,11.06587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1DZ,23746,Kellenhusen,Meisenweg,9,,54.19608533,11.06668202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Da,23746,Kellenhusen,Amselweg,16,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Db,23746,Kellenhusen,Amselweg,17,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dc,23746,Kellenhusen,Amselweg,18,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dd,23746,Kellenhusen,Amselweg,19,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1De,23746,Kellenhusen,Amselweg,2,,54.19395549,11.06504386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Df,23746,Kellenhusen,Amselweg,20,,54.19378909,11.06354169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dg,23746,Kellenhusen,Amselweg,21,,54.19324948,11.06379476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dh,23746,Kellenhusen,Amselweg,22,,54.19324948,11.06379476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Di,23746,Kellenhusen,Amselweg,23,,54.19324948,11.06379476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dj,23746,Kellenhusen,Amselweg,24,,54.19324948,11.06379476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dk,23746,Kellenhusen,Amselweg,25,,54.19324948,11.06379476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dl,23746,Kellenhusen,Amselweg,26,,54.19339975,11.06336387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dm,23746,Kellenhusen,Amselweg,27,,54.19339975,11.06336387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dn,23746,Kellenhusen,Amselweg,28,,54.19339975,11.06336387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Do,23746,Kellenhusen,Amselweg,29,,54.19339975,11.06336387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dp,23746,Kellenhusen,Amselweg,30,,54.19354968,11.06315312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dq,23746,Kellenhusen,Amselweg,31,,54.19354968,11.06315312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dr,23746,Kellenhusen,Amselweg,32,,54.19354968,11.06315312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ds,23746,Kellenhusen,Amselweg,4,,54.19383509,11.06486183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dt,23746,Kellenhusen,Amselweg,6,,54.19359458,11.06447417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Du,23746,Kellenhusen,Amselweg,8,,54.19344753,11.06430564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dv,23746,Kellenhusen,Amselweg,9,,54.19331921,11.06399643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dw,23746,Kellenhusen,Meisenweg,1,,54.1948673,11.0655247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dx,23746,Kellenhusen,Meisenweg,10,,54.19481748,11.06587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dy,23746,Kellenhusen,Meisenweg,11,,54.19625139,11.06688461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Dz,23746,Kellenhusen,Meisenweg,12,,54.19532834,11.06650155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E0,23746,Kellenhusen,Drosselgang,1,,54.19535976,11.06431365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E1,23746,Kellenhusen,Drosselgang,10,,54.19614344,11.06586499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E2,23746,Kellenhusen,Drosselgang,11,,54.19627784,11.06545144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E3,23746,Kellenhusen,Drosselgang,12,,54.19628229,11.06610116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E4,23746,Kellenhusen,Drosselgang,13,,54.19647071,11.06542787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E5,23746,Kellenhusen,Drosselgang,15,,54.19669314,11.06514446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E6,23746,Kellenhusen,Drosselgang,17,,54.19678004,11.06490943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E7,23746,Kellenhusen,Drosselgang,19,,54.19688019,11.06464947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E8,23746,Kellenhusen,Drosselgang,2,,54.19507938,11.06456188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1E9,23746,Kellenhusen,Drosselgang,2,a,54.19517806,11.06462463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EA,23746,Kellenhusen,Leuchtturmweg,3,a,54.19269197,11.06562758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EB,23746,Kellenhusen,Leuchtturmweg,3,b,54.19339083,11.06541022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EC,23746,Kellenhusen,Leuchtturmweg,3,c,54.1931222,11.06584186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ED,23746,Kellenhusen,Leuchtturmweg,3,d,54.19303438,11.06634031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EE,23746,Kellenhusen,Leuchtturmweg,4,,54.19378601,11.06808682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EF,23746,Kellenhusen,Leuchtturmweg,5,,54.19322116,11.06676168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EG,23746,Kellenhusen,Leuchtturmweg,6,,54.19368582,11.06788935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EH,23746,Kellenhusen,Leuchtturmweg,7,,54.19328327,11.06695726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EI,23746,Kellenhusen,Leuchtturmweg,8,,54.19357574,11.06770169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EJ,23746,Kellenhusen,Leuchtturmweg,9,,54.19335511,11.06716919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EK,23746,Kellenhusen,Dahmer Weg,10,,54.19573692,11.06193605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EL,23746,Kellenhusen,Dahmer Weg,12,,54.19585773,11.06212783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EM,23746,Kellenhusen,Dahmer Weg,13,,54.19577702,11.06128303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EN,23746,Kellenhusen,Dahmer Weg,14,,54.19598943,11.06225745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EO,23746,Kellenhusen,Dahmer Weg,15,,54.19590259,11.06166157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EP,23746,Kellenhusen,Dahmer Weg,16,,54.19613767,11.06230477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EQ,23746,Kellenhusen,Dahmer Weg,17,,54.19609931,11.06138414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ER,23746,Kellenhusen,Dahmer Weg,18,,54.19649275,11.06267568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ES,23746,Kellenhusen,Dahmer Weg,19,,54.19641172,11.06160769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ET,23746,Kellenhusen,Dahmer Weg,21,,54.19621131,11.06191443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EU,23746,Kellenhusen,Dahmer Weg,27,,54.19680214,11.06205757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EV,23746,Kellenhusen,Dahmer Weg,27,a,54.19700341,11.06221321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EW,23746,Kellenhusen,Dahmer Weg,29,,54.19682812,11.06250633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EX,23746,Kellenhusen,Dahmer Weg,31,,54.19700273,11.06269263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EY,23746,Kellenhusen,Dahmer Weg,33,,54.19708033,11.06274718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1EZ,23746,Kellenhusen,Dahmer Weg,35,,54.1972151,11.06288974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ea,23746,Kellenhusen,Drosselgang,21,,54.19697126,11.06439505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eb,23746,Kellenhusen,Drosselgang,3,,54.19553299,11.06436023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ec,23746,Kellenhusen,Drosselgang,4,,54.19531098,11.06480828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ed,23746,Kellenhusen,Drosselgang,5,,54.19572614,11.06441988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ee,23746,Kellenhusen,Drosselgang,6,,54.19546695,11.0650357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ef,23746,Kellenhusen,Drosselgang,7,,54.19581651,11.06489625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eg,23746,Kellenhusen,Drosselgang,8,,54.19596278,11.06571225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eh,23746,Kellenhusen,Drosselgang,9,,54.19597113,11.06515968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ei,23746,Kellenhusen,Drosselgang,9,a,54.1960305,11.06524517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ej,23746,Kellenhusen,Lerchenweg,1,,54.19558577,11.06300082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ek,23746,Kellenhusen,Lerchenweg,10,,54.19607217,11.06338703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1El,23746,Kellenhusen,Lerchenweg,12,,54.19621063,11.06309218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Em,23746,Kellenhusen,Lerchenweg,14,,54.1962268,11.06274965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1En,23746,Kellenhusen,Lerchenweg,2,a,54.19544981,11.06346387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eo,23746,Kellenhusen,Lerchenweg,2,b,54.19544344,11.0635728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ep,23746,Kellenhusen,Lerchenweg,2,c,54.19543694,11.06368304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eq,23746,Kellenhusen,Lerchenweg,3,,54.19575956,11.06307877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Er,23746,Kellenhusen,Lerchenweg,4,,54.19559231,11.06351932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Es,23746,Kellenhusen,Lerchenweg,5,,54.19593148,11.06274265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Et,23746,Kellenhusen,Lerchenweg,6,,54.19576413,11.06355839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Eu,23746,Kellenhusen,Lerchenweg,8,,54.19591971,11.06346803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ev,23746,Kellenhusen,Leuchtturmweg,1,,54.19219812,11.06482589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ew,23746,Kellenhusen,Leuchtturmweg,1,a,54.1924804,11.06435603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ex,23746,Kellenhusen,Leuchtturmweg,1,b,54.19262413,11.06419952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ey,23746,Kellenhusen,Leuchtturmweg,2,,54.19389137,11.06826133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Ez,23746,Kellenhusen,Leuchtturmweg,3,,54.19283201,11.06481875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F0,23746,Kellenhusen,Dahmer Weg,37,,54.19725154,11.06292819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F1,23746,Kellenhusen,Dahmer Weg,39,,54.19741092,11.06309451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F2,23746,Kellenhusen,Dahmer Weg,41,,54.19748354,11.06311366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F3,23746,Kellenhusen,Dahmer Weg,45,,54.19772588,11.06342228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F4,23746,Kellenhusen,Dahmer Weg,47,,54.19790859,11.0635717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F5,23746,Kellenhusen,Dahmer Weg,49,,54.19795678,11.06362372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F6,23746,Kellenhusen,Dahmer Weg,51,,54.19808687,11.06377416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F7,23746,Kellenhusen,Dahmer Weg,53,,54.19812304,11.06381057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F8,23746,Kellenhusen,Dahmer Weg,55,,54.19820431,11.06389436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1F9,23746,Kellenhusen,Dahmer Weg,57,,54.19824664,11.06394287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Fa,23746,Kellenhusen,Dahmer Weg,59,,54.19837002,11.06409205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Fb,23746,Kellenhusen,Dahmer Weg,8,a,54.19521914,11.0614112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Fc,23746,Kellenhusen,Dahmer Weg,8,b,54.19521914,11.0614112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1Fd,23746,Kellenhusen,Dahmer Weg,8,c,54.19521914,11.0614112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u4,23746,Kellenhusen,Am Obstgarten,1,,54.1895623,11.05600611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u5,23746,Kellenhusen,Am Obstgarten,10,,54.18930487,11.05663094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u7,23746,Kellenhusen,Am Obstgarten,2,,54.18952017,11.0554531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u8,23746,Kellenhusen,Am Obstgarten,3,,54.189511,11.0563091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u9,23746,Kellenhusen,Am Obstgarten,4,,54.1893101,11.05544181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uA,23746,Kellenhusen,Am Ring,14,,54.18990106,11.06063274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uB,23746,Kellenhusen,Am Ring,15,,54.18942842,11.06115163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uC,23746,Kellenhusen,Am Ring,17,,54.1894003,11.06041114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uD,23746,Kellenhusen,Am Ring,19,,54.18925655,11.06089914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uE,23746,Kellenhusen,Am Ring,2,,54.19018593,11.05996537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uF,23746,Kellenhusen,Am Ring,21,,54.18910081,11.06099871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uG,23746,Kellenhusen,Am Ring,22,,54.18966321,11.06024054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uH,23746,Kellenhusen,Am Ring,26,,54.18914198,11.05939646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uI,23746,Kellenhusen,Am Ring,28,,54.18933521,11.05910078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uJ,23746,Kellenhusen,Am Ring,29,,54.18909358,11.05984733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uK,23746,Kellenhusen,Am Ring,3,,54.19080729,11.06073533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uL,23746,Kellenhusen,Am Ring,31,,54.18897876,11.05967629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uM,23746,Kellenhusen,Am Ring,32,,54.18960209,11.05928491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uN,23746,Kellenhusen,Am Ring,32,a,54.18964409,11.05947416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uO,23746,Kellenhusen,Am Ring,32,b,54.18962737,11.0597261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uP,23746,Kellenhusen,Am Ring,33,,54.18894308,11.05929779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uQ,23746,Kellenhusen,Am Ring,34,,54.18976886,11.05947177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uR,23746,Kellenhusen,Am Ring,35,,54.18901813,11.05908233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uS,23746,Kellenhusen,Am Ring,36,,54.18991431,11.0596873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uT,23746,Kellenhusen,Am Ring,37,,54.18897766,11.05858847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uU,23746,Kellenhusen,Am Ring,39,,54.18959279,11.0588864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uV,23746,Kellenhusen,Am Ring,4,,54.19043808,11.06033387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uW,23746,Kellenhusen,Am Ring,41,,54.18977171,11.05911656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uX,23746,Kellenhusen,Am Ring,43,,54.19007887,11.05939648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uY,23746,Kellenhusen,Am Ring,5,,54.1906485,11.06130431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uZ,23746,Kellenhusen,Am Ring,6,,54.19055661,11.06081611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ua,23746,Kellenhusen,Am Obstgarten,4,a,54.18926807,11.05543631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ub,23746,Kellenhusen,Am Obstgarten,5,,54.18964769,11.05662865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uc,23746,Kellenhusen,Am Obstgarten,5,a,54.1896756,11.05650807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ud,23746,Kellenhusen,Am Obstgarten,6,,54.18935664,11.05575734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ue,23746,Kellenhusen,Am Obstgarten,8,,54.18916295,11.05608138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uf,23746,Kellenhusen,Ahornweg,1,,54.19133595,11.05654881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ug,23746,Kellenhusen,Ahornweg,10,,54.19103197,11.05580122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uh,23746,Kellenhusen,Ahornweg,11,,54.19051192,11.05642062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ui,23746,Kellenhusen,Ahornweg,12,,54.19114457,11.05535719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uj,23746,Kellenhusen,Ahornweg,14,,54.19092433,11.05523011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uk,23746,Kellenhusen,Ahornweg,16,,54.19079612,11.05553111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ul,23746,Kellenhusen,Ahornweg,18,,54.19057685,11.05558786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1um,23746,Kellenhusen,Ahornweg,2,,54.19152132,11.0561283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1un,23746,Kellenhusen,Ahornweg,20,,54.19058377,11.05510931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uo,23746,Kellenhusen,Ahornweg,3,,54.19122009,11.05646003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1up,23746,Kellenhusen,Ahornweg,4,,54.19159846,11.05587086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uq,23746,Kellenhusen,Ahornweg,5,,54.19108252,11.05631571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ur,23746,Kellenhusen,Ahornweg,6,,54.19140388,11.05568913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1us,23746,Kellenhusen,Ahornweg,7,,54.19100266,11.05624159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ut,23746,Kellenhusen,Ahornweg,8,,54.19125804,11.05601313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uu,23746,Kellenhusen,Ahornweg,9,,54.19060865,11.05591382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uv,23746,Kellenhusen,Am Ring,1,,54.19067549,11.06020808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uw,23746,Kellenhusen,Am Ring,10,,54.19013694,11.0613285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ux,23746,Kellenhusen,Am Ring,11,,54.19000391,11.06149718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uy,23746,Kellenhusen,Am Ring,12,,54.1900675,11.06101165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1uz,23746,Kellenhusen,Am Ring,13,,54.18979518,11.06180161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v0,23746,Kellenhusen,Am Ring,7,,54.1904667,11.06153361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v1,23746,Kellenhusen,Am Ring,8,,54.19047845,11.06106303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v2,23746,Kellenhusen,Am Ring,9,,54.19020727,11.06179428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v3,23746,Kellenhusen,Am Wintershof,1,,54.18859288,11.05553044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v4,23746,Kellenhusen,Am Wintershof,2,,54.18889431,11.05506921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v5,23746,Kellenhusen,Am Wintershof,3,,54.18865851,11.0552457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v6,23746,Kellenhusen,Am Wintershof,4,,54.18933085,11.05369518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v7,23746,Kellenhusen,Birkenweg,1,,54.1881089,11.0597889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v8,23746,Kellenhusen,Birkenweg,10,,54.18879463,11.05758546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1v9,23746,Kellenhusen,Birkenweg,11,a,54.18841173,11.05803019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vA,23746,Kellenhusen,Brombeerweg,10,,54.19757406,11.06603848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vB,23746,Kellenhusen,Brombeerweg,2,,54.19689404,11.06543699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vC,23746,Kellenhusen,Brombeerweg,3,,54.19718918,11.06520785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vD,23746,Kellenhusen,Brombeerweg,4,,54.19707494,11.0655736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vE,23746,Kellenhusen,Brombeerweg,5,,54.19733975,11.06535782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vF,23746,Kellenhusen,Brombeerweg,6,,54.1972408,11.06583551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vG,23746,Kellenhusen,Brombeerweg,7,,54.19750666,11.06549208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vH,23746,Kellenhusen,Brombeerweg,8,,54.19738626,11.06607637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vI,23746,Kellenhusen,Brombeerweg,9,,54.19770955,11.06570393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vJ,23746,Kellenhusen,Deichstraße,1,,54.18752857,11.05931082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vK,23746,Kellenhusen,Deichstraße,2,,54.18732152,11.05905783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vL,23746,Kellenhusen,Deichstraße,3,,54.18765439,11.05897154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vM,23746,Kellenhusen,Denkmalstraße,1,,54.1928617,11.05675738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vN,23746,Kellenhusen,Denkmalstraße,10,,54.19324661,11.05809592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vO,23746,Kellenhusen,Denkmalstraße,11,,54.19329511,11.05737789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vP,23746,Kellenhusen,Denkmalstraße,11,a,54.19334236,11.05744713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vQ,23746,Kellenhusen,Denkmalstraße,12,,54.19343429,11.05833703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vR,23746,Kellenhusen,Denkmalstraße,13,,54.19346251,11.05769749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vS,23746,Kellenhusen,Denkmalstraße,14,,54.19330239,11.05864242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vT,23746,Kellenhusen,Denkmalstraße,16,,54.19395056,11.05951757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vU,23746,Kellenhusen,Denkmalstraße,16,a,54.19384562,11.05923603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vV,23746,Kellenhusen,Denkmalstraße,17,,54.19382576,11.05852803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vW,23746,Kellenhusen,Denkmalstraße,18,,54.19435974,11.06059206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vX,23746,Kellenhusen,Denkmalstraße,18,a,54.19458742,11.0606555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vY,23746,Kellenhusen,Denkmalstraße,2,,54.19279559,11.05719898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vZ,23746,Kellenhusen,Denkmalstraße,3,,54.19294643,11.05694169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1va,23746,Kellenhusen,Birkenweg,11,b,54.18824154,11.05789425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vb,23746,Kellenhusen,Birkenweg,12,,54.1887113,11.05679627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vc,23746,Kellenhusen,Birkenweg,13,,54.18849474,11.05778505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vd,23746,Kellenhusen,Birkenweg,14,,54.18875728,11.05657553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ve,23746,Kellenhusen,Birkenweg,15,,54.18850891,11.05768178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vf,23746,Kellenhusen,Birkenweg,16,,54.18867714,11.05629589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vg,23746,Kellenhusen,Birkenweg,17,,54.18853075,11.05744209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vh,23746,Kellenhusen,Birkenweg,18,,54.18864213,11.056051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vi,23746,Kellenhusen,Birkenweg,19,,54.18852268,11.05708988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vj,23746,Kellenhusen,Birkenweg,2,,54.18846704,11.05893441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vk,23746,Kellenhusen,Birkenweg,2,a,54.18841501,11.05934533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vl,23746,Kellenhusen,Birkenweg,21,,54.18854264,11.05683053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vm,23746,Kellenhusen,Birkenweg,3,,54.18820927,11.05901358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vn,23746,Kellenhusen,Birkenweg,4,,54.18854123,11.05864968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vo,23746,Kellenhusen,Birkenweg,5,,54.18825411,11.05875683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vp,23746,Kellenhusen,Birkenweg,6,,54.18860735,11.05835593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vq,23746,Kellenhusen,Birkenweg,8,,54.18866682,11.05796995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vr,23746,Kellenhusen,Ortsteil Bockhorst,999,,54.19895054,11.06975294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vs,23746,Kellenhusen,Bockhorst,1,,54.20020359,11.0685456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vu,23746,Kellenhusen,Bockhorst,3,,54.19974428,11.06912275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vw,23746,Kellenhusen,Bockhorst,5,,54.19967029,11.06920121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vy,23746,Kellenhusen,Bockhorst,7,,54.19926186,11.06977054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1vz,23746,Kellenhusen,Brombeerweg,1,,54.19704932,11.06504359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w0,23746,Kellenhusen,Denkmalstraße,4,,54.19275807,11.05778278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w1,23746,Kellenhusen,Denkmalstraße,5,,54.1930319,11.05699276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w2,23746,Kellenhusen,Denkmalstraße,6,,54.19297038,11.05736934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w3,23746,Kellenhusen,Denkmalstraße,7,,54.19310373,11.05710644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w4,23746,Kellenhusen,Denkmalstraße,8,,54.19319992,11.05765789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w5,23746,Kellenhusen,Denkmalstraße,9,,54.19315714,11.05718427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w6,23746,Kellenhusen,Fahrenhorst,11,,54.19397307,11.06249486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w7,23746,Kellenhusen,Fahrenhorst,12,,54.19364446,11.06225268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w8,23746,Kellenhusen,Fahrenhorst,13,,54.19401788,11.06263427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1w9,23746,Kellenhusen,Fahrenhorst,14,,54.19381368,11.06264889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wA,23746,Kellenhusen,Fasanenweg,14,f,54.19661752,11.05903526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wB,23746,Kellenhusen,Fasanenweg,14,g,54.19671725,11.05900371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wC,23746,Kellenhusen,Fasanenweg,14,h,54.1967278,11.05883485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wD,23746,Kellenhusen,Fasanenweg,14,i,54.19667824,11.05868524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wE,23746,Kellenhusen,Fasanenweg,14,j,54.19663125,11.05853999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wF,23746,Kellenhusen,Fasanenweg,14,k,54.19657789,11.05838244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wG,23746,Kellenhusen,Fasanenweg,2,,54.19466852,11.06028897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wH,23746,Kellenhusen,Fasanenweg,3,,54.1949575,11.05938602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wI,23746,Kellenhusen,Fasanenweg,4,,54.19482448,11.05989956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wJ,23746,Kellenhusen,Fasanenweg,5,,54.19513326,11.05909131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wK,23746,Kellenhusen,Fasanenweg,6,,54.19512198,11.05976819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wL,23746,Kellenhusen,Fasanenweg,7,,54.19546054,11.05875303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wM,23746,Kellenhusen,Fasanenweg,8,,54.19534838,11.05955458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wN,23746,Kellenhusen,Fasanenweg,8,a,54.19546929,11.05940874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wO,23746,Kellenhusen,Finkenweg,1,,54.19488042,11.06243345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wP,23746,Kellenhusen,Finkenweg,2,,54.19508273,11.06214907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wQ,23746,Kellenhusen,Finkenweg,3,,54.19476739,11.06212204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wR,23746,Kellenhusen,Finkenweg,4,,54.19496936,11.06144232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wS,23746,Kellenhusen,Finkenweg,5,,54.1946936,11.06187524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wT,23746,Kellenhusen,Finkenweg,7,a,54.1946689,11.0613236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wU,23746,Kellenhusen,Finkenweg,7,b,54.1946689,11.0613236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wV,23746,Kellenhusen,Finkenweg,7,c,54.1946689,11.0613236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wW,23746,Kellenhusen,Finkenweg,9,a,54.19485519,11.06102612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wX,23746,Kellenhusen,Finkenweg,9,b,54.19485519,11.06102612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wY,23746,Kellenhusen,Finkenweg,9,c,54.19485519,11.06102612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wZ,23746,Kellenhusen,Fritz-Reuter-Weg,1,,54.19190989,11.05938104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wa,23746,Kellenhusen,Fahrenhorst,15,,54.19410964,11.06291972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wb,23746,Kellenhusen,Fahrenhorst,16,,54.19388547,11.06286415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wc,23746,Kellenhusen,Fahrenhorst,17,,54.19413913,11.0630116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wd,23746,Kellenhusen,Fahrenhorst,18,,54.19393941,11.06302033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1we,23746,Kellenhusen,Fahrenhorst,19,a,54.19439152,11.06335071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wf,23746,Kellenhusen,Fahrenhorst,20,,54.19402186,11.06327312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wg,23746,Kellenhusen,Fahrenhorst,21,a,54.19447236,11.06379662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wh,23746,Kellenhusen,Fahrenhorst,22,,54.19402697,11.06375555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wi,23746,Kellenhusen,Fahrenhorst,24,,54.19406888,11.06382859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wj,23746,Kellenhusen,Fahrenhorst,25,,54.19458253,11.06403421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wk,23746,Kellenhusen,Fahrenhorst,26,,54.19420782,11.06421725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wm,23746,Kellenhusen,Fahrenhorst,28,,54.19441735,11.06437295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wn,23746,Kellenhusen,Fahrenhorst,30,,54.19453538,11.06455478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wo,23746,Kellenhusen,Fahrenhorst,5,,54.19380702,11.06159771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wp,23746,Kellenhusen,Fahrenhorst,7,,54.19407027,11.06168412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wq,23746,Kellenhusen,Fahrenhorst,9,,54.19399122,11.06209839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wr,23746,Kellenhusen,Fasanenweg,1,,54.19464832,11.05988919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ws,23746,Kellenhusen,Fasanenweg,1,a,54.194639,11.05943081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wt,23746,Kellenhusen,Fasanenweg,12,,54.19584502,11.05861907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wu,23746,Kellenhusen,Fasanenweg,14,,54.19629119,11.05800724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wv,23746,Kellenhusen,Fasanenweg,14,a,54.1960642,11.0584999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ww,23746,Kellenhusen,Fasanenweg,14,b,54.19626342,11.0586466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wx,23746,Kellenhusen,Fasanenweg,14,c,54.1963456,11.0587508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wy,23746,Kellenhusen,Fasanenweg,14,d,54.19642908,11.05884744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1wz,23746,Kellenhusen,Fasanenweg,14,e,54.19650924,11.05895234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x0,23746,Kellenhusen,Fritz-Reuter-Weg,1,a,54.19169868,11.05896044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x1,23746,Kellenhusen,Fritz-Reuter-Weg,11,,54.19233379,11.06020185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x2,23746,Kellenhusen,Fritz-Reuter-Weg,13,,54.19237708,11.06029506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x3,23746,Kellenhusen,Fritz-Reuter-Weg,15,,54.19252758,11.06049838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x4,23746,Kellenhusen,Fritz-Reuter-Weg,17,,54.19270779,11.06088251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x5,23746,Kellenhusen,Fritz-Reuter-Weg,19,,54.19277421,11.06123666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x6,23746,Kellenhusen,Fritz-Reuter-Weg,2,,54.19245012,11.06116907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x7,23746,Kellenhusen,Fritz-Reuter-Weg,21,,54.1928088,11.06131408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1x9,23746,Kellenhusen,Fritz-Reuter-Weg,25,,54.19310648,11.06183681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xA,23746,Kellenhusen,Hamburger Straße,12,,54.1875557,11.05659573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xB,23746,Kellenhusen,Hamburger Straße,13,,54.18754113,11.05733628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xC,23746,Kellenhusen,Hamburger Straße,13,a,54.18767322,11.05751848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xD,23746,Kellenhusen,Hamburger Straße,14,,54.18742222,11.05685844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xE,23746,Kellenhusen,Hamburger Straße,15,,54.18740717,11.05767442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xF,23746,Kellenhusen,Hamburger Straße,16,,54.18727509,11.05730972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xG,23746,Kellenhusen,Hamburger Straße,16,a,54.18711733,11.05704838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xH,23746,Kellenhusen,Hamburger Straße,17,,54.18733405,11.05790095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xI,23746,Kellenhusen,Hamburger Straße,18,,54.18684776,11.0574301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xJ,23746,Kellenhusen,Hamburger Straße,19,,54.18721999,11.05826972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xK,23746,Kellenhusen,Hamburger Straße,2,,54.1882873,11.05584902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xL,23746,Kellenhusen,Hamburger Straße,20,,54.186735,11.0572942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xM,23746,Kellenhusen,Hamburger Straße,22,,54.18671645,11.05682028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xN,23746,Kellenhusen,Hamburger Straße,24,,54.18669306,11.05688007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xO,23746,Kellenhusen,Hamburger Straße,26,,54.18659293,11.05695802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xP,23746,Kellenhusen,Hamburger Straße,28,,54.18656997,11.05701714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xQ,23746,Kellenhusen,Hamburger Straße,3,,54.18828806,11.05638833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xR,23746,Kellenhusen,Hamburger Straße,30,,54.18651461,11.05714861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xS,23746,Kellenhusen,Hamburger Straße,32,,54.18649163,11.05720458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xT,23746,Kellenhusen,Hamburger Straße,34,,54.18634137,11.05742593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xU,23746,Kellenhusen,Hamburger Straße,36,,54.18641706,11.05751674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xV,23746,Kellenhusen,Hamburger Straße,38,,54.18652917,11.05770685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xW,23746,Kellenhusen,Hamburger Straße,4,,54.18818705,11.05604074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xX,23746,Kellenhusen,Hamburger Straße,4,a,54.18810281,11.05534493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xY,23746,Kellenhusen,Hamburger Straße,40,,54.18667961,11.05788911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xZ,23746,Kellenhusen,Hamburger Straße,42,,54.18684585,11.05803439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xa,23746,Kellenhusen,Fritz-Reuter-Weg,3,,54.19201837,11.05962711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xb,23746,Kellenhusen,Fritz-Reuter-Weg,4,,54.19258743,11.06149335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xc,23746,Kellenhusen,Fritz-Reuter-Weg,5,,54.19206253,11.05972531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xd,23746,Kellenhusen,Fritz-Reuter-Weg,6,,54.19277239,11.06182962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xe,23746,Kellenhusen,Fritz-Reuter-Weg,7,,54.19218038,11.05991044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xf,23746,Kellenhusen,Fritz-Reuter-Weg,9,,54.19222458,11.06000978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xg,23746,Kellenhusen,Gorch-Fock-Weg,1,,54.19161486,11.0617917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xh,23746,Kellenhusen,Gorch-Fock-Weg,10,,54.19224808,11.06136553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xi,23746,Kellenhusen,Gorch-Fock-Weg,11,,54.19189763,11.06132491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xj,23746,Kellenhusen,Gorch-Fock-Weg,13,,54.19197424,11.06119216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xk,23746,Kellenhusen,Gorch-Fock-Weg,15,,54.19202128,11.06113113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xl,23746,Kellenhusen,Gorch-Fock-Weg,17,,54.19210178,11.06100704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xm,23746,Kellenhusen,Gorch-Fock-Weg,19,,54.19214722,11.06094838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xn,23746,Kellenhusen,Gorch-Fock-Weg,2,,54.19172745,11.06217923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xo,23746,Kellenhusen,Gorch-Fock-Weg,21,,54.19221511,11.06079382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xp,23746,Kellenhusen,Gorch-Fock-Weg,23,,54.19225774,11.06068203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xq,23746,Kellenhusen,Gorch-Fock-Weg,3,,54.19166042,11.06172569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xr,23746,Kellenhusen,Gorch-Fock-Weg,4,,54.19186279,11.06197069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xs,23746,Kellenhusen,Gorch-Fock-Weg,5,,54.19173407,11.06159645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xt,23746,Kellenhusen,Gorch-Fock-Weg,6,,54.19199921,11.06171671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xu,23746,Kellenhusen,Gorch-Fock-Weg,7,,54.19177634,11.06154386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xv,23746,Kellenhusen,Gorch-Fock-Weg,8,,54.19211754,11.0615155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xw,23746,Kellenhusen,Gorch-Fock-Weg,9,,54.19185321,11.06138278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xx,23746,Kellenhusen,Hamburger Straße,1,,54.18850636,11.05649232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xy,23746,Kellenhusen,Hamburger Straße,10,,54.18767273,11.05636869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1xz,23746,Kellenhusen,Hamburger Straße,11,,54.18760623,11.05707425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y0,23746,Kellenhusen,Hamburger Straße,44,,54.18697291,11.0581881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y1,23746,Kellenhusen,Hamburger Straße,5,,54.18804018,11.0563973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y2,23746,Kellenhusen,Hamburger Straße,6,,54.18804075,11.05611361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y3,23746,Kellenhusen,Hamburger Straße,7,,54.18779586,11.05659818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y4,23746,Kellenhusen,Hamburger Straße,8,,54.1878231,11.056233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y5,23746,Kellenhusen,Hamburger Straße,9,,54.18771596,11.05677201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y6,23746,Kellenhusen,Heisterbusch,1,,54.19326889,11.06060003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y7,23746,Kellenhusen,Heisterbusch,10,,54.19318066,11.05891289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y8,23746,Kellenhusen,Heisterbusch,11,a,54.19295512,11.05935337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1y9,23746,Kellenhusen,Heisterbusch,11,b,54.19297985,11.05929598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yB,23746,Kellenhusen,Kirchweg,11,a,54.19403835,11.05366282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yC,23746,Kellenhusen,Kirchweg,12,,54.19408585,11.05556902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yD,23746,Kellenhusen,Kirchweg,13,,54.19439545,11.05397925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yE,23746,Kellenhusen,Kirchweg,13,a,54.19429259,11.05350865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yF,23746,Kellenhusen,Kirchweg,14,,54.19409951,11.05525617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yG,23746,Kellenhusen,Kirchweg,16,,54.19423468,11.05508359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yH,23746,Kellenhusen,Kirchweg,18,,54.19431151,11.05470721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yI,23746,Kellenhusen,Kirchweg,20,,54.1946098,11.0544352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yJ,23746,Kellenhusen,Kirchweg,22,,54.19469645,11.05401201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yK,23746,Kellenhusen,Kirchweg,3,,54.19337162,11.05677306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yL,23746,Kellenhusen,Kirchweg,3,a,54.19379982,11.05581712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yM,23746,Kellenhusen,Kirchweg,4,,54.19351216,11.05693582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yN,23746,Kellenhusen,Kirchweg,5,,54.19378581,11.05546658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yO,23746,Kellenhusen,Kirchweg,5,a,54.19362917,11.05535877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yP,23746,Kellenhusen,Kirchweg,5,b,54.19354499,11.05511788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yQ,23746,Kellenhusen,Kirchweg,6,,54.19359073,11.05676047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yR,23746,Kellenhusen,Kirchweg,7,,54.19392219,11.05504001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yS,23746,Kellenhusen,Kirchweg,7,a,54.19378016,11.05486763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yT,23746,Kellenhusen,Kirchweg,8,,54.19370651,11.05651268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yU,23746,Kellenhusen,Kirchweg,8,a,54.19382127,11.05625073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yV,23746,Kellenhusen,Kirchweg,9,,54.19419464,11.0544379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yW,23746,Kellenhusen,Kornkamp,1,,54.19702965,11.06402553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yX,23746,Kellenhusen,Kornkamp,10,,54.19660266,11.06347076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yY,23746,Kellenhusen,Kornkamp,11,,54.19623711,11.0647706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yZ,23746,Kellenhusen,Kornkamp,12,,54.19647781,11.0637144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ya,23746,Kellenhusen,Heisterbusch,12,,54.19303436,11.05872295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yb,23746,Kellenhusen,Heisterbusch,13,a,54.19265122,11.05910793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yc,23746,Kellenhusen,Heisterbusch,13,b,54.19268982,11.05907257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yd,23746,Kellenhusen,Heisterbusch,13,c,54.19272991,11.0590496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ye,23746,Kellenhusen,Heisterbusch,13,d,54.19276841,11.05901402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yf,23746,Kellenhusen,Heisterbusch,14,,54.19299266,11.05831456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yg,23746,Kellenhusen,Heisterbusch,15,a,54.19247433,11.05922553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yh,23746,Kellenhusen,Heisterbusch,15,b,54.19251184,11.05919117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yi,23746,Kellenhusen,Heisterbusch,15,c,54.19255115,11.05915521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yj,23746,Kellenhusen,Heisterbusch,16,,54.19275866,11.05854741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yk,23746,Kellenhusen,Heisterbusch,17,a,54.19263313,11.05949252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yl,23746,Kellenhusen,Heisterbusch,17,b,54.19262283,11.05940983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ym,23746,Kellenhusen,Heisterbusch,17,c,54.1926011,11.05934185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yn,23746,Kellenhusen,Heisterbusch,18,,54.19265479,11.05861218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yo,23746,Kellenhusen,Heisterbusch,2,,54.19355757,11.06080425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yp,23746,Kellenhusen,Heisterbusch,20,,54.19242518,11.05838564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yq,23746,Kellenhusen,Heisterbusch,22,,54.19235623,11.05891728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yr,23746,Kellenhusen,Heisterbusch,24,,54.19216356,11.05917498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ys,23746,Kellenhusen,Heisterbusch,3,,54.19300381,11.0604309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yt,23746,Kellenhusen,Heisterbusch,4,,54.19338203,11.06040486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yu,23746,Kellenhusen,Heisterbusch,5,,54.19292415,11.06008732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yv,23746,Kellenhusen,Heisterbusch,6,,54.19322055,11.06005049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yw,23746,Kellenhusen,Heisterbusch,7,,54.19281084,11.0598556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yx,23746,Kellenhusen,Heisterbusch,8,,54.19304901,11.05964138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yy,23746,Kellenhusen,Heisterbusch,9,,54.19284781,11.05956731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1yz,23746,Kellenhusen,Kirchweg,10,,54.19396802,11.05594518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z0,23746,Kellenhusen,Kornkamp,13,,54.19609745,11.06452173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z1,23746,Kellenhusen,Kornkamp,14,,54.19637677,11.06399322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z2,23746,Kellenhusen,Kornkamp,16,,54.19617287,11.06420776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z3,23746,Kellenhusen,Kornkamp,2,,54.19716687,11.06375673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z4,23746,Kellenhusen,Kornkamp,3,,54.19684225,11.06387401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z5,23746,Kellenhusen,Kornkamp,4,,54.19702571,11.06360943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z6,23746,Kellenhusen,Kornkamp,5,,54.19666149,11.06415693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z7,23746,Kellenhusen,Kornkamp,6,,54.1969235,11.0633292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z8,23746,Kellenhusen,Kornkamp,7,,54.19656389,11.06437895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1z9,23746,Kellenhusen,Kornkamp,8,,54.1967508,11.06343645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zA,23746,Kellenhusen,Lindenbuschen,7,,54.19135427,11.05728671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zB,23746,Kellenhusen,Lindenbuschen,8,,54.19085612,11.05766344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zC,23746,Kellenhusen,Lindenbuschen,9,,54.19115275,11.05769756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zD,23746,Kellenhusen,Lindenstraße,1,,54.18924061,11.05839028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zE,23746,Kellenhusen,Lindenstraße,10,,54.1889142,11.05727832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zF,23746,Kellenhusen,Lindenstraße,12,,54.18876807,11.05719936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zG,23746,Kellenhusen,Lindenstraße,12,a,54.18899452,11.05674677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zH,23746,Kellenhusen,Lindenstraße,2,,54.18948754,11.05856266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zI,23746,Kellenhusen,Lindenstraße,3,,54.18934802,11.05818816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zJ,23746,Kellenhusen,Lindenstraße,4,,54.18942031,11.05782939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zK,23746,Kellenhusen,Lindenstraße,5,,54.18906949,11.0579641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zL,23746,Kellenhusen,Lindenstraße,6,,54.18931629,11.05765886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zM,23746,Kellenhusen,Lindenstraße,7,,54.1889562,11.05764868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zN,23746,Kellenhusen,Lindenstraße,8,,54.18913416,11.05741517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zO,23746,Kellenhusen,Ostlandstraße,1,,54.19352851,11.06733895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zP,23746,Kellenhusen,Ostlandstraße,10,,54.19389821,11.06758359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zQ,23746,Kellenhusen,Ostlandstraße,11,,54.1937875,11.06588231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zR,23746,Kellenhusen,Ostlandstraße,12,,54.19393572,11.06720544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zS,23746,Kellenhusen,Ostlandstraße,13,,54.19394301,11.06599557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zT,23746,Kellenhusen,Ostlandstraße,14,,54.19406762,11.06703352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zU,23746,Kellenhusen,Ostlandstraße,15,,54.19410492,11.06618111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zV,23746,Kellenhusen,Ostlandstraße,16,,54.19422577,11.066764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zX,23746,Kellenhusen,Ostlandstraße,18,,54.19447074,11.0670848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zY,23746,Kellenhusen,Ostlandstraße,19,,54.19468751,11.06476517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zZ,23746,Kellenhusen,Ostlandstraße,20,,54.1945351,11.06687037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1za,23746,Kellenhusen,Kornkamp,9,,54.19651159,11.0647647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zb,23746,Kellenhusen,Lindenbuschen,1,,54.19203178,11.0563535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zc,23746,Kellenhusen,Lindenbuschen,10,,54.19073527,11.0578771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zd,23746,Kellenhusen,Lindenbuschen,11,,54.19100586,11.05789501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ze,23746,Kellenhusen,Lindenbuschen,12,,54.19059236,11.05804049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zf,23746,Kellenhusen,Lindenbuschen,13,,54.19089055,11.05808236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zg,23746,Kellenhusen,Lindenbuschen,14,,54.19038313,11.05760115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zh,23746,Kellenhusen,Lindenbuschen,15,,54.19075185,11.05816891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zi,23746,Kellenhusen,Lindenbuschen,16,,54.19044873,11.05729435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zj,23746,Kellenhusen,Lindenbuschen,17,,54.19064613,11.05832299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zk,23746,Kellenhusen,Lindenbuschen,18,,54.19059001,11.0571072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zl,23746,Kellenhusen,Lindenbuschen,19,,54.19051363,11.05835447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zm,23746,Kellenhusen,Lindenbuschen,2,,54.1909766,11.05683719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zn,23746,Kellenhusen,Lindenbuschen,20,,54.19034235,11.05691627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zo,23746,Kellenhusen,Lindenbuschen,21,,54.1903831,11.05866741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zp,23746,Kellenhusen,Lindenbuschen,22,,54.19023207,11.05712117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zq,23746,Kellenhusen,Lindenbuschen,23,,54.19031754,11.05818619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zr,23746,Kellenhusen,Lindenbuschen,24,,54.19009363,11.0573908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zs,23746,Kellenhusen,Lindenbuschen,25,,54.19024244,11.05844889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zt,23746,Kellenhusen,Lindenbuschen,26,,54.19004901,11.05747401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zu,23746,Kellenhusen,Lindenbuschen,27,,54.18994633,11.05807582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zx,23746,Kellenhusen,Lindenbuschen,4,,54.19075182,11.0566365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zy,23746,Kellenhusen,Lindenbuschen,5,,54.19161097,11.05685718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1zz,23746,Kellenhusen,Lindenbuschen,6,,54.19093796,11.05746071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004GuhH,23746,Kellenhusen,Denkmalstraße,17,a,54.19419033,11.05927479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004HORq,23746,Kellenhusen,Fasanenweg,8,b,54.19559753,11.05913307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004J62t,23746,Kellenhusen,Am Obstgarten,7,a,54.18980519,11.05626557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004J62x,23746,Kellenhusen,Am Obstgarten,7,b,54.18975124,11.05620473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JEya,23746,Kellenhusen,Bockhorst,11,,54.19893351,11.07054087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JEyb,23746,Kellenhusen,Bockhorst,13,,54.19838951,11.06988505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JEye,23746,Kellenhusen,Bockhorst,9,,54.1991483,11.07011295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JP16,23746,Kellenhusen,Waldstraße,26,,54.19279641,11.05608388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZG4n,23746,Kellenhusen,Hamburger Straße,14,a,54.18719444,11.05678108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZE5,23746,Kellenhusen,Auf der Holtzkoppel,14,,54.1931583,11.05336428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEA,23746,Kellenhusen,Auf der Holtzkoppel,6,,54.1924233,11.05394933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEM,23746,Kellenhusen,Auf der Holtzkoppel,4,,54.19255821,11.05479537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEY,23746,Kellenhusen,Auf der Holtzkoppel,2,,54.19227005,11.05439977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEZ,23746,Kellenhusen,Auf der Holtzkoppel,24,,54.19257351,11.052241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEg,23746,Kellenhusen,Auf der Holtzkoppel,12,,54.19303224,11.05361838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEm,23746,Kellenhusen,Auf der Holtzkoppel,10,,54.1928434,11.05377839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEs,23746,Kellenhusen,Auf der Holtzkoppel,8,,54.19262351,11.05384956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZEz,23746,Kellenhusen,Auf der Holtzkoppel,18,,54.1929475,11.05299413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZF1,23746,Kellenhusen,Auf der Holtzkoppel,26,,54.19243726,11.05193565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZFC,23746,Kellenhusen,Auf der Holtzkoppel,38,,54.19169584,11.0523848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZFL,23746,Kellenhusen,Auf der Holtzkoppel,32,,54.19216803,11.05174711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZFU,23746,Kellenhusen,Auf der Holtzkoppel,40,,54.1916371,11.05263127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZFa,23746,Kellenhusen,Auf der Holtzkoppel,16,,54.19307344,11.05317816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZFw,23746,Kellenhusen,Auf der Holtzkoppel,30,,54.19230842,11.05156988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZG1,23746,Kellenhusen,Auf der Holtzkoppel,34,,54.1920048,11.05183431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGG,23746,Kellenhusen,Auf der Holtzkoppel,35,,54.19181472,11.05313422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGL,23746,Kellenhusen,Auf der Holtzkoppel,1,,54.19169882,11.05426134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGS,23746,Kellenhusen,Auf der Holtzkoppel,33,,54.19190281,11.05284165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGa,23746,Kellenhusen,Auf der Holtzkoppel,42,,54.19159028,11.05298017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGf,23746,Kellenhusen,Auf der Holtzkoppel,36,,54.19183591,11.05201562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGo,23746,Kellenhusen,Auf der Holtzkoppel,44,,54.19155148,11.05325188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZGv,23746,Kellenhusen,Auf der Holtzkoppel,46,,54.19148196,11.05349605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZH1,23746,Kellenhusen,Auf der Holtzkoppel,39,,54.19159808,11.05372503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZH6,23746,Kellenhusen,Auf der Holtzkoppel,31,,54.19193188,11.05251985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHA,23746,Kellenhusen,Auf der Holtzkoppel,15,,54.19282414,11.0532193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHK,23746,Kellenhusen,Auf der Holtzkoppel,13,,54.1926654,11.05354123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHY,23746,Kellenhusen,Auf der Holtzkoppel,11,,54.1924735,11.0536216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHh,23746,Kellenhusen,Auf der Holtzkoppel,37,,54.19170203,11.05340421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHm,23746,Kellenhusen,Auf der Holtzkoppel,29,,54.19212593,11.05218732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHs,23746,Kellenhusen,Auf der Holtzkoppel,27,,54.19227418,11.05227982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZHx,23746,Kellenhusen,Auf der Holtzkoppel,25,,54.19239581,11.05249303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZI1,23746,Kellenhusen,Auf der Holtzkoppel,19,,54.19254387,11.0527701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIB,23746,Kellenhusen,Auf der Holtzkoppel,3,,54.19201487,11.05432409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIC,23746,Kellenhusen,Auf der Holtzkoppel,48,,54.19138835,11.05372424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIE,23746,Kellenhusen,Auf der Holtzkoppel,50,,54.19132107,11.054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIG,23746,Kellenhusen,Auf der Holtzkoppel,52,,54.19152727,11.05419884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIP,23746,Kellenhusen,Auf der Holtzkoppel,21,,54.19237244,11.05312249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIX,23746,Kellenhusen,Auf der Holtzkoppel,23,,54.19223091,11.05289924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIc,23746,Kellenhusen,Auf der Holtzkoppel,9,,54.19227887,11.05378789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZId,23746,Kellenhusen,Auf der Holtzkoppel,17,,54.19263505,11.05302296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIo,23746,Kellenhusen,Auf der Holtzkoppel,7,,54.19216331,11.05357694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053ZIu,23746,Kellenhusen,Auf der Holtzkoppel,5,,54.19215106,11.05400225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055G9X,23746,Kellenhusen,Ahornweg,9,a,54.19058902,11.0559835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055Ga3,23746,Kellenhusen,Ahornweg,9,b,54.19056718,11.05605126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055Ga9,23746,Kellenhusen,Ahornweg,9,c,54.19054475,11.05612096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Cfmj,23746,Kellenhusen,Strandpromenade,21,,54.18905035,11.06282589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EXsf,23746,Kellenhusen,Lindenbuschen,3,b,54.19174643,11.05663635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EXss,23746,Kellenhusen,Lindenbuschen,3,a,54.19178576,11.05656227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K7WS,23746,Kellenhusen,Meisenweg,21,,54.19676373,11.06790395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a5Tb,23746,Kellenhusen,Kirschenallee,6,,54.19117902,11.05468617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a5Tc,23746,Kellenhusen,Kirschenallee,8,,54.19097973,11.05424934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a5Td,23746,Kellenhusen,Kirschenallee,10,,54.19054463,11.05429773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a5Te,23746,Kellenhusen,Kirschenallee,12,,54.1907823,11.05380886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a5Tf,23746,Kellenhusen,Kirschenallee,14,,54.19049729,11.05382309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fuyS,23746,Kellenhusen,Dahmer Weg,25,,54.19666795,11.06228272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gRFV,23746,Kellenhusen,Ostlandstraße,36,a,54.19532114,11.0628735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ie0B,23746,Kellenhusen,Kirschenallee,2,,54.19224956,11.05511026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ie0H,23746,Kellenhusen,Kirschenallee,4,,54.19151932,11.05504471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005meZD,23746,Kellenhusen,Denkmalstraße,2,a,54.19264259,11.05701976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nisD,23746,Kellenhusen,Auf der Holtzkoppel,22,,54.19263354,11.05250033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nisH,23746,Kellenhusen,Auf der Holtzkoppel,20,,54.19287803,11.05265312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o2Fn,23746,Kellenhusen,Am Obstgarten,12,a,54.1894115,11.05675365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o2Fo,23746,Kellenhusen,Am Obstgarten,12,b,54.18947349,11.05680698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o3B9,23746,Kellenhusen,Lindenbuschen,28,a,54.18987911,11.05775685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o3Ba,23746,Kellenhusen,Lindenbuschen,28,b,54.18991766,11.05768538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o3Zg,23746,Kellenhusen,Schützenweg,15,a,54.19325181,11.06163778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oskd,23746,Kellenhusen,Lindenstraße,8,a,54.18922954,11.05707844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000620OB,23746,Kellenhusen,Fischerstieg,1,,54.18836547,11.06132499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vRY,23746,Kellenhusen,Waldstraße,20,a,54.1923372,11.0574489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vRZ,23746,Kellenhusen,Waldstraße,20,b,54.1924199,11.0572859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS0,23746,Kellenhusen,Waldstraße,20,c,54.19267682,11.05762795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS1,23746,Kellenhusen,Waldstraße,20,d,54.19264431,11.05769326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS2,23746,Kellenhusen,Waldstraße,20,e,54.19261296,11.05775314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS3,23746,Kellenhusen,Waldstraße,20,f,54.19256517,11.05784485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS4,23746,Kellenhusen,Waldstraße,20,g,54.1925331,11.05790531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS5,23746,Kellenhusen,Waldstraße,20,h,54.19249808,11.05797109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS6,23746,Kellenhusen,Waldstraße,20,i,54.19240151,11.05807923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062vS7,23746,Kellenhusen,Waldstraße,20,j,54.1923681,11.05814085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064ndP,23746,Kellenhusen,Denkmalstraße,19,,54.19439434,11.05968508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000666Xu,23746,Kellenhusen,Wintershörn,24,,54.1866854,11.05640623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069zdF,23746,Kellenhusen,Ostlandstraße,17,,54.19440035,11.06558713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CJVC,23746,Kellenhusen,Fritz-Reuter-Weg,23,,54.19290972,11.06153113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CJVs,23746,Kellenhusen,Fritz-Reuter-Weg,23,b,54.19307901,11.06128323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CJVw,23746,Kellenhusen,Fritz-Reuter-Weg,23,a,54.19297223,11.0614382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PnBt,23746,Kellenhusen,Im Kirschgarten,1,,54.18809483,11.05402977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PnBu,23746,Kellenhusen,Im Kirschgarten,3,,54.1880004,11.05430707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PnBv,23746,Kellenhusen,Im Kirschgarten,5,,54.18826962,11.05439027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QPGG,23746,Kellenhusen,Am Ring,35,a,54.18903851,11.05892536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QPGH,23746,Kellenhusen,Am Ring,35,b,54.18913437,11.05867533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fq89,23746,Kellenhusen,Strandpromenade,31,,54.18758983,11.06095858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqak,23746,Kellenhusen,Strandpromenade,33,,54.18730705,11.06063305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqap,23746,Kellenhusen,Strandpromenade,34,,54.18698581,11.06016515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqaq,23746,Kellenhusen,Strandpromenade,34,a,54.18690712,11.06007614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqc0,23746,Kellenhusen,Strandpromenade,35,,54.18665608,11.05992246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqc8,23746,Kellenhusen,Strandpromenade,36,,54.18658189,11.05976575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fqdc,23746,Kellenhusen,Strandpromenade,37,a,54.18636142,11.05959775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpI,23746,Kellenhusen,Birkenweg,7,,54.1879768,11.05829599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpJ,23746,Kellenhusen,Birkenweg,7,a,54.18798973,11.05821575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpK,23746,Kellenhusen,Birkenweg,7,b,54.18801868,11.05804012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpL,23746,Kellenhusen,Birkenweg,7,c,54.18803188,11.05795745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpM,23746,Kellenhusen,Birkenweg,9,,54.18805998,11.05777715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpN,23746,Kellenhusen,Birkenweg,9,a,54.18807293,11.05769625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpO,23746,Kellenhusen,Birkenweg,9,b,54.1881022,11.05751657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yLpP,23746,Kellenhusen,Birkenweg,9,c,54.18811437,11.05743684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006z2BM,23746,Kellenhusen,Meisenweg,10,a,54.19507296,11.06622699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006z2BN,23746,Kellenhusen,Meisenweg,10,b,54.1951238,11.0662962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074wPb,23746,Kellenhusen,Am Wintershof,7,,54.18854076,11.05475866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074wPf,23746,Kellenhusen,Am Wintershof,5,,54.18842689,11.05525456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074wPk,23746,Kellenhusen,Birkenweg,18,a,54.18894057,11.05570818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K74b,23746,Kellenhusen,Kirchweg,11,c,54.19410199,11.05415325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K74c,23746,Kellenhusen,Kirchweg,11,d,54.1940664,11.05422828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K74d,23746,Kellenhusen,Kirchweg,11,e,54.19399717,11.05437427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K74e,23746,Kellenhusen,Kirchweg,11,f,54.19395998,11.05445281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K74m,23746,Kellenhusen,Kirchweg,9,a,54.19414726,11.05453857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJlA,23746,Kellenhusen,Am Ring,41,a,54.19018584,11.05903126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJlC,23746,Kellenhusen,Am Ring,41,b,54.19023912,11.05908371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJls,23746,Kellenhusen,Lindenbuschen,25,c,54.19018598,11.05859622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJlu,23746,Kellenhusen,Lindenbuschen,25,d,54.19024566,11.05869283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJlw,23746,Kellenhusen,Lindenbuschen,25,a,54.19000465,11.05831099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QJly,23746,Kellenhusen,Lindenbuschen,25,b,54.19006302,11.0584016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YypV,23746,Kellenhusen,Wintershörn,10,b,54.1872462,11.05445493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YypX,23746,Kellenhusen,Wintershörn,10,a,54.18717398,11.05461538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nKlX,23746,Kellenhusen,Auf der Holtzkoppel,13,a,54.1926152,11.05347091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007q3GC,23746,Kellenhusen,Schützenweg,17,a,54.1934317,11.06139913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qSnO,23746,Kellenhusen,Lindenbuschen,22,a,54.19019192,11.05719595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vks4,23746,Kellenhusen,Waldstraße,12,b,54.19204224,11.05927713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vks9,23746,Kellenhusen,Waldstraße,12,a,54.19201074,11.05920345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000886WH,23746,Kellenhusen,Kornkamp,9,a,54.19644831,11.06486707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F0rO,23746,Kellenhusen,Schlehenkoppel,12,a,54.19723205,11.06698358

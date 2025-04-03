@@ -1,0 +1,461 @@
+# Amtliche Adressen für die Postleitzahl 23813
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASQ,23813,Blunk,Hohlegrufter Straße,1,,54.00977483,10.37681247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASR,23813,Blunk,Hohlegrufter Straße,1,a,54.01118539,10.38152238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASS,23813,Blunk,Hohlegrufter Straße,2,,54.0125946,10.38355036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAST,23813,Blunk,Hohlegrufter Straße,2,a,54.01356143,10.38462763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASU,23813,Blunk,Hohlegrufter Straße,3,,54.0148221,10.38594334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASV,23813,Blunk,Hohlegrufter Straße,4,,54.01723442,10.39086579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASW,23813,Blunk,Hohlegrufter Straße,5,,54.01856173,10.39265441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASX,23813,Blunk,Am Freudenberg,1,,54.01495267,10.34277389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASY,23813,Blunk,Am Freudenberg,10,,54.0152225,10.34279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cASZ,23813,Blunk,Am Freudenberg,2,,54.01495876,10.34231501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT0,23813,Blunk,Am Freudenberg,4,,54.01521393,10.34234122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT1,23813,Blunk,Am Freudenberg,5,,54.01540995,10.34240539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT2,23813,Blunk,Am Freudenberg,6,,54.01560004,10.34244717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT3,23813,Blunk,Am Freudenberg,7,,54.01578402,10.34259123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT4,23813,Blunk,Am Freudenberg,8,,54.0157328,10.3429681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT5,23813,Blunk,Am Freudenberg,9,,54.01551475,10.34286307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT6,23813,Blunk,Ziegelkoppel,1,,54.00293566,10.33748242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT7,23813,Blunk,Ziegelkoppel,2,,54.00235899,10.34169242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT8,23813,Blunk,Grönwohlder Weg,1,,54.02388587,10.35753319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAT9,23813,Blunk,Grönwohlder Weg,3,,54.02460602,10.35796597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATA,23813,Blunk,Kühlkamper Weg,3,,54.01256819,10.35149828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATB,23813,Blunk,Kühlkamper Weg,4,,54.01264529,10.35216417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATC,23813,Blunk,Kühlkamper Weg,5,,54.01243767,10.35355817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATD,23813,Blunk,Kühlkamper Weg,6,,54.01272489,10.35416102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATE,23813,Blunk,Kühlkamper Weg,7,,54.01143681,10.35294051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATF,23813,Blunk,Moorredder,1,,54.03262241,10.33050064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATG,23813,Blunk,Moorredder,2,,54.03272828,10.32862487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATH,23813,Blunk,Moorredder,3,,54.03387422,10.32811079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATI,23813,Blunk,Moorredder,4,,54.03284883,10.32770703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATJ,23813,Blunk,Moorredder,5,,54.03211881,10.32521977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATK,23813,Blunk,Moorredder,6,,54.03197449,10.31833174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATL,23813,Blunk,Muggesfelder Straße,1,,54.02075978,10.34592683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATM,23813,Blunk,Muggesfelder Straße,10,,54.02755043,10.33606358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATN,23813,Blunk,Muggesfelder Straße,11,,54.02748327,10.33557083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATO,23813,Blunk,Muggesfelder Straße,12,,54.02730464,10.33521062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATP,23813,Blunk,Muggesfelder Straße,13,,54.02746849,10.33493793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATQ,23813,Blunk,Muggesfelder Straße,13,a,54.0280121,10.33540319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATR,23813,Blunk,Muggesfelder Straße,14,,54.02746856,10.33470293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATS,23813,Blunk,Muggesfelder Straße,15,,54.02796723,10.33505666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATT,23813,Blunk,Muggesfelder Straße,15,a,54.02812922,10.3344978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATU,23813,Blunk,Muggesfelder Straße,15,b,54.02790791,10.33475235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATV,23813,Blunk,Muggesfelder Straße,16,,54.02813249,10.33338576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATW,23813,Blunk,Muggesfelder Straße,17,,54.02972439,10.33160434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATX,23813,Blunk,Muggesfelder Straße,18,,54.03178627,10.33107675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATY,23813,Blunk,Muggesfelder Straße,18,a,54.0319449,10.3306561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATZ,23813,Blunk,Muggesfelder Straße,19,,54.03214808,10.33060202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATa,23813,Blunk,Grönwohlder Weg,4,,54.02505585,10.3578845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATb,23813,Blunk,Grönwohlder Weg,5,,54.02591616,10.35833249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATc,23813,Blunk,Grönwohlder Weg,6,,54.02593319,10.357603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATd,23813,Blunk,Grönwohlder Weg,7,,54.0265111,10.35844678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATe,23813,Blunk,Grönwohlder Weg,8,,54.02674649,10.36071931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATf,23813,Blunk,Grönwohlder Weg,9,,54.02615865,10.36040535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATg,23813,Blunk,Hornbrooker Straße,1,,54.01376694,10.33669727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATh,23813,Blunk,Hornbrooker Straße,10,,54.0123099,10.33236964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATi,23813,Blunk,Hornbrooker Straße,11,,54.01632527,10.3281981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATj,23813,Blunk,Hornbrooker Straße,12,,54.01781383,10.32778159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATk,23813,Blunk,Hornbrooker Straße,13,,54.01848613,10.32756572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATl,23813,Blunk,Hornbrooker Straße,14,,54.0185932,10.32721333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATm,23813,Blunk,Hornbrooker Straße,15,,54.01881571,10.32732399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATn,23813,Blunk,Hornbrooker Straße,2,,54.01370138,10.3362178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATo,23813,Blunk,Hornbrooker Straße,2,a,54.01400202,10.33570435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATp,23813,Blunk,Hornbrooker Straße,3,,54.01353641,10.33591311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATq,23813,Blunk,Hornbrooker Straße,4,,54.0135775,10.33553438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATr,23813,Blunk,Hornbrooker Straße,5,,54.01375092,10.33533801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATs,23813,Blunk,Hornbrooker Straße,6,,54.01360419,10.33507252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATt,23813,Blunk,Hornbrooker Straße,7,,54.01396558,10.33517646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATu,23813,Blunk,Hornbrooker Straße,8,,54.01408343,10.33451825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATv,23813,Blunk,Hornbrooker Straße,9,,54.01349571,10.3339517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATw,23813,Blunk,Hornbrooker Straße,9,a,54.01368338,10.33310282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATx,23813,Blunk,Kühlkamper Weg,1,,54.01178896,10.34344808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATy,23813,Blunk,Kühlkamper Weg,1,a,54.01183596,10.34425983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cATz,23813,Blunk,Kühlkamper Weg,2,,54.01237164,10.34820575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU0,23813,Blunk,Muggesfelder Straße,2,,54.02123678,10.34395455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU1,23813,Blunk,Muggesfelder Straße,2,a,54.02145174,10.34353734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU2,23813,Blunk,Muggesfelder Straße,20,,54.03226404,10.33131552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU3,23813,Blunk,Muggesfelder Straße,21,,54.0323465,10.33057295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU4,23813,Blunk,Muggesfelder Straße,22,,54.03247221,10.33111928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU5,23813,Blunk,Muggesfelder Straße,23,,54.03267995,10.3312031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU6,23813,Blunk,Muggesfelder Straße,24,,54.03299981,10.3309333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU7,23813,Blunk,Muggesfelder Straße,24,a,54.03314044,10.33097038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU8,23813,Blunk,Muggesfelder Straße,27,,54.03319299,10.33043402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAU9,23813,Blunk,Muggesfelder Straße,28,,54.03339617,10.33043353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUA,23813,Blunk,Nehmser Straße,9,,54.01271754,10.37564013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUB,23813,Blunk,Lehmberg,1,,54.01153177,10.37270846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUC,23813,Blunk,Segeberger Straße,1,,54.02929894,10.37935195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUD,23813,Blunk,Segeberger Straße,10,,54.0214671,10.35202278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUE,23813,Blunk,Segeberger Straße,11,,54.02141491,10.35088617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUF,23813,Blunk,Segeberger Straße,12,,54.02056888,10.34706762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUG,23813,Blunk,Segeberger Straße,13,,54.01910195,10.34655838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUH,23813,Blunk,Segeberger Straße,14,,54.01887299,10.34639209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUI,23813,Blunk,Segeberger Straße,15,,54.01872605,10.34623335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUJ,23813,Blunk,Segeberger Straße,16,,54.01821565,10.34560666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUK,23813,Blunk,Segeberger Straße,17,,54.01791026,10.34562839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUL,23813,Blunk,Segeberger Straße,17,a,54.0178492,10.34547881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUM,23813,Blunk,Segeberger Straße,18,,54.01760867,10.34482411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUN,23813,Blunk,Segeberger Straße,19,,54.0172545,10.34439478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUO,23813,Blunk,Segeberger Straße,2,,54.02783411,10.37745222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUP,23813,Blunk,Segeberger Straße,2,a,54.02756182,10.37696334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUQ,23813,Blunk,Segeberger Straße,20,,54.0167586,10.34403094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUR,23813,Blunk,Segeberger Straße,21,,54.01657786,10.34384405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUS,23813,Blunk,Segeberger Straße,22,,54.01636871,10.34363373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUT,23813,Blunk,Segeberger Straße,23,,54.01593502,10.34320768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUU,23813,Blunk,Segeberger Straße,24,,54.01566373,10.34447028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUV,23813,Blunk,Segeberger Straße,25,,54.01465873,10.34349557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUW,23813,Blunk,Segeberger Straße,26,,54.01332486,10.34325405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUX,23813,Blunk,Segeberger Straße,27,,54.01314516,10.3432462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUY,23813,Blunk,Segeberger Straße,28,,54.01295008,10.34326899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUZ,23813,Blunk,Segeberger Straße,29,,54.01270816,10.34259353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUa,23813,Blunk,Muggesfelder Straße,29,,54.03353135,10.33092611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUb,23813,Blunk,Muggesfelder Straße,3,,54.02677988,10.33836457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUc,23813,Blunk,Muggesfelder Straße,30,,54.03356049,10.33041276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUd,23813,Blunk,Muggesfelder Straße,31,,54.03371954,10.33045406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUe,23813,Blunk,Muggesfelder Straße,32,,54.03397423,10.33035196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUf,23813,Blunk,Muggesfelder Straße,33,,54.03405195,10.33073283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUg,23813,Blunk,Muggesfelder Straße,33,a,54.03382414,10.33093085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUh,23813,Blunk,Muggesfelder Straße,34,,54.03419897,10.33017915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUi,23813,Blunk,Muggesfelder Straße,4,,54.02826639,10.34037774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUj,23813,Blunk,Muggesfelder Straße,5,,54.02836779,10.3399937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUk,23813,Blunk,Muggesfelder Straße,6,,54.02825449,10.33918333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUl,23813,Blunk,Muggesfelder Straße,7,,54.02802121,10.3371341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUm,23813,Blunk,Muggesfelder Straße,7,a,54.02817946,10.3366658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUn,23813,Blunk,Muggesfelder Straße,7,c,54.02806286,10.33589649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUo,23813,Blunk,Muggesfelder Straße,8,,54.02767594,10.33683377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUp,23813,Blunk,Muggesfelder Straße,9,,54.0276691,10.3364427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUq,23813,Blunk,Nehmser Straße,1,,54.02037915,10.35891218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUr,23813,Blunk,Nehmser Straße,10,,54.01213458,10.37654731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUs,23813,Blunk,Nehmser Straße,2,,54.01941891,10.35830182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUt,23813,Blunk,Nehmser Straße,3,,54.01896628,10.35832374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUu,23813,Blunk,Nehmser Straße,3,a,54.01852555,10.35813348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUv,23813,Blunk,Nehmser Straße,4,,54.01863094,10.35918657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUw,23813,Blunk,Nehmser Straße,5,,54.01780591,10.36487287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUx,23813,Blunk,Nehmser Straße,6,,54.01752259,10.36567436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUy,23813,Blunk,Nehmser Straße,7,,54.01561038,10.36704419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAUz,23813,Blunk,Nehmser Straße,8,,54.01484835,10.36993298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV0,23813,Blunk,Segeberger Straße,3,,54.02734844,10.37544997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV1,23813,Blunk,Segeberger Straße,30,,54.01217768,10.34282384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV2,23813,Blunk,Segeberger Straße,31,,54.01013566,10.34315716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV3,23813,Blunk,Segeberger Straße,31,a,54.01049653,10.34343391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV4,23813,Blunk,Segeberger Straße,31,b,54.01054828,10.34342322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV5,23813,Blunk,Segeberger Straße,31,c,54.01050804,10.34353916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV6,23813,Blunk,Segeberger Straße,32,,54.01014399,10.34215191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV7,23813,Blunk,Segeberger Straße,32,a,54.00906044,10.34079933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV8,23813,Blunk,Segeberger Straße,33,,54.00980336,10.34278512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAV9,23813,Blunk,Segeberger Straße,34,,54.0068541,10.33921501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVA,23813,Blunk,Am See,4,,54.01846843,10.35668092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVB,23813,Blunk,Kastanienweg,1,,54.02015631,10.34894473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVC,23813,Blunk,Kastanienweg,2,,54.02014965,10.34994054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVD,23813,Blunk,Dorfkoppel,1,,54.01517367,10.36963469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVE,23813,Blunk,Dorfkoppel,10,,54.01588793,10.36776708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVF,23813,Blunk,Dorfkoppel,11,,54.01581951,10.36749513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVG,23813,Blunk,Dorfkoppel,12,,54.01597736,10.36744174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVH,23813,Blunk,Dorfkoppel,13,,54.01616113,10.36757233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVI,23813,Blunk,Dorfkoppel,14,,54.01635184,10.36786521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVJ,23813,Blunk,Dorfkoppel,15,,54.01617816,10.36799591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVK,23813,Blunk,Dorfkoppel,16,,54.0163037,10.36827547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVL,23813,Blunk,Dorfkoppel,17,,54.01601634,10.36837767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVM,23813,Blunk,Dorfkoppel,18,,54.01618489,10.36853753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVN,23813,Blunk,Dorfkoppel,19,,54.01583338,10.36886731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVO,23813,Blunk,Dorfkoppel,2,,54.01526856,10.36939356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVP,23813,Blunk,Dorfkoppel,20,,54.01595384,10.3690436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVQ,23813,Blunk,Dorfkoppel,21,,54.01570198,10.36911416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVR,23813,Blunk,Dorfkoppel,22,,54.01585539,10.36927263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVS,23813,Blunk,Dorfkoppel,23,,54.01558438,10.36939604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVT,23813,Blunk,Dorfkoppel,24,,54.01565567,10.36957163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVU,23813,Blunk,Dorfkoppel,25,,54.01540182,10.3695343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVV,23813,Blunk,Dorfkoppel,3,,54.0153987,10.3691772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVW,23813,Blunk,Dorfkoppel,4,,54.01552063,10.36884147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVX,23813,Blunk,Dorfkoppel,5,,54.01538545,10.36862791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVY,23813,Blunk,Dorfkoppel,6,,54.01569136,10.36849369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVZ,23813,Blunk,Dorfkoppel,7,,54.0155431,10.36828981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVa,23813,Blunk,Segeberger Straße,34,a,54.00668102,10.33908334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVb,23813,Blunk,Segeberger Straße,35,,54.00651993,10.33905113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVc,23813,Blunk,Segeberger Straße,35,a,54.0061959,10.33880193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVd,23813,Blunk,Segeberger Straße,36,,54.00512763,10.33810454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVe,23813,Blunk,Segeberger Straße,37,,54.00465713,10.33784534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVf,23813,Blunk,Segeberger Straße,38,,54.00440136,10.33769262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVg,23813,Blunk,Segeberger Straße,4,,54.0268048,10.37529393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVh,23813,Blunk,Segeberger Straße,5,,54.02583818,10.37338177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVi,23813,Blunk,Segeberger Straße,5,a,54.02653439,10.37477491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVj,23813,Blunk,Segeberger Straße,6,,54.02435167,10.37459973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVk,23813,Blunk,Segeberger Straße,7,,54.02531435,10.37143291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVl,23813,Blunk,Segeberger Straße,8,,54.02495345,10.36251202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVm,23813,Blunk,Segeberger Straße,8,a,54.02499204,10.36320026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVn,23813,Blunk,Segeberger Straße,9,,54.02126359,10.35391563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVo,23813,Blunk,Am Vorholz,1,,54.03567259,10.33157459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVp,23813,Blunk,Am Vorholz,2,,54.03592601,10.33233717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVq,23813,Blunk,Am Vorholz,3,,54.03632686,10.33295762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVr,23813,Blunk,Am Vorholz,3,a,54.03638189,10.33333041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVs,23813,Blunk,Am Vorholz,4,,54.04119867,10.33775932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVt,23813,Blunk,Am Vorholz,5,,54.03995383,10.34151099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVu,23813,Blunk,Am Vorholz,5,a,54.04019702,10.34109033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVv,23813,Blunk,Am Vorholz,6,,54.04281192,10.34441916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVw,23813,Blunk,Am See,1,,54.01836688,10.35873281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVx,23813,Blunk,Am See,1,a,54.01807876,10.35902462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVy,23813,Blunk,Am See,2,,54.01768011,10.35856051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAVz,23813,Blunk,Am See,3,,54.01819188,10.35727742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW0,23813,Blunk,Dorfkoppel,8,,54.0158682,10.36814889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW1,23813,Blunk,Dorfkoppel,9,,54.01568072,10.36788991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW2,23813,Blunk,Schmiedeberg,1,,54.01873426,10.34548868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW3,23813,Blunk,Schmiedeberg,2,,54.01899622,10.34551047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW4,23813,Blunk,Schmiedeberg,3,,54.01921098,10.34559118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW5,23813,Blunk,Mühlenweg,1,,54.02834278,10.33442471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW6,23813,Blunk,Mühlenweg,2,,54.02838213,10.33499682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW7,23813,Blunk,Mühlenweg,3,,54.0283792,10.33559155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW8,23813,Blunk,Mühlenweg,4,,54.0283792,10.33559155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAW9,23813,Blunk,Mühlenweg,5,,54.0283792,10.33559155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWa,23813,Blunk,Mühlenweg,6,,54.0283792,10.33559155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWb,23813,Blunk,Am Mühlenberg,1,,54.03139866,10.33133093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWc,23813,Blunk,Am Mühlenberg,10,,54.03198167,10.33239483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWd,23813,Blunk,Am Mühlenberg,11,,54.03173803,10.33247703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWe,23813,Blunk,Am Mühlenberg,12,,54.03152673,10.33251474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWf,23813,Blunk,Am Mühlenberg,13,,54.03137144,10.33264952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWg,23813,Blunk,Am Mühlenberg,14,,54.03110355,10.33271134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWh,23813,Blunk,Am Mühlenberg,15,,54.03111055,10.33235702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWi,23813,Blunk,Am Mühlenberg,16,,54.03112983,10.33180969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWj,23813,Blunk,Am Mühlenberg,17,,54.03116764,10.33138793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWk,23813,Blunk,Am Mühlenberg,2,,54.03140125,10.33161029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWl,23813,Blunk,Am Mühlenberg,2,a,54.03137772,10.33169959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWm,23813,Blunk,Am Mühlenberg,3,,54.03141003,10.33195359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWn,23813,Blunk,Am Mühlenberg,3,a,54.03136007,10.33206724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWo,23813,Blunk,Am Mühlenberg,4,,54.03170167,10.33207338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWp,23813,Blunk,Am Mühlenberg,5,,54.03192111,10.33201475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWq,23813,Blunk,Am Mühlenberg,6,,54.03220318,10.33188663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWr,23813,Blunk,Am Mühlenberg,7,,54.03242896,10.33180794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cAWs,23813,Blunk,Am Mühlenberg,9,,54.03226547,10.33244774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHca,23813,Blunk,Hohlegruft,6,,54.0198247,10.39463535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIS,23813,Blunk,Bahnhofstraße,11,,54.00725438,10.31846022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIT,23813,Blunk,Bahnhofstraße,12,,54.00671666,10.31934508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIU,23813,Blunk,Bahnhofstraße,13,,54.00710861,10.31864456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIV,23813,Blunk,Bahnhofstraße,3,,54.00747733,10.31682709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIW,23813,Blunk,Bahnhofstraße,4,,54.00714947,10.31705064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIX,23813,Blunk,Bahnhofstraße,4,a,54.00721482,10.31673339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIY,23813,Blunk,Bahnhofstraße,5,,54.00756119,10.31745987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csIZ,23813,Blunk,Bahnhofstraße,6,,54.00706146,10.31748519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ0,23813,Blunk,Bahnhofstraße,7,,54.0073476,10.31784647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ1,23813,Blunk,Bahnhofstraße,9,,54.0073159,10.31819515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ2,23813,Blunk,Bargenhöven,1,,53.99647841,10.30895496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ3,23813,Blunk,Brandsmühle,1,,53.99124247,10.29277688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ4,23813,Blunk,Dorfstraße,1,,54.00752323,10.31560862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ5,23813,Blunk,Dorfstraße,10,,54.00913444,10.31347733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ6,23813,Blunk,Dorfstraße,10,a,54.00933145,10.31315138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ7,23813,Blunk,Dorfstraße,11,,54.00899001,10.31317849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ8,23813,Blunk,Dorfstraße,12,,54.01015207,10.31249515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJ9,23813,Blunk,Dorfstraße,12,a,54.00960338,10.31301879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJA,23813,Blunk,Dorfstraße,30,a,54.01315315,10.311123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJB,23813,Blunk,Dorfstraße,30,b,54.01333898,10.31090026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJC,23813,Blunk,Dorfstraße,32,,54.01349971,10.31073408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJD,23813,Blunk,Dorfstraße,34,,54.0136428,10.31044413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJE,23813,Blunk,Dorfstraße,36,,54.0137914,10.31008755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJF,23813,Blunk,Dorfstraße,38,,54.01405036,10.30973657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJG,23813,Blunk,Dorfstraße,4,,54.00821058,10.31495915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJH,23813,Blunk,Dorfstraße,5,,54.00836832,10.31416996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJI,23813,Blunk,Dorfstraße,6,,54.00841758,10.31459367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJJ,23813,Blunk,Dorfstraße,7,,54.00869088,10.31350951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJK,23813,Blunk,Dorfstraße,7,a,54.00825538,10.31292593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJL,23813,Blunk,Dorfstraße,8,,54.00861077,10.31436764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJM,23813,Blunk,Dorfstraße,8,a,54.00882683,10.31415705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJN,23813,Blunk,Dorfstraße,9,,54.00860006,10.31292068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJO,23813,Blunk,Dorfstraße,9,a,54.00875354,10.3125748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJP,23813,Blunk,Dorfstraße,9,b,54.00881241,10.31253729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJQ,23813,Blunk,Große Wiesen,3,,53.99275033,10.30474515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJR,23813,Blunk,Hauskoppelredder,1,,54.00632997,10.31404139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJS,23813,Blunk,Hauskoppelredder,10,,54.00636519,10.31195542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJT,23813,Blunk,Hauskoppelredder,12,,54.00634,10.31162323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJU,23813,Blunk,Hauskoppelredder,14,,54.00629186,10.31125867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJV,23813,Blunk,Hauskoppelredder,16,,54.00626119,10.3110611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJW,23813,Blunk,Hauskoppelredder,2,,54.00669531,10.31361604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJX,23813,Blunk,Hauskoppelredder,3,,54.00576626,10.31341702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJY,23813,Blunk,Hauskoppelredder,3,a,54.00614622,10.31285328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJZ,23813,Blunk,Hauskoppelredder,4,,54.00660973,10.31328315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJa,23813,Blunk,Dorfstraße,13,,54.00923669,10.31288899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJb,23813,Blunk,Dorfstraße,14,,54.0107785,10.31272972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJd,23813,Blunk,Dorfstraße,15,,54.01053664,10.31149727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJe,23813,Blunk,Dorfstraße,16,,54.01110729,10.31243257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJf,23813,Blunk,Dorfstraße,17,,54.01085718,10.3119676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJg,23813,Blunk,Dorfstraße,18,,54.01153514,10.31270603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJh,23813,Blunk,Dorfstraße,19,,54.01118792,10.31198298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJi,23813,Blunk,Dorfstraße,2,,54.00797534,10.3152071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJj,23813,Blunk,Dorfstraße,20,,54.01168652,10.31234557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJk,23813,Blunk,Dorfstraße,21,,54.01161013,10.31185766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJl,23813,Blunk,Dorfstraße,21,a,54.0113923,10.31125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJm,23813,Blunk,Dorfstraße,22,,54.01199328,10.31208046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJn,23813,Blunk,Dorfstraße,23,,54.01176065,10.31170577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJo,23813,Blunk,Dorfstraße,24,,54.01247247,10.31178132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJp,23813,Blunk,Dorfstraße,25,,54.01209977,10.31168351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJq,23813,Blunk,Dorfstraße,25,a,54.01229005,10.31154265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJr,23813,Blunk,Dorfstraße,26,,54.01252089,10.31173027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJs,23813,Blunk,Dorfstraße,27,,54.01246115,10.31145136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJt,23813,Blunk,Dorfstraße,27,a,54.01261753,10.31118754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJu,23813,Blunk,Dorfstraße,28,,54.01275936,10.31150558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJv,23813,Blunk,Dorfstraße,28,a,54.01302153,10.31281496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJw,23813,Blunk,Dorfstraße,28,b,54.01301756,10.31218108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJx,23813,Blunk,Dorfstraße,29,,54.01278539,10.31086131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJy,23813,Blunk,Dorfstraße,3,,54.00818073,10.31448962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csJz,23813,Blunk,Dorfstraße,30,,54.01305127,10.31147443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK0,23813,Blunk,Hauskoppelredder,4,a,54.00662525,10.31309933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK1,23813,Blunk,Hauskoppelredder,4,b,54.00652491,10.31320038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK2,23813,Blunk,Hauskoppelredder,5,,54.00613549,10.31244488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK3,23813,Blunk,Hauskoppelredder,6,,54.00652899,10.3127295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK4,23813,Blunk,Hauskoppelredder,8,,54.00652113,10.31237428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK5,23813,Blunk,Imberg,1,,54.01753042,10.32246858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK6,23813,Blunk,Imberg,2,,54.01474673,10.32321758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK7,23813,Blunk,Imberg,3,,54.01790536,10.32078295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK8,23813,Blunk,Imberg,4,,54.01694515,10.32371768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csK9,23813,Blunk,Imberg,6,,54.01802611,10.32225531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKA,23813,Blunk,Mühlenstraße,12,,54.01201489,10.31535223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKB,23813,Blunk,Mühlenstraße,12,a,54.01203928,10.31570523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKC,23813,Blunk,Mühlenstraße,12,b,54.01202522,10.31584812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKD,23813,Blunk,Mühlenstraße,13,,54.0122906,10.31649367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKE,23813,Blunk,Mühlenstraße,13,a,54.01226386,10.31689336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKF,23813,Blunk,Mühlenstraße,14,,54.01195309,10.3167436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKG,23813,Blunk,Mühlenstraße,14,a,54.01197155,10.31633962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKH,23813,Blunk,Mühlenstraße,15,,54.01231367,10.31781916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKI,23813,Blunk,Mühlenstraße,16,,54.01194741,10.31716993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKJ,23813,Blunk,Mühlenstraße,2,,54.01213903,10.31270994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKK,23813,Blunk,Mühlenstraße,3,,54.01240983,10.31279819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKL,23813,Blunk,Mühlenstraße,5,,54.01256074,10.31331736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKM,23813,Blunk,Mühlenstraße,6,,54.01228237,10.31390751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKN,23813,Blunk,Mühlenstraße,7,,54.01251444,10.31424087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKO,23813,Blunk,Mühlenstraße,8,,54.01224063,10.3144028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKP,23813,Blunk,Mühlenstraße,9,,54.01253639,10.31457705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKQ,23813,Blunk,Seeredder,2,,54.01497018,10.3249345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKR,23813,Blunk,Segeberger Straße,1,,54.00665271,10.31450415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKS,23813,Blunk,Segeberger Straße,10,,54.00799724,10.31672053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKT,23813,Blunk,Segeberger Straße,11,,54.0077526,10.31577635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKU,23813,Blunk,Segeberger Straße,12,a,54.0081238,10.31691402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKV,23813,Blunk,Segeberger Straße,12,b,54.00825827,10.31714806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKW,23813,Blunk,Segeberger Straße,13,,54.00794746,10.3160453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKX,23813,Blunk,Segeberger Straße,14,,54.00843536,10.31730331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKY,23813,Blunk,Segeberger Straße,15,,54.00811347,10.31624315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKZ,23813,Blunk,Segeberger Straße,16,,54.00863819,10.31731746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKa,23813,Blunk,Kirchenweg,1,,54.01107005,10.3132247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKb,23813,Blunk,Kirchenweg,2,,54.01096098,10.3136436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKc,23813,Blunk,Kirchenweg,2,a,54.01107072,10.3141284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKd,23813,Blunk,Kirchenweg,3,,54.01116277,10.3134901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKe,23813,Blunk,Kirchenweg,4,,54.01101172,10.31442104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKf,23813,Blunk,Lindenstraße,1,,54.00999349,10.3117264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKg,23813,Blunk,Lindenstraße,11,,54.00864158,10.30927585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKh,23813,Blunk,Lindenstraße,13,a,54.00904382,10.30906984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKi,23813,Blunk,Lindenstraße,13,b,54.0089147,10.30919815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKj,23813,Blunk,Lindenstraße,15,,54.00857403,10.30889032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKk,23813,Blunk,Lindenstraße,19,,54.0089274,10.3085717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKl,23813,Blunk,Lindenstraße,2,,54.01021206,10.31090072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKm,23813,Blunk,Lindenstraße,3,,54.00955392,10.31118986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKn,23813,Blunk,Lindenstraße,3,a,54.00949677,10.31063683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKo,23813,Blunk,Lindenstraße,4,,54.00977034,10.31011606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKp,23813,Blunk,Lindenstraße,4,e,54.01009074,10.30965297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKq,23813,Blunk,Lindenstraße,5,,54.00943017,10.31010841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKr,23813,Blunk,Lindenstraße,6,,54.00965394,10.30957557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKs,23813,Blunk,Lindenstraße,7,,54.00925212,10.30932866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKt,23813,Blunk,Lindenstraße,7,a,54.00899221,10.30975212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKu,23813,Blunk,Lindenstraße,7,b,54.00910853,10.30943789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKv,23813,Blunk,Lindenstraße,9,,54.00877335,10.3095843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKw,23813,Blunk,Lindenstraße,9,a,54.00885163,10.30988439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKx,23813,Blunk,Mühlenstraße,1,,54.01228373,10.31229456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKy,23813,Blunk,Mühlenstraße,10,,54.01218047,10.31503774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csKz,23813,Blunk,Mühlenstraße,11,,54.01227795,10.3159505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL0,23813,Blunk,Segeberger Straße,17,,54.00827195,10.3164343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL1,23813,Blunk,Segeberger Straße,18,,54.00882989,10.31752807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL2,23813,Blunk,Segeberger Straße,2,,54.00609445,10.31453959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL3,23813,Blunk,Segeberger Straße,20,,54.00901401,10.31773442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL4,23813,Blunk,Segeberger Straße,22,,54.00912634,10.31870118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL5,23813,Blunk,Segeberger Straße,24,,54.00937525,10.31812394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL6,23813,Blunk,Segeberger Straße,26,,54.00951825,10.31816054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL7,23813,Blunk,Segeberger Straße,28,,54.00980178,10.31828206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL8,23813,Blunk,Segeberger Straße,29,,54.01087683,10.3176888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csL9,23813,Blunk,Segeberger Straße,3,,54.00678287,10.31464191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLA,23813,Blunk,Op'n Soren,18,,54.0058892,10.31122532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLB,23813,Blunk,Op'n Soren,2,,54.00585804,10.3116119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLC,23813,Blunk,Op'n Soren,3,,54.00570168,10.31204829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLD,23813,Blunk,Op'n Soren,3,a,54.00556695,10.31227568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLE,23813,Blunk,Op'n Soren,4,,54.00543158,10.31204583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLF,23813,Blunk,Op'n Soren,5,,54.00547811,10.31168138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLG,23813,Blunk,Op'n Soren,6,,54.00565973,10.31135807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLH,23813,Blunk,Op'n Soren,7,,54.00546402,10.31087946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLI,23813,Blunk,Op'n Soren,7,a,54.00534834,10.31121736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLJ,23813,Blunk,Op'n Soren,8,,54.00531334,10.31056454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLK,23813,Blunk,Op'n Soren,9,,54.00524396,10.31019261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLL,23813,Blunk,Wardel,2,,54.0248351,10.29156238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLM,23813,Blunk,Wardel,4,,54.02427219,10.28914509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLN,23813,Blunk,Blumenhof Ihlkamp,1,,54.00101533,10.33337437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLO,23813,Blunk,Vorrade,1,,54.0079578,10.31785898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLP,23813,Blunk,Vorrade,3,,54.00812069,10.31795565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLQ,23813,Blunk,Vorrade,5,,54.00831775,10.31806439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLR,23813,Blunk,Vorrade,7,,54.00850701,10.31825365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLS,23813,Blunk,Vorrade,9,,54.00837951,10.31850214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLa,23813,Blunk,Segeberger Straße,30,,54.01001451,10.31821844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLb,23813,Blunk,Segeberger Straße,31,,54.01148096,10.31770531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLc,23813,Blunk,Segeberger Straße,32,,54.0104402,10.31810256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLd,23813,Blunk,Segeberger Straße,33,,54.01182792,10.31764461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLe,23813,Blunk,Segeberger Straße,34,,54.01080191,10.31820663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLf,23813,Blunk,Segeberger Straße,36,,54.01096972,10.31811658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLg,23813,Blunk,Segeberger Straße,38,,54.01123334,10.31813846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLh,23813,Blunk,Segeberger Straße,4,,54.00660407,10.31491594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLi,23813,Blunk,Segeberger Straße,4,a,54.00675592,10.31548999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLj,23813,Blunk,Segeberger Straße,5,,54.00690561,10.31479396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLk,23813,Blunk,Segeberger Straße,6,,54.00708189,10.31554621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLl,23813,Blunk,Segeberger Straße,7,,54.00705346,10.31495124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLm,23813,Blunk,Segeberger Straße,8,,54.00764091,10.31624961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLn,23813,Blunk,Segeberger Straße,8,a,54.0078484,10.31654321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLo,23813,Blunk,Segeberger Straße,9,,54.0072832,10.31521589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLp,23813,Blunk,Op'n Soren,1,,54.00604647,10.31198942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLq,23813,Blunk,Op'n Soren,10,,54.00523355,10.30986672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLr,23813,Blunk,Op'n Soren,11,,54.00511483,10.30951841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLs,23813,Blunk,Op'n Soren,12,,54.00506198,10.30915002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLt,23813,Blunk,Op'n Soren,13,,54.0053121,10.30905898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLu,23813,Blunk,Op'n Soren,14,,54.00555178,10.30899103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLv,23813,Blunk,Op'n Soren,15,,54.00552171,10.3092857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLw,23813,Blunk,Op'n Soren,15,a,54.00556523,10.30960083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLx,23813,Blunk,Op'n Soren,15,b,54.00561859,10.30995174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLy,23813,Blunk,Op'n Soren,16,,54.00555094,10.31051952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csLz,23813,Blunk,Op'n Soren,17,,54.00573658,10.31089027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004NacK,23813,Blunk,Lindenstraße,3,b,54.00904509,10.31229402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PBwS,23813,Blunk,Lindenstraße,4,f,54.01017486,10.30932473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PyEP,23813,Blunk,Bahnhofstraße,2,,54.00728638,10.31642112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059ePP,23813,Blunk,Muggesfelder Straße,7,b,54.02814509,10.33637877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uef2,23813,Blunk,Lindenstraße,2,a,54.01014995,10.31050178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xyBu,23813,Blunk,Hauskoppelredder,1,a,54.00622123,10.31323202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CtRW,23813,Blunk,Muggesfelder Straße,4,a,54.02823787,10.34084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RDXq,23813,Blunk,Segeberger Straße,24,a,54.00944509,10.31866763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SQB0,23813,Blunk,Muggesfelder Straße,5,a,54.02825419,10.33957723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006hD0X,23813,Blunk,Lindenstraße,17,,54.00868735,10.30877834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntVO,23813,Blunk,Am Mühlenberg,33,,54.03122818,10.33359309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntVy,23813,Blunk,Am Mühlenberg,34,,54.03106696,10.3332385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntW1,23813,Blunk,Am Mühlenberg,32,,54.03123839,10.33384112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntW8,23813,Blunk,Am Mühlenberg,28,,54.03199954,10.33362847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntWB,23813,Blunk,Am Mühlenberg,30,,54.0315706,10.33373243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntWN,23813,Blunk,Am Mühlenberg,29,,54.03177241,10.33373524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntWR,23813,Blunk,Am Mühlenberg,27,,54.03221715,10.33359436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntWZ,23813,Blunk,Am Mühlenberg,26,,54.03239873,10.33347118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntWd,23813,Blunk,Am Mühlenberg,31,,54.03132624,10.33391842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ntXa,23813,Blunk,Am Mühlenberg,25,,54.03242409,10.33300535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nzbS,23813,Blunk,Am Mühlenberg,20,,54.03140247,10.33323725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nzbT,23813,Blunk,Am Mühlenberg,21,,54.03156793,10.33330466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tpH8,23813,Blunk,Lindenstraße,6,b,54.00970186,10.30952049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tpxA,23813,Blunk,Lindenstraße,6,c,54.00981683,10.30925208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wMUB,23813,Blunk,Am Mühlenberg,22,,54.03182559,10.3331595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wMUN,23813,Blunk,Am Mühlenberg,23,,54.03203449,10.33310222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wMVj,23813,Blunk,Am Mühlenberg,24,,54.03222055,10.33311414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JKNW,23813,Blunk,Kirchenweg,2,b,54.01056033,10.31345578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ruzt,23813,Blunk,Mühlenstraße,15,a,54.01224734,10.31737984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cRP3,23813,Blunk,Segeberger Straße,10,a,54.02097451,10.35126044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cRP9,23813,Blunk,Am See,2,a,54.01647693,10.36333509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wZ4U,23813,Blunk,Lindenstraße,4,a,54.00990028,10.31042005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081VnD,23813,Blunk,Lindenstraße,8,,54.00951445,10.30901779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008K4mI,23813,Blunk,Segeberger Straße,10,a,54.00784775,10.31654262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eCAV,23813,Blunk,Segeberger Straße,2,b,54.00628192,10.31477678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eCAX,23813,Blunk,Segeberger Straße,2,a,54.00621915,10.31473461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eCB3,23813,Blunk,Segeberger Straße,2,d,54.00619919,10.31513217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eCB8,23813,Blunk,Segeberger Straße,2,c,54.00613644,10.31508998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eJ7h,23813,Blunk,Lindenstraße,10,,54.00933778,10.30850026

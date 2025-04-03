@@ -1,0 +1,88 @@
+# Amtliche Adressen für die Postleitzahl 25859
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3O,25859,Hallig Hooge,Backenswarft,1,,54.57572216,8.55229112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3P,25859,Hallig Hooge,Backenswarft,1,a,54.57572983,8.552686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3Q,25859,Hallig Hooge,Backenswarft,10,,54.57567041,8.55189935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3R,25859,Hallig Hooge,Backenswarft,11,,54.57566112,8.55213528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3S,25859,Hallig Hooge,Backenswarft,2,,54.57559994,8.55273413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3T,25859,Hallig Hooge,Backenswarft,3,,54.57545599,8.55267304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3U,25859,Hallig Hooge,Backenswarft,4,,54.57525923,8.55242709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3V,25859,Hallig Hooge,Backenswarft,5,,54.5752997,8.55208618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3W,25859,Hallig Hooge,Backenswarft,6,,54.57539737,8.55173942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3X,25859,Hallig Hooge,Backenswarft,7,,54.57534619,8.55148833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3Y,25859,Hallig Hooge,Backenswarft,8,,54.57538916,8.55132611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI3Z,25859,Hallig Hooge,Backenswarft,9,,54.57568056,8.55166438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI40,25859,Hallig Hooge,Hanswarft,1,,54.56620278,8.54983507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI41,25859,Hallig Hooge,Hanswarft,10,,54.56594512,8.55022598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI42,25859,Hallig Hooge,Hanswarft,10,a,54.56619855,8.55030818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI43,25859,Hallig Hooge,Hanswarft,11,,54.5657576,8.55042327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI44,25859,Hallig Hooge,Hanswarft,12,,54.5657533,8.55066178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI45,25859,Hallig Hooge,Hanswarft,12,a,54.5657533,8.55066178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI46,25859,Hallig Hooge,Hanswarft,14,,54.56587637,8.55094768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI47,25859,Hallig Hooge,Hanswarft,15,,54.56578263,8.55117319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI48,25859,Hallig Hooge,Hanswarft,16,,54.5652673,8.55094762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI49,25859,Hallig Hooge,Hanswarft,17,,54.56521645,8.55061522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4A,25859,Hallig Hooge,Ockelützwarft,1,b,54.56920715,8.5366859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4B,25859,Hallig Hooge,Ockelützwarft,2,,54.56909033,8.53684529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4C,25859,Hallig Hooge,Ockelützwarft,3,,54.56908761,8.53698919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4D,25859,Hallig Hooge,Ockelützwarft,4,,54.56937381,8.5370263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4E,25859,Hallig Hooge,Ockelützwarft,4,a,54.56938042,8.53734328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4F,25859,Hallig Hooge,Ockelützwarft,5,,54.56950545,8.53674708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4G,25859,Hallig Hooge,Ockelützwarft,6,,54.56942942,8.53650365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4H,25859,Hallig Hooge,Ockenswarft,1,,54.55893402,8.56209044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4I,25859,Hallig Hooge,Ockenswarft,2,,54.55912792,8.5616682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4J,25859,Hallig Hooge,Ockenswarft,2,a,54.559183,8.56147574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4K,25859,Hallig Hooge,Ockenswarft,3,,54.55926784,8.5619992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4L,25859,Hallig Hooge,Ockenswarft,4,,54.55940754,8.56266898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4M,25859,Hallig Hooge,Ockenswarft,4,a,54.55940754,8.56266898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4N,25859,Hallig Hooge,Ockenswarft,4,b,54.55940754,8.56266898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4O,25859,Hallig Hooge,Ockenswarft,4,c,54.55940754,8.56266898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4P,25859,Hallig Hooge,Ockenswarft,5,,54.5593423,8.5628332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4Q,25859,Hallig Hooge,Ockenswarft,5,a,54.5593423,8.5628332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4R,25859,Hallig Hooge,Ockenswarft,6,,54.55925383,8.56303714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4S,25859,Hallig Hooge,Ockenswarft,7,,54.55911938,8.5630604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4T,25859,Hallig Hooge,Ockenswarft,8,,54.55902273,8.56283672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4U,25859,Hallig Hooge,Ockenswarft,9,,54.55886902,8.56234903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4V,25859,Hallig Hooge,Volkertswarft,1,,54.57278059,8.52094537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4W,25859,Hallig Hooge,Westerwarft,1,,54.57812301,8.51646443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4X,25859,Hallig Hooge,Westerwarft,2,,54.57809932,8.51661351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4Y,25859,Hallig Hooge,Westerwarft,2,a,54.57815599,8.51663736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4Z,25859,Hallig Hooge,Westerwarft,3,,54.5783864,8.51651711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4a,25859,Hallig Hooge,Hanswarft,17,a,54.56531989,8.55066044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4b,25859,Hallig Hooge,Hanswarft,18,,54.56539923,8.55035655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4c,25859,Hallig Hooge,Hanswarft,19,a,54.56528014,8.55031603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4d,25859,Hallig Hooge,Hanswarft,19,b,54.56528014,8.55031603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4e,25859,Hallig Hooge,Hanswarft,2,,54.56572231,8.54948491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4f,25859,Hallig Hooge,Hanswarft,20,a,54.56548129,8.55013312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4g,25859,Hallig Hooge,Hanswarft,20,b,54.56537457,8.55007716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4h,25859,Hallig Hooge,Hanswarft,20,c,54.56537457,8.55007716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4i,25859,Hallig Hooge,Hanswarft,21,,54.56538507,8.54991953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4j,25859,Hallig Hooge,Hanswarft,3,,54.56561484,8.54940064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4k,25859,Hallig Hooge,Hanswarft,4,,54.56558425,8.54963739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4l,25859,Hallig Hooge,Hanswarft,5,,54.56570291,8.54969189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4m,25859,Hallig Hooge,Hanswarft,6,,54.56567065,8.55001185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4n,25859,Hallig Hooge,Hanswarft,6,a,54.56555551,8.54995019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4o,25859,Hallig Hooge,Hanswarft,7,,54.56553921,8.55016782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4p,25859,Hallig Hooge,Hanswarft,8,,54.5658645,8.54983512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4q,25859,Hallig Hooge,Hanswarft,9,,54.56618806,8.54999293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4r,25859,Hallig Hooge,Hanswarft,9,a,54.56586456,8.55003892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4s,25859,Hallig Hooge,Ipkenswarft,1,,54.57480357,8.51857555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4t,25859,Hallig Hooge,Ipkenswarft,2,,54.57468976,8.51845434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4u,25859,Hallig Hooge,Kirchwarft,1,,54.57308214,8.54471607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4v,25859,Hallig Hooge,Mitteltritt,1,,54.5699566,8.52842111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4w,25859,Hallig Hooge,Mitteltritt,2,,54.57025807,8.52860901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4x,25859,Hallig Hooge,Mitteltritt,3,,54.56999953,8.52809048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4y,25859,Hallig Hooge,Ockelützwarft,1,,54.56918872,8.53628058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI4z,25859,Hallig Hooge,Ockelützwarft,1,a,54.56924024,8.53660756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI50,25859,Hallig Hooge,Westerwarft,4,,54.57828469,8.51667165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI51,25859,Hallig Hooge,Lorenzwarft,1,,54.57006707,8.52675937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI52,25859,Hallig Hooge,Lorenzwarft,2,,54.56995577,8.52717037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008HbOz,25859,Hallig Hooge,Hanswarft,24,,54.56626149,8.54948648

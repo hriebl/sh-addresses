@@ -1,0 +1,580 @@
+# Amtliche Adressen für die Postleitzahl 24245
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIS,24245,Großbarkau,Am Dorfplatz,1,,54.2045492,10.17607978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIT,24245,Großbarkau,Am Dorfplatz,2,,54.20407676,10.17687138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIU,24245,Großbarkau,Am Dorfplatz,3,,54.20454199,10.17556972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIV,24245,Großbarkau,Am Dorfplatz,4,,54.20402018,10.17616149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIW,24245,Großbarkau,Am Dorfplatz,5,,54.20386702,10.17601623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIX,24245,Großbarkau,Dorfstraße,1,,54.20523832,10.18278688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIY,24245,Großbarkau,Dorfstraße,1,a,54.20491699,10.18307528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBIZ,24245,Großbarkau,Dorfstraße,10,,54.20521545,10.17695781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ0,24245,Großbarkau,Dorfstraße,11,,54.20496392,10.1753453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ1,24245,Großbarkau,Dorfstraße,12,,54.20527995,10.17666161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ2,24245,Großbarkau,Dorfstraße,13,,54.20418987,10.17461734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ3,24245,Großbarkau,Dorfstraße,14,,54.20529599,10.17635999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ4,24245,Großbarkau,Dorfstraße,15,,54.20464529,10.17461105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ5,24245,Großbarkau,Dorfstraße,16,,54.20538065,10.17584563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ6,24245,Großbarkau,Dorfstraße,17,,54.20402867,10.17308425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ7,24245,Großbarkau,Dorfstraße,18,,54.20518171,10.17568548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ8,24245,Großbarkau,Dorfstraße,18,a,54.20524087,10.17560614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJ9,24245,Großbarkau,Dorfstraße,19,,54.20390922,10.17292713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJA,24245,Großbarkau,Dorfstraße,7,a,54.20495066,10.1769977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJB,24245,Großbarkau,Dorfstraße,8,,54.20515162,10.17727949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJC,24245,Großbarkau,Dorfstraße,9,,54.20499779,10.1764743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJD,24245,Großbarkau,Barkauer Weg,1,,54.20579748,10.17474121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJE,24245,Großbarkau,Barkauer Weg,10,,54.20633681,10.17487495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJF,24245,Großbarkau,Barkauer Weg,11,,54.20690285,10.17447206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJG,24245,Großbarkau,Barkauer Weg,12,,54.20652763,10.17492204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJH,24245,Großbarkau,Barkauer Weg,14,,54.20673322,10.17484016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJI,24245,Großbarkau,Barkauer Weg,16,,54.20689277,10.17490019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJJ,24245,Großbarkau,Barkauer Weg,18,,54.21424296,10.17610914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJK,24245,Großbarkau,Barkauer Weg,20,,54.2143108,10.17704857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJL,24245,Großbarkau,Barkauer Weg,22,,54.21453079,10.17679962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJM,24245,Großbarkau,Barkauer Weg,24,,54.21473611,10.17656093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJN,24245,Großbarkau,Barkauer Weg,3,,54.20599355,10.17465519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJO,24245,Großbarkau,Barkauer Weg,4,,54.20573982,10.17538364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJP,24245,Großbarkau,Barkauer Weg,4,a,54.20587177,10.17528697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJQ,24245,Großbarkau,Barkauer Weg,5,,54.20620983,10.17453459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJR,24245,Großbarkau,Barkauer Weg,6,,54.206,10.17509888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJS,24245,Großbarkau,Barkauer Weg,7,,54.20640448,10.17439917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJT,24245,Großbarkau,Barkauer Weg,8,,54.20618679,10.1749868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJU,24245,Großbarkau,Barkauer Weg,9,,54.2065875,10.17434245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJa,24245,Großbarkau,Dorfstraße,2,,54.20493834,10.17816159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJb,24245,Großbarkau,Dorfstraße,20,,54.20523318,10.17509035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJc,24245,Großbarkau,Dorfstraße,21,,54.20355297,10.17315215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJd,24245,Großbarkau,Dorfstraße,22,,54.20541805,10.17445051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJe,24245,Großbarkau,Dorfstraße,23,,54.20391239,10.16038063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJf,24245,Großbarkau,Dorfstraße,24,,54.20501763,10.17441535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJg,24245,Großbarkau,Dorfstraße,25,,54.20316789,10.16067518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJh,24245,Großbarkau,Dorfstraße,26,,54.20476073,10.17420104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJi,24245,Großbarkau,Dorfstraße,27,,54.20204136,10.15964363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJj,24245,Großbarkau,Dorfstraße,28,,54.20449174,10.17375334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJk,24245,Großbarkau,Dorfstraße,29,,54.20207231,10.15930165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJl,24245,Großbarkau,Dorfstraße,3,,54.20461452,10.17812412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJm,24245,Großbarkau,Dorfstraße,30,,54.20437095,10.1735625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJn,24245,Großbarkau,Dorfstraße,31,,54.20378599,10.1533748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJo,24245,Großbarkau,Dorfstraße,32,,54.20429481,10.17325916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJp,24245,Großbarkau,Dorfstraße,33,,54.20373994,10.15258807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJq,24245,Großbarkau,Dorfstraße,34,,54.20424168,10.17309614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJr,24245,Großbarkau,Dorfstraße,35,,54.20771937,10.14777291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJs,24245,Großbarkau,Dorfstraße,35,a,54.20763478,10.14780243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJt,24245,Großbarkau,Dorfstraße,36,,54.20422056,10.17204626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJu,24245,Großbarkau,Dorfstraße,38,,54.20399495,10.17142359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJv,24245,Großbarkau,Dorfstraße,4,,54.20510495,10.1779174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJw,24245,Großbarkau,Dorfstraße,40,,54.20417684,10.16042142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJx,24245,Großbarkau,Dorfstraße,5,,54.20466764,10.17755833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJy,24245,Großbarkau,Dorfstraße,6,,54.20514483,10.17754141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bBJz,24245,Großbarkau,Dorfstraße,7,,54.20488026,10.17737325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6Q,24245,Großbarkau,Alte Dorfstraße,1,,54.22569365,10.16945354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6R,24245,Großbarkau,Alte Dorfstraße,11,,54.22658157,10.17003567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6S,24245,Großbarkau,Alte Dorfstraße,13,,54.22673781,10.17018967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6T,24245,Großbarkau,Alte Dorfstraße,15,,54.22700992,10.17039609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6U,24245,Großbarkau,Alte Dorfstraße,2,,54.22599305,10.16999078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6V,24245,Großbarkau,Alte Dorfstraße,21,,54.22769864,10.17099852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6X,24245,Großbarkau,Alte Dorfstraße,4,,54.22622616,10.17020483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD6Z,24245,Großbarkau,Alte Dorfstraße,6,,54.22640968,10.17035923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD70,24245,Großbarkau,Alte Dorfstraße,6,a,54.22660026,10.17051922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD71,24245,Großbarkau,Alte Dorfstraße,8,,54.22682563,10.17072352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD72,24245,Großbarkau,Alte Dorfstraße,9,,54.2262108,10.16957955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD73,24245,Großbarkau,Barmisser Weg,1,,54.22300368,10.16901282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD74,24245,Großbarkau,Barmisser Weg,11,,54.22266432,10.1694663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD75,24245,Großbarkau,Barmisser Weg,13,,54.22251345,10.17002677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD76,24245,Großbarkau,Barmisser Weg,13,a,54.22222858,10.17019793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD77,24245,Großbarkau,Barmisser Weg,15,,54.21847277,10.17329069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD78,24245,Großbarkau,Barmisser Weg,2,,54.22432961,10.1678906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD79,24245,Großbarkau,Barmisser Weg,3,,54.22333356,10.1698938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7A,24245,Großbarkau,Katenhof,14,b,54.22575004,10.17198251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7B,24245,Großbarkau,Katenhof,14,c,54.2255022,10.17226592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7C,24245,Großbarkau,Katenhof,16,,54.22584978,10.17169989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7D,24245,Großbarkau,Katenhof,18,,54.22594857,10.17137492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7E,24245,Großbarkau,Katenhof,2,,54.22538713,10.16993669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7F,24245,Großbarkau,Katenhof,2,a,54.22533834,10.16975428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7G,24245,Großbarkau,Katenhof,3,,54.22575992,10.17066162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7H,24245,Großbarkau,Katenhof,4,,54.22506998,10.17043896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7I,24245,Großbarkau,Katenhof,5,,54.22590749,10.17102728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7J,24245,Großbarkau,Katenhof,6,,54.22478768,10.1712545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7K,24245,Großbarkau,Katenhof,8,,54.22508872,10.17102774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7L,24245,Großbarkau,Raadener Weg,1,,54.22297152,10.16823647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7M,24245,Großbarkau,Raadener Weg,2,,54.22317569,10.1677879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7N,24245,Großbarkau,Raadener Weg,3,,54.22263521,10.16804854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7O,24245,Großbarkau,Raadener Weg,4,,54.22249551,10.16729777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7P,24245,Großbarkau,Wischhof,1,,54.22350635,10.16740822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7Q,24245,Großbarkau,Wischhof,2,,54.2239388,10.16736646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7R,24245,Großbarkau,Wischhof,3,,54.22363835,10.16722247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7S,24245,Großbarkau,Wischhof,4,,54.22411144,10.1671957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7T,24245,Großbarkau,Wischhof,5,,54.22377499,10.16693724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7U,24245,Großbarkau,Wischhof,7,,54.22394046,10.16673057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7V,24245,Großbarkau,Zum Eichhof,1,,54.22497232,10.16929275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7W,24245,Großbarkau,Zum Eichhof,2,,54.22450746,10.1694577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7a,24245,Großbarkau,Barmisser Weg,4,,54.22383426,10.1676997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7b,24245,Großbarkau,Barmisser Weg,5,,54.22290259,10.16952509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7c,24245,Großbarkau,Barmisser Weg,7,,54.22323123,10.17046666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7d,24245,Großbarkau,Barmisser Weg,9,,54.22357963,10.17112598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7e,24245,Großbarkau,Hauptstraße,11,,54.22665473,10.17417824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7f,24245,Großbarkau,Hauptstraße,12,,54.22477579,10.15754299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7g,24245,Großbarkau,Hauptstraße,13,,54.22650386,10.17363807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7h,24245,Großbarkau,Hauptstraße,19,,54.22492055,10.16742026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7i,24245,Großbarkau,Hauptstraße,2,,54.22701331,10.17577449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7j,24245,Großbarkau,Hauptstraße,3,,54.2264863,10.17855106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7k,24245,Großbarkau,Hauptstraße,3,a,54.22641572,10.17817927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7l,24245,Großbarkau,Hauptstraße,4,,54.22548593,10.16741484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7m,24245,Großbarkau,Hauptstraße,4,a,54.22559368,10.1679494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7n,24245,Großbarkau,Hauptstraße,4,b,54.22547506,10.16836598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7o,24245,Großbarkau,Hauptstraße,5,,54.22628064,10.17694129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7p,24245,Großbarkau,Hauptstraße,7,,54.22641868,10.17663547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7q,24245,Großbarkau,Hauptstraße,9,,54.22665009,10.17507101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7r,24245,Großbarkau,Hauptstraße,9,a,54.22649609,10.17470581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7s,24245,Großbarkau,Havighorster Weg,1,,54.22498856,10.16541671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7t,24245,Großbarkau,Havighorster Weg,2,,54.2251961,10.16631366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7u,24245,Großbarkau,Havighorster Weg,4,,54.22548454,10.16560363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7v,24245,Großbarkau,Katenhof,1,,54.22553282,10.17020645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7w,24245,Großbarkau,Katenhof,10,,54.22529058,10.17063552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7x,24245,Großbarkau,Katenhof,12,,54.22540286,10.17094494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7y,24245,Großbarkau,Katenhof,14,,54.22564286,10.17136072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7z,24245,Großbarkau,Katenhof,14,a,54.22556397,10.17187515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEB8,24245,Großbarkau,Alte Dorfstraße,10,,54.22140618,10.13569776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEB9,24245,Großbarkau,Alte Dorfstraße,12,,54.22141073,10.13542364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBA,24245,Großbarkau,Brammerkamp,2,,54.22205292,10.14344218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBB,24245,Großbarkau,Brammerkamp,3,,54.22184563,10.14468014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBC,24245,Großbarkau,Brammerkamp,4,,54.22185473,10.14384538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBD,24245,Großbarkau,Brammerkamp,5,,54.22164454,10.14479632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBE,24245,Großbarkau,Brammerkamp,6,,54.2216474,10.14424079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBF,24245,Großbarkau,Brammerkamp,7,,54.22149004,10.14516222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBG,24245,Großbarkau,Brammerkamp,8,,54.22148649,10.14455585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBH,24245,Großbarkau,Brookskoppel,1,,54.23176754,10.14359693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBI,24245,Großbarkau,Dorfstraße,1,,54.22281649,10.14536429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBJ,24245,Großbarkau,Dorfstraße,1,a,54.22276181,10.14482396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBK,24245,Großbarkau,Dorfstraße,11,,54.22130423,10.14077149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBL,24245,Großbarkau,Dorfstraße,11,a,54.22101985,10.14130962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBM,24245,Großbarkau,Dorfstraße,17,,54.22121452,10.13362101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBN,24245,Großbarkau,Dorfstraße,19,,54.22150213,10.13325337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBO,24245,Großbarkau,Dorfstraße,20,,54.22239124,10.13217024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBP,24245,Großbarkau,Dorfstraße,21,,54.22161454,10.1328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBQ,24245,Großbarkau,Dorfstraße,22,,54.22280764,10.131931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBR,24245,Großbarkau,Dorfstraße,23,,54.22189887,10.1324739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBS,24245,Großbarkau,Dorfstraße,24,,54.22257052,10.13173773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBT,24245,Großbarkau,Dorfstraße,26,,54.22270056,10.13120867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBU,24245,Großbarkau,Dorfstraße,28,,54.22277887,10.13082516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBV,24245,Großbarkau,Dorfstraße,3,,54.22260881,10.14447478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBW,24245,Großbarkau,Dorfstraße,30,,54.22292722,10.13052006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBX,24245,Großbarkau,Dorfstraße,32,,54.2230743,10.13012748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBY,24245,Großbarkau,Dorfstraße,32,a,54.2229969,10.12932691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBZ,24245,Großbarkau,Dorfstraße,5,,54.22247439,10.14414072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBa,24245,Großbarkau,Alte Dorfstraße,14,,54.22134914,10.13499198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBb,24245,Großbarkau,Alte Dorfstraße,2,,54.22127581,10.13785297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBc,24245,Großbarkau,Alte Dorfstraße,4,,54.22137032,10.13710196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBd,24245,Großbarkau,Alte Dorfstraße,6,,54.22145488,10.1362509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBe,24245,Großbarkau,Alte Dorfstraße,8,,54.22144874,10.13591883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBf,24245,Großbarkau,Alter Kieler Weg,1,,54.22227809,10.13296641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBg,24245,Großbarkau,Alter Kieler Weg,10,,54.2222006,10.13490516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBh,24245,Großbarkau,Alter Kieler Weg,11,,54.22815752,10.13472105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBi,24245,Großbarkau,Alter Kieler Weg,14,,54.22498843,10.13429392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBj,24245,Großbarkau,Alter Kieler Weg,17,,54.23231237,10.13372519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBk,24245,Großbarkau,Alter Kieler Weg,18,,54.22818986,10.13504482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBl,24245,Großbarkau,Alter Kieler Weg,19,,54.23291299,10.13444609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBm,24245,Großbarkau,Alter Kieler Weg,2,,54.22138522,10.1343838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBn,24245,Großbarkau,Alter Kieler Weg,21,,54.23320725,10.1346306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBo,24245,Großbarkau,Alter Kieler Weg,22,,54.23237224,10.1348612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBp,24245,Großbarkau,Alter Kieler Weg,23,,54.23390301,10.13344559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBq,24245,Großbarkau,Alter Kieler Weg,24,,54.23207042,10.13531203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBr,24245,Großbarkau,Alter Kieler Weg,4,,54.22163837,10.1342794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBs,24245,Großbarkau,Alter Kieler Weg,6,,54.22201186,10.13448441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBt,24245,Großbarkau,Alter Kieler Weg,8,,54.22207659,10.13473755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBu,24245,Großbarkau,Am See,1,,54.21376736,10.13701227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBv,24245,Großbarkau,Am See,2,,54.21411554,10.13701359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBw,24245,Großbarkau,Am See,4,,54.21411461,10.13692299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBx,24245,Großbarkau,Am See,6,,54.21401093,10.13649425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBy,24245,Großbarkau,Brammerkamp,1,,54.22200873,10.14408019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEBz,24245,Großbarkau,Brammerkamp,10,,54.22125165,10.145046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC0,24245,Großbarkau,Dorfstraße,7,,54.22229068,10.14359464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC1,24245,Großbarkau,Dorfstraße,7,a,54.22198765,10.14276907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC2,24245,Großbarkau,Dorfstraße,9,,54.22156463,10.14205261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC3,24245,Großbarkau,Krähenberg,1,,54.22167984,10.1371726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC4,24245,Großbarkau,Krähenberg,10,,54.22246095,10.13714721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC5,24245,Großbarkau,Krähenberg,2,,54.22154673,10.13769438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC6,24245,Großbarkau,Krähenberg,3,,54.22189521,10.1368668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC7,24245,Großbarkau,Krähenberg,4,,54.22175708,10.13752993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC8,24245,Großbarkau,Krähenberg,5,,54.22208798,10.13671247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEC9,24245,Großbarkau,Krähenberg,6,,54.222047,10.13740413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECA,24245,Großbarkau,Zum Lärchenwald,6,,54.21999144,10.13266814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECB,24245,Großbarkau,Spatzenweg,1,,54.22169888,10.13573676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECC,24245,Großbarkau,Spatzenweg,2,,54.22154146,10.13611344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECD,24245,Großbarkau,Spatzenweg,3,,54.22187357,10.13559312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECE,24245,Großbarkau,Spatzenweg,4,,54.2217604,10.13594679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECF,24245,Großbarkau,Spatzenweg,6,,54.22200773,10.13590551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECG,24245,Großbarkau,Kiebitzkoppel,1,,54.22240602,10.13524097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECH,24245,Großbarkau,Kiebitzkoppel,2,,54.22219787,10.13544355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECI,24245,Großbarkau,Kiebitzkoppel,3,,54.22235913,10.13570264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECJ,24245,Großbarkau,Kiebitzkoppel,4,,54.22258019,10.13537008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECK,24245,Großbarkau,Kiebitzkoppel,4,a,54.22262553,10.1354525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECL,24245,Großbarkau,Kiebitzkoppel,5,,54.2227171,10.13567084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECM,24245,Großbarkau,Kiebitzkoppel,6,,54.22275394,10.13594341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECN,24245,Großbarkau,Kiebitzkoppel,7,,54.22286101,10.13621801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECa,24245,Großbarkau,Krähenberg,7,,54.22228893,10.13667273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECb,24245,Großbarkau,Krähenberg,8,,54.22224491,10.13725614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECc,24245,Großbarkau,Preetzer Straße,2,,54.22338145,10.15231803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECd,24245,Großbarkau,Preetzer Straße,4,,54.22326461,10.15278862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECe,24245,Großbarkau,Preetzer Straße,4,a,54.2232746,10.1531862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECf,24245,Großbarkau,Preetzer Straße,6,,54.22320646,10.15386869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECg,24245,Großbarkau,Preetzer Straße,7,,54.22463583,10.15679837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECh,24245,Großbarkau,Seestraße,25,,54.21396044,10.13812331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECi,24245,Großbarkau,Seestraße,27,,54.21414189,10.13835984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECj,24245,Großbarkau,Seestraße,29,,54.21439178,10.13832739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECk,24245,Großbarkau,Seestraße,31,,54.21456441,10.13845807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECl,24245,Großbarkau,Seestraße,33,,54.21478854,10.1385755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECm,24245,Großbarkau,Seestraße,35,,54.21501103,10.13877252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECn,24245,Großbarkau,Seestraße,37,,54.21517415,10.13898648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECo,24245,Großbarkau,Seestraße,41,,54.21546183,10.13950723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECp,24245,Großbarkau,Seestraße,43,,54.21580441,10.13967377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECq,24245,Großbarkau,Seestraße,53,,54.21773533,10.13998112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECr,24245,Großbarkau,Seestraße,55,,54.21795511,10.13970513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECs,24245,Großbarkau,Seestraße,57,,54.2180214,10.13960702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECt,24245,Großbarkau,Seestraße,60,,54.219135,10.13868847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECu,24245,Großbarkau,Zum Ketelsberg,37,,54.23790846,10.14085783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECv,24245,Großbarkau,Zum Ketelsberg,37,a,54.23749038,10.14177026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECw,24245,Großbarkau,Zum Ketelsberg,39,,54.23756176,10.14038891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECx,24245,Großbarkau,Zum Lärchenwald,2,,54.2208303,10.13347272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECy,24245,Großbarkau,Zum Lärchenwald,2,a,54.22017607,10.13306475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bECz,24245,Großbarkau,Zum Lärchenwald,4,,54.22010639,10.13286571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqP,24245,Großbarkau,Bargkoppelweg,11,,54.21384825,10.14663333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqQ,24245,Großbarkau,Bargkoppelweg,13,,54.21396649,10.14685648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqR,24245,Großbarkau,Bargkoppelweg,15,,54.21421741,10.14664621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqS,24245,Großbarkau,Bargkoppelweg,2,,54.21240906,10.14549882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqT,24245,Großbarkau,Bargkoppelweg,2,a,54.21278688,10.14580194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqU,24245,Großbarkau,Bargkoppelweg,3,,54.2127141,10.14524301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqV,24245,Großbarkau,Bargkoppelweg,4,,54.21301603,10.14601612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqW,24245,Großbarkau,Bargkoppelweg,5,,54.21296893,10.14531901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqX,24245,Großbarkau,Bargkoppelweg,7,,54.21317136,10.14546483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqY,24245,Großbarkau,Bargkoppelweg,9,,54.21375071,10.14628514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEqZ,24245,Großbarkau,Dorfstraße,1,,54.21131432,10.14344793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr0,24245,Großbarkau,Dorfstraße,10,,54.21059393,10.1436022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr1,24245,Großbarkau,Dorfstraße,10,a,54.21047262,10.14310005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr2,24245,Großbarkau,Dorfstraße,11,,54.20980709,10.1440089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr3,24245,Großbarkau,Dorfstraße,12,,54.21048388,10.14365715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr4,24245,Großbarkau,Dorfstraße,12,a,54.2103134,10.14302855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr5,24245,Großbarkau,Dorfstraße,13,,54.20965346,10.14412947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr6,24245,Großbarkau,Dorfstraße,14,,54.21016738,10.14351729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr7,24245,Großbarkau,Dorfstraße,15,,54.20947727,10.14413089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr8,24245,Großbarkau,Dorfstraße,15,a,54.2094617,10.14420854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEr9,24245,Großbarkau,Dorfstraße,16,,54.20997244,10.14377086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErA,24245,Großbarkau,Dorfstraße,36,,54.20727882,10.14604841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErB,24245,Großbarkau,Dorfstraße,37,,54.20786143,10.1464188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErC,24245,Großbarkau,Dorfstraße,38,,54.20736803,10.14627977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErD,24245,Großbarkau,Dorfstraße,39,,54.20795382,10.1466993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErF,24245,Großbarkau,Dorfstraße,40,,54.20749661,10.14661495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErG,24245,Großbarkau,Dorfstraße,41,,54.20801751,10.14699149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErH,24245,Großbarkau,Dorfstraße,42,,54.20761329,10.14714762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErI,24245,Großbarkau,Dorfstraße,43,,54.20808161,10.14726699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErJ,24245,Großbarkau,Dorfstraße,5,,54.21105481,10.14439009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErK,24245,Großbarkau,Dorfstraße,6,,54.21080071,10.14347723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErL,24245,Großbarkau,Dorfstraße,7,,54.2108364,10.14366505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErM,24245,Großbarkau,Dorfstraße,8,,54.2107187,10.14352815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErN,24245,Großbarkau,Ewerhof,1,,54.21159117,10.14745929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErO,24245,Großbarkau,Ewerhof,11,,54.21095655,10.14813262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErP,24245,Großbarkau,Ewerhof,13,,54.21101202,10.14822874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErQ,24245,Großbarkau,Ewerhof,2,,54.21117181,10.14724913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErR,24245,Großbarkau,Ewerhof,3,,54.21146204,10.14748329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErS,24245,Großbarkau,Ewerhof,4,,54.21095685,10.14717553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErT,24245,Großbarkau,Ewerhof,5,,54.2113066,10.14772321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErU,24245,Großbarkau,Ewerhof,6,,54.21083308,10.14736361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErV,24245,Großbarkau,Ewerhof,7,,54.21117603,10.14777782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErW,24245,Großbarkau,Ewerhof,8,,54.21066812,10.14754478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErX,24245,Großbarkau,Ewerhof,9,,54.21102283,10.14777112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErY,24245,Großbarkau,Ewerweg,1,,54.21159307,10.14633676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErZ,24245,Großbarkau,Ewerweg,11,,54.21191457,10.14780759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEra,24245,Großbarkau,Dorfstraße,17,,54.20912497,10.14422098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErb,24245,Großbarkau,Dorfstraße,17,a,54.20883696,10.14387623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErc,24245,Großbarkau,Dorfstraße,17,b,54.20854671,10.14410784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErd,24245,Großbarkau,Dorfstraße,17,c,54.20849322,10.14415834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEre,24245,Großbarkau,Dorfstraße,17,d,54.20829261,10.14428373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErf,24245,Großbarkau,Dorfstraße,18,,54.2097314,10.14364828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErg,24245,Großbarkau,Dorfstraße,19,,54.20811809,10.14442126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErh,24245,Großbarkau,Dorfstraße,2,,54.2112619,10.14317415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEri,24245,Großbarkau,Dorfstraße,20,,54.20954512,10.14363434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErj,24245,Großbarkau,Dorfstraße,21,,54.20799517,10.14455634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErk,24245,Großbarkau,Dorfstraße,22,,54.20947331,10.14329603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErl,24245,Großbarkau,Dorfstraße,23,,54.2077978,10.14470297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErm,24245,Großbarkau,Dorfstraße,24,,54.20942554,10.14297447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErn,24245,Großbarkau,Dorfstraße,25,,54.20765923,10.14484184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEro,24245,Großbarkau,Dorfstraße,26,,54.20933401,10.14338937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErp,24245,Großbarkau,Dorfstraße,26,a,54.20909499,10.14357734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErq,24245,Großbarkau,Dorfstraße,27,,54.20748127,10.14492257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErr,24245,Großbarkau,Dorfstraße,28,,54.20892163,10.14331475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErs,24245,Großbarkau,Dorfstraße,29,,54.2074971,10.14532051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErt,24245,Großbarkau,Dorfstraße,3,,54.21106361,10.14374193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEru,24245,Großbarkau,Dorfstraße,30,,54.20701668,10.14531892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErv,24245,Großbarkau,Dorfstraße,31,,54.20761389,10.14556273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErw,24245,Großbarkau,Dorfstraße,32,,54.20711236,10.14554675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErx,24245,Großbarkau,Dorfstraße,33,,54.20769044,10.14585947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEry,24245,Großbarkau,Dorfstraße,34,,54.20720358,10.14580154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bErz,24245,Großbarkau,Dorfstraße,35,,54.20776979,10.14613706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs0,24245,Großbarkau,Ewerweg,2,,54.2112614,10.14629062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs1,24245,Großbarkau,Ewerweg,3,,54.21157002,10.14668348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs2,24245,Großbarkau,Ewerweg,4,,54.2114272,10.14677817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs3,24245,Großbarkau,Ewerweg,5,,54.21170491,10.14693323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs4,24245,Großbarkau,Ewerweg,6,,54.21166451,10.14815731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs5,24245,Großbarkau,Ewerweg,7,,54.21181351,10.1472152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs6,24245,Großbarkau,Ewerweg,8,,54.21192841,10.14822984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs7,24245,Großbarkau,Ewerweg,9,,54.21198461,10.14743469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs8,24245,Großbarkau,Gartenweg,1,,54.21338637,10.14559842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEs9,24245,Großbarkau,Gartenweg,2,,54.21348331,10.14592708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsA,24245,Großbarkau,Mühlenberg,14,,54.20969968,10.14578214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsB,24245,Großbarkau,Mühlenberg,16,,54.20975797,10.14603176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsC,24245,Großbarkau,Mühlenberg,2,,54.21005992,10.14428219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsD,24245,Großbarkau,Mühlenberg,3,,54.21005879,10.1449103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsE,24245,Großbarkau,Mühlenberg,4,,54.2099851,10.14452338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsF,24245,Großbarkau,Mühlenberg,4,a,54.20988462,10.14471717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsG,24245,Großbarkau,Mühlenberg,5,,54.21001815,10.14532081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsH,24245,Großbarkau,Mühlenberg,7,,54.20997453,10.14561712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsI,24245,Großbarkau,Mühlenberg,8,,54.2098416,10.1449299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsJ,24245,Großbarkau,Raden,1,,54.21092267,10.14617496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsK,24245,Großbarkau,Raden,1,a,54.2108062,10.14626764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsL,24245,Großbarkau,Raden,3,,54.21063834,10.14633018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsM,24245,Großbarkau,Raden,5,,54.2104692,10.14675872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsN,24245,Großbarkau,Raden,7,,54.21031647,10.14678939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsO,24245,Großbarkau,Rosenweg,1,,54.21416049,10.1408775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsP,24245,Großbarkau,Rosenweg,10,,54.21392747,10.13970874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsQ,24245,Großbarkau,Rosenweg,11,,54.21373487,10.13982208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsR,24245,Großbarkau,Rosenweg,13,,54.21364103,10.1396661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsS,24245,Großbarkau,Rosenweg,15,,54.21355844,10.13951931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsT,24245,Großbarkau,Rosenweg,17,,54.21344462,10.13932056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsU,24245,Großbarkau,Rosenweg,19,,54.2134146,10.13918149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsV,24245,Großbarkau,Rosenweg,2,,54.21452192,10.14042286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsW,24245,Großbarkau,Rosenweg,3,,54.21402722,10.14057557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsX,24245,Großbarkau,Rosenweg,4,,54.21431333,10.14018843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsY,24245,Großbarkau,Rosenweg,5,,54.21394756,10.14037969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsZ,24245,Großbarkau,Rosenweg,6,,54.21418578,10.14006415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsa,24245,Großbarkau,Gartenweg,2,a,54.21385627,10.14569285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsb,24245,Großbarkau,Gartenweg,3,,54.21349242,10.14541104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsc,24245,Großbarkau,Gartenweg,4,,54.21417708,10.14604909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsd,24245,Großbarkau,Gartenweg,5,,54.21376879,10.14532867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEse,24245,Großbarkau,Gartenweg,7,,54.21409145,10.14548767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsf,24245,Großbarkau,Kirchenstraße,1,,54.21099663,10.14515333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsg,24245,Großbarkau,Kirchenstraße,10,,54.2115018,10.14295085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsh,24245,Großbarkau,Kirchenstraße,11,,54.21137164,10.14053193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsi,24245,Großbarkau,Kirchenstraße,12,,54.21137176,10.14244055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsj,24245,Großbarkau,Kirchenstraße,13,,54.21153407,10.14050895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsk,24245,Großbarkau,Kirchenstraße,14,,54.21150454,10.14190761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsl,24245,Großbarkau,Kirchenstraße,15,,54.21153512,10.14026819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsm,24245,Großbarkau,Kirchenstraße,17,,54.21188896,10.14043299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsn,24245,Großbarkau,Kirchenstraße,18,,54.21197342,10.14101576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEso,24245,Großbarkau,Kirchenstraße,2,,54.21157031,10.14458166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsp,24245,Großbarkau,Kirchenstraße,2,a,54.21180108,10.14447123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsq,24245,Großbarkau,Kirchenstraße,4,,54.21171183,10.14394532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsr,24245,Großbarkau,Kirchenstraße,5,,54.21123626,10.14416689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEss,24245,Großbarkau,Kirchenstraße,6,,54.21181481,10.14351155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEst,24245,Großbarkau,Kirchenstraße,7,,54.21105665,10.14128502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsu,24245,Großbarkau,Kirchenstraße,8,,54.21154856,10.14311988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsv,24245,Großbarkau,Kirchenstraße,8,a,54.21178273,10.14314952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsw,24245,Großbarkau,Kirchenstraße,9,,54.21123499,10.14070462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsx,24245,Großbarkau,Mühlenberg,1,,54.2102566,10.14445942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsy,24245,Großbarkau,Mühlenberg,10,,54.20973272,10.1451789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEsz,24245,Großbarkau,Mühlenberg,12,,54.20968373,10.14549465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt0,24245,Großbarkau,Rosenweg,7,,54.21386029,10.14019642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt1,24245,Großbarkau,Rosenweg,8,,54.21405578,10.13994302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt2,24245,Großbarkau,Rosenweg,9,,54.21382197,10.13997055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt3,24245,Großbarkau,Seeblick,1,,54.20819418,10.14367274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt4,24245,Großbarkau,Seeblick,10,,54.20756164,10.14344303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt5,24245,Großbarkau,Seeblick,11,,54.20697297,10.14452555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt6,24245,Großbarkau,Seeblick,12,,54.20720682,10.1436322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt7,24245,Großbarkau,Seeblick,13,,54.20675658,10.14478957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt8,24245,Großbarkau,Seeblick,14,,54.20695539,10.14374585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEt9,24245,Großbarkau,Seeblick,15,,54.2065363,10.14491306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtA,24245,Großbarkau,Seestraße,21,,54.2135864,10.13837791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtB,24245,Großbarkau,Seestraße,22,,54.21403488,10.13866437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtC,24245,Großbarkau,Seestraße,23,,54.21372483,10.13825051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtD,24245,Großbarkau,Seestraße,24,,54.21420081,10.13882402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtE,24245,Großbarkau,Seestraße,26,,54.21431175,10.13886865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtF,24245,Großbarkau,Seestraße,28,,54.21443119,10.13891946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtG,24245,Großbarkau,Seestraße,3,,54.21242137,10.14037911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtH,24245,Großbarkau,Seestraße,3,a,54.21243674,10.13987566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtI,24245,Großbarkau,Seestraße,30,,54.2145987,10.13889671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtJ,24245,Großbarkau,Seestraße,32,,54.21469496,10.13897754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtK,24245,Großbarkau,Seestraße,34,,54.21488675,10.13912346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtL,24245,Großbarkau,Seestraße,36,,54.2149558,10.13922828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtM,24245,Großbarkau,Seestraße,38,,54.21512504,10.13943555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtN,24245,Großbarkau,Seestraße,4,,54.21262233,10.14098186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtO,24245,Großbarkau,Seestraße,40,,54.21520813,10.13953685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtP,24245,Großbarkau,Seestraße,42,,54.21537738,10.13979516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtQ,24245,Großbarkau,Seestraße,5,,54.21261687,10.13987263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtR,24245,Großbarkau,Seestraße,6,,54.21262396,10.14052392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtS,24245,Großbarkau,Seestraße,7,,54.21252759,10.13946891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtT,24245,Großbarkau,Seestraße,8,,54.21268096,10.1402187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtU,24245,Großbarkau,Seestraße,9,,54.21256736,10.13917081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtV,24245,Großbarkau,Heinz-Storm-Straße,1,,54.21253959,10.14145105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtW,24245,Großbarkau,Heinz-Storm-Straße,2,,54.21243183,10.1418874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtX,24245,Großbarkau,Heinz-Storm-Straße,3,,54.21302209,10.14174615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtY,24245,Großbarkau,Heinz-Storm-Straße,5,,54.2126744,10.14187085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtZ,24245,Großbarkau,Stüppelsweg,11,,54.21413375,10.14172329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEta,24245,Großbarkau,Seeblick,16,,54.20673417,10.14399415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtb,24245,Großbarkau,Seeblick,17,,54.2063333,10.1449963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtc,24245,Großbarkau,Seeblick,18,,54.20647467,10.14413481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtd,24245,Großbarkau,Seeblick,2,,54.20869336,10.14339028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEte,24245,Großbarkau,Seeblick,20,,54.20625648,10.1443756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtf,24245,Großbarkau,Seeblick,22,,54.20595786,10.14480022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtg,24245,Großbarkau,Seeblick,24,,54.20606984,10.14517878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEth,24245,Großbarkau,Seeblick,3,,54.20789729,10.14379283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEti,24245,Großbarkau,Seeblick,4,,54.20846212,10.14340583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtj,24245,Großbarkau,Seeblick,5,,54.20760143,10.14387422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtk,24245,Großbarkau,Seeblick,6,,54.20811659,10.1433364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtl,24245,Großbarkau,Seeblick,7,,54.20735494,10.14416964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtm,24245,Großbarkau,Seeblick,8,,54.2078707,10.14336714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtn,24245,Großbarkau,Seeblick,9,,54.20714859,10.14442412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEto,24245,Großbarkau,Seestraße,1,,54.21218978,10.1402436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtp,24245,Großbarkau,Seestraße,10,,54.21279619,10.13999804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtq,24245,Großbarkau,Seestraße,11,,54.21275566,10.13949377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtr,24245,Großbarkau,Seestraße,12,,54.21291264,10.13971561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEts,24245,Großbarkau,Seestraße,13,,54.21285717,10.13924083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtt,24245,Großbarkau,Seestraße,14,,54.21300896,10.13930493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtu,24245,Großbarkau,Seestraße,15,,54.21304433,10.13896832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtv,24245,Großbarkau,Seestraße,16,,54.21354926,10.13876467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtw,24245,Großbarkau,Seestraße,17,,54.21317779,10.13881234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtx,24245,Großbarkau,Seestraße,18,,54.2136391,10.13869263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEty,24245,Großbarkau,Seestraße,19,,54.21335377,10.13862553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEtz,24245,Großbarkau,Seestraße,20,,54.21386448,10.13867132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu0,24245,Großbarkau,Stüppelsweg,2,,54.214681,10.14052429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu1,24245,Großbarkau,Stüppelsweg,2,a,54.2144605,10.14083066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu2,24245,Großbarkau,Stüppelsweg,3,,54.2148161,10.14063502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu3,24245,Großbarkau,Stüppelsweg,4,,54.21426449,10.14114106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu4,24245,Großbarkau,Stüppelsweg,5,,54.214648,10.14088418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu5,24245,Großbarkau,Stüppelsweg,7,,54.21446222,10.14127663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu6,24245,Großbarkau,Stüppelsweg,9,,54.21432591,10.14145542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu7,24245,Großbarkau,Warnauer Weg,2,,54.20330036,10.1509411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu8,24245,Großbarkau,Warnauer Weg,4,,54.20324721,10.15102254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEu9,24245,Großbarkau,Bargkoppel,1,,54.21375836,10.14739374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuA,24245,Großbarkau,Schwienhof,12,,54.20843202,10.14540748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuB,24245,Großbarkau,Schwienhof,13,,54.20834968,10.14515587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuC,24245,Großbarkau,Schwienhof,14,,54.20814516,10.144905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuD,24245,Großbarkau,Schwienhof,15,,54.20787705,10.14517877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuE,24245,Großbarkau,Schwienhof,16,,54.20794376,10.14544707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuF,24245,Großbarkau,Schwienhof,17,,54.20809161,10.14571229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuG,24245,Großbarkau,Schwienhof,18,,54.20818893,10.14601573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuH,24245,Großbarkau,Schwienhof,19,,54.20829878,10.14632949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuI,24245,Großbarkau,Schwienhof,2,,54.20891255,10.14654972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuJ,24245,Großbarkau,Schwienhof,20,,54.20839101,10.14663408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuK,24245,Großbarkau,Schwienhof,21,,54.20848038,10.14690455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuL,24245,Großbarkau,Schwienhof,3,,54.20906535,10.1463558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuM,24245,Großbarkau,Schwienhof,4,,54.20924306,10.14619393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuN,24245,Großbarkau,Schwienhof,5,,54.20942269,10.14597559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuO,24245,Großbarkau,Schwienhof,6,,54.20941313,10.14559163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuP,24245,Großbarkau,Schwienhof,6,a,54.2092332,10.14548683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuQ,24245,Großbarkau,Schwienhof,7,,54.20907418,10.14563389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuR,24245,Großbarkau,Schwienhof,8,,54.20897292,10.14592697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuS,24245,Großbarkau,Schwienhof,9,,54.20881096,10.14608595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuT,24245,Großbarkau,Am alten Bahnhof,1,,54.21055047,10.1458983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuU,24245,Großbarkau,Am alten Bahnhof,10,,54.21032836,10.14572784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuV,24245,Großbarkau,Am alten Bahnhof,12,,54.21015512,10.14583967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuW,24245,Großbarkau,Am alten Bahnhof,14,,54.21009388,10.14588019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuX,24245,Großbarkau,Am alten Bahnhof,2,,54.21059039,10.14552265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuY,24245,Großbarkau,Am alten Bahnhof,3,,54.21004984,10.14627678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuZ,24245,Großbarkau,Am alten Bahnhof,4,,54.21023208,10.14528593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEua,24245,Großbarkau,Bargkoppel,10,,54.21285846,10.14677694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEub,24245,Großbarkau,Bargkoppel,11,,54.21277581,10.14768873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuc,24245,Großbarkau,Bargkoppel,12,,54.21270907,10.14651909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEud,24245,Großbarkau,Bargkoppel,13,,54.21252776,10.14795937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEue,24245,Großbarkau,Bargkoppel,14,,54.21260722,10.14621382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuf,24245,Großbarkau,Bargkoppel,15,,54.2123049,10.14791702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEug,24245,Großbarkau,Bargkoppel,15,a,54.21209031,10.14805415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuh,24245,Großbarkau,Bargkoppel,16,,54.21248176,10.14590475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEui,24245,Großbarkau,Bargkoppel,17,,54.21265498,10.14730229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuj,24245,Großbarkau,Bargkoppel,17,a,54.21263955,10.14713854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuk,24245,Großbarkau,Bargkoppel,2,,54.21352393,10.14710153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEul,24245,Großbarkau,Bargkoppel,21,,54.21244779,10.14656459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEum,24245,Großbarkau,Bargkoppel,23,,54.21232789,10.14630155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEun,24245,Großbarkau,Bargkoppel,25,,54.21216153,10.1457568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuo,24245,Großbarkau,Bargkoppel,27,,54.21213756,10.14564122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEup,24245,Großbarkau,Bargkoppel,29,,54.2121107,10.14553634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuq,24245,Großbarkau,Bargkoppel,3,,54.21353986,10.14745088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEur,24245,Großbarkau,Bargkoppel,4,,54.21337447,10.14714457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEus,24245,Großbarkau,Bargkoppel,5,,54.21337608,10.14756293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEut,24245,Großbarkau,Bargkoppel,6,,54.21314505,10.14709975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuu,24245,Großbarkau,Bargkoppel,7,,54.21311335,10.1476251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuv,24245,Großbarkau,Bargkoppel,8,,54.2129369,10.14708075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuw,24245,Großbarkau,Bargkoppel,9,,54.21298133,10.14770955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEux,24245,Großbarkau,Schwienhof,1,,54.20875532,10.14666265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuy,24245,Großbarkau,Schwienhof,10,,54.20856519,10.14624716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEuz,24245,Großbarkau,Schwienhof,11,,54.20852249,10.14572409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv0,24245,Großbarkau,Am alten Bahnhof,6,,54.21021665,10.14542076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv1,24245,Großbarkau,Am alten Bahnhof,8,,54.21032231,10.14560903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv2,24245,Großbarkau,Im Apfelgarten,1,,54.20895547,10.14499809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv3,24245,Großbarkau,Im Apfelgarten,10,,54.20859048,10.14478783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv4,24245,Großbarkau,Im Apfelgarten,11,,54.2085627,10.14470411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv5,24245,Großbarkau,Im Apfelgarten,12,,54.20853444,10.14461936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv6,24245,Großbarkau,Im Apfelgarten,2,,54.20889518,10.14501873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv7,24245,Großbarkau,Im Apfelgarten,3,,54.20884369,10.14503633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv8,24245,Großbarkau,Im Apfelgarten,4,,54.20878514,10.1450565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEv9,24245,Großbarkau,Im Apfelgarten,5,,54.20873985,10.14531325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvA,24245,Großbarkau,Bauerland,7,,54.20957915,10.14753464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvB,24245,Großbarkau,Bauerland,8,,54.20965045,10.1486262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvC,24245,Großbarkau,Bauerland,9,,54.20975133,10.14748427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEva,24245,Großbarkau,Im Apfelgarten,6,,54.20871281,10.14523123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvb,24245,Großbarkau,Im Apfelgarten,7,,54.20868469,10.14514632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvc,24245,Großbarkau,Im Apfelgarten,8,,54.20865695,10.14506257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvd,24245,Großbarkau,Im Apfelgarten,9,,54.20862044,10.14487728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEve,24245,Großbarkau,Am See,3,,54.21370625,10.13748384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvf,24245,Großbarkau,Bauerland,1,,54.20901429,10.14762746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvg,24245,Großbarkau,Bauerland,10,,54.20962034,10.14830303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvh,24245,Großbarkau,Bauerland,11,,54.20991908,10.14738819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvi,24245,Großbarkau,Bauerland,12,,54.20973747,10.14792844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvj,24245,Großbarkau,Bauerland,13,,54.2101009,10.14723067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvk,24245,Großbarkau,Bauerland,14,,54.20996002,10.14794607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvl,24245,Großbarkau,Bauerland,15,,54.21022365,10.14748698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvm,24245,Großbarkau,Bauerland,16,,54.21011026,10.14798035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvn,24245,Großbarkau,Bauerland,17,,54.21033008,10.14771657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvo,24245,Großbarkau,Bauerland,19,,54.21044261,10.14794824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvp,24245,Großbarkau,Bauerland,2,,54.20911686,10.14813427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvq,24245,Großbarkau,Bauerland,21,,54.21058611,10.14821684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvr,24245,Großbarkau,Bauerland,23,,54.21048025,10.14837876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvs,24245,Großbarkau,Bauerland,25,,54.21034161,10.14846955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvt,24245,Großbarkau,Bauerland,27,,54.21019141,10.14848048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvu,24245,Großbarkau,Bauerland,29,,54.21001681,10.14840047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvv,24245,Großbarkau,Bauerland,3,,54.20926291,10.14773341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvw,24245,Großbarkau,Bauerland,31,,54.2098479,10.14851902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvx,24245,Großbarkau,Bauerland,4,,54.2094342,10.1480548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvy,24245,Großbarkau,Bauerland,5,,54.20938298,10.14766452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bEvz,24245,Großbarkau,Bauerland,6,,54.20941668,10.14850966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IAZw,24245,Großbarkau,Dorfstraße,14,a,54.20980742,10.14310408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ICmS,24245,Großbarkau,Katenhof,14,d,54.22567984,10.17236991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XPif,24245,Großbarkau,Katenhof,2,b,54.22521262,10.17025374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AISA,24245,Großbarkau,Am Bahndamm,1,,54.22325033,10.16922293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AISt,24245,Großbarkau,Am Bahndamm,2,,54.2233867,10.16944265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JnXL,24245,Großbarkau,Alte Dorfstraße,23,,54.22711429,10.17233737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ny6H,24245,Großbarkau,Seeblick,15,a,54.20645576,10.14456919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UYtV,24245,Großbarkau,Havighorster Weg,3,,54.22510091,10.16502114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jFhv,24245,Großbarkau,Bauerland,27,a,54.21014237,10.14848378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jFr3,24245,Großbarkau,Zum Grünhof,1,,54.22489275,10.17868734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jFr5,24245,Großbarkau,Zum Grünhof,2,,54.22501776,10.1784427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jFr7,24245,Großbarkau,Zum Grünhof,3,,54.22522012,10.17827467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oEnT,24245,Großbarkau,Bauerland,5,a,54.20943749,10.14763357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wEwk,24245,Großbarkau,Am Dorfteich,2,,54.22433521,10.16828188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069jwn,24245,Großbarkau,Seestraße,35,,54.21493158,10.138919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069jwo,24245,Großbarkau,Seestraße,33,,54.21478228,10.13876803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006AIfr,24245,Großbarkau,Havighorster Weg,5,,54.22542346,10.16518736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BkHt,24245,Großbarkau,Heinz-Storm-Straße,3,a,54.21273409,10.14140279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FRZ5,24245,Großbarkau,Am Bahndamm,3,,54.22358911,10.1694886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MLk7,24245,Großbarkau,Dorfstraße,15,a,54.20462813,10.17451563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MLk8,24245,Großbarkau,Dorfstraße,15,b,54.20461163,10.17442392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Ocwr,24245,Großbarkau,Seestraße,40,a,54.21509772,10.13976608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OcxE,24245,Großbarkau,Seeblick,17,a,54.20623626,10.14491227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VcGZ,24245,Großbarkau,Bargkoppelweg,1,,54.21232286,10.14511181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Vcy2,24245,Großbarkau,Bargkoppelweg,1,a,54.21252004,10.14515624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006eUCF,24245,Großbarkau,Havighorster Weg,2,a,54.22527218,10.16594595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xjW7,24245,Großbarkau,Seestraße,58,,54.21888036,10.13878965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xjWY,24245,Großbarkau,Seestraße,68,,54.22031083,10.13857843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yc0H,24245,Großbarkau,Seestraße,62,,54.21922915,10.13845864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yc0N,24245,Großbarkau,Seestraße,66,,54.2202342,10.13829707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075icJ,24245,Großbarkau,Raden,3,a,54.21054222,10.14651878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007N8KK,24245,Großbarkau,Seestraße,64,,54.21945573,10.13841117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007XdB8,24245,Großbarkau,Bargkoppel,6,a,54.21304523,10.14725969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007agrm,24245,Großbarkau,Dorfstraße,24,a,54.22260209,10.13151731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ardi,24245,Großbarkau,Am alten Bahnhof,2,a,54.21047196,10.14572692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pGPk,24245,Großbarkau,Bauerland,25,a,54.21029664,10.14847286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ikpE,24245,Großbarkau,Seeblick,14,a,54.20689902,10.14391142

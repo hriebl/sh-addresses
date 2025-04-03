@@ -1,0 +1,804 @@
+# Amtliche Adressen für die Postleitzahl 24791
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaF,24791,Alt Duvenstedt,Ahornweg,1,,54.36018367,9.63768187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaG,24791,Alt Duvenstedt,Ahornweg,10,,54.35996701,9.63805442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaH,24791,Alt Duvenstedt,Ahornweg,2,,54.3598762,9.63725824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaI,24791,Alt Duvenstedt,Ahornweg,3,,54.36038847,9.63765871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaJ,24791,Alt Duvenstedt,Ahornweg,4,,54.35989425,9.63765732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaK,24791,Alt Duvenstedt,Ahornweg,4,a,54.35980341,9.63767244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaL,24791,Alt Duvenstedt,Ahornweg,5,,54.36023673,9.63794791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaM,24791,Alt Duvenstedt,Ahornweg,6,,54.3595679,9.63776784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaN,24791,Alt Duvenstedt,Ahornweg,8,,54.35972383,9.6378502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaO,24791,Alt Duvenstedt,Am Markt,1,,54.35864161,9.64474234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaP,24791,Alt Duvenstedt,Am Markt,2,,54.35835918,9.64395259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaQ,24791,Alt Duvenstedt,Am Markt,4,,54.35841794,9.64422219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaR,24791,Alt Duvenstedt,Am Mühlenbach,10,,54.35768198,9.64999194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaS,24791,Alt Duvenstedt,Am Mühlenbach,2,,54.35850136,9.64919597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaT,24791,Alt Duvenstedt,Am Mühlenbach,2,a,54.35865074,9.64917152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaU,24791,Alt Duvenstedt,Am Mühlenbach,4,,54.35828266,9.64941667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaV,24791,Alt Duvenstedt,Am Mühlenbach,4,a,54.35832546,9.64906958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaW,24791,Alt Duvenstedt,Am Mühlenbach,6,,54.35813814,9.64955718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaX,24791,Alt Duvenstedt,Am Mühlenbach,8,,54.35784383,9.64986776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaY,24791,Alt Duvenstedt,Am Mühlenbach,9,,54.35780798,9.65033927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNaZ,24791,Alt Duvenstedt,Am Sportplatz,1,,54.354167,9.63846384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb0,24791,Alt Duvenstedt,Am Sportplatz,2,,54.35450004,9.63854567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb1,24791,Alt Duvenstedt,Am Sportplatz,3,,54.35402064,9.63796026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb2,24791,Alt Duvenstedt,Am Sportplatz,4,,54.35438496,9.63812466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb3,24791,Alt Duvenstedt,Am Sportplatz,4,a,54.35460743,9.63816924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb4,24791,Alt Duvenstedt,Am Sportplatz,6,,54.35447144,9.63755641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb5,24791,Alt Duvenstedt,Am Sportplatz,8,,54.35423921,9.63638344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb6,24791,Alt Duvenstedt,Auknüll,1,,54.36125873,9.64717128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb7,24791,Alt Duvenstedt,Auknüll,10,,54.36153268,9.64798282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb8,24791,Alt Duvenstedt,Auknüll,10,a,54.36169795,9.64798006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNb9,24791,Alt Duvenstedt,Auknüll,12,,54.36189423,9.64815038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbA,24791,Alt Duvenstedt,Bahnhofstraße,13,,54.3588291,9.6390816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbB,24791,Alt Duvenstedt,Bahnhofstraße,14,,54.35903084,9.63941511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbC,24791,Alt Duvenstedt,Bahnhofstraße,15,,54.35887664,9.63867232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbD,24791,Alt Duvenstedt,Bahnhofstraße,17,,54.35884408,9.63835341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbE,24791,Alt Duvenstedt,Bahnhofstraße,18,,54.35917485,9.6384785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbF,24791,Alt Duvenstedt,Bahnhofstraße,18,a,54.35924498,9.63846887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbG,24791,Alt Duvenstedt,Bahnhofstraße,19,,54.35881204,9.63804377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbH,24791,Alt Duvenstedt,Bahnhofstraße,2,,54.35812355,9.6419575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbI,24791,Alt Duvenstedt,Bahnhofstraße,20,,54.35907064,9.63807059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbJ,24791,Alt Duvenstedt,Bahnhofstraße,21,,54.35878581,9.63777713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbK,24791,Alt Duvenstedt,Bahnhofstraße,22,,54.35905312,9.637753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbL,24791,Alt Duvenstedt,Bahnhofstraße,22,a,54.35915637,9.63782993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbM,24791,Alt Duvenstedt,Bahnhofstraße,22,b,54.35923191,9.6378094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbN,24791,Alt Duvenstedt,Bahnhofstraße,22,c,54.35929751,9.63779152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbO,24791,Alt Duvenstedt,Bahnhofstraße,23,,54.35871324,9.63739454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbP,24791,Alt Duvenstedt,Bahnhofstraße,24,,54.35902229,9.63744035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbQ,24791,Alt Duvenstedt,Bahnhofstraße,25,,54.35869953,9.637013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbR,24791,Alt Duvenstedt,Bahnhofstraße,26,,54.35895831,9.63686295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbS,24791,Alt Duvenstedt,Bahnhofstraße,27,,54.3586616,9.63667023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbT,24791,Alt Duvenstedt,Bahnhofstraße,28,,54.35903837,9.6365668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbU,24791,Alt Duvenstedt,Bahnhofstraße,29,,54.35846546,9.63639566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbV,24791,Alt Duvenstedt,Bahnhofstraße,3,,54.35818052,9.64083082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbW,24791,Alt Duvenstedt,Bahnhofstraße,31,,54.35859393,9.63605665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbX,24791,Alt Duvenstedt,Bahnhofstraße,32,,54.35887855,9.63589396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbY,24791,Alt Duvenstedt,Bahnhofstraße,33,,54.35861192,9.63575216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbZ,24791,Alt Duvenstedt,Bahnhofstraße,34,,54.35882629,9.63544988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNba,24791,Alt Duvenstedt,Auknüll,12,a,54.36211955,9.64800029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbb,24791,Alt Duvenstedt,Auknüll,14,,54.36235253,9.64791474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbc,24791,Alt Duvenstedt,Auknüll,14,a,54.36258564,9.64784474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbd,24791,Alt Duvenstedt,Auknüll,2,,54.36061698,9.64832696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbf,24791,Alt Duvenstedt,Auknüll,3,,54.36151017,9.64752082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbg,24791,Alt Duvenstedt,Auknüll,4,,54.36094409,9.64849558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbh,24791,Alt Duvenstedt,Auknüll,4,a,54.36084864,9.64883286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbi,24791,Alt Duvenstedt,Auknüll,5,,54.361791,9.64762169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbj,24791,Alt Duvenstedt,Auknüll,5,a,54.36194196,9.64730063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbk,24791,Alt Duvenstedt,Auknüll,5,b,54.36199856,9.64730304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbl,24791,Alt Duvenstedt,Auknüll,5,c,54.3621135,9.64768372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbm,24791,Alt Duvenstedt,Auknüll,6,,54.36105315,9.64781864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbn,24791,Alt Duvenstedt,Auknüll,7,,54.36278489,9.64741217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbo,24791,Alt Duvenstedt,Auknüll,8,,54.36120675,9.64823834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbp,24791,Alt Duvenstedt,Auknüll,8,a,54.36139127,9.64806779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbq,24791,Alt Duvenstedt,Bachweg,1,,54.36020457,9.64779421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbr,24791,Alt Duvenstedt,Bachweg,2,,54.36007193,9.6479989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbs,24791,Alt Duvenstedt,Bachweg,3,,54.3599332,9.64828311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbt,24791,Alt Duvenstedt,Bachweg,3,a,54.35998083,9.64833837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbu,24791,Alt Duvenstedt,Bachweg,4,,54.35982785,9.64809684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbv,24791,Alt Duvenstedt,Bachweg,5,,54.35994625,9.64788465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbw,24791,Alt Duvenstedt,Bahnhofstraße,1,,54.35801218,9.64126535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbx,24791,Alt Duvenstedt,Bahnhofstraße,10,,54.35872952,9.6400983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNby,24791,Alt Duvenstedt,Bahnhofstraße,11,,54.35867882,9.6395139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNbz,24791,Alt Duvenstedt,Bahnhofstraße,12,,54.35883047,9.63988458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc0,24791,Alt Duvenstedt,Bahnhofstraße,35,,54.3584951,9.63515374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc1,24791,Alt Duvenstedt,Bahnhofstraße,35,a,54.35847424,9.63482577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc2,24791,Alt Duvenstedt,Bahnhofstraße,36,,54.35879362,9.63517367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc3,24791,Alt Duvenstedt,Bahnhofstraße,37,,54.35837552,9.63454752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc4,24791,Alt Duvenstedt,Bahnhofstraße,38,,54.35870537,9.63492553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc5,24791,Alt Duvenstedt,Bahnhofstraße,39,,54.35814112,9.63441937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc6,24791,Alt Duvenstedt,Bahnhofstraße,4,,54.35826551,9.64167579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc7,24791,Alt Duvenstedt,Bahnhofstraße,40,,54.35873731,9.63456901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc8,24791,Alt Duvenstedt,Bahnhofstraße,42,,54.35870647,9.63428213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNc9,24791,Alt Duvenstedt,Bahnhofstraße,5,,54.35832188,9.64055798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcA,24791,Alt Duvenstedt,Birkenweg,7,,54.35549514,9.63866005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcB,24791,Alt Duvenstedt,Birkenweg,8,,54.3553132,9.63702975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcC,24791,Alt Duvenstedt,Birkenweg,9,,54.35544009,9.63846963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcD,24791,Alt Duvenstedt,Brengsal,1,,54.35646449,9.63970246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcE,24791,Alt Duvenstedt,Brengsal,1,a,54.35640995,9.63948171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcF,24791,Alt Duvenstedt,Brengsal,10,,54.35738611,9.64056591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcG,24791,Alt Duvenstedt,Brengsal,10,a,54.3573532,9.64066999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcH,24791,Alt Duvenstedt,Brengsal,11,,54.35720323,9.63938901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcI,24791,Alt Duvenstedt,Brengsal,12,,54.35737435,9.64010324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcJ,24791,Alt Duvenstedt,Brengsal,14,,54.35749218,9.63975454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcK,24791,Alt Duvenstedt,Brengsal,16,,54.35746042,9.63944912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcL,24791,Alt Duvenstedt,Brengsal,2,,54.35666996,9.64002829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcM,24791,Alt Duvenstedt,Brengsal,3,,54.35662214,9.63970794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcN,24791,Alt Duvenstedt,Brengsal,4,,54.35682787,9.64007832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcO,24791,Alt Duvenstedt,Brengsal,5,,54.35675051,9.63973356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcP,24791,Alt Duvenstedt,Brengsal,6,,54.35699294,9.64011408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcQ,24791,Alt Duvenstedt,Brengsal,7,,54.35690218,9.63974959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcR,24791,Alt Duvenstedt,Brengsal,8,,54.35712174,9.6403945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcS,24791,Alt Duvenstedt,Brengsal,9,,54.35711781,9.63976949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcT,24791,Alt Duvenstedt,Broholm,1,a,54.35590785,9.61766968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcU,24791,Alt Duvenstedt,Broholm,2,a,54.35639274,9.61448111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcV,24791,Alt Duvenstedt,Broholm,3,,54.35680595,9.6033074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcW,24791,Alt Duvenstedt,Broholm,4,,54.36010108,9.60583801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcX,24791,Alt Duvenstedt,Broholm,5,,54.3550819,9.60106949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcY,24791,Alt Duvenstedt,Broholm,6,,54.35830386,9.60574886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcZ,24791,Alt Duvenstedt,Broholm,8,,54.35739289,9.60313276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNca,24791,Alt Duvenstedt,Bahnhofstraße,6,,54.35835328,9.64135538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcb,24791,Alt Duvenstedt,Bahnhofstraße,7,,54.35845542,9.64019831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcc,24791,Alt Duvenstedt,Bahnhofstraße,8,,54.35887551,9.64051412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcd,24791,Alt Duvenstedt,Bahnhofstraße,9,,54.35858027,9.63985116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNce,24791,Alt Duvenstedt,Birkenweg,1,,54.3557446,9.63922167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcf,24791,Alt Duvenstedt,Birkenweg,1,a,54.35566464,9.63931229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcg,24791,Alt Duvenstedt,Birkenweg,10,,54.35515966,9.63683631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNch,24791,Alt Duvenstedt,Birkenweg,11,,54.35538038,9.63829429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNci,24791,Alt Duvenstedt,Birkenweg,12,,54.35507232,9.63645981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcj,24791,Alt Duvenstedt,Birkenweg,13,,54.3552917,9.63813385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNck,24791,Alt Duvenstedt,Birkenweg,15,,54.35523685,9.63791335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcl,24791,Alt Duvenstedt,Birkenweg,17,,54.35515839,9.63765745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcm,24791,Alt Duvenstedt,Birkenweg,19,,54.35508462,9.63746613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcn,24791,Alt Duvenstedt,Birkenweg,2,,54.35588785,9.63889551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNco,24791,Alt Duvenstedt,Birkenweg,2,a,54.35603065,9.63850186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcp,24791,Alt Duvenstedt,Birkenweg,2,b,54.3559839,9.63872024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcq,24791,Alt Duvenstedt,Birkenweg,21,,54.35501058,9.63727137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcr,24791,Alt Duvenstedt,Birkenweg,23,,54.35493047,9.6370025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcs,24791,Alt Duvenstedt,Birkenweg,25,,54.35480196,9.63678974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNct,24791,Alt Duvenstedt,Birkenweg,27,,54.35475928,9.63652523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcu,24791,Alt Duvenstedt,Birkenweg,29,,54.35456225,9.63597526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcv,24791,Alt Duvenstedt,Birkenweg,3,,54.35565908,9.6390481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcw,24791,Alt Duvenstedt,Birkenweg,4,,54.35574622,9.63847305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcx,24791,Alt Duvenstedt,Birkenweg,4,a,54.35567675,9.63824907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcy,24791,Alt Duvenstedt,Birkenweg,5,,54.35557473,9.63879765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNcz,24791,Alt Duvenstedt,Birkenweg,6,,54.35540459,9.63762713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd0,24791,Alt Duvenstedt,Buchenweg,1,,54.35761179,9.64086946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd1,24791,Alt Duvenstedt,Buchenweg,2,,54.35781427,9.64101943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd2,24791,Alt Duvenstedt,Buchenweg,3,,54.35767856,9.64050069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd3,24791,Alt Duvenstedt,Buchenweg,3,a,54.35770115,9.64038123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd4,24791,Alt Duvenstedt,Buchenweg,4,,54.35785644,9.64056456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd5,24791,Alt Duvenstedt,Buchenweg,4,a,54.3579109,9.64060994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd6,24791,Alt Duvenstedt,Buchenweg,5,,54.3577591,9.64009494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd7,24791,Alt Duvenstedt,Buchenweg,6,,54.35796936,9.64021539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd8,24791,Alt Duvenstedt,Buchenweg,7,,54.35785638,9.6397741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNd9,24791,Alt Duvenstedt,Buchenweg,8,,54.35802479,9.63987337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdA,24791,Alt Duvenstedt,Dorfstraße,26,a,54.36177825,9.64690307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdB,24791,Alt Duvenstedt,Dorfstraße,27,,54.36210476,9.64595375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdC,24791,Alt Duvenstedt,Dorfstraße,27,a,54.36227672,9.64606816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdD,24791,Alt Duvenstedt,Dorfstraße,27,b,54.36239411,9.6453295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdE,24791,Alt Duvenstedt,Dorfstraße,28,,54.36232429,9.6463904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdF,24791,Alt Duvenstedt,Dorfstraße,28,a,54.36192716,9.64667479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdG,24791,Alt Duvenstedt,Dorfstraße,29,,54.36235265,9.64604796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdH,24791,Alt Duvenstedt,Dorfstraße,3,,54.35739939,9.64136559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdI,24791,Alt Duvenstedt,Dorfstraße,30,,54.36238599,9.6468724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdJ,24791,Alt Duvenstedt,Dorfstraße,30,a,54.36254208,9.64665956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdK,24791,Alt Duvenstedt,Dorfstraße,31,,54.36298457,9.64677611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdL,24791,Alt Duvenstedt,Dorfstraße,32,,54.36245011,9.64734034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdM,24791,Alt Duvenstedt,Dorfstraße,33,,54.36309022,9.64712014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdN,24791,Alt Duvenstedt,Dorfstraße,34,,54.36288916,9.64815984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdO,24791,Alt Duvenstedt,Dorfstraße,35,,54.36322452,9.64752392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdP,24791,Alt Duvenstedt,Dorfstraße,35,a,54.36351857,9.64818885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdQ,24791,Alt Duvenstedt,Dorfstraße,35,c,54.3639951,9.64799892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdR,24791,Alt Duvenstedt,Dorfstraße,36,,54.36368143,9.64924934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdS,24791,Alt Duvenstedt,Dorfstraße,36,a,54.36335585,9.64879179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdT,24791,Alt Duvenstedt,Dorfstraße,37,,54.36368865,9.64860057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdU,24791,Alt Duvenstedt,Dorfstraße,37,a,54.36379908,9.64878871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdV,24791,Alt Duvenstedt,Dorfstraße,37,b,54.36394141,9.64892773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdW,24791,Alt Duvenstedt,Dorfstraße,37,c,54.36377747,9.64822034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdX,24791,Alt Duvenstedt,Dorfstraße,38,,54.3637844,9.64953614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdY,24791,Alt Duvenstedt,Dorfstraße,39,,54.36411359,9.64916328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdZ,24791,Alt Duvenstedt,Dorfstraße,4,,54.3578492,9.64287685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNda,24791,Alt Duvenstedt,Dorfstraße,1,,54.35613549,9.63961478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdb,24791,Alt Duvenstedt,Dorfstraße,1,a,54.35725346,9.64111661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdc,24791,Alt Duvenstedt,Dorfstraße,10,,54.35892942,9.64451231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdd,24791,Alt Duvenstedt,Dorfstraße,11,,54.35859648,9.64328991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNde,24791,Alt Duvenstedt,Dorfstraße,12,,54.35921269,9.64530238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdf,24791,Alt Duvenstedt,Dorfstraße,13,,54.35916223,9.64351778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdg,24791,Alt Duvenstedt,Dorfstraße,14,,54.35946844,9.64516554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdh,24791,Alt Duvenstedt,Dorfstraße,14,a,54.35936188,9.64495295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdi,24791,Alt Duvenstedt,Dorfstraße,15,,54.3593583,9.64424272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdj,24791,Alt Duvenstedt,Dorfstraße,16,,54.36017697,9.64598951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdk,24791,Alt Duvenstedt,Dorfstraße,17,,54.35956889,9.64456465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdl,24791,Alt Duvenstedt,Dorfstraße,18,,54.3608076,9.64614349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdm,24791,Alt Duvenstedt,Dorfstraße,19,,54.36009115,9.64531083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdn,24791,Alt Duvenstedt,Dorfstraße,2,,54.35662577,9.64122917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdo,24791,Alt Duvenstedt,Dorfstraße,2,a,54.35591326,9.64051867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdp,24791,Alt Duvenstedt,Dorfstraße,2,b,54.35621161,9.64063609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdq,24791,Alt Duvenstedt,Dorfstraße,2,c,54.35626268,9.64144935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdr,24791,Alt Duvenstedt,Dorfstraße,2,d,54.35644057,9.64064733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdt,24791,Alt Duvenstedt,Dorfstraße,21,,54.36145668,9.64606662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdu,24791,Alt Duvenstedt,Dorfstraße,22,,54.36131002,9.6464411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdv,24791,Alt Duvenstedt,Dorfstraße,23,,54.36179209,9.64608901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdw,24791,Alt Duvenstedt,Dorfstraße,24,,54.36178721,9.64652965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdx,24791,Alt Duvenstedt,Dorfstraße,24,a,54.36167977,9.64678019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdy,24791,Alt Duvenstedt,Dorfstraße,24,b,54.36167906,9.64690545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNdz,24791,Alt Duvenstedt,Dorfstraße,25,,54.36193399,9.64607046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe0,24791,Alt Duvenstedt,Dorfstraße,4,a,54.35704054,9.64157703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe1,24791,Alt Duvenstedt,Dorfstraße,4,b,54.35688042,9.64130329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe2,24791,Alt Duvenstedt,Dorfstraße,4,c,54.35694922,9.64210461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe3,24791,Alt Duvenstedt,Dorfstraße,4,d,54.35707656,9.64196598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe4,24791,Alt Duvenstedt,Dorfstraße,4,e,54.35728198,9.64191403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe5,24791,Alt Duvenstedt,Dorfstraße,40,,54.36398942,9.6499876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe6,24791,Alt Duvenstedt,Dorfstraße,41,,54.36413969,9.64962726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe7,24791,Alt Duvenstedt,Dorfstraße,42,,54.36431239,9.6507193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe8,24791,Alt Duvenstedt,Dorfstraße,45,,54.3642861,9.64997251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNe9,24791,Alt Duvenstedt,Dorfstraße,47,,54.3656116,9.65089326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeA,24791,Alt Duvenstedt,Erlenweg,14,,54.36121157,9.64161255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeB,24791,Alt Duvenstedt,Erlenweg,15,,54.36116479,9.64107738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeC,24791,Alt Duvenstedt,Erlenweg,16,,54.36121464,9.64134496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeD,24791,Alt Duvenstedt,Erlenweg,2,,54.36015189,9.6415403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeE,24791,Alt Duvenstedt,Erlenweg,3,,54.36015087,9.64103572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeF,24791,Alt Duvenstedt,Erlenweg,4,,54.36033149,9.64171872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeG,24791,Alt Duvenstedt,Erlenweg,5,,54.36031224,9.6411393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeH,24791,Alt Duvenstedt,Erlenweg,6,,54.36051613,9.64170358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeI,24791,Alt Duvenstedt,Erlenweg,7,,54.36044881,9.64121783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeJ,24791,Alt Duvenstedt,Erlenweg,8,,54.3607853,9.64158066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeK,24791,Alt Duvenstedt,Erlenweg,9,,54.36060621,9.64117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeL,24791,Alt Duvenstedt,Friedhofsallee,1,,54.36409543,9.65065128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeM,24791,Alt Duvenstedt,Friedhofsallee,2,,54.36386157,9.65038324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeN,24791,Alt Duvenstedt,Friedhofsallee,3,,54.36399996,9.65112811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeO,24791,Alt Duvenstedt,Friedhofsallee,4,,54.36375931,9.65057091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeP,24791,Alt Duvenstedt,Friedhofsallee,6,,54.3635987,9.65086939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeQ,24791,Alt Duvenstedt,Friedhofsallee,8,,54.36342565,9.6512883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeS,24791,Alt Duvenstedt,Fuchsberg,2,,54.37007657,9.67207321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeT,24791,Alt Duvenstedt,Günnende,1,,54.35776689,9.64404993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeU,24791,Alt Duvenstedt,Günnende,10,,54.35731822,9.64494699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeV,24791,Alt Duvenstedt,Günnende,11,,54.35854001,9.64635749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeW,24791,Alt Duvenstedt,Günnende,12,,54.35747619,9.64548629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeX,24791,Alt Duvenstedt,Günnende,13,,54.3584671,9.6467029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeY,24791,Alt Duvenstedt,Günnende,14,,54.35778577,9.64600573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeZ,24791,Alt Duvenstedt,Günnende,15,,54.35887072,9.64652645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNea,24791,Alt Duvenstedt,Dorfstraße,47,a,54.36544905,9.65160795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeb,24791,Alt Duvenstedt,Dorfstraße,47,b,54.36529432,9.65113898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNec,24791,Alt Duvenstedt,Dorfstraße,5,,54.35775436,9.64225815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNed,24791,Alt Duvenstedt,Dorfstraße,5,a,54.35754447,9.64183746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNee,24791,Alt Duvenstedt,Dorfstraße,6,,54.35811829,9.64323698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNef,24791,Alt Duvenstedt,Dorfstraße,7,,54.35802414,9.64263574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeg,24791,Alt Duvenstedt,Dorfstraße,7,a,54.35835627,9.64261535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeh,24791,Alt Duvenstedt,Dorfstraße,8,,54.3587783,9.64410172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNei,24791,Alt Duvenstedt,Dorfstraße,9,,54.35838408,9.64309761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNel,24791,Alt Duvenstedt,Eichenweg,1,,54.36437432,9.64921301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNem,24791,Alt Duvenstedt,Eichenweg,3,,54.36441269,9.64863364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNen,24791,Alt Duvenstedt,Eichenweg,5,,54.36443342,9.64854068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeo,24791,Alt Duvenstedt,Eichenweg,7,,54.36445297,9.64844798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNep,24791,Alt Duvenstedt,Ellekampsredder,2,,54.35782913,9.65177131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeq,24791,Alt Duvenstedt,Ellekampsredder,3,,54.35809033,9.6521666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNer,24791,Alt Duvenstedt,Ellekampsredder,4,,54.35782533,9.65224052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNes,24791,Alt Duvenstedt,Ellekampsredder,5,,54.35813412,9.65253188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNet,24791,Alt Duvenstedt,Ellekampsredder,7,,54.35819267,9.65293233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNeu,24791,Alt Duvenstedt,Erlenweg,1,,54.35990198,9.64125613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNev,24791,Alt Duvenstedt,Erlenweg,1,a,54.3599917,9.6408234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNew,24791,Alt Duvenstedt,Erlenweg,10,,54.36094047,9.64186912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNex,24791,Alt Duvenstedt,Erlenweg,11,,54.36088198,9.64125389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNey,24791,Alt Duvenstedt,Erlenweg,12,,54.3611769,9.64202197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNez,24791,Alt Duvenstedt,Erlenweg,13,,54.36094117,9.64100466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf0,24791,Alt Duvenstedt,Günnende,16,,54.35793075,9.64637704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf1,24791,Alt Duvenstedt,Günnende,17,,54.35899834,9.64643194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf2,24791,Alt Duvenstedt,Günnende,18,,54.35810352,9.64682739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf3,24791,Alt Duvenstedt,Günnende,19,,54.35909268,9.64669444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf4,24791,Alt Duvenstedt,Günnende,19,a,54.35904215,9.64709403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf5,24791,Alt Duvenstedt,Günnende,2,,54.35730512,9.64245822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf6,24791,Alt Duvenstedt,Günnende,20,,54.35835338,9.64702713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf7,24791,Alt Duvenstedt,Günnende,21,,54.35927883,9.64707257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf8,24791,Alt Duvenstedt,Günnende,22,,54.35850509,9.64748644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNf9,24791,Alt Duvenstedt,Günnende,23,,54.3594891,9.64672112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfA,24791,Alt Duvenstedt,Hasenknüll,1,,54.35269467,9.56913978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfB,24791,Alt Duvenstedt,Hasenknüll,1,a,54.35241301,9.56889433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfC,24791,Alt Duvenstedt,Hasenknüll,2,,54.35242995,9.56707377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfD,24791,Alt Duvenstedt,Hasenknüll,3,,54.35292635,9.56610452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfE,24791,Alt Duvenstedt,Heideweg,1,,54.3583802,9.63963058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfF,24791,Alt Duvenstedt,Heideweg,1,a,54.35814342,9.63940077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfG,24791,Alt Duvenstedt,Heideweg,10,,54.35665132,9.63820527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfH,24791,Alt Duvenstedt,Heideweg,11,,54.35690907,9.63863446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfI,24791,Alt Duvenstedt,Heideweg,12,,54.35656222,9.63814393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfJ,24791,Alt Duvenstedt,Heideweg,13,,54.35670133,9.63853122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfK,24791,Alt Duvenstedt,Heideweg,14,,54.35645544,9.63807287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfL,24791,Alt Duvenstedt,Heideweg,15,,54.35659362,9.63844764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfM,24791,Alt Duvenstedt,Heideweg,16,,54.35636085,9.6380099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfN,24791,Alt Duvenstedt,Heideweg,17,,54.35650974,9.63840281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfO,24791,Alt Duvenstedt,Heideweg,18,,54.35638375,9.63775241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfP,24791,Alt Duvenstedt,Heideweg,18,a,54.35618324,9.63748085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfQ,24791,Alt Duvenstedt,Heideweg,19,,54.35640486,9.63833336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfR,24791,Alt Duvenstedt,Heideweg,2,a,54.35822154,9.63909674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfS,24791,Alt Duvenstedt,Heideweg,2,b,54.35841164,9.63932518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfT,24791,Alt Duvenstedt,Heideweg,20,,54.35583666,9.63740512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfU,24791,Alt Duvenstedt,Heideweg,20,a,54.35598189,9.6375076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfV,24791,Alt Duvenstedt,Heideweg,21,,54.35628654,9.6382406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfW,24791,Alt Duvenstedt,Heideweg,22,,54.35556093,9.63717775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfX,24791,Alt Duvenstedt,Heideweg,23,,54.35602524,9.63809475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfY,24791,Alt Duvenstedt,Heideweg,25,,54.35574775,9.63789997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfZ,24791,Alt Duvenstedt,Heideweg,3,,54.35794868,9.63934691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfa,24791,Alt Duvenstedt,Günnende,23,a,54.35946162,9.646235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfb,24791,Alt Duvenstedt,Günnende,24,,54.35893829,9.64787902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfc,24791,Alt Duvenstedt,Günnende,24,a,54.35893655,9.64744375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfd,24791,Alt Duvenstedt,Günnende,24,b,54.3589698,9.64744098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfe,24791,Alt Duvenstedt,Günnende,25,,54.35974783,9.6467569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNff,24791,Alt Duvenstedt,Günnende,26,,54.3591193,9.6474141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfg,24791,Alt Duvenstedt,Günnende,27,,54.35965878,9.6459853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfh,24791,Alt Duvenstedt,Günnende,27,a,54.35973715,9.6459678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfi,24791,Alt Duvenstedt,Günnende,28,,54.35945991,9.64768748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfj,24791,Alt Duvenstedt,Günnende,29,,54.35952314,9.64574656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfk,24791,Alt Duvenstedt,Günnende,29,a,54.35951622,9.64559859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfl,24791,Alt Duvenstedt,Günnende,3,,54.35800877,9.64429094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfm,24791,Alt Duvenstedt,Günnende,30,,54.35967179,9.64752741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfn,24791,Alt Duvenstedt,Günnende,30,a,54.35978701,9.64739273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfo,24791,Alt Duvenstedt,Günnende,32,,54.36010666,9.64696396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfp,24791,Alt Duvenstedt,Günnende,32,a,54.36028157,9.64707062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfq,24791,Alt Duvenstedt,Günnende,4,,54.35741462,9.64338177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfr,24791,Alt Duvenstedt,Günnende,5,,54.35787059,9.64466674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfs,24791,Alt Duvenstedt,Günnende,6,,54.35744834,9.64373156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNft,24791,Alt Duvenstedt,Günnende,7,,54.35790836,9.64496293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfu,24791,Alt Duvenstedt,Günnende,8,,54.35751626,9.64430025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfv,24791,Alt Duvenstedt,Günnende,9,a,54.35803006,9.64555742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfw,24791,Alt Duvenstedt,Günnende,9,b,54.35818266,9.64554555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfx,24791,Alt Duvenstedt,Günnende,9,c,54.35822388,9.64579084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfy,24791,Alt Duvenstedt,Günnende,9,d,54.35799868,9.64595149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNfz,24791,Alt Duvenstedt,Günnende,9,e,54.35811518,9.6461433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg0,24791,Alt Duvenstedt,Heideweg,4,,54.35784146,9.63891837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg1,24791,Alt Duvenstedt,Heideweg,5,,54.35767576,9.639306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg2,24791,Alt Duvenstedt,Heideweg,6,,54.35703598,9.63835688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg3,24791,Alt Duvenstedt,Heideweg,6,a,54.35730134,9.63849135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg4,24791,Alt Duvenstedt,Heideweg,7,,54.35746504,9.63913849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg5,24791,Alt Duvenstedt,Heideweg,8,,54.35674551,9.63826301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg6,24791,Alt Duvenstedt,Heideweg,9,,54.3572988,9.63884149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg7,24791,Alt Duvenstedt,Heidkoppel,1,,54.35925313,9.63878487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg8,24791,Alt Duvenstedt,Heidkoppel,1,a,54.35919862,9.63879227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNg9,24791,Alt Duvenstedt,Heidkoppel,10,,54.36004425,9.63908161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgA,24791,Alt Duvenstedt,Heidkoppel,8,,54.35989555,9.63898156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgB,24791,Alt Duvenstedt,Heidkoppel,9,,54.35982462,9.63847786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgC,24791,Alt Duvenstedt,Hinterende,1,,54.35910563,9.65175393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgD,24791,Alt Duvenstedt,Hinterende,1,c,54.35890375,9.65250071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgE,24791,Alt Duvenstedt,Hinterende,10,,54.35841253,9.65364463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgF,24791,Alt Duvenstedt,Hinterende,11,,54.3598148,9.65402494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgG,24791,Alt Duvenstedt,Hinterende,11,a,54.36020334,9.65426328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgH,24791,Alt Duvenstedt,Hinterende,12,,54.35910126,9.65403237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgI,24791,Alt Duvenstedt,Hinterende,13,,54.3603899,9.65465214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgJ,24791,Alt Duvenstedt,Hinterende,14,,54.35928875,9.65454261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgK,24791,Alt Duvenstedt,Hinterende,16,,54.35953092,9.65448826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgL,24791,Alt Duvenstedt,Hinterende,16,a,54.3599703,9.65519877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgM,24791,Alt Duvenstedt,Hinterende,16,b,54.3599589,9.65535074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgN,24791,Alt Duvenstedt,Hinterende,18,,54.36010981,9.65475101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgO,24791,Alt Duvenstedt,Hinterende,2,,54.35873047,9.65151423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgP,24791,Alt Duvenstedt,Hinterende,2,a,54.35919049,9.65113781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgQ,24791,Alt Duvenstedt,Hinterende,2,b,54.35904151,9.65130629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgR,24791,Alt Duvenstedt,Hinterende,2,c,54.35890608,9.65148282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgS,24791,Alt Duvenstedt,Hinterende,3,,54.35894632,9.65280325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgT,24791,Alt Duvenstedt,Hinterende,4,,54.35843311,9.65231896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgU,24791,Alt Duvenstedt,Hinterende,6,,54.35872481,9.65267175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgV,24791,Alt Duvenstedt,Hinterende,8,,54.35868748,9.65325069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgW,24791,Alt Duvenstedt,Hinterende,9,,54.35930282,9.65369117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgX,24791,Alt Duvenstedt,Hinterende,9,a,54.35962679,9.65386958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgY,24791,Alt Duvenstedt,Hunnenkamp,1,,54.36267543,9.64579401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgZ,24791,Alt Duvenstedt,Hunnenkamp,10,,54.36344381,9.64545866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNga,24791,Alt Duvenstedt,Heidkoppel,11,,54.36012864,9.63854239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgb,24791,Alt Duvenstedt,Heidkoppel,12,,54.3602397,9.63905659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgc,24791,Alt Duvenstedt,Heidkoppel,13,,54.36030764,9.6386661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgd,24791,Alt Duvenstedt,Heidkoppel,14,,54.36042223,9.63912466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNge,24791,Alt Duvenstedt,Heidkoppel,15,,54.36048478,9.6386397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgf,24791,Alt Duvenstedt,Heidkoppel,16,,54.3605685,9.63916429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgg,24791,Alt Duvenstedt,Heidkoppel,17,,54.36065675,9.63856528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgh,24791,Alt Duvenstedt,Heidkoppel,18,,54.36076865,9.6391983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgi,24791,Alt Duvenstedt,Heidkoppel,19,,54.36090291,9.63841497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgj,24791,Alt Duvenstedt,Heidkoppel,2,,54.35941914,9.63911301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgk,24791,Alt Duvenstedt,Heidkoppel,20,,54.36095625,9.63922557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgl,24791,Alt Duvenstedt,Heidkoppel,21,,54.36120416,9.63832095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgm,24791,Alt Duvenstedt,Heidkoppel,22,,54.36122027,9.63922721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgn,24791,Alt Duvenstedt,Heidkoppel,23,,54.36143675,9.63826549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgo,24791,Alt Duvenstedt,Heidkoppel,24,,54.36141905,9.63913728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgp,24791,Alt Duvenstedt,Heidkoppel,25,,54.3614072,9.63861099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgq,24791,Alt Duvenstedt,Heidkoppel,26,,54.36140873,9.63888324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgr,24791,Alt Duvenstedt,Heidkoppel,27,,54.3610941,9.63857876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgs,24791,Alt Duvenstedt,Heidkoppel,28,,54.36119573,9.6389505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgt,24791,Alt Duvenstedt,Heidkoppel,3,,54.35938983,9.63859474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgu,24791,Alt Duvenstedt,Heidkoppel,3,a,54.35938397,9.63840733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgv,24791,Alt Duvenstedt,Heidkoppel,4,,54.35958257,9.63902574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgw,24791,Alt Duvenstedt,Heidkoppel,5,,54.35953337,9.63864014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgx,24791,Alt Duvenstedt,Heidkoppel,6,,54.35974345,9.63901081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgy,24791,Alt Duvenstedt,Heidkoppel,6,a,54.35973212,9.6391905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNgz,24791,Alt Duvenstedt,Heidkoppel,7,,54.35967146,9.63855065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh0,24791,Alt Duvenstedt,Hunnenkamp,11,,54.36328075,9.64410433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh1,24791,Alt Duvenstedt,Hunnenkamp,12,,54.36347521,9.64509659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh2,24791,Alt Duvenstedt,Hunnenkamp,14,,54.36352314,9.64473036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh3,24791,Alt Duvenstedt,Hunnenkamp,15,,54.36329311,9.64332846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh4,24791,Alt Duvenstedt,Hunnenkamp,18,,54.36389013,9.6441299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh5,24791,Alt Duvenstedt,Hunnenkamp,18,a,54.36373131,9.64423521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh6,24791,Alt Duvenstedt,Hunnenkamp,2,,54.36279858,9.64619064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh7,24791,Alt Duvenstedt,Hunnenkamp,20,,54.36356959,9.64383844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh8,24791,Alt Duvenstedt,Hunnenkamp,22,,54.36365389,9.64351412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNh9,24791,Alt Duvenstedt,Hunnenkamp,22,a,54.36401794,9.64337312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhA,24791,Alt Duvenstedt,Krummenorter Weg,4,,54.35848969,9.63223115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhB,24791,Alt Duvenstedt,Krummenorter Weg,40,,54.35859907,9.62340166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhC,24791,Alt Duvenstedt,Krummenorter Weg,42,,54.35883258,9.62307927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhD,24791,Alt Duvenstedt,Krummenorter Weg,43,,54.35773074,9.62174008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhE,24791,Alt Duvenstedt,Krummenorter Weg,5,,54.35819885,9.63206219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhF,24791,Alt Duvenstedt,Krummenorter Weg,50,,54.35782358,9.62125437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhG,24791,Alt Duvenstedt,Krummenorter Weg,54,,54.35746255,9.62037431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhI,24791,Alt Duvenstedt,Krummenorter Weg,6,,54.35846904,9.63180648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhJ,24791,Alt Duvenstedt,Krummenorter Weg,7,,54.35811689,9.63073234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhK,24791,Alt Duvenstedt,Krummenorter Weg,7,a,54.35815849,9.63035658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhL,24791,Alt Duvenstedt,Krummenorter Weg,8,,54.35858317,9.63148008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhM,24791,Alt Duvenstedt,Krummenort-B 77,2,,54.34391559,9.59463635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhN,24791,Alt Duvenstedt,Krummenort-B 77,3,,54.34394999,9.59050947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhO,24791,Alt Duvenstedt,Krummenort-B 77,5,,54.34454505,9.58747388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhP,24791,Alt Duvenstedt,Krummenort-B 77,6,,54.34564865,9.58684611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhQ,24791,Alt Duvenstedt,Krummenort-B 77,7,,54.34748442,9.57901016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhR,24791,Alt Duvenstedt,Krummenort-B 77,8,,54.34963318,9.57531416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhS,24791,Alt Duvenstedt,Krummenort-B 77,8,a,54.34994232,9.57569394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhT,24791,Alt Duvenstedt,Krummenort-B 77,9,,54.35450633,9.55928995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhU,24791,Alt Duvenstedt,Krummenort,1,,54.35547698,9.59243123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhV,24791,Alt Duvenstedt,Krummenort,2,,54.35598922,9.59212729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhW,24791,Alt Duvenstedt,Krummenort,3,,54.35700918,9.59186207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhX,24791,Alt Duvenstedt,Krummenort,4,,54.35670105,9.59155934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhY,24791,Alt Duvenstedt,Krummenort,5,,54.35766863,9.59167758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhZ,24791,Alt Duvenstedt,Krummenort,6,,54.35800816,9.59150105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNha,24791,Alt Duvenstedt,Hunnenkamp,24,,54.36436551,9.64292353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhb,24791,Alt Duvenstedt,Hunnenkamp,3,,54.36299864,9.64582443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhc,24791,Alt Duvenstedt,Hunnenkamp,4,,54.36303241,9.64621781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhd,24791,Alt Duvenstedt,Hunnenkamp,5,,54.36312307,9.64549874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhe,24791,Alt Duvenstedt,Hunnenkamp,6,,54.36322555,9.64640534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhf,24791,Alt Duvenstedt,Hunnenkamp,7,,54.36314563,9.64521108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhg,24791,Alt Duvenstedt,Hunnenkamp,8,,54.36337445,9.64579428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhh,24791,Alt Duvenstedt,Hunnenkamp,9,,54.36319053,9.64488358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhi,24791,Alt Duvenstedt,Krummenorter Heide,1,,54.34837503,9.58039736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhj,24791,Alt Duvenstedt,Krummenorter Heide,10,,54.34373345,9.57364838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhk,24791,Alt Duvenstedt,Krummenorter Heide,11,,54.34038065,9.56678097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhl,24791,Alt Duvenstedt,Krummenorter Heide,12,,54.33913956,9.56616418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhm,24791,Alt Duvenstedt,Krummenorter Heide,14,,54.3347201,9.56765607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhn,24791,Alt Duvenstedt,Krummenorter Heide,15,,54.3343959,9.56751348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNho,24791,Alt Duvenstedt,Krummenorter Heide,2,,54.34805444,9.5800836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhp,24791,Alt Duvenstedt,Krummenorter Heide,3,,54.34269951,9.58163502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhq,24791,Alt Duvenstedt,Krummenorter Heide,7,,54.34305374,9.57301932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhr,24791,Alt Duvenstedt,Krummenorter Heide,8,,54.34329789,9.57348226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhs,24791,Alt Duvenstedt,Krummenorter Heide,9,,54.34362581,9.5739048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNht,24791,Alt Duvenstedt,Krummenorter Weg,1,,54.35833652,9.63337694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhu,24791,Alt Duvenstedt,Krummenorter Weg,16,,54.35850059,9.62995725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhv,24791,Alt Duvenstedt,Krummenorter Weg,18,,54.35854424,9.6295187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhw,24791,Alt Duvenstedt,Krummenorter Weg,2,,54.35855316,9.63302203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhx,24791,Alt Duvenstedt,Krummenorter Weg,27,,54.35832242,9.62607792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhy,24791,Alt Duvenstedt,Krummenorter Weg,3,,54.35829999,9.63289827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNhz,24791,Alt Duvenstedt,Krummenorter Weg,36,,54.35844375,9.62518711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi0,24791,Alt Duvenstedt,Krummenort,7,,54.35851296,9.59047965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi1,24791,Alt Duvenstedt,Krummenort,8,,54.35047631,9.58256762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi2,24791,Alt Duvenstedt,Krummenort,9,,54.34983278,9.58216318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi3,24791,Alt Duvenstedt,Künzleweg,10,,54.35658353,9.64389476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi4,24791,Alt Duvenstedt,Künzleweg,12,,54.35654348,9.64376981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi5,24791,Alt Duvenstedt,Künzleweg,14,,54.35644453,9.64345427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi6,24791,Alt Duvenstedt,Künzleweg,16,,54.35640269,9.64332929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi7,24791,Alt Duvenstedt,Künzleweg,18,,54.35630329,9.64303597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi8,24791,Alt Duvenstedt,Künzleweg,2,,54.35688746,9.64468768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNi9,24791,Alt Duvenstedt,Künzleweg,20,,54.35626544,9.64291826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiA,24791,Alt Duvenstedt,Lindenweg,3,,54.36018712,9.63979237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiB,24791,Alt Duvenstedt,Lindenweg,4,,54.35983133,9.64014702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiC,24791,Alt Duvenstedt,Lindenweg,4,a,54.35998516,9.64010986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiD,24791,Alt Duvenstedt,Lindenweg,5,,54.3603665,9.63986893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiE,24791,Alt Duvenstedt,Lindenweg,6,,54.36024214,9.64018489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiF,24791,Alt Duvenstedt,Lindenweg,6,a,54.3602401,9.64038317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiG,24791,Alt Duvenstedt,Lindenweg,7,,54.36052808,9.63987689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiH,24791,Alt Duvenstedt,Lindenweg,8,,54.36042864,9.64024704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiI,24791,Alt Duvenstedt,Lindenweg,8,a,54.36042284,9.64041486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiJ,24791,Alt Duvenstedt,Lindenweg,9,,54.36071586,9.63988938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiK,24791,Alt Duvenstedt,Moorweg,1,,54.35795409,9.63138052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiL,24791,Alt Duvenstedt,Moorweg,1,a,54.35806231,9.63163706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiM,24791,Alt Duvenstedt,Moorweg,2,,54.35640716,9.62692874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiN,24791,Alt Duvenstedt,Moorweg,3,,54.35509133,9.62550597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiO,24791,Alt Duvenstedt,Moorweg,4,,54.35505019,9.62493162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiP,24791,Alt Duvenstedt,Moorweg,5,,54.35435061,9.62430825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiQ,24791,Alt Duvenstedt,Ohlwühren,1,,54.36061212,9.64333175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiR,24791,Alt Duvenstedt,Ohlwühren,2,,54.36060154,9.64299684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiS,24791,Alt Duvenstedt,Ohlwühren,3,,54.36059517,9.64266576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiT,24791,Alt Duvenstedt,Ohlwühren,4,,54.3608059,9.64256462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiU,24791,Alt Duvenstedt,Ohlwühren,5,,54.36079075,9.64320294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiV,24791,Alt Duvenstedt,Ohlwühren,6,,54.36100449,9.64308606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiW,24791,Alt Duvenstedt,Ohlwühren,7,,54.36099951,9.64263971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiX,24791,Alt Duvenstedt,Ohlwühren,8,,54.36122709,9.64256434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiY,24791,Alt Duvenstedt,Ohlwühren,9,,54.36125156,9.64310591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiZ,24791,Alt Duvenstedt,Otterbeksweg,1,,54.36473052,9.64702752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNia,24791,Alt Duvenstedt,Künzleweg,22,,54.35618516,9.64267575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNib,24791,Alt Duvenstedt,Künzleweg,24,,54.35611363,9.64249523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNic,24791,Alt Duvenstedt,Künzleweg,26,,54.35603057,9.64223987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNid,24791,Alt Duvenstedt,Künzleweg,28,,54.35592707,9.64190299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNie,24791,Alt Duvenstedt,Künzleweg,30,,54.35573743,9.64163288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNif,24791,Alt Duvenstedt,Künzleweg,4,,54.35683906,9.6445745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNig,24791,Alt Duvenstedt,Künzleweg,5,,54.35621966,9.64364886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNih,24791,Alt Duvenstedt,Künzleweg,6,,54.35672498,9.64431685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNii,24791,Alt Duvenstedt,Künzleweg,7,,54.35614175,9.64334972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNij,24791,Alt Duvenstedt,Künzleweg,8,,54.3566847,9.64419281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNik,24791,Alt Duvenstedt,Lindenweg,1,,54.35955511,9.6397298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNil,24791,Alt Duvenstedt,Lindenweg,1,a,54.35962161,9.63972361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNim,24791,Alt Duvenstedt,Lindenweg,1,b,54.3596845,9.63972499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNin,24791,Alt Duvenstedt,Lindenweg,1,c,54.35973929,9.63972793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNio,24791,Alt Duvenstedt,Lindenweg,1,d,54.35979407,9.63973086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNip,24791,Alt Duvenstedt,Lindenweg,1,e,54.35985425,9.63973409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiq,24791,Alt Duvenstedt,Lindenweg,1,f,54.35992527,9.63975131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNir,24791,Alt Duvenstedt,Lindenweg,10,,54.36062187,9.64026454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNis,24791,Alt Duvenstedt,Lindenweg,11,,54.36089661,9.63983908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNit,24791,Alt Duvenstedt,Lindenweg,12,,54.36081799,9.64039449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiu,24791,Alt Duvenstedt,Lindenweg,14,,54.3610061,9.64052383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiv,24791,Alt Duvenstedt,Lindenweg,16,,54.36106134,9.6402354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiw,24791,Alt Duvenstedt,Lindenweg,18,,54.3611498,9.64000375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNix,24791,Alt Duvenstedt,Lindenweg,2,,54.35954941,9.64008699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiy,24791,Alt Duvenstedt,Lindenweg,2,a,54.35964032,9.64010165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNiz,24791,Alt Duvenstedt,Lindenweg,20,,54.3611359,9.639675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj0,24791,Alt Duvenstedt,Otterbeksweg,10,,54.36355787,9.64654173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj1,24791,Alt Duvenstedt,Otterbeksweg,2,,54.36340542,9.64725743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj2,24791,Alt Duvenstedt,Otterbeksweg,3,,54.36501446,9.64710403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj3,24791,Alt Duvenstedt,Otterbeksweg,4,,54.36344303,9.64708474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj4,24791,Alt Duvenstedt,Otterbeksweg,6,,54.36354045,9.64673827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj5,24791,Alt Duvenstedt,Otterbeksweg,8,,54.36354968,9.64663675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj6,24791,Alt Duvenstedt,Owschlager Damm,1,,54.3592934,9.63664739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj7,24791,Alt Duvenstedt,Owschlager Damm,2,,54.35940566,9.63721375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj8,24791,Alt Duvenstedt,Owschlager Damm,3,,54.35950046,9.63639377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNj9,24791,Alt Duvenstedt,Owschlager Damm,4,a,54.35954623,9.63683689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjA,24791,Alt Duvenstedt,Poststraße,3,,54.36146984,9.64455896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjB,24791,Alt Duvenstedt,Poststraße,4,,54.3618536,9.64499699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjC,24791,Alt Duvenstedt,Poststraße,6,,54.3618281,9.64446001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjD,24791,Alt Duvenstedt,Rickerter Weg,1,,54.35684246,9.64524306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjE,24791,Alt Duvenstedt,Rickerter Weg,2,,54.35654898,9.64497055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjF,24791,Alt Duvenstedt,Rickerter Weg,2,a,54.35724254,9.64450826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjG,24791,Alt Duvenstedt,Rickerter Weg,3,,54.35473041,9.64552687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjH,24791,Alt Duvenstedt,Rickerter Weg,31,,54.35378454,9.64102342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjI,24791,Alt Duvenstedt,Rickerter Weg,33,,54.35420242,9.64053482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjJ,24791,Alt Duvenstedt,Rickerter Weg,35,,54.35449542,9.64050497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjK,24791,Alt Duvenstedt,Rickerter Weg,37,,54.35481616,9.64037809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjL,24791,Alt Duvenstedt,Rickerter Weg,39,,54.35510482,9.6404547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjM,24791,Alt Duvenstedt,Rickerter Weg,4,,54.35614936,9.64513929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjN,24791,Alt Duvenstedt,Rickerter Weg,4,a,54.35630508,9.64507894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjO,24791,Alt Duvenstedt,Rickerter Weg,41,,54.35533012,9.64008485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjP,24791,Alt Duvenstedt,Rickerter Weg,6,,54.35553271,9.6453429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjQ,24791,Alt Duvenstedt,Rickerter Weg,8,,54.35496808,9.6448344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjR,24791,Alt Duvenstedt,Rosenstraße,1,,54.35794755,9.63311586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjS,24791,Alt Duvenstedt,Rosenstraße,1,a,54.35796179,9.63331939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjT,24791,Alt Duvenstedt,Rosenstraße,10,,54.35704842,9.63362704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjU,24791,Alt Duvenstedt,Rosenstraße,11,,54.35715743,9.63393346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjV,24791,Alt Duvenstedt,Rosenstraße,13,,54.35696187,9.63402747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjW,24791,Alt Duvenstedt,Rosenstraße,2,,54.35818371,9.63252803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjX,24791,Alt Duvenstedt,Rosenstraße,3,,54.35780169,9.63324876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjY,24791,Alt Duvenstedt,Rosenstraße,4,,54.35788544,9.63274618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjZ,24791,Alt Duvenstedt,Rosenstraße,5,,54.35765396,9.63338224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNja,24791,Alt Duvenstedt,Owschlager Damm,4,b,54.35957027,9.63691149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjb,24791,Alt Duvenstedt,Owschlager Damm,4,c,54.3596035,9.63701375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjc,24791,Alt Duvenstedt,Owschlager Damm,4,d,54.35963448,9.63710944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjd,24791,Alt Duvenstedt,Owschlager Damm,5,,54.36123267,9.6287637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNje,24791,Alt Duvenstedt,Owschlager Damm,6,,54.3597543,9.63687541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjf,24791,Alt Duvenstedt,Owschlager Damm,8,,54.35999325,9.63636803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjg,24791,Alt Duvenstedt,Pappelweg,1,,54.3582236,9.6356687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjh,24791,Alt Duvenstedt,Pappelweg,10,,54.3577734,9.63555772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNji,24791,Alt Duvenstedt,Pappelweg,11,,54.357338,9.63641472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjj,24791,Alt Duvenstedt,Pappelweg,12,,54.35772,9.63561422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjk,24791,Alt Duvenstedt,Pappelweg,14,,54.35756412,9.63572644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjl,24791,Alt Duvenstedt,Pappelweg,16,,54.35741854,9.635816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjm,24791,Alt Duvenstedt,Pappelweg,17,,54.35686155,9.63720286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjn,24791,Alt Duvenstedt,Pappelweg,18,,54.35735845,9.63587742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjo,24791,Alt Duvenstedt,Pappelweg,19,,54.35663847,9.63721773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjp,24791,Alt Duvenstedt,Pappelweg,2,,54.35818778,9.63506437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjq,24791,Alt Duvenstedt,Pappelweg,21,,54.35658621,9.63747987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjr,24791,Alt Duvenstedt,Pappelweg,3,,54.35803798,9.63574103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjs,24791,Alt Duvenstedt,Pappelweg,4,,54.35813242,9.63510124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjt,24791,Alt Duvenstedt,Pappelweg,5,,54.35796825,9.6360582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNju,24791,Alt Duvenstedt,Pappelweg,6,,54.3579921,9.63531395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjv,24791,Alt Duvenstedt,Pappelweg,7,,54.35774814,9.63597955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjw,24791,Alt Duvenstedt,Pappelweg,8,,54.35792558,9.63540383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjx,24791,Alt Duvenstedt,Pappelweg,9,,54.35739855,9.63628038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjy,24791,Alt Duvenstedt,Poststraße,1,,54.36153069,9.64539284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNjz,24791,Alt Duvenstedt,Poststraße,2,,54.3617361,9.64531516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk0,24791,Alt Duvenstedt,Rosenstraße,6,,54.3576802,9.63288299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk1,24791,Alt Duvenstedt,Rosenstraße,7,,54.35751438,9.6335467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk2,24791,Alt Duvenstedt,Rosenstraße,8,,54.3574514,9.63313743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk3,24791,Alt Duvenstedt,Rosenstraße,9,,54.35730548,9.63372791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk4,24791,Alt Duvenstedt,Rotdornring,1,,54.36009458,9.63688683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk5,24791,Alt Duvenstedt,Rotdornring,2,,54.360156,9.63715044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk6,24791,Alt Duvenstedt,Rotdornring,3,,54.36028783,9.63674167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk7,24791,Alt Duvenstedt,Rotdornring,4,,54.36037102,9.63705423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNk9,24791,Alt Duvenstedt,Schulendammer Weg,10,,54.36054609,9.65190037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkA,24791,Alt Duvenstedt,Schulendammer Weg,4,,54.35893094,9.65000178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkB,24791,Alt Duvenstedt,Schulendammer Weg,4,a,54.35909201,9.65003893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkC,24791,Alt Duvenstedt,Schulendammer Weg,4,b,54.35936345,9.65085678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkD,24791,Alt Duvenstedt,Schulendammer Weg,4,c,54.35956745,9.65120616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkE,24791,Alt Duvenstedt,Schulendammer Weg,4,d,54.35973813,9.65142712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkF,24791,Alt Duvenstedt,Schulendammer Weg,4,e,54.3594403,9.6505393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkG,24791,Alt Duvenstedt,Schulendammer Weg,4,f,54.35948466,9.65043581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkH,24791,Alt Duvenstedt,Schulendammer Weg,4,g,54.35930424,9.65023263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkI,24791,Alt Duvenstedt,Schulendammer Weg,4,h,54.35903521,9.65051487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkJ,24791,Alt Duvenstedt,Schulendammer Weg,41,,54.3608447,9.65594429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkK,24791,Alt Duvenstedt,Schulendammer Weg,43,,54.36097644,9.65627111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkL,24791,Alt Duvenstedt,Schulendammer Weg,45,,54.36099334,9.65667892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkM,24791,Alt Duvenstedt,Schulendammer Weg,51,,54.36122128,9.65778099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkN,24791,Alt Duvenstedt,Schulendammer Weg,6,,54.35990345,9.65156737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkO,24791,Alt Duvenstedt,Schulendammer Weg,8,,54.36006679,9.65175886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkP,24791,Alt Duvenstedt,Schütt am See,1,,54.38201394,9.6732915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkQ,24791,Alt Duvenstedt,Schütt am See,12,,54.38365771,9.67283083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkR,24791,Alt Duvenstedt,Schütt am See,13,,54.38380908,9.6727643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkS,24791,Alt Duvenstedt,Schütt am See,14,,54.38396656,9.67285058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkT,24791,Alt Duvenstedt,Schütt am See,15,,54.38433747,9.67294169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkU,24791,Alt Duvenstedt,Schütt am See,16,,54.38447335,9.6728612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkV,24791,Alt Duvenstedt,Schütt am See,17,,54.38473645,9.67254933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkW,24791,Alt Duvenstedt,Schütt am See,18,,54.38506652,9.67233088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkX,24791,Alt Duvenstedt,Schütt am See,2,,54.382265,9.67372975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkY,24791,Alt Duvenstedt,Schütt am See,3,,54.382439,9.6736297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkZ,24791,Alt Duvenstedt,Schütt Ausbau,1,,54.37600516,9.67292351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNka,24791,Alt Duvenstedt,Schulendammer Weg,11,,54.35971808,9.65015137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkb,24791,Alt Duvenstedt,Schulendammer Weg,12,,54.36076091,9.65243076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkc,24791,Alt Duvenstedt,Schulendammer Weg,14,,54.36090824,9.65305524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkd,24791,Alt Duvenstedt,Schulendammer Weg,15,,54.35965459,9.65103751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNke,24791,Alt Duvenstedt,Schulendammer Weg,16,,54.36084649,9.65360037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkf,24791,Alt Duvenstedt,Schulendammer Weg,17,,54.35996779,9.65127125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkg,24791,Alt Duvenstedt,Schulendammer Weg,18,,54.36061457,9.65441407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkh,24791,Alt Duvenstedt,Schulendammer Weg,19,,54.36024098,9.65131987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNki,24791,Alt Duvenstedt,Schulendammer Weg,2,,54.35880642,9.64969569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkj,24791,Alt Duvenstedt,Schulendammer Weg,2,c,54.35872448,9.64857297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkk,24791,Alt Duvenstedt,Schulendammer Weg,20,,54.36047969,9.65543091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkl,24791,Alt Duvenstedt,Schulendammer Weg,20,a,54.3604657,9.65623279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkm,24791,Alt Duvenstedt,Schulendammer Weg,21,,54.36044593,9.65129788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkn,24791,Alt Duvenstedt,Schulendammer Weg,22,,54.36057934,9.65678501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNko,24791,Alt Duvenstedt,Schulendammer Weg,22,a,54.36025693,9.65682037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkp,24791,Alt Duvenstedt,Schulendammer Weg,23,,54.36065228,9.65157293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkq,24791,Alt Duvenstedt,Schulendammer Weg,24,,54.36089827,9.65794589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkr,24791,Alt Duvenstedt,Schulendammer Weg,27,,54.36089414,9.65202607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNks,24791,Alt Duvenstedt,Schulendammer Weg,29,,54.36101432,9.65222468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkt,24791,Alt Duvenstedt,Schulendammer Weg,3,,54.35891491,9.64879258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNku,24791,Alt Duvenstedt,Schulendammer Weg,31,,54.36104348,9.65261735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkv,24791,Alt Duvenstedt,Schulendammer Weg,33,,54.36112703,9.65297804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkw,24791,Alt Duvenstedt,Schulendammer Weg,35,,54.36093163,9.65414552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkx,24791,Alt Duvenstedt,Schulendammer Weg,35,a,54.36098513,9.65417228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNky,24791,Alt Duvenstedt,Schulendammer Weg,37,,54.36088566,9.65474767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNkz,24791,Alt Duvenstedt,Schulendammer Weg,39,,54.36092429,9.65542224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl0,24791,Alt Duvenstedt,Schütt Ausbau,2,,54.37641488,9.67347753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl1,24791,Alt Duvenstedt,Schütt Ausbau,3,,54.3768693,9.67305436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl2,24791,Alt Duvenstedt,Schütt Ausbau,4,,54.37712936,9.67351543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl3,24791,Alt Duvenstedt,Schütt Ausbau,5,,54.37732948,9.67210619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl4,24791,Alt Duvenstedt,Schwarzer Weg,1,,54.359892,9.64468844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl5,24791,Alt Duvenstedt,Schwarzer Weg,1,b,54.35995688,9.64434329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl6,24791,Alt Duvenstedt,Schwarzer Weg,1,c,54.35994771,9.64422822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl7,24791,Alt Duvenstedt,Schwarzer Weg,11,,54.35958187,9.64147954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl8,24791,Alt Duvenstedt,Schwarzer Weg,13,,54.35946141,9.64118069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNl9,24791,Alt Duvenstedt,Schwarzer Weg,13,a,54.35923753,9.64156163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlA,24791,Alt Duvenstedt,Ulmenweg,16,,54.36214728,9.65370237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlB,24791,Alt Duvenstedt,Ulmenweg,18,,54.36226413,9.65392079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlC,24791,Alt Duvenstedt,Ulmenweg,2,,54.36142214,9.65420679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlD,24791,Alt Duvenstedt,Ulmenweg,2,a,54.3611102,9.65423657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlE,24791,Alt Duvenstedt,Ulmenweg,4,,54.36143973,9.65448982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlF,24791,Alt Duvenstedt,Ulmenweg,6,,54.36139534,9.65480994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlG,24791,Alt Duvenstedt,Ulmenweg,8,,54.36159863,9.65485407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlH,24791,Alt Duvenstedt,Wallberg,1,,54.35081171,9.63399572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNla,24791,Alt Duvenstedt,Schwarzer Weg,15,,54.35939862,9.64070685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlb,24791,Alt Duvenstedt,Schwarzer Weg,16,,54.36006719,9.64196124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlc,24791,Alt Duvenstedt,Schwarzer Weg,17,,54.3593333,9.64034516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNld,24791,Alt Duvenstedt,Schwarzer Weg,18,,54.35971401,9.64081591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNle,24791,Alt Duvenstedt,Schwarzer Weg,19,,54.35923934,9.63995215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlf,24791,Alt Duvenstedt,Schwarzer Weg,2,,54.36021625,9.64238738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlg,24791,Alt Duvenstedt,Schwarzer Weg,2,a,54.36009277,9.64475308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlh,24791,Alt Duvenstedt,Schwarzer Weg,2,b,54.36022285,9.6442018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNli,24791,Alt Duvenstedt,Schwarzer Weg,2,c,54.36033669,9.64390766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlj,24791,Alt Duvenstedt,Schwarzer Weg,2,d,54.3602686,9.64302432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlk,24791,Alt Duvenstedt,Schwarzer Weg,2,e,54.36018294,9.64274763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNll,24791,Alt Duvenstedt,Schwarzer Weg,20,,54.35961938,9.64049619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlm,24791,Alt Duvenstedt,Schwarzer Weg,3,,54.36012619,9.64336269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNln,24791,Alt Duvenstedt,Schwarzer Weg,3,a,54.36006782,9.64312037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlo,24791,Alt Duvenstedt,Schwarzer Weg,5,,54.35997445,9.64280522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlp,24791,Alt Duvenstedt,Schwarzer Weg,7,,54.35988011,9.64258438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlq,24791,Alt Duvenstedt,Schwarzer Weg,9,,54.35965664,9.64174501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNls,24791,Alt Duvenstedt,Sorgwohlder Weg,3,,54.35083622,9.57302761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlt,24791,Alt Duvenstedt,Sorgwohlder Weg,4,,54.350893,9.57347343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlu,24791,Alt Duvenstedt,Sorgwohlder Weg,6,,54.35155018,9.57346555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlw,24791,Alt Duvenstedt,Ulmenweg,1,,54.36135459,9.65358658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlx,24791,Alt Duvenstedt,Ulmenweg,10,,54.36184525,9.65448003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNly,24791,Alt Duvenstedt,Ulmenweg,12,,54.36175214,9.65413933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlz,24791,Alt Duvenstedt,Ulmenweg,14,,54.36198676,9.65347667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bW2h,24791,Alt Duvenstedt,Krummenorter Heide,5,,54.33927129,9.58340849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2s5,24791,Alt Duvenstedt,Am See,2,,54.37759994,9.67486349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2s6,24791,Alt Duvenstedt,Am See,4,,54.377921,9.67532358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2s7,24791,Alt Duvenstedt,Am See,6,,54.37852101,9.67778009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2s8,24791,Alt Duvenstedt,Am See,8,,54.37887672,9.67795965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sJ,24791,Alt Duvenstedt,In de Eck,10,,54.3745306,9.67553849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sK,24791,Alt Duvenstedt,In de Eck,12,,54.37455844,9.67565761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sL,24791,Alt Duvenstedt,In de Eck,2,,54.3740666,9.67338275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sM,24791,Alt Duvenstedt,In de Eck,4,,54.37461552,9.67393636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sN,24791,Alt Duvenstedt,In de Eck,6,,54.37438133,9.67445163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sO,24791,Alt Duvenstedt,In de Eck,8,,54.37461222,9.67459319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sP,24791,Alt Duvenstedt,Bornbarg,1,,54.37050609,9.67400174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sQ,24791,Alt Duvenstedt,Bornbarg,11,,54.36517223,9.68044146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sR,24791,Alt Duvenstedt,Bornbarg,3,,54.37022416,9.67433569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sS,24791,Alt Duvenstedt,Bornbarg,5,,54.36872694,9.67498353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sT,24791,Alt Duvenstedt,Bornbarg,7,,54.36839865,9.67557982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2sU,24791,Alt Duvenstedt,Bornbarg,9,,54.36779492,9.6763292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhS,24791,Alt Duvenstedt,Schütt am See,10,,54.3839271,9.67311929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhT,24791,Alt Duvenstedt,Schütt am See,4,,54.3827246,9.673458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhU,24791,Alt Duvenstedt,Schütt am See,5,,54.38295091,9.67331661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhV,24791,Alt Duvenstedt,Schütt am See,6,,54.38326133,9.67318639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhW,24791,Alt Duvenstedt,Schütt am See,7,,54.3834495,9.67313471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhX,24791,Alt Duvenstedt,Schütt am See,8,,54.3835026,9.67312034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002cbhY,24791,Alt Duvenstedt,Schütt am See,9,,54.3838723,9.67311265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004lfDs,24791,Alt Duvenstedt,Bornbarg,6,,54.36834451,9.67379057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00051yWM,24791,Alt Duvenstedt,Hunnenkamp,13,,54.36332321,9.64377017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052Kfm,24791,Alt Duvenstedt,Broholm,1,,54.35530503,9.61558051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057p4t,24791,Alt Duvenstedt,Ahornweg,6,a,54.35947483,9.63777897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ELUW,24791,Alt Duvenstedt,Schütt,1,,54.38077724,9.67205086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ELVJ,24791,Alt Duvenstedt,Fresenwisch,1,,54.37308339,9.66970589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EM3N,24791,Alt Duvenstedt,Kringel,1,,54.35255737,9.6292202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KT2q,24791,Alt Duvenstedt,Am Markt,5,a,54.35885879,9.64524718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KT2r,24791,Alt Duvenstedt,Am Markt,5,,54.35878993,9.64530873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Q8lg,24791,Alt Duvenstedt,Birkenhof,6,,54.35147144,9.62819897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk5K,24791,Alt Duvenstedt,Huuskoppel,3,,54.36107135,9.64503898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk5Q,24791,Alt Duvenstedt,Huuskoppel,5,,54.36115027,9.64586709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk64,24791,Alt Duvenstedt,Huuskoppel,1,,54.36100537,9.64569881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk67,24791,Alt Duvenstedt,Huuskoppel,2,,54.36107057,9.6453926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk6I,24791,Alt Duvenstedt,An der Au,5,,54.36081091,9.64687768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk6O,24791,Alt Duvenstedt,An der Au,3,,54.36079078,9.64721797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk6U,24791,Alt Duvenstedt,An der Au,1,,54.36076335,9.6475052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk6a,24791,Alt Duvenstedt,Huuskoppel,4,,54.36104626,9.64476539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk6o,24791,Alt Duvenstedt,Auknüll,2,g,54.36070803,9.64793207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk77,24791,Alt Duvenstedt,Auknüll,2,e,54.36102545,9.64732397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk7J,24791,Alt Duvenstedt,Auknüll,2,d,54.36103574,9.64711168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk7h,24791,Alt Duvenstedt,Auknüll,2,b,54.36105132,9.64679781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk7k,24791,Alt Duvenstedt,Auknüll,2,f,54.36102036,9.64742622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk7v,24791,Alt Duvenstedt,Auknüll,2,c,54.36104078,9.64700973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rk8p,24791,Alt Duvenstedt,An der Au,7,,54.36081997,9.64658202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Rl0s,24791,Alt Duvenstedt,Auknüll,2,a,54.36105637,9.6466958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VbzY,24791,Alt Duvenstedt,Auknüll,2,h,54.36050949,9.64824751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XLZS,24791,Alt Duvenstedt,Bahnhofstraße,31,a,54.35837232,9.63615128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cHHA,24791,Alt Duvenstedt,Dorfstraße,35,b,54.36330791,9.64789315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ftkf,24791,Alt Duvenstedt,Heideweg,6,b,54.35748973,9.63865794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005m8Ys,24791,Alt Duvenstedt,Günnende,25,a,54.35973979,9.64664805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005m8Yt,24791,Alt Duvenstedt,Günnende,25,b,54.35973042,9.64652111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s0jz,24791,Alt Duvenstedt,Bahnhofstraße,8,a,54.35854259,9.64082831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s1UU,24791,Alt Duvenstedt,Ellekampsredder,7,a,54.35820189,9.6530566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sxLL,24791,Alt Duvenstedt,Pappelweg,13,,54.35727997,9.63670262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sxLP,24791,Alt Duvenstedt,Pappelweg,13,a,54.35723733,9.63676248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yunJ,24791,Alt Duvenstedt,Dorfstraße,38,a,54.36378787,9.64966374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060tPR,24791,Alt Duvenstedt,Owschlager Damm,5,a,54.36187845,9.6284166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239j,24791,Alt Duvenstedt,Schwarzer Weg,7,a,54.35982763,9.64261572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239k,24791,Alt Duvenstedt,Schwarzer Weg,7,b,54.35976434,9.64265351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239l,24791,Alt Duvenstedt,Schwarzer Weg,7,c,54.359702,9.64269074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239m,24791,Alt Duvenstedt,Schwarzer Weg,7,d,54.359809,9.6422129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239n,24791,Alt Duvenstedt,Schwarzer Weg,7,e,54.35974974,9.64223663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239o,24791,Alt Duvenstedt,Schwarzer Weg,7,f,54.35968965,9.64226072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006239p,24791,Alt Duvenstedt,Schwarzer Weg,7,g,54.35962479,9.6422867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000642Ze,24791,Alt Duvenstedt,Birkenhof,3,,54.35173386,9.6299705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066MUO,24791,Alt Duvenstedt,Dorfstraße,36,b,54.36358659,9.64898385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IgTe,24791,Alt Duvenstedt,Bultwischenkamp,1,,54.36116396,9.66142009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Js6I,24791,Alt Duvenstedt,Dorfstraße,34,a,54.36322447,9.64838018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Js6J,24791,Alt Duvenstedt,Dorfstraße,34,b,54.36324466,9.64843817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SOOV,24791,Alt Duvenstedt,Schulendammer Weg,47,,54.36100275,9.65704738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006U5BQ,24791,Alt Duvenstedt,Huuskoppel,5,a,54.36117075,9.64566384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsf2,24791,Alt Duvenstedt,Wiesenkamp,1,,54.36455966,9.64676815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsf6,24791,Alt Duvenstedt,Wiesenkamp,3,,54.36450299,9.64707673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsf9,24791,Alt Duvenstedt,Wiesenkamp,5,,54.36437538,9.6472898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsfc,24791,Alt Duvenstedt,Wiesenkamp,7,,54.36433535,9.64757747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsff,24791,Alt Duvenstedt,Wiesenkamp,9,,54.36427263,9.64773369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsfi,24791,Alt Duvenstedt,Wiesenkamp,10,,54.36402277,9.64752047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsfm,24791,Alt Duvenstedt,Wiesenkamp,8,,54.36413435,9.64734369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsfp,24791,Alt Duvenstedt,Wiesenkamp,6,,54.36419704,9.64711559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsft,24791,Alt Duvenstedt,Wiesenkamp,4,,54.36427927,9.64686335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wsfw,24791,Alt Duvenstedt,Wiesenkamp,2,,54.36434786,9.64660676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006efGj,24791,Alt Duvenstedt,Rotdornring,3,a,54.36036247,9.63671086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006lZ4V,24791,Alt Duvenstedt,Schulendammer Weg,25,,54.36084283,9.65174298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oD4S,24791,Alt Duvenstedt,Günnende,12,a,54.35718288,9.64547185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qBHK,24791,Alt Duvenstedt,Fuchsberg,6,,54.36587373,9.67158765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qBzF,24791,Alt Duvenstedt,Vörn Röhbarg,1,,54.36288912,9.67174237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v9SX,24791,Alt Duvenstedt,Schulendammer Weg,26,,54.361034,9.65889761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006y3Eo,24791,Alt Duvenstedt,Dorfstraße,20,,54.36097805,9.64629948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075N2P,24791,Alt Duvenstedt,Dorfstraße,28,c,54.36212327,9.64650286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078FC1,24791,Alt Duvenstedt,In de Eck,4,a,54.37470669,9.67387615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007D7XZ,24791,Alt Duvenstedt,Heidkoppel,5,a,54.35956273,9.63872101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M7nn,24791,Alt Duvenstedt,Hinterende,10,b,54.3581411,9.65441817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M7no,24791,Alt Duvenstedt,Hinterende,10,c,54.35814054,9.65454153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Urlg,24791,Alt Duvenstedt,Schulendammer Weg,49,,54.36107119,9.65738923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UvLf,24791,Alt Duvenstedt,Schulendammer Weg,2,a,54.358648,9.64795038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBb0,24791,Alt Duvenstedt,Künzleweg,9,,54.35605044,9.64285042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBb3,24791,Alt Duvenstedt,Künzleweg,11,,54.35590086,9.64264006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBb6,24791,Alt Duvenstedt,Künzleweg,13,,54.35579052,9.64239426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBb9,24791,Alt Duvenstedt,Künzleweg,15,,54.35564417,9.64209091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YBbc,24791,Alt Duvenstedt,Künzleweg,17,,54.35564529,9.64183118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jXA7,24791,Alt Duvenstedt,Schulendammer Weg,1,,54.35886099,9.6483711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nkKg,24791,Alt Duvenstedt,Am Sportplatz,5,,54.35392962,9.63751293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nkKl,24791,Alt Duvenstedt,Am Sportplatz,7,,54.3538114,9.63709425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007w67B,24791,Alt Duvenstedt,Hinterende,4,a,54.35871068,9.65220351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007w67y,24791,Alt Duvenstedt,Schulendammer Weg,1,a,54.35886204,9.64847551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wkBR,24791,Alt Duvenstedt,Schulendammer Weg,2,b,54.35869431,9.64829392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xQZF,24791,Alt Duvenstedt,Hinterende,1,a,54.35930782,9.65175542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080vjn,24791,Alt Duvenstedt,Otterbeksweg,20,,54.36407826,9.6462585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082JVu,24791,Alt Duvenstedt,Hunnenkamp,1,a,54.36275991,9.645216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085oH3,24791,Alt Duvenstedt,Heidkoppel,19,a,54.36092552,9.63834061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008meMi,24791,Alt Duvenstedt,Bahnhofstraße,6,a,54.35827053,9.64137448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tQtV,24791,Alt Duvenstedt,Hunnenkamp,9,a,54.36320538,9.64473548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008umYW,24791,Alt Duvenstedt,Am Mühlenbach,6,a,54.35803295,9.64977957

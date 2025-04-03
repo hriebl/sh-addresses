@@ -1,0 +1,568 @@
+# Amtliche Adressen für die Postleitzahl 23820
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGoY,23820,Wulfsfelde,Hartenkamp,2,,53.96942902,10.48507857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGoZ,23820,Wulfsfelde,Hartenkamp,4,,53.96942708,10.48582803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp0,23820,Wulfsfelde,Köhlenweg,10,,53.97468844,10.52380755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp1,23820,Wulfsfelde,Köhlenweg,3,,53.97576654,10.50781393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp2,23820,Wulfsfelde,Köhlenweg,4,,53.97538743,10.50868444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp3,23820,Wulfsfelde,Köhlenweg,5,,53.97573848,10.50799489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp4,23820,Wulfsfelde,Moordiek,1,,53.97463962,10.50246635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp5,23820,Wulfsfelde,Moordiek,10,,53.97521801,10.50629862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp6,23820,Wulfsfelde,Moordiek,14,,53.97573002,10.50670356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp7,23820,Wulfsfelde,Moordiek,17,,53.977276,10.50646462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp8,23820,Wulfsfelde,Moordiek,19,,53.97737363,10.50644356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGp9,23820,Wulfsfelde,Moordiek,2,,53.97393376,10.50353935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpA,23820,Wulfsfelde,Landstraße,22,,53.96004509,10.49804831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpB,23820,Wulfsfelde,Landstraße,23,,53.96202206,10.50055866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpC,23820,Wulfsfelde,Landstraße,24,,53.96006228,10.49857224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpD,23820,Wulfsfelde,Landstraße,25,,53.96221057,10.50075761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpE,23820,Wulfsfelde,Landstraße,25,a,53.96233347,10.50094271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpF,23820,Wulfsfelde,Landstraße,26,,53.95997759,10.49937526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpH,23820,Wulfsfelde,Landstraße,29,,53.96267275,10.50204805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpI,23820,Wulfsfelde,Landstraße,3,,53.96080402,10.49532262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpJ,23820,Wulfsfelde,Landstraße,30,,53.96026274,10.50004553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpK,23820,Wulfsfelde,Landstraße,32,,53.96066772,10.50010262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpL,23820,Wulfsfelde,Landstraße,33,,53.9628822,10.50287198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpM,23820,Wulfsfelde,Landstraße,34,,53.96134441,10.50028543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpN,23820,Wulfsfelde,Landstraße,34,a,53.96170104,10.50061402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpO,23820,Wulfsfelde,Landstraße,36,,53.96181785,10.50082781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpP,23820,Wulfsfelde,Landstraße,37,,53.96309819,10.50353199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpQ,23820,Wulfsfelde,Landstraße,39,,53.96319445,10.50396602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpR,23820,Wulfsfelde,Landstraße,4,,53.96069837,10.49361821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpS,23820,Wulfsfelde,Landstraße,40,,53.96209235,10.50160789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpT,23820,Wulfsfelde,Landstraße,41,,53.96329284,10.50431899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpU,23820,Wulfsfelde,Landstraße,42,,53.96243433,10.50216218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpV,23820,Wulfsfelde,Landstraße,43,,53.96338797,10.50460477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpW,23820,Wulfsfelde,Landstraße,47,,53.96347483,10.50490312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpX,23820,Wulfsfelde,Landstraße,49,,53.96363484,10.50518233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpY,23820,Wulfsfelde,Landstraße,5,,53.96046359,10.49592969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpZ,23820,Wulfsfelde,Landstraße,51,,53.96366182,10.50541337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpa,23820,Wulfsfelde,Moordiek,23,,53.97832194,10.50598477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpb,23820,Wulfsfelde,Moordiek,3,,53.97426247,10.50399015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpc,23820,Wulfsfelde,Moordiek,9,,53.97547784,10.5059686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpd,23820,Wulfsfelde,A'n Diek,1,,53.96270934,10.50132483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpe,23820,Wulfsfelde,A'n Diek,3,,53.96305375,10.50094517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpf,23820,Wulfsfelde,A'n Diek,3,a,53.96324839,10.50081871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpg,23820,Wulfsfelde,A'n Diek,4,,53.96304564,10.50182772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGph,23820,Wulfsfelde,A'n Diek,5,,53.9632691,10.50123052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpi,23820,Wulfsfelde,A'n Diek,6,,53.96335944,10.50181541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpj,23820,Wulfsfelde,Landstraße,1,,53.96086577,10.49459264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpk,23820,Wulfsfelde,Landstraße,1,a,53.96098763,10.49421501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpl,23820,Wulfsfelde,Landstraße,1,b,53.96102217,10.49374432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpm,23820,Wulfsfelde,Landstraße,1,c,53.96105538,10.49327601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpn,23820,Wulfsfelde,Landstraße,10,,53.96013097,10.49416931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpo,23820,Wulfsfelde,Landstraße,10,a,53.95997445,10.49441887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpp,23820,Wulfsfelde,Landstraße,10,c,53.96003118,10.49500279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpq,23820,Wulfsfelde,Landstraße,12,,53.96004083,10.49542466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpr,23820,Wulfsfelde,Landstraße,12,a,53.95983789,10.49528576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGps,23820,Wulfsfelde,Landstraße,14,,53.96007173,10.49597521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpt,23820,Wulfsfelde,Landstraße,15,,53.96030397,10.49947448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpu,23820,Wulfsfelde,Landstraße,16,,53.96010842,10.49660745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpv,23820,Wulfsfelde,Landstraße,17,,53.96148021,10.49976105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpw,23820,Wulfsfelde,Landstraße,18,,53.96014925,10.49720432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpx,23820,Wulfsfelde,Landstraße,19,,53.96168222,10.50003325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpy,23820,Wulfsfelde,Landstraße,2,,53.96064311,10.49324914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGpz,23820,Wulfsfelde,Landstraße,21,,53.96184453,10.50027949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq0,23820,Wulfsfelde,Landstraße,6,,53.96072418,10.49430793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq1,23820,Wulfsfelde,Landstraße,7,,53.96030976,10.49663549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq2,23820,Wulfsfelde,Landstraße,8,,53.96069229,10.49503012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq3,23820,Wulfsfelde,Landstraße,8,a,53.96052413,10.49524096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq4,23820,Wulfsfelde,Steenkamp,2,,53.95981855,10.50023655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq5,23820,Wulfsfelde,Steenkamp,4,,53.95946371,10.50134542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq6,23820,Wulfsfelde,Schippbrookredder,1,,53.96114038,10.49931259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq7,23820,Wulfsfelde,Zum Wiesengrund,1,,53.95950583,10.49673093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq8,23820,Wulfsfelde,Zum Wiesengrund,2,,53.9597656,10.49625313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGq9,23820,Wulfsfelde,Zum Wiesengrund,3,,53.95928083,10.49689224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqA,23820,Wulfsfelde,Neukoppeler Straße,4,,53.93884834,10.4933305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqB,23820,Wulfsfelde,Neukoppeler Straße,6,,53.93889125,10.49390775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqC,23820,Wulfsfelde,Neukoppeler Straße,8,a,53.93897667,10.4944049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqD,23820,Wulfsfelde,Neukoppeler Straße,8,b,53.93895827,10.49450805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqE,23820,Wulfsfelde,Pronstorfer Straße,1,,53.93522179,10.4853932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqF,23820,Wulfsfelde,Pronstorfer Straße,1,a,53.93572272,10.4855904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqG,23820,Wulfsfelde,Pronstorfer Straße,1,b,53.93603866,10.48577575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqH,23820,Wulfsfelde,Pronstorfer Straße,1,c,53.93625738,10.48593562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqI,23820,Wulfsfelde,Pronstorfer Straße,1,d,53.93639019,10.48585146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqJ,23820,Wulfsfelde,Pronstorfer Straße,10,,53.93668131,10.48711787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqK,23820,Wulfsfelde,Pronstorfer Straße,11,,53.93817489,10.48910403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqL,23820,Wulfsfelde,Pronstorfer Straße,12,,53.93745279,10.48810215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqM,23820,Wulfsfelde,Pronstorfer Straße,13,,53.93827323,10.4894303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqN,23820,Wulfsfelde,Pronstorfer Straße,14,,53.93778622,10.4894225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqO,23820,Wulfsfelde,Pronstorfer Straße,15,,53.93847009,10.48980859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqP,23820,Wulfsfelde,Pronstorfer Straße,16,,53.93905698,10.49092618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqQ,23820,Wulfsfelde,Pronstorfer Straße,17,,53.93881873,10.49051853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqR,23820,Wulfsfelde,Pronstorfer Straße,18,,53.93975615,10.49028637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqS,23820,Wulfsfelde,Pronstorfer Straße,19,,53.9395909,10.48923194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqT,23820,Wulfsfelde,Pronstorfer Straße,19,a,53.93917261,10.48947227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqU,23820,Wulfsfelde,Pronstorfer Straße,2,,53.93345543,10.48539399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqV,23820,Wulfsfelde,Pronstorfer Straße,20,,53.94004488,10.48950437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqW,23820,Wulfsfelde,Pronstorfer Straße,21,,53.93977744,10.48924073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqX,23820,Wulfsfelde,Pronstorfer Straße,22,,53.94026402,10.48970446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqY,23820,Wulfsfelde,Pronstorfer Straße,22,a,53.9405521,10.4896546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqZ,23820,Wulfsfelde,Pronstorfer Straße,24,,53.94247806,10.49043498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqb,23820,Wulfsfelde,Zum Wiesengrund,6,,53.95905491,10.49663342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqc,23820,Wulfsfelde,Gärtnergasse,1,,53.94064116,10.48623079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqd,23820,Wulfsfelde,Gärtnergasse,1,a,53.93971368,10.48869066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqe,23820,Wulfsfelde,Gärtnergasse,10,,53.94009431,10.48666632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqf,23820,Wulfsfelde,Gärtnergasse,2,,53.94009626,10.48887603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqg,23820,Wulfsfelde,Gärtnergasse,2,a,53.94032567,10.48845942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqh,23820,Wulfsfelde,Gärtnergasse,4,,53.94022184,10.48808154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqi,23820,Wulfsfelde,Gärtnergasse,6,,53.94040172,10.48788233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqj,23820,Wulfsfelde,Gärtnergasse,8,,53.94042218,10.48741099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqk,23820,Wulfsfelde,Löthenweg,1,,53.93866359,10.4911796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGql,23820,Wulfsfelde,Löthenweg,11,,53.93617275,10.49275725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqm,23820,Wulfsfelde,Löthenweg,2,,53.93799811,10.49109828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqn,23820,Wulfsfelde,Löthenweg,3,,53.93837799,10.49147429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqo,23820,Wulfsfelde,Löthenweg,4,,53.93756494,10.49135163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqp,23820,Wulfsfelde,Löthenweg,5,,53.9381825,10.49143101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqq,23820,Wulfsfelde,Löthenweg,6,,53.93716843,10.49144598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqr,23820,Wulfsfelde,Löthenweg,7,,53.93714585,10.49183795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqs,23820,Wulfsfelde,Löthenweg,9,,53.9365416,10.49229727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqt,23820,Wulfsfelde,Neukoppeler Straße,1,,53.93894709,10.49155275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqu,23820,Wulfsfelde,Neukoppeler Straße,10,,53.93838345,10.49504277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqv,23820,Wulfsfelde,Neukoppeler Straße,11,,53.93940659,10.4946461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqw,23820,Wulfsfelde,Neukoppeler Straße,15,,53.93927725,10.4995342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqx,23820,Wulfsfelde,Neukoppeler Straße,19,,53.93922976,10.49509079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqy,23820,Wulfsfelde,Neukoppeler Straße,2,,53.93864728,10.49189877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGqz,23820,Wulfsfelde,Neukoppeler Straße,3,,53.93928714,10.49391454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr0,23820,Wulfsfelde,Pronstorfer Straße,26,,53.94285181,10.49025136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr1,23820,Wulfsfelde,Pronstorfer Straße,27,,53.94214741,10.48973239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr2,23820,Wulfsfelde,Pronstorfer Straße,29,,53.94244543,10.48980061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr3,23820,Wulfsfelde,Pronstorfer Straße,3,,53.93696266,10.48679533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr4,23820,Wulfsfelde,Pronstorfer Straße,3,a,53.93704153,10.48621878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr5,23820,Wulfsfelde,Pronstorfer Straße,31,,53.94429849,10.48441094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr6,23820,Wulfsfelde,Pronstorfer Straße,33,,53.94676222,10.48171776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr7,23820,Wulfsfelde,Pronstorfer Straße,35,,53.94721723,10.4814679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr8,23820,Wulfsfelde,Pronstorfer Straße,37,,53.94921885,10.4812576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGr9,23820,Wulfsfelde,Pronstorfer Straße,4,,53.93487511,10.48622596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrA,23820,Wulfsfelde,Zum Grund,9,,53.93338377,10.51382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrB,23820,Wulfsfelde,An der Kirche,1,,53.95813154,10.47167452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrC,23820,Wulfsfelde,An der Kirche,2,,53.95798756,10.4725245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrD,23820,Wulfsfelde,An der Kirche,4,,53.95840396,10.47290448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrE,23820,Wulfsfelde,Gutshof,1,,53.95573598,10.46624363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrF,23820,Wulfsfelde,Heistkampweg,1,,53.95613846,10.47031824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrG,23820,Wulfsfelde,Heistkampweg,2,,53.95659461,10.4731638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrH,23820,Wulfsfelde,Heistkampweg,4,,53.95657941,10.47282834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrI,23820,Wulfsfelde,Heistkampweg,6,,53.95652947,10.47256786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrJ,23820,Wulfsfelde,Holm,4,,53.94683186,10.46304113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrK,23820,Wulfsfelde,Lindenstraße,1,,53.95716931,10.47039034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrL,23820,Wulfsfelde,Lindenstraße,10,,53.95738379,10.46927462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrM,23820,Wulfsfelde,Lindenstraße,14,,53.95873847,10.46732939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrN,23820,Wulfsfelde,Lindenstraße,16,,53.95897652,10.46668438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrO,23820,Wulfsfelde,Lindenstraße,18,,53.95934029,10.46615675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrP,23820,Wulfsfelde,Lindenstraße,2,,53.95662976,10.47418917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrQ,23820,Wulfsfelde,Lindenstraße,3,,53.95719864,10.46967273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrR,23820,Wulfsfelde,Lindenstraße,4,,53.9568881,10.47365055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrS,23820,Wulfsfelde,Lindenstraße,5,,53.95686119,10.46912633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrT,23820,Wulfsfelde,Lindenstraße,6,,53.95732622,10.47229938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrU,23820,Wulfsfelde,Lindenstraße,7,,53.95761355,10.46711323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrV,23820,Wulfsfelde,Lindenstraße,7,a,53.95785718,10.46682869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrW,23820,Wulfsfelde,Lindenstraße,8,,53.95741176,10.46983412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrX,23820,Wulfsfelde,Lindenstraße,9,,53.95804683,10.46655102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrY,23820,Wulfsfelde,Steinrade,1,,53.97341306,10.46529482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrZ,23820,Wulfsfelde,Steinrade,1,a,53.97358564,10.46529265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrb,23820,Wulfsfelde,Pronstorfer Straße,8,,53.93609352,10.48705905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrc,23820,Wulfsfelde,Rösinger Weg,1,,53.94266471,10.49099105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrd,23820,Wulfsfelde,Rösinger Weg,1,a,53.94247874,10.49057487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGre,23820,Wulfsfelde,Rösinger Weg,11,,53.94704812,10.50571257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrf,23820,Wulfsfelde,Rösinger Weg,2,,53.94690967,10.51188689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrg,23820,Wulfsfelde,Rösinger Weg,3,,53.94277604,10.49134267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrh,23820,Wulfsfelde,Rösinger Weg,5,,53.94286279,10.49161501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGri,23820,Wulfsfelde,Rösinger Weg,5,a,53.94298845,10.4920262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrj,23820,Wulfsfelde,Rösinger Weg,7,,53.94319932,10.49249684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrk,23820,Wulfsfelde,Rösinger Weg,7,a,53.94333321,10.49302346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrl,23820,Wulfsfelde,Rösinger Weg,9,,53.94341721,10.49328695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrm,23820,Wulfsfelde,Am Wald,1,,53.93312072,10.506993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrn,23820,Wulfsfelde,Am Wald,15,,53.92692459,10.52033763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGro,23820,Wulfsfelde,Am Wald,2,,53.92894839,10.51330894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrp,23820,Wulfsfelde,Am Wald,8,,53.92719604,10.51781126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrq,23820,Wulfsfelde,Am Wald,9,,53.92837494,10.51643921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrr,23820,Wulfsfelde,Birkenweg,3,,53.93262678,10.51489945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrs,23820,Wulfsfelde,Birkenweg,4,,53.93249778,10.51445635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrt,23820,Wulfsfelde,Birkenweg,5,,53.93261055,10.51618889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGru,23820,Wulfsfelde,Birkenweg,6,,53.93185137,10.51602467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrv,23820,Wulfsfelde,Zum Grund,1,,53.93185017,10.51284275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrw,23820,Wulfsfelde,Zum Grund,11,,53.93385847,10.51420137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrx,23820,Wulfsfelde,Zum Grund,3,,53.93196222,10.5129192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGry,23820,Wulfsfelde,Zum Grund,5,,53.93282367,10.51337402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGrz,23820,Wulfsfelde,Zum Grund,7,,53.93303066,10.51353873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs0,23820,Wulfsfelde,Steinrade,2,,53.96954467,10.4655681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs1,23820,Wulfsfelde,Steinrade,2,a,53.96946316,10.46562063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs2,23820,Wulfsfelde,Steinrade,3,,53.97405277,10.46531163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs3,23820,Wulfsfelde,Ahornweg,10,,53.92337633,10.52751333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs4,23820,Wulfsfelde,Ahornweg,11,,53.92391132,10.5274735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs5,23820,Wulfsfelde,Ahornweg,12,,53.92348837,10.52786391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs6,23820,Wulfsfelde,Ahornweg,12,a,53.92345554,10.52793796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs7,23820,Wulfsfelde,Ahornweg,13,,53.92376822,10.52762711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs8,23820,Wulfsfelde,Ahornweg,14,,53.9233167,10.52806086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGs9,23820,Wulfsfelde,Ahornweg,15,,53.92373412,10.52797381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsA,23820,Wulfsfelde,Butterstieg,3,,53.93019941,10.53167545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsB,23820,Wulfsfelde,Butterstieg,4,,53.92740706,10.53076713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsC,23820,Wulfsfelde,Butterstieg,6,,53.9273221,10.5319238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsD,23820,Wulfsfelde,Butterstieg,8,,53.92831622,10.53162863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsE,23820,Wulfsfelde,Eichenweg,1,,53.92243884,10.52721861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsF,23820,Wulfsfelde,Eichenweg,10,,53.92273189,10.53220843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsG,23820,Wulfsfelde,Eichenweg,11,,53.92300555,10.53185437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsH,23820,Wulfsfelde,Eichenweg,12,,53.92272312,10.53252704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsI,23820,Wulfsfelde,Eichenweg,13,,53.92309848,10.53225977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsJ,23820,Wulfsfelde,Eichenweg,15,,53.92301821,10.5331743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsK,23820,Wulfsfelde,Eichenweg,16,,53.9227528,10.53306436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsL,23820,Wulfsfelde,Eichenweg,18,,53.92276764,10.53374441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsM,23820,Wulfsfelde,Eichenweg,20,,53.92295029,10.53404042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsN,23820,Wulfsfelde,Eichenweg,5,,53.92279717,10.52963236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsO,23820,Wulfsfelde,Eichenweg,7,,53.92282918,10.52991958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsP,23820,Wulfsfelde,Eichenweg,8,,53.92254724,10.53174206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsQ,23820,Wulfsfelde,Eichenweg,9,,53.92283886,10.530218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsS,23820,Wulfsfelde,Grüner Weg,11,,53.92395284,10.5226354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsT,23820,Wulfsfelde,Grüner Weg,13,,53.92450568,10.52222154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsU,23820,Wulfsfelde,Grüner Weg,15,,53.92465851,10.5220579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsV,23820,Wulfsfelde,Grüner Weg,17,,53.92483177,10.52192441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsW,23820,Wulfsfelde,Grüner Weg,19,,53.92499171,10.52176628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsX,23820,Wulfsfelde,Grüner Weg,2,,53.92388189,10.52373539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsY,23820,Wulfsfelde,Grüner Weg,21,,53.92525424,10.52163163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsZ,23820,Wulfsfelde,Grüner Weg,23,,53.92530689,10.52171462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsa,23820,Wulfsfelde,Ahornweg,17,,53.92354508,10.52821233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsb,23820,Wulfsfelde,Ahornweg,19,,53.92340521,10.52846289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsc,23820,Wulfsfelde,Ahornweg,21,,53.9232725,10.52849705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsd,23820,Wulfsfelde,Ahornweg,5,,53.92342967,10.52703869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGse,23820,Wulfsfelde,Ahornweg,5,a,53.92345933,10.52711224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsf,23820,Wulfsfelde,Ahornweg,6,,53.92317637,10.52701729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsg,23820,Wulfsfelde,Ahornweg,6,a,53.92320248,10.52707994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsh,23820,Wulfsfelde,Ahornweg,7,,53.923586,10.52737617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsi,23820,Wulfsfelde,Ahornweg,7,a,53.92362693,10.52733024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsj,23820,Wulfsfelde,Ahornweg,8,,53.92327486,10.52726314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsk,23820,Wulfsfelde,Ahornweg,9,,53.92371316,10.52714698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsl,23820,Wulfsfelde,Ahornweg,9,a,53.92372773,10.52721263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsm,23820,Wulfsfelde,Am Bahndamm,1,,53.92551218,10.52323532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsn,23820,Wulfsfelde,Am Bahndamm,2,,53.92569267,10.5236826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGso,23820,Wulfsfelde,Am Bahndamm,2,a,53.92568694,10.52457446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsp,23820,Wulfsfelde,Am Bahndamm,2,b,53.92573577,10.52301516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsq,23820,Wulfsfelde,Am Bahndamm,3,,53.92550839,10.52260569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsr,23820,Wulfsfelde,Am Bahndamm,4,,53.92578502,10.52196358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGss,23820,Wulfsfelde,Am Bahndamm,5,,53.92551825,10.52218111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGst,23820,Wulfsfelde,Am Bahndamm,5,a,53.9254988,10.52157249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsu,23820,Wulfsfelde,Am Bahndamm,5,b,53.92571745,10.52149188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsv,23820,Wulfsfelde,Am Bahndamm,6,,53.92606326,10.52180648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsw,23820,Wulfsfelde,Am Bahndamm,7,,53.9259639,10.52138345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsx,23820,Wulfsfelde,Am Bahndamm,9,,53.92626591,10.52123437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsy,23820,Wulfsfelde,Butterstieg,1,,53.92715905,10.52864479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGsz,23820,Wulfsfelde,Butterstieg,2,a,53.92691738,10.52909411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt0,23820,Wulfsfelde,Grüner Weg,4,,53.92465393,10.52249209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt1,23820,Wulfsfelde,Grüner Weg,7,,53.92367866,10.52314399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt2,23820,Wulfsfelde,Grüner Weg,9,,53.9238036,10.52282968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt3,23820,Wulfsfelde,Hauptstraße,1,,53.92358848,10.5251342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt4,23820,Wulfsfelde,Hauptstraße,1,a,53.92537431,10.52659156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt5,23820,Wulfsfelde,Hauptstraße,10,,53.92193585,10.52635858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt6,23820,Wulfsfelde,Hauptstraße,2,,53.92372358,10.52458264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt7,23820,Wulfsfelde,Hauptstraße,3,,53.92312917,10.52543185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt8,23820,Wulfsfelde,Hauptstraße,3,a,53.92336725,10.52510945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGt9,23820,Wulfsfelde,Hauptstraße,4,,53.92292934,10.52533428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtA,23820,Wulfsfelde,Kastanienweg,4,,53.92335127,10.53135292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtB,23820,Wulfsfelde,Kastanienweg,6,,53.9239155,10.53098294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtC,23820,Wulfsfelde,Ligusterstraße,1,,53.92428359,10.52604766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtD,23820,Wulfsfelde,Ligusterstraße,1,b,53.92444601,10.52654079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtE,23820,Wulfsfelde,Ligusterstraße,1,c,53.92438893,10.52656808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtF,23820,Wulfsfelde,Ligusterstraße,2,,53.92407009,10.52593231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtG,23820,Wulfsfelde,Ligusterstraße,3,,53.92417066,10.52630636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtH,23820,Wulfsfelde,Ligusterstraße,4,,53.9239795,10.52618299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtI,23820,Wulfsfelde,Ligusterstraße,4,a,53.9235864,10.5258193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtJ,23820,Wulfsfelde,Ligusterstraße,5,,53.92393527,10.52672589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtK,23820,Wulfsfelde,Ligusterstraße,5,a,53.92419873,10.52686867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtL,23820,Wulfsfelde,Ligusterstraße,6,,53.92385468,10.52648264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtM,23820,Wulfsfelde,Pappelweg,1,,53.92409447,10.5230949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtN,23820,Wulfsfelde,Pappelweg,2,,53.92433847,10.52383394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtO,23820,Wulfsfelde,Pappelweg,2,a,53.92452357,10.52407011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtP,23820,Wulfsfelde,Pappelweg,3,,53.92435415,10.52336113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtQ,23820,Wulfsfelde,Pappelweg,3,b,53.92471798,10.52289187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtR,23820,Wulfsfelde,Pappelweg,4,,53.92471099,10.52401189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtS,23820,Wulfsfelde,Pappelweg,5,,53.92462272,10.52351826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtY,23820,Wulfsfelde,Am Dorfplatz,10,,53.97914443,10.47451671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtZ,23820,Wulfsfelde,Am Dorfplatz,11,,53.97940531,10.47517912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGta,23820,Wulfsfelde,Hauptstraße,5,,53.92279703,10.52588208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtb,23820,Wulfsfelde,Hauptstraße,6,,53.92250156,10.52568785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtc,23820,Wulfsfelde,Hauptstraße,7,,53.92261364,10.52631961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtd,23820,Wulfsfelde,Hauptstraße,8,,53.92233397,10.52598183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGte,23820,Wulfsfelde,Hauptstraße,8,a,53.9223035,10.52584289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtf,23820,Wulfsfelde,Hauptstraße,8,b,53.92214792,10.52614063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtg,23820,Wulfsfelde,Hauptstraße,8,c,53.92211888,10.52601662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGth,23820,Wulfsfelde,Hauptstraße,9,,53.92254552,10.52690533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGti,23820,Wulfsfelde,Kamp,1,,53.9250274,10.52548176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtj,23820,Wulfsfelde,Kamp,10,,53.92517316,10.52380039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtk,23820,Wulfsfelde,Kamp,11,,53.92500288,10.5233829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtl,23820,Wulfsfelde,Kamp,12,,53.92528209,10.52342691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtm,23820,Wulfsfelde,Kamp,13,,53.92506129,10.52302837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtn,23820,Wulfsfelde,Kamp,14,,53.92531464,10.52257052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGto,23820,Wulfsfelde,Kamp,15,,53.92514464,10.52262149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtp,23820,Wulfsfelde,Kamp,2,,53.92527772,10.52554368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtq,23820,Wulfsfelde,Kamp,3,,53.92498244,10.52503139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtr,23820,Wulfsfelde,Kamp,4,,53.92526588,10.52492277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGts,23820,Wulfsfelde,Kamp,5,,53.92493453,10.52471703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtt,23820,Wulfsfelde,Kamp,6,,53.92521844,10.52453926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtu,23820,Wulfsfelde,Kamp,7,,53.92493642,10.52429985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtv,23820,Wulfsfelde,Kamp,8,,53.92519355,10.52414647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtw,23820,Wulfsfelde,Kamp,9,,53.92499471,10.52365718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtx,23820,Wulfsfelde,Kamp,9,a,53.92482744,10.52357261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGty,23820,Wulfsfelde,Kastanienweg,1,,53.92341203,10.53076588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGtz,23820,Wulfsfelde,Kastanienweg,3,,53.92361807,10.53063093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu0,23820,Wulfsfelde,Am Dorfplatz,12,,53.97904915,10.47485464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu1,23820,Wulfsfelde,Am Dorfplatz,14,,53.97913467,10.47592307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu2,23820,Wulfsfelde,Am Dorfplatz,2,,53.97973587,10.47128099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu3,23820,Wulfsfelde,Am Dorfplatz,2,a,53.97937719,10.47178945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu4,23820,Wulfsfelde,Am Dorfplatz,2,b,53.97976692,10.47099607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu5,23820,Wulfsfelde,Am Dorfplatz,3,,53.97997198,10.47211746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu6,23820,Wulfsfelde,Am Dorfplatz,3,a,53.97996476,10.47235821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu7,23820,Wulfsfelde,Am Dorfplatz,4,,53.97971904,10.47218829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu8,23820,Wulfsfelde,Am Dorfplatz,5,,53.97990386,10.47275382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGu9,23820,Wulfsfelde,Am Dorfplatz,5,a,53.97983409,10.47300524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuA,23820,Wulfsfelde,Kornhof,2,a,53.9809014,10.46998269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuB,23820,Wulfsfelde,Kornhof,2,b,53.98094803,10.46998755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuC,23820,Wulfsfelde,Kornhof,3,,53.98101918,10.46824782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuD,23820,Wulfsfelde,Kornhof,3,a,53.9811597,10.46903233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuE,23820,Wulfsfelde,Kornhof,3,b,53.98116824,10.46889275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuF,23820,Wulfsfelde,Kornhof,5,,53.98081941,10.46856982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuG,23820,Wulfsfelde,Kornhof,6,,53.9808452,10.46955984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuH,23820,Wulfsfelde,Kornhof,7,,53.98075789,10.46859361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuI,23820,Wulfsfelde,Kornhof,9,,53.98057134,10.46851394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuJ,23820,Wulfsfelde,Mühlenstraße,11,,53.97960239,10.46762796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuK,23820,Wulfsfelde,Mühlenstraße,12,,53.97903213,10.46954298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuL,23820,Wulfsfelde,Mühlenstraße,14,,53.97962484,10.47002703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuM,23820,Wulfsfelde,Mühlenstraße,15,,53.97972236,10.46891041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuN,23820,Wulfsfelde,Mühlenstraße,16,,53.97918469,10.47049884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuO,23820,Wulfsfelde,Mühlenstraße,16,a,53.97973394,10.47043424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuP,23820,Wulfsfelde,Mühlenstraße,17,,53.97983969,10.4694192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuQ,23820,Wulfsfelde,Mühlenstraße,18,,53.98186004,10.47410643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuR,23820,Wulfsfelde,Mühlenstraße,19,,53.97997777,10.46988259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuS,23820,Wulfsfelde,Mühlenstraße,2,,53.97783138,10.4668127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuT,23820,Wulfsfelde,Mühlenstraße,21,,53.98018681,10.47052917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuU,23820,Wulfsfelde,Mühlenstraße,23,,53.98025494,10.47105382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuV,23820,Wulfsfelde,Mühlenstraße,25,,53.98052105,10.47190091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuW,23820,Wulfsfelde,Mühlenstraße,26,,53.98407634,10.47495548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuX,23820,Wulfsfelde,Mühlenstraße,27,,53.98068621,10.47209755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuY,23820,Wulfsfelde,Mühlenstraße,27,a,53.98106076,10.47259727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuZ,23820,Wulfsfelde,Mühlenstraße,28,,53.98469859,10.4751954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGua,23820,Wulfsfelde,Am Dorfplatz,6,,53.97927058,10.47253542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGub,23820,Wulfsfelde,Am Dorfplatz,6,a,53.97959378,10.47291161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuc,23820,Wulfsfelde,Am Dorfplatz,7,,53.9796579,10.4737821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGud,23820,Wulfsfelde,Am Dorfplatz,8,,53.97937304,10.47377412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGue,23820,Wulfsfelde,Am Dorfplatz,9,,53.97934266,10.47464351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuf,23820,Wulfsfelde,Dreiangel,1,,53.98080088,10.47321671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGug,23820,Wulfsfelde,Dreiangel,1,a,53.98080088,10.47321671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuh,23820,Wulfsfelde,Dreiangel,2,,53.98048674,10.47290667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGui,23820,Wulfsfelde,Dreiangel,2,a,53.98060922,10.47275713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuj,23820,Wulfsfelde,Dreiangel,3,,53.98068086,10.47350647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuk,23820,Wulfsfelde,Dreiangel,4,,53.98037786,10.4731648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGul,23820,Wulfsfelde,Dreiangel,5,,53.98044295,10.47353266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGum,23820,Wulfsfelde,Dreiangel,6,,53.98023847,10.47357889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGun,23820,Wulfsfelde,Gartenstraße,1,,53.98334833,10.47450217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuo,23820,Wulfsfelde,Gartenstraße,2,,53.98312513,10.47447901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGup,23820,Wulfsfelde,Gartenstraße,2,a,53.98303722,10.47417251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuq,23820,Wulfsfelde,Gartenstraße,3,,53.98358099,10.47488932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGur,23820,Wulfsfelde,Gartenstraße,4,,53.98315962,10.47482787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGus,23820,Wulfsfelde,Gartenstraße,5,,53.98363708,10.47523702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGut,23820,Wulfsfelde,Gartenstraße,6,,53.9833969,10.47514306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuu,23820,Wulfsfelde,Hilbertskamp,2,,53.97864048,10.46304407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuv,23820,Wulfsfelde,Im Winkel,1,,53.97926102,10.4626282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuw,23820,Wulfsfelde,Im Winkel,3,,53.97924531,10.46184743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGux,23820,Wulfsfelde,Kornhof,1,,53.98070347,10.46917306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuy,23820,Wulfsfelde,Kornhof,11,,53.98050845,10.46851674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGuz,23820,Wulfsfelde,Kornhof,2,,53.98054351,10.47000001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv0,23820,Wulfsfelde,Mühlenstraße,3,,53.97848092,10.46674904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv1,23820,Wulfsfelde,Mühlenstraße,30,,53.98507931,10.47514109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv2,23820,Wulfsfelde,Mühlenstraße,33,,53.98150853,10.47337919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv3,23820,Wulfsfelde,Mühlenstraße,33,a,53.98170084,10.47368691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv4,23820,Wulfsfelde,Mühlenstraße,35,,53.98194234,10.47364632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv5,23820,Wulfsfelde,Mühlenstraße,35,a,53.98224305,10.47364467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv6,23820,Wulfsfelde,Mühlenstraße,37,,53.98254145,10.47328758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv7,23820,Wulfsfelde,Mühlenstraße,37,a,53.98302344,10.47356871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv8,23820,Wulfsfelde,Mühlenstraße,37,b,53.98321386,10.47369206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGv9,23820,Wulfsfelde,Mühlenstraße,37,c,53.98326797,10.47367556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvA,23820,Wulfsfelde,Wieschhof,1,,53.97779334,10.46558418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvB,23820,Wulfsfelde,Wieschhof,1,a,53.97762162,10.46509172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvC,23820,Wulfsfelde,Wieschhof,1,b,53.97791967,10.46483897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvD,23820,Wulfsfelde,Wieschhof,11,,53.97958532,10.46343716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvE,23820,Wulfsfelde,Wieschhof,11,a,53.97956626,10.46299645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvF,23820,Wulfsfelde,Wieschhof,11,b,53.9795037,10.4630351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvG,23820,Wulfsfelde,Wieschhof,2,,53.97847132,10.46638998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvH,23820,Wulfsfelde,Wieschhof,3,,53.97828461,10.46465744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvI,23820,Wulfsfelde,Wieschhof,4,,53.97837988,10.46616407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvJ,23820,Wulfsfelde,Wieschhof,5,,53.9786796,10.46437912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvK,23820,Wulfsfelde,Wieschhof,7,,53.97893612,10.46413295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvL,23820,Wulfsfelde,Wieschhof,8,,53.97808082,10.46545782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvM,23820,Wulfsfelde,Wieschhof,9,,53.97920414,10.46367963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvN,23820,Wulfsfelde,Dorfstraße,1,,53.94357641,10.53079616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvO,23820,Wulfsfelde,Dorfstraße,10,,53.94597917,10.52884551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvP,23820,Wulfsfelde,Dorfstraße,10,a,53.94597319,10.5295835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvQ,23820,Wulfsfelde,Dorfstraße,10,b,53.94584547,10.52964946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvR,23820,Wulfsfelde,Dorfstraße,11,,53.94497413,10.529295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvS,23820,Wulfsfelde,Dorfstraße,12,,53.94630531,10.52870794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvT,23820,Wulfsfelde,Dorfstraße,12,a,53.94649744,10.52875657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvU,23820,Wulfsfelde,Dorfstraße,13,a,53.94515945,10.52911392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvV,23820,Wulfsfelde,Dorfstraße,13,b,53.94520417,10.52902099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvW,23820,Wulfsfelde,Dorfstraße,14,,53.94668876,10.52871835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvX,23820,Wulfsfelde,Dorfstraße,15,,53.94517252,10.52852543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvY,23820,Wulfsfelde,Dorfstraße,16,a,53.94700464,10.5284228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvZ,23820,Wulfsfelde,Dorfstraße,16,b,53.94712825,10.52838689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGva,23820,Wulfsfelde,Mühlenstraße,37,d,53.98339611,10.47376731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvb,23820,Wulfsfelde,Mühlenstraße,37,e,53.98345557,10.47375065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvc,23820,Wulfsfelde,Mühlenstraße,37,f,53.98359509,10.4738796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvd,23820,Wulfsfelde,Mühlenstraße,37,g,53.98365283,10.4738619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGve,23820,Wulfsfelde,Mühlenstraße,39,,53.98382056,10.4737742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvf,23820,Wulfsfelde,Mühlenstraße,39,a,53.98380575,10.47363647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvg,23820,Wulfsfelde,Mühlenstraße,39,b,53.98377723,10.47320501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvh,23820,Wulfsfelde,Mühlenstraße,4,,53.97845016,10.46765485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvi,23820,Wulfsfelde,Mühlenstraße,5,,53.97867346,10.46722685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvj,23820,Wulfsfelde,Mühlenstraße,6,,53.97888118,10.46817743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvk,23820,Wulfsfelde,Mühlenstraße,6,a,53.97865425,10.46797856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvl,23820,Wulfsfelde,Mühlenstraße,7,,53.97910328,10.46762215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvm,23820,Wulfsfelde,Mühlenstraße,9,,53.9793113,10.46808088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvn,23820,Wulfsfelde,Querweg,1,,53.97762157,10.46580896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvo,23820,Wulfsfelde,Schmiederedder,10,,53.98115217,10.47446672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvp,23820,Wulfsfelde,Schmiederedder,11,,53.98085725,10.47380456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvq,23820,Wulfsfelde,Schmiederedder,13,,53.9810919,10.47376016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvr,23820,Wulfsfelde,Schmiederedder,2,,53.97960347,10.47435012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvs,23820,Wulfsfelde,Schmiederedder,3,,53.98003558,10.47435003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvt,23820,Wulfsfelde,Schmiederedder,4,,53.97981512,10.47502808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvu,23820,Wulfsfelde,Schmiederedder,5,,53.98022186,10.47425365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvv,23820,Wulfsfelde,Schmiederedder,6,,53.98030273,10.47465706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvw,23820,Wulfsfelde,Schmiederedder,7,,53.98048188,10.47410725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvx,23820,Wulfsfelde,Schmiederedder,8,,53.98056639,10.4745603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvy,23820,Wulfsfelde,Schmiederedder,8,b,53.98093677,10.47426739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGvz,23820,Wulfsfelde,Schmiederedder,9,,53.9806994,10.47396597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw0,23820,Wulfsfelde,Dorfstraße,16,c,53.94738856,10.52858639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw1,23820,Wulfsfelde,Dorfstraße,16,d,53.94729423,10.52886108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw2,23820,Wulfsfelde,Dorfstraße,16,e,53.94727397,10.52861961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw3,23820,Wulfsfelde,Dorfstraße,17,,53.94542552,10.52878808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw4,23820,Wulfsfelde,Dorfstraße,17,a,53.94553807,10.52861011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw5,23820,Wulfsfelde,Dorfstraße,17,b,53.94566287,10.52850652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw6,23820,Wulfsfelde,Dorfstraße,18,,53.94771496,10.5284291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw7,23820,Wulfsfelde,Dorfstraße,19,,53.94662987,10.52822246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw8,23820,Wulfsfelde,Dorfstraße,2,,53.93910144,10.534032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGw9,23820,Wulfsfelde,Dorfstraße,2,a,53.93864578,10.53433902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwA,23820,Wulfsfelde,Dorfstraße,42,c,53.95235252,10.52532987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwB,23820,Wulfsfelde,Dorfstraße,42,d,53.95251088,10.52577857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwC,23820,Wulfsfelde,Dorfstraße,43,,53.95090732,10.52531476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwD,23820,Wulfsfelde,Dorfstraße,44,,53.95263511,10.52525357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwE,23820,Wulfsfelde,Dorfstraße,46,,53.95305106,10.52534918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwF,23820,Wulfsfelde,Dorfstraße,47,,53.95472169,10.5243297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwG,23820,Wulfsfelde,Dorfstraße,49,,53.95524087,10.52490786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwH,23820,Wulfsfelde,Dorfstraße,50,,53.95396318,10.52549871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwI,23820,Wulfsfelde,Dorfstraße,52,,53.95413242,10.52527845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwJ,23820,Wulfsfelde,Dorfstraße,6,,53.94521113,10.52977243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwK,23820,Wulfsfelde,Dorfstraße,8,,53.94539369,10.52933729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwL,23820,Wulfsfelde,Eschenweg,12,,53.94124007,10.53391145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwM,23820,Wulfsfelde,Eschenweg,15,,53.94063369,10.53546376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwN,23820,Wulfsfelde,Eschenweg,2,,53.9426674,10.53240491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwO,23820,Wulfsfelde,Eschenweg,5,,53.94237996,10.53359922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwP,23820,Wulfsfelde,Eschenweg,7,,53.94199028,10.53401531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwQ,23820,Wulfsfelde,Lindenplatz,5,,53.93758442,10.53295266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwR,23820,Wulfsfelde,Schneiderweg,2,,53.94745792,10.52941823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwS,23820,Wulfsfelde,Schneiderweg,2,a,53.94705468,10.52917278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwT,23820,Wulfsfelde,Teichstraße,1,,53.9456943,10.52770945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwU,23820,Wulfsfelde,Teichstraße,10,,53.94604169,10.52657235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwV,23820,Wulfsfelde,Teichstraße,2,,53.946166,10.52826107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwW,23820,Wulfsfelde,Teichstraße,3,,53.94566527,10.52741426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwX,23820,Wulfsfelde,Teichstraße,4,,53.94608824,10.52767536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwY,23820,Wulfsfelde,Teichstraße,5,,53.94569983,10.5269786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwZ,23820,Wulfsfelde,Teichstraße,6,,53.94597212,10.52728279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwa,23820,Wulfsfelde,Dorfstraße,20,,53.94803876,10.52835972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwb,23820,Wulfsfelde,Dorfstraße,21,,53.94686681,10.52784786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwc,23820,Wulfsfelde,Dorfstraße,21,a,53.94702085,10.52787903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwd,23820,Wulfsfelde,Dorfstraße,23,,53.94727197,10.52787663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwe,23820,Wulfsfelde,Dorfstraße,24,,53.94871777,10.52818165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwf,23820,Wulfsfelde,Dorfstraße,25,,53.94754803,10.52778272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwg,23820,Wulfsfelde,Dorfstraße,27,,53.94796768,10.52755335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwh,23820,Wulfsfelde,Dorfstraße,28,,53.94929375,10.52758141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwi,23820,Wulfsfelde,Dorfstraße,30,,53.94981741,10.52672188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwj,23820,Wulfsfelde,Dorfstraße,31,,53.94864634,10.52770627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwk,23820,Wulfsfelde,Dorfstraße,32,,53.94999199,10.5263589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwl,23820,Wulfsfelde,Dorfstraße,33,,53.94877109,10.52705843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwm,23820,Wulfsfelde,Dorfstraße,33,a,53.94919063,10.52601599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwn,23820,Wulfsfelde,Dorfstraße,34,,53.95054766,10.526031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwo,23820,Wulfsfelde,Dorfstraße,34,a,53.95101269,10.52592093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwp,23820,Wulfsfelde,Dorfstraße,36,,53.95116102,10.52575187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwq,23820,Wulfsfelde,Dorfstraße,36,a,53.95133605,10.52562042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwr,23820,Wulfsfelde,Dorfstraße,37,,53.94956666,10.52558242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGws,23820,Wulfsfelde,Dorfstraße,38,,53.9515014,10.52554849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwt,23820,Wulfsfelde,Dorfstraße,39,,53.95003926,10.52583679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwu,23820,Wulfsfelde,Dorfstraße,40,,53.95162974,10.5253697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwv,23820,Wulfsfelde,Dorfstraße,41,,53.95069039,10.52543609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGww,23820,Wulfsfelde,Dorfstraße,41,a,53.95052481,10.52554934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwx,23820,Wulfsfelde,Dorfstraße,42,,53.95184193,10.52527245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwy,23820,Wulfsfelde,Dorfstraße,42,a,53.95197322,10.52572453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGwz,23820,Wulfsfelde,Dorfstraße,42,b,53.95216299,10.52531547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx0,23820,Wulfsfelde,Teichstraße,7,,53.94581034,10.52651186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx1,23820,Wulfsfelde,Teichstraße,8,,53.94596944,10.52697244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx2,23820,Wulfsfelde,Torfredder,1,,53.942659,10.53332593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx3,23820,Wulfsfelde,Torfredder,3,,53.94265612,10.53361917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx4,23820,Wulfsfelde,Waldweg,1,,53.95076679,10.52453689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx5,23820,Wulfsfelde,Waldweg,1,a,53.95085379,10.52493233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx6,23820,Wulfsfelde,Waldweg,2,,53.95116925,10.52508041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx7,23820,Wulfsfelde,Waldweg,4,,53.95110581,10.52476639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx8,23820,Wulfsfelde,Waldweg,6,,53.95108738,10.52437696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGx9,23820,Wulfsfelde,Moorweg,2,,53.94853075,10.52923296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGxa,23820,Wulfsfelde,Bornkamp,3,,53.95780068,10.46816296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGxb,23820,Wulfsfelde,Bornkamp,3,a,53.9578707,10.46831388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGxc,23820,Wulfsfelde,Bornkamp,5,,53.95808692,10.46814205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cGxd,23820,Wulfsfelde,Bornkamp,7,,53.95849471,10.46845974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004GglQ,23820,Wulfsfelde,Landstraße,10,b,53.96005843,10.49471294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PSpf,23820,Wulfsfelde,Landstraße,2,a,53.96060751,10.4925711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058GKs,23820,Wulfsfelde,Mühlenstraße,29,,53.98111346,10.47310907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005E7FT,23820,Wulfsfelde,Pronstorfer Straße,7,,53.93766606,10.4878613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Te6L,23820,Wulfsfelde,Schmiederedder,1,,53.97983319,10.47399832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Yg8O,23820,Wulfsfelde,Pronstorfer Straße,1,e,53.93653009,10.48598949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005e2Fh,23820,Wulfsfelde,A'n Diek,2,,53.96264882,10.50173978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sHlR,23820,Wulfsfelde,Mühlenstraße,26,a,53.98367094,10.47442366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tRts,23820,Wulfsfelde,Mühlenstraße,31,,53.98128253,10.47345657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D43,23820,Wulfsfelde,Buchenweg,7,,53.9229594,10.52849457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D46,23820,Wulfsfelde,Buchenweg,9,,53.92298244,10.52884943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4A,23820,Wulfsfelde,Buchenweg,2,,53.92288345,10.52813462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4B,23820,Wulfsfelde,Buchenweg,5,,53.92276137,10.52780714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4a,23820,Wulfsfelde,Buchenweg,11,,53.92304283,10.5292218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4e,23820,Wulfsfelde,Buchenweg,12,,53.92278498,10.5291874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4h,23820,Wulfsfelde,Buchenweg,10,,53.92283216,10.52887482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4k,23820,Wulfsfelde,Buchenweg,8,,53.92277587,10.52858282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4o,23820,Wulfsfelde,Buchenweg,6,,53.92291877,10.52756756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4p,23820,Wulfsfelde,Buchenweg,1,,53.92271081,10.52820283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4u,23820,Wulfsfelde,Buchenweg,4,,53.92301316,10.52785522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060D4v,23820,Wulfsfelde,Buchenweg,3,,53.92262111,10.52791461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069BWF,23820,Wulfsfelde,Kamp,14,a,53.92533135,10.52220264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006E88R,23820,Wulfsfelde,Gärtnergasse,2,b,53.94013777,10.48837803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TrRa,23820,Wulfsfelde,Landstraße,10,d,53.96034029,10.49455511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TrRd,23820,Wulfsfelde,Landstraße,10,e,53.9603234,10.49436473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UpmK,23820,Wulfsfelde,Zum Wiesengrund,2,b,53.95949779,10.49583338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vjLp,23820,Wulfsfelde,Grüner Weg,2,a,53.92440722,10.52270604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071OK7,23820,Wulfsfelde,Landstraße,15,a,53.96091742,10.49961855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073vye,23820,Wulfsfelde,Gutshof,3,,53.95701534,10.46776927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079JA5,23820,Wulfsfelde,Zum Wiesengrund,4,a,53.95932537,10.49649586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LND2,23820,Wulfsfelde,Dorfstraße,9,,53.94460149,10.52960488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LND7,23820,Wulfsfelde,Dorfstraße,7,,53.94446803,10.52976442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LNDc,23820,Wulfsfelde,Dorfstraße,5,,53.94438391,10.53021589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bNMH,23820,Wulfsfelde,Hauptstraße,7,a,53.9225501,10.52664394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fgON,23820,Wulfsfelde,Mühlenstraße,27,b,53.98096969,10.47196389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fgOY,23820,Wulfsfelde,Mühlenstraße,25,a,53.98069431,10.47128445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fgP3,23820,Wulfsfelde,Mühlenstraße,23,a,53.98045422,10.47130509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nTJ9,23820,Wulfsfelde,Pronstorfer Straße,7,b,53.9376375,10.48719507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007sU3o,23820,Wulfsfelde,Dorfstraße,32,a,53.95037171,10.52613129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zBSi,23820,Wulfsfelde,Eschenweg,7,a,53.94176915,10.53434882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082kkt,23820,Wulfsfelde,Pronstorfer Straße,9,,53.93797824,10.48861447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008596T,23820,Wulfsfelde,Landstraße,35,,53.96292878,10.50321902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085fsW,23820,Wulfsfelde,Zum Wiesengrund,1,a,53.9597971,10.49672051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BhN5,23820,Wulfsfelde,Hauptstraße,1,c,53.92454817,10.52624281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F5eO,23820,Wulfsfelde,Zur Gaerte,1,,53.93490298,10.4851169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IrUk,23820,Wulfsfelde,Dorfstraße,42,e,53.95214553,10.5255654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Kgqw,23820,Wulfsfelde,Westerrader Weg,2,,53.95470628,10.46890529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008LvEp,23820,Wulfsfelde,Bornkamp,9,,53.95823538,10.4686855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008LvFo,23820,Wulfsfelde,Lindenstraße,6,a,53.957497,10.47246228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008LvFq,23820,Wulfsfelde,Bornkamp,2,,53.95777141,10.46870638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008brC0,23820,Wulfsfelde,Zum Wiesengrund,4,b,53.95927423,10.49595031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008brC5,23820,Wulfsfelde,Zum Wiesengrund,4,,53.95953128,10.49639245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iJLw,23820,Wulfsfelde,Lindenstraße,12,,53.95825945,10.46732767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008pgSG,23820,Wulfsfelde,Landstraße,3,a,53.96088026,10.49498848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zHVg,23820,Wulfsfelde,Landstraße,16,a,53.96010655,10.49670782

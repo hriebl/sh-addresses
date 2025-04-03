@@ -1,0 +1,766 @@
+# Amtliche Adressen für die Postleitzahl 24626
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuG9,24626,Groß Kummerfeld,Am Ehrenmal,2,,54.05147028,10.07295836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGA,24626,Groß Kummerfeld,Am Bahnhof,24,,54.02173906,10.05533493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGB,24626,Groß Kummerfeld,Am Bahnhof,26,,54.02183484,10.05512603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGC,24626,Groß Kummerfeld,Am Bahnhof,26,a,54.02196328,10.05485182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGD,24626,Groß Kummerfeld,Am Bahnhof,28,,54.02208523,10.0545877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGF,24626,Groß Kummerfeld,Am Bahnhof,30,,54.02218537,10.05435745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGG,24626,Groß Kummerfeld,Am Bahnhof,32,,54.02243692,10.05393697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGH,24626,Groß Kummerfeld,Am Bahnhof,34,,54.02258343,10.05357095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGI,24626,Groß Kummerfeld,Am Bahnhof,34,a,54.02271184,10.05376903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGJ,24626,Groß Kummerfeld,Am Bahnhof,36,,54.02273878,10.05335593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGK,24626,Groß Kummerfeld,Am Bahnhof,38,,54.02287256,10.0530801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGL,24626,Groß Kummerfeld,Am Bahnhof,4,,54.01918558,10.06250575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGM,24626,Groß Kummerfeld,Am Bahnhof,40,,54.02299948,10.05283069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGN,24626,Groß Kummerfeld,Am Bahnhof,42,,54.02313387,10.05241484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGO,24626,Groß Kummerfeld,Am Bahnhof,44,,54.02330215,10.05212623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGP,24626,Groß Kummerfeld,Am Bahnhof,44,b,54.0236121,10.05177363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGQ,24626,Groß Kummerfeld,Am Bahnhof,46,,54.02371278,10.05149741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGR,24626,Groß Kummerfeld,Am Bahnhof,48,,54.02383445,10.05135786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGS,24626,Groß Kummerfeld,Am Bahnhof,5,,54.02170651,10.05449782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGT,24626,Groß Kummerfeld,Am Bahnhof,50,,54.02403099,10.05108508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGU,24626,Groß Kummerfeld,Am Bahnhof,52,,54.02423306,10.05082848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGV,24626,Groß Kummerfeld,Am Bahnhof,54,,54.02452547,10.05047164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGW,24626,Groß Kummerfeld,Am Bahnhof,56,,54.02472345,10.05019391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGX,24626,Groß Kummerfeld,Am Bahnhof,6,,54.0193654,10.06217559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGY,24626,Groß Kummerfeld,Am Bahnhof,6,a,54.01953361,10.06197482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGZ,24626,Groß Kummerfeld,Am Bahnhof,7,,54.02187772,10.05426588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGa,24626,Groß Kummerfeld,Am Ehrenmal,4,,54.0510462,10.07249458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGb,24626,Groß Kummerfeld,Am Bahnhof,1,,54.02039685,10.05613374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGc,24626,Groß Kummerfeld,Am Bahnhof,1,a,54.0205933,10.05597988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGd,24626,Groß Kummerfeld,Am Bahnhof,1,b,54.02142475,10.05514597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGe,24626,Groß Kummerfeld,Am Bahnhof,1,c,54.02138497,10.05522493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGf,24626,Groß Kummerfeld,Am Bahnhof,1,d,54.02118781,10.05565409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGg,24626,Groß Kummerfeld,Am Bahnhof,1,e,54.02114256,10.05574706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGh,24626,Groß Kummerfeld,Am Bahnhof,1,f,54.0209799,10.05608486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGi,24626,Groß Kummerfeld,Am Bahnhof,10,,54.01974493,10.06149748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGj,24626,Groß Kummerfeld,Am Bahnhof,10,a,54.02001367,10.06099782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGk,24626,Groß Kummerfeld,Am Bahnhof,11,,54.02211188,10.05372743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGl,24626,Groß Kummerfeld,Am Bahnhof,12,,54.02041272,10.06021992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGm,24626,Groß Kummerfeld,Am Bahnhof,12,a,54.02100979,10.05805629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGn,24626,Groß Kummerfeld,Am Bahnhof,13,,54.02224502,10.05344438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGo,24626,Groß Kummerfeld,Am Bahnhof,14,,54.02114912,10.05776243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGp,24626,Groß Kummerfeld,Am Bahnhof,15,,54.0224342,10.05304877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGq,24626,Groß Kummerfeld,Am Bahnhof,16,,54.02174403,10.05737774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGr,24626,Groß Kummerfeld,Am Bahnhof,16,a,54.02144675,10.05726506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGs,24626,Groß Kummerfeld,Am Bahnhof,16,b,54.02127044,10.05691905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGt,24626,Groß Kummerfeld,Am Bahnhof,16,c,54.02122152,10.05685089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGv,24626,Groß Kummerfeld,Am Bahnhof,2,,54.0188416,10.06312411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGw,24626,Groß Kummerfeld,Am Bahnhof,2,a,54.01898839,10.06295848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGx,24626,Groß Kummerfeld,Am Bahnhof,2,b,54.01911466,10.06275836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuGz,24626,Groß Kummerfeld,Am Bahnhof,22,,54.02161211,10.05560693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH0,24626,Groß Kummerfeld,Am Bahnhof,8,,54.01960545,10.06173963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH1,24626,Groß Kummerfeld,Am Bahnhof,9,,54.02201406,10.05395357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH2,24626,Groß Kummerfeld,Birkenallee,1,,54.04786695,10.07015616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH3,24626,Groß Kummerfeld,Birkenallee,10,,54.04758919,10.07172257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH4,24626,Groß Kummerfeld,Birkenallee,11,,54.04791213,10.0726007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH5,24626,Groß Kummerfeld,Birkenallee,12,,54.047571,10.07201385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH6,24626,Groß Kummerfeld,Birkenallee,13,,54.04790102,10.07285974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH7,24626,Groß Kummerfeld,Birkenallee,14,,54.04755538,10.0723115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH8,24626,Groß Kummerfeld,Birkenallee,15,,54.04788755,10.0732571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuH9,24626,Groß Kummerfeld,Birkenallee,16,,54.0475368,10.07265141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHA,24626,Groß Kummerfeld,Birkenallee,37,,54.04779396,10.07660937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHB,24626,Groß Kummerfeld,Birkenallee,38,,54.04741494,10.07622496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHC,24626,Groß Kummerfeld,Birkenallee,4,,54.04752436,10.07032519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHD,24626,Groß Kummerfeld,Birkenallee,40,,54.04740652,10.07658186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHE,24626,Groß Kummerfeld,Birkenallee,42,,54.04738693,10.07691304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHF,24626,Groß Kummerfeld,Birkenallee,44,,54.04736233,10.07716129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHG,24626,Groß Kummerfeld,Birkenallee,46,,54.04737762,10.07744922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHH,24626,Groß Kummerfeld,Birkenallee,48,,54.04727161,10.07781845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHI,24626,Groß Kummerfeld,Birkenallee,48,a,54.04734946,10.07782187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHJ,24626,Groß Kummerfeld,Birkenallee,5,,54.04795556,10.0711896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHK,24626,Groß Kummerfeld,Birkenallee,50,,54.04730685,10.07813524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHL,24626,Groß Kummerfeld,Birkenallee,52,,54.0473408,10.07860992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHM,24626,Groß Kummerfeld,Birkenallee,54,,54.04732696,10.07937756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHN,24626,Groß Kummerfeld,Birkenallee,55,,54.04770513,10.07958328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHO,24626,Groß Kummerfeld,Birkenallee,56,,54.04729294,10.07991443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHP,24626,Groß Kummerfeld,Birkenallee,58,,54.04736719,10.08056765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHQ,24626,Groß Kummerfeld,Birkenallee,58,a,54.04726822,10.08079969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHR,24626,Groß Kummerfeld,Birkenallee,6,,54.0476211,10.07069912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHS,24626,Groß Kummerfeld,Birkenallee,6,a,54.04761095,10.07097604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHT,24626,Groß Kummerfeld,Birkenallee,60,,54.04725241,10.08125182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHU,24626,Groß Kummerfeld,Birkenallee,62,,54.0472654,10.0816536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHV,24626,Groß Kummerfeld,Birkenallee,64,,54.04727578,10.08187774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHW,24626,Groß Kummerfeld,Birkenallee,66,,54.04699375,10.08245767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHX,24626,Groß Kummerfeld,Birkenallee,66,a,54.04726428,10.08216544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHY,24626,Groß Kummerfeld,Birkenallee,66,b,54.04725535,10.08244558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHZ,24626,Groß Kummerfeld,Birkenallee,66,c,54.04724961,10.08256302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHa,24626,Groß Kummerfeld,Birkenallee,17,,54.04787893,10.07348695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHb,24626,Groß Kummerfeld,Birkenallee,18,,54.04752781,10.07287143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHc,24626,Groß Kummerfeld,Birkenallee,19,,54.04787417,10.07370955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHd,24626,Groß Kummerfeld,Birkenallee,2,,54.04765039,10.06984151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHe,24626,Groß Kummerfeld,Birkenallee,2,a,54.04760744,10.07017176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHf,24626,Groß Kummerfeld,Birkenallee,20,,54.04751848,10.07321078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHg,24626,Groß Kummerfeld,Birkenallee,21,,54.04786528,10.0739784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHh,24626,Groß Kummerfeld,Birkenallee,22,,54.04749658,10.07351914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHi,24626,Groß Kummerfeld,Birkenallee,23,,54.047859,10.07423843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHj,24626,Groß Kummerfeld,Birkenallee,24,,54.04748056,10.07378208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHk,24626,Groß Kummerfeld,Birkenallee,25,,54.04786881,10.07477673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHl,24626,Groß Kummerfeld,Birkenallee,26,,54.0474669,10.07409363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHm,24626,Groß Kummerfeld,Birkenallee,26,a,54.04734044,10.0743412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHn,24626,Groß Kummerfeld,Birkenallee,26,b,54.04740759,10.07435895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHo,24626,Groß Kummerfeld,Birkenallee,27,,54.04783169,10.07503001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHp,24626,Groß Kummerfeld,Birkenallee,28,,54.047436,10.07469148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHq,24626,Groß Kummerfeld,Birkenallee,29,,54.04781856,10.07534944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHr,24626,Groß Kummerfeld,Birkenallee,3,,54.04796441,10.070915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHs,24626,Groß Kummerfeld,Birkenallee,30,,54.04747534,10.07504321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHt,24626,Groß Kummerfeld,Birkenallee,31,,54.04768902,10.07561484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHu,24626,Groß Kummerfeld,Birkenallee,32,,54.04750329,10.07531269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHv,24626,Groß Kummerfeld,Birkenallee,33,,54.0477637,10.07595491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHw,24626,Groß Kummerfeld,Birkenallee,34,,54.04744956,10.07553893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHx,24626,Groß Kummerfeld,Birkenallee,35,,54.04778078,10.07623442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHy,24626,Groß Kummerfeld,Birkenallee,35,a,54.04778078,10.07623442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuHz,24626,Groß Kummerfeld,Birkenallee,36,,54.04742141,10.0759755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI0,24626,Groß Kummerfeld,Birkenallee,66,d,54.04703833,10.0821222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI1,24626,Groß Kummerfeld,Birkenallee,68,,54.04718818,10.08286184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI2,24626,Groß Kummerfeld,Birkenallee,70,,54.04717756,10.08310431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI3,24626,Groß Kummerfeld,Birkenallee,72,,54.04717127,10.08333289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI4,24626,Groß Kummerfeld,Birkenallee,74,,54.04716613,10.08351015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI5,24626,Groß Kummerfeld,Birkenallee,75,,54.0475534,10.08401571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI6,24626,Groß Kummerfeld,Birkenallee,76,,54.04717405,10.08374696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI7,24626,Groß Kummerfeld,Birkenallee,77,,54.04754709,10.08426915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI8,24626,Groß Kummerfeld,Birkenallee,79,,54.04751443,10.0846653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuI9,24626,Groß Kummerfeld,Birkenallee,8,,54.04759895,10.0712752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIA,24626,Groß Kummerfeld,Dorfstraße,26,,54.02683256,10.11066436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIB,24626,Groß Kummerfeld,Dorfstraße,27,,54.02700332,10.11018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIC,24626,Groß Kummerfeld,Dorfstraße,28,,54.02688014,10.11092595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuID,24626,Groß Kummerfeld,Dorfstraße,29,,54.02709466,10.1104225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIE,24626,Groß Kummerfeld,Dorfstraße,29,a,54.02738222,10.11028608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIF,24626,Groß Kummerfeld,Dorfstraße,3,,54.02636175,10.10639258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIG,24626,Groß Kummerfeld,Dorfstraße,30,,54.02694349,10.11114937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIH,24626,Groß Kummerfeld,Dorfstraße,31,,54.02716063,10.11071573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuII,24626,Groß Kummerfeld,Dorfstraße,31,a,54.02723587,10.1110488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIJ,24626,Groß Kummerfeld,Dorfstraße,32,,54.02692682,10.11144127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIK,24626,Groß Kummerfeld,Dorfstraße,33,,54.02734651,10.11149848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIL,24626,Groß Kummerfeld,Dorfstraße,34,,54.02705011,10.11162409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIM,24626,Groß Kummerfeld,Dorfstraße,35,,54.02748739,10.11207896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIN,24626,Groß Kummerfeld,Dorfstraße,35,a,54.02759875,10.11179752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIO,24626,Groß Kummerfeld,Dorfstraße,36,,54.02715095,10.11204298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIP,24626,Groß Kummerfeld,Dorfstraße,37,,54.02757361,10.1123936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIQ,24626,Groß Kummerfeld,Dorfstraße,38,,54.02731779,10.11264163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIR,24626,Groß Kummerfeld,Dorfstraße,39,,54.02828506,10.11334465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIS,24626,Groß Kummerfeld,Dorfstraße,4,,54.02608645,10.10657981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIT,24626,Groß Kummerfeld,Dorfstraße,4,a,54.02593712,10.10663465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIU,24626,Groß Kummerfeld,Dorfstraße,40,,54.02737463,10.11303416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIV,24626,Groß Kummerfeld,Dorfstraße,41,,54.02843619,10.11363209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIX,24626,Groß Kummerfeld,Dorfstraße,42,a,54.02778308,10.11375124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIY,24626,Groß Kummerfeld,Dorfstraße,42,b,54.02756167,10.11356924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIZ,24626,Groß Kummerfeld,Dorfstraße,42,c,54.0273615,10.11373987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIa,24626,Groß Kummerfeld,Birkenallee,9,,54.04798559,10.07221186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIb,24626,Groß Kummerfeld,Braaker Weg,2,,54.02399352,10.10228836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIc,24626,Groß Kummerfeld,Braaker Weg,2,a,54.02338614,10.10229333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuId,24626,Groß Kummerfeld,Braaker Weg,4,,54.02267585,10.10259593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIe,24626,Groß Kummerfeld,Braaker Weg,52,,54.0159082,10.10179888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIf,24626,Groß Kummerfeld,Braaker Weg,6,,54.02248856,10.10264024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIg,24626,Groß Kummerfeld,Braaker Weg,8,,54.02272684,10.10149644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIh,24626,Groß Kummerfeld,Dorfstraße,1,,54.02640073,10.10601202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIi,24626,Groß Kummerfeld,Dorfstraße,10,,54.02622145,10.10752722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIj,24626,Groß Kummerfeld,Dorfstraße,11,,54.02656913,10.1077241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIk,24626,Groß Kummerfeld,Dorfstraße,12,,54.02628657,10.10788301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIl,24626,Groß Kummerfeld,Dorfstraße,13,,54.02660912,10.10801972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIm,24626,Groß Kummerfeld,Dorfstraße,14,,54.0263415,10.10822313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIn,24626,Groß Kummerfeld,Dorfstraße,15,,54.02666376,10.10832635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIo,24626,Groß Kummerfeld,Dorfstraße,16,,54.02639474,10.10856026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIp,24626,Groß Kummerfeld,Dorfstraße,17,,54.02668063,10.10859843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIq,24626,Groß Kummerfeld,Dorfstraße,18,,54.0264468,10.10889111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIr,24626,Groß Kummerfeld,Dorfstraße,19,,54.02679548,10.10913196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIs,24626,Groß Kummerfeld,Dorfstraße,19,a,54.02717957,10.10925233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIt,24626,Groß Kummerfeld,Dorfstraße,2,,54.02603611,10.10628259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIu,24626,Groß Kummerfeld,Dorfstraße,20,,54.02653238,10.10931631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIv,24626,Groß Kummerfeld,Dorfstraße,22,,54.02662685,10.10978571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIw,24626,Groß Kummerfeld,Dorfstraße,24,,54.02673199,10.11027915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIx,24626,Groß Kummerfeld,Dorfstraße,25,,54.02695194,10.10995149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIy,24626,Groß Kummerfeld,Dorfstraße,25,a,54.02754193,10.10976047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuIz,24626,Groß Kummerfeld,Dorfstraße,25,b,54.02721095,10.10982941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ0,24626,Groß Kummerfeld,Dorfstraße,43,,54.02868223,10.11383912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ1,24626,Groß Kummerfeld,Dorfstraße,44,,54.02836318,10.11562351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ2,24626,Groß Kummerfeld,Dorfstraße,45,,54.02863127,10.11419615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ3,24626,Groß Kummerfeld,Dorfstraße,47,,54.02872457,10.11490253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ4,24626,Groß Kummerfeld,Dorfstraße,48,,54.02851854,10.11657755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ5,24626,Groß Kummerfeld,Dorfstraße,49,,54.02936703,10.11596863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ6,24626,Groß Kummerfeld,Dorfstraße,5,,54.02642602,10.10676201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ7,24626,Groß Kummerfeld,Dorfstraße,50,,54.02837499,10.11678167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ8,24626,Groß Kummerfeld,Dorfstraße,52,,54.02821257,10.11794816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJ9,24626,Groß Kummerfeld,Dorfstraße,53,,54.02955339,10.11617849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJA,24626,Groß Kummerfeld,Gadelander Straße,20,,54.0481546,10.06577613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJB,24626,Groß Kummerfeld,Gadelander Straße,22,,54.04812046,10.06535085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJC,24626,Groß Kummerfeld,Gadelander Straße,24,,54.04816231,10.06495023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJD,24626,Groß Kummerfeld,Gadelander Straße,4,,54.04802513,10.06876013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJE,24626,Groß Kummerfeld,Gadelander Straße,5,,54.04773457,10.06857792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJF,24626,Groß Kummerfeld,Gadelander Straße,6,,54.04803472,10.06842363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJG,24626,Groß Kummerfeld,Gadelander Straße,7,,54.04764699,10.06818984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJH,24626,Groß Kummerfeld,Gadelander Straße,8,,54.04804154,10.06819011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJI,24626,Groß Kummerfeld,Gadelander Straße,9,,54.04768536,10.06794563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJJ,24626,Groß Kummerfeld,Feldstraße,1,,54.03263755,10.06860401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJK,24626,Groß Kummerfeld,Feldstraße,1,a,54.03253936,10.06890643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJL,24626,Groß Kummerfeld,Feldstraße,1,b,54.03277479,10.06843054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJM,24626,Groß Kummerfeld,Feldstraße,10,,54.0314646,10.06957861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJN,24626,Groß Kummerfeld,Feldstraße,11,,54.03171188,10.06986288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJO,24626,Groß Kummerfeld,Feldstraße,11,a,54.03201789,10.07026137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJP,24626,Groß Kummerfeld,Feldstraße,12,,54.03135613,10.06975495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJQ,24626,Groß Kummerfeld,Feldstraße,13,,54.03159453,10.07009332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJR,24626,Groß Kummerfeld,Feldstraße,14,,54.03124766,10.06991696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJS,24626,Groß Kummerfeld,Feldstraße,15,,54.03139886,10.07039542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJT,24626,Groß Kummerfeld,Feldstraße,16,,54.03109996,10.07012543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJU,24626,Groß Kummerfeld,Feldstraße,17,,54.03120878,10.0707382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJV,24626,Groß Kummerfeld,Feldstraße,18,,54.03093603,10.0703935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJW,24626,Groß Kummerfeld,Feldstraße,19,,54.03102974,10.07092589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJX,24626,Groß Kummerfeld,Feldstraße,2,,54.03227028,10.06824557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJY,24626,Groß Kummerfeld,Feldstraße,20,,54.03082126,10.07055502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJZ,24626,Groß Kummerfeld,Feldstraße,20,a,54.03074206,10.07075682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJa,24626,Groß Kummerfeld,Dorfstraße,54,,54.02797142,10.11836745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJb,24626,Groß Kummerfeld,Dorfstraße,55,,54.02893676,10.11636373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJc,24626,Groß Kummerfeld,Dorfstraße,56,,54.02805082,10.11891138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJd,24626,Groß Kummerfeld,Dorfstraße,57,,54.02875432,10.11705769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJe,24626,Groß Kummerfeld,Dorfstraße,58,,54.02806198,10.11925473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJf,24626,Groß Kummerfeld,Dorfstraße,6,,54.02610744,10.10687882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJg,24626,Groß Kummerfeld,Dorfstraße,60,,54.02787977,10.11976271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJh,24626,Groß Kummerfeld,Dorfstraße,62,,54.02793548,10.12008441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJi,24626,Groß Kummerfeld,Dorfstraße,63,,54.02847317,10.11815692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJj,24626,Groß Kummerfeld,Dorfstraße,65,,54.02843432,10.11851463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJk,24626,Groß Kummerfeld,Dorfstraße,65,a,54.02855022,10.11872893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJl,24626,Groß Kummerfeld,Dorfstraße,67,,54.02842985,10.11890255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJm,24626,Groß Kummerfeld,Dorfstraße,69,,54.02853786,10.11926704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJn,24626,Groß Kummerfeld,Dorfstraße,7,,54.02647492,10.10701514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJo,24626,Groß Kummerfeld,Dorfstraße,75,,54.02825919,10.12046405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJp,24626,Groß Kummerfeld,Dorfstraße,8,,54.02617877,10.10725116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJq,24626,Groß Kummerfeld,Dorfstraße,9,,54.02652947,10.10739958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJr,24626,Groß Kummerfeld,Grüner Weg,1,,54.02768369,10.11903245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJs,24626,Groß Kummerfeld,Gadelander Straße,1,,54.04770585,10.06902514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJt,24626,Groß Kummerfeld,Gadelander Straße,10,,54.04801764,10.06786068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJu,24626,Groß Kummerfeld,Gadelander Straße,12,,54.04804071,10.06721593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJv,24626,Groß Kummerfeld,Gadelander Straße,14,,54.04814402,10.06690726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJw,24626,Groß Kummerfeld,Gadelander Straße,16,,54.04816298,10.06656469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJx,24626,Groß Kummerfeld,Gadelander Straße,18,,54.04816882,10.06612413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJy,24626,Groß Kummerfeld,Gadelander Straße,2,,54.04796752,10.06925246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuJz,24626,Groß Kummerfeld,Gadelander Straße,2,a,54.0483783,10.06916531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK0,24626,Groß Kummerfeld,Feldstraße,22,,54.03053703,10.07098327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK1,24626,Groß Kummerfeld,Feldstraße,23,,54.03069269,10.07151816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK2,24626,Groß Kummerfeld,Feldstraße,24,,54.03040499,10.07117988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK3,24626,Groß Kummerfeld,Feldstraße,24,a,54.03022922,10.07127951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK4,24626,Groß Kummerfeld,Feldstraße,25,,54.03053102,10.07183491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK5,24626,Groß Kummerfeld,Feldstraße,26,,54.03011559,10.07159054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK6,24626,Groß Kummerfeld,Feldstraße,26,a,54.02991725,10.07182609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK7,24626,Groß Kummerfeld,Feldstraße,27,,54.03050428,10.07211031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK8,24626,Groß Kummerfeld,Feldstraße,28,,54.02984205,10.07204972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuK9,24626,Groß Kummerfeld,Feldstraße,29,,54.03027389,10.07210499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKA,24626,Groß Kummerfeld,Hauptstraße,11,,54.04890756,10.07056856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKB,24626,Groß Kummerfeld,Hauptstraße,12,,54.04980805,10.07233964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKC,24626,Groß Kummerfeld,Hauptstraße,13,,54.04900494,10.07084393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKD,24626,Groß Kummerfeld,Hauptstraße,13,a,54.04912186,10.07099884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKE,24626,Groß Kummerfeld,Hauptstraße,14,,54.05000633,10.0723405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKF,24626,Groß Kummerfeld,Hauptstraße,15,,54.04924356,10.07115879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKG,24626,Groß Kummerfeld,Hauptstraße,15,a,54.04964447,10.07154782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKH,24626,Groß Kummerfeld,Hauptstraße,15,b,54.04982695,10.07165552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKI,24626,Groß Kummerfeld,Hauptstraße,16,,54.05015746,10.072425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKJ,24626,Groß Kummerfeld,Hauptstraße,17,,54.05006365,10.07171692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKK,24626,Groß Kummerfeld,Hauptstraße,18,,54.05030204,10.07250444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKL,24626,Groß Kummerfeld,Hauptstraße,18,a,54.05044641,10.07265671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKM,24626,Groß Kummerfeld,Hauptstraße,19,,54.05024677,10.07187498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKN,24626,Groß Kummerfeld,Hauptstraße,2,,54.04810878,10.07023577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKP,24626,Groß Kummerfeld,Hauptstraße,21,,54.05040276,10.07201692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKQ,24626,Groß Kummerfeld,Hauptstraße,22,,54.0508651,10.07341376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKR,24626,Groß Kummerfeld,Hauptstraße,23,,54.05057185,10.07214642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKS,24626,Groß Kummerfeld,Hauptstraße,24,,54.05109892,10.07424972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKT,24626,Groß Kummerfeld,Hauptstraße,24,a,54.05112053,10.0745327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKU,24626,Groß Kummerfeld,Hauptstraße,26,,54.05047222,10.07446212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKW,24626,Groß Kummerfeld,Hauptstraße,29,,54.05196446,10.07520018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKX,24626,Groß Kummerfeld,Hauptstraße,29,a,54.05149483,10.07508906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKY,24626,Groß Kummerfeld,Hauptstraße,29,b,54.05191298,10.07566902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKZ,24626,Groß Kummerfeld,Hauptstraße,3,,54.04822601,10.06973377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKa,24626,Groß Kummerfeld,Feldstraße,29,a,54.03012346,10.07237815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKb,24626,Groß Kummerfeld,Feldstraße,3,,54.03237016,10.06912518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKc,24626,Groß Kummerfeld,Feldstraße,30,,54.02970673,10.07222555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKd,24626,Groß Kummerfeld,Feldstraße,31,,54.03035528,10.0726076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKe,24626,Groß Kummerfeld,Feldstraße,32,,54.02959503,10.07240248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKf,24626,Groß Kummerfeld,Feldstraße,33,,54.03000323,10.07259647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKh,24626,Groß Kummerfeld,Feldstraße,35,,54.02993538,10.07284511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKi,24626,Groß Kummerfeld,Feldstraße,4,,54.03203565,10.06867779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKj,24626,Groß Kummerfeld,Feldstraße,41,,54.0294531,10.07365665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKk,24626,Groß Kummerfeld,Feldstraße,43,,54.02925025,10.07394371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKl,24626,Groß Kummerfeld,Feldstraße,43,a,54.02934427,10.07406656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKm,24626,Groß Kummerfeld,Feldstraße,45,,54.02896477,10.07410144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKn,24626,Groß Kummerfeld,Feldstraße,47,,54.02879926,10.07458819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKo,24626,Groß Kummerfeld,Feldstraße,47,a,54.02894126,10.07483524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKp,24626,Groß Kummerfeld,Feldstraße,49,,54.02854637,10.07476959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKq,24626,Groß Kummerfeld,Feldstraße,49,a,54.02860465,10.07486712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKr,24626,Groß Kummerfeld,Feldstraße,5,,54.03225657,10.06933006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKs,24626,Groß Kummerfeld,Feldstraße,50,,54.02597378,10.07488325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKt,24626,Groß Kummerfeld,Feldstraße,51,,54.02876001,10.07533966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKu,24626,Groß Kummerfeld,Feldstraße,60,,54.0232302,10.08300375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKv,24626,Groß Kummerfeld,Feldstraße,7,,54.03211558,10.06953067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKw,24626,Groß Kummerfeld,Feldstraße,8,,54.03157922,10.06941785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKx,24626,Groß Kummerfeld,Feldstraße,9,,54.03190767,10.06972361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKy,24626,Groß Kummerfeld,Hauptstraße,1,,54.04805451,10.06960587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuKz,24626,Groß Kummerfeld,Hauptstraße,10,,54.0496644,10.07222948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL0,24626,Groß Kummerfeld,Hauptstraße,30,,54.05117411,10.07525382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL1,24626,Groß Kummerfeld,Hauptstraße,30,a,54.05100794,10.07520371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL2,24626,Groß Kummerfeld,Hauptstraße,31,,54.0515053,10.07565316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL3,24626,Groß Kummerfeld,Hauptstraße,32,,54.05109166,10.07576667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL4,24626,Groß Kummerfeld,Hauptstraße,33,,54.05142693,10.07595015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL5,24626,Groß Kummerfeld,Hauptstraße,34,,54.05103459,10.07655027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL6,24626,Groß Kummerfeld,Hauptstraße,35,,54.05129925,10.07667525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL7,24626,Groß Kummerfeld,Hauptstraße,35,a,54.05166803,10.0761164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL8,24626,Groß Kummerfeld,Hauptstraße,35,b,54.05173541,10.07680732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuL9,24626,Groß Kummerfeld,Hauptstraße,36,,54.0509638,10.07695338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLA,24626,Groß Kummerfeld,Husberger Weg,12,,54.05281893,10.07346458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLB,24626,Groß Kummerfeld,Husberger Weg,14,,54.05300358,10.07335332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLC,24626,Groß Kummerfeld,Husberger Weg,2,,54.05197617,10.07369533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLD,24626,Groß Kummerfeld,Husberger Weg,2,a,54.05196579,10.07402026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLE,24626,Groß Kummerfeld,Husberger Weg,2,b,54.05197838,10.07432541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLF,24626,Groß Kummerfeld,Husberger Weg,2,c,54.05161074,10.07429981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLG,24626,Groß Kummerfeld,Husberger Weg,2,d,54.05145437,10.07399293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLH,24626,Groß Kummerfeld,Husberger Weg,2,e,54.05159154,10.07367515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLI,24626,Groß Kummerfeld,Husberger Weg,3,,54.05211719,10.07303193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLJ,24626,Groß Kummerfeld,Husberger Weg,3,a,54.05211195,10.07291442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLK,24626,Groß Kummerfeld,Husberger Weg,5,,54.05223947,10.07302419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLL,24626,Groß Kummerfeld,Husberger Weg,5,a,54.05228974,10.07302631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLM,24626,Groß Kummerfeld,Husberger Weg,7,,54.05242986,10.07302576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLN,24626,Groß Kummerfeld,Husberger Weg,8,,54.05228622,10.0736346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLO,24626,Groß Kummerfeld,Husberger Weg,9,,54.05256156,10.0728339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLP,24626,Groß Kummerfeld,Holtdamm,1,,54.03451063,10.06646098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLQ,24626,Groß Kummerfeld,Holtdamm,1,a,54.03424895,10.06625548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLR,24626,Groß Kummerfeld,Holtdamm,2,,54.03445635,10.0660033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLS,24626,Groß Kummerfeld,Holtdamm,3,,54.03378197,10.06602123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLT,24626,Groß Kummerfeld,Holtdamm,3,a,54.03342785,10.06662948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLU,24626,Groß Kummerfeld,Holtdamm,5,,54.03100355,10.06037645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLV,24626,Groß Kummerfeld,Holtdamm,6,,54.03265429,10.05828094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLW,24626,Groß Kummerfeld,Holtdamm,8,,54.03289054,10.05756648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLX,24626,Groß Kummerfeld,Immenhorst,2,,54.05114697,10.07206459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLY,24626,Groß Kummerfeld,Am Teich,10,,54.04863086,10.08392359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLZ,24626,Groß Kummerfeld,Am Teich,2,,54.0476348,10.08374749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLa,24626,Groß Kummerfeld,Hauptstraße,36,a,54.05093186,10.07711198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLb,24626,Groß Kummerfeld,Hauptstraße,37,,54.05117417,10.07719899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLc,24626,Groß Kummerfeld,Hauptstraße,37,a,54.05141718,10.07732452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLd,24626,Groß Kummerfeld,Hauptstraße,38,,54.05079982,10.07744728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLf,24626,Groß Kummerfeld,Hauptstraße,4,,54.04842991,10.07065236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLg,24626,Groß Kummerfeld,Hauptstraße,40,,54.05066647,10.07771937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLh,24626,Groß Kummerfeld,Hauptstraße,40,a,54.05042094,10.07748928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLi,24626,Groß Kummerfeld,Hauptstraße,41,,54.05037138,10.07846775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLj,24626,Groß Kummerfeld,Hauptstraße,41,a,54.05059966,10.07905698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLk,24626,Groß Kummerfeld,Hauptstraße,41,b,54.05035835,10.07912364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLl,24626,Groß Kummerfeld,Hauptstraße,42,,54.05029184,10.07778179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLm,24626,Groß Kummerfeld,Hauptstraße,43,,54.0498023,10.07896814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLn,24626,Groß Kummerfeld,Hauptstraße,44,,54.04952978,10.07860703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLo,24626,Groß Kummerfeld,Hauptstraße,45,,54.04944017,10.07924393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLp,24626,Groß Kummerfeld,Hauptstraße,46,,54.04873578,10.07912769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLq,24626,Groß Kummerfeld,Hauptstraße,5,,54.04836608,10.06991962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLr,24626,Groß Kummerfeld,Hauptstraße,65,,54.04806596,10.08265227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLs,24626,Groß Kummerfeld,Hauptstraße,67,,54.04790806,10.08296312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLt,24626,Groß Kummerfeld,Hauptstraße,69,,54.04780713,10.08316335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLu,24626,Groß Kummerfeld,Hauptstraße,7,,54.048512,10.07011176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLv,24626,Groß Kummerfeld,Hauptstraße,71,,54.04782568,10.08341073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLw,24626,Groß Kummerfeld,Hauptstraße,9,,54.04865016,10.07029653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLx,24626,Groß Kummerfeld,Husberger Weg,1,,54.05171064,10.07325182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLy,24626,Groß Kummerfeld,Husberger Weg,10,,54.05267189,10.07387516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuLz,24626,Groß Kummerfeld,Husberger Weg,11,,54.05286143,10.07290501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM0,24626,Groß Kummerfeld,Am Teich,2,a,54.04789629,10.08380206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM1,24626,Groß Kummerfeld,Am Teich,3,,54.04823557,10.0834784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM2,24626,Groß Kummerfeld,Am Teich,4,,54.04811237,10.08385955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM3,24626,Groß Kummerfeld,Am Teich,5,,54.04844616,10.08349268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM4,24626,Groß Kummerfeld,Am Teich,6,,54.04824195,10.08385141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM5,24626,Groß Kummerfeld,Am Teich,7,,54.04868896,10.08352274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM6,24626,Groß Kummerfeld,Am Teich,8,,54.04842068,10.08386139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM7,24626,Groß Kummerfeld,Kampweg,1,,54.02701897,10.11273753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM8,24626,Groß Kummerfeld,Kampweg,10,,54.02579167,10.11253017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuM9,24626,Groß Kummerfeld,Kampweg,12,,54.02559089,10.11266783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMA,24626,Groß Kummerfeld,Mittelweg,12,,54.02984142,10.12081143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMB,24626,Groß Kummerfeld,Mittelweg,14,,54.02992602,10.12115112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMC,24626,Groß Kummerfeld,Mittelweg,16,,54.03001049,10.12138204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMD,24626,Groß Kummerfeld,Mittelweg,18,,54.03010019,10.12170194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuME,24626,Groß Kummerfeld,Mittelweg,2,,54.02940406,10.11948836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMF,24626,Groß Kummerfeld,Mittelweg,20,,54.03017687,10.12198907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMG,24626,Groß Kummerfeld,Mittelweg,22,,54.03358335,10.13932155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMH,24626,Groß Kummerfeld,Mittelweg,24,,54.03350734,10.14016607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMI,24626,Groß Kummerfeld,Mittelweg,3,,54.03007234,10.1203763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMJ,24626,Groß Kummerfeld,Mittelweg,4,,54.02952618,10.11973798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMK,24626,Groß Kummerfeld,Mittelweg,5,,54.03018242,10.12076182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuML,24626,Groß Kummerfeld,Mittelweg,5,a,54.03026933,10.12105762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMM,24626,Groß Kummerfeld,Mittelweg,6,,54.02959003,10.12000081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMN,24626,Groß Kummerfeld,Mittelweg,7,,54.03045727,10.12145141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMO,24626,Groß Kummerfeld,Mittelweg,8,,54.02970872,10.12028152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMP,24626,Groß Kummerfeld,Mittelweg,9,,54.03495542,10.13994908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMQ,24626,Groß Kummerfeld,Mittelweg,9,a,54.03468871,10.1400676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMR,24626,Groß Kummerfeld,Mühlenkoppel,1,,54.03163966,10.06826512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMS,24626,Groß Kummerfeld,Mühlenkoppel,10,,54.03141375,10.06744347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMT,24626,Groß Kummerfeld,Mühlenkoppel,12,,54.03134252,10.06776229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMU,24626,Groß Kummerfeld,Mühlenkoppel,14,,54.03124858,10.06801154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMV,24626,Groß Kummerfeld,Mühlenkoppel,16,,54.03108137,10.06814651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMW,24626,Groß Kummerfeld,Mühlenkoppel,18,,54.03092335,10.06841226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMX,24626,Groß Kummerfeld,Mühlenkoppel,2,,54.03201337,10.06809113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMY,24626,Groß Kummerfeld,Mühlenkoppel,3,,54.03146654,10.06849257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMZ,24626,Groß Kummerfeld,Mühlenkoppel,4,,54.03181702,10.06799197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMa,24626,Groß Kummerfeld,Kampweg,2,,54.02678186,10.11225348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMb,24626,Groß Kummerfeld,Kampweg,4,,54.02658003,10.11226111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMc,24626,Groß Kummerfeld,Kampweg,6,,54.02638387,10.11236748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMd,24626,Groß Kummerfeld,Kampweg,8,,54.0261266,10.11241905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMe,24626,Groß Kummerfeld,Kiefernweg,2,,54.02967637,10.07388857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMf,24626,Groß Kummerfeld,Kiefernweg,3,,54.02975158,10.07343534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMg,24626,Groß Kummerfeld,Kiefernweg,4,,54.02987058,10.07418334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMh,24626,Groß Kummerfeld,Kiefernweg,5,,54.0298936,10.07360652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMi,24626,Groß Kummerfeld,Kiefernweg,7,,54.03004944,10.07368931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMj,24626,Groß Kummerfeld,Fasanenweg,1,,54.04828635,10.07141277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMk,24626,Groß Kummerfeld,Fasanenweg,1,a,54.04860712,10.07146191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMl,24626,Groß Kummerfeld,Fasanenweg,2,,54.04805626,10.07184974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMm,24626,Groß Kummerfeld,Fasanenweg,2,a,54.04833697,10.07189208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMn,24626,Groß Kummerfeld,Fasanenweg,3,,54.04900624,10.07148808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMo,24626,Groß Kummerfeld,Fasanenweg,4,,54.0486147,10.07208794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMp,24626,Groß Kummerfeld,Fasanenweg,6,,54.04918366,10.07198514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMq,24626,Groß Kummerfeld,Mühlenstraße,1,,54.02110894,10.0599252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMr,24626,Groß Kummerfeld,Mühlenstraße,1,a,54.02122167,10.05977887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMs,24626,Groß Kummerfeld,Mühlenstraße,2,,54.02095284,10.06032263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMt,24626,Groß Kummerfeld,Mühlenstraße,3,,54.0212405,10.06019492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMu,24626,Groß Kummerfeld,Mühlenstraße,6,,54.02220792,10.06276623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMv,24626,Groß Kummerfeld,Mühlenstraße,8,,54.02573871,10.06516791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMw,24626,Groß Kummerfeld,Mühlenstraße,9,,54.03302227,10.0681602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMx,24626,Groß Kummerfeld,Mittelweg,1,,54.03000011,10.12010227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMy,24626,Groß Kummerfeld,Mittelweg,1,a,54.02990752,10.11980179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuMz,24626,Groß Kummerfeld,Mittelweg,10,,54.02977584,10.12055464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN0,24626,Groß Kummerfeld,Mühlenkoppel,5,,54.03132589,10.06872997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN1,24626,Groß Kummerfeld,Mühlenkoppel,6,,54.0316731,10.06781273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN2,24626,Groß Kummerfeld,Mühlenkoppel,8,,54.03156993,10.06759783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN3,24626,Groß Kummerfeld,Neue Koppel,1,,54.04712198,10.07929487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN4,24626,Groß Kummerfeld,Neue Koppel,3,,54.04670344,10.07952872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN5,24626,Groß Kummerfeld,Neue Koppel,4,,54.04681182,10.0786313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN6,24626,Groß Kummerfeld,Neue Koppel,6,,54.04380766,10.07772108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN7,24626,Groß Kummerfeld,Neuer Weg,6,,54.02937994,10.11535454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN8,24626,Groß Kummerfeld,Ölstraße,1,,54.02792337,10.11273778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuN9,24626,Groß Kummerfeld,Ölstraße,3,,54.02812913,10.11257713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNA,24626,Groß Kummerfeld,Rehmkoppel,24,,54.0491701,10.06896241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNB,24626,Groß Kummerfeld,Rehmkoppel,25,,54.04915118,10.06753712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNC,24626,Groß Kummerfeld,Rehmkoppel,26,,54.04932113,10.0689524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuND,24626,Groß Kummerfeld,Rehmkoppel,27,,54.04932455,10.0675426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNE,24626,Groß Kummerfeld,Rehmkoppel,28,,54.04950739,10.06898548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNG,24626,Groß Kummerfeld,Rehmkoppel,3,,54.04863098,10.06619078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNH,24626,Groß Kummerfeld,Rehmkoppel,30,,54.04975776,10.06908168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNI,24626,Groß Kummerfeld,Rehmkoppel,31,,54.04922866,10.06801196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNJ,24626,Groß Kummerfeld,Rehmkoppel,32,,54.04952629,10.06866303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNK,24626,Groß Kummerfeld,Rehmkoppel,33,,54.04912992,10.0684694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNL,24626,Groß Kummerfeld,Rehmkoppel,35,,54.04941185,10.06839294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNM,24626,Groß Kummerfeld,Rehmkoppel,4,,54.04884943,10.06699267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNN,24626,Groß Kummerfeld,Rehmkoppel,4,a,54.0488233,10.06664628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNO,24626,Groß Kummerfeld,Rehmkoppel,5,,54.04881256,10.06613685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNP,24626,Groß Kummerfeld,Rehmkoppel,6,,54.04893826,10.06737763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNQ,24626,Groß Kummerfeld,Rehmkoppel,7,,54.04897858,10.06618015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNR,24626,Groß Kummerfeld,Rehmkoppel,8,,54.04891792,10.06765181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNS,24626,Groß Kummerfeld,Rehmkoppel,9,,54.04915106,10.06608019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNT,24626,Groß Kummerfeld,Am Kamp,1,,54.02576308,10.11193602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNU,24626,Groß Kummerfeld,Am Kamp,10,,54.02591445,10.11045801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNV,24626,Groß Kummerfeld,Am Kamp,10,a,54.02592604,10.11031592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNW,24626,Groß Kummerfeld,Am Kamp,11,,54.02545786,10.10987505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNX,24626,Groß Kummerfeld,Am Kamp,12,,54.02600775,10.11001234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNY,24626,Groß Kummerfeld,Am Kamp,13,,54.02575267,10.10976084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNZ,24626,Groß Kummerfeld,Am Kamp,14,,54.02595715,10.10963036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNb,24626,Groß Kummerfeld,Ölstraße,7,,54.0287777,10.11222761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNc,24626,Groß Kummerfeld,Redder,1,,54.02825781,10.11217871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNd,24626,Groß Kummerfeld,Redder,11,,54.02827542,10.11070017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNe,24626,Groß Kummerfeld,Redder,11,b,54.0283428,10.11007408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNf,24626,Groß Kummerfeld,Redder,3,,54.02818972,10.11186629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNg,24626,Groß Kummerfeld,Redder,5,,54.02812462,10.11158149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNh,24626,Groß Kummerfeld,Redder,7,,54.02803587,10.11121736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNi,24626,Groß Kummerfeld,Redder,9,,54.02833124,10.11107557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNj,24626,Groß Kummerfeld,Rehmkoppel,1,,54.04872219,10.06545728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNk,24626,Groß Kummerfeld,Rehmkoppel,1,a,54.04842788,10.06581124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNl,24626,Groß Kummerfeld,Rehmkoppel,10,,54.04858372,10.06776992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNm,24626,Groß Kummerfeld,Rehmkoppel,11,,54.04905924,10.06554032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNo,24626,Groß Kummerfeld,Rehmkoppel,13,,54.04935234,10.06592988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNp,24626,Groß Kummerfeld,Rehmkoppel,14,,54.04892447,10.06801023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNq,24626,Groß Kummerfeld,Rehmkoppel,15,,54.04941769,10.06554546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNr,24626,Groß Kummerfeld,Rehmkoppel,16,,54.04893939,10.06829808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNs,24626,Groß Kummerfeld,Rehmkoppel,17,,54.0493652,10.06648434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNt,24626,Groß Kummerfeld,Rehmkoppel,18,,54.0489042,10.06859532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNu,24626,Groß Kummerfeld,Rehmkoppel,19,,54.04921528,10.06653807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNv,24626,Groß Kummerfeld,Rehmkoppel,2,,54.04864915,10.06661616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNw,24626,Groß Kummerfeld,Rehmkoppel,20,,54.04886851,10.06897528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNx,24626,Groß Kummerfeld,Rehmkoppel,21,,54.04907412,10.06666329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNy,24626,Groß Kummerfeld,Rehmkoppel,22,,54.04900664,10.06887929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuNz,24626,Groß Kummerfeld,Rehmkoppel,23,,54.04920847,10.0670835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO0,24626,Groß Kummerfeld,Am Kamp,2,,54.02606248,10.11172587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO1,24626,Groß Kummerfeld,Am Kamp,3,,54.02572503,10.11153383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO2,24626,Groß Kummerfeld,Am Kamp,4,,54.02602895,10.11137746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO3,24626,Groß Kummerfeld,Am Kamp,5,,54.0256663,10.11107128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO4,24626,Groß Kummerfeld,Am Kamp,6,,54.02597772,10.11112754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO5,24626,Groß Kummerfeld,Am Kamp,6,a,54.02597816,10.1110159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO6,24626,Groß Kummerfeld,Am Kamp,7,,54.02558779,10.11074077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO7,24626,Groß Kummerfeld,Am Kamp,8,,54.02593064,10.11077428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO8,24626,Groß Kummerfeld,Am Kamp,9,,54.02543361,10.1102349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuO9,24626,Groß Kummerfeld,Schafredder,1,,54.05140384,10.07785059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOA,24626,Groß Kummerfeld,Schulstraße,3,a,54.04837501,10.07984231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOB,24626,Groß Kummerfeld,Schulstraße,5,,54.04865687,10.07989802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOC,24626,Groß Kummerfeld,Schützenstraße,1,,54.04912839,10.08093185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOD,24626,Groß Kummerfeld,Schützenstraße,10,,54.0488461,10.0844127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOE,24626,Groß Kummerfeld,Schützenstraße,101,,54.04841514,10.09816094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOF,24626,Groß Kummerfeld,Schützenstraße,103,,54.04841797,10.09871518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOG,24626,Groß Kummerfeld,Schützenstraße,105,,54.04842845,10.0993796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOH,24626,Groß Kummerfeld,Schützenstraße,107,,54.04913423,10.09992369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOI,24626,Groß Kummerfeld,Schützenstraße,109,,54.04838897,10.10011399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOJ,24626,Groß Kummerfeld,Schützenstraße,12,,54.04886043,10.08471473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOK,24626,Groß Kummerfeld,Schützenstraße,14,,54.04886275,10.08497888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOL,24626,Groß Kummerfeld,Schützenstraße,16,,54.04886593,10.08520185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOM,24626,Groß Kummerfeld,Schützenstraße,18,,54.04884762,10.08557593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuON,24626,Groß Kummerfeld,Schützenstraße,2,,54.048889,10.08246103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOO,24626,Groß Kummerfeld,Schützenstraße,36,,54.04850818,10.09079373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOP,24626,Groß Kummerfeld,Schützenstraße,38,,54.04844515,10.09101987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOQ,24626,Groß Kummerfeld,Schützenstraße,4,,54.0489592,10.08290948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOR,24626,Groß Kummerfeld,Schützenstraße,40,,54.04842314,10.0913554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOS,24626,Groß Kummerfeld,Schützenstraße,42,,54.04833767,10.09193175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOT,24626,Groß Kummerfeld,Schützenstraße,44,,54.04819215,10.09229633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOU,24626,Groß Kummerfeld,Schützenstraße,46,,54.04821064,10.09282652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOV,24626,Groß Kummerfeld,Schützenstraße,48,,54.04809037,10.09309501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOW,24626,Groß Kummerfeld,Schützenstraße,54,,54.04803257,10.09406363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOX,24626,Groß Kummerfeld,Schützenstraße,56,,54.0474958,10.09474668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOY,24626,Groß Kummerfeld,Schützenstraße,56,a,54.04711172,10.09517975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOZ,24626,Groß Kummerfeld,Schützenstraße,58,,54.04804367,10.09527372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOa,24626,Groß Kummerfeld,Schafredder,12,,54.05133443,10.07940614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOb,24626,Groß Kummerfeld,Schafredder,12,a,54.05117252,10.07950681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOc,24626,Groß Kummerfeld,Schafredder,18,,54.05070139,10.07970545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOd,24626,Groß Kummerfeld,Schafredder,2,,54.05110001,10.07807647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOe,24626,Groß Kummerfeld,Schafredder,20,,54.05052764,10.0797537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOf,24626,Groß Kummerfeld,Schafredder,22,,54.05035734,10.07980087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOg,24626,Groß Kummerfeld,Schafredder,24,,54.05015609,10.07978281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOh,24626,Groß Kummerfeld,Schafredder,26,,54.04998299,10.07983337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOi,24626,Groß Kummerfeld,Schafredder,27,,54.0516318,10.08009354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOj,24626,Groß Kummerfeld,Schafredder,29,,54.05104279,10.08001716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOk,24626,Groß Kummerfeld,Schafredder,3,,54.05145843,10.07847322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOl,24626,Groß Kummerfeld,Schafredder,30,,54.04955872,10.07987458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOm,24626,Groß Kummerfeld,Schafredder,31,,54.05086441,10.08022187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOn,24626,Groß Kummerfeld,Schafredder,33,,54.05042278,10.08011349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOo,24626,Groß Kummerfeld,Schafredder,34,,54.04927705,10.07994933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOp,24626,Groß Kummerfeld,Schafredder,35,,54.05013474,10.08016403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOq,24626,Groß Kummerfeld,Schafredder,35,a,54.05027394,10.08035106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOr,24626,Groß Kummerfeld,Schafredder,37,,54.04996855,10.08027317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOs,24626,Groß Kummerfeld,Schafredder,41,,54.04959747,10.08028239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOt,24626,Groß Kummerfeld,Schafredder,6,,54.05130831,10.07867126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOu,24626,Groß Kummerfeld,Schafredder,7,,54.05155065,10.07902554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOv,24626,Groß Kummerfeld,Schafredder,8,,54.05129297,10.07897213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOw,24626,Groß Kummerfeld,Schulstraße,1,,54.04766156,10.07988178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOx,24626,Groß Kummerfeld,Schulstraße,1,b,54.0480395,10.07984242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOy,24626,Groß Kummerfeld,Schulstraße,2,,54.04780423,10.08060913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuOz,24626,Groß Kummerfeld,Schulstraße,3,,54.04826911,10.07983736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP0,24626,Groß Kummerfeld,Schützenstraße,6,,54.04894261,10.08348354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP1,24626,Groß Kummerfeld,Schützenstraße,60,,54.04810237,10.0956558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP2,24626,Groß Kummerfeld,Schützenstraße,8,,54.04891376,10.08402608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP3,24626,Groß Kummerfeld,Schützenstraße,99,,54.04844713,10.09736655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP4,24626,Groß Kummerfeld,Segeberger Chaussee,1,,54.03552649,10.06388847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP5,24626,Groß Kummerfeld,Segeberger Chaussee,1,a,54.03553853,10.06433122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP6,24626,Groß Kummerfeld,Segeberger Chaussee,10,,54.03350584,10.0685854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP7,24626,Groß Kummerfeld,Segeberger Chaussee,11,,54.03480247,10.06722571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuP9,24626,Groß Kummerfeld,Segeberger Chaussee,13,a,54.03486445,10.0681795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPA,24626,Groß Kummerfeld,Störstraße,2,,54.0358416,10.06628626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPB,24626,Groß Kummerfeld,Störstraße,2,a,54.0355889,10.0663674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPC,24626,Groß Kummerfeld,Störstraße,4,,54.03604937,10.0674961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPD,24626,Groß Kummerfeld,Störstraße,5,,54.03604155,10.06588025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPE,24626,Groß Kummerfeld,Störstraße,6,,54.03633515,10.06714548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPF,24626,Groß Kummerfeld,Störstraße,6,a,54.03659599,10.06698593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPG,24626,Groß Kummerfeld,Störstraße,6,b,54.03632596,10.06758517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPH,24626,Groß Kummerfeld,Störstraße,7,,54.03798817,10.06431551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPI,24626,Groß Kummerfeld,Störstraße,8,,54.03628941,10.06635384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPJ,24626,Groß Kummerfeld,Petersburger Straße,1,,54.02577943,10.10157385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPK,24626,Groß Kummerfeld,Petersburger Straße,2,,54.02428485,10.10063374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPL,24626,Groß Kummerfeld,Petersburger Straße,3,,54.02443336,10.10343852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPM,24626,Groß Kummerfeld,Petersburger Straße,3,a,54.02442426,10.10366558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPN,24626,Groß Kummerfeld,Petersburger Straße,4,,54.02433688,10.10170911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPO,24626,Groß Kummerfeld,Petersburger Straße,4,a,54.02434991,10.10159628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPP,24626,Groß Kummerfeld,Petersburger Straße,7,,54.0243698,10.10452089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPQ,24626,Groß Kummerfeld,Steinstraße,14,,54.0298547,10.11909655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPR,24626,Groß Kummerfeld,Steinstraße,14,a,54.03007477,10.11898945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPS,24626,Groß Kummerfeld,Steinstraße,16,,54.03034796,10.11906853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPT,24626,Groß Kummerfeld,Steinstraße,16,a,54.03061665,10.1186795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPU,24626,Groß Kummerfeld,Steinstraße,18,,54.03094372,10.11928903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPV,24626,Groß Kummerfeld,Steinstraße,19,,54.03027956,10.11836603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPW,24626,Groß Kummerfeld,Steinstraße,2,,54.02830395,10.1199135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPX,24626,Groß Kummerfeld,Steinstraße,21,,54.03041696,10.11825404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPY,24626,Groß Kummerfeld,Steinstraße,23,,54.03054981,10.11815787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPZ,24626,Groß Kummerfeld,Steinstraße,3,,54.02878196,10.11926619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPa,24626,Groß Kummerfeld,Segeberger Chaussee,13,b,54.0352697,10.06764169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPb,24626,Groß Kummerfeld,Segeberger Chaussee,15,,54.03444367,10.0679598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPc,24626,Groß Kummerfeld,Segeberger Chaussee,17,,54.0342968,10.06820087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPd,24626,Groß Kummerfeld,Segeberger Chaussee,19,,54.03419126,10.06848663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPe,24626,Groß Kummerfeld,Segeberger Chaussee,21,,54.03406419,10.06877937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPf,24626,Groß Kummerfeld,Segeberger Chaussee,23,,54.03395517,10.06913879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPg,24626,Groß Kummerfeld,Segeberger Chaussee,3,,54.03538977,10.06480047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPh,24626,Groß Kummerfeld,Segeberger Chaussee,5,,54.03528131,10.06635835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPi,24626,Groß Kummerfeld,Segeberger Chaussee,5,a,54.03533536,10.06622365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPj,24626,Groß Kummerfeld,Segeberger Chaussee,6,,54.03510138,10.06559877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPk,24626,Groß Kummerfeld,Segeberger Chaussee,6,a,54.03479529,10.06606015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPl,24626,Groß Kummerfeld,Segeberger Chaussee,6,b,54.03472083,10.06672196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPm,24626,Groß Kummerfeld,Segeberger Chaussee,6,c,54.03460064,10.06691867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPn,24626,Groß Kummerfeld,Segeberger Chaussee,7,,54.03512768,10.06655669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPo,24626,Groß Kummerfeld,Segeberger Chaussee,8,,54.03442088,10.06720903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPp,24626,Groß Kummerfeld,Segeberger Chaussee,8,a,54.03427966,10.06743953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPq,24626,Groß Kummerfeld,Segeberger Chaussee,8,b,54.03409955,10.06662057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPr,24626,Groß Kummerfeld,Segeberger Chaussee,8,c,54.03414208,10.0669676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPs,24626,Groß Kummerfeld,Segeberger Chaussee,8,d,54.03410117,10.06703232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPt,24626,Groß Kummerfeld,Segeberger Chaussee,9,,54.03518748,10.06713752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPu,24626,Groß Kummerfeld,Störstraße,1,,54.03553296,10.0654941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPv,24626,Groß Kummerfeld,Störstraße,10,,54.03661634,10.06619622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPw,24626,Groß Kummerfeld,Störstraße,12,,54.03682294,10.06604932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPx,24626,Groß Kummerfeld,Störstraße,14,,54.03757938,10.06612517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPy,24626,Groß Kummerfeld,Störstraße,14,a,54.03793262,10.06605878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuPz,24626,Groß Kummerfeld,Störstraße,16,,54.03825604,10.06625415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ0,24626,Groß Kummerfeld,Steinstraße,3,a,54.02877924,10.11907659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ1,24626,Groß Kummerfeld,Steinstraße,4,,54.02852934,10.11983895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ2,24626,Groß Kummerfeld,Steinstraße,6,,54.02874205,10.11976525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ3,24626,Groß Kummerfeld,Steinstraße,7,,54.02919767,10.11902108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ4,24626,Groß Kummerfeld,Steinstraße,8,,54.02905466,10.11957018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ5,24626,Groß Kummerfeld,Scharler Weg,10,,54.05246041,10.07996309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ6,24626,Groß Kummerfeld,Scharler Weg,12,,54.05260534,10.07983118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ7,24626,Groß Kummerfeld,Scharler Weg,2,,54.05177801,10.07987054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ8,24626,Groß Kummerfeld,Scharler Weg,4,,54.05194174,10.0798391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQ9,24626,Groß Kummerfeld,Scharler Weg,6,,54.05209551,10.07981155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQA,24626,Groß Kummerfeld,Willingrader Straße,7,a,54.02580376,10.10404866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQB,24626,Groß Kummerfeld,Willingrader Straße,8,,54.02538248,10.10502514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQC,24626,Groß Kummerfeld,Willingrader Straße,9,,54.02560697,10.10459555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQD,24626,Groß Kummerfeld,Willingrader Straße,9,a,54.02592312,10.10436566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQE,24626,Groß Kummerfeld,Am Steinkamp,1,,54.04511517,10.10194212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQF,24626,Groß Kummerfeld,Brammerhörn,1,,54.03743949,10.13892293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQG,24626,Groß Kummerfeld,Brammerhörn,2,,54.03861936,10.13570005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQH,24626,Groß Kummerfeld,Brammerhörn,2,a,54.03845199,10.13572908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQP,24626,Groß Kummerfeld,Schmalenbrook,2,,54.04218124,10.13389227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQQ,24626,Groß Kummerfeld,Schmalenbrook,4,,54.04160277,10.1359415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQR,24626,Groß Kummerfeld,Schmalenbrook,4,a,54.04178608,10.13566143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQS,24626,Groß Kummerfeld,Marienhof,1,,54.0459685,10.12079763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQT,24626,Groß Kummerfeld,Papiermühle,1,,54.04659767,10.04490604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQU,24626,Groß Kummerfeld,Papiermühle,2,,54.04644068,10.04527426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQV,24626,Groß Kummerfeld,Holm,1,,54.0481056,10.12147715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQW,24626,Groß Kummerfeld,Holm,3,,54.0481056,10.12147715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQX,24626,Groß Kummerfeld,Zum Alten Forsthaus,1,,54.0466413,10.04197956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQY,24626,Groß Kummerfeld,Zum Alten Forsthaus,2,,54.04644489,10.042114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQa,24626,Groß Kummerfeld,Scharler Weg,8,,54.05229787,10.07981664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQb,24626,Groß Kummerfeld,Sandkoppel,1,,54.03172218,10.0707773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQc,24626,Groß Kummerfeld,Sandkoppel,2,,54.03152263,10.0709993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQd,24626,Groß Kummerfeld,Sandkoppel,3,,54.03195101,10.07090365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQe,24626,Groß Kummerfeld,Sandkoppel,4,,54.03176069,10.07129996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQf,24626,Groß Kummerfeld,Willingrader Straße,1,,54.02465158,10.10266717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQg,24626,Groß Kummerfeld,Willingrader Straße,1,a,54.02538679,10.10280747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQh,24626,Groß Kummerfeld,Willingrader Straße,10,,54.0254803,10.1052339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQi,24626,Groß Kummerfeld,Willingrader Straße,11,,54.02572514,10.10487378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQj,24626,Groß Kummerfeld,Willingrader Straße,12,,54.02574358,10.105443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQk,24626,Groß Kummerfeld,Willingrader Straße,13,,54.02582942,10.10510284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQl,24626,Groß Kummerfeld,Willingrader Straße,14,,54.02583495,10.10580729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQm,24626,Groß Kummerfeld,Willingrader Straße,16,,54.02586101,10.10597946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQn,24626,Groß Kummerfeld,Willingrader Straße,17,,54.02612814,10.10562833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQo,24626,Groß Kummerfeld,Willingrader Straße,2,,54.02483602,10.10391092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQp,24626,Groß Kummerfeld,Willingrader Straße,3,,54.02494193,10.10342669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQq,24626,Groß Kummerfeld,Willingrader Straße,3,a,54.02525329,10.10332912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQr,24626,Groß Kummerfeld,Willingrader Straße,3,b,54.02560668,10.10319568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQs,24626,Groß Kummerfeld,Willingrader Straße,4,,54.02509754,10.10436806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQt,24626,Groß Kummerfeld,Willingrader Straße,4,a,54.02473303,10.10429277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQu,24626,Groß Kummerfeld,Willingrader Straße,5,,54.02520667,10.10376772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQv,24626,Groß Kummerfeld,Willingrader Straße,5,a,54.02569512,10.10368824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQw,24626,Groß Kummerfeld,Willingrader Straße,6,,54.02519311,10.10476142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQx,24626,Groß Kummerfeld,Willingrader Straße,6,a,54.02477961,10.10485422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQy,24626,Groß Kummerfeld,Willingrader Straße,6,b,54.02482463,10.10469191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuQz,24626,Groß Kummerfeld,Willingrader Straße,7,,54.02537972,10.10412919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003FsuQ,24626,Groß Kummerfeld,Birkenallee,56,a,54.04731119,10.08028901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DiqU,24626,Groß Kummerfeld,Redder,2,,54.02855451,10.11227046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DiqV,24626,Groß Kummerfeld,Redder,4,,54.02852669,10.1110417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FqEN,24626,Groß Kummerfeld,Dorfstraße,51,,54.02972812,10.11572832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IeHZ,24626,Groß Kummerfeld,Sandkoppel,2,a,54.03154748,10.07139097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Vf8C,24626,Groß Kummerfeld,Hauptstraße,15,c,54.04945083,10.07139032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057TLF,24626,Groß Kummerfeld,Hauptstraße,6,,54.04875042,10.07099842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057TLG,24626,Groß Kummerfeld,Fasanenweg,1,b,54.04881288,10.0715286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOLU,24626,Groß Kummerfeld,Störstraße,3,,54.03588474,10.06584716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOMK,24626,Groß Kummerfeld,Störstraße,5,a,54.03621878,10.06583085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOMN,24626,Groß Kummerfeld,Störstraße,5,e,54.03646148,10.06500804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOMQ,24626,Groß Kummerfeld,Störstraße,5,b,54.03646116,10.06570388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOMT,24626,Groß Kummerfeld,Störstraße,5,d,54.03640929,10.06525435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AOMW,24626,Groß Kummerfeld,Störstraße,5,g,54.03665478,10.06549246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AON0,24626,Groß Kummerfeld,Störstraße,5,c,54.03630769,10.06544849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005G2vn,24626,Groß Kummerfeld,Holtdamm,7,,54.03088528,10.05847103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005P60x,24626,Groß Kummerfeld,Hauptstraße,39,b,54.05073488,10.07836266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RBBQ,24626,Groß Kummerfeld,Am Steinkamp,1,a,54.04502189,10.1014012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RLaO,24626,Groß Kummerfeld,Steinstraße,5,,54.02900279,10.11908326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ule3,24626,Groß Kummerfeld,Scharler Weg,3,,54.05190387,10.07933837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bR6B,24626,Groß Kummerfeld,Störstraße,5,f,54.03668567,10.06521437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005blPt,24626,Groß Kummerfeld,Hauptstraße,39,a,54.05089202,10.07840022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005c4OO,24626,Groß Kummerfeld,Kiefernweg,1,,54.02961943,10.07315853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005c4OP,24626,Groß Kummerfeld,Kiefernweg,1,a,54.02957811,10.07331916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064rCy,24626,Groß Kummerfeld,Fasanenweg,4,a,54.04848975,10.0719062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000652Xt,24626,Groß Kummerfeld,Feldstraße,34,,54.02941831,10.07226057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065vT6,24626,Groß Kummerfeld,Schafredder,14,a,54.05104551,10.07961194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065vTb,24626,Groß Kummerfeld,Schafredder,14,b,54.05098944,10.07962704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065vTi,24626,Groß Kummerfeld,Schafredder,16,b,54.0508226,10.07967184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065vTl,24626,Groß Kummerfeld,Schafredder,16,a,54.0508786,10.07965676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069JCR,24626,Groß Kummerfeld,Hauptstraße,6,a,54.04882084,10.07107132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069JD1,24626,Groß Kummerfeld,Hauptstraße,39,c,54.05085336,10.07879647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069JD6,24626,Groß Kummerfeld,Hauptstraße,39,d,54.05091007,10.07900174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BoJC,24626,Groß Kummerfeld,Schulstraße,1,a,54.04789421,10.07986694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1a,24626,Groß Kummerfeld,Am Bahnhof,20,d,54.02177712,10.05638964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1b,24626,Groß Kummerfeld,Am Bahnhof,20,c,54.02172259,10.05631649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1c,24626,Groß Kummerfeld,Am Bahnhof,20,b,54.02152141,10.05604567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1d,24626,Groß Kummerfeld,Am Bahnhof,20,a,54.02146965,10.055976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1e,24626,Groß Kummerfeld,Am Bahnhof,18,d,54.02168961,10.05654194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1g,24626,Groß Kummerfeld,Am Bahnhof,18,b,54.02145329,10.05623882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MA1h,24626,Groß Kummerfeld,Am Bahnhof,18,a,54.0213598,10.05619959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OiLW,24626,Groß Kummerfeld,Am Bahnhof,18,c,54.02162375,10.05648943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006r39U,24626,Groß Kummerfeld,Ölstraße,99,,54.03505491,10.11778535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vbf7,24626,Groß Kummerfeld,Am Teich,5,a,54.04846944,10.08334266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CHs,24626,Groß Kummerfeld,Husberger Weg,14,a,54.0530255,10.07364821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000772X9,24626,Groß Kummerfeld,Willingrader Straße,17,a,54.02633604,10.10559186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DqkU,24626,Groß Kummerfeld,Schützenstraße,99,a,54.04949997,10.0984659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007W4br,24626,Groß Kummerfeld,Husberger Weg,12,a,54.05291375,10.07385375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007W4dq,24626,Groß Kummerfeld,Husberger Weg,12,b,54.0528849,10.07409938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WOGB,24626,Groß Kummerfeld,Segeberger Chaussee,13,c,54.03504051,10.06738839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WSnL,24626,Groß Kummerfeld,Am Bahnhof,3,a,54.02156153,10.05480438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WSnp,24626,Groß Kummerfeld,Am Bahnhof,3,b,54.02160657,10.05471336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WfZB,24626,Groß Kummerfeld,Am Bahnhof,14,a,54.02121878,10.05778829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WfZC,24626,Groß Kummerfeld,Am Bahnhof,14,b,54.02104739,10.05743515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WfZD,24626,Groß Kummerfeld,Am Bahnhof,14,c,54.0211183,10.05744858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cZ6W,24626,Groß Kummerfeld,Hauptstraße,20,a,54.05062452,10.07294255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cZ6X,24626,Groß Kummerfeld,Hauptstraße,20,b,54.05068078,10.07293441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cZ6Y,24626,Groß Kummerfeld,Hauptstraße,20,c,54.05071111,10.07309387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dtcY,24626,Groß Kummerfeld,Feldstraße,3,a,54.03240153,10.06902941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007trwf,24626,Groß Kummerfeld,Feldstraße,6,,54.03174998,10.0691475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xes3,24626,Groß Kummerfeld,Hauptstraße,44,a,54.04960191,10.07814421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086euS,24626,Groß Kummerfeld,Birkenallee,45,,54.04795559,10.07863717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ev3,24626,Groß Kummerfeld,Birkenallee,43,,54.04766032,10.078764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086evB,24626,Groß Kummerfeld,Hinterm Klosterhof,1,,54.04774392,10.07729527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eva,24626,Groß Kummerfeld,Hinterm Klosterhof,6,,54.04800135,10.07757658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086evf,24626,Groß Kummerfeld,Hinterm Klosterhof,4,,54.04787138,10.07756424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086evm,24626,Groß Kummerfeld,Hinterm Klosterhof,2,,54.04772755,10.07755057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086evy,24626,Groß Kummerfeld,Hinterm Klosterhof,3,,54.04802211,10.07732166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086exK,24626,Groß Kummerfeld,Rönnboom,20,,54.04828543,10.07623712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086exp,24626,Groß Kummerfeld,Rönnboom,24,,54.04856701,10.07621658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086exz,24626,Groß Kummerfeld,Rönnboom,22,,54.04839581,10.07618023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ey4,24626,Groß Kummerfeld,Rönnboom,16,,54.04818965,10.07613642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyB,24626,Groß Kummerfeld,Rönnboom,5,,54.04852502,10.07446479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyH,24626,Groß Kummerfeld,Rönnboom,7,,54.04867778,10.07451187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyI,24626,Groß Kummerfeld,Rönnboom,6,,54.04845864,10.07467571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyN,24626,Groß Kummerfeld,Rönnboom,9,,54.04895763,10.0743678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyS,24626,Groß Kummerfeld,Rönnboom,4,,54.04835558,10.07462558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyT,24626,Groß Kummerfeld,Rönnboom,11,,54.04910423,10.07435557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyZ,24626,Groß Kummerfeld,Rönnboom,13,,54.04899787,10.07451078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyb,24626,Groß Kummerfeld,Rönnboom,14,,54.04840819,10.07587463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyg,24626,Groß Kummerfeld,Rönnboom,12,,54.04854793,10.07561983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyo,24626,Groß Kummerfeld,Rönnboom,10,,54.04863133,10.0754035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyp,24626,Groß Kummerfeld,Rönnboom,1,,54.04820917,10.07439708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyv,24626,Groß Kummerfeld,Rönnboom,3,,54.0483375,10.07440906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086eyy,24626,Groß Kummerfeld,Rönnboom,8,,54.04864817,10.07513181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ez2,24626,Groß Kummerfeld,Rönnboom,2,,54.04819058,10.07461016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ez5,24626,Groß Kummerfeld,Rönnboom,15,,54.04881268,10.07483555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ez9,24626,Groß Kummerfeld,Rönnboom,17,,54.04880069,10.07511256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ezc,24626,Groß Kummerfeld,Rönnboom,19,,54.04877843,10.07547153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ezf,24626,Groß Kummerfeld,Rönnboom,21,,54.04875631,10.07582811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ezk,24626,Groß Kummerfeld,Rönnboom,23,,54.04873357,10.07620583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086ezq,24626,Groß Kummerfeld,Rönnboom,25,,54.04874051,10.07658436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bv0Q,24626,Groß Kummerfeld,Birkenallee,33,a,54.04784987,10.07592778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CGrC,24626,Groß Kummerfeld,Schützenstraße,40,a,54.0483886,10.09158014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CfSQ,24626,Groß Kummerfeld,Rönnboom,18,,54.04818327,10.0763342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Kfip,24626,Groß Kummerfeld,Braaker Weg,2,b,54.02428243,10.1023123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008keyy,24626,Groß Kummerfeld,Mühlenstraße,7,,54.03289854,10.06736136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008km1K,24626,Groß Kummerfeld,Birkenallee,47,a,54.04787142,10.07898724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008km1L,24626,Groß Kummerfeld,Birkenallee,47,b,54.04786405,10.07919084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lftR,24626,Groß Kummerfeld,Hauptstraße,28,a,54.05114281,10.07492673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lftS,24626,Groß Kummerfeld,Hauptstraße,28,b,54.05077028,10.07489544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lftT,24626,Groß Kummerfeld,Hauptstraße,28,c,54.05052588,10.07493315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ymlr,24626,Groß Kummerfeld,Rönnboom,18,a,54.04817419,10.07661599

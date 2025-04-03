@@ -1,0 +1,385 @@
+# Amtliche Adressen für die Postleitzahl 24817
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkN,24817,Lohe-Föhrden,Alte Mühle,1,,54.35743744,9.50470108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkO,24817,Lohe-Föhrden,Achskoppel,2,,54.35056186,9.4914062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkP,24817,Lohe-Föhrden,Achskoppel,3,a,54.35081805,9.49256003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkQ,24817,Lohe-Föhrden,Achskoppel,4,,54.35228616,9.49210035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkS,24817,Lohe-Föhrden,Am Birkeneck,10,,54.34793669,9.49107634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkT,24817,Lohe-Föhrden,Am Birkeneck,2,,54.34880599,9.49093387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkU,24817,Lohe-Föhrden,Am Birkeneck,3,,54.34860243,9.49137852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkV,24817,Lohe-Föhrden,Am Birkeneck,4,,54.34861651,9.49100001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkW,24817,Lohe-Föhrden,Am Birkeneck,5,,54.34839651,9.49136537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkX,24817,Lohe-Föhrden,Am Birkeneck,6,,54.34833272,9.49106861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkY,24817,Lohe-Föhrden,Am Birkeneck,7,,54.34823336,9.49169365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkkZ,24817,Lohe-Föhrden,Am Birkeneck,8,,54.34818542,9.4911107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl0,24817,Lohe-Föhrden,Am Birkeneck,9,,54.34807814,9.49137784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl1,24817,Lohe-Föhrden,Bollbrück,1,,54.34499705,9.48529273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl2,24817,Lohe-Föhrden,Bollbrück,3,,54.34378744,9.47542996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl3,24817,Lohe-Föhrden,Delm,1,,54.35135979,9.4979016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl4,24817,Lohe-Föhrden,Delm,10,,54.35290811,9.49822489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl5,24817,Lohe-Föhrden,Delm,11,,54.3527132,9.49697037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl6,24817,Lohe-Föhrden,Delm,13,,54.3526818,9.49666235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl7,24817,Lohe-Föhrden,Delm,2,,54.35181519,9.49882283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl8,24817,Lohe-Föhrden,Delm,3,,54.35168941,9.49825407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkl9,24817,Lohe-Föhrden,Delm,4,,54.35214255,9.4986557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklA,24817,Lohe-Föhrden,Friedrichswiese,5,,54.36316515,9.51122133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklB,24817,Lohe-Föhrden,Friedrichswiese,7,,54.36369174,9.51691191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklC,24817,Lohe-Föhrden,Friedrichswiese,8,,54.36415839,9.52082137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklD,24817,Lohe-Föhrden,Haberland,1,,54.33994355,9.4679818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklE,24817,Lohe-Föhrden,Haberland,3,a,54.33939471,9.46433864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklF,24817,Lohe-Föhrden,Hauptstraße,1,,54.35061293,9.49803798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklG,24817,Lohe-Föhrden,Hauptstraße,10,,54.35016306,9.49487948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklH,24817,Lohe-Föhrden,Hauptstraße,11,,54.3493396,9.49462387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklI,24817,Lohe-Föhrden,Hauptstraße,12,,54.3494147,9.49394947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklJ,24817,Lohe-Föhrden,Hauptstraße,13,,54.34802664,9.49293532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklK,24817,Lohe-Föhrden,Hauptstraße,13,a,54.34829191,9.49364302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklL,24817,Lohe-Föhrden,Hauptstraße,14,,54.34852854,9.4932253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklM,24817,Lohe-Föhrden,Hauptstraße,2,,54.35088053,9.49773317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklN,24817,Lohe-Föhrden,Hauptstraße,2,a,54.35112569,9.49837082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklO,24817,Lohe-Föhrden,Hauptstraße,3,,54.35047179,9.49697438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklP,24817,Lohe-Föhrden,Hauptstraße,4,,54.3506755,9.49682447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklQ,24817,Lohe-Föhrden,Hauptstraße,4,a,54.3509195,9.49731901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklR,24817,Lohe-Föhrden,Hauptstraße,5,,54.3502825,9.49641655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklS,24817,Lohe-Föhrden,Hauptstraße,6,,54.35042745,9.49629367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklT,24817,Lohe-Föhrden,Hauptstraße,7,,54.34962041,9.49695075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklU,24817,Lohe-Föhrden,Hauptstraße,8,,54.35026771,9.49585291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklV,24817,Lohe-Föhrden,Hauptstraße,8,a,54.35054408,9.49556509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklW,24817,Lohe-Föhrden,Hauptstraße,9,,54.34987087,9.49606748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklX,24817,Lohe-Föhrden,Hauptstraße,9,a,54.34945458,9.49507746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklY,24817,Lohe-Föhrden,Hohner Straße,1,,54.35086184,9.50375144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NklZ,24817,Lohe-Föhrden,Hohner Straße,10,,54.34944635,9.50417344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkla,24817,Lohe-Föhrden,Delm,5,,54.35201531,9.49834833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklb,24817,Lohe-Föhrden,Delm,6,,54.35248058,9.49877188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklc,24817,Lohe-Föhrden,Delm,7,,54.35225346,9.49821308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkld,24817,Lohe-Föhrden,Delm,7,a,54.35240678,9.49836901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkle,24817,Lohe-Föhrden,Delm,8,,54.35289675,9.49897909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklf,24817,Lohe-Föhrden,Delm,9,,54.35264781,9.49767844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklg,24817,Lohe-Föhrden,Delm,9,a,54.35270843,9.49725996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklh,24817,Lohe-Föhrden,Dreeangel,11,,54.34903408,9.49019289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkli,24817,Lohe-Föhrden,Dreeangel,13,,54.34928388,9.49016524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklj,24817,Lohe-Föhrden,Dreeangel,15,,54.34944908,9.49020287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklk,24817,Lohe-Föhrden,Dreeangel,17,,54.34976376,9.48981841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklm,24817,Lohe-Föhrden,Dreeangel,9,,54.34915884,9.49070053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkln,24817,Lohe-Föhrden,Eekhof,1,,54.34792827,9.49027322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklo,24817,Lohe-Föhrden,Eekhof,2,,54.34821268,9.49025893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklp,24817,Lohe-Föhrden,Feldscheide,1,,54.36641643,9.56023874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklq,24817,Lohe-Föhrden,Friedrichswiese,1,,54.36762346,9.51541841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkls,24817,Lohe-Föhrden,Friedrichswiese,13,,54.36465711,9.53141508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklt,24817,Lohe-Föhrden,Friedrichswiese,15,,54.36481248,9.53581057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklu,24817,Lohe-Föhrden,Friedrichswiese,17,,54.36521168,9.53876296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklv,24817,Lohe-Föhrden,Friedrichswiese,19,,54.36567785,9.54233294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklw,24817,Lohe-Föhrden,Friedrichswiese,19,a,54.36486635,9.54415136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklx,24817,Lohe-Föhrden,Friedrichswiese,2,,54.36266137,9.5217776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkly,24817,Lohe-Föhrden,Friedrichswiese,21,,54.36550764,9.5478372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nklz,24817,Lohe-Föhrden,Friedrichswiese,3,,54.36744965,9.51126711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm0,24817,Lohe-Föhrden,Hohner Straße,11,,54.34903314,9.50495924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm1,24817,Lohe-Föhrden,Hohner Straße,12,,54.34931883,9.50425707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm2,24817,Lohe-Föhrden,Hohner Straße,13,,54.34889002,9.50504699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm3,24817,Lohe-Föhrden,Hohner Straße,13,a,54.34889025,9.50516935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm4,24817,Lohe-Föhrden,Hohner Straße,14,,54.34916805,9.5043471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm5,24817,Lohe-Föhrden,Hohner Straße,15,,54.34870658,9.50512261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm6,24817,Lohe-Föhrden,Hohner Straße,16,,54.34901908,9.50443875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm7,24817,Lohe-Föhrden,Hohner Straße,17,,54.34805574,9.50571344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm8,24817,Lohe-Föhrden,Hohner Straße,18,,54.34876083,9.5045905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkm9,24817,Lohe-Föhrden,Hohner Straße,2,,54.35169922,9.50178986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmA,24817,Lohe-Föhrden,Kropper Straße,15,,54.35367807,9.50138068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmB,24817,Lohe-Föhrden,Kropper Straße,17,,54.3537992,9.50155333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmC,24817,Lohe-Föhrden,Kropper Straße,19,,54.35394142,9.50164762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmD,24817,Lohe-Föhrden,Kropper Straße,2,,54.35130888,9.49887127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmE,24817,Lohe-Föhrden,Kropper Straße,3,,54.35184112,9.49976151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmF,24817,Lohe-Föhrden,Kropper Straße,4,,54.35149819,9.49962167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmG,24817,Lohe-Föhrden,Kropper Straße,5,,54.35205949,9.50006098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmH,24817,Lohe-Föhrden,Kropper Straße,5,a,54.35208569,9.50037294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmI,24817,Lohe-Föhrden,Kropper Straße,5,b,54.35198064,9.50039855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmJ,24817,Lohe-Föhrden,Kropper Straße,7,,54.35256763,9.50069144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmK,24817,Lohe-Föhrden,Kropper Straße,7,a,54.35271641,9.5008191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmL,24817,Lohe-Föhrden,Kropper Straße,8,,54.35209324,9.50092662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmM,24817,Lohe-Föhrden,Kropper Straße,9,,54.35288884,9.50099935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmN,24817,Lohe-Föhrden,Kapellenweg,1,,54.3514352,9.50338942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmO,24817,Lohe-Föhrden,Kapellenweg,11,,54.35209184,9.50518416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmP,24817,Lohe-Föhrden,Kapellenweg,2,,54.35123195,9.50368088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmQ,24817,Lohe-Föhrden,Kapellenweg,3,,54.35146707,9.50361134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmR,24817,Lohe-Föhrden,Kapellenweg,4,,54.35154795,9.50472808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmS,24817,Lohe-Föhrden,Kapellenweg,5,,54.35156035,9.50386545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmT,24817,Lohe-Föhrden,Kapellenweg,6,,54.35192529,9.50604456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmU,24817,Lohe-Föhrden,Kapellenweg,7,,54.3517451,9.5042044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmV,24817,Lohe-Föhrden,Kapellenweg,9,,54.3518926,9.50460939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmW,24817,Lohe-Föhrden,Landrüh,2,,54.35970941,9.46937826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmX,24817,Lohe-Föhrden,Landrüh,4,,54.35698475,9.46730735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmY,24817,Lohe-Föhrden,Landrüh,6,,54.35698635,9.46644767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkmZ,24817,Lohe-Föhrden,Landrüh,8,,54.35737966,9.46392143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkma,24817,Lohe-Föhrden,Hohner Straße,2,a,54.35201273,9.50198019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmb,24817,Lohe-Föhrden,Hohner Straße,2,b,54.35178019,9.50197047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmc,24817,Lohe-Föhrden,Hohner Straße,2,g,54.35154954,9.50261506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkme,24817,Lohe-Föhrden,Hohner Straße,20,,54.3482725,9.50489362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmf,24817,Lohe-Föhrden,Hohner Straße,3,,54.35061684,9.50392357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmg,24817,Lohe-Föhrden,Hohner Straße,4,,54.34999226,9.503837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmh,24817,Lohe-Föhrden,Hohner Straße,5,,54.34958708,9.50462195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmi,24817,Lohe-Föhrden,Hohner Straße,6,,54.34975541,9.50398513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmj,24817,Lohe-Föhrden,Hohner Straße,7,,54.34940506,9.5047389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmk,24817,Lohe-Föhrden,Hohner Straße,8,,54.34957597,9.50409193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkml,24817,Lohe-Föhrden,Hohner Straße,9,,54.34915388,9.50485212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmm,24817,Lohe-Föhrden,Im Winkel,1,,54.34836455,9.49844915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmn,24817,Lohe-Föhrden,Im Winkel,1,a,54.34815976,9.49859684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmo,24817,Lohe-Föhrden,Im Winkel,10,,54.34778501,9.49955245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmp,24817,Lohe-Föhrden,Im Winkel,2,,54.34796442,9.49799351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmq,24817,Lohe-Föhrden,Im Winkel,2,a,54.34745327,9.49757876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmr,24817,Lohe-Föhrden,Im Winkel,3,,54.34790669,9.49879134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkms,24817,Lohe-Föhrden,Im Winkel,5,,54.3480338,9.49948821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmt,24817,Lohe-Föhrden,Im Winkel,6,,54.34760615,9.49868806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmu,24817,Lohe-Föhrden,Im Winkel,8,,54.34768775,9.49900253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmv,24817,Lohe-Föhrden,Kropper Straße,1,,54.35159565,9.49887891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmw,24817,Lohe-Föhrden,Kropper Straße,1,a,54.35172139,9.49942817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmx,24817,Lohe-Föhrden,Kropper Straße,10,,54.35252493,9.50119661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmy,24817,Lohe-Föhrden,Kropper Straße,11,,54.35305925,9.50110884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkmz,24817,Lohe-Föhrden,Kropper Straße,13,,54.35340077,9.5012651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn0,24817,Lohe-Föhrden,Lütte Koppel,1,,54.35282127,9.49963762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn1,24817,Lohe-Föhrden,Lütte Koppel,2,,54.35248545,9.49931773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn3,24817,Lohe-Föhrden,Lütte Koppel,4,,54.35251354,9.49971263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn4,24817,Lohe-Föhrden,Lütte Koppel,6,,54.35282079,9.49996366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn5,24817,Lohe-Föhrden,Lütte Koppel,8,,54.35303525,9.49998907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn6,24817,Lohe-Föhrden,Mittelstraße,1,,54.34896127,9.49775733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn7,24817,Lohe-Föhrden,Mittelstraße,1,a,54.34885628,9.49759537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn8,24817,Lohe-Föhrden,Mittelstraße,10,,54.35058856,9.50195747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkn9,24817,Lohe-Föhrden,Mittelstraße,11,,54.35059176,9.50095576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknA,24817,Lohe-Föhrden,Ohland,11,a,54.35341337,9.50065277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknB,24817,Lohe-Föhrden,Ohland,2,,54.3534411,9.49886874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknC,24817,Lohe-Föhrden,Ohland,3,,54.35375958,9.49925555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknD,24817,Lohe-Föhrden,Ohland,4,,54.35345286,9.49923485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknE,24817,Lohe-Föhrden,Ohland,5,,54.35377447,9.49966312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknF,24817,Lohe-Föhrden,Ohland,6,,54.3534815,9.49957739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknG,24817,Lohe-Föhrden,Ohland,7,,54.3537885,9.50009269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknH,24817,Lohe-Föhrden,Ohland,8,,54.35346974,9.49989958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknI,24817,Lohe-Föhrden,Ohland,9,,54.35382666,9.50044804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknJ,24817,Lohe-Föhrden,Oln Hoff,1,,54.34871928,9.50582495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknK,24817,Lohe-Föhrden,Oln Hoff,10,,54.34892909,9.50722113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknL,24817,Lohe-Föhrden,Oln Hoff,2,,54.34844956,9.50564596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknM,24817,Lohe-Föhrden,Oln Hoff,3,,54.34886054,9.50624632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknN,24817,Lohe-Föhrden,Oln Hoff,4,,54.34857042,9.50628617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknO,24817,Lohe-Föhrden,Oln Hoff,5,,54.34898594,9.5065267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknP,24817,Lohe-Föhrden,Oln Hoff,6,,54.34869327,9.50664662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknQ,24817,Lohe-Föhrden,Oln Hoff,7,,54.34916664,9.5068846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknR,24817,Lohe-Föhrden,Oln Hoff,8,,54.34883543,9.50692043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknS,24817,Lohe-Föhrden,Oln Hoff,9,,54.34912945,9.50732144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknT,24817,Lohe-Föhrden,Reit,1,,54.35942075,9.49778255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknU,24817,Lohe-Föhrden,Reit,1,a,54.35947018,9.4968949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknV,24817,Lohe-Föhrden,Reit,2,,54.353141,9.49876126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknW,24817,Lohe-Föhrden,Reit,3,,54.36007495,9.50236101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknX,24817,Lohe-Föhrden,Reit,3,a,54.35965985,9.50227606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknY,24817,Lohe-Föhrden,Reit,4,,54.3588761,9.49846639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NknZ,24817,Lohe-Föhrden,Reit,4,a,54.35897703,9.49846049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkna,24817,Lohe-Föhrden,Mittelstraße,12,,54.3507,9.50237289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknb,24817,Lohe-Föhrden,Mittelstraße,12,a,54.35017603,9.50295314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknc,24817,Lohe-Föhrden,Mittelstraße,13,,54.35076979,9.50177036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknd,24817,Lohe-Föhrden,Mittelstraße,13,a,54.35088604,9.50121885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkne,24817,Lohe-Föhrden,Mittelstraße,14,,54.35088455,9.5029199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknf,24817,Lohe-Föhrden,Mittelstraße,15,,54.35097203,9.50238355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkng,24817,Lohe-Föhrden,Mittelstraße,17,,54.35116591,9.50285691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknh,24817,Lohe-Föhrden,Mittelstraße,2,,54.3492245,9.49864943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkni,24817,Lohe-Föhrden,Mittelstraße,3,,54.34915718,9.49804044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknj,24817,Lohe-Föhrden,Mittelstraße,3,a,54.34946739,9.49742935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknk,24817,Lohe-Föhrden,Mittelstraße,4,,54.35007705,9.50070189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknm,24817,Lohe-Föhrden,Mittelstraße,6,,54.35034216,9.50112167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknn,24817,Lohe-Föhrden,Mittelstraße,7,,54.35033999,9.50016311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkno,24817,Lohe-Föhrden,Mittelstraße,8,,54.35050397,9.50154826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknp,24817,Lohe-Föhrden,Mittelstraße,9,,54.35049287,9.5005925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknq,24817,Lohe-Föhrden,Mühlenweg,2,,54.34920357,9.50165949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknr,24817,Lohe-Föhrden,Mühlenweg,2,a,54.34918139,9.50157908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkns,24817,Lohe-Föhrden,Mühlenweg,4,,54.34928363,9.5020172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknt,24817,Lohe-Föhrden,Mühlenweg,6,,54.3492316,9.50254512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknu,24817,Lohe-Föhrden,Mühlenweg,6,a,54.34891292,9.50266491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknv,24817,Lohe-Föhrden,Mühlenweg,6,b,54.34894877,9.50280105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknw,24817,Lohe-Föhrden,Mühlenweg,6,c,54.34898596,9.50312349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknx,24817,Lohe-Föhrden,Ohland,1,,54.35374731,9.49881296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkny,24817,Lohe-Föhrden,Ohland,10,,54.35351504,9.50021061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nknz,24817,Lohe-Föhrden,Ohland,11,,54.35361757,9.50080431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko0,24817,Lohe-Föhrden,Reit,5,,54.35995155,9.50401016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko1,24817,Lohe-Föhrden,Reit,5,a,54.35992846,9.5054827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko2,24817,Lohe-Föhrden,Reit,7,,54.35994544,9.50583618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko3,24817,Lohe-Föhrden,Rühn,1,,54.34924488,9.4996044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko4,24817,Lohe-Föhrden,Rühn,10,,54.34535079,9.49646678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko5,24817,Lohe-Föhrden,Rühn,2,,54.34907251,9.49926328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko6,24817,Lohe-Föhrden,Rühn,3,,54.34905498,9.49967959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko7,24817,Lohe-Föhrden,Rühn,4,,54.34825406,9.49952483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko8,24817,Lohe-Föhrden,Rühn,5,,54.34884459,9.49987004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nko9,24817,Lohe-Föhrden,Rühn,6,,54.34576255,9.49785884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoA,24817,Lohe-Föhrden,Schulstraße,5,,54.35046637,9.49943418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoB,24817,Lohe-Föhrden,Schulstraße,6,,54.34967143,9.49979235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoC,24817,Lohe-Föhrden,Schulstraße,7,,54.34994963,9.49991555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoD,24817,Lohe-Föhrden,Schulstraße,8,,54.34915436,9.5005333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoE,24817,Lohe-Föhrden,Schulstraße,8,a,54.349246,9.50042932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoG,24817,Lohe-Föhrden,Westerende,1,,54.34883217,9.49479373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoH,24817,Lohe-Föhrden,Westerende,10,,54.34847338,9.49641762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoI,24817,Lohe-Föhrden,Westerende,11,,54.34893184,9.49726609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoJ,24817,Lohe-Föhrden,Westerende,12,,54.34846759,9.49663124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoK,24817,Lohe-Föhrden,Westerende,13,,54.34867526,9.49840109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoL,24817,Lohe-Föhrden,Westerende,14,,54.34846354,9.49676652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoM,24817,Lohe-Föhrden,Westerende,15,,54.34867016,9.49854097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoN,24817,Lohe-Föhrden,Westerende,16,,54.34804466,9.49685436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoO,24817,Lohe-Föhrden,Westerende,17,a,54.34865874,9.49894466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoP,24817,Lohe-Föhrden,Westerende,17,b,54.34878646,9.49895916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoQ,24817,Lohe-Föhrden,Westerende,18,,54.34839939,9.49754442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoR,24817,Lohe-Föhrden,Westerende,18,a,54.348419,9.49719772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoS,24817,Lohe-Föhrden,Westerende,2,,54.34840784,9.49475431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoT,24817,Lohe-Föhrden,Westerende,20,,54.34837048,9.49790845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoU,24817,Lohe-Föhrden,Westerende,22,,54.34836975,9.49889004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoV,24817,Lohe-Föhrden,Westerende,3,,54.34878604,9.49523464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoW,24817,Lohe-Föhrden,Westerende,4,,54.3485133,9.49517736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoX,24817,Lohe-Föhrden,Westerende,5,,54.34876773,9.49568347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoY,24817,Lohe-Föhrden,Westerende,6,,54.34851601,9.49592036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoZ,24817,Lohe-Föhrden,Westerende,7,,54.34874981,9.4961046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoa,24817,Lohe-Föhrden,Rühn,6,a,54.34590964,9.49818373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkob,24817,Lohe-Föhrden,Rühn,7,,54.34867422,9.49995142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoc,24817,Lohe-Föhrden,Rühn,8,,54.34547248,9.49692194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkod,24817,Lohe-Föhrden,Rühn,9,,54.34845511,9.50013212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoe,24817,Lohe-Föhrden,Sein,1,,54.34823542,9.50288504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkof,24817,Lohe-Föhrden,Sein,10,,54.34792468,9.50347973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkog,24817,Lohe-Föhrden,Sein,12,,54.3478341,9.50451293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoh,24817,Lohe-Föhrden,Sein,12,a,54.34790532,9.50473826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoi,24817,Lohe-Föhrden,Sein,2,,54.34767807,9.50004205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoj,24817,Lohe-Föhrden,Sein,3,,54.34816258,9.50383221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkok,24817,Lohe-Föhrden,Sein,4,,54.3477542,9.50140466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkol,24817,Lohe-Föhrden,Sein,5,,54.3483722,9.50403582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkom,24817,Lohe-Föhrden,Sein,6,,54.34772541,9.50257796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkon,24817,Lohe-Föhrden,Sein,8,,54.347879,9.50303629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoo,24817,Lohe-Föhrden,Schulstraße,1,,54.35096138,9.49913957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkop,24817,Lohe-Föhrden,Schulstraße,10,,54.34884488,9.50083547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoq,24817,Lohe-Föhrden,Schulstraße,12,,54.34863083,9.50108331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkor,24817,Lohe-Föhrden,Schulstraße,13,,54.34900962,9.50120797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkos,24817,Lohe-Föhrden,Schulstraße,15,a,54.34882917,9.50177592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkot,24817,Lohe-Föhrden,Schulstraße,15,b,54.34882917,9.50177592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkou,24817,Lohe-Föhrden,Schulstraße,15,c,54.34882917,9.50177592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkov,24817,Lohe-Föhrden,Schulstraße,15,d,54.34882917,9.50177592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkox,24817,Lohe-Föhrden,Schulstraße,2,,54.35039191,9.4989315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoy,24817,Lohe-Föhrden,Schulstraße,3,,54.35078693,9.49906689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkoz,24817,Lohe-Föhrden,Schulstraße,4,,54.34998595,9.49934888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp0,24817,Lohe-Föhrden,Westerende,8,,54.34847815,9.49627625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp1,24817,Lohe-Föhrden,Westerende,9,,54.34876947,9.49648871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp2,24817,Lohe-Föhrden,Wickerhof,1,,54.34956384,9.50542159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp3,24817,Lohe-Föhrden,Wickerhof,1,a,54.34946673,9.50509922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp4,24817,Lohe-Föhrden,Wickerhof,1,b,54.34949496,9.5052088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp5,24817,Lohe-Föhrden,Wickerhof,2,,54.34950671,9.50623712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp6,24817,Lohe-Föhrden,Wickerhof,2,a,54.34944547,9.50595336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp7,24817,Lohe-Föhrden,Wickerhof,3,,54.3497239,9.50581164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp8,24817,Lohe-Föhrden,Wickerhof,4,,54.3495942,9.50664604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkp9,24817,Lohe-Föhrden,Wickerhof,5,,54.34993623,9.50568012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpA,24817,Lohe-Föhrden,Blöcken,16,,54.35279089,9.50365836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpB,24817,Lohe-Föhrden,Blöcken,17,,54.3534717,9.50333481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpC,24817,Lohe-Föhrden,Blöcken,18,,54.35252241,9.50390433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpD,24817,Lohe-Föhrden,Blöcken,19,,54.35328522,9.50359758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpE,24817,Lohe-Föhrden,Blöcken,2,,54.35267816,9.50292197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpF,24817,Lohe-Föhrden,Blöcken,20,,54.35236042,9.50325052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpG,24817,Lohe-Föhrden,Blöcken,21,,54.35307701,9.50372063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpH,24817,Lohe-Föhrden,Blöcken,22,,54.35247906,9.50312019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpI,24817,Lohe-Föhrden,Blöcken,23,,54.35292172,9.50396859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpJ,24817,Lohe-Föhrden,Blöcken,25,,54.35275039,9.50412967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpK,24817,Lohe-Föhrden,Blöcken,27,,54.35258519,9.50426758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpL,24817,Lohe-Föhrden,Blöcken,29,,54.35236687,9.50460759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpM,24817,Lohe-Föhrden,Blöcken,3,,54.35268641,9.50245219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpN,24817,Lohe-Föhrden,Blöcken,31,,54.35224176,9.50416786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpO,24817,Lohe-Föhrden,Blöcken,33,,54.35209204,9.5038106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpP,24817,Lohe-Föhrden,Blöcken,35,,54.35198611,9.50351306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpQ,24817,Lohe-Föhrden,Blöcken,37,,54.35190163,9.50318228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpR,24817,Lohe-Föhrden,Blöcken,39,,54.35207602,9.50309748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpS,24817,Lohe-Föhrden,Blöcken,4,,54.35285559,9.50275449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpT,24817,Lohe-Föhrden,Blöcken,41,,54.35222401,9.50289265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpU,24817,Lohe-Föhrden,Blöcken,5,,54.35286445,9.50224415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpV,24817,Lohe-Föhrden,Blöcken,6,,54.35305498,9.50271076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpW,24817,Lohe-Föhrden,Blöcken,7,,54.35305384,9.50194865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpX,24817,Lohe-Föhrden,Blöcken,8,,54.35331799,9.50253635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpY,24817,Lohe-Föhrden,Blöcken,9,,54.35326591,9.50208248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkpZ,24817,Lohe-Föhrden,Blöckenstieg,1,,54.35404028,9.50263196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpa,24817,Lohe-Föhrden,Wickerhof,6,,54.34959609,9.50775405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpb,24817,Lohe-Föhrden,Wickerhof,8,,54.34980494,9.50695249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpc,24817,Lohe-Föhrden,Wickerhof,8,a,54.34980494,9.50695249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpd,24817,Lohe-Föhrden,Waldweg,1,,54.35044949,9.50412801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpe,24817,Lohe-Föhrden,Waldweg,2,,54.35025997,9.50425464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpf,24817,Lohe-Föhrden,Waldweg,3,,54.35054531,9.50459468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpg,24817,Lohe-Föhrden,Waldweg,4,,54.35007734,9.50444822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkph,24817,Lohe-Föhrden,Waldweg,5,,54.35041292,9.50485604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpi,24817,Lohe-Föhrden,Waldweg,6,,54.34992929,9.50462634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpj,24817,Lohe-Föhrden,Waldweg,7,,54.35022153,9.50507397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpk,24817,Lohe-Föhrden,Waldweg,9,,54.35003954,9.50505455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpl,24817,Lohe-Föhrden,Meiereiweg,10,,54.35130753,9.50101952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpm,24817,Lohe-Föhrden,Meiereiweg,12,,54.35165818,9.50122017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpn,24817,Lohe-Föhrden,Meiereiweg,14,,54.35147597,9.50140472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpo,24817,Lohe-Föhrden,Meiereiweg,16,,54.35132446,9.5016263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpp,24817,Lohe-Föhrden,Meiereiweg,2,,54.35079412,9.5000014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpq,24817,Lohe-Föhrden,Meiereiweg,4,,54.35097418,9.50024745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpr,24817,Lohe-Föhrden,Meiereiweg,6,,54.35108625,9.50047208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkps,24817,Lohe-Föhrden,Meiereiweg,8,,54.3512098,9.50071854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpt,24817,Lohe-Föhrden,Blöcken,1,,54.35250752,9.50263961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpu,24817,Lohe-Föhrden,Blöcken,10,,54.35355197,9.50280631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpv,24817,Lohe-Föhrden,Blöcken,11,,54.35352459,9.50225988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpw,24817,Lohe-Föhrden,Blöcken,12,,54.35322419,9.50319942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpx,24817,Lohe-Föhrden,Blöcken,13,,54.35376093,9.50244653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpy,24817,Lohe-Föhrden,Blöcken,14,,54.35304994,9.50337234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkpz,24817,Lohe-Föhrden,Blöcken,15,,54.35367218,9.50320403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkq0,24817,Lohe-Föhrden,Blöckenstieg,2,,54.35389843,9.50292364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkq1,24817,Lohe-Föhrden,Blöckenstieg,3,,54.35433245,9.50282746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkq2,24817,Lohe-Föhrden,Blöckenstieg,4,,54.3541339,9.50309458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bNlr,24817,Lohe-Föhrden,Sorgbrück,1,a,54.35542782,9.55597679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1c5,24817,Lohe-Föhrden,Sorgbrück,3,,54.35562941,9.55511227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SsoU,24817,Lohe-Föhrden,Rühn,2,a,54.34888012,9.49931081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004YhLl,24817,Lohe-Föhrden,Rühn,5,a,54.34888699,9.50008059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z5bQ,24817,Lohe-Föhrden,Reit,4,b,54.35919943,9.49892719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Gu52,24817,Lohe-Föhrden,Rühn,2,b,54.34866783,9.4993646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NgoD,24817,Lohe-Föhrden,Sein,1,a,54.34823699,9.50250002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RwWc,24817,Lohe-Föhrden,Meiereiweg,1,,54.35194654,9.50166851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XG43,24817,Lohe-Föhrden,Delm,1,a,54.35137383,9.49839867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005blZJ,24817,Lohe-Föhrden,Dreeangel,5,,54.34885132,9.49198091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bmx0,24817,Lohe-Föhrden,Dreeangel,7,,54.34886728,9.49164091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zfAT,24817,Lohe-Föhrden,Ohland,6,a,54.35325702,9.49963546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060lub,24817,Lohe-Föhrden,Friedrichswiese,9,,54.36319464,9.52796442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Hj63,24817,Lohe-Föhrden,Hauptstraße,10,a,54.35015383,9.4955477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006N7QG,24817,Lohe-Föhrden,Westerende,9,a,54.34885026,9.49684469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006N7QL,24817,Lohe-Föhrden,Westerende,9,b,54.34865018,9.49688584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PmJm,24817,Lohe-Föhrden,Schulstraße,12,a,54.34855718,9.50059517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qtc6,24817,Lohe-Föhrden,Schulstraße,19,,54.34846329,9.50187475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SamR,24817,Lohe-Föhrden,Westerende,11,a,54.3492118,9.49696717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SamS,24817,Lohe-Föhrden,Westerende,11,b,54.34928964,9.49694096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TW55,24817,Lohe-Föhrden,Haberland,1,a,54.34013839,9.46863045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TW5a,24817,Lohe-Föhrden,Haberland,3,,54.33967636,9.46643873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wgfh,24817,Lohe-Föhrden,Sorgbrück,2,,54.35732919,9.5553899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wgfm,24817,Lohe-Föhrden,Sorgbrück,4,,54.35734621,9.55573834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Wkw6,24817,Lohe-Föhrden,Hauptstraße,12,a,54.34949133,9.49431892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nmNh,24817,Lohe-Föhrden,Kropper Straße,9,a,54.35293661,9.50064376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oNZD,24817,Lohe-Föhrden,Kapellenweg,9,a,54.35191041,9.5050265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v4Z1,24817,Lohe-Föhrden,Meiereiweg,18,,54.35140897,9.5021768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076Geu,24817,Lohe-Föhrden,Kropper Straße,6,,54.35159778,9.50001083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007O3Bj,24817,Lohe-Föhrden,Mittelstraße,13,d,54.35095474,9.50205596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007O3Bm,24817,Lohe-Föhrden,Mittelstraße,13,c,54.35105132,9.50179854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007O3Bp,24817,Lohe-Föhrden,Mittelstraße,13,b,54.35102628,9.50153291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oNr9,24817,Lohe-Föhrden,Lütte Koppel,5,,54.35299789,9.49959388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qWjo,24817,Lohe-Föhrden,Hauptstraße,11,a,54.34897922,9.49435211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xysT,24817,Lohe-Föhrden,Schulstraße,17,a,54.34864497,9.50156366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xysU,24817,Lohe-Föhrden,Schulstraße,17,b,54.34868984,9.50173217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080ftL,24817,Lohe-Föhrden,Blöckenstieg,9,,54.35501649,9.50343194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080ftU,24817,Lohe-Föhrden,Blöckenstieg,11,,54.35525039,9.50359852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fu2,24817,Lohe-Föhrden,Blöckenstieg,13,,54.35538101,9.50369151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuC,24817,Lohe-Föhrden,Blöckenstieg,23,,54.35438698,9.50447165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuG,24817,Lohe-Föhrden,Blöckenstieg,25,,54.35429776,9.50422054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuN,24817,Lohe-Föhrden,Blöckenstieg,27,,54.35422669,9.50395974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuV,24817,Lohe-Föhrden,Blöckenstieg,29,,54.35430969,9.50383537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fua,24817,Lohe-Föhrden,Blöckenstieg,15,,54.35511183,9.50380864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fui,24817,Lohe-Föhrden,Blöckenstieg,17,,54.35494367,9.50398446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fun,24817,Lohe-Föhrden,Blöckenstieg,5,,54.35457183,9.50311527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuq,24817,Lohe-Föhrden,Blöckenstieg,19,,54.35473666,9.5042009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fut,24817,Lohe-Föhrden,Blöckenstieg,7,,54.35478258,9.50326536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fuy,24817,Lohe-Föhrden,Blöckenstieg,21,,54.35452966,9.50441735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fv3,24817,Lohe-Föhrden,Blöckenstieg,6,,54.35448128,9.50334326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080fvb,24817,Lohe-Föhrden,Blöckenstieg,8,,54.3547269,9.50351778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082FP6,24817,Lohe-Föhrden,Friedrichswiese,7,a,54.3635232,9.51641798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084z1k,24817,Lohe-Föhrden,Delm,7,c,54.3526041,9.4980637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008amxQ,24817,Lohe-Föhrden,Sein,7,,54.34817362,9.50119581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008amxS,24817,Lohe-Föhrden,Sein,7,a,54.34826071,9.50114313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008amy8,24817,Lohe-Föhrden,Schulstraße,16,,54.34823349,9.50156194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008amy9,24817,Lohe-Föhrden,Schulstraße,16,a,54.34815682,9.50163

@@ -1,0 +1,471 @@
+# Amtliche Adressen für die Postleitzahl 22965
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA0,22965,Todendorf,Rönnbaum,11,b,53.69314102,10.35113009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA1,22965,Todendorf,Rönnbaum,11,c,53.69320815,10.35132677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA2,22965,Todendorf,Rönnbaum,12,a,53.69372386,10.349875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA3,22965,Todendorf,Rönnbaum,12,b,53.69372386,10.349875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA4,22965,Todendorf,Rönnbaum,13,a,53.69286181,10.35131965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA5,22965,Todendorf,Rönnbaum,13,b,53.69273912,10.35142089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA6,22965,Todendorf,Rönnbaum,14,,53.69328378,10.34996232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA7,22965,Todendorf,Rönnbaum,15,a,53.69257227,10.35155923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA8,22965,Todendorf,Rönnbaum,15,b,53.69242732,10.35162651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsA9,22965,Todendorf,Rönnbaum,15,c,53.69247186,10.35172554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAA,22965,Todendorf,Rönnbaum,40,,53.69035031,10.3572831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAB,22965,Todendorf,Rönnbaum,42,,53.69035771,10.35770796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAC,22965,Todendorf,Rönnbaum,44,,53.69021247,10.35806467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAD,22965,Todendorf,Rönnbaum,46,,53.68957119,10.35779353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAE,22965,Todendorf,Rönnbaum,46,a,53.68978744,10.35845472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAF,22965,Todendorf,Rönnbaum,46,b,53.69000787,10.35853514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAG,22965,Todendorf,Rönnbaum,48,,53.69014585,10.35885258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAH,22965,Todendorf,Rönnbaum,5,,53.69423148,10.35000532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAI,22965,Todendorf,Rönnbaum,5,a,53.69418356,10.35048552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAJ,22965,Todendorf,Rönnbaum,50,,53.68985657,10.35783505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAK,22965,Todendorf,Rönnbaum,52,,53.68967622,10.35744813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAL,22965,Todendorf,Rönnbaum,54,,53.68993213,10.35723236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAM,22965,Todendorf,Rönnbaum,7,,53.69380467,10.35041285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAN,22965,Todendorf,Rönnbaum,7,a,53.69360735,10.35056583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAO,22965,Todendorf,Rönnbaum,8,,53.69418392,10.34968332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAP,22965,Todendorf,Rönnbaum,9,,53.69341777,10.3507019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAQ,22965,Todendorf,Rübland,10,,53.69020694,10.35076698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAR,22965,Todendorf,Rübland,10,b,53.68963241,10.3504966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAS,22965,Todendorf,Rübland,11,,53.69040504,10.35122327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAT,22965,Todendorf,Rübland,12,,53.6874506,10.34738968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAU,22965,Todendorf,Rübland,13,,53.6902284,10.35116078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAV,22965,Todendorf,Rübland,14,,53.68476023,10.34983324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAW,22965,Todendorf,Rübland,15,,53.69005819,10.35109672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAX,22965,Todendorf,Rübland,16,,53.6848636,10.35285442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAY,22965,Todendorf,Rübland,17,,53.68986637,10.3510791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAZ,22965,Todendorf,Rübland,17,a,53.68985301,10.35119386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAa,22965,Todendorf,Rönnbaum,16,,53.69196363,10.3513015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAb,22965,Todendorf,Rönnbaum,16,a,53.69195036,10.35063936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAc,22965,Todendorf,Rönnbaum,17,a,53.69226252,10.35187136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAd,22965,Todendorf,Rönnbaum,18,,53.69176349,10.35077151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAe,22965,Todendorf,Rönnbaum,2,,53.69447246,10.34902869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAf,22965,Todendorf,Rönnbaum,23,,53.69083218,10.35518818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAg,22965,Todendorf,Rönnbaum,25,,53.69076104,10.35540276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAh,22965,Todendorf,Rönnbaum,27,,53.69054835,10.35612111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAi,22965,Todendorf,Rönnbaum,27,a,53.6906611,10.35581362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAj,22965,Todendorf,Rönnbaum,28,,53.69052883,10.35525344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAk,22965,Todendorf,Rönnbaum,29,,53.69051811,10.35688713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAl,22965,Todendorf,Rönnbaum,29,a,53.69060671,10.35744661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAm,22965,Todendorf,Rönnbaum,3,,53.69465234,10.34993693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAn,22965,Todendorf,Rönnbaum,30,,53.69010719,10.35508856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAo,22965,Todendorf,Rönnbaum,31,,53.69055127,10.35790385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAp,22965,Todendorf,Rönnbaum,32,,53.69032995,10.35584899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAq,22965,Todendorf,Rönnbaum,33,,53.69047441,10.35874936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAr,22965,Todendorf,Rönnbaum,33,a,53.69045126,10.35898214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAs,22965,Todendorf,Rönnbaum,33,b,53.69041357,10.35923361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAt,22965,Todendorf,Rönnbaum,34,,53.69023414,10.35619196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAu,22965,Todendorf,Rönnbaum,35,,53.69019762,10.36021086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAv,22965,Todendorf,Rönnbaum,36,,53.69020303,10.35646133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAw,22965,Todendorf,Rönnbaum,37,,53.69015412,10.36103055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAx,22965,Todendorf,Rönnbaum,38,,53.69031772,10.35677208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAy,22965,Todendorf,Rönnbaum,39,,53.69023099,10.36136907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsAz,22965,Todendorf,Rönnbaum,4,,53.69426958,10.349033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB0,22965,Todendorf,Rübland,2,,53.69142602,10.35136271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB1,22965,Todendorf,Rübland,3,,53.69110656,10.35162686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB2,22965,Todendorf,Rübland,4,,53.69125163,10.35125946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB3,22965,Todendorf,Rübland,5,,53.690956,10.35151107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB4,22965,Todendorf,Rübland,5,a,53.69093234,10.35161774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB5,22965,Todendorf,Rübland,6,,53.69110832,10.3511869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB6,22965,Todendorf,Rübland,6,a,53.69102846,10.35115257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB7,22965,Todendorf,Rübland,7,,53.69072172,10.35143472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB8,22965,Todendorf,Rübland,8,,53.69081471,10.351026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsB9,22965,Todendorf,Rübland,8,a,53.69034765,10.35082745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBA,22965,Todendorf,Waldweg,36,,53.69335369,10.33643912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBB,22965,Todendorf,Waldweg,38,,53.69324962,10.33616789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBC,22965,Todendorf,Waldweg,4,,53.69408883,10.34606955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBD,22965,Todendorf,Waldweg,40,,53.69308739,10.33550113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBE,22965,Todendorf,Waldweg,40,a,53.69315198,10.33505491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBF,22965,Todendorf,Waldweg,42,,53.69317893,10.33478236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBG,22965,Todendorf,Waldweg,44,,53.69617027,10.33217538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBH,22965,Todendorf,Waldweg,44,a,53.69618317,10.3317204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBI,22965,Todendorf,Waldweg,46,,53.69620669,10.33124113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBJ,22965,Todendorf,Waldweg,48,,53.69598723,10.3288417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBK,22965,Todendorf,Waldweg,5,,53.69370749,10.34582652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBL,22965,Todendorf,Waldweg,50,,53.69590469,10.32798371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBM,22965,Todendorf,Waldweg,52,,53.69821565,10.32260339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBN,22965,Todendorf,Waldweg,6,,53.69410385,10.34562082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBO,22965,Todendorf,Waldweg,7,,53.69375617,10.34560006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBP,22965,Todendorf,Waldweg,9,,53.6938058,10.34528422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBQ,22965,Todendorf,Wolmershorst,1,,53.69288031,10.32885756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBR,22965,Todendorf,Wolmershorst,2,,53.69289119,10.32667375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBS,22965,Todendorf,Wolmershorst,3,,53.69250566,10.3255133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBT,22965,Todendorf,Zum Buchenwald,1,,53.69596688,10.37012685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBU,22965,Todendorf,Zum Mühlenteich,1,,53.71441404,10.34820603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBV,22965,Todendorf,Zum Mühlenteich,2,,53.71388685,10.35038265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBW,22965,Todendorf,Zum Mühlenteich,2,a,53.71400259,10.35117194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBX,22965,Todendorf,Zum Mühlenteich,3,,53.71236473,10.3630195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBY,22965,Todendorf,Zum Mühlenteich,3,a,53.71238257,10.3633447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBZ,22965,Todendorf,Zum Mühlenteich,4,,53.70695224,10.359474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBa,22965,Todendorf,Rübland,9,,53.69057349,10.35132395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBb,22965,Todendorf,Waldweg,1,,53.69356775,10.34659266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBc,22965,Todendorf,Waldweg,11,,53.69387217,10.34496558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBd,22965,Todendorf,Waldweg,11,a,53.69372783,10.34485364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBe,22965,Todendorf,Waldweg,12,,53.69434209,10.34440345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBf,22965,Todendorf,Waldweg,14,,53.69444699,10.34414676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBg,22965,Todendorf,Waldweg,15,,53.69390066,10.34467209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBh,22965,Todendorf,Waldweg,16,,53.69450678,10.34391461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBi,22965,Todendorf,Waldweg,17,,53.69402132,10.34420758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBj,22965,Todendorf,Waldweg,18,a,53.69456274,10.34357875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBk,22965,Todendorf,Waldweg,18,b,53.6945963,10.34347692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBl,22965,Todendorf,Waldweg,2,,53.69396261,10.34629637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBm,22965,Todendorf,Waldweg,20,,53.69460471,10.34319456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBn,22965,Todendorf,Waldweg,22,,53.69462764,10.34296709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBo,22965,Todendorf,Waldweg,24,,53.69471737,10.34231849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBp,22965,Todendorf,Waldweg,24,a,53.69472153,10.34192367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBq,22965,Todendorf,Waldweg,24,b,53.69478766,10.34169296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBr,22965,Todendorf,Waldweg,26,,53.69442249,10.34090556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBs,22965,Todendorf,Waldweg,27,,53.69279093,10.33480938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBt,22965,Todendorf,Waldweg,29,,53.69286341,10.33425637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBu,22965,Todendorf,Waldweg,3,,53.69364759,10.34610704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBv,22965,Todendorf,Waldweg,30,,53.69428428,10.33986641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBw,22965,Todendorf,Waldweg,32,,53.69417962,10.33914427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBx,22965,Todendorf,Waldweg,32,a,53.69421154,10.3388566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBy,22965,Todendorf,Waldweg,32,b,53.69406004,10.33859888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsBz,22965,Todendorf,Waldweg,34,,53.69353258,10.33681935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC0,22965,Todendorf,Zum Mühlenteich,5,,53.70916815,10.36309167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvS,22965,Todendorf,Altenfelder Straße,1,,53.69628668,10.34953324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvT,22965,Todendorf,Altenfelder Straße,10,,53.69664661,10.35266668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvU,22965,Todendorf,Altenfelder Straße,10,a,53.69679203,10.35297421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvV,22965,Todendorf,Altenfelder Straße,11,,53.70100734,10.35849308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvW,22965,Todendorf,Altenfelder Straße,12,,53.69918615,10.36115197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvX,22965,Todendorf,Altenfelder Straße,14,,53.69924458,10.36170027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvY,22965,Todendorf,Altenfelder Straße,15,,53.70183083,10.36072993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsvZ,22965,Todendorf,Altenfelder Straße,16,,53.69941955,10.36206408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw0,22965,Todendorf,Altenfelder Straße,18,,53.69953931,10.36249432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw1,22965,Todendorf,Altenfelder Straße,20,,53.69964532,10.36283965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw2,22965,Todendorf,Altenfelder Straße,22,,53.69978271,10.36334033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw3,22965,Todendorf,Altenfelder Straße,24,,53.69993828,10.36388477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw4,22965,Todendorf,Altenfelder Straße,26,,53.70024077,10.36458725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw5,22965,Todendorf,Altenfelder Straße,28,,53.70194504,10.37391313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw6,22965,Todendorf,Altenfelder Straße,4,,53.69615793,10.35067367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw7,22965,Todendorf,Altenfelder Straße,5,,53.6970472,10.35263133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw8,22965,Todendorf,Altenfelder Straße,6,,53.69615431,10.35102658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsw9,22965,Todendorf,Altenfelder Straße,7,,53.69914299,10.3596738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswA,22965,Todendorf,Am Wiesengrund,13,,53.69514709,10.34640553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswB,22965,Todendorf,Am Wiesengrund,14,,53.69458613,10.34665576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswC,22965,Todendorf,Am Wiesengrund,16,,53.69443087,10.34693187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswD,22965,Todendorf,Am Wiesengrund,18,,53.69474091,10.34689121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswE,22965,Todendorf,Am Wiesengrund,2,,53.69429446,10.34535096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswF,22965,Todendorf,Am Wiesengrund,20,,53.69453277,10.34712604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswG,22965,Todendorf,Am Wiesengrund,22,,53.69495699,10.34702707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswH,22965,Todendorf,Am Wiesengrund,3,,53.69444916,10.34503574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswI,22965,Todendorf,Am Wiesengrund,4,,53.69434637,10.3458484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswJ,22965,Todendorf,Am Wiesengrund,5,,53.69459171,10.34525237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswK,22965,Todendorf,Am Wiesengrund,6,,53.69458145,10.34596185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswL,22965,Todendorf,Am Wiesengrund,7,,53.69472249,10.34555858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswM,22965,Todendorf,Am Wiesengrund,8,,53.69440995,10.34632467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswN,22965,Todendorf,Am Wiesengrund,9,,53.69488158,10.34581675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswO,22965,Todendorf,Bornbrook,1,,53.68229838,10.33393934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswP,22965,Todendorf,Bornbrook,3,,53.68357424,10.33164918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswQ,22965,Todendorf,Gölm,1,,53.68925247,10.36398984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswS,22965,Todendorf,Gölm,1,d,53.68894804,10.36420609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswT,22965,Todendorf,Gölm,1,e,53.68867823,10.36428914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswU,22965,Todendorf,Gölm,10,,53.68342793,10.3518535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswV,22965,Todendorf,Gölm,12,,53.68265647,10.34904971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswW,22965,Todendorf,Gölm,14,,53.68217622,10.34871384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswX,22965,Todendorf,Gölm,15,,53.68629009,10.35439067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswY,22965,Todendorf,Gölm,16,a,53.68193592,10.35148382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LswZ,22965,Todendorf,Gölm,17,,53.68624369,10.35431436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswa,22965,Todendorf,Altenfelder Straße,8,,53.69614389,10.35143178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswb,22965,Todendorf,Am Hofplatz,1,,53.6965146,10.34660925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswd,22965,Todendorf,Am Hofplatz,11,,53.69597141,10.34669171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswe,22965,Todendorf,Am Hofplatz,12,,53.6962937,10.34644255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswf,22965,Todendorf,Am Hofplatz,13,,53.6958427,10.34648912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswg,22965,Todendorf,Am Hofplatz,14,,53.69603654,10.34634419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswh,22965,Todendorf,Am Hofplatz,15,,53.69569099,10.34628302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswi,22965,Todendorf,Am Hofplatz,16,,53.69586731,10.34605892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswj,22965,Todendorf,Am Hofplatz,17,,53.69532606,10.34593868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswk,22965,Todendorf,Am Hofplatz,18,,53.69572557,10.3457549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswl,22965,Todendorf,Am Hofplatz,19,,53.6951917,10.34552488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswm,22965,Todendorf,Am Hofplatz,2,,53.69681397,10.34647448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswn,22965,Todendorf,Am Hofplatz,20,,53.6955224,10.34546876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswo,22965,Todendorf,Am Hofplatz,22,,53.69529988,10.34532652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswp,22965,Todendorf,Am Hofplatz,3,,53.69639428,10.34689156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswq,22965,Todendorf,Am Hofplatz,4,,53.6969253,10.34620348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswr,22965,Todendorf,Am Hofplatz,5,,53.69637834,10.34728159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsws,22965,Todendorf,Am Hofplatz,6,,53.69675198,10.34593963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswt,22965,Todendorf,Am Hofplatz,7,,53.69625858,10.34705577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswu,22965,Todendorf,Am Hofplatz,8,,53.69665303,10.3462435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswv,22965,Todendorf,Am Hofplatz,9,,53.69611744,10.34686023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsww,22965,Todendorf,Am Wiesengrund,1,,53.69431189,10.34470185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswx,22965,Todendorf,Am Wiesengrund,10,,53.69423345,10.34663017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswy,22965,Todendorf,Am Wiesengrund,11,,53.69496598,10.34612125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lswz,22965,Todendorf,Am Wiesengrund,12,,53.69473247,10.3462777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx0,22965,Todendorf,Gölm,19,,53.68495128,10.35363442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx1,22965,Todendorf,Gölm,2,,53.68763229,10.35762997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx2,22965,Todendorf,Gölm,21,,53.68492138,10.35331144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx3,22965,Todendorf,Gölm,27,,53.68269663,10.3520535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx4,22965,Todendorf,Gölm,29,,53.68214484,10.35193165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx5,22965,Todendorf,Gölm,3,,53.68798029,10.3614817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx6,22965,Todendorf,Gölm,4,,53.68750117,10.35654555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx7,22965,Todendorf,Gölm,5,,53.68749787,10.35821425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx8,22965,Todendorf,Gölm,6,,53.68602666,10.35378387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsx9,22965,Todendorf,Gölm,7,,53.68740604,10.35773695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxA,22965,Todendorf,Hauptstraße,31,,53.69857836,10.34574037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxB,22965,Todendorf,Hauptstraße,31,a,53.69846196,10.34585071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxC,22965,Todendorf,Hauptstraße,32,,53.69533114,10.34897474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxD,22965,Todendorf,Hauptstraße,33,,53.69747017,10.34628331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxF,22965,Todendorf,Hauptstraße,35,,53.69648553,10.34896274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxG,22965,Todendorf,Hauptstraße,35,b,53.69544689,10.34983119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxI,22965,Todendorf,Hauptstraße,37,,53.69541731,10.34957595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxJ,22965,Todendorf,Hauptstraße,37,a,53.69519198,10.35026184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxL,22965,Todendorf,Hauptstraße,38,,53.69430455,10.34773177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxO,22965,Todendorf,Hauptstraße,4,,53.7126372,10.34242586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxP,22965,Todendorf,Hauptstraße,40,,53.6941339,10.3473383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxQ,22965,Todendorf,Hauptstraße,42,,53.69397467,10.34706442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxR,22965,Todendorf,Hauptstraße,43,,53.69427844,10.34813506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxS,22965,Todendorf,Hauptstraße,44,,53.6938178,10.34681647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxT,22965,Todendorf,Hauptstraße,46,,53.69327446,10.34638128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxU,22965,Todendorf,Hauptstraße,48,,53.69308746,10.34626924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxV,22965,Todendorf,Hauptstraße,50,,53.69292538,10.34610294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxW,22965,Todendorf,Hauptstraße,52,,53.69268603,10.34589919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxX,22965,Todendorf,Hauptstraße,54,,53.69231368,10.34566679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxY,22965,Todendorf,Hauptstraße,56,,53.69215284,10.34544398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsxZ,22965,Todendorf,Hauptstraße,58,,53.69199002,10.34533524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxa,22965,Todendorf,Gölm,8,,53.68545771,10.35384494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxb,22965,Todendorf,Gölm,9,,53.68736478,10.35695146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxc,22965,Todendorf,Hauptstraße,10,,53.70353013,10.34231369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxd,22965,Todendorf,Hauptstraße,11,,53.70868469,10.34328825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxe,22965,Todendorf,Hauptstraße,12,,53.70278029,10.34225183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxf,22965,Todendorf,Hauptstraße,14,,53.70156766,10.34252346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxg,22965,Todendorf,Hauptstraße,14,a,53.70125578,10.34253009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxh,22965,Todendorf,Hauptstraße,15,,53.70617089,10.34299138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxi,22965,Todendorf,Hauptstraße,16,,53.70109764,10.34261394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxj,22965,Todendorf,Hauptstraße,17,,53.7036553,10.34269088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxk,22965,Todendorf,Hauptstraße,18,,53.69755092,10.34557756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxl,22965,Todendorf,Hauptstraße,18,a,53.6971688,10.34588082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxm,22965,Todendorf,Hauptstraße,19,,53.70359228,10.34270922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxn,22965,Todendorf,Hauptstraße,2,,53.71320079,10.3422963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxo,22965,Todendorf,Hauptstraße,20,,53.69652996,10.34828031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxp,22965,Todendorf,Hauptstraße,21,,53.70300215,10.34274782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxq,22965,Todendorf,Hauptstraße,22,,53.69639671,10.34850677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxr,22965,Todendorf,Hauptstraße,23,,53.70232441,10.34262346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxs,22965,Todendorf,Hauptstraße,25,,53.70092561,10.34311573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxt,22965,Todendorf,Hauptstraße,26,,53.69624408,10.34894896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxu,22965,Todendorf,Hauptstraße,28,,53.69585594,10.34915636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxv,22965,Todendorf,Hauptstraße,28,a,53.69570074,10.3491001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxw,22965,Todendorf,Hauptstraße,29,,53.69923808,10.34559533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxx,22965,Todendorf,Hauptstraße,3,,53.71033297,10.34345793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxy,22965,Todendorf,Hauptstraße,3,a,53.71060467,10.34347607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsxz,22965,Todendorf,Hauptstraße,30,,53.69554745,10.34909006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy0,22965,Todendorf,Hauptstraße,6,,53.70911548,10.34297682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy1,22965,Todendorf,Hauptstraße,60,,53.69188704,10.34512009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy2,22965,Todendorf,Hauptstraße,62,,53.69159779,10.34505074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy3,22965,Todendorf,Hauptstraße,64,,53.68968023,10.34418902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy4,22965,Todendorf,Hauptstraße,64,a,53.68952606,10.34400926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy5,22965,Todendorf,Hauptstraße,66,,53.68811572,10.34312302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy6,22965,Todendorf,Hauptstraße,67,,53.69041786,10.34481708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy7,22965,Todendorf,Hauptstraße,69,,53.68991074,10.34457078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy8,22965,Todendorf,Hauptstraße,7,,53.70920446,10.34339632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsy9,22965,Todendorf,Hauptstraße,70,,53.68634618,10.34074422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyA,22965,Todendorf,Kalkkuhle,8,,53.69887281,10.32959262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyB,22965,Todendorf,Kalkkuhle,8,b,53.69911005,10.33017189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyC,22965,Todendorf,Kalkkuhle,9,,53.69933554,10.33079856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyD,22965,Todendorf,Krummstück,1,,53.68606463,10.33508544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyE,22965,Todendorf,Krummstück,2,,53.68476013,10.3269193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyF,22965,Todendorf,Krummstück,3,,53.68498677,10.32702467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyG,22965,Todendorf,Krummstück,4,,53.68439931,10.3338965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyH,22965,Todendorf,Krummstück,5,,53.68666268,10.32517715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyI,22965,Todendorf,Mannhagen,1,,53.70506619,10.35151716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyJ,22965,Todendorf,Mannhagen,2,,53.70595381,10.34527085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyK,22965,Todendorf,Mannhagen,3,,53.70606234,10.35320367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyL,22965,Todendorf,Mannhagen,4,,53.70584267,10.34604449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyM,22965,Todendorf,Mannhagen,4,a,53.70582489,10.34615791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyN,22965,Todendorf,Mannhagen,5,,53.70562336,10.35398056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyO,22965,Todendorf,Mannhagen,6,,53.7058643,10.34650185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyP,22965,Todendorf,Mannhagen,7,,53.70453522,10.35259922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyQ,22965,Todendorf,Mannhagen,8,,53.70489468,10.35093545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyR,22965,Todendorf,Moorweg,2,,53.70399103,10.340009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyT,22965,Todendorf,Niekoppel,1,,53.67808295,10.36097601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyU,22965,Todendorf,Niekoppel,11,,53.68115331,10.36985594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyV,22965,Todendorf,Niekoppel,12,,53.68162191,10.37027325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyW,22965,Todendorf,Niekoppel,2,,53.6783329,10.36169847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyX,22965,Todendorf,Niekoppel,3,,53.67868864,10.36250094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyY,22965,Todendorf,Niekoppel,31,,53.67994722,10.35203859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsyZ,22965,Todendorf,Niekoppel,33,,53.67985337,10.35196625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsya,22965,Todendorf,Hauptstraße,71,,53.6873192,10.34607149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyb,22965,Todendorf,Hauptstraße,72,,53.68499074,10.33900559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyc,22965,Todendorf,Hauptstraße,73,,53.68692746,10.34235563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyd,22965,Todendorf,Hauptstraße,74,,53.68461654,10.33849612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsye,22965,Todendorf,Hauptstraße,74,a,53.68424534,10.33831943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyf,22965,Todendorf,Hauptstraße,75,,53.68446999,10.33887583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyg,22965,Todendorf,Hauptstraße,76,,53.68368268,10.33901456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyh,22965,Todendorf,Hauptstraße,76,a,53.68349601,10.33938556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyi,22965,Todendorf,Hauptstraße,76,b,53.68354089,10.33930673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyj,22965,Todendorf,Hauptstraße,77,,53.68405134,10.33917481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyk,22965,Todendorf,Hauptstraße,77,a,53.68374786,10.33987467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyl,22965,Todendorf,Hauptstraße,79,,53.68352306,10.34014028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsym,22965,Todendorf,Hauptstraße,9,,53.70884411,10.34334925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyn,22965,Todendorf,Herbertweg,1,,53.69444933,10.32417601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyo,22965,Todendorf,Herbertweg,3,,53.69272604,10.32274084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyp,22965,Todendorf,Höltenklink,1,,53.70958344,10.34697289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyq,22965,Todendorf,Höltenklink,3,,53.70964311,10.34748997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyr,22965,Todendorf,Kalkkuhle,1,,53.69637319,10.32836098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsys,22965,Todendorf,Kalkkuhle,1,a,53.69618341,10.32831037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyt,22965,Todendorf,Kalkkuhle,10,,53.70125382,10.33314787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyu,22965,Todendorf,Kalkkuhle,11,,53.70262298,10.33356194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyv,22965,Todendorf,Kalkkuhle,2,,53.69658089,10.32843217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyw,22965,Todendorf,Kalkkuhle,3,,53.69672171,10.32827815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyx,22965,Todendorf,Kalkkuhle,4,,53.6973929,10.32866947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyy,22965,Todendorf,Kalkkuhle,6,,53.69836846,10.32916726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsyz,22965,Todendorf,Kalkkuhle,7,,53.69857332,10.32935825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz0,22965,Todendorf,Niekoppel,5,,53.67932794,10.36386388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz1,22965,Todendorf,Niekoppel,5,a,53.67940679,10.36385574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz2,22965,Todendorf,Niekoppel,5,b,53.6795005,10.36404586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz3,22965,Todendorf,Niekoppel,5,c,53.67951076,10.36417026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz4,22965,Todendorf,Niekoppel,6,,53.67979224,10.36409164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz5,22965,Todendorf,Niekoppel,6,a,53.67986635,10.36407905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz6,22965,Todendorf,Niekoppel,7,,53.67971287,10.36485492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz7,22965,Todendorf,Niekoppel,7,a,53.67951121,10.36457951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz8,22965,Todendorf,Niekoppel,8,,53.67964544,10.36541391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsz9,22965,Todendorf,Niekoppel,9,,53.68028188,10.36755733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszA,22965,Todendorf,Neue Straße,32,,53.68973735,10.34852253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszB,22965,Todendorf,Neue Straße,33,,53.69018818,10.35016378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszC,22965,Todendorf,Neue Straße,34,,53.68975539,10.34882746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszE,22965,Todendorf,Neue Straße,36,,53.68976078,10.3491425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszF,22965,Todendorf,Neue Straße,38,,53.68982034,10.34943665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszG,22965,Todendorf,Neue Straße,4,,53.69098003,10.35024303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszH,22965,Todendorf,Neue Straße,40,,53.68978797,10.34975156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszI,22965,Todendorf,Neue Straße,42,,53.6898348,10.35005513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszJ,22965,Todendorf,Neue Straße,44,,53.68986349,10.35049032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszK,22965,Todendorf,Neue Straße,5,,53.69066969,10.35017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszL,22965,Todendorf,Neue Straße,6,,53.69111923,10.34999426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszM,22965,Todendorf,Neue Straße,7,,53.69067781,10.34986547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszN,22965,Todendorf,Neue Straße,8,,53.69114717,10.34973257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszO,22965,Todendorf,Neue Straße,8,a,53.6912259,10.34961808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszP,22965,Todendorf,Neue Straße,9,,53.69071305,10.34962304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszQ,22965,Todendorf,Pöhlswiese,1,,53.69727667,10.32151033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszR,22965,Todendorf,Pöhlswiese,3,,53.69637064,10.31830758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszS,22965,Todendorf,Pöhlswiese,4,,53.6961076,10.32035326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszT,22965,Todendorf,Pöhlswiese,5,,53.69545213,10.32003429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszU,22965,Todendorf,Pöhlswiese,5,a,53.69353755,10.32144246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszW,22965,Todendorf,Rögen,1,,53.71912331,10.34779134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszX,22965,Todendorf,Rögen,3,,53.71898876,10.34991412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszY,22965,Todendorf,Rönnbaum,1,,53.69463031,10.34961222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LszZ,22965,Todendorf,Rönnbaum,11,a,53.69336169,10.35121769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsza,22965,Todendorf,Neue Straße,1,,53.6906555,10.35098681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszb,22965,Todendorf,Neue Straße,1,a,53.69066088,10.35079025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszc,22965,Todendorf,Neue Straße,10,,53.69093333,10.34962477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszd,22965,Todendorf,Neue Straße,11,,53.69069177,10.34938166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lsze,22965,Todendorf,Neue Straße,12,,53.69098341,10.34922287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszf,22965,Todendorf,Neue Straße,14,,53.6910287,10.34892657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszg,22965,Todendorf,Neue Straße,15,,53.690656,10.3491122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszh,22965,Todendorf,Neue Straße,16,,53.6910171,10.34864712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszi,22965,Todendorf,Neue Straße,17,,53.69064888,10.34885351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszj,22965,Todendorf,Neue Straße,18,,53.69096521,10.34836219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszk,22965,Todendorf,Neue Straße,19,,53.69063563,10.34858975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszl,22965,Todendorf,Neue Straße,2,,53.69091044,10.35068687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszm,22965,Todendorf,Neue Straße,2,a,53.69093016,10.3504698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszn,22965,Todendorf,Neue Straße,20,,53.69095166,10.3480637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszo,22965,Todendorf,Neue Straße,21,,53.69062418,10.34834272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszp,22965,Todendorf,Neue Straße,22,,53.69096056,10.34772476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszq,22965,Todendorf,Neue Straße,23,,53.69007986,10.34856046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszr,22965,Todendorf,Neue Straße,25,,53.69006601,10.34884734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszs,22965,Todendorf,Neue Straße,26,,53.69058361,10.34796177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszt,22965,Todendorf,Neue Straße,26,a,53.69035474,10.34809278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszu,22965,Todendorf,Neue Straße,27,,53.69007958,10.34913386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszv,22965,Todendorf,Neue Straße,28,,53.69004342,10.34816896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszw,22965,Todendorf,Neue Straße,29,,53.69015609,10.34949822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszx,22965,Todendorf,Neue Straße,3,,53.69065465,10.35045493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszy,22965,Todendorf,Neue Straße,30,,53.68975789,10.34821893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lszz,22965,Todendorf,Neue Straße,31,,53.69012541,10.34979093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Iv5Z,22965,Todendorf,Hauptstraße,75,a,53.68429157,10.33898268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JSQg,22965,Todendorf,Hauptstraße,27,,53.70049603,10.34341583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OTcx,22965,Todendorf,Rübland,10,a,53.69004883,10.35057332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PuR0,22965,Todendorf,Rönnbaum,11,,53.69328886,10.35102924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004YasA,22965,Todendorf,Am Hofplatz,10,b,53.69637277,10.34616137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004YasG,22965,Todendorf,Am Hofplatz,10,a,53.69642198,10.34605784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054TdV,22965,Todendorf,Rübland,12,a,53.68727736,10.34703633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056Mnx,22965,Todendorf,Am Heeschberg,12,,53.69574869,10.34463867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057R52,22965,Todendorf,Am Hofplatz,7,a,53.69621618,10.34699849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059zUK,22965,Todendorf,Gölm,7,a,53.68735411,10.35733271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005A6ZC,22965,Todendorf,Hauptstraße,36,a,53.69445531,10.34790387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005A7sk,22965,Todendorf,Hauptstraße,36,,53.69452442,10.34808561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AhEP,22965,Todendorf,Altenfelder Straße,10,b,53.69531655,10.35949526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HZRF,22965,Todendorf,Hauptstraße,32,b,53.69490034,10.34876261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IOto,22965,Todendorf,Am Heeschberg,9,,53.69563908,10.34486529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IuMr,22965,Todendorf,Am Heeschberg,22,,53.69508313,10.34362571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UutK,22965,Todendorf,Am Heeschberg,13,,53.6953436,10.34447106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aiVC,22965,Todendorf,Am Heeschberg,5,a,53.69597101,10.34535441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aiVE,22965,Todendorf,Am Heeschberg,5,b,53.69591472,10.34528394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hL5l,22965,Todendorf,Am Heeschberg,4,,53.69636709,10.34550321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hL5r,22965,Todendorf,Am Heeschberg,6,,53.69621305,10.34525839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005l1ea,22965,Todendorf,Am Heeschberg,14,,53.69558943,10.34443761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDqO,22965,Todendorf,Am Hofplatz,12,a,53.69624981,10.34653383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDqW,22965,Todendorf,Am Heeschberg,2,,53.69651231,10.34572726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDr1,22965,Todendorf,Am Heeschberg,8,,53.69604897,10.34504879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDr6,22965,Todendorf,Am Heeschberg,16,,53.69545721,10.34426369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDrE,22965,Todendorf,Am Hofplatz,14,a,53.69598243,10.34627335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDrI,22965,Todendorf,Am Heeschberg,10,,53.69589203,10.34474522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDrr,22965,Todendorf,Am Heeschberg,18,,53.69532975,10.34407316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDrw,22965,Todendorf,Am Heeschberg,24,a,53.6949526,10.34345876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDry,22965,Todendorf,Am Heeschberg,24,b,53.6949813,10.34336228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDs1,22965,Todendorf,Am Heeschberg,20,,53.69521467,10.34387953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pDs7,22965,Todendorf,Am Heeschberg,22,a,53.69510519,10.34354197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005r9pE,22965,Todendorf,Am Heeschberg,27,,53.69489913,10.34377825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zjDK,22965,Todendorf,Rönnbaum,3,a,53.69444759,10.35002281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WJ,22965,Todendorf,Hauptstraße,39,,53.69479523,10.34933288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WK,22965,Todendorf,Hauptstraße,39,a,53.6948825,10.34949329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WL,22965,Todendorf,Hauptstraße,39,b,53.69497508,10.34951765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WM,22965,Todendorf,Hauptstraße,39,c,53.69509033,10.3495279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WN,22965,Todendorf,Hauptstraße,39,d,53.69502689,10.34974962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636WO,22965,Todendorf,Hauptstraße,39,e,53.69489605,10.34969727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000636Ww,22965,Todendorf,Hauptstraße,41,,53.69439917,10.34854137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063XdD,22965,Todendorf,Am Heeschberg,17,,53.6950232,10.3446903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066wmt,22965,Todendorf,Am Heeschberg,3,,53.69610428,10.34557613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000684zL,22965,Todendorf,Am Heeschberg,11,,53.69549745,10.34466313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068oWq,22965,Todendorf,Am Heeschberg,1,,53.69624446,10.34570128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JCzz,22965,Todendorf,Am Heeschberg,15,,53.69512957,10.34496254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q2SL,22965,Todendorf,Am Heeschberg,23,,53.69485148,10.34454747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt16,22965,Todendorf,Gretjenrade,22,,53.6913374,10.34338931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1B,22965,Todendorf,Gretjenrade,24,,53.69139815,10.34286189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1M,22965,Todendorf,Gretjenrade,16,,53.69172852,10.34347022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1U,22965,Todendorf,Gretjenrade,8,,53.69116895,10.34416064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1X,22965,Todendorf,Gretjenrade,14,,53.69163375,10.34386135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1k,22965,Todendorf,Gretjenrade,20,,53.69147072,10.34345489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt1y,22965,Todendorf,Gretjenrade,18,,53.69159879,10.34299819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt28,22965,Todendorf,Gretjenrade,6,,53.69148095,10.34431906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt2A,22965,Todendorf,Gretjenrade,2,,53.69119435,10.34453559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt2b,22965,Todendorf,Gretjenrade,12,,53.69146078,10.3437196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt2k,22965,Todendorf,Gretjenrade,4,,53.69144962,10.34464163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qt2r,22965,Todendorf,Gretjenrade,10,,53.69125156,10.34386198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rs89,22965,Todendorf,Gölm,1,f,53.68863123,10.36430967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rs8O,22965,Todendorf,Gölm,1,b,53.68916715,10.36401622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rs8P,22965,Todendorf,Gölm,1,c,53.68912459,10.36402937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rs8h,22965,Todendorf,Gölm,1,g,53.68842063,10.36445319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rs8i,22965,Todendorf,Gölm,1,a,53.68921248,10.36400221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006iqX2,22965,Todendorf,Hauptstraße,32,c,53.69481102,10.34856768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jnAw,22965,Todendorf,Am Heeschberg,7,,53.69572202,10.34511304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oeH3,22965,Todendorf,Rönnbaum,8,a,53.69409022,10.34977774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pjaZ,22965,Todendorf,Am Heeschberg,25,,53.69481525,10.34410075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sGc6,22965,Todendorf,Am Hofplatz,6,a,53.69680278,10.34584358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sJYh,22965,Todendorf,Rönnbaum,46,c,53.69022449,10.35846182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vunt,22965,Todendorf,Am Heeschberg,21,,53.69498144,10.34425286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xT7I,22965,Todendorf,Rögen,2,,53.71890527,10.3497021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075dop,22965,Todendorf,Waldweg,38,a,53.693187,10.33599497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JNOn,22965,Todendorf,Pöhlswiese,4,a,53.69572741,10.32021335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jl39,22965,Todendorf,Hauptstraße,34,,53.6947468,10.34826891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YImB,22965,Todendorf,Gretjenrade,30,,53.6906184,10.34321529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hGGl,22965,Todendorf,Hauptstraße,32,a,53.69505587,10.34894547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hHzP,22965,Todendorf,Zum Mühlenteich,1,a,53.714287,10.35049432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080F4f,22965,Todendorf,Rönnbaum,39,a,53.69009738,10.36129485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000871vx,22965,Todendorf,Moorweg,3,,53.70431904,10.33635607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Dhnp,22965,Todendorf,Am Heeschberg,19,,53.69517154,10.34431298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008G6Df,22965,Todendorf,Gretjenrade,28,,53.69097935,10.34264283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hjfS,22965,Todendorf,Meiereigraben,5,,53.69583334,10.35010476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i0ga,22965,Todendorf,Meiereigraben,3,,53.69579971,10.3496398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i0gg,22965,Todendorf,Meiereigraben,1,,53.69564782,10.34958104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o4Ma,22965,Todendorf,Gretjenrade,26,,53.69085393,10.34330276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qVRb,22965,Todendorf,Gölm,3,a,53.68785205,10.3612862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qVmA,22965,Todendorf,Moorweg,2,a,53.70377319,10.33981338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wgjf,22965,Todendorf,Gretjenrade,20,a,53.69151921,10.34347382

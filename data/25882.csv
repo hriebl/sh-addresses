@@ -1,0 +1,390 @@
+# Amtliche Adressen für die Postleitzahl 25882
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eKAL,25882,Welt,Bootführerdeich,2,,54.34460841,8.8423335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eODR,25882,Welt,Alt-Neu-Koog,1,,54.38208843,8.88224411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eODS,25882,Welt,Alt-Neu-Koog,3,,54.39436456,8.8771626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOaI,25882,Welt,Altendeich,8,,54.38981559,8.90009159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU3,25882,Welt,Achter de Kark,1,,54.35163523,8.8258352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU4,25882,Welt,Achter de Kark,1,a,54.35210824,8.82572913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU5,25882,Welt,Achter de Kark,10,,54.35091565,8.82495043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU6,25882,Welt,Achter de Kark,11,,54.35062775,8.82594105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU7,25882,Welt,Achter de Kark,12,,54.35102387,8.82523103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU8,25882,Welt,Achter de Kark,13,,54.35069373,8.82671503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRU9,25882,Welt,Achter de Kark,14,,54.35053158,8.82543779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUA,25882,Welt,Achter de Kark,6,,54.35118155,8.82445767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUB,25882,Welt,Achter de Kark,8,,54.3509611,8.82454054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUC,25882,Welt,Ahlbrandsweg,1,,54.35255441,8.86368078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUD,25882,Welt,Altendeich,1,,54.39706354,8.88017826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUE,25882,Welt,Altendeich,3,,54.39468473,8.88558788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUF,25882,Welt,Altendeich,4,,54.39375194,8.88785295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUG,25882,Welt,Altendeich,5,,54.39105023,8.89517131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUH,25882,Welt,Altendeich,6,,54.39045926,8.89678311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUI,25882,Welt,Altendeich,7,,54.38964723,8.89927636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUJ,25882,Welt,Bootführerdeich,3,,54.34609067,8.85126008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUK,25882,Welt,Bootführerdeich,5,,54.34699394,8.85648641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUL,25882,Welt,Bootführerdeich,6,,54.34790681,8.86212035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUM,25882,Welt,Bradenstraat,2,,54.35232901,8.82692105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUN,25882,Welt,Bradenstraat,4,,54.35240339,8.82692735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUO,25882,Welt,Bradenstraat,6,,54.35248699,8.82693432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUP,25882,Welt,Dörpstraat,1,,54.35254034,8.82750441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUQ,25882,Welt,Dörpstraat,10,,54.35278714,8.82694548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUR,25882,Welt,Dörpstraat,12,,54.35276361,8.82680241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUS,25882,Welt,Dörpstraat,14,,54.35268142,8.82651034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUT,25882,Welt,Dörpstraat,16,,54.35260966,8.82608961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUU,25882,Welt,Dörpstraat,18,,54.35259129,8.8257013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUV,25882,Welt,Dörpstraat,2,,54.35247852,8.82814128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUW,25882,Welt,Dörpstraat,20,,54.35253312,8.82533476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUX,25882,Welt,Dörpstraat,3,,54.35266628,8.82700713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUY,25882,Welt,Dörpstraat,4,,54.35281113,8.8278482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUZ,25882,Welt,Dörpstraat,6,,54.35279732,8.82756528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUa,25882,Welt,Achter de Kark,15,,54.35044618,8.82662992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUb,25882,Welt,Achter de Kark,16,,54.3504643,8.82511555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUc,25882,Welt,Achter de Kark,17,,54.35038721,8.82595622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUd,25882,Welt,Achter de Kark,18,a,54.35053518,8.82461948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUe,25882,Welt,Achter de Kark,18,b,54.35046987,8.82468238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUf,25882,Welt,Achter de Kark,18,c,54.35041527,8.82473489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUg,25882,Welt,Achter de Kark,19,,54.35015815,8.82599433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUh,25882,Welt,Achter de Kark,2,,54.35130924,8.82517637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUi,25882,Welt,Achter de Kark,20,a,54.35023298,8.82469288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUj,25882,Welt,Achter de Kark,20,b,54.35017771,8.82474673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUk,25882,Welt,Achter de Kark,20,c,54.3501139,8.82480859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUl,25882,Welt,Achter de Kark,21,,54.35025288,8.82679126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUm,25882,Welt,Achter de Kark,22,,54.35019833,8.82513736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUn,25882,Welt,Achter de Kark,23,,54.34993261,8.8265874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUo,25882,Welt,Achter de Kark,24,,54.35024427,8.82555204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUp,25882,Welt,Achter de Kark,25,,54.34988866,8.8260617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUq,25882,Welt,Achter de Kark,26,,54.34985621,8.82561281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUr,25882,Welt,Achter de Kark,27,,54.34963831,8.82619157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUs,25882,Welt,Achter de Kark,28,,54.34976917,8.82500655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUt,25882,Welt,Achter de Kark,29,,54.34978584,8.82688609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUu,25882,Welt,Achter de Kark,30,,54.34937971,8.8249488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUv,25882,Welt,Achter de Kark,31,,54.34953432,8.82688193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUw,25882,Welt,Achter de Kark,32,,54.34947502,8.82559191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUx,25882,Welt,Achter de Kark,33,,54.34948886,8.82663381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUy,25882,Welt,Achter de Kark,35,,54.34946311,8.82621417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRUz,25882,Welt,Achter de Kark,4,,54.35122873,8.82481589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV0,25882,Welt,Dörpstraat,7,,54.35258529,8.82672063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV1,25882,Welt,Dörpstraat,8,,54.35280767,8.82730256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV2,25882,Welt,Everschoper Straße,1,,54.40762772,8.82424665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV3,25882,Welt,Friddenbüller Weg,11,,54.36427399,8.7831929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV4,25882,Welt,Friddenbüller Weg,3,,54.35521857,8.79182603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV5,25882,Welt,Friddenbüller Weg,4,,54.35406313,8.79317008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV6,25882,Welt,Friddenbüller Weg,5,,54.35795855,8.79002931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV7,25882,Welt,Friddenbüller Weg,7,,54.35993635,8.78925008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV8,25882,Welt,Friddenbüller Weg,9,,54.36082157,8.78860162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRV9,25882,Welt,Im Altneukoog,1,,54.38713443,8.86794988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVA,25882,Welt,Kaltenhörner Deich,8,,54.37948302,8.86125054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVB,25882,Welt,Kaltenhörner Deich,9,,54.3803167,8.85978546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVC,25882,Welt,Kantorsweg,2,,54.35534946,8.84489751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVD,25882,Welt,Kantorsweg,4,,54.35840135,8.84499401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVE,25882,Welt,Kantorsweg,6,,54.35841269,8.84640347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVF,25882,Welt,Kantorsweg,7,,54.36313025,8.8409151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVG,25882,Welt,Karkenstraat,1,,54.35220114,8.82671311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVH,25882,Welt,Karkenstraat,11,,54.35294029,8.83058722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVI,25882,Welt,Karkenstraat,13,,54.35298715,8.83122652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVJ,25882,Welt,Karkenstraat,2,,54.35181341,8.82706948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVK,25882,Welt,Karkenstraat,3,,54.35222292,8.82697114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVL,25882,Welt,Karkenstraat,4,,54.35211282,8.82725347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVM,25882,Welt,Karkenstraat,5,,54.3522214,8.82722574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVN,25882,Welt,Karkenstraat,7,,54.35273068,8.82938365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVO,25882,Welt,Karkenstraat,9,,54.35279647,8.82991375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVP,25882,Welt,Katharinenheerder Landstraße,1,,54.34345494,8.8314199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVQ,25882,Welt,Kirchdeich,1,,54.35419791,8.83236101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVR,25882,Welt,Kirchdeich,10,,54.36297329,8.82370679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVS,25882,Welt,Kirchdeich,12,,54.36382395,8.82302421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVT,25882,Welt,Kirchdeich,13,,54.36675775,8.82011989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVU,25882,Welt,Kirchdeich,14,,54.36456042,8.82221106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVV,25882,Welt,Kirchdeich,16,,54.36737886,8.82096255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVW,25882,Welt,Kirchdeich,17,,54.36723316,8.81844767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVX,25882,Welt,Kirchdeich,19,,54.3687384,8.81911394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVY,25882,Welt,Kirchdeich,2,,54.35539302,8.83262297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVZ,25882,Welt,Kirchdeich,4,,54.35705268,8.82998249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVa,25882,Welt,Im Altneukoog,2,,54.38695676,8.86840486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVb,25882,Welt,Im Altneukoog,3,,54.38642839,8.86973443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVc,25882,Welt,Im Altneukoog,4,,54.38623359,8.87027278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVd,25882,Welt,Im Altneukoog,5,,54.38587109,8.8712041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVe,25882,Welt,Im Altneukoog,6,,54.3855114,8.87211129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVf,25882,Welt,Kaltenhörner Deich,1,,54.37491223,8.85908818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVg,25882,Welt,Kaltenhörner Deich,10,,54.38024984,8.86184185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVh,25882,Welt,Kaltenhörner Deich,12,,54.38115033,8.86260466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVi,25882,Welt,Kaltenhörner Deich,14,,54.38425788,8.86505811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVj,25882,Welt,Kaltenhörner Deich,16,,54.38443667,8.86517666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVk,25882,Welt,Kaltenhörner Deich,18,,54.38576219,8.86621681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVl,25882,Welt,Kaltenhörner Deich,2,,54.37540122,8.85941065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVm,25882,Welt,Kaltenhörner Deich,20,,54.38881319,8.8668958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVn,25882,Welt,Kaltenhörner Deich,22,,54.39022041,8.86716429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVo,25882,Welt,Kaltenhörner Deich,24,,54.39075423,8.86695169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVp,25882,Welt,Kaltenhörner Deich,26,,54.39294351,8.86819765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVq,25882,Welt,Kaltenhörner Deich,27,,54.39372684,8.86558092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVr,25882,Welt,Kaltenhörner Deich,28,,54.38896066,8.87586679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVs,25882,Welt,Kaltenhörner Deich,29,,54.3947157,8.8571748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVt,25882,Welt,Kaltenhörner Deich,30,,54.39577973,8.86786908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVu,25882,Welt,Kaltenhörner Deich,32,,54.39647864,8.86751958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVv,25882,Welt,Kaltenhörner Deich,34,,54.39763712,8.86740517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVw,25882,Welt,Kaltenhörner Deich,36,,54.39802013,8.86739635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVx,25882,Welt,Kaltenhörner Deich,38,,54.39864145,8.86739598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVy,25882,Welt,Kaltenhörner Deich,4,,54.37592441,8.86000684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRVz,25882,Welt,Kaltenhörner Deich,6,,54.37832113,8.86024158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW0,25882,Welt,Kirchdeich,6,,54.35968202,8.82517845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW1,25882,Welt,Kirchdeich,8,,54.36098795,8.8251241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW2,25882,Welt,Kirchdeich,9,,54.36216583,8.82188603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW4,25882,Welt,Klosterweg,2,,54.39759749,8.84530979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW5,25882,Welt,Klosterweg,2,a,54.39636101,8.84640316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW6,25882,Welt,Klosterweg,3,,54.39866234,8.84855828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW7,25882,Welt,Klosterweg,4,,54.39862494,8.8530112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW8,25882,Welt,Leegeseer Weg,1,,54.34602324,8.82531266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRW9,25882,Welt,Leegeseer Weg,3,,54.34583683,8.80971592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWA,25882,Welt,Mitteldeich,24,,54.39518118,8.82034617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWB,25882,Welt,Mitteldeich,25,,54.39456304,8.82041429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWD,25882,Welt,Mitteldeich,27,,54.39473224,8.81989678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWE,25882,Welt,Mitteldeich,28,,54.39508395,8.81981667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWG,25882,Welt,Mitteldeich,4,,54.3940282,8.82591793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWH,25882,Welt,Mitteldeich,6,,54.39429041,8.82509802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWI,25882,Welt,Mitteldeich,8,,54.39478689,8.82337962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWJ,25882,Welt,Mitteldeich,9,,54.39455955,8.82281189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWK,25882,Welt,Möhlendiek,1,,54.35387315,8.83406995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWL,25882,Welt,Möhlendiek,11,,54.35414352,8.83652612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWM,25882,Welt,Möhlendiek,13,,54.35418147,8.83674292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWN,25882,Welt,Möhlendiek,14,,54.35443012,8.83826905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWO,25882,Welt,Möhlendiek,16,,54.35487878,8.84262538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWP,25882,Welt,Möhlendiek,18,,54.35488394,8.84367052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWQ,25882,Welt,Möhlendiek,2,,54.35176448,8.83565201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWR,25882,Welt,Möhlendiek,3,,54.35393434,8.83440791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWS,25882,Welt,Möhlendiek,5,,54.35399926,8.83477039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWT,25882,Welt,Möhlendiek,7,,54.35405622,8.83569717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWU,25882,Welt,Möhlendiek,9,,54.35412594,8.83603905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWV,25882,Welt,Norderdeich,10,,54.39806667,8.83402436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWW,25882,Welt,Norderdeich,12,,54.39792466,8.83569962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWX,25882,Welt,Norderdeich,14,,54.39777916,8.83709835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWa,25882,Welt,Leegeseer Weg,5,,54.34547344,8.80481569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWb,25882,Welt,Leegeseer Weg,6,,54.3452342,8.79819078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWc,25882,Welt,Marschchaussee,3,,54.35506179,8.80809539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWd,25882,Welt,Marschchaussee,5,,54.35082356,8.80558167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWe,25882,Welt,Marschchaussee,6,,54.35516605,8.79908596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWf,25882,Welt,Marschkoogweg,1,,54.35805876,8.80829673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWg,25882,Welt,Marschkoogweg,10,,54.36964388,8.80158546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWh,25882,Welt,Marschkoogweg,2,,54.35994375,8.81114721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWi,25882,Welt,Marschkoogweg,4,,54.36123134,8.80986726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWj,25882,Welt,Marschkoogweg,6,,54.36793055,8.80639287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWk,25882,Welt,Marschkoogweg,8,,54.36856893,8.80394995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWl,25882,Welt,Mitteldeich,10,,54.39466783,8.82255815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWm,25882,Welt,Mitteldeich,11,,54.39427862,8.82258135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWn,25882,Welt,Mitteldeich,12,,54.39440616,8.82225712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWo,25882,Welt,Mitteldeich,13,,54.3940366,8.82225414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWp,25882,Welt,Mitteldeich,14,,54.39410132,8.82204104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWq,25882,Welt,Mitteldeich,15,,54.39507999,8.82135489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWr,25882,Welt,Mitteldeich,16,,54.39517396,8.82104076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWs,25882,Welt,Mitteldeich,17,,54.39492881,8.82122774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWt,25882,Welt,Mitteldeich,18,,54.39504274,8.82087787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWu,25882,Welt,Mitteldeich,19,,54.39472574,8.8210416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWv,25882,Welt,Mitteldeich,2,,54.39328774,8.82794057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWw,25882,Welt,Mitteldeich,20,,54.39491636,8.82054477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWx,25882,Welt,Mitteldeich,21,,54.3944822,8.82095802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWy,25882,Welt,Mitteldeich,22,,54.39499033,8.82016989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRWz,25882,Welt,Mitteldeich,23,,54.39437668,8.82067222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRX5,25882,Welt,Norderdeich,8,,54.39809281,8.83239953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRX6,25882,Welt,Norderfriedrichskooger Straße,1,,54.39861857,8.8681424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRX7,25882,Welt,Norderfriedrichskooger Straße,3,,54.398639,8.8702325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRX8,25882,Welt,Norderfriedrichskooger Straße,4,,54.39762002,8.87559204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRX9,25882,Welt,Norderfriedrichskooger Straße,5,,54.39792966,8.87758027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXA,25882,Welt,Osterdeich,4,,54.39000383,8.83043549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXB,25882,Welt,Osterdeich,6,,54.39121126,8.8292868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXC,25882,Welt,Osterdeich,8,,54.39152371,8.82910401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXD,25882,Welt,Osterkoogsdeich,11,,54.35583647,8.86228394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXE,25882,Welt,Osterkoogsdeich,13,,54.356083,8.86361928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXF,25882,Welt,Osterkoogsdeich,15,,54.35674153,8.8656126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXG,25882,Welt,Osterkoogsdeich,16,,54.35656648,8.8691097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXH,25882,Welt,Osterkoogsdeich,18,,54.35583042,8.87185715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXI,25882,Welt,Osterkoogsdeich,19,,54.35613454,8.87831238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXJ,25882,Welt,Osterkoogsdeich,20,,54.35253518,8.88388723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXK,25882,Welt,Osterkoogsdeich,3,,54.35472214,8.84964242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXL,25882,Welt,Osterkoogsdeich,5,,54.35510732,8.85585756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXM,25882,Welt,Osterkoogsdeich,7,,54.35519468,8.8583263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXN,25882,Welt,Osterkoogsdeich,9,,54.35552003,8.86183511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXO,25882,Welt,Pilkenkrüz,16,,54.39804498,8.80211872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXP,25882,Welt,Rehmstacker Deich,1,,54.3572248,8.85954039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXQ,25882,Welt,Rehmstacker Deich,10,,54.37105936,8.84284161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXR,25882,Welt,Rehmstacker Deich,11,,54.3711936,8.84160101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXS,25882,Welt,Rehmstacker Deich,13,,54.3738087,8.83684331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXT,25882,Welt,Rehmstacker Deich,15,,54.37326293,8.83249724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXU,25882,Welt,Rehmstacker Deich,17,,54.3749663,8.83506117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXV,25882,Welt,Rehmstacker Deich,19,,54.37660617,8.83125066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXW,25882,Welt,Rehmstacker Deich,3,,54.36034703,8.85674365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXX,25882,Welt,Rehmstacker Deich,5,,54.36345526,8.85274774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXY,25882,Welt,Rehmstacker Deich,6,,54.36770406,8.85195123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXZ,25882,Welt,Rehmstacker Deich,8,,54.36970648,8.84424531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXa,25882,Welt,Norderfriedrichskooger Straße,7,,54.39812726,8.87634997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXb,25882,Welt,Norderfriedrichskooger Straße,9,,54.39819506,8.87584897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXc,25882,Welt,Norderheverkoogstraße,28,,54.40311739,8.80341272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXd,25882,Welt,Norderheverkoogstraße,30,,54.40318823,8.81123653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXe,25882,Welt,Norderheverkoogstraße,31,,54.40372251,8.80223814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXf,25882,Welt,Norderheverkoogstraße,32,,54.40342883,8.8126169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXg,25882,Welt,Norderheverkoogstraße,33,,54.40365249,8.80291556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXh,25882,Welt,Norderheverkoogstraße,34,,54.40363353,8.81633149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXi,25882,Welt,Norderheverkoogstraße,36,,54.402077,8.82385107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXj,25882,Welt,Norderheverkoogstraße,37,,54.40414707,8.81710813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXk,25882,Welt,Norderheverkoogstraße,38,,54.4012037,8.82506518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXl,25882,Welt,Norderheverkoogstraße,39,,54.40415331,8.81943599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXm,25882,Welt,Norderheverweg,1,,54.39891685,8.8124497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXn,25882,Welt,Norderheverweg,3,,54.40743737,8.81155251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXo,25882,Welt,Norderheverweg,5,,54.408863,8.80874351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXp,25882,Welt,Norderheverweg,7,,54.40872074,8.80767648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXq,25882,Welt,Norderheverweg,9,,54.40864453,8.80720066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXr,25882,Welt,Osterdeich,10,,54.39304069,8.83335046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXs,25882,Welt,Osterdeich,12,,54.39323422,8.83370315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXt,25882,Welt,Osterdeich,14,,54.3934552,8.83439562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXu,25882,Welt,Osterdeich,16,,54.39383403,8.83537858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXv,25882,Welt,Osterdeich,18,,54.39421666,8.83582679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXw,25882,Welt,Osterdeich,2,,54.39187376,8.82778839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXx,25882,Welt,Osterdeich,20,,54.3951687,8.83752771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXy,25882,Welt,Osterdeich,22,,54.39603588,8.83879235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRXz,25882,Welt,Osterdeich,25,,54.39769506,8.84092415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY0,25882,Welt,Reinsbüller Weg,1,,54.38275244,8.81547682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY1,25882,Welt,Reinsbüller Weg,2,,54.38361046,8.81487906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY2,25882,Welt,Rothörner Weg,1,,54.37185327,8.81619867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY3,25882,Welt,Rothörner Weg,3,,54.37577134,8.81187647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY4,25882,Welt,Rothörner Weg,5,,54.37641495,8.81199376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY5,25882,Welt,Rothörner Weg,7,,54.37991939,8.80931059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY6,25882,Welt,Seegaarder Weg,1,,54.38870942,8.81687259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY7,25882,Welt,Seegaarder Weg,2,,54.38871213,8.81792785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY8,25882,Welt,Seegaarder Weg,3,,54.38930442,8.81728312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRY9,25882,Welt,Seegaarder Weg,5,,54.39121845,8.81377361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYA,25882,Welt,Trummerieweg,2,,54.35454395,8.84622984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYB,25882,Welt,Warmhörner Deich,10,,54.37524537,8.84713303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYC,25882,Welt,Warmhörner Deich,14,,54.38178329,8.85085345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYD,25882,Welt,Warmhörner Deich,15,,54.38112771,8.85264302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYE,25882,Welt,Warmhörner Deich,16,,54.38215176,8.84981888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYF,25882,Welt,Warmhörner Deich,17,,54.37578253,8.84972034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYG,25882,Welt,Warmhörner Deich,18,,54.37457727,8.84940739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYH,25882,Welt,Warmhörner Deich,19,,54.38020898,8.85606173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYI,25882,Welt,Warmhörner Deich,2,,54.38073062,8.83390788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYJ,25882,Welt,Warmhörner Deich,20,,54.37445187,8.85281934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYK,25882,Welt,Warmhörner Deich,21,,54.37518432,8.85721744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYL,25882,Welt,Warmhörner Deich,22,,54.37388898,8.85734547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYM,25882,Welt,Warmhörner Deich,23,,54.37469239,8.85890393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYN,25882,Welt,Warmhörner Deich,24,,54.37396913,8.85810341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYO,25882,Welt,Warmhörner Deich,26,,54.37438248,8.85917069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYP,25882,Welt,Warmhörner Deich,28,,54.37460162,8.85944336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYQ,25882,Welt,Warmhörner Deich,3,,54.3801542,8.83593946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYR,25882,Welt,Warmhörner Deich,30,,54.37435908,8.8609569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYS,25882,Welt,Warmhörner Deich,32,,54.37284549,8.86193661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYT,25882,Welt,Warmhörner Deich,34,,54.3739663,8.86380355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYU,25882,Welt,Warmhörner Deich,35,,54.37586336,8.86520798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYV,25882,Welt,Warmhörner Deich,36,,54.37395301,8.86393351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYW,25882,Welt,Warmhörner Deich,40,,54.37228586,8.86677225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYX,25882,Welt,Warmhörner Deich,42,,54.37118256,8.86867086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYY,25882,Welt,Warmhörner Deich,43,,54.373259,8.87172575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYa,25882,Welt,Seegaarder Weg,6,,54.39252902,8.81376991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYb,25882,Welt,Seegaarder Weg,8,,54.3925312,8.81478184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYc,25882,Welt,Sieversflether Straße,1,,54.37176394,8.81874066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYd,25882,Welt,Sieversflether Straße,10,,54.38056563,8.82622676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYe,25882,Welt,Sieversflether Straße,12,,54.38315831,8.8261118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYf,25882,Welt,Sieversflether Straße,14,,54.38350188,8.82660612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYg,25882,Welt,Sieversflether Straße,15,,54.38415559,8.8253907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYh,25882,Welt,Sieversflether Straße,17,,54.38587528,8.82355422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYi,25882,Welt,Sieversflether Straße,19,,54.3860392,8.82320935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYj,25882,Welt,Sieversflether Straße,2,,54.37115321,8.81861449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYk,25882,Welt,Sieversflether Straße,21,,54.38648412,8.8225551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYl,25882,Welt,Sieversflether Straße,23,,54.38703467,8.82153907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYm,25882,Welt,Sieversflether Straße,24,,54.38752086,8.82070923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYn,25882,Welt,Sieversflether Straße,3,,54.37374906,8.82160924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYo,25882,Welt,Sieversflether Straße,4,,54.37477091,8.82310552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYp,25882,Welt,Sieversflether Straße,6,,54.37604161,8.82452197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYq,25882,Welt,Sieversflether Straße,8,,54.37880569,8.82621515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYr,25882,Welt,Schoolstieg,1,,54.35315945,8.82761026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYs,25882,Welt,Schüttkobenweg,2,,54.35035936,8.84636133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYt,25882,Welt,Schüttkobenweg,3,,54.34824593,8.84903363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYu,25882,Welt,Spülkoogsweg,2,,54.39231624,8.8283184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYv,25882,Welt,Spülkoogsweg,4,,54.39256479,8.8288115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYw,25882,Welt,Spülkoogsweg,6,,54.39317923,8.82947848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYx,25882,Welt,Strohschmiedsweg,1,,54.37674678,8.84401338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYy,25882,Welt,Teskedeich,1,,54.34973844,8.85398594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRYz,25882,Welt,Trummerieweg,1,,54.35333589,8.84886337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ1,25882,Welt,Warmhörner Deich,5,,54.38433669,8.84121692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ2,25882,Welt,Warmhörner Deich,7,,54.38347265,8.84350114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ3,25882,Welt,Warmhörner Deich,8,,54.37528759,8.84501714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ4,25882,Welt,Warmhörner Deich,9,,54.37689475,8.84729999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ5,25882,Welt,Wasserkooger Straße,10,,54.39024007,8.82695392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ6,25882,Welt,Wasserkooger Straße,12,,54.39036132,8.82705773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ7,25882,Welt,Wasserkooger Straße,14,,54.39053452,8.82641611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ8,25882,Welt,Wasserkooger Straße,16,,54.39214878,8.8274835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZ9,25882,Welt,Wasserkooger Straße,18,,54.39262973,8.827215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZA,25882,Welt,Westerenn,19,,54.35136557,8.82131768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZB,25882,Welt,Westerenn,2,,54.35247197,8.82444905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZC,25882,Welt,Westerenn,21,,54.35136193,8.8208933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZD,25882,Welt,Westerenn,23,,54.35126258,8.82067227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZE,25882,Welt,Westerenn,25,,54.35141145,8.81999994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZF,25882,Welt,Westerenn,27,,54.35086823,8.81636462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZG,25882,Welt,Westerenn,3,,54.35193288,8.82429412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZH,25882,Welt,Westerenn,5,,54.35190132,8.82395969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZI,25882,Welt,Westerenn,7,,54.35186193,8.82370668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZJ,25882,Welt,Westerenn,9,a,54.3510684,8.82400359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZK,25882,Welt,Süderenn,1,,54.3493768,8.82401813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZL,25882,Welt,Süderenn,11,,54.35049541,8.82392918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZM,25882,Welt,Süderenn,13,,54.35055026,8.82420202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZN,25882,Welt,Süderenn,2,,54.34936647,8.82449207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZO,25882,Welt,Süderenn,3,,54.3496086,8.82399792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZP,25882,Welt,Süderenn,5,,54.34988974,8.82391875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZQ,25882,Welt,Süderenn,7,,54.35013958,8.82386422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZR,25882,Welt,Süderenn,9,,54.35034838,8.8238562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZa,25882,Welt,Wasserkooger Straße,19,,54.39237458,8.82670609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZb,25882,Welt,Wasserkooger Straße,2,,54.39011084,8.82578878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZc,25882,Welt,Wasserkooger Straße,20,,54.39287096,8.8276935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZd,25882,Welt,Wasserkooger Straße,21,,54.39334046,8.82836446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZe,25882,Welt,Wasserkooger Straße,22,,54.3937007,8.82896892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZf,25882,Welt,Wasserkooger Straße,23,,54.39367198,8.82866743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZg,25882,Welt,Wasserkooger Straße,24,,54.39403575,8.8293142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZh,25882,Welt,Wasserkooger Straße,25,,54.39428669,8.82861734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZi,25882,Welt,Wasserkooger Straße,26,,54.39435902,8.82954925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZj,25882,Welt,Wasserkooger Straße,27,,54.3944108,8.82928587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZk,25882,Welt,Wasserkooger Straße,29,,54.39466105,8.8294052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZl,25882,Welt,Wasserkooger Straße,30,,54.39562976,8.82961551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZm,25882,Welt,Wasserkooger Straße,31,,54.39508263,8.82926648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZn,25882,Welt,Wasserkooger Straße,32,,54.3960741,8.82962127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZo,25882,Welt,Wasserkooger Straße,33,,54.39537111,8.8292677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZp,25882,Welt,Wasserkooger Straße,34,,54.39686458,8.82965298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZq,25882,Welt,Wasserkooger Straße,35,,54.39561168,8.8292791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZr,25882,Welt,Wasserkooger Straße,36,,54.39755264,8.82975363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZs,25882,Welt,Wasserkooger Straße,4,,54.39023058,8.82591678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZt,25882,Welt,Wasserkooger Straße,6,,54.38992218,8.82646446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZu,25882,Welt,Wasserkooger Straße,8,,54.39007459,8.82665198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZv,25882,Welt,Westerenn,1,,54.35206307,8.82475622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZw,25882,Welt,Westerenn,11,,54.35140479,8.82304098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZx,25882,Welt,Westerenn,13,,54.35138131,8.82210273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZy,25882,Welt,Westerenn,15,,54.35137295,8.8219582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRZz,25882,Welt,Westerenn,17,,54.35136962,8.8215357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004J9FC,25882,Welt,Warmhörner Deich,38,,54.37390597,8.86439684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KeW7,25882,Welt,Süderenn,6,,54.34990913,8.82426049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005heg8,25882,Welt,Norderheverkoogstraße,40,,54.39989188,8.82765053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sNqz,25882,Welt,Mitteldeich,31,,54.39741375,8.81428086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v8fh,25882,Welt,Mitteldeich,32,,54.39779848,8.81941556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v8fk,25882,Welt,Mitteldeich,34,,54.39784481,8.82115841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v9Tl,25882,Welt,Mitteldeich,29,,54.39483159,8.81958621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v9Tn,25882,Welt,Mitteldeich,26,,54.39528041,8.82003301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v9Tq,25882,Welt,Mitteldeich,33,,54.39682066,8.81327558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005v9Ts,25882,Welt,Mitteldeich,30,,54.39746058,8.81510069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068Bsm,25882,Welt,Norderdeich,1,,54.39831438,8.82942545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069kJS,25882,Welt,Wasserkooger Straße,28,,54.39472757,8.82966529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ESBb,25882,Welt,Wasserkooger Straße,28,a,54.39509411,8.82963651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006er5D,25882,Welt,Süderenn,4,,54.3496699,8.82436251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006er5q,25882,Welt,Süderenn,8,,54.35014341,8.82424118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z44b,25882,Welt,Wasserkooger Straße,34,a,54.39649242,8.82970109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000834Df,25882,Welt,Wasserkooger Straße,29,b,54.39483862,8.8289533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000834Dl,25882,Welt,Wasserkooger Straße,29,a,54.39460777,8.82895312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DZrN,25882,Welt,Liek Ut,8,a,54.35446086,8.83309014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLSZ,25882,Welt,Liek Ut,2,,54.35373625,8.8333098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLT4,25882,Welt,Liek Ut,4,,54.35390989,8.83325464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLT8,25882,Welt,Liek Ut,6,,54.35427335,8.83328562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLTc,25882,Welt,Liek Ut,8,,54.3544709,8.83322623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLTg,25882,Welt,Liek Ut,10,,54.35462749,8.83324935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dLTl,25882,Welt,Liek Ut,12,,54.35485035,8.83327804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hVNP,25882,Welt,Gardinger Chaussee,18,,54.33831793,8.86780734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nhoq,25882,Welt,Osterdeich,23,,54.3975767,8.83890379

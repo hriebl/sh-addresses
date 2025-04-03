@@ -1,0 +1,17 @@
+# Amtliche Adressen für die Postleitzahl 25869
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvA,25869,Gröde,Knudswarft,2,,54.63181659,8.71773924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvB,25869,Gröde,Knudswarft,3,,54.63160782,8.71762967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvC,25869,Gröde,Knudswarft,4,,54.63156419,8.71716442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvD,25869,Gröde,Kirchwarft,1,,54.63108405,8.71603423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvE,25869,Gröde,Kirchwarft,2,,54.63108101,8.71590106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvF,25869,Gröde,Habel,1,,54.63716569,8.76590305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eHvz,25869,Gröde,Knudswarft,1,,54.63188093,8.71735676

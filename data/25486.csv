@@ -1,0 +1,952 @@
+# Amtliche Adressen für die Postleitzahl 25486
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSO,25486,Alveslohe,An der Bahn,1,,53.79189183,9.91556311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSP,25486,Alveslohe,An der Bahn,11,,53.79211733,9.91527891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSQ,25486,Alveslohe,An der Bahn,13,,53.79215179,9.91521881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSR,25486,Alveslohe,An der Bahn,15,,53.7921917,9.91514953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSS,25486,Alveslohe,An der Bahn,17,,53.79218124,9.91578041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpST,25486,Alveslohe,An der Bahn,19,,53.79222189,9.91570925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSU,25486,Alveslohe,An der Bahn,2,,53.79182246,9.91475735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSV,25486,Alveslohe,An der Bahn,21,,53.79225631,9.91564908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSW,25486,Alveslohe,An der Bahn,23,,53.79229542,9.9155815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSX,25486,Alveslohe,An der Bahn,3,,53.79193357,9.91548961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSY,25486,Alveslohe,An der Bahn,4,,53.79185498,9.91447237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpSZ,25486,Alveslohe,An der Bahn,5,,53.79200101,9.91548185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT0,25486,Alveslohe,An der Bahn,6,,53.79194062,9.91391769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT1,25486,Alveslohe,An der Bahn,7,,53.79204194,9.91541101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT2,25486,Alveslohe,An der Bahn,8,,53.79200259,9.91339172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT3,25486,Alveslohe,An der Bahn,9,,53.79207792,9.91534762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT4,25486,Alveslohe,Auf dem Felde,10,,53.79280284,9.91146968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT5,25486,Alveslohe,Auf dem Felde,11,,53.79232097,9.91138023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT6,25486,Alveslohe,Auf dem Felde,12,,53.79282587,9.91086381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT7,25486,Alveslohe,Auf dem Felde,13,,53.79232097,9.91138023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT8,25486,Alveslohe,Auf dem Felde,14,,53.79293663,9.91018116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpT9,25486,Alveslohe,Auf dem Felde,15,,53.79232097,9.91138023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTA,25486,Alveslohe,Bahnhofstraße,17,,53.78840023,9.91497077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTB,25486,Alveslohe,Bahnhofstraße,18,,53.78794256,9.91443484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTC,25486,Alveslohe,Bahnhofstraße,19,,53.78821243,9.91497019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTD,25486,Alveslohe,Bahnhofstraße,2,,53.79126474,9.91540341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTE,25486,Alveslohe,Bahnhofstraße,20,,53.78784677,9.91480671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTF,25486,Alveslohe,Bahnhofstraße,21,,53.78776579,9.91511863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTG,25486,Alveslohe,Bahnhofstraße,22,,53.78767984,9.9147651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTH,25486,Alveslohe,Bahnhofstraße,23,,53.78763086,9.91516498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTI,25486,Alveslohe,Bahnhofstraße,24,,53.78745716,9.91492818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTJ,25486,Alveslohe,Bahnhofstraße,25,,53.7874335,9.91524007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTK,25486,Alveslohe,Bahnhofstraße,27,,53.78696499,9.91550372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTL,25486,Alveslohe,Bahnhofstraße,3,,53.79083357,9.91569902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTM,25486,Alveslohe,Bahnhofstraße,3,a,53.7905529,9.91536499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTN,25486,Alveslohe,Bahnhofstraße,4,,53.79045663,9.91438475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTO,25486,Alveslohe,Bahnhofstraße,4,a,53.79099534,9.91498004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTP,25486,Alveslohe,Bahnhofstraße,5,,53.79032477,9.91515456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTQ,25486,Alveslohe,Bahnhofstraße,6,,53.7898319,9.91441312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTR,25486,Alveslohe,Bahnhofstraße,7,,53.78994293,9.91484386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTS,25486,Alveslohe,Bahnhofstraße,7,a,53.78994293,9.91484386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTT,25486,Alveslohe,Bahnhofstraße,8,,53.78944022,9.91470948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTU,25486,Alveslohe,Bahnhofstraße,9,,53.78945269,9.9150361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTV,25486,Alveslohe,Barmstedter Straße,1,,53.78677787,9.91486993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTW,25486,Alveslohe,Barmstedter Straße,10,a,53.78699709,9.91330894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTX,25486,Alveslohe,Barmstedter Straße,10,b,53.78698133,9.9131181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTY,25486,Alveslohe,Barmstedter Straße,11,,53.78638429,9.9119719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTZ,25486,Alveslohe,Barmstedter Straße,12,,53.78690479,9.91268394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTa,25486,Alveslohe,Auf dem Felde,17,,53.79232097,9.91138023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTb,25486,Alveslohe,Auf dem Felde,19,,53.7925105,9.91072022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTc,25486,Alveslohe,Auf dem Felde,2,,53.79290137,9.91285477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTd,25486,Alveslohe,Auf dem Felde,21,,53.79258851,9.91045942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTe,25486,Alveslohe,Auf dem Felde,23,,53.79263378,9.91013884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTf,25486,Alveslohe,Auf dem Felde,25,,53.79280252,9.90964999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTg,25486,Alveslohe,Auf dem Felde,27,,53.79291355,9.90936539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTh,25486,Alveslohe,Auf dem Felde,29,,53.79302944,9.9090694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTi,25486,Alveslohe,Auf dem Felde,3,,53.7925692,9.91241387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTj,25486,Alveslohe,Auf dem Felde,31,,53.79315993,9.90867072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTk,25486,Alveslohe,Auf dem Felde,33,,53.79313827,9.90835457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTl,25486,Alveslohe,Auf dem Felde,35,,53.79314267,9.90811876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTm,25486,Alveslohe,Auf dem Felde,4,,53.79288057,9.91251779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTn,25486,Alveslohe,Auf dem Felde,5,,53.79226224,9.91225812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTo,25486,Alveslohe,Auf dem Felde,6,,53.79283718,9.91221007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTp,25486,Alveslohe,Auf dem Felde,7,,53.79228031,9.91207279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTq,25486,Alveslohe,Auf dem Felde,8,,53.79279017,9.91196555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTr,25486,Alveslohe,Auf dem Felde,9,,53.79252443,9.91195101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTs,25486,Alveslohe,Auf dem Felde,9,a,53.79252087,9.91172408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTt,25486,Alveslohe,Bahnhofstraße,10,,53.78905415,9.91459858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTu,25486,Alveslohe,Bahnhofstraße,11,,53.78902491,9.91495603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTv,25486,Alveslohe,Bahnhofstraße,12,,53.78872656,9.91396993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTw,25486,Alveslohe,Bahnhofstraße,13,,53.78881503,9.91496093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTx,25486,Alveslohe,Bahnhofstraße,14,,53.78839058,9.91449679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTy,25486,Alveslohe,Bahnhofstraße,15,,53.7886285,9.91492551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpTz,25486,Alveslohe,Bahnhofstraße,16,,53.78820542,9.91463805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU0,25486,Alveslohe,Barmstedter Straße,13,,53.7857958,9.91200586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU1,25486,Alveslohe,Barmstedter Straße,14,,53.78679863,9.91234439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU2,25486,Alveslohe,Barmstedter Straße,15,,53.78554281,9.91149658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU3,25486,Alveslohe,Barmstedter Straße,16,,53.78601008,9.91134829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU4,25486,Alveslohe,Barmstedter Straße,17,,53.78542593,9.91124015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU5,25486,Alveslohe,Barmstedter Straße,19,,53.78534176,9.91090374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU6,25486,Alveslohe,Barmstedter Straße,2,,53.78702725,9.91480836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU7,25486,Alveslohe,Barmstedter Straße,20,,53.78553119,9.91061061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU8,25486,Alveslohe,Barmstedter Straße,21,,53.78525636,9.91059655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpU9,25486,Alveslohe,Barmstedter Straße,22,,53.78573242,9.90973344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUA,25486,Alveslohe,Barmstedter Straße,47,,53.78355069,9.89845493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUB,25486,Alveslohe,Barmstedter Straße,48,,53.78461103,9.88652753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUC,25486,Alveslohe,Barmstedter Straße,49,,53.78371498,9.8951778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUD,25486,Alveslohe,Barmstedter Straße,5,a,53.78665227,9.91395685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUE,25486,Alveslohe,Barmstedter Straße,5,b,53.7866589,9.91386807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUF,25486,Alveslohe,Barmstedter Straße,5,c,53.78664994,9.91376752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUG,25486,Alveslohe,Barmstedter Straße,5,d,53.78665644,9.9136813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUH,25486,Alveslohe,Barmstedter Straße,5,e,53.78665188,9.91358711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUI,25486,Alveslohe,Barmstedter Straße,5,f,53.78665937,9.91349764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUJ,25486,Alveslohe,Barmstedter Straße,50,,53.7846617,9.88586397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUK,25486,Alveslohe,Barmstedter Straße,51,,53.7840443,9.89032996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUL,25486,Alveslohe,Barmstedter Straße,52,,53.7847182,9.88476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUM,25486,Alveslohe,Barmstedter Straße,53,,53.78299878,9.88755824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUN,25486,Alveslohe,Barmstedter Straße,53,a,53.78401684,9.8878013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUO,25486,Alveslohe,Barmstedter Straße,54,,53.78529987,9.88241122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUP,25486,Alveslohe,Barmstedter Straße,55,,53.78438247,9.88570048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUQ,25486,Alveslohe,Barmstedter Straße,56,,53.7853864,9.88165851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUR,25486,Alveslohe,Barmstedter Straße,58,,53.78548401,9.88125205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUS,25486,Alveslohe,Barmstedter Straße,6,,53.78708236,9.9143155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUU,25486,Alveslohe,Barmstedter Straße,61,,53.78630342,9.8767269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUV,25486,Alveslohe,Barmstedter Straße,62,,53.78652653,9.87754193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUW,25486,Alveslohe,Barmstedter Straße,63,,53.78641736,9.87618155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUX,25486,Alveslohe,Barmstedter Straße,64,,53.78696691,9.875705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUY,25486,Alveslohe,Barmstedter Straße,64,a,53.78685384,9.87696485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUb,25486,Alveslohe,Barmstedter Straße,23,,53.78515634,9.91031959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUc,25486,Alveslohe,Barmstedter Straße,25,,53.78503025,9.91005907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUd,25486,Alveslohe,Barmstedter Straße,27,,53.78489023,9.90988409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUe,25486,Alveslohe,Barmstedter Straße,28,,53.7850745,9.90925524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUf,25486,Alveslohe,Barmstedter Straße,29,,53.78464885,9.909686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUg,25486,Alveslohe,Barmstedter Straße,3,,53.78675083,9.91442761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUh,25486,Alveslohe,Barmstedter Straße,30,,53.78474361,9.908915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUi,25486,Alveslohe,Barmstedter Straße,31,,53.78446044,9.90946972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUj,25486,Alveslohe,Barmstedter Straße,32,,53.78450259,9.90878216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUk,25486,Alveslohe,Barmstedter Straße,33,,53.78441592,9.90930945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUl,25486,Alveslohe,Barmstedter Straße,34,,53.78450259,9.90878216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUm,25486,Alveslohe,Barmstedter Straße,34,a,53.78469874,9.9084831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUn,25486,Alveslohe,Barmstedter Straße,35,,53.78430482,9.90912686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUo,25486,Alveslohe,Barmstedter Straße,36,,53.78440601,9.90844302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUp,25486,Alveslohe,Barmstedter Straße,37,,53.78309937,9.9055205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUq,25486,Alveslohe,Barmstedter Straße,38,,53.78341834,9.90227762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUr,25486,Alveslohe,Barmstedter Straße,39,,53.78299705,9.9048955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUs,25486,Alveslohe,Barmstedter Straße,4,,53.78700516,9.91446658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUt,25486,Alveslohe,Barmstedter Straße,40,,53.78348889,9.90176253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUu,25486,Alveslohe,Barmstedter Straße,41,,53.78318735,9.90218129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUv,25486,Alveslohe,Barmstedter Straße,42,,53.78364493,9.90040023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUw,25486,Alveslohe,Barmstedter Straße,43,,53.78335694,9.90091477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUx,25486,Alveslohe,Barmstedter Straße,44,,53.78374456,9.8998962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUy,25486,Alveslohe,Barmstedter Straße,45,,53.78355457,9.89872918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpUz,25486,Alveslohe,Barmstedter Straße,46,,53.78423958,9.89217843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV0,25486,Alveslohe,Barmstedter Straße,7,a,53.78661318,9.91324532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV1,25486,Alveslohe,Barmstedter Straße,7,b,53.78662041,9.91314967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV2,25486,Alveslohe,Barmstedter Straße,7,c,53.78661454,9.91305358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV3,25486,Alveslohe,Barmstedter Straße,7,d,53.78662028,9.91297484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV4,25486,Alveslohe,Barmstedter Straße,8,,53.78693355,9.91380376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV5,25486,Alveslohe,Barmstedter Straße,9,,53.78665839,9.91250467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV6,25486,Alveslohe,Beim Sportplatz,1,,53.79227181,9.91249843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV7,25486,Alveslohe,Beim Sportplatz,3,,53.79224349,9.91328223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV8,25486,Alveslohe,Beim Sportplatz,5,,53.79215651,9.91289829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpV9,25486,Alveslohe,Bilser Straße,1,,53.78088021,9.89338256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVA,25486,Alveslohe,Börgerskamp,6,,53.78638485,9.91545058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVB,25486,Alveslohe,Börgerskamp,7,,53.7852193,9.91640777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVC,25486,Alveslohe,Börgerskamp,7,a,53.78517152,9.91647723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVD,25486,Alveslohe,Börgerskamp,8,,53.78591616,9.91576155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVE,25486,Alveslohe,Börgerskamp,9,,53.78499853,9.91664966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVF,25486,Alveslohe,Brunskamp,1,,53.81013128,9.90895791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVG,25486,Alveslohe,Brunskamp,2,,53.80992316,9.90488264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVH,25486,Alveslohe,Brunskamp,3,,53.80964859,9.90779602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVJ,25486,Alveslohe,Buchenstraße,1,,53.78827634,9.91557057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVK,25486,Alveslohe,Buchenstraße,10,,53.78782232,9.91776912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVL,25486,Alveslohe,Buchenstraße,11,,53.78816589,9.91764705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVM,25486,Alveslohe,Buchenstraße,12,,53.78774481,9.91817803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVN,25486,Alveslohe,Buchenstraße,13,,53.78804632,9.91817768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVO,25486,Alveslohe,Buchenstraße,14,,53.78748219,9.9177558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVP,25486,Alveslohe,Buchenstraße,15,,53.7879862,9.91870884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVQ,25486,Alveslohe,Buchenstraße,16,,53.78761417,9.91743218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVR,25486,Alveslohe,Buchenstraße,17,,53.78794868,9.91883258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVS,25486,Alveslohe,Buchenstraße,18,,53.78742137,9.91727934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVT,25486,Alveslohe,Buchenstraße,19,,53.78778718,9.91930848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVU,25486,Alveslohe,Buchenstraße,2,,53.78793075,9.91564614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVV,25486,Alveslohe,Buchenstraße,20,,53.78719061,9.91798424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVW,25486,Alveslohe,Buchenstraße,21,,53.78805357,9.91970862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVX,25486,Alveslohe,Buchenstraße,22,,53.78710979,9.91825706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVY,25486,Alveslohe,Buchenstraße,23,,53.78845236,9.91980657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVZ,25486,Alveslohe,Buchenstraße,24,,53.7873487,9.91851715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVa,25486,Alveslohe,Bilser Straße,2,,53.77634982,9.88454455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVb,25486,Alveslohe,Birkenweg,1,,53.78879742,9.93793886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVc,25486,Alveslohe,Birkenweg,10,,53.79036728,9.93988231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVd,25486,Alveslohe,Birkenweg,2,,53.78982418,9.93852178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVe,25486,Alveslohe,Birkenweg,3,,53.79092741,9.93716309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVf,25486,Alveslohe,Birkenweg,4,,53.7901949,9.93885286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVg,25486,Alveslohe,Birkenweg,5,,53.79130238,9.93669591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVh,25486,Alveslohe,Birkenweg,6,,53.7902623,9.93938407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVi,25486,Alveslohe,Birkenweg,8,,53.790296,9.93946977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVj,25486,Alveslohe,Birkenweg,8,a,53.79001729,9.93984421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVk,25486,Alveslohe,Börgerskamp,10,,53.78571063,9.91558641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVl,25486,Alveslohe,Börgerskamp,11,,53.7849672,9.91669213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVm,25486,Alveslohe,Börgerskamp,12,,53.78517351,9.91584721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVn,25486,Alveslohe,Börgerskamp,13,,53.78481802,9.91684971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVo,25486,Alveslohe,Börgerskamp,14,,53.78501198,9.91597543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVp,25486,Alveslohe,Börgerskamp,15,,53.78467348,9.91734676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVq,25486,Alveslohe,Börgerskamp,17,,53.78453448,9.91698967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVr,25486,Alveslohe,Börgerskamp,18,,53.78482612,9.91631121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVs,25486,Alveslohe,Börgerskamp,19,,53.78429222,9.91717401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVt,25486,Alveslohe,Börgerskamp,2,,53.78625317,9.91594744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVu,25486,Alveslohe,Börgerskamp,22,,53.78462769,9.91643209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVv,25486,Alveslohe,Börgerskamp,24,,53.78439659,9.9166129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVw,25486,Alveslohe,Börgerskamp,3,,53.78586214,9.91622409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVx,25486,Alveslohe,Börgerskamp,4,,53.78636959,9.91554024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVy,25486,Alveslohe,Börgerskamp,5,,53.78571362,9.91599291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpVz,25486,Alveslohe,Börgerskamp,5,a,53.78534389,9.91618318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW0,25486,Alveslohe,Buchenstraße,25,,53.78838267,9.92011323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW1,25486,Alveslohe,Buchenstraße,26,,53.78765067,9.91855561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW2,25486,Alveslohe,Buchenstraße,27,,53.78832954,9.92057611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW3,25486,Alveslohe,Buchenstraße,28,,53.78753586,9.91895636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW4,25486,Alveslohe,Buchenstraße,29,a,53.78798417,9.92069449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW5,25486,Alveslohe,Buchenstraße,29,b,53.78792651,9.920623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW6,25486,Alveslohe,Buchenstraße,3,,53.7882856,9.91600997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW7,25486,Alveslohe,Buchenstraße,30,,53.78746165,9.91930258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW8,25486,Alveslohe,Buchenstraße,31,,53.78802516,9.92014599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpW9,25486,Alveslohe,Buchenstraße,31,a,53.78803663,9.92031867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWA,25486,Alveslohe,Eichenstraße,12,,53.78980655,9.91729393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWB,25486,Alveslohe,Eichenstraße,14,,53.78985311,9.91817614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWC,25486,Alveslohe,Eichenstraße,14,a,53.78986018,9.91777193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWD,25486,Alveslohe,Eichenstraße,16,,53.78980377,9.91846959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWE,25486,Alveslohe,Eichenstraße,18,,53.78971589,9.91898355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWF,25486,Alveslohe,Eichenstraße,2,,53.7896837,9.9153972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWG,25486,Alveslohe,Eichenstraße,20,a,53.78965055,9.91940354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWH,25486,Alveslohe,Eichenstraße,20,b,53.78958973,9.91940916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWI,25486,Alveslohe,Eichenstraße,20,c,53.78953178,9.91941447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWK,25486,Alveslohe,Eichenstraße,22,,53.78969865,9.91978521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWL,25486,Alveslohe,Eichenstraße,24,,53.78967369,9.92011999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWM,25486,Alveslohe,Eichenstraße,26,,53.78974384,9.92037908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWN,25486,Alveslohe,Eichenstraße,28,,53.78973376,9.92052149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWO,25486,Alveslohe,Eichenstraße,3,,53.79006335,9.9155692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWP,25486,Alveslohe,Eichenstraße,3,a,53.79003666,9.915652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWQ,25486,Alveslohe,Eichenstraße,3,b,53.79026891,9.91576437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWR,25486,Alveslohe,Eichenstraße,3,c,53.79024225,9.91584731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWS,25486,Alveslohe,Eichenstraße,30,,53.78965517,9.92069159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWT,25486,Alveslohe,Eichenstraße,32,,53.78965826,9.92078421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWU,25486,Alveslohe,Eichenstraße,34,a,53.78961107,9.92097136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWV,25486,Alveslohe,Eichenstraße,34,b,53.78961429,9.92107466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWW,25486,Alveslohe,Eichenstraße,36,,53.78960053,9.92132176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWX,25486,Alveslohe,Eichenstraße,38,,53.78959031,9.92158105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWY,25486,Alveslohe,Eichenstraße,4,,53.78977414,9.91578746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWZ,25486,Alveslohe,Eichenstraße,40,,53.78962264,9.92187554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWa,25486,Alveslohe,Buchenstraße,32,,53.78721216,9.91891407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWb,25486,Alveslohe,Buchenstraße,33,,53.78769366,9.92034882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWc,25486,Alveslohe,Buchenstraße,34,,53.78727779,9.91960064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWd,25486,Alveslohe,Buchenstraße,35,,53.787831,9.91995949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWe,25486,Alveslohe,Buchenstraße,37,,53.78768554,9.91968957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWf,25486,Alveslohe,Buchenstraße,39,,53.78752146,9.92009502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWg,25486,Alveslohe,Buchenstraße,4,,53.7879389,9.91607797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWh,25486,Alveslohe,Buchenstraße,5,,53.78827442,9.9163349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWi,25486,Alveslohe,Buchenstraße,6,,53.7879343,9.91645437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWj,25486,Alveslohe,Buchenstraße,7,,53.78824465,9.91680012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWk,25486,Alveslohe,Buchenstraße,8,,53.78789824,9.91734809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWl,25486,Alveslohe,Buchenstraße,9,,53.78817996,9.91728385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWm,25486,Alveslohe,Buschtwiete,1,,53.79216123,9.90157185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWn,25486,Alveslohe,Buschtwiete,3,,53.79233548,9.90133283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWo,25486,Alveslohe,Buschtwiete,5,,53.79259246,9.90170178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWp,25486,Alveslohe,Buschtwiete,8,,53.79295828,9.90267212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWq,25486,Alveslohe,Buschtwiete,9,,53.79443191,9.90149379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWr,25486,Alveslohe,Buschweg,1,,53.80066091,9.91564709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWs,25486,Alveslohe,Buschweg,1,a,53.80048735,9.91517794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWt,25486,Alveslohe,Buschweg,2,,53.79473792,9.8986029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWu,25486,Alveslohe,Buschweg,3,,53.79418995,9.89665366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWv,25486,Alveslohe,Drosselbusch,1,,53.78731437,9.92867784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWw,25486,Alveslohe,Drosselbusch,2,,53.78649672,9.92984968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWx,25486,Alveslohe,Drosselbusch,4,,53.78637902,9.93023406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWy,25486,Alveslohe,Eichenstraße,10,,53.78983377,9.91687271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpWz,25486,Alveslohe,Eichenstraße,11,,53.79010963,9.91710468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX0,25486,Alveslohe,Eichenstraße,5,,53.79009934,9.91590833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX1,25486,Alveslohe,Eichenstraße,5,a,53.79007206,9.91599209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX2,25486,Alveslohe,Eichenstraße,5,b,53.7903124,9.91610555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX3,25486,Alveslohe,Eichenstraße,5,c,53.79028493,9.91618991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX4,25486,Alveslohe,Eichenstraße,6,,53.78981367,9.91609565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX5,25486,Alveslohe,Eichenstraße,7,,53.79029599,9.9164339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX6,25486,Alveslohe,Eichenstraße,8,,53.78979934,9.91649168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX7,25486,Alveslohe,Eichenstraße,9,,53.79014041,9.91680176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX8,25486,Alveslohe,Ellerauer Straße,1,,53.77808857,9.90895173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpX9,25486,Alveslohe,Ellerauer Straße,2,,53.77755784,9.90763498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXA,25486,Alveslohe,Feldstraße,15,,53.79293354,9.90591565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXB,25486,Alveslohe,Feldstraße,16,,53.79244179,9.9058225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXC,25486,Alveslohe,Feldstraße,17,,53.79303734,9.90623461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXD,25486,Alveslohe,Feldstraße,18,,53.79242492,9.90611097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXE,25486,Alveslohe,Feldstraße,19,,53.79272621,9.90636614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXF,25486,Alveslohe,Feldstraße,2,,53.79241553,9.90221014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXG,25486,Alveslohe,Feldstraße,20,,53.79244916,9.90650469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXH,25486,Alveslohe,Feldstraße,21,,53.7930492,9.90654596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXI,25486,Alveslohe,Feldstraße,22,,53.79245817,9.90681327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXJ,25486,Alveslohe,Feldstraße,23,,53.79273623,9.90669115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXK,25486,Alveslohe,Feldstraße,24,,53.79248519,9.90710824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXL,25486,Alveslohe,Feldstraße,25,,53.79302912,9.90686256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXM,25486,Alveslohe,Feldstraße,26,,53.79246302,9.90782587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXN,25486,Alveslohe,Feldstraße,27,,53.79274408,9.90711607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXO,25486,Alveslohe,Feldstraße,28,,53.79243999,9.90819234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXP,25486,Alveslohe,Feldstraße,29,,53.79304743,9.907165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXQ,25486,Alveslohe,Feldstraße,3,,53.79260267,9.902998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXR,25486,Alveslohe,Feldstraße,3,a,53.79285016,9.90320571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXS,25486,Alveslohe,Feldstraße,30,,53.79238292,9.90863552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXT,25486,Alveslohe,Feldstraße,31,,53.79304998,9.90744568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXU,25486,Alveslohe,Feldstraße,32,,53.79238925,9.9090446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXV,25486,Alveslohe,Feldstraße,33,a,53.79306569,9.90769652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXW,25486,Alveslohe,Feldstraße,33,b,53.79307026,9.90780586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXX,25486,Alveslohe,Feldstraße,34,,53.79240845,9.90945001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXY,25486,Alveslohe,Feldstraße,35,,53.79277836,9.90784352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXZ,25486,Alveslohe,Feldstraße,36,,53.7924591,9.90980283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXa,25486,Alveslohe,Ellerauer Straße,3,,53.77772399,9.90883257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXb,25486,Alveslohe,Ellerauer Straße,5,,53.77754502,9.90912891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXc,25486,Alveslohe,Fasanenweg,1,,53.78955387,9.90829067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXd,25486,Alveslohe,Fasanenweg,10,,53.78987381,9.90963994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXe,25486,Alveslohe,Fasanenweg,11,,53.79038865,9.90940305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXf,25486,Alveslohe,Fasanenweg,12,,53.78982122,9.90990876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXg,25486,Alveslohe,Fasanenweg,13,,53.7903029,9.90967278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXh,25486,Alveslohe,Fasanenweg,14,,53.79002285,9.90991586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXi,25486,Alveslohe,Fasanenweg,16,,53.79010458,9.91026828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXj,25486,Alveslohe,Fasanenweg,2,,53.78932081,9.90891092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXk,25486,Alveslohe,Fasanenweg,3,,53.78963811,9.90879962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXl,25486,Alveslohe,Fasanenweg,4,,53.78949025,9.90906124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXm,25486,Alveslohe,Fasanenweg,5,,53.78979697,9.90868585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXn,25486,Alveslohe,Fasanenweg,6,,53.78958132,9.9094823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXo,25486,Alveslohe,Fasanenweg,7,,53.78985699,9.90919396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXp,25486,Alveslohe,Fasanenweg,8,,53.78958037,9.90969307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXq,25486,Alveslohe,Fasanenweg,9,,53.79003004,9.90910308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXr,25486,Alveslohe,Feldstraße,1,,53.79262556,9.90239322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXs,25486,Alveslohe,Feldstraße,1,a,53.79280589,9.90227731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXt,25486,Alveslohe,Feldstraße,10,,53.7924982,9.90444697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXu,25486,Alveslohe,Feldstraße,11,,53.79273475,9.90528056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXv,25486,Alveslohe,Feldstraße,11,a,53.79301629,9.90546489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXw,25486,Alveslohe,Feldstraße,11,b,53.79309548,9.9054557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXx,25486,Alveslohe,Feldstraße,12,,53.79253774,9.90498071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXy,25486,Alveslohe,Feldstraße,13,,53.79271065,9.90596959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpXz,25486,Alveslohe,Feldstraße,14,,53.79246698,9.90554036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY0,25486,Alveslohe,Feldstraße,37,,53.79275275,9.90826844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY1,25486,Alveslohe,Feldstraße,39,,53.79270166,9.90853237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY2,25486,Alveslohe,Feldstraße,4,,53.79237756,9.90265658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY3,25486,Alveslohe,Feldstraße,41,,53.79265982,9.90886429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY4,25486,Alveslohe,Feldstraße,43,,53.79263525,9.90927472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY5,25486,Alveslohe,Feldstraße,5,,53.79254705,9.90354318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY6,25486,Alveslohe,Feldstraße,6,,53.79238187,9.90322869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY7,25486,Alveslohe,Feldstraße,6,a,53.79231224,9.90356271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY8,25486,Alveslohe,Feldstraße,7,,53.79269015,9.90423295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpY9,25486,Alveslohe,Feldstraße,7,a,53.79295145,9.90425195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYA,25486,Alveslohe,Fischwehrstraße,8,,53.79383866,9.89685469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYB,25486,Alveslohe,Hägentwiete,1,,53.78460082,9.88875336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYC,25486,Alveslohe,Hägentwiete,1,a,53.78478458,9.88842513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYD,25486,Alveslohe,Hägentwiete,2,,53.78462675,9.88917506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYE,25486,Alveslohe,Hägentwiete,3,,53.78626476,9.88917518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYF,25486,Alveslohe,Hägentwiete,4,,53.79284144,9.89669064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYG,25486,Alveslohe,Hägentwiete,5,,53.79000961,9.89217429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYH,25486,Alveslohe,Hagedorntwiete,1,,53.78149468,9.89248227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYI,25486,Alveslohe,Hagedorntwiete,2,,53.78301434,9.89168725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYJ,25486,Alveslohe,Hagedorntwiete,4,,53.78286579,9.89175068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYK,25486,Alveslohe,Hagedorntwiete,6,,53.78265063,9.89186675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYL,25486,Alveslohe,Hörn,1,,53.78645697,9.91506246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYM,25486,Alveslohe,Hörn,10,,53.78539533,9.91487352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYN,25486,Alveslohe,Hörn,14,,53.78545098,9.9156079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYO,25486,Alveslohe,Hörn,2,,53.7862783,9.91438751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYP,25486,Alveslohe,Hörn,2,a,53.78654502,9.91437698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYQ,25486,Alveslohe,Hörn,2,b,53.78643129,9.91468594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYR,25486,Alveslohe,Hörn,3,,53.78627181,9.91483131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYS,25486,Alveslohe,Hörn,4,,53.78607242,9.91438147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYT,25486,Alveslohe,Hörn,5,,53.78604214,9.91485269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYU,25486,Alveslohe,Hörn,6,,53.78572344,9.91416477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYV,25486,Alveslohe,Hörn,6,a,53.78562045,9.91439685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYW,25486,Alveslohe,Hörn,6,b,53.78552768,9.91399115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYX,25486,Alveslohe,Hörn,7,,53.78582431,9.91453458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYY,25486,Alveslohe,Hörn,8,,53.78552007,9.91459003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYZ,25486,Alveslohe,Hörn,9,,53.78569582,9.91511111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYa,25486,Alveslohe,Feldstraße,8,,53.79238451,9.90397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYb,25486,Alveslohe,Feldstraße,9,,53.79274932,9.9047254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYc,25486,Alveslohe,Feldstraße,9,a,53.79297435,9.90488444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYd,25486,Alveslohe,Fischwehrstraße,1,,53.7922157,9.89810652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYe,25486,Alveslohe,Fischwehrstraße,10,,53.79395909,9.89623138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYf,25486,Alveslohe,Fischwehrstraße,12,,53.79396394,9.89609822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYg,25486,Alveslohe,Fischwehrstraße,13,,53.79359391,9.89583497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYh,25486,Alveslohe,Fischwehrstraße,14,,53.79427076,9.89565087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYi,25486,Alveslohe,Fischwehrstraße,16,,53.79457549,9.89534215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYj,25486,Alveslohe,Fischwehrstraße,18,,53.79557234,9.89372404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYk,25486,Alveslohe,Fischwehrstraße,2,,53.79218406,9.89890896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYl,25486,Alveslohe,Fischwehrstraße,2,a,53.79273841,9.89847496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYm,25486,Alveslohe,Fischwehrstraße,20,,53.79680235,9.891837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYn,25486,Alveslohe,Fischwehrstraße,20,a,53.79658706,9.89228014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYo,25486,Alveslohe,Fischwehrstraße,22,,53.79815481,9.889685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYp,25486,Alveslohe,Fischwehrstraße,22,a,53.7978664,9.89031604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYq,25486,Alveslohe,Fischwehrstraße,24,,53.79977457,9.88745043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYr,25486,Alveslohe,Fischwehrstraße,24,a,53.79962819,9.88768171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYs,25486,Alveslohe,Fischwehrstraße,26,,53.80463808,9.88296691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYt,25486,Alveslohe,Fischwehrstraße,28,,53.80528674,9.8827421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYu,25486,Alveslohe,Fischwehrstraße,30,,53.80571855,9.8825912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYv,25486,Alveslohe,Fischwehrstraße,33,,53.79506247,9.89363864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYw,25486,Alveslohe,Fischwehrstraße,35,,53.7950379,9.89374357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYx,25486,Alveslohe,Fischwehrstraße,47,,53.7964029,9.89084952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYy,25486,Alveslohe,Fischwehrstraße,49,,53.79697849,9.89062543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpYz,25486,Alveslohe,Fischwehrstraße,6,a,53.7931924,9.89738768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ0,25486,Alveslohe,Hörntwiete,1,,53.78577857,9.91394532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ1,25486,Alveslohe,Hörntwiete,10,,53.78610411,9.91318041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ2,25486,Alveslohe,Hörntwiete,12,,53.78618229,9.91268967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ3,25486,Alveslohe,Hörntwiete,2,,53.78626863,9.91390896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ4,25486,Alveslohe,Hörntwiete,2,a,53.78599793,9.91396271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ5,25486,Alveslohe,Hörntwiete,3,,53.7858019,9.91381934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ6,25486,Alveslohe,Hörntwiete,4,,53.7860513,9.91358254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ7,25486,Alveslohe,Hörntwiete,5,,53.78583946,9.91359679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ8,25486,Alveslohe,Hörntwiete,6,,53.78628038,9.91357255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZ9,25486,Alveslohe,Hörntwiete,8,,53.78629615,9.91319718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZA,25486,Alveslohe,Kaden,6,,53.78316273,9.94527229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZB,25486,Alveslohe,Kaden,8,,53.78294599,9.94496827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZC,25486,Alveslohe,Kadener Allee,1,,53.7778046,9.93524328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZD,25486,Alveslohe,Kadener Allee,2,,53.78870063,9.93466311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZE,25486,Alveslohe,Kadener Allee,3,,53.77711508,9.92696189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZF,25486,Alveslohe,Kadener Allee,3,a,53.77678169,9.92618243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZG,25486,Alveslohe,Kadener Straße,1,,53.78974162,9.92439933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZH,25486,Alveslohe,Kadener Straße,2,,53.78938856,9.92476996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZI,25486,Alveslohe,Kadener Straße,3,,53.78982158,9.92537189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZJ,25486,Alveslohe,Kadener Straße,4,,53.78898807,9.92861693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZK,25486,Alveslohe,Kadener Straße,5,,53.7876469,9.94049571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZL,25486,Alveslohe,Kadener Straße,6,,53.78862345,9.93205525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZM,25486,Alveslohe,Kadener Straße,7,,53.78729225,9.94118303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZN,25486,Alveslohe,Kadener Straße,7,a,53.78718203,9.94165834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZO,25486,Alveslohe,Kadener Straße,9,,53.78533578,9.94803745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZP,25486,Alveslohe,Kadener Weg,12,,53.77103045,9.93447588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZQ,25486,Alveslohe,Kadener Weg,2,,53.77931796,9.95306384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZR,25486,Alveslohe,Kaltenkirchener Chaussee,1,,53.79294097,9.91634187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZS,25486,Alveslohe,Kaltenkirchener Chaussee,10,,53.79349676,9.91740533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZT,25486,Alveslohe,Kaltenkirchener Chaussee,11,,53.7955751,9.91880751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZU,25486,Alveslohe,Kaltenkirchener Chaussee,11,a,53.79557516,9.91861362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZV,25486,Alveslohe,Kaltenkirchener Chaussee,12,,53.79385862,9.91750592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZW,25486,Alveslohe,Kaltenkirchener Chaussee,13,,53.79865521,9.91828299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZX,25486,Alveslohe,Kaltenkirchener Chaussee,13,a,53.79915029,9.91836376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZY,25486,Alveslohe,Kaltenkirchener Chaussee,15,,53.79979246,9.91736613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZZ,25486,Alveslohe,Kaltenkirchener Chaussee,18,,53.80964212,9.90951927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZa,25486,Alveslohe,Horst,1,,53.77285215,9.93620791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZb,25486,Alveslohe,Im Apfelgarten,1,,53.79084306,9.9052959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZc,25486,Alveslohe,Im Apfelgarten,2,,53.79082632,9.90555348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZd,25486,Alveslohe,Im Busch,1,,53.80023336,9.90542691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZe,25486,Alveslohe,Im Busch,2,,53.8016764,9.90469432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZf,25486,Alveslohe,Im Busch,3,,53.80038107,9.9048553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZg,25486,Alveslohe,Im Busch,4,,53.8020366,9.90515787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZh,25486,Alveslohe,Im Busch,5,,53.80467671,9.90220015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZi,25486,Alveslohe,In de Möschen,1,,53.78598429,9.87901559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZj,25486,Alveslohe,In de Möschen,11,,53.78709319,9.87948828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZk,25486,Alveslohe,In de Möschen,13,,53.78927728,9.88050042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZl,25486,Alveslohe,In de Möschen,13,a,53.78941149,9.88026763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZm,25486,Alveslohe,In de Möschen,3,,53.78615927,9.87838936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZn,25486,Alveslohe,In de Möschen,3,a,53.78630123,9.87792159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZo,25486,Alveslohe,In de Möschen,5,,53.78623138,9.87911675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZp,25486,Alveslohe,In de Möschen,5,a,53.78641342,9.87917134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZq,25486,Alveslohe,In de Möschen,7,,53.78659869,9.87924976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZr,25486,Alveslohe,In de Möschen,9,,53.78677106,9.8793344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZs,25486,Alveslohe,Im Rösch,1,,53.79771372,9.92703393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZt,25486,Alveslohe,Im Rösch,2,,53.79720068,9.92659345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZu,25486,Alveslohe,Im Rösch,4,,53.79948543,9.92994156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZv,25486,Alveslohe,Im Rösch,4,a,53.79939894,9.92933231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZw,25486,Alveslohe,Im Rösch,6,,53.80008983,9.92568145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZx,25486,Alveslohe,Im Rösch,8,,53.80047219,9.92278079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZy,25486,Alveslohe,Kaden,2,,53.78356163,9.94578668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cpZz,25486,Alveslohe,Kaden,2,a,53.78352474,9.94543918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq00,25486,Alveslohe,Kaltenkirchener Chaussee,2,,53.7920563,9.91627528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq01,25486,Alveslohe,Kaltenkirchener Chaussee,24,,53.79402798,9.91813873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq02,25486,Alveslohe,Kaltenkirchener Chaussee,26,,53.79419709,9.91800312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq03,25486,Alveslohe,Kaltenkirchener Chaussee,28,,53.79419688,9.91808006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq04,25486,Alveslohe,Kaltenkirchener Chaussee,3,,53.79305958,9.91644658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq05,25486,Alveslohe,Kaltenkirchener Chaussee,30,,53.79419657,9.91834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq06,25486,Alveslohe,Kaltenkirchener Chaussee,32,,53.7941964,9.9184121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq07,25486,Alveslohe,Kaltenkirchener Chaussee,34,,53.79433875,9.9181543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq08,25486,Alveslohe,Kaltenkirchener Chaussee,36,,53.79449673,9.91846663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq09,25486,Alveslohe,Kaltenkirchener Chaussee,4,,53.79255513,9.91650556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0A,25486,Alveslohe,Klein Rösch,2,,53.77997335,9.89231183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0B,25486,Alveslohe,Klein Rösch,4,,53.7794753,9.89300367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0C,25486,Alveslohe,Lindenstraße,1,,53.78962003,9.9144006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0D,25486,Alveslohe,Lindenstraße,1,a,53.78957547,9.91414391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0E,25486,Alveslohe,Lindenstraße,10,,53.78958118,9.91184644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0F,25486,Alveslohe,Lindenstraße,10,a,53.78955232,9.91177365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0G,25486,Alveslohe,Lindenstraße,10,b,53.78953759,9.9116784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0H,25486,Alveslohe,Lindenstraße,10,c,53.78954064,9.9115781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0I,25486,Alveslohe,Lindenstraße,11,,53.7892065,9.91235916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0J,25486,Alveslohe,Lindenstraße,13,,53.78917632,9.91208796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0K,25486,Alveslohe,Lindenstraße,14,,53.78959642,9.91132768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0L,25486,Alveslohe,Lindenstraße,15,,53.7891462,9.91175697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0M,25486,Alveslohe,Lindenstraße,16,,53.78948665,9.91090477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0N,25486,Alveslohe,Lindenstraße,18,,53.7892395,9.9106049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0O,25486,Alveslohe,Lindenstraße,2,,53.78981969,9.91367031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0P,25486,Alveslohe,Lindenstraße,20,,53.78913751,9.91027627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0Q,25486,Alveslohe,Lindenstraße,22,,53.78931284,9.90999515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0R,25486,Alveslohe,Lindenstraße,23,,53.78880466,9.91039897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0S,25486,Alveslohe,Lindenstraße,24,,53.78929808,9.90958902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0T,25486,Alveslohe,Lindenstraße,25,,53.78872028,9.91001698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0U,25486,Alveslohe,Lindenstraße,26,,53.78900968,9.90990085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0V,25486,Alveslohe,Lindenstraße,27,,53.78854783,9.90936253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0W,25486,Alveslohe,Lindenstraße,28,,53.78890538,9.90957634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0X,25486,Alveslohe,Lindenstraße,29,,53.78862328,9.9095044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0Y,25486,Alveslohe,Lindenstraße,3,,53.7894494,9.91356455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0Z,25486,Alveslohe,Lindenstraße,30,,53.78881308,9.90929757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0a,25486,Alveslohe,Kaltenkirchener Chaussee,4,a,53.79248293,9.91685738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0b,25486,Alveslohe,Kaltenkirchener Chaussee,5,,53.79318511,9.91650274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0c,25486,Alveslohe,Kaltenkirchener Chaussee,6,,53.79272601,9.91677729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0d,25486,Alveslohe,Kaltenkirchener Chaussee,7,,53.79331253,9.91662047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0e,25486,Alveslohe,Kaltenkirchener Chaussee,7,a,53.79401279,9.917216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0f,25486,Alveslohe,Kaltenkirchener Chaussee,7,b,53.79381879,9.91703187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0g,25486,Alveslohe,Kaltenkirchener Chaussee,8,,53.79323347,9.91713138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0h,25486,Alveslohe,Kaltenkirchener Chaussee,9,,53.79487894,9.91806735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0i,25486,Alveslohe,Kaltenkirchener Chaussee,9,a,53.79469691,9.91785427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0j,25486,Alveslohe,Kieler Straße,1,,53.79207422,9.87653648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0k,25486,Alveslohe,Kieler Straße,10,,53.78355959,9.87449248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0l,25486,Alveslohe,Kieler Straße,11,,53.7854478,9.8753978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0m,25486,Alveslohe,Kieler Straße,12,,53.78234517,9.87461311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0n,25486,Alveslohe,Kieler Straße,13,,53.78205974,9.87516612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0o,25486,Alveslohe,Kieler Straße,14,,53.78225143,9.87465363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0p,25486,Alveslohe,Kieler Straße,15,,53.7804527,9.87530314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0q,25486,Alveslohe,Kieler Straße,16,,53.77985119,9.87494301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0r,25486,Alveslohe,Kieler Straße,17,,53.77924177,9.87546034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0s,25486,Alveslohe,Kieler Straße,2,,53.79133241,9.87587517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0t,25486,Alveslohe,Kieler Straße,3,,53.79011695,9.87609706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0u,25486,Alveslohe,Kieler Straße,4,,53.78676489,9.87497572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0v,25486,Alveslohe,Kieler Straße,5,,53.78820011,9.87585163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0w,25486,Alveslohe,Kieler Straße,6,,53.78440399,9.87427198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0x,25486,Alveslohe,Kieler Straße,7,,53.78661516,9.8754138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0y,25486,Alveslohe,Kieler Straße,8,,53.78413428,9.87442035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq0z,25486,Alveslohe,Kieler Straße,9,,53.78584486,9.87542402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq10,25486,Alveslohe,Lindenstraße,31,,53.78865175,9.9096289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq11,25486,Alveslohe,Lindenstraße,4,,53.78965611,9.91295311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq12,25486,Alveslohe,Lindenstraße,5,,53.78935503,9.91327948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq13,25486,Alveslohe,Lindenstraße,5,a,53.78934245,9.91317988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq14,25486,Alveslohe,Lindenstraße,6,,53.78951056,9.91255907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq15,25486,Alveslohe,Lindenstraße,8,,53.78947281,9.91224016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq16,25486,Alveslohe,Lindenstraße,9,,53.78920269,9.91249238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq17,25486,Alveslohe,Lohplatz,1,,53.78700111,9.91214126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq18,25486,Alveslohe,Lohplatz,10,,53.78626896,9.91124444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq19,25486,Alveslohe,Lohplatz,2,,53.78673304,9.91188451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1A,25486,Alveslohe,Lohestraße,23,,53.78928673,9.90776427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1B,25486,Alveslohe,Lohestraße,24,,53.79106236,9.90381953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1C,25486,Alveslohe,Lohestraße,24,a,53.79110522,9.90374488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1D,25486,Alveslohe,Lohestraße,25,,53.78995529,9.90692608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1E,25486,Alveslohe,Lohestraße,26,,53.79115405,9.90346453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1F,25486,Alveslohe,Lohestraße,27,,53.79005067,9.90651512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1G,25486,Alveslohe,Lohestraße,28,,53.79115946,9.90306574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1H,25486,Alveslohe,Lohestraße,29,,53.7901739,9.9059623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1I,25486,Alveslohe,Lohestraße,3,,53.78690664,9.91006035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1J,25486,Alveslohe,Lohestraße,30,,53.79123628,9.90284183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1K,25486,Alveslohe,Lohestraße,31,,53.79032476,9.90565978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1L,25486,Alveslohe,Lohestraße,32,,53.7913431,9.90269055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1M,25486,Alveslohe,Lohestraße,33,,53.79040487,9.90539944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1N,25486,Alveslohe,Lohestraße,34,,53.79139016,9.90248303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1O,25486,Alveslohe,Lohestraße,35,,53.79046096,9.90511391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1P,25486,Alveslohe,Lohestraße,36,,53.7915293,9.90229678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1Q,25486,Alveslohe,Lohestraße,37,,53.79049784,9.9047825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1R,25486,Alveslohe,Lohestraße,38,,53.79156361,9.90202891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1S,25486,Alveslohe,Lohestraße,39,,53.79042478,9.90433961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1T,25486,Alveslohe,Lohestraße,39,a,53.79061833,9.90391732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1U,25486,Alveslohe,Lohestraße,4,,53.7869748,9.91059729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1V,25486,Alveslohe,Lohestraße,40,,53.79160227,9.90196064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1W,25486,Alveslohe,Lohestraße,41,,53.79074742,9.90296317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1X,25486,Alveslohe,Lohestraße,42,,53.79177401,9.90175397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1Y,25486,Alveslohe,Lohestraße,43,,53.79084429,9.90261764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1Z,25486,Alveslohe,Lohestraße,45,,53.79091994,9.90217588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1a,25486,Alveslohe,Lohplatz,4,,53.78717519,9.91141493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1b,25486,Alveslohe,Lohplatz,6,,53.78668937,9.91119792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1c,25486,Alveslohe,Lohplatz,8,,53.78665119,9.91056879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1d,25486,Alveslohe,Lohplatz,8,a,53.78612787,9.91060085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1e,25486,Alveslohe,Lohplatz,8,b,53.78582703,9.91069411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1f,25486,Alveslohe,Lohestraße,1,,53.78674042,9.9101629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1g,25486,Alveslohe,Lohestraße,10,,53.78738434,9.90979975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1h,25486,Alveslohe,Lohestraße,11,,53.78763157,9.90886252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1i,25486,Alveslohe,Lohestraße,12,,53.78765219,9.90972108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1j,25486,Alveslohe,Lohestraße,13,,53.78823703,9.90896345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1k,25486,Alveslohe,Lohestraße,13,a,53.78833661,9.90892864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1l,25486,Alveslohe,Lohestraße,14,,53.78802904,9.90955113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1m,25486,Alveslohe,Lohestraße,15,,53.78859007,9.90890795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1n,25486,Alveslohe,Lohestraße,16,,53.78920009,9.90852862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1o,25486,Alveslohe,Lohestraße,16,a,53.78895803,9.90902127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1p,25486,Alveslohe,Lohestraße,16,b,53.78916868,9.90929172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1q,25486,Alveslohe,Lohestraße,17,,53.78859007,9.90890795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1r,25486,Alveslohe,Lohestraße,18,,53.78979642,9.90794919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1s,25486,Alveslohe,Lohestraße,19,,53.78877799,9.90856041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1t,25486,Alveslohe,Lohestraße,2,,53.78683899,9.9108609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1u,25486,Alveslohe,Lohestraße,20,,53.79086457,9.90707986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1v,25486,Alveslohe,Lohestraße,20,a,53.79090703,9.90479502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1w,25486,Alveslohe,Lohestraße,20,b,53.79096236,9.9046942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1x,25486,Alveslohe,Lohestraße,21,,53.78891408,9.90842408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1y,25486,Alveslohe,Lohestraße,22,,53.79098162,9.904162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq1z,25486,Alveslohe,Lohestraße,22,a,53.7910278,9.90407981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq20,25486,Alveslohe,Lohestraße,47,,53.7911752,9.9019022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq21,25486,Alveslohe,Lohestraße,5,,53.7870674,9.90981177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq22,25486,Alveslohe,Lohestraße,6,,53.78710417,9.91033727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq23,25486,Alveslohe,Lohestraße,6,a,53.78720899,9.91066786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq24,25486,Alveslohe,Lohestraße,7,,53.78713762,9.90951037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq25,25486,Alveslohe,Lohestraße,9,,53.78727385,9.90932415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq26,25486,Alveslohe,Lohetwiete,2,,53.7917115,9.90114314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq27,25486,Alveslohe,Lohetwiete,4,,53.79156234,9.89979802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq28,25486,Alveslohe,Lohetwiete,6,,53.79154033,9.89956263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq29,25486,Alveslohe,Lohetwiete,8,,53.79162647,9.89928086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2A,25486,Alveslohe,Peterstraße,14,,53.78680244,9.92077994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2B,25486,Alveslohe,Peterstraße,16,,53.78716448,9.92035399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2C,25486,Alveslohe,Peterstraße,18,,53.78725,9.92051892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2D,25486,Alveslohe,Peterstraße,2,a,53.78668253,9.91542962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2E,25486,Alveslohe,Peterstraße,2,b,53.78666742,9.91553059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2F,25486,Alveslohe,Peterstraße,2,c,53.78665339,9.91562444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2G,25486,Alveslohe,Peterstraße,2,d,53.78663966,9.91571687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2H,25486,Alveslohe,Peterstraße,2,e,53.78661007,9.91591019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2I,25486,Alveslohe,Peterstraße,2,f,53.78659365,9.91601134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2J,25486,Alveslohe,Peterstraße,2,g,53.78657847,9.91610502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2K,25486,Alveslohe,Peterstraße,2,h,53.78656346,9.91619729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2L,25486,Alveslohe,Peterstraße,20,,53.78679947,9.92104731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2M,25486,Alveslohe,Peterstraße,22,,53.7873159,9.92068278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2N,25486,Alveslohe,Peterstraße,24,,53.78740623,9.92083572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2O,25486,Alveslohe,Peterstraße,24,a,53.78715878,9.92106666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2P,25486,Alveslohe,Peterstraße,26,,53.78749851,9.92098202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2Q,25486,Alveslohe,Peterstraße,26,a,53.78701285,9.92145978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2R,25486,Alveslohe,Peterstraße,26,b,53.78735421,9.9216111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2S,25486,Alveslohe,Peterstraße,26,c,53.78756521,9.92191202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2T,25486,Alveslohe,Peterstraße,26,d,53.78764362,9.92131301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2U,25486,Alveslohe,Peterstraße,26,e,53.7878923,9.9214954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2V,25486,Alveslohe,Peterstraße,28,,53.78884804,9.92202266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2W,25486,Alveslohe,Peterstraße,28,a,53.78856725,9.92244664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2X,25486,Alveslohe,Peterstraße,3,,53.78673366,9.91656506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2Y,25486,Alveslohe,Peterstraße,3,a,53.78682314,9.91695355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2Z,25486,Alveslohe,Peterstraße,30,,53.78913247,9.9223089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2a,25486,Alveslohe,Ostpreußenstraße,1,,53.79419414,9.91711183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2b,25486,Alveslohe,Ostpreußenstraße,10,,53.79440457,9.91623213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2c,25486,Alveslohe,Ostpreußenstraße,11,,53.79412052,9.91531486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2d,25486,Alveslohe,Ostpreußenstraße,12,,53.79440095,9.91572036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2e,25486,Alveslohe,Ostpreußenstraße,13,,53.79411975,9.91511757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2f,25486,Alveslohe,Ostpreußenstraße,14,,53.79439897,9.9155579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2g,25486,Alveslohe,Ostpreußenstraße,14,a,53.79440069,9.91533473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2h,25486,Alveslohe,Ostpreußenstraße,15,,53.79418548,9.91450138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2i,25486,Alveslohe,Ostpreußenstraße,15,a,53.79401777,9.914688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2j,25486,Alveslohe,Ostpreußenstraße,15,b,53.79396636,9.91472078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2k,25486,Alveslohe,Ostpreußenstraße,16,,53.79439041,9.91489885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2l,25486,Alveslohe,Ostpreußenstraße,17,,53.79411515,9.91426889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2m,25486,Alveslohe,Ostpreußenstraße,18,,53.79438656,9.91475304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2n,25486,Alveslohe,Ostpreußenstraße,2,,53.79448987,9.91752065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2o,25486,Alveslohe,Ostpreußenstraße,3,,53.79419322,9.9169329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2p,25486,Alveslohe,Ostpreußenstraße,4,,53.79441735,9.91729206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2q,25486,Alveslohe,Ostpreußenstraße,4,a,53.79447256,9.91717172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2r,25486,Alveslohe,Ostpreußenstraße,5,,53.79413476,9.91638048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2s,25486,Alveslohe,Ostpreußenstraße,6,,53.79441384,9.91690427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2t,25486,Alveslohe,Ostpreußenstraße,7,,53.79413281,9.91624087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2u,25486,Alveslohe,Ostpreußenstraße,8,,53.79441292,9.91654435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2v,25486,Alveslohe,Ostpreußenstraße,9,,53.79412767,9.91574906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2w,25486,Alveslohe,Peterstraße,1,,53.78682666,9.91596112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2x,25486,Alveslohe,Peterstraße,10,,53.78699502,9.91999871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2y,25486,Alveslohe,Peterstraße,11,,53.78942041,9.92229334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq2z,25486,Alveslohe,Peterstraße,12,,53.78708257,9.92017531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq30,25486,Alveslohe,Peterstraße,32,,53.78915115,9.92240116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq31,25486,Alveslohe,Peterstraße,4,,53.7864993,9.91700579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq32,25486,Alveslohe,Peterstraße,5,,53.7870858,9.91730719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq33,25486,Alveslohe,Peterstraße,5,a,53.78679767,9.91722747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq34,25486,Alveslohe,Peterstraße,5,b,53.78678309,9.91729509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq35,25486,Alveslohe,Peterstraße,5,c,53.78683543,9.91739796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq36,25486,Alveslohe,Peterstraße,5,d,53.78681724,9.91748277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq37,25486,Alveslohe,Peterstraße,5,e,53.78686765,9.91758096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq38,25486,Alveslohe,Peterstraße,5,f,53.78685122,9.91765764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq39,25486,Alveslohe,Peterstraße,5,g,53.78681639,9.9177073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3B,25486,Alveslohe,Pinndiek,10,,53.79196835,9.92575693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3C,25486,Alveslohe,Pinndiek,10,a,53.79189172,9.92607406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3D,25486,Alveslohe,Pinndiek,12,,53.79183767,9.92658529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3E,25486,Alveslohe,Pinndiek,13,,53.79212249,9.92265019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3F,25486,Alveslohe,Pinndiek,13,a,53.79210668,9.92285585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3G,25486,Alveslohe,Pinndiek,14,,53.79162396,9.92698909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3H,25486,Alveslohe,Pinndiek,14,a,53.79161373,9.92731003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3I,25486,Alveslohe,Pinndiek,14,b,53.79156245,9.92755896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3J,25486,Alveslohe,Pinndiek,15,,53.79216798,9.92331973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3K,25486,Alveslohe,Pinndiek,15,a,53.79222186,9.92382108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3L,25486,Alveslohe,Pinndiek,15,b,53.79239797,9.92332091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3M,25486,Alveslohe,Pinndiek,15,c,53.79244761,9.92327386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3N,25486,Alveslohe,Pinndiek,15,d,53.7922727,9.92408792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3O,25486,Alveslohe,Pinndiek,16,,53.7914142,9.92912719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3P,25486,Alveslohe,Pinndiek,17,,53.79245461,9.92457693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3Q,25486,Alveslohe,Pinndiek,17,a,53.79259608,9.92435907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3R,25486,Alveslohe,Pinndiek,18,,53.79014436,9.92955188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3S,25486,Alveslohe,Pinndiek,18,a,53.79026435,9.92960164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3T,25486,Alveslohe,Pinndiek,19,,53.79236213,9.92502046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3U,25486,Alveslohe,Pinndiek,19,a,53.79230696,9.92528262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3V,25486,Alveslohe,Pinndiek,2,,53.79163457,9.92136585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3W,25486,Alveslohe,Pinndiek,21,,53.79215003,9.92602639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3X,25486,Alveslohe,Pinndiek,23,,53.79204049,9.92674582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3Y,25486,Alveslohe,Pinndiek,3,,53.79134982,9.91998566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3Z,25486,Alveslohe,Pinndiek,33,,53.79111826,9.9296372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3a,25486,Alveslohe,Peterstraße,5,h,53.78680048,9.91778124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3b,25486,Alveslohe,Peterstraße,6,,53.78612762,9.91854758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3c,25486,Alveslohe,Peterstraße,6,a,53.78643031,9.91764686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3d,25486,Alveslohe,Peterstraße,6,b,53.78632303,9.91776331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3e,25486,Alveslohe,Peterstraße,6,c,53.78614713,9.91794698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3f,25486,Alveslohe,Peterstraße,6,d,53.78588538,9.91809949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3g,25486,Alveslohe,Peterstraße,6,e,53.78646007,9.917981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3h,25486,Alveslohe,Peterstraße,6,f,53.78648748,9.91827362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3i,25486,Alveslohe,Peterstraße,7,,53.78667907,9.91810654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3j,25486,Alveslohe,Peterstraße,8,,53.78680513,9.91962037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3k,25486,Alveslohe,Peterstraße,8,a,53.78653207,9.91877229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3l,25486,Alveslohe,Peterstraße,8,b,53.78649363,9.91882873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3m,25486,Alveslohe,Peterstraße,8,c,53.78642776,9.91882541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3n,25486,Alveslohe,Peterstraße,8,d,53.7863942,9.91887466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3o,25486,Alveslohe,Peterstraße,8,e,53.78635764,9.91892828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3p,25486,Alveslohe,Peterstraße,8,f,53.78632346,9.91897807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3q,25486,Alveslohe,Peterstraße,8,g,53.78628371,9.9190368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3r,25486,Alveslohe,Peterstraße,8,h,53.78660191,9.91924179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3s,25486,Alveslohe,Peterstraße,8,i,53.78657145,9.91928887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3t,25486,Alveslohe,Peterstraße,8,j,53.7865349,9.91934534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3u,25486,Alveslohe,Peterstraße,8,k,53.78649887,9.91940138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3v,25486,Alveslohe,Peterstraße,8,l,53.78646402,9.91945469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3w,25486,Alveslohe,Peterstraße,8,m,53.78643033,9.91950699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3x,25486,Alveslohe,Peterstraße,8,n,53.78639517,9.91956136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3y,25486,Alveslohe,Peterstraße,9,,53.78688563,9.91903016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq3z,25486,Alveslohe,Peterstraße,9,a,53.78700173,9.91937235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq40,25486,Alveslohe,Pinndiek,4,,53.79208202,9.92460465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq41,25486,Alveslohe,Pinndiek,5,,53.79186066,9.92090438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq42,25486,Alveslohe,Pinndiek,6,,53.7921017,9.92493766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq43,25486,Alveslohe,Pinndiek,7,,53.79214626,9.92130016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq44,25486,Alveslohe,Pinndiek,8,,53.79196469,9.92533353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq45,25486,Alveslohe,Pinndiek,9,,53.79207228,9.92224935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq46,25486,Alveslohe,Pinndiek,9,a,53.79232729,9.92181709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq47,25486,Alveslohe,Pommernstraße,1,,53.79345036,9.91665309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq48,25486,Alveslohe,Pommernstraße,10,,53.79378801,9.91528325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq49,25486,Alveslohe,Pommernstraße,11,,53.79353316,9.91447085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4A,25486,Alveslohe,Pumpkies,5,,53.77924056,9.90218291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4B,25486,Alveslohe,Rödtmoortwiete,2,,53.79295778,9.9169892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4C,25486,Alveslohe,Rödtmoortwiete,2,a,53.79294186,9.91727374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4D,25486,Alveslohe,Rödtmoortwiete,3,,53.79325056,9.91791886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4E,25486,Alveslohe,Rödtmoortwiete,4,,53.79305836,9.92012754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4F,25486,Alveslohe,Rubinstwiete,2,,53.78538634,9.87886523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4G,25486,Alveslohe,Rubinstwiete,4,,53.7851942,9.87861583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4H,25486,Alveslohe,Rubinstwiete,6,,53.78487559,9.87819644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4I,25486,Alveslohe,Schäferei,1,,53.81060154,9.88355985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4J,25486,Alveslohe,Schäferei,2,,53.8105374,9.88630288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4K,25486,Alveslohe,Schäferei,3,,53.81073938,9.88405639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4L,25486,Alveslohe,Schäferei,4,,53.81063339,9.88692315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4M,25486,Alveslohe,Schäferei,5,,53.81191486,9.88947202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4O,25486,Alveslohe,Schlesienstraße,1,,53.79257915,9.915843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4P,25486,Alveslohe,Schlesienstraße,10,,53.79290242,9.91493491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4Q,25486,Alveslohe,Schlesienstraße,11,,53.79267471,9.91445778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4R,25486,Alveslohe,Schlesienstraße,12,,53.79290154,9.91474496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4S,25486,Alveslohe,Schlesienstraße,13,,53.79267241,9.91412697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4T,25486,Alveslohe,Schlesienstraße,14,,53.79289899,9.91438098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4U,25486,Alveslohe,Schlesienstraße,15,,53.79266166,9.9137773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4V,25486,Alveslohe,Schlesienstraße,16,,53.79286846,9.91410008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4W,25486,Alveslohe,Schlesienstraße,17,,53.79265843,9.91333908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4X,25486,Alveslohe,Schlesienstraße,18,,53.79289073,9.91366601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4Y,25486,Alveslohe,Schlesienstraße,2,,53.79291464,9.91563914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4Z,25486,Alveslohe,Schlesienstraße,3,,53.79247604,9.9154504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4a,25486,Alveslohe,Pommernstraße,12,,53.79378367,9.91512541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4b,25486,Alveslohe,Pommernstraße,13,,53.79354229,9.91426767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4c,25486,Alveslohe,Pommernstraße,14,,53.79377946,9.91496588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4d,25486,Alveslohe,Pommernstraße,15,,53.79355735,9.91395227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4e,25486,Alveslohe,Pommernstraße,16,,53.79376956,9.91426701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4f,25486,Alveslohe,Pommernstraße,2,,53.79366527,9.91680045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4g,25486,Alveslohe,Pommernstraße,3,,53.7935677,9.91627263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4h,25486,Alveslohe,Pommernstraße,4,,53.79369278,9.91665159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4i,25486,Alveslohe,Pommernstraße,5,,53.79361054,9.9153447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4j,25486,Alveslohe,Pommernstraße,6,,53.79376696,9.91606101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4k,25486,Alveslohe,Pommernstraße,7,,53.79352685,9.9149152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4l,25486,Alveslohe,Pommernstraße,8,,53.79377388,9.91589006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4m,25486,Alveslohe,Pommernstraße,9,,53.79354343,9.91468839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4n,25486,Alveslohe,Poststraße,1,,53.78727776,9.91546693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4o,25486,Alveslohe,Poststraße,10,,53.78761532,9.91666484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4p,25486,Alveslohe,Poststraße,12,,53.78776778,9.91699813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4q,25486,Alveslohe,Poststraße,2,,53.78704587,9.91605918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4r,25486,Alveslohe,Poststraße,3,,53.78726918,9.91572395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4s,25486,Alveslohe,Poststraße,4,,53.78718977,9.91620636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4t,25486,Alveslohe,Poststraße,4,a,53.78713337,9.91632153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4u,25486,Alveslohe,Poststraße,5,,53.78759588,9.9162226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4v,25486,Alveslohe,Poststraße,6,,53.78730976,9.91633357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4w,25486,Alveslohe,Poststraße,8,,53.78740605,9.91646453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4x,25486,Alveslohe,Pumpkies,1,,53.77819685,9.90625463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4y,25486,Alveslohe,Pumpkies,2,,53.77921596,9.90313407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq4z,25486,Alveslohe,Pumpkies,3,,53.7782768,9.90559718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq50,25486,Alveslohe,Schlesienstraße,4,,53.79290842,9.91538875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq51,25486,Alveslohe,Schlesienstraße,5,,53.79267275,9.91501632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq52,25486,Alveslohe,Schlesienstraße,6,,53.79290842,9.91538875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq53,25486,Alveslohe,Schlesienstraße,7,,53.79267738,9.91466723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq54,25486,Alveslohe,Schlesienstraße,8,,53.79291996,9.91516605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq55,25486,Alveslohe,Schlesienstraße,9,,53.79267605,9.91456254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq56,25486,Alveslohe,Up de Höcht,3,,53.79500334,9.88112159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq58,25486,Alveslohe,Westerwohldweg,1,,53.79263556,9.92388778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq59,25486,Alveslohe,Westerwohldweg,11,,53.79627007,9.93014559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5A,25486,Alveslohe,Am Dorfanger,16,,53.78805473,9.91328911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5B,25486,Alveslohe,Am Dorfanger,17,,53.78791243,9.91269612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5C,25486,Alveslohe,Am Dorfanger,18,,53.78776098,9.91327479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5D,25486,Alveslohe,Am Dorfanger,19,,53.78811504,9.9124514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5E,25486,Alveslohe,Am Dorfanger,2,,53.78740079,9.91364137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5F,25486,Alveslohe,Am Dorfanger,20,,53.78761782,9.91335131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5G,25486,Alveslohe,Am Dorfanger,21,,53.78813955,9.91267385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5H,25486,Alveslohe,Am Dorfanger,3,,53.78733714,9.9133057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5I,25486,Alveslohe,Am Dorfanger,4,,53.78740798,9.91388073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5J,25486,Alveslohe,Am Dorfanger,5,,53.78739109,9.91329711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5K,25486,Alveslohe,Am Dorfanger,6,,53.78741692,9.91411784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5L,25486,Alveslohe,Am Dorfanger,7,,53.78744956,9.91328767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5M,25486,Alveslohe,Am Dorfanger,8,,53.7877246,9.91369047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5N,25486,Alveslohe,Am Dorfanger,9,,53.78742606,9.91285515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5O,25486,Alveslohe,Westerwohldstieg,10,,53.79243303,9.92258435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5P,25486,Alveslohe,Westerwohldstieg,2,,53.79284601,9.92365693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5Q,25486,Alveslohe,Westerwohldstieg,4,,53.79276284,9.92332305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5R,25486,Alveslohe,Westerwohldstieg,6,,53.79265104,9.9231048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5S,25486,Alveslohe,Westerwohldstieg,8,,53.79252722,9.92286667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5T,25486,Alveslohe,Am Bahnhof,2,,53.79066935,9.91719631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5U,25486,Alveslohe,Op'n Wischhof,1,,53.79342649,9.92412037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5V,25486,Alveslohe,Op'n Wischhof,10,,53.79282216,9.92526122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5W,25486,Alveslohe,Op'n Wischhof,11,,53.79303852,9.92544191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5X,25486,Alveslohe,Op'n Wischhof,13,,53.79294849,9.92584257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5Y,25486,Alveslohe,Op'n Wischhof,2,,53.79325286,9.92397704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5Z,25486,Alveslohe,Op'n Wischhof,3,,53.79337756,9.92440292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5a,25486,Alveslohe,Westerwohldweg,11,a,53.79604737,9.93024373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5b,25486,Alveslohe,Westerwohldweg,2,,53.79284469,9.92408604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5c,25486,Alveslohe,Westerwohldweg,2,a,53.79304773,9.92395762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5d,25486,Alveslohe,Westerwohldweg,3,,53.79425754,9.92468209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5e,25486,Alveslohe,Westerwohldweg,3,b,53.79304254,9.92352785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5f,25486,Alveslohe,Westerwohldweg,4,,53.79644645,9.93122688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5g,25486,Alveslohe,Westerwohldweg,5,,53.79427775,9.92653774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5h,25486,Alveslohe,Westerwohldweg,7,,53.79426974,9.9270108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5i,25486,Alveslohe,Westerwohldweg,9,,53.79446996,9.92784556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5j,25486,Alveslohe,Lütt'n Feld,1,,53.79308524,9.91327869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5k,25486,Alveslohe,Lütt'n Feld,2,,53.79325168,9.91379222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5l,25486,Alveslohe,Lütt'n Feld,2,a,53.79474224,9.91483549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5m,25486,Alveslohe,Lütt'n Feld,4,,53.79498195,9.91499003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5n,25486,Alveslohe,Bin Pahl,1,,53.78831177,9.92163028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5o,25486,Alveslohe,Bin Pahl,2,,53.7877437,9.92269468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5p,25486,Alveslohe,Bin Pahl,3,,53.78855541,9.92179014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5q,25486,Alveslohe,Bin Pahl,4,,53.78803135,9.92183465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5r,25486,Alveslohe,Bin Pahl,5,,53.78872629,9.92185292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5s,25486,Alveslohe,Bin Pahl,6,,53.78820665,9.92200545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5t,25486,Alveslohe,Am Dorfanger,1,,53.78727415,9.91331564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5u,25486,Alveslohe,Am Dorfanger,10,,53.7877194,9.91402121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5v,25486,Alveslohe,Am Dorfanger,11,,53.78737174,9.91262032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5w,25486,Alveslohe,Am Dorfanger,12,,53.78790194,9.91378526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5x,25486,Alveslohe,Am Dorfanger,13,,53.78758828,9.91271629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5y,25486,Alveslohe,Am Dorfanger,14,,53.78800022,9.91357033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq5z,25486,Alveslohe,Am Dorfanger,15,,53.78774694,9.91270803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq60,25486,Alveslohe,Op'n Wischhof,4,,53.79313863,9.92430651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq61,25486,Alveslohe,Op'n Wischhof,5,,53.79324961,9.92463968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq62,25486,Alveslohe,Op'n Wischhof,6,,53.79305067,9.92458706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq63,25486,Alveslohe,Op'n Wischhof,7,,53.79321607,9.92490294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq64,25486,Alveslohe,Op'n Wischhof,8,,53.79297234,9.92483368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq65,25486,Alveslohe,Op'n Wischhof,8,a,53.79288965,9.925058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq66,25486,Alveslohe,Op'n Wischhof,9,,53.79313541,9.92520065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq67,25486,Alveslohe,Lütt Koppel,1,,53.78909497,9.92395007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq68,25486,Alveslohe,Lütt Koppel,10,,53.78924379,9.92283929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq69,25486,Alveslohe,Lütt Koppel,2,,53.7891998,9.92406041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6a,25486,Alveslohe,Lütt Koppel,3,,53.78903951,9.92364175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6b,25486,Alveslohe,Lütt Koppel,4,,53.78925255,9.92384559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6c,25486,Alveslohe,Lütt Koppel,5,,53.78906102,9.92341399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6d,25486,Alveslohe,Lütt Koppel,6,,53.78931445,9.92352447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6e,25486,Alveslohe,Lütt Koppel,7,,53.78886045,9.92309811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6f,25486,Alveslohe,Lütt Koppel,8,,53.78929299,9.92325103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6g,25486,Alveslohe,Lütt Koppel,9,,53.78906986,9.92312984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6h,25486,Alveslohe,Inge-Doose-Stieg,1,,53.79219344,9.91452578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6i,25486,Alveslohe,Inge-Doose-Stieg,5,,53.79240533,9.91417144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cq6j,25486,Alveslohe,Inge-Doose-Stieg,8,,53.79220251,9.91408686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ntw7,25486,Alveslohe,Kieler Straße,10,a,53.78338672,9.87414647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ir04,25486,Alveslohe,Kadener Straße,2,a,53.78929919,9.92517292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MlJm,25486,Alveslohe,Ostpreußenstraße,13,a,53.79401465,9.91503417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004O9Bk,25486,Alveslohe,Peterstraße,6,g,53.78626335,9.9181722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ankr,25486,Alveslohe,Eichenstraße,20,,53.78970494,9.91939844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00051ToL,25486,Alveslohe,Lindenstraße,19,,53.78894163,9.91093054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054KLm,25486,Alveslohe,Inge-Doose-Stieg,2,,53.79222084,9.91483672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005560R,25486,Alveslohe,Lindenstraße,17,,53.78902428,9.91132092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005560S,25486,Alveslohe,Lindenstraße,17,a,53.78902426,9.91121763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056Jsk,25486,Alveslohe,Im Busch,6,,53.80531098,9.90276186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056Jst,25486,Alveslohe,Im Busch,7,,53.80517983,9.90324271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005I3Y8,25486,Alveslohe,Schafskoppel,2,,53.78971016,9.9264274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005I3Yd,25486,Alveslohe,Kadener Straße,2,b,53.78930093,9.92545868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NnXp,25486,Alveslohe,Lindenstraße,4,a,53.78970506,9.91316259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005OZnZ,25486,Alveslohe,Inge-Doose-Stieg,4,,53.79237254,9.91466601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RC34,25486,Alveslohe,Inge-Doose-Stieg,3,,53.79243596,9.91495856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Y5K7,25486,Alveslohe,Pinndiek,14,c,53.79151993,9.92816332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Y6yz,25486,Alveslohe,Auf dem Felde,1,,53.79258886,9.9127131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z3i4,25486,Alveslohe,Pinndiek,14,d,53.79147191,9.9284116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005g4gW,25486,Alveslohe,Bin Pahl,7,,53.78844828,9.92214254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nZQR,25486,Alveslohe,Buschtwiete,5,a,53.79271776,9.90157141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pMoN,25486,Alveslohe,Inge-Doose-Stieg,6,,53.7923627,9.91383535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rlhM,25486,Alveslohe,Inge-Doose-Stieg,7,,53.79223803,9.91372665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP2D,25486,Alveslohe,Dieckskamp,26,,53.79078982,9.91983943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP2N,25486,Alveslohe,Dieckskamp,24,,53.79085797,9.92011705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP2R,25486,Alveslohe,Dieckskamp,22,,53.79078513,9.92044497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP3I,25486,Alveslohe,Dieckskamp,20,,53.79075899,9.92067052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP4D,25486,Alveslohe,Dieckskamp,16,,53.79071608,9.92130627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP4y,25486,Alveslohe,Dieckskamp,18,,53.79071964,9.92103931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP6P,25486,Alveslohe,Dieckskamp,12,,53.7905501,9.92184078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP6T,25486,Alveslohe,Dieckskamp,10,,53.79059615,9.92211262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP6g,25486,Alveslohe,Dieckskamp,14,,53.79060564,9.92155299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP7x,25486,Alveslohe,Dieckskamp,8,,53.79053968,9.92234853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP84,25486,Alveslohe,Dieckskamp,6,,53.79030787,9.92222557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP88,25486,Alveslohe,Dieckskamp,4,,53.79010963,9.92218608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8A,25486,Alveslohe,Dieckskamp,11,,53.79018404,9.92095725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8E,25486,Alveslohe,Dieckskamp,13,,53.79000877,9.92095991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8T,25486,Alveslohe,Dieckskamp,15,,53.79005224,9.92055032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8X,25486,Alveslohe,Dieckskamp,17,,53.79019325,9.92069387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8c,25486,Alveslohe,Dieckskamp,2,,53.78986802,9.92211141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8g,25486,Alveslohe,Dieckskamp,1,,53.78994016,9.92172291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8k,25486,Alveslohe,Dieckskamp,3,,53.79010973,9.92169613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8o,25486,Alveslohe,Dieckskamp,5,,53.79030916,9.92183002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8s,25486,Alveslohe,Dieckskamp,7,,53.7903853,9.9214922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP8w,25486,Alveslohe,Dieckskamp,9,,53.79040831,9.92105888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP90,25486,Alveslohe,Dieckskamp,19,,53.79037963,9.92076558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP95,25486,Alveslohe,Dieckskamp,21,,53.79042372,9.92029098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP9B,25486,Alveslohe,Dieckskamp,25,,53.79030975,9.91986414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP9F,25486,Alveslohe,Dieckskamp,27,,53.79055674,9.91988269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uP9x,25486,Alveslohe,Dieckskamp,23,,53.79028,9.92019086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPa4,25486,Alveslohe,Dieckskamp,29,,53.7905842,9.91958348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPbl,25486,Alveslohe,Dieckskamp,31,,53.7903759,9.91936894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPcB,25486,Alveslohe,Eichenstraße,17,,53.7899939,9.9201848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPcv,25486,Alveslohe,Eichenstraße,13,,53.7899568,9.91920226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPcw,25486,Alveslohe,Eichenstraße,15,,53.78994663,9.91979895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPdp,25486,Alveslohe,Eichenstraße,19,,53.78994867,9.92129575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uPdv,25486,Alveslohe,Eichenstraße,21,,53.79010178,9.92264918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTRV,25486,Alveslohe,Barmstedter Straße,20,a,53.78553658,9.91052711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTRW,25486,Alveslohe,Barmstedter Straße,20,b,53.78554186,9.9104457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTRX,25486,Alveslohe,Barmstedter Straße,20,c,53.7855473,9.91036196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTRY,25486,Alveslohe,Barmstedter Straße,20,d,53.78556588,9.91028439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTRZ,25486,Alveslohe,Barmstedter Straße,20,e,53.78557109,9.91020336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTS0,25486,Alveslohe,Barmstedter Straße,20,f,53.78557644,9.9101199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTS1,25486,Alveslohe,Barmstedter Straße,18,,53.78583115,9.91127123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xTS2,25486,Alveslohe,Barmstedter Straße,18,a,53.78577994,9.91125927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wV8,25486,Alveslohe,Hof Hellerholz,2,,53.77138421,9.91633189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wVX,25486,Alveslohe,Hof Hellerholz,6,,53.77066955,9.91577316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wVc,25486,Alveslohe,Hof Hellerholz,2,a,53.77132375,9.91627596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wVd,25486,Alveslohe,Hof Hellerholz,4,,53.77119003,9.91614816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wVe,25486,Alveslohe,Hof Hellerholz,4,a,53.77111682,9.91608073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wW0,25486,Alveslohe,Hof Hellerholz,8,,53.77016556,9.91466748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wW3,25486,Alveslohe,Hof Hellerholz,8,a,53.77003784,9.91455899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060wW4,25486,Alveslohe,Hof Hellerholz,10,,53.7699529,9.91482886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064DPW,25486,Alveslohe,Bahnhofstraße,9,a,53.78923756,9.91520221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065wjC,25486,Alveslohe,Pinndiek,14,e,53.79144949,9.92873352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G54I,25486,Alveslohe,Dieckskamp,18,a,53.7907298,9.9209434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G6bU,25486,Alveslohe,Kaltenkirchener Chaussee,10,a,53.79346752,9.91771083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G6bV,25486,Alveslohe,Kaltenkirchener Chaussee,10,b,53.79346547,9.91781715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G6bW,25486,Alveslohe,Kaltenkirchener Chaussee,10,c,53.79346364,9.91791251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Jezi,25486,Alveslohe,Barmstedter Straße,7,e,53.78647946,9.91270745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NBEE,25486,Alveslohe,Up de Höcht,2,,53.79618769,9.88500486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NBEG,25486,Alveslohe,Up de Höcht,4,,53.79643707,9.88456169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NBEz,25486,Alveslohe,Up de Höcht,15,,53.79567726,9.88498194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXxH,25486,Alveslohe,Schlesienstraße,19,,53.79265717,9.9132188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXxN,25486,Alveslohe,Kaltenkirchener Chaussee,14,a,53.79385066,9.91764063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXxO,25486,Alveslohe,Kaltenkirchener Chaussee,14,b,53.79383682,9.91778167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXxP,25486,Alveslohe,Kaltenkirchener Chaussee,16,,53.79377332,9.91794755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXxV,25486,Alveslohe,Pinndiek,11,,53.79228675,9.92241801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXy0,25486,Alveslohe,Buchenstraße,9,a,53.78822932,9.91714091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXy4,25486,Alveslohe,Peterstraße,32,a,53.78914281,9.92256252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006iS3R,25486,Alveslohe,Eichenstraße,42,,53.78956727,9.92260148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l2mC,25486,Alveslohe,Pinndiek,35,,53.79080374,9.92985973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nrNi,25486,Alveslohe,Eichenstraße,19,a,53.78993684,9.92140786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zP6A,25486,Alveslohe,Schafskoppel,1,,53.79012525,9.92575859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Hw3G,25486,Alveslohe,In de Möschen,2,,53.78581909,9.87936085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Pxqe,25486,Alveslohe,Pommernstraße,5,a,53.79357686,9.91563799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WUnr,25486,Alveslohe,Lütt'n Feld,1,a,53.79295138,9.91321554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cUCn,25486,Alveslohe,Barmstedter Straße,24,,53.7852345,9.90983173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086Y5k,25486,Alveslohe,Pinndiek,1,,53.79063843,9.91926115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GjkA,25486,Alveslohe,Appelboomtwiete,8,,53.79161666,9.90571791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GjkD,25486,Alveslohe,Appelboomtwiete,8,a,53.79157208,9.90579563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GjkG,25486,Alveslohe,Appelboomtwiete,15,,53.79146995,9.9041603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Gjkw,25486,Alveslohe,Appelboomtwiete,11,,53.79177975,9.90448503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GxiM,25486,Alveslohe,Appelboomtwiete,4,,53.79131913,9.90523872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gLGy,25486,Alveslohe,Lohestraße,8,,53.78722529,9.9101723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hLhT,25486,Alveslohe,Ostpreußenstraße,1,a,53.79425333,9.91742726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nozc,25486,Alveslohe,Johann-Wendt-Weg,1,,53.79096154,9.90791611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uA4v,25486,Alveslohe,Barmstedter Straße,26,,53.78514362,9.90956104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uA4w,25486,Alveslohe,Barmstedter Straße,26,a,53.78521104,9.90949621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wTXl,25486,Alveslohe,Kaltenkirchener Chaussee,24,a,53.79406608,9.91786424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wdMJ,25486,Alveslohe,Barmstedter Straße,26,c,53.78543136,9.90931558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wdMQ,25486,Alveslohe,Barmstedter Straße,26,b,53.78541647,9.90942993

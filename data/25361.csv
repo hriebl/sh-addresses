@@ -1,0 +1,1394 @@
+# Amtliche Adressen für die Postleitzahl 25361
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNG,25361,Krempe,Altendeich,100,,53.80460841,9.46747323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNH,25361,Krempe,Altendeich,102,,53.80261327,9.46887266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNJ,25361,Krempe,Altendeich,94,,53.80527967,9.46729266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNK,25361,Krempe,Altendeich,96,,53.80496283,9.46753003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNL,25361,Krempe,Altendeich,98,,53.80454692,9.46785107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNM,25361,Krempe,Dorfstraße,1,,53.81709018,9.51181628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNN,25361,Krempe,Dorfstraße,1,a,53.81714041,9.51247304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNO,25361,Krempe,Dorfstraße,10,,53.813552,9.49707798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNP,25361,Krempe,Dorfstraße,11,,53.81339091,9.49630337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNQ,25361,Krempe,Dorfstraße,12,,53.81326688,9.49565724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNR,25361,Krempe,Dorfstraße,13,,53.81304458,9.4947972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNS,25361,Krempe,Dorfstraße,14,,53.81258337,9.49344666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNT,25361,Krempe,Dorfstraße,15,,53.81247768,9.4922314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNU,25361,Krempe,Dorfstraße,16,,53.81196929,9.49087834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNV,25361,Krempe,Dorfstraße,17,,53.81183121,9.48954244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNW,25361,Krempe,Dorfstraße,18,,53.81117604,9.48665307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNX,25361,Krempe,Dorfstraße,18,a,53.81156029,9.48820614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNY,25361,Krempe,Dorfstraße,19,,53.81062972,9.4843415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YNZ,25361,Krempe,Dorfstraße,2,,53.81683983,9.51066738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO0,25361,Krempe,Dorfstraße,20,,53.80991043,9.48137925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO1,25361,Krempe,Dorfstraße,21,,53.80963994,9.48018749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO2,25361,Krempe,Dorfstraße,22,,53.8095636,9.47987589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO3,25361,Krempe,Dorfstraße,23,,53.8091259,9.47806544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO4,25361,Krempe,Dorfstraße,24,,53.80887187,9.47674068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO5,25361,Krempe,Dorfstraße,25,,53.80850211,9.47544401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO6,25361,Krempe,Dorfstraße,26,,53.80793369,9.47287089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO7,25361,Krempe,Dorfstraße,27,,53.80720238,9.46838289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO8,25361,Krempe,Dorfstraße,3,,53.81668675,9.50944538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YO9,25361,Krempe,Dorfstraße,4,,53.81619283,9.50831613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOA,25361,Krempe,Sushörn,5,,53.81905689,9.51322519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOB,25361,Krempe,Sushörn,6,,53.81891475,9.51337221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOC,25361,Krempe,Sushörn,7,,53.81869619,9.51353935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOD,25361,Krempe,Sushörn,8,,53.81846826,9.51366501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOE,25361,Krempe,Sushörn,9,,53.81826409,9.51385686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOa,25361,Krempe,Dorfstraße,5,,53.81630173,9.50776486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOb,25361,Krempe,Dorfstraße,6,,53.81560163,9.50500188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOc,25361,Krempe,Dorfstraße,7,,53.81514842,9.50340324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOd,25361,Krempe,Dorfstraße,8,,53.81477192,9.50184352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOe,25361,Krempe,Dorfstraße,9,,53.81415513,9.49955489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOf,25361,Krempe,Grüner Weg,1,,53.81819855,9.51484888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOg,25361,Krempe,Grüner Weg,2,,53.81833873,9.51481437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOh,25361,Krempe,Grüner Weg,3,,53.81849455,9.51471141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOi,25361,Krempe,Grüner Weg,4,,53.81879188,9.5143982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOj,25361,Krempe,Grüner Weg,5,,53.81895444,9.51423765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOk,25361,Krempe,Grüner Weg,6,,53.81907933,9.51404064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOl,25361,Krempe,Grüner Weg,7,,53.81922522,9.51386179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOm,25361,Krempe,Grüner Weg,8,,53.81937042,9.51352715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOn,25361,Krempe,Grüner Weg,9,,53.81953197,9.51313854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOo,25361,Krempe,Sushörn,1,,53.81997153,9.51092575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOp,25361,Krempe,Sushörn,10,,53.81808395,9.51394911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOq,25361,Krempe,Sushörn,11,,53.81790122,9.51408202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOr,25361,Krempe,Sushörn,11,a,53.81782355,9.51432938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOs,25361,Krempe,Sushörn,12,,53.81749742,9.51433162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOt,25361,Krempe,Sushörn,13,,53.81692832,9.51470753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOu,25361,Krempe,Sushörn,14,,53.81712238,9.51467026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOv,25361,Krempe,Sushörn,15,,53.817314,9.51472033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOw,25361,Krempe,Sushörn,16,,53.81752207,9.51501473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOx,25361,Krempe,Sushörn,17,,53.81783861,9.51511057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOy,25361,Krempe,Sushörn,18,,53.81522753,9.5180461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049YOz,25361,Krempe,Sushörn,3,,53.81957082,9.51242408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPA,25361,Krempe,Achtern Riep,8,,53.83480166,9.49901604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPB,25361,Krempe,Achtern Riep,9,,53.83502307,9.49929944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPC,25361,Krempe,Audeich,1,,53.82971742,9.50296643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPD,25361,Krempe,Audeich,1,a,53.82923446,9.50317378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPE,25361,Krempe,Audeich,2,,53.82737659,9.50558477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPF,25361,Krempe,Audeich,3,,53.8233701,9.50971206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPG,25361,Krempe,Audeich,4,,53.82610383,9.51214228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPH,25361,Krempe,Audeich,5,,53.82622409,9.51243923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPI,25361,Krempe,Audeich,6,,53.82653294,9.51337992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPJ,25361,Krempe,Audeich,7,,53.82766225,9.51700342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPK,25361,Krempe,Audeich,8,,53.82945598,9.52167207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPL,25361,Krempe,Grevenkoper Riep,1,,53.83614464,9.49761771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPM,25361,Krempe,Grevenkoper Riep,10,,53.83592028,9.49918826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPN,25361,Krempe,Grevenkoper Riep,11,,53.83617757,9.49928807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPO,25361,Krempe,Grevenkoper Riep,12,,53.83590955,9.49954694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPP,25361,Krempe,Grevenkoper Riep,12,a,53.83590578,9.49943292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPQ,25361,Krempe,Grevenkoper Riep,13,,53.83621857,9.4995048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPR,25361,Krempe,Grevenkoper Riep,14,,53.83602136,9.4997992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPS,25361,Krempe,Grevenkoper Riep,15,,53.83645063,9.49974926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPT,25361,Krempe,Grevenkoper Riep,16,,53.83605158,9.50000213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPU,25361,Krempe,Grevenkoper Riep,17,,53.8363211,9.50005295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPV,25361,Krempe,Grevenkoper Riep,18,,53.83608784,9.50019589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPW,25361,Krempe,Grevenkoper Riep,19,,53.83650759,9.50029649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPX,25361,Krempe,Grevenkoper Riep,2,,53.83583273,9.49799048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPY,25361,Krempe,Grevenkoper Riep,20,,53.83612395,9.50043491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPZ,25361,Krempe,Grevenkoper Riep,21,,53.83655466,9.50086567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPc,25361,Krempe,Achtern Riep,1,,53.83500562,9.49805225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPd,25361,Krempe,Achtern Riep,10,,53.83479956,9.49930311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPe,25361,Krempe,Achtern Riep,11,,53.83502743,9.4995825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPf,25361,Krempe,Achtern Riep,12,,53.83480618,9.49965244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPg,25361,Krempe,Achtern Riep,13,,53.83503959,9.49991984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPh,25361,Krempe,Achtern Riep,14,,53.83481927,9.49993498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPi,25361,Krempe,Achtern Riep,15,,53.83542739,9.49977817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPj,25361,Krempe,Achtern Riep,16,,53.83472961,9.50031096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPk,25361,Krempe,Achtern Riep,17,,53.83542658,9.49947769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPl,25361,Krempe,Achtern Riep,18,,53.8348924,9.50051782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPm,25361,Krempe,Achtern Riep,19,,53.83548074,9.49920882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPn,25361,Krempe,Achtern Riep,2,,53.83476378,9.49802706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPo,25361,Krempe,Achtern Riep,20,,53.83509878,9.50039491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPp,25361,Krempe,Achtern Riep,21,,53.8355284,9.49867012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPq,25361,Krempe,Achtern Riep,22,,53.83527051,9.50041468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPr,25361,Krempe,Achtern Riep,23,,53.83551703,9.49841166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPs,25361,Krempe,Achtern Riep,24,,53.83546217,9.50035609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPt,25361,Krempe,Achtern Riep,25,,53.83549685,9.49808455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPu,25361,Krempe,Achtern Riep,26,,53.83560783,9.50033802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPv,25361,Krempe,Achtern Riep,3,,53.83499792,9.4983441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPw,25361,Krempe,Achtern Riep,4,,53.83479168,9.49835209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPx,25361,Krempe,Achtern Riep,5,,53.83500833,9.49866775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPy,25361,Krempe,Achtern Riep,6,,53.83477787,9.49873166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZPz,25361,Krempe,Achtern Riep,7,,53.83501295,9.49898787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ0,25361,Krempe,Grevenkoper Riep,22,,53.8361583,9.5006365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ1,25361,Krempe,Grevenkoper Riep,23,,53.83654615,9.50115054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ2,25361,Krempe,Grevenkoper Riep,24,,53.83624212,9.50093448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ3,25361,Krempe,Grevenkoper Riep,26,,53.83626784,9.50109876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ4,25361,Krempe,Grevenkoper Riep,28,,53.8363506,9.50134164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ5,25361,Krempe,Grevenkoper Riep,3,,53.8361882,9.4981817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ6,25361,Krempe,Grevenkoper Riep,30,,53.83635918,9.50168351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ7,25361,Krempe,Grevenkoper Riep,32,,53.8365271,9.50241985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQ9,25361,Krempe,Grevenkoper Riep,35,,53.83752854,9.50730212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQA,25361,Krempe,Hauptstraße,15,,53.84178459,9.53796907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQB,25361,Krempe,Hauptstraße,16,,53.84220135,9.53860667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQC,25361,Krempe,Hauptstraße,17,,53.84180579,9.54052638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQD,25361,Krempe,Hauptstraße,18,,53.84202915,9.54289412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQE,25361,Krempe,Hauptstraße,19,,53.84218113,9.54399292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQF,25361,Krempe,Hauptstraße,19,a,53.84229463,9.5457892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQG,25361,Krempe,Hauptstraße,2,,53.84247215,9.51230411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQH,25361,Krempe,Hauptstraße,2,a,53.8424697,9.51219768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQI,25361,Krempe,Hauptstraße,20,,53.84203707,9.54615309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQJ,25361,Krempe,Hauptstraße,21,,53.84214196,9.54667781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQK,25361,Krempe,Hauptstraße,22,,53.84195379,9.54881521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQL,25361,Krempe,Hauptstraße,23,,53.84205321,9.54926158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQM,25361,Krempe,Hauptstraße,24,,53.84192519,9.55124577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQN,25361,Krempe,Hauptstraße,25,,53.8419087,9.55512837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQO,25361,Krempe,Hauptstraße,26,,53.84190841,9.55747316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQP,25361,Krempe,Hauptstraße,27,,53.84199902,9.55967338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQQ,25361,Krempe,Hauptstraße,28,,53.84160347,9.5597845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQR,25361,Krempe,Hauptstraße,29,,53.84114911,9.56026228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQS,25361,Krempe,Hauptstraße,3,,53.84242418,9.51331827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQT,25361,Krempe,Hauptstraße,30,,53.84068081,9.55961349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQU,25361,Krempe,Hauptstraße,4,,53.84246922,9.51687218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQV,25361,Krempe,Hauptstraße,5,,53.84241653,9.51772286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQW,25361,Krempe,Hauptstraße,6,,53.84254244,9.52094504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQX,25361,Krempe,Hauptstraße,7,,53.84222183,9.52536429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQY,25361,Krempe,Hauptstraße,9,,53.84220139,9.52894566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQZ,25361,Krempe,Muchelndorf,1,,53.84441854,9.55950168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQa,25361,Krempe,Grevenkoper Riep,38,,53.83659318,9.50355862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQb,25361,Krempe,Grevenkoper Riep,38,a,53.83665922,9.50390669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQc,25361,Krempe,Grevenkoper Riep,4,,53.83586004,9.49830796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQd,25361,Krempe,Grevenkoper Riep,40,,53.83676097,9.50420228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQe,25361,Krempe,Grevenkoper Riep,42,,53.8367425,9.50446835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQf,25361,Krempe,Grevenkoper Riep,44,,53.83680485,9.50481354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQg,25361,Krempe,Grevenkoper Riep,46,,53.83689991,9.50521795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQh,25361,Krempe,Grevenkoper Riep,48,,53.8369378,9.50556378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQi,25361,Krempe,Grevenkoper Riep,5,,53.83620209,9.49845085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQj,25361,Krempe,Grevenkoper Riep,52,,53.83708919,9.50597482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQk,25361,Krempe,Grevenkoper Riep,54,,53.83709219,9.5063953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQl,25361,Krempe,Grevenkoper Riep,56,,53.83718897,9.50697533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQm,25361,Krempe,Grevenkoper Riep,58,,53.83715655,9.50817799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQn,25361,Krempe,Grevenkoper Riep,6,,53.83586601,9.49857536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQo,25361,Krempe,Grevenkoper Riep,60,,53.83808848,9.51126508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQp,25361,Krempe,Grevenkoper Riep,7,,53.83620993,9.49872762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQq,25361,Krempe,Grevenkoper Riep,7,a,53.83631751,9.49866819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQr,25361,Krempe,Grevenkoper Riep,8,,53.83587938,9.4988184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQs,25361,Krempe,Grevenkoper Riep,9,,53.83611285,9.49905501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQt,25361,Krempe,Hauptstraße,1,,53.84250533,9.5109313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQu,25361,Krempe,Hauptstraße,10,,53.84224735,9.530033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQv,25361,Krempe,Hauptstraße,11,,53.84218832,9.53086283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQw,25361,Krempe,Hauptstraße,12,,53.8422519,9.5326274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQx,25361,Krempe,Hauptstraße,12,a,53.84226981,9.53315766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQy,25361,Krempe,Hauptstraße,13,,53.84219269,9.53355099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZQz,25361,Krempe,Hauptstraße,14,,53.84209325,9.53481129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZR0,25361,Krempe,Muchelndorf,2,,53.84451059,9.55934681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZR1,25361,Krempe,Muchelndorf,3,,53.84473407,9.55985236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049ZR2,25361,Krempe,Schmerland,2,,53.84266918,9.50065567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MJOG,25361,Krempe,Grevenkoper Riep,33,,53.83682689,9.50250054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MJOM,25361,Krempe,Grevenkoper Riep,30,a,53.83640428,9.50208754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XVTf,25361,Krempe,Süderstraße,30,b,53.83480569,9.48722116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XW9u,25361,Krempe,Süderstraße,30,a,53.83473038,9.48725312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51B,25361,Krempe,Am Kirchhof,11,,53.83611944,9.49083632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51C,25361,Krempe,Am Kirchhof,16,,53.83633283,9.49105496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51D,25361,Krempe,Am Kirchhof,18,,53.83632963,9.49115515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51E,25361,Krempe,Am Kirchhof,24,,53.83632325,9.49144429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51F,25361,Krempe,Am Kirchhof,26,,53.83632653,9.49160456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51G,25361,Krempe,Am Kirchhof,28,,53.83624703,9.49189142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51H,25361,Krempe,Am Kirchhof,30,,53.83603195,9.4919967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51I,25361,Krempe,Am Kirchhof,32,,53.83585161,9.49226179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51J,25361,Krempe,Am Kirchhof,32,a,53.83570162,9.49229538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51K,25361,Krempe,Am Kirchhof,33,,53.83651518,9.49198639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51L,25361,Krempe,Am Kirchhof,34,,53.83571839,9.49190627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51M,25361,Krempe,Am Kirchhof,36,,53.83559719,9.4916003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51N,25361,Krempe,Am Freibad,1,,53.83291177,9.49396841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51O,25361,Krempe,Am Freibad,2,,53.83314125,9.49489643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51P,25361,Krempe,Am Markt,1,,53.83619164,9.48984995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51Q,25361,Krempe,Am Markt,10,,53.8357361,9.48974721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51R,25361,Krempe,Am Markt,11,,53.83583339,9.48967458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51S,25361,Krempe,Am Markt,12,,53.83605221,9.48953023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51T,25361,Krempe,Am Markt,2,,53.83619763,9.49009844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51U,25361,Krempe,Am Markt,3,,53.83611715,9.49015081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51V,25361,Krempe,Am Markt,4,,53.83606187,9.49018267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51W,25361,Krempe,Am Markt,5,,53.83599943,9.49022928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51X,25361,Krempe,Am Markt,6,,53.83589385,9.49043956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51Y,25361,Krempe,Am Markt,7,,53.83572887,9.490138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a51Z,25361,Krempe,Am Markt,8,,53.83569415,9.49000259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a520,25361,Krempe,Am Markt,9,,53.83567234,9.48991856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a521,25361,Krempe,Buntenhof,1,,53.84753593,9.48541639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a522,25361,Krempe,Am Mühlenberg,4,,53.83518593,9.49183502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a523,25361,Krempe,Am Mühlenberg,6,,53.83521969,9.4920706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a524,25361,Krempe,Am Mühlenberg,8,,53.83520386,9.49244386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a525,25361,Krempe,Am Rundhof,1,,53.83475675,9.49750648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a526,25361,Krempe,Am Rundhof,10,,53.8343259,9.49762309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a527,25361,Krempe,Am Rundhof,11,a,53.83522805,9.49684088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a528,25361,Krempe,Am Rundhof,11,b,53.83530529,9.49682702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a529,25361,Krempe,Am Rundhof,2,,53.83569744,9.49747546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52A,25361,Krempe,Birkenweg,16,,53.83806493,9.48999933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52B,25361,Krempe,Birkenweg,16,a,53.83806967,9.49058723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52C,25361,Krempe,Birkenweg,16,b,53.83806967,9.49058723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52D,25361,Krempe,Birkenweg,16,c,53.83808945,9.49088521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52E,25361,Krempe,Birkenweg,16,d,53.83810483,9.49120135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52F,25361,Krempe,Birkenweg,16,e,53.83811702,9.49155218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52G,25361,Krempe,Birkenweg,18,,53.83791956,9.491703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52H,25361,Krempe,Birkenweg,19,,53.83824495,9.48997099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52I,25361,Krempe,Birkenweg,2,,53.83795625,9.48792805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52J,25361,Krempe,Birkenweg,2,a,53.83796542,9.48815147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52K,25361,Krempe,Birkenweg,20,,53.83784648,9.49306307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52L,25361,Krempe,Birkenweg,21,,53.83825483,9.49024254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52M,25361,Krempe,Birkenweg,21,a,53.83825878,9.49033375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52N,25361,Krempe,Birkenweg,21,b,53.83832336,9.49055509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52O,25361,Krempe,Birkenweg,21,c,53.83832591,9.49062609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52P,25361,Krempe,Birkenweg,22,,53.83748614,9.49312523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52Q,25361,Krempe,Birkenweg,24,,53.8372694,9.4931151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52R,25361,Krempe,Birkenweg,25,,53.8383056,9.49111253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52S,25361,Krempe,Birkenweg,26,,53.83707165,9.49313862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52T,25361,Krempe,Birkenweg,27,,53.83831295,9.49145438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52U,25361,Krempe,Birkenweg,29,,53.83841444,9.49275074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52V,25361,Krempe,Birkenweg,4,,53.83797723,9.4883851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52W,25361,Krempe,Birkenweg,5,,53.83812671,9.48844972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52X,25361,Krempe,Birkenweg,6,,53.83799891,9.4887761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52Y,25361,Krempe,Birkenweg,7,,53.83813955,9.48869753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52Z,25361,Krempe,Birkenweg,8,,53.83800597,9.48889413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52a,25361,Krempe,Am Rundhof,2,a,53.83566745,9.49748179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52b,25361,Krempe,Am Rundhof,3,,53.83473634,9.497207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52c,25361,Krempe,Am Rundhof,4,,53.8353746,9.4974939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52d,25361,Krempe,Am Rundhof,5,,53.83479869,9.49686459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52e,25361,Krempe,Am Rundhof,6,,53.83503769,9.49755315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52f,25361,Krempe,Am Rundhof,7,,53.83497642,9.49686042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52g,25361,Krempe,Am Rundhof,9,,53.83518107,9.496517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52h,25361,Krempe,Am Burggraben,1,,53.83409203,9.49276549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52i,25361,Krempe,Am Burggraben,5,,53.83560106,9.49456115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52j,25361,Krempe,Bahnhofstraße,113,,53.8355116,9.48282487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52k,25361,Krempe,Bahnhofstraße,114,,53.83520234,9.48259328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52l,25361,Krempe,Bahnhofstraße,115,,53.83508111,9.48154604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52m,25361,Krempe,Bahnhofstraße,115,a,53.83502793,9.48140123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52n,25361,Krempe,Bahnhofstraße,117,,53.83498494,9.48127088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52o,25361,Krempe,Bahnhofstraße,118,,53.83406617,9.48144886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52p,25361,Krempe,Bahnhofstraße,119,,53.83431997,9.48101801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52q,25361,Krempe,Bahnhofstraße,121,,53.83417189,9.48100768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52r,25361,Krempe,Bahnhofstraße,123,,53.83406718,9.48097833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52s,25361,Krempe,Bahnhofstraße,125,,53.83389814,9.48095574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52t,25361,Krempe,Birkenweg,1,,53.83810127,9.48789411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52u,25361,Krempe,Birkenweg,10,,53.83802413,9.48922004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52v,25361,Krempe,Birkenweg,11,,53.83816407,9.48918936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52w,25361,Krempe,Birkenweg,12,,53.83804323,9.48958323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52x,25361,Krempe,Birkenweg,13,,53.83817725,9.48948045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52y,25361,Krempe,Birkenweg,14,,53.83805135,9.48973944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a52z,25361,Krempe,Birkenweg,15,,53.83818225,9.48970252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a530,25361,Krempe,Birkenweg,9,,53.83817099,9.48893942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a531,25361,Krempe,Bleicherweg,1,,53.8392557,9.49643311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a532,25361,Krempe,Bleicherweg,10,,53.83803226,9.49598917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a533,25361,Krempe,Bleicherweg,11,,53.83849025,9.49634289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a534,25361,Krempe,Bleicherweg,12,,53.83774091,9.49618017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a535,25361,Krempe,Bleicherweg,13,,53.83832323,9.49654896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a536,25361,Krempe,Bleicherweg,14,,53.83735112,9.49651339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a537,25361,Krempe,Bleicherweg,15,,53.83815278,9.49624645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a538,25361,Krempe,Bleicherweg,16,,53.83709253,9.49639374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a539,25361,Krempe,Bleicherweg,17,,53.83799682,9.49657666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53A,25361,Krempe,Breite Straße,106,,53.83554304,9.48387369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53B,25361,Krempe,Breite Straße,107,,53.83560676,9.48358716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53C,25361,Krempe,Breite Straße,108,,53.8355115,9.48370166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53D,25361,Krempe,Breite Straße,109,,53.83557751,9.48341442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53E,25361,Krempe,Breite Straße,11,,53.8368108,9.49133644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53F,25361,Krempe,Breite Straße,110,,53.83548329,9.48355258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53G,25361,Krempe,Breite Straße,111,,53.8355768,9.48310843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53H,25361,Krempe,Breite Straße,112,,53.83545447,9.48339112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53I,25361,Krempe,Breite Straße,12,,53.83668692,9.49189072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53J,25361,Krempe,Breite Straße,13,,53.83680866,9.49122767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53K,25361,Krempe,Breite Straße,14,,53.83669019,9.49178607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53L,25361,Krempe,Breite Straße,15,,53.83680376,9.49110297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53M,25361,Krempe,Breite Straße,16,,53.83668481,9.49168168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53N,25361,Krempe,Breite Straße,17,,53.8367971,9.49095365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53O,25361,Krempe,Breite Straße,18,,53.83668114,9.49155656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53P,25361,Krempe,Breite Straße,19,,53.83679123,9.49082183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53Q,25361,Krempe,Breite Straße,20,,53.83667266,9.49140615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53R,25361,Krempe,Breite Straße,21,,53.83678136,9.49068725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53S,25361,Krempe,Breite Straße,22,,53.83667422,9.49126313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53T,25361,Krempe,Breite Straße,23,,53.83677156,9.49055171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53U,25361,Krempe,Breite Straße,24,,53.83666347,9.49108571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53V,25361,Krempe,Breite Straße,25,,53.83675966,9.49041769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53W,25361,Krempe,Breite Straße,26,,53.8366521,9.4908259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53X,25361,Krempe,Breite Straße,27,,53.83673591,9.49019896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53Y,25361,Krempe,Breite Straße,28,,53.83664778,9.4906482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53Z,25361,Krempe,Breite Straße,29,,53.83672171,9.49001785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53a,25361,Krempe,Bleicherweg,18,,53.83687466,9.4962811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53b,25361,Krempe,Bleicherweg,19,,53.83780014,9.49635164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53c,25361,Krempe,Bleicherweg,2,,53.83907716,9.49561504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53d,25361,Krempe,Bleicherweg,2,a,53.83903281,9.49569502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53e,25361,Krempe,Bleicherweg,20,,53.8366512,9.49622428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53f,25361,Krempe,Bleicherweg,21,,53.83767631,9.49665168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53g,25361,Krempe,Bleicherweg,23,,53.83740156,9.49676508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53h,25361,Krempe,Bleicherweg,25,,53.83726607,9.49678935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53i,25361,Krempe,Bleicherweg,27,,53.83707097,9.49675326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53j,25361,Krempe,Bleicherweg,29,,53.83688969,9.49672118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53k,25361,Krempe,Bleicherweg,3,,53.83902722,9.49638301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53l,25361,Krempe,Bleicherweg,31,,53.83667831,9.49647347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53m,25361,Krempe,Bleicherweg,33,,53.83642954,9.49665123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53n,25361,Krempe,Bleicherweg,35,,53.83634056,9.49666095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53o,25361,Krempe,Bleicherweg,4,,53.83880224,9.4959235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53p,25361,Krempe,Bleicherweg,5,,53.8390525,9.49605977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53q,25361,Krempe,Bleicherweg,6,,53.83856315,9.49599495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53r,25361,Krempe,Bleicherweg,7,,53.8388228,9.49628257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53s,25361,Krempe,Bleicherweg,8,,53.83827174,9.49585057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53t,25361,Krempe,Bleicherweg,9,,53.83864546,9.49641314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53u,25361,Krempe,Breite Straße,100,,53.83567744,9.48459442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53v,25361,Krempe,Breite Straße,101,,53.83571529,9.4841997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53w,25361,Krempe,Breite Straße,102,,53.83564311,9.48441694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53x,25361,Krempe,Breite Straße,103,,53.83569366,9.48407208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53y,25361,Krempe,Breite Straße,104,,53.83560227,9.48418707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a53z,25361,Krempe,Breite Straße,105,,53.83563685,9.4837705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a540,25361,Krempe,Breite Straße,30,,53.83663522,9.49047217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a541,25361,Krempe,Breite Straße,31,,53.83670114,9.48989144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a542,25361,Krempe,Breite Straße,32,,53.8366225,9.4902988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a543,25361,Krempe,Breite Straße,33,,53.83669535,9.48975086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a544,25361,Krempe,Breite Straße,35,,53.83668163,9.48962029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a545,25361,Krempe,Breite Straße,36,,53.83656041,9.48969366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a546,25361,Krempe,Breite Straße,37,,53.83666944,9.48950813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a547,25361,Krempe,Breite Straße,38,,53.83652984,9.48938784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a548,25361,Krempe,Breite Straße,39,,53.83665978,9.48935888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a549,25361,Krempe,Breite Straße,40,,53.8365066,9.48915822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54A,25361,Krempe,Breite Straße,67,,53.8361564,9.48640916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54B,25361,Krempe,Breite Straße,68,,53.83612906,9.48689146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54C,25361,Krempe,Breite Straße,69,,53.8361564,9.48640916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54D,25361,Krempe,Breite Straße,7,,53.83681871,9.49171921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54E,25361,Krempe,Breite Straße,70,,53.8361006,9.48675935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54F,25361,Krempe,Breite Straße,71,,53.8361564,9.48640916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54G,25361,Krempe,Breite Straße,72,,53.83607039,9.4866192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54H,25361,Krempe,Breite Straße,74,,53.83603933,9.48646651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54I,25361,Krempe,Breite Straße,75,,53.83606596,9.48597812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54J,25361,Krempe,Breite Straße,76,,53.83601639,9.48634768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54K,25361,Krempe,Breite Straße,77,,53.83604062,9.48585041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54L,25361,Krempe,Breite Straße,78,,53.83599846,9.48625843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54M,25361,Krempe,Breite Straße,79,,53.83602208,9.4857639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54N,25361,Krempe,Breite Straße,80,,53.83597565,9.48614384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54O,25361,Krempe,Breite Straße,81,,53.83599783,9.48566616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54P,25361,Krempe,Breite Straße,82,,53.83575597,9.48606785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54Q,25361,Krempe,Breite Straße,83,,53.83596661,9.4855098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54R,25361,Krempe,Breite Straße,84,,53.83593853,9.48595978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54S,25361,Krempe,Breite Straße,85,,53.83594193,9.48536921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54T,25361,Krempe,Breite Straße,86,,53.83590172,9.48582344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54U,25361,Krempe,Breite Straße,87,,53.83591024,9.48522746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54V,25361,Krempe,Breite Straße,88,,53.83587604,9.48565422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54W,25361,Krempe,Breite Straße,89,,53.83588723,9.48508561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54X,25361,Krempe,Breite Straße,9,,53.83681129,9.49149775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54Y,25361,Krempe,Breite Straße,90,,53.83584145,9.48549044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54Z,25361,Krempe,Breite Straße,91,,53.83583684,9.48484178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54a,25361,Krempe,Breite Straße,41,,53.83663866,9.48912948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54b,25361,Krempe,Breite Straße,42,,53.8364876,9.48896835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54c,25361,Krempe,Breite Straße,43,,53.83661472,9.48894459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54d,25361,Krempe,Breite Straße,44,,53.83647657,9.48885796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54e,25361,Krempe,Breite Straße,45,,53.83660291,9.48881194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54f,25361,Krempe,Breite Straße,46,,53.83645854,9.48868823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54g,25361,Krempe,Breite Straße,47,,53.83658979,9.48860913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54h,25361,Krempe,Breite Straße,48,,53.83644464,9.48854093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54i,25361,Krempe,Breite Straße,49,,53.83657973,9.48844368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54j,25361,Krempe,Breite Straße,50,,53.83641807,9.48829619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54k,25361,Krempe,Breite Straße,51,,53.83656648,9.48827214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54l,25361,Krempe,Breite Straße,52,,53.83639093,9.48809452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54m,25361,Krempe,Breite Straße,53,,53.83654161,9.48808554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54n,25361,Krempe,Breite Straße,54,,53.83635937,9.48792248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54o,25361,Krempe,Breite Straße,55,,53.83652078,9.48788966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54p,25361,Krempe,Breite Straße,56,,53.83632044,9.48776587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54q,25361,Krempe,Breite Straße,57,,53.83650319,9.48774069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54r,25361,Krempe,Breite Straße,58,,53.83629431,9.48765466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54s,25361,Krempe,Breite Straße,59,,53.83635074,9.48731228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54t,25361,Krempe,Breite Straße,60,,53.83626335,9.48753283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54u,25361,Krempe,Breite Straße,61,,53.83630125,9.48707253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54v,25361,Krempe,Breite Straße,62,,53.83622355,9.48735287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54w,25361,Krempe,Breite Straße,63,,53.83626852,9.48692643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54x,25361,Krempe,Breite Straße,64,,53.83619028,9.48719412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54y,25361,Krempe,Breite Straße,65,,53.83624694,9.48667545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a54z,25361,Krempe,Breite Straße,66,,53.83615681,9.48702519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a550,25361,Krempe,Breite Straße,92,,53.83580829,9.48530296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a551,25361,Krempe,Breite Straße,93,,53.83581149,9.48470128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a552,25361,Krempe,Breite Straße,94,,53.83576634,9.48507347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a553,25361,Krempe,Breite Straße,95,,53.83578476,9.48457359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a554,25361,Krempe,Breite Straße,96,,53.83573855,9.48492401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a555,25361,Krempe,Breite Straße,97,,53.835763,9.48444547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a556,25361,Krempe,Breite Straße,98,,53.83570577,9.48476698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a557,25361,Krempe,Breite Straße,99,,53.83573823,9.48431802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a558,25361,Krempe,Breslauer Straße,1,,53.8390889,9.49234058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a559,25361,Krempe,Breslauer Straße,11,,53.8391711,9.49287175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55A,25361,Krempe,Bürgermeister-Ruhe-Weg,3,,53.83711937,9.49200716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55B,25361,Krempe,Bürgermeister-Ruhe-Weg,31,,53.83736914,9.48915431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55C,25361,Krempe,Bürgermeister-Ruhe-Weg,32,,53.83719664,9.48860814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55D,25361,Krempe,Bürgermeister-Ruhe-Weg,33,,53.83736425,9.48894738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55E,25361,Krempe,Bürgermeister-Ruhe-Weg,35,,53.83735501,9.48871068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55F,25361,Krempe,Bürgermeister-Ruhe-Weg,39,,53.83733101,9.4884016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55G,25361,Krempe,Bürgermeister-Ruhe-Weg,4,,53.83720325,9.49172415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55H,25361,Krempe,Bürgermeister-Ruhe-Weg,5,,53.8372397,9.49199429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55I,25361,Krempe,Bürgermeister-Ruhe-Weg,5,a,53.83747077,9.49226821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55J,25361,Krempe,Bürgermeister-Ruhe-Weg,5,c,53.83770775,9.49210448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55K,25361,Krempe,Bürgermeister-Ruhe-Weg,7,,53.83745547,9.49166828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55L,25361,Krempe,Bürgermeister-Ruhe-Weg,9,,53.83742026,9.49145487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55M,25361,Krempe,Danziger Straße,1,,53.84074416,9.49237974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55N,25361,Krempe,Danziger Straße,10,,53.84050557,9.49340849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55O,25361,Krempe,Danziger Straße,11,,53.84100082,9.49360766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55P,25361,Krempe,Danziger Straße,12,,53.84084166,9.4937334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55Q,25361,Krempe,Danziger Straße,13,,53.84061426,9.49376492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55R,25361,Krempe,Danziger Straße,14,,53.84040583,9.49372252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55S,25361,Krempe,Danziger Straße,2,,53.84048772,9.49237969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55T,25361,Krempe,Danziger Straße,3,,53.84077505,9.49264426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55U,25361,Krempe,Danziger Straße,4,,53.84048657,9.49264268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55V,25361,Krempe,Danziger Straße,4,a,53.84045104,9.49274254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55W,25361,Krempe,Danziger Straße,5,,53.84079234,9.49288569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55X,25361,Krempe,Danziger Straße,6,,53.84050907,9.4928784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55Y,25361,Krempe,Danziger Straße,7,,53.8408038,9.49314945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55Z,25361,Krempe,Danziger Straße,8,,53.84049414,9.4931456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55a,25361,Krempe,Breslauer Straße,13,,53.83918355,9.49297475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55b,25361,Krempe,Breslauer Straße,15,,53.83917784,9.49312722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55c,25361,Krempe,Breslauer Straße,17,,53.83918994,9.4932273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55d,25361,Krempe,Breslauer Straße,19,,53.83920098,9.49331826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55e,25361,Krempe,Breslauer Straße,2,,53.83887609,9.49237133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55f,25361,Krempe,Breslauer Straße,21,,53.8392501,9.49355788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55g,25361,Krempe,Breslauer Straße,23,,53.83932398,9.49383342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55h,25361,Krempe,Breslauer Straße,3,,53.83910143,9.49244896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55i,25361,Krempe,Breslauer Straße,4,,53.83889016,9.49268312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55j,25361,Krempe,Breslauer Straße,5,,53.83911234,9.49254216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55k,25361,Krempe,Breslauer Straße,6,,53.83886107,9.49298502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55l,25361,Krempe,Breslauer Straße,7,,53.83915034,9.49269936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55m,25361,Krempe,Breslauer Straße,8,,53.8391142,9.49393443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55n,25361,Krempe,Breslauer Straße,9,,53.83915958,9.49277594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55o,25361,Krempe,Bürgermeister-Ruhe-Weg,11,,53.83738486,9.49124856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55p,25361,Krempe,Bürgermeister-Ruhe-Weg,13,,53.83738282,9.49105329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55q,25361,Krempe,Bürgermeister-Ruhe-Weg,15,,53.83738316,9.49084653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55r,25361,Krempe,Bürgermeister-Ruhe-Weg,17,,53.83737856,9.49063712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55s,25361,Krempe,Bürgermeister-Ruhe-Weg,19,,53.83737729,9.49043563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55t,25361,Krempe,Bürgermeister-Ruhe-Weg,20,,53.83720328,9.49005201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55u,25361,Krempe,Bürgermeister-Ruhe-Weg,21,,53.83738312,9.49019787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55v,25361,Krempe,Bürgermeister-Ruhe-Weg,23,,53.83738236,9.48999924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55w,25361,Krempe,Bürgermeister-Ruhe-Weg,25,,53.83738064,9.4898015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55x,25361,Krempe,Bürgermeister-Ruhe-Weg,27,,53.83737716,9.48957916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55y,25361,Krempe,Bürgermeister-Ruhe-Weg,28,,53.83718731,9.48908507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a55z,25361,Krempe,Bürgermeister-Ruhe-Weg,29,,53.83737302,9.48936702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a560,25361,Krempe,Danziger Straße,9,,53.84088615,9.49338418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a561,25361,Krempe,Friedrich-Hebbel-Straße,2,,53.83977051,9.48648454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a562,25361,Krempe,Friedrich-Hebbel-Straße,3,,53.83954233,9.48647895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a563,25361,Krempe,Friedrich-Hebbel-Straße,4,,53.83937145,9.48648203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a564,25361,Krempe,Friedrich-Hebbel-Straße,5,,53.839152,9.48649154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a565,25361,Krempe,Friedrich-Hebbel-Straße,6,,53.83900651,9.48649023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a566,25361,Krempe,Friedrich-Hebbel-Straße,7,,53.83923226,9.48606706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a567,25361,Krempe,Friedrich-Hebbel-Straße,8,,53.83982389,9.48610834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a568,25361,Krempe,Grüner Weg,1,,53.8315251,9.49367115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a569,25361,Krempe,Grüner Weg,10,,53.83105385,9.49283498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56A,25361,Krempe,Helene-Tamm-Weg,7,,53.83661281,9.49569771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56B,25361,Krempe,Helene-Tamm-Weg,9,,53.83675768,9.49572921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56C,25361,Krempe,Hökerstraße,1,,53.83624365,9.49029732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56D,25361,Krempe,Hökerstraße,10,,53.83634244,9.4906761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56E,25361,Krempe,Hökerstraße,12,,53.83634066,9.49078398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56F,25361,Krempe,Hökerstraße,14,,53.83633403,9.49092422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56G,25361,Krempe,Hökerstraße,3,,53.83625435,9.49049023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56H,25361,Krempe,Hökerstraße,6,,53.83632604,9.49029063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56I,25361,Krempe,Hökerstraße,8,,53.83633402,9.4904595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56J,25361,Krempe,Hökerstraße,9,,53.83625556,9.49079149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56K,25361,Krempe,Huuskoppel,1,,53.83885877,9.49131821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56L,25361,Krempe,Huuskoppel,10,,53.83918388,9.48991494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56M,25361,Krempe,Huuskoppel,11,,53.83877012,9.48995575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56N,25361,Krempe,Huuskoppel,13,,53.83901594,9.48971708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56O,25361,Krempe,Huuskoppel,2,,53.83926403,9.49132546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56P,25361,Krempe,Huuskoppel,3,,53.83884452,9.49106735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56Q,25361,Krempe,Huuskoppel,4,,53.83915292,9.49097848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56R,25361,Krempe,Huuskoppel,5,,53.83885289,9.49075572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56S,25361,Krempe,Huuskoppel,6,,53.83915661,9.49069233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56T,25361,Krempe,Huuskoppel,8,,53.83920093,9.49033087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56U,25361,Krempe,Huuskoppel,9,,53.83883984,9.49022253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56V,25361,Krempe,Johann-Hinrich-Fehrs-Straße,1,,53.84023906,9.48563523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56W,25361,Krempe,Johann-Hinrich-Fehrs-Straße,2,,53.84019339,9.4863871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56X,25361,Krempe,Jordanusweg,1,,53.83892393,9.49527237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56Y,25361,Krempe,Jordanusweg,11,,53.83786027,9.49488671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56Z,25361,Krempe,Jordanusweg,13,,53.83765574,9.49501519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56a,25361,Krempe,Grüner Weg,12,,53.83099543,9.49262507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56b,25361,Krempe,Grüner Weg,14,,53.83093026,9.49237642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56c,25361,Krempe,Grüner Weg,2,,53.83133753,9.4938717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56d,25361,Krempe,Grüner Weg,3,,53.83146451,9.49344683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56e,25361,Krempe,Grüner Weg,4,,53.83127117,9.49362553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56f,25361,Krempe,Grüner Weg,5,,53.83139451,9.49317566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56g,25361,Krempe,Grüner Weg,6,,53.83119176,9.49337088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56h,25361,Krempe,Grüner Weg,7,,53.83131026,9.49294593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56i,25361,Krempe,Grüner Weg,8,,53.83115608,9.49310076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56j,25361,Krempe,Hallensteinweg,1,,53.84104869,9.49554347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56k,25361,Krempe,Hallensteinweg,10,,53.84142187,9.49461558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56l,25361,Krempe,Hallensteinweg,12,,53.84147794,9.49433997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56m,25361,Krempe,Hallensteinweg,14,,53.84157484,9.49410402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56n,25361,Krempe,Hallensteinweg,2,,53.84142658,9.49574186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56o,25361,Krempe,Hallensteinweg,3,,53.84118451,9.49450822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56p,25361,Krempe,Hallensteinweg,5,,53.84126365,9.49425408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56q,25361,Krempe,Hallensteinweg,5,a,53.84129157,9.49415538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56r,25361,Krempe,Hallensteinweg,6,,53.84128311,9.49526362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56s,25361,Krempe,Helene-Tamm-Weg,1,,53.83741715,9.49546113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56t,25361,Krempe,Helene-Tamm-Weg,11,,53.83711913,9.49592779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56u,25361,Krempe,Helene-Tamm-Weg,13,,53.83741338,9.49580979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56v,25361,Krempe,Helene-Tamm-Weg,15,,53.83742095,9.49611088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56w,25361,Krempe,Helene-Tamm-Weg,2,,53.83765458,9.49553282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56x,25361,Krempe,Helene-Tamm-Weg,3,,53.83708422,9.495529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56y,25361,Krempe,Helene-Tamm-Weg,4,,53.83767686,9.49585174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a56z,25361,Krempe,Helene-Tamm-Weg,5,,53.83662098,9.49554167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a570,25361,Krempe,Jordanusweg,15,a,53.83742167,9.4949851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a571,25361,Krempe,Jordanusweg,15,b,53.83742767,9.49511383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a572,25361,Krempe,Jordanusweg,17,,53.83714833,9.49495419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a573,25361,Krempe,Jordanusweg,19,,53.8369418,9.49504172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a574,25361,Krempe,Jordanusweg,2,,53.83913422,9.49515011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a575,25361,Krempe,Jordanusweg,3,,53.83878587,9.49509038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a576,25361,Krempe,Jordanusweg,4,,53.83898416,9.49487349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a577,25361,Krempe,Jordanusweg,4,a,53.83901713,9.49477444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a578,25361,Krempe,Jordanusweg,5,,53.83861835,9.49500244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a579,25361,Krempe,Jordanusweg,5,a,53.83859069,9.4951065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57A,25361,Krempe,Königsweg,29,,53.83692704,9.4833361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57B,25361,Krempe,Königsweg,3,,53.83819746,9.4857648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57C,25361,Krempe,Königsweg,3,a,53.83772791,9.48550048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57D,25361,Krempe,Königsweg,3,b,53.83775918,9.48574045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57E,25361,Krempe,Königsweg,3,c,53.83790591,9.48573502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57F,25361,Krempe,Königsweg,31,,53.83741759,9.48434211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57G,25361,Krempe,Königsweg,33,,53.8372478,9.48359152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57H,25361,Krempe,Königsweg,35,,53.83753826,9.48412127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57I,25361,Krempe,Königsweg,37,,53.83743824,9.48376725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57J,25361,Krempe,Königsweg,39,,53.83755418,9.48374471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57K,25361,Krempe,Königsweg,4,,53.83861485,9.48620369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57L,25361,Krempe,Königsweg,41,,53.83768234,9.48371339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57M,25361,Krempe,Königsweg,43,,53.83787562,9.4845924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57N,25361,Krempe,Königsweg,5,,53.83799558,9.48491816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57O,25361,Krempe,Königsweg,6,,53.83851145,9.48579693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57P,25361,Krempe,Königsweg,7,,53.83785549,9.48501354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57Q,25361,Krempe,Königsweg,8,,53.83841766,9.48551915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57R,25361,Krempe,Königsweg,9,,53.83767251,9.48462534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57S,25361,Krempe,Krempermarschwall,1,,53.83759786,9.48663921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57T,25361,Krempe,Krempermarschwall,2,,53.83752168,9.48648475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57U,25361,Krempe,Krempermarschwall,3,,53.83750977,9.48625072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57V,25361,Krempe,Krempermarschwall,4,,53.83734307,9.48603762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57W,25361,Krempe,Kurze Wallfahrt,15,,53.83561158,9.49125069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57X,25361,Krempe,Kurze Wallfahrt,17,,53.83557321,9.4911296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57Y,25361,Krempe,Kurze Wallfahrt,19,,53.83552994,9.49100455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57Z,25361,Krempe,Kurze Wallfahrt,38,,53.83555425,9.49142221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57a,25361,Krempe,Jordanusweg,6,,53.83880348,9.49476221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57b,25361,Krempe,Jordanusweg,7,,53.83842106,9.49497177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57c,25361,Krempe,Jordanusweg,8,,53.83863936,9.49463837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57d,25361,Krempe,Jordanusweg,9,,53.83808103,9.4949301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57e,25361,Krempe,Kanalstraße,1,,53.83397326,9.48364702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57f,25361,Krempe,Kanalstraße,3,,53.83394778,9.48348315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57g,25361,Krempe,Kanalstraße,5,,53.83390457,9.48328358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57h,25361,Krempe,Königsweg,1,,53.83841103,9.48635741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57i,25361,Krempe,Königsweg,1,a,53.83828042,9.48598325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57j,25361,Krempe,Königsweg,10,,53.83834463,9.48523935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57l,25361,Krempe,Königsweg,12,,53.83822937,9.48486719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57m,25361,Krempe,Königsweg,13,,53.83754263,9.48482419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57n,25361,Krempe,Königsweg,14,,53.83812914,9.48451252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57o,25361,Krempe,Königsweg,15,,53.83758871,9.48517574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57p,25361,Krempe,Königsweg,16,,53.83725324,9.48550316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57q,25361,Krempe,Königsweg,17,,53.83738391,9.48498534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57r,25361,Krempe,Königsweg,19,,53.83728416,9.48461419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57s,25361,Krempe,Königsweg,2,a,53.83873288,9.48678404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57t,25361,Krempe,Königsweg,2,b,53.83874011,9.48661022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57u,25361,Krempe,Königsweg,21,,53.83721743,9.48441642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57v,25361,Krempe,Königsweg,23,,53.83712747,9.48410378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57w,25361,Krempe,Königsweg,25,,53.83712577,9.48379788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57x,25361,Krempe,Königsweg,25,a,53.83685082,9.48396488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57y,25361,Krempe,Königsweg,27,,53.83698252,9.48356038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a57z,25361,Krempe,Königsweg,27,a,53.83676657,9.48344416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a580,25361,Krempe,Kurze Wallfahrt,40,,53.83550597,9.49124154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a581,25361,Krempe,Kurze Wallfahrt,42,,53.83547338,9.49112248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a582,25361,Krempe,Klaus-Groth-Straße,1,,53.83894107,9.48610282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a583,25361,Krempe,Klaus-Groth-Straße,10,,53.83880454,9.4847054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a584,25361,Krempe,Klaus-Groth-Straße,11,,53.83848623,9.48443065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a585,25361,Krempe,Klaus-Groth-Straße,2,,53.83918603,9.48606238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a586,25361,Krempe,Klaus-Groth-Straße,3,,53.8388388,9.48570642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a587,25361,Krempe,Klaus-Groth-Straße,4,,53.83908818,9.48577256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a588,25361,Krempe,Klaus-Groth-Straße,5,,53.83873607,9.48528324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a589,25361,Krempe,Klaus-Groth-Straße,6,,53.83898685,9.4854207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58A,25361,Krempe,Lorenzweg,8,,53.84052366,9.49624041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58B,25361,Krempe,Lorenzweg,9,,53.8408329,9.49649368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58C,25361,Krempe,Möhlenkamp,1,,53.83961273,9.49171071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58D,25361,Krempe,Möhlenkamp,10,,53.84023576,9.48971816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58E,25361,Krempe,Möhlenkamp,11,,53.8399026,9.48974426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58F,25361,Krempe,Möhlenkamp,12,,53.84020485,9.489344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58G,25361,Krempe,Möhlenkamp,13,,53.83988783,9.48944625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58H,25361,Krempe,Möhlenkamp,14,,53.84016402,9.48908091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58I,25361,Krempe,Möhlenkamp,15,,53.83987871,9.48908158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58J,25361,Krempe,Möhlenkamp,16,,53.84043168,9.48896547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58K,25361,Krempe,Möhlenkamp,17,,53.84007817,9.48854049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58L,25361,Krempe,Möhlenkamp,18,,53.84061143,9.48912556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58M,25361,Krempe,Möhlenkamp,19,,53.84027229,9.4885268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58N,25361,Krempe,Möhlenkamp,2,,53.83994071,9.49138202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58O,25361,Krempe,Möhlenkamp,20,,53.84088062,9.4888383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58P,25361,Krempe,Möhlenkamp,21,,53.84042451,9.48841876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58Q,25361,Krempe,Möhlenkamp,22,,53.84099264,9.48843324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58R,25361,Krempe,Möhlenkamp,23,,53.84066445,9.4885241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58S,25361,Krempe,Möhlenkamp,25,,53.84082288,9.48820767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58T,25361,Krempe,Möhlenkamp,26,,53.84115108,9.48780963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58U,25361,Krempe,Möhlenkamp,3,,53.8395924,9.49124563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58V,25361,Krempe,Möhlenkamp,5,,53.83961138,9.4909405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58W,25361,Krempe,Möhlenkamp,6,,53.8402604,9.49029877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58X,25361,Krempe,Möhlenkamp,7,,53.8397996,9.4905129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58Y,25361,Krempe,Möhlenkamp,8,,53.84024563,9.48995814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58Z,25361,Krempe,Möhlenkamp,9,,53.83990538,9.4901194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58a,25361,Krempe,Klaus-Groth-Straße,7,,53.83866648,9.48501112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58b,25361,Krempe,Klaus-Groth-Straße,8,,53.83891122,9.48508234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58c,25361,Krempe,Klaus-Groth-Straße,9,,53.83858429,9.48473547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58d,25361,Krempe,Lorenzweg,1,,53.84148022,9.49613783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58e,25361,Krempe,Lorenzweg,1,a,53.84144403,9.49615161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58f,25361,Krempe,Lorenzweg,10,,53.84033564,9.49631611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58g,25361,Krempe,Lorenzweg,11,,53.84068082,9.49655504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58h,25361,Krempe,Lorenzweg,12,,53.84016024,9.4963366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58i,25361,Krempe,Lorenzweg,13,,53.84050962,9.49661443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58j,25361,Krempe,Lorenzweg,14,,53.83994783,9.49629733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58k,25361,Krempe,Lorenzweg,15,,53.84034389,9.49663376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58l,25361,Krempe,Lorenzweg,16,,53.83980442,9.49615999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58m,25361,Krempe,Lorenzweg,17,,53.84015547,9.49667175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58n,25361,Krempe,Lorenzweg,18,,53.83965715,9.49600173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58o,25361,Krempe,Lorenzweg,19,,53.83995988,9.49666057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58p,25361,Krempe,Lorenzweg,2,,53.84109038,9.49598892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58q,25361,Krempe,Lorenzweg,20,,53.83943807,9.49579948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58r,25361,Krempe,Lorenzweg,21,,53.83977711,9.49653867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58s,25361,Krempe,Lorenzweg,23,,53.83961579,9.49657475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58t,25361,Krempe,Lorenzweg,25,,53.83946006,9.49633545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58u,25361,Krempe,Lorenzweg,27,,53.83932183,9.49610888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58v,25361,Krempe,Lorenzweg,3,,53.8412362,9.49607502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58w,25361,Krempe,Lorenzweg,4,,53.84084185,9.49613692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58x,25361,Krempe,Lorenzweg,5,,53.84113448,9.496304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58y,25361,Krempe,Lorenzweg,6,,53.84065936,9.49626793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a58z,25361,Krempe,Lorenzweg,7,,53.84098465,9.4963893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a590,25361,Krempe,Neue Straße,1,,53.83489073,9.48094965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a591,25361,Krempe,Neue Straße,11,,53.8347144,9.47998272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a592,25361,Krempe,Neue Straße,13,,53.83467912,9.47978364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a593,25361,Krempe,Neue Straße,15,,53.83466218,9.47964592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a594,25361,Krempe,Neue Straße,2,,53.83475378,9.48102257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a595,25361,Krempe,Neue Straße,3,,53.83481888,9.48072623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a596,25361,Krempe,Neue Straße,4,,53.83471246,9.48076227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a597,25361,Krempe,Neue Straße,5,,53.83478738,9.48051624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a598,25361,Krempe,Neue Straße,7,,53.83475917,9.48032919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a599,25361,Krempe,Neue Straße,8,,53.83442837,9.47947092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59A,25361,Krempe,Neuenbrooker Straße,28,,53.8389962,9.48748899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59B,25361,Krempe,Neuenbrooker Straße,29,,53.83973418,9.48697553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59C,25361,Krempe,Neuenbrooker Straße,3,,53.83653515,9.48747117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59D,25361,Krempe,Neuenbrooker Straße,30,,53.83912291,9.48748346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59E,25361,Krempe,Neuenbrooker Straße,30,a,53.83927154,9.48746684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59F,25361,Krempe,Neuenbrooker Straße,30,b,53.83939423,9.4874498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59G,25361,Krempe,Neuenbrooker Straße,32,,53.83959574,9.48741872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59H,25361,Krempe,Neuenbrooker Straße,34,,53.83979044,9.48740006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59I,25361,Krempe,Neuenbrooker Straße,34,a,53.83996477,9.48738325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59J,25361,Krempe,Neuenbrooker Straße,34,b,53.84011704,9.4873578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59K,25361,Krempe,Neuenbrooker Straße,34,c,53.84024532,9.48733279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59L,25361,Krempe,Neuenbrooker Straße,34,d,53.84039195,9.4873237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59M,25361,Krempe,Neuenbrooker Straße,34,e,53.84054179,9.48730371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59N,25361,Krempe,Neuenbrooker Straße,35,,53.84256814,9.48678036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59O,25361,Krempe,Neuenbrooker Straße,36,,53.84070072,9.48728441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59P,25361,Krempe,Neuenbrooker Straße,36,a,53.84088671,9.48742691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59Q,25361,Krempe,Neuenbrooker Straße,36,b,53.84137674,9.48722425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59R,25361,Krempe,Neuenbrooker Straße,36,c,53.84120548,9.4873645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59S,25361,Krempe,Neuenbrooker Straße,37,,53.84183458,9.48804662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59T,25361,Krempe,Neuenbrooker Straße,38,,53.84250624,9.48698505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59U,25361,Krempe,Neuenbrooker Straße,4,,53.8367827,9.4876387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59V,25361,Krempe,Neuenbrooker Straße,40,,53.84297138,9.48698331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59W,25361,Krempe,Neuenbrooker Straße,5,,53.83665827,9.4874495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59X,25361,Krempe,Neuenbrooker Straße,53,,53.84508602,9.48641528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59Y,25361,Krempe,Neuenbrooker Straße,6,,53.83687054,9.48763186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59Z,25361,Krempe,Neuenbrooker Straße,7,,53.83686706,9.48745193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59a,25361,Krempe,Neue Straße,9,,53.83473834,9.48017107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59b,25361,Krempe,Neuenbrooker Straße,1,,53.83642899,9.48749419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59c,25361,Krempe,Neuenbrooker Straße,10,,53.83701966,9.48762996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59d,25361,Krempe,Neuenbrooker Straße,11,,53.83702162,9.48744146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59e,25361,Krempe,Neuenbrooker Straße,12,,53.83711902,9.48761706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59f,25361,Krempe,Neuenbrooker Straße,12,a,53.8373759,9.48760998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59g,25361,Krempe,Neuenbrooker Straße,13,,53.83712346,9.4874351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59h,25361,Krempe,Neuenbrooker Straße,14,,53.83751126,9.48759476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59i,25361,Krempe,Neuenbrooker Straße,15,,53.8373846,9.48739976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59j,25361,Krempe,Neuenbrooker Straße,16,,53.83763815,9.48757828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59k,25361,Krempe,Neuenbrooker Straße,16,a,53.83776829,9.48756309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59l,25361,Krempe,Neuenbrooker Straße,17,,53.83760769,9.48737685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59m,25361,Krempe,Neuenbrooker Straße,18,,53.83791593,9.48754579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59n,25361,Krempe,Neuenbrooker Straße,2,,53.83667714,9.48765211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59o,25361,Krempe,Neuenbrooker Straße,20,,53.83810865,9.4875257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59p,25361,Krempe,Neuenbrooker Straße,21,,53.83777903,9.48724332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59q,25361,Krempe,Neuenbrooker Straße,21,a,53.83811427,9.4872494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59r,25361,Krempe,Neuenbrooker Straße,21,b,53.83818748,9.48724332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59s,25361,Krempe,Neuenbrooker Straße,22,,53.83831016,9.48749777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59t,25361,Krempe,Neuenbrooker Straße,22,a,53.83844123,9.48752647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59u,25361,Krempe,Neuenbrooker Straße,23,,53.83852216,9.48717757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59v,25361,Krempe,Neuenbrooker Straße,23,a,53.83909881,9.48713341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59w,25361,Krempe,Neuenbrooker Straße,24,,53.83864074,9.48749781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59x,25361,Krempe,Neuenbrooker Straße,25,,53.83928905,9.48704579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59y,25361,Krempe,Neuenbrooker Straße,26,,53.83883204,9.48751804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a59z,25361,Krempe,Neuenbrooker Straße,27,,53.83953021,9.48704117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a0,25361,Krempe,Neuenbrooker Straße,9,,53.83693899,9.4874475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a1,25361,Krempe,Nielsenweg,1,,53.84096357,9.49526529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a2,25361,Krempe,Nielsenweg,10,,53.84032066,9.49479642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a3,25361,Krempe,Nielsenweg,11,,53.84003061,9.49515701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a4,25361,Krempe,Nielsenweg,12,,53.84015121,9.49481802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a5,25361,Krempe,Nielsenweg,13,,53.83985138,9.49526522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a6,25361,Krempe,Nielsenweg,14,,53.83998522,9.49489253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a7,25361,Krempe,Nielsenweg,15,,53.83970027,9.49538073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a8,25361,Krempe,Nielsenweg,16,,53.83983533,9.49488418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5a9,25361,Krempe,Nielsenweg,18,,53.83962774,9.49472817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aA,25361,Krempe,Norderwall,29,,53.83624898,9.483525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aB,25361,Krempe,Norderwall,3,,53.83715014,9.48667945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aC,25361,Krempe,Norderwall,31,,53.83620909,9.4833106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aD,25361,Krempe,Norderwall,33,,53.83615306,9.48312374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aE,25361,Krempe,Norderwall,4,,53.83690121,9.48660003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aF,25361,Krempe,Norderwall,5,,53.83704015,9.48633195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aG,25361,Krempe,Norderwall,6,,53.83681831,9.4862251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aH,25361,Krempe,Norderwall,6,a,53.83682484,9.48634825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aI,25361,Krempe,Norderwall,7,,53.83692635,9.48599427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aJ,25361,Krempe,Norderwall,8,,53.83673284,9.48583452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aK,25361,Krempe,Norderwall,9,,53.8368967,9.48588872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aL,25361,Krempe,Op de Wisch,1,,53.84026096,9.4906565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aM,25361,Krempe,Op de Wisch,10,,53.84102467,9.49134097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aN,25361,Krempe,Op de Wisch,12,,53.84099206,9.49080419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aO,25361,Krempe,Op de Wisch,2,,53.84026404,9.49119659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aP,25361,Krempe,Op de Wisch,2,a,53.84004429,9.49095183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aQ,25361,Krempe,Op de Wisch,3,,53.84044076,9.49077099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aR,25361,Krempe,Op de Wisch,4,,53.84044278,9.49128651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aS,25361,Krempe,Op de Wisch,5,,53.84061853,9.49077938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aT,25361,Krempe,Op de Wisch,6,,53.84064845,9.49130291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aU,25361,Krempe,Op de Wisch,8,,53.84083378,9.49121835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aV,25361,Krempe,Ostlandweg,1,,53.83116504,9.49219113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aW,25361,Krempe,Ostlandweg,10,,53.8319748,9.4926762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aX,25361,Krempe,Ostlandweg,11,,53.83169726,9.49165314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aY,25361,Krempe,Ostlandweg,12,,53.83199643,9.49275471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aZ,25361,Krempe,Ostlandweg,13,,53.83184658,9.49151878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aa,25361,Krempe,Nielsenweg,2,,53.84100986,9.4949016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ab,25361,Krempe,Nielsenweg,20,,53.83964595,9.49509924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ac,25361,Krempe,Nielsenweg,22,,53.83935384,9.49490184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ad,25361,Krempe,Nielsenweg,24,,53.83941004,9.49529398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ae,25361,Krempe,Nielsenweg,3,,53.84074551,9.49510762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5af,25361,Krempe,Nielsenweg,4,,53.84084882,9.49480842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ag,25361,Krempe,Nielsenweg,5,,53.84056781,9.49512843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ah,25361,Krempe,Nielsenweg,6,,53.84067767,9.49479762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ai,25361,Krempe,Nielsenweg,7,,53.84039973,9.49505018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aj,25361,Krempe,Nielsenweg,8,,53.84049773,9.49475364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ak,25361,Krempe,Nielsenweg,9,,53.84021389,9.49512759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5al,25361,Krempe,Norderwall,1,,53.83722826,9.48684142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5am,25361,Krempe,Norderwall,10,,53.83673284,9.48583452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5an,25361,Krempe,Norderwall,11,,53.83677854,9.48546521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ao,25361,Krempe,Norderwall,12,,53.83673284,9.48583452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ap,25361,Krempe,Norderwall,13,,53.83674977,9.48536425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aq,25361,Krempe,Norderwall,15,,53.83662266,9.48493836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ar,25361,Krempe,Norderwall,17,,53.83658318,9.48481293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5as,25361,Krempe,Norderwall,19,,53.83649621,9.48450975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5at,25361,Krempe,Norderwall,2,,53.83699468,9.48692591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5au,25361,Krempe,Norderwall,21,,53.83644041,9.48429415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5av,25361,Krempe,Norderwall,23,,53.83639914,9.48411488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5aw,25361,Krempe,Norderwall,25,,53.83634587,9.48392004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ax,25361,Krempe,Norderwall,26,,53.83618919,9.48404956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ay,25361,Krempe,Norderwall,27,,53.83630292,9.48371818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5az,25361,Krempe,Norderwall,28,,53.83611888,9.48372397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b0,25361,Krempe,Ostlandweg,14,,53.83212909,9.49298415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b1,25361,Krempe,Ostlandweg,15,,53.83192944,9.49143923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b2,25361,Krempe,Ostlandweg,16,,53.83218507,9.49294012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b3,25361,Krempe,Ostlandweg,17,,53.83209972,9.49128221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b4,25361,Krempe,Ostlandweg,18,,53.83216626,9.49260565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b5,25361,Krempe,Ostlandweg,19,,53.83216311,9.49121699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b6,25361,Krempe,Ostlandweg,2,,53.83124937,9.49258467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b7,25361,Krempe,Ostlandweg,20,,53.83213622,9.49249845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b8,25361,Krempe,Ostlandweg,21,,53.83229681,9.49107523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5b9,25361,Krempe,Ostlandweg,22,,53.83203659,9.49217731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bA,25361,Krempe,Ostlandweg,6,,53.83185086,9.49214935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bB,25361,Krempe,Ostlandweg,7,,53.83147697,9.49188448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bC,25361,Krempe,Ostlandweg,8,,53.83189398,9.49229393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bD,25361,Krempe,Ostlandweg,9,,53.83161932,9.49172709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bE,25361,Krempe,Peerkoppel,1,,53.84098187,9.48913714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bF,25361,Krempe,Peerkoppel,2,,53.84068756,9.48944627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bG,25361,Krempe,Peerkoppel,3,,53.84094083,9.48944663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bH,25361,Krempe,Peerkoppel,4,,53.84064452,9.48968147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bI,25361,Krempe,Peerkoppel,5,,53.8409757,9.48975092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bJ,25361,Krempe,Peerkoppel,6,,53.84064952,9.48991766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bK,25361,Krempe,Peerkoppel,7,,53.84082341,9.49006817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bL,25361,Krempe,Peerkoppel,8,,53.84063869,9.49025874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bM,25361,Krempe,Peerkoppel,9,,53.84090029,9.49038343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bN,25361,Krempe,Philosophenweg,1,,53.83427375,9.49126398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bO,25361,Krempe,Philosophenweg,10,,53.83384519,9.49084757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bP,25361,Krempe,Philosophenweg,11,,53.83381253,9.49075001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bQ,25361,Krempe,Philosophenweg,12,,53.83396202,9.49067938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bR,25361,Krempe,Philosophenweg,13,,53.8340298,9.49061382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bS,25361,Krempe,Philosophenweg,14,,53.83410477,9.49058216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bT,25361,Krempe,Philosophenweg,15,,53.83415705,9.49052898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bU,25361,Krempe,Philosophenweg,16,,53.83420847,9.4904337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bV,25361,Krempe,Philosophenweg,17,,53.83427486,9.49036587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bW,25361,Krempe,Philosophenweg,18,,53.83425404,9.49067227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bX,25361,Krempe,Philosophenweg,19,,53.83428546,9.49076881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bY,25361,Krempe,Philosophenweg,2,,53.83419406,9.49124369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bZ,25361,Krempe,Philosophenweg,20,,53.83431444,9.49085023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ba,25361,Krempe,Ostlandweg,23,,53.83240286,9.49096346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bb,25361,Krempe,Ostlandweg,24,,53.83198955,9.4919989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bc,25361,Krempe,Ostlandweg,25,,53.83252539,9.49084284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bd,25361,Krempe,Ostlandweg,26,,53.83246043,9.49132763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5be,25361,Krempe,Ostlandweg,27,,53.83263573,9.49072931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bf,25361,Krempe,Ostlandweg,28,,53.83258216,9.49167273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bg,25361,Krempe,Ostlandweg,29,,53.83275435,9.49062322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bh,25361,Krempe,Ostlandweg,3,,53.83124705,9.49211133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bi,25361,Krempe,Ostlandweg,30,,53.83263898,9.49190609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bj,25361,Krempe,Ostlandweg,31,,53.83287078,9.49051246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bk,25361,Krempe,Ostlandweg,32,,53.8326431,9.49221829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bl,25361,Krempe,Ostlandweg,33,,53.83299172,9.49039751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bm,25361,Krempe,Ostlandweg,34,,53.83273371,9.49244851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bn,25361,Krempe,Ostlandweg,35,,53.83311108,9.49027845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bo,25361,Krempe,Ostlandweg,36,,53.83285757,9.49228936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bp,25361,Krempe,Ostlandweg,37,,53.8331763,9.49005706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bq,25361,Krempe,Ostlandweg,38,,53.83286269,9.49199639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5br,25361,Krempe,Ostlandweg,4,,53.83142138,9.49241982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bs,25361,Krempe,Ostlandweg,4,a,53.83158239,9.49218905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bt,25361,Krempe,Ostlandweg,40,,53.83281045,9.49175278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bu,25361,Krempe,Ostlandweg,42,,53.83275607,9.4915159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bv,25361,Krempe,Ostlandweg,44,,53.83265537,9.49113468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bw,25361,Krempe,Ostlandweg,46,,53.83294246,9.49078945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bx,25361,Krempe,Ostlandweg,48,,53.83311878,9.4906192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5by,25361,Krempe,Ostlandweg,5,,53.83141625,9.49194607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5bz,25361,Krempe,Ostlandweg,5,a,53.83136966,9.49199112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c0,25361,Krempe,Philosophenweg,3,,53.83411295,9.49122729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c1,25361,Krempe,Philosophenweg,4,,53.83356842,9.49126562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c2,25361,Krempe,Philosophenweg,5,,53.83353549,9.49117327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c3,25361,Krempe,Philosophenweg,6,,53.83349561,9.49106167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c4,25361,Krempe,Philosophenweg,7,,53.83362186,9.4910247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c5,25361,Krempe,Philosophenweg,8,,53.83368868,9.49096054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c6,25361,Krempe,Philosophenweg,9,,53.83387704,9.49094411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c7,25361,Krempe,Rathausstraße,1,,53.83621415,9.48950202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c8,25361,Krempe,Rathausstraße,10,,53.83574412,9.48873295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5c9,25361,Krempe,Rathausstraße,11,,53.83607581,9.48842032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cA,25361,Krempe,Rathausstraße,38,,53.8353836,9.48567714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cB,25361,Krempe,Rathausstraße,4,,53.83607633,9.4891073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cC,25361,Krempe,Rathausstraße,42,,53.83533195,9.48538764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cD,25361,Krempe,Rathausstraße,44,,53.8353061,9.48525009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cE,25361,Krempe,Rathausstraße,44,a,53.83521879,9.48496758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cF,25361,Krempe,Rathausstraße,46,,53.83517586,9.48468906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cG,25361,Krempe,Rathausstraße,48,,53.83508554,9.48440265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cH,25361,Krempe,Rathausstraße,5,,53.83616863,9.48911567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cI,25361,Krempe,Rathausstraße,50,,53.83500572,9.48420089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cJ,25361,Krempe,Rathausstraße,54,,53.83488727,9.48369223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cK,25361,Krempe,Rathausstraße,6,,53.83604074,9.48895939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cL,25361,Krempe,Rathausstraße,7,,53.83614049,9.48891223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cM,25361,Krempe,Rathausstraße,8,,53.83600817,9.48879192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cN,25361,Krempe,Rathausstraße,9,,53.83611389,9.48870923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cO,25361,Krempe,Reetmoor,1,,53.83958662,9.48916629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cP,25361,Krempe,Reetmoor,10,,53.83945606,9.48862905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cQ,25361,Krempe,Reetmoor,12,,53.83945606,9.48862905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cR,25361,Krempe,Reetmoor,13,,53.83904649,9.4890498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cS,25361,Krempe,Reetmoor,14,,53.83918629,9.48847483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cT,25361,Krempe,Reetmoor,15,,53.83905101,9.48916566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cU,25361,Krempe,Reetmoor,16,,53.83898698,9.48849102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cV,25361,Krempe,Reetmoor,17,,53.83905595,9.4892827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cW,25361,Krempe,Reetmoor,18,,53.83896914,9.4887588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cX,25361,Krempe,Reetmoor,2,,53.83991812,9.48857248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cY,25361,Krempe,Reetmoor,3,,53.83941976,9.48916781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cZ,25361,Krempe,Reetmoor,4,,53.83973562,9.48859442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ca,25361,Krempe,Rathausstraße,12,,53.83599611,9.48855695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cb,25361,Krempe,Rathausstraße,13,,53.83604017,9.4881973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cc,25361,Krempe,Rathausstraße,14,,53.83597228,9.4883669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cd,25361,Krempe,Rathausstraße,15,,53.83601496,9.48804514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ce,25361,Krempe,Rathausstraße,16,,53.83592984,9.48811355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cf,25361,Krempe,Rathausstraße,17,,53.83598498,9.48790939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cg,25361,Krempe,Rathausstraße,18,,53.83588819,9.48792322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ch,25361,Krempe,Rathausstraße,19,,53.83588273,9.48741109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ci,25361,Krempe,Rathausstraße,2,,53.83610064,9.48927559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cj,25361,Krempe,Rathausstraße,20,,53.83584328,9.48768634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ck,25361,Krempe,Rathausstraße,21,,53.83555587,9.48603498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cl,25361,Krempe,Rathausstraße,22,,53.83578965,9.48746978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cm,25361,Krempe,Rathausstraße,23,,53.83549512,9.48571879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cn,25361,Krempe,Rathausstraße,24,,53.83577013,9.4872958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5co,25361,Krempe,Rathausstraße,25,,53.83546427,9.48555737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cp,25361,Krempe,Rathausstraße,26,,53.83573796,9.48717577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cq,25361,Krempe,Rathausstraße,27,,53.83543315,9.48538948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cr,25361,Krempe,Rathausstraße,28,,53.83568388,9.48701223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cs,25361,Krempe,Rathausstraße,29,,53.83538415,9.4851535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ct,25361,Krempe,Rathausstraße,3,,53.83619083,9.48926221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cu,25361,Krempe,Rathausstraße,30,,53.83564103,9.48680107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cv,25361,Krempe,Rathausstraße,31,,53.83532313,9.48489563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cw,25361,Krempe,Rathausstraße,33,,53.83522223,9.48451881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cx,25361,Krempe,Rathausstraße,34,,53.83549644,9.48626913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cy,25361,Krempe,Rathausstraße,35,,53.83518909,9.4843973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5cz,25361,Krempe,Rathausstraße,36,,53.83546451,9.48607989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d0,25361,Krempe,Reetmoor,5,,53.83924068,9.48920133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d1,25361,Krempe,Reetmoor,6,,53.83945606,9.48862905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d2,25361,Krempe,Reetmoor,8,,53.83945606,9.48862905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d3,25361,Krempe,Reichenbacher Straße,1,,53.83839965,9.49183906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d4,25361,Krempe,Reichenbacher Straße,11,,53.83991219,9.49192255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d5,25361,Krempe,Reichenbacher Straße,13,,53.84009093,9.49192677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d6,25361,Krempe,Reichenbacher Straße,15,,53.8402931,9.49193428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d7,25361,Krempe,Reichenbacher Straße,17,,53.84045741,9.49194766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d8,25361,Krempe,Reichenbacher Straße,19,,53.84064063,9.49195341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5d9,25361,Krempe,Reichenbacher Straße,21,,53.8408188,9.4919574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dA,25361,Krempe,Süderstraße,29,a,53.83454194,9.48766705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dB,25361,Krempe,Süderstraße,3,,53.83495551,9.49041834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dC,25361,Krempe,Süderstraße,31,,53.83451884,9.4874934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dD,25361,Krempe,Süderstraße,32,,53.83467599,9.48686941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dE,25361,Krempe,Süderstraße,33,,53.83449344,9.48729836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dF,25361,Krempe,Süderstraße,35,,53.83446775,9.4871009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dG,25361,Krempe,Süderstraße,35,a,53.83445204,9.48698472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dH,25361,Krempe,Süderstraße,37,,53.83442239,9.48682956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dI,25361,Krempe,Süderstraße,37,a,53.83443022,9.48670398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dJ,25361,Krempe,Süderstraße,39,,53.83440162,9.48651103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dK,25361,Krempe,Süderstraße,4,,53.8350789,9.48992384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dL,25361,Krempe,Süderstraße,40,,53.83460183,9.48656462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dM,25361,Krempe,Süderstraße,41,,53.83436125,9.48623372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dN,25361,Krempe,Süderstraße,42,,53.8346675,9.48623877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dO,25361,Krempe,Süderstraße,43,,53.83431972,9.48594182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dP,25361,Krempe,Süderstraße,44,,53.83466873,9.48590013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dQ,25361,Krempe,Süderstraße,45,,53.83428318,9.48568767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dR,25361,Krempe,Süderstraße,46,,53.83463356,9.48580559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dS,25361,Krempe,Süderstraße,47,,53.83424972,9.48545957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dT,25361,Krempe,Süderstraße,47,a,53.83422215,9.48526917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dU,25361,Krempe,Süderstraße,49,,53.83418888,9.48504059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dV,25361,Krempe,Süderstraße,5,,53.83492374,9.49020388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dW,25361,Krempe,Süderstraße,51,,53.83415368,9.48479876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dX,25361,Krempe,Süderstraße,52,,53.83444009,9.48574672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dY,25361,Krempe,Süderstraße,52,a,53.83441164,9.48522536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dZ,25361,Krempe,Süderstraße,53,,53.83412052,9.48456952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5da,25361,Krempe,Reichenbacher Straße,23,,53.8410146,9.49197872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5db,25361,Krempe,Reichenbacher Straße,3,,53.83861553,9.49182747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dc,25361,Krempe,Reichenbacher Straße,5,,53.83879916,9.49187814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dd,25361,Krempe,Reichenbacher Straße,7,,53.83913382,9.49190797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5de,25361,Krempe,Reichenbacher Straße,9,,53.83930093,9.49190336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5df,25361,Krempe,Reichenstraße,1,,53.83657873,9.48995377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dg,25361,Krempe,Reichenstraße,2,,53.83647235,9.48998356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dh,25361,Krempe,Reichenstraße,3,,53.83647778,9.4898268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5di,25361,Krempe,Süderstraße,1,,53.83498123,9.49063257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dj,25361,Krempe,Süderstraße,1,a,53.8351651,9.49055535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dk,25361,Krempe,Süderstraße,10,,53.83497008,9.48889507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dl,25361,Krempe,Süderstraße,11,,53.83483536,9.48964607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dm,25361,Krempe,Süderstraße,12,,53.8348968,9.48840594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dn,25361,Krempe,Süderstraße,13,,53.83480858,9.48943451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5do,25361,Krempe,Süderstraße,15,,53.83477305,9.48923362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dp,25361,Krempe,Süderstraße,17,,53.83475206,9.48905215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dq,25361,Krempe,Süderstraße,19,,53.83471621,9.48882855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dr,25361,Krempe,Süderstraße,2,,53.83512201,9.49022844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ds,25361,Krempe,Süderstraße,21,,53.83469355,9.48867302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dt,25361,Krempe,Süderstraße,22,,53.83485311,9.48814181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5du,25361,Krempe,Süderstraße,23,,53.83466149,9.48846453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dv,25361,Krempe,Süderstraße,25,,53.83463242,9.48828845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dw,25361,Krempe,Süderstraße,27,,53.83460627,9.48810624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dx,25361,Krempe,Süderstraße,27,a,53.8345866,9.48797118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dy,25361,Krempe,Süderstraße,28,,53.83480125,9.48778248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5dz,25361,Krempe,Süderstraße,29,,53.83456181,9.4878007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e0,25361,Krempe,Süderstraße,54,,53.83427862,9.48461957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e1,25361,Krempe,Süderstraße,55,,53.83408987,9.48436128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e2,25361,Krempe,Süderstraße,56,,53.83424645,9.48433216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e3,25361,Krempe,Süderstraße,57,,53.83405867,9.48416043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e4,25361,Krempe,Süderstraße,6,,53.83507089,9.48968962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e5,25361,Krempe,Süderstraße,7,,53.83489079,9.49000393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e6,25361,Krempe,Süderstraße,9,,53.83486307,9.48981568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e7,25361,Krempe,Schrägstraße,1,,53.83531954,9.48396502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e8,25361,Krempe,Schrägstraße,2,,53.83525658,9.48384653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5e9,25361,Krempe,Schrägstraße,2,a,53.83522011,9.48377612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eA,25361,Krempe,Stiftstraße,16,d,53.8336697,9.49262805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eB,25361,Krempe,Stiftstraße,17,,53.83458437,9.49133723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eC,25361,Krempe,Stiftstraße,18,,53.83352427,9.4927715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eD,25361,Krempe,Stiftstraße,19,,53.83436867,9.49151445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eE,25361,Krempe,Stiftstraße,2,,53.83558036,9.49070362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eF,25361,Krempe,Stiftstraße,20,,53.83331484,9.49297611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eG,25361,Krempe,Stiftstraße,21,,53.83390045,9.49193406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eH,25361,Krempe,Stiftstraße,22,,53.83323165,9.49306021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eI,25361,Krempe,Stiftstraße,3,,53.83549446,9.49059184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eJ,25361,Krempe,Stiftstraße,4,,53.83551562,9.49076982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eK,25361,Krempe,Stiftstraße,5,,53.83542238,9.49067912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eL,25361,Krempe,Stiftstraße,6,,53.83547138,9.4908173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eM,25361,Krempe,Stiftstraße,7,,53.83534887,9.49076542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eN,25361,Krempe,Stiftstraße,8,,53.83537542,9.49092877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eO,25361,Krempe,Stiftstraße,9,,53.83520825,9.49086694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eP,25361,Krempe,St.-Martin-Platz,1,,53.83465758,9.48531684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eQ,25361,Krempe,St.-Martin-Platz,2,,53.83483362,9.48529031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eR,25361,Krempe,St.-Martin-Platz,3,,53.83495934,9.4850539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eS,25361,Krempe,St.-Martin-Platz,4,,53.83475544,9.48481162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eT,25361,Krempe,St.-Martin-Platz,5,,53.83477353,9.48441268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eU,25361,Krempe,St.-Martin-Platz,6,,53.83462973,9.48451885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eV,25361,Krempe,St.-Martin-Platz,7,,53.83448285,9.48463734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eW,25361,Krempe,Theodor-Storm-Straße,1,,53.83961814,9.48563178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eX,25361,Krempe,Theodor-Storm-Straße,1,a,53.83981597,9.48575082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eY,25361,Krempe,Theodor-Storm-Straße,10,,53.83914608,9.48470857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eZ,25361,Krempe,Theodor-Storm-Straße,11,,53.83907256,9.48427519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ea,25361,Krempe,Schrägstraße,2,b,53.83518293,9.4837048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eb,25361,Krempe,Schrägstraße,2,c,53.83515445,9.4836515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ec,25361,Krempe,Stettiner Straße,1,,53.83985736,9.49241269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ed,25361,Krempe,Stettiner Straße,10,,53.83964738,9.49342896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ee,25361,Krempe,Stettiner Straße,11,,53.84014127,9.49375748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ef,25361,Krempe,Stettiner Straße,12,,53.83996009,9.49375667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eg,25361,Krempe,Stettiner Straße,13,,53.83975948,9.4937913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eh,25361,Krempe,Stettiner Straße,14,,53.83959969,9.49381072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ei,25361,Krempe,Stettiner Straße,2,,53.83960628,9.49237262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ej,25361,Krempe,Stettiner Straße,3,,53.83990076,9.49268057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ek,25361,Krempe,Stettiner Straße,4,,53.83961607,9.49263857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5el,25361,Krempe,Stettiner Straße,5,,53.83992219,9.49291035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5em,25361,Krempe,Stettiner Straße,6,,53.83963479,9.49289862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5en,25361,Krempe,Stettiner Straße,7,,53.83994628,9.49316694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eo,25361,Krempe,Stettiner Straße,8,,53.83964451,9.49315691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ep,25361,Krempe,Stettiner Straße,9,,53.83999738,9.4934423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eq,25361,Krempe,Stiftstraße,1,,53.83572573,9.49035736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5er,25361,Krempe,Stiftstraße,10,,53.83529678,9.49108152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5es,25361,Krempe,Stiftstraße,11,,53.83501017,9.49103029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5et,25361,Krempe,Stiftstraße,13,,53.83488734,9.49111433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5eu,25361,Krempe,Stiftstraße,14,,53.83506886,9.49125467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ev,25361,Krempe,Stiftstraße,15,,53.8347246,9.4912616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ew,25361,Krempe,Stiftstraße,16,,53.83431629,9.49200637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ex,25361,Krempe,Stiftstraße,16,a,53.83416422,9.49220025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ey,25361,Krempe,Stiftstraße,16,b,53.83392101,9.49241943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ez,25361,Krempe,Stiftstraße,16,c,53.83378206,9.49251569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f0,25361,Krempe,Theodor-Storm-Straße,13,,53.83890953,9.48420851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f1,25361,Krempe,Theodor-Storm-Straße,15,,53.83871993,9.4841473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f2,25361,Krempe,Theodor-Storm-Straße,17,,53.83854881,9.48409379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f3,25361,Krempe,Theodor-Storm-Straße,19,,53.83835329,9.48400133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f4,25361,Krempe,Theodor-Storm-Straße,2,,53.83948031,9.48598631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f5,25361,Krempe,Theodor-Storm-Straße,21,,53.83817871,9.48393614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f6,25361,Krempe,Theodor-Storm-Straße,23,,53.8380022,9.48386854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f7,25361,Krempe,Theodor-Storm-Straße,3,,53.83966573,9.4851628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f8,25361,Krempe,Theodor-Storm-Straße,4,,53.83940072,9.48563957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5f9,25361,Krempe,Theodor-Storm-Straße,5,,53.83948731,9.48502938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fA,25361,Krempe,Vor dem Grevenkoper Tor,5,,53.83604309,9.49671121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fB,25361,Krempe,Vor dem Grevenkoper Tor,6,,53.83583151,9.4964268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fC,25361,Krempe,Vor dem Grevenkoper Tor,9,,53.8360728,9.496207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fD,25361,Krempe,Westerstraße,1,,53.83484779,9.48328146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fE,25361,Krempe,Westerstraße,10,,53.83468172,9.4837725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fF,25361,Krempe,Westerstraße,2,,53.83477333,9.48340691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fG,25361,Krempe,Westerstraße,3,,53.83467017,9.48347416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fH,25361,Krempe,Westerstraße,4,,53.83450263,9.48358597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fI,25361,Krempe,Westerstraße,5,,53.83441246,9.48364699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fJ,25361,Krempe,Westerstraße,6,,53.83418032,9.48344559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fK,25361,Krempe,Westerstraße,7,,53.83398301,9.48391757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fL,25361,Krempe,Westerstraße,8,,53.83440095,9.48405146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fM,25361,Krempe,Westerstraße,9,,53.83452574,9.4838748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fN,25361,Krempe,Jungfernstieg,1,,53.83524112,9.48672905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fO,25361,Krempe,Jungfernstieg,2,,53.83505155,9.48691227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fP,25361,Krempe,Jungfernstieg,3,,53.83518,9.48641896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fQ,25361,Krempe,Jungfernstieg,4,,53.83498968,9.48656442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fa,25361,Krempe,Theodor-Storm-Straße,6,,53.83933068,9.48536232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fb,25361,Krempe,Theodor-Storm-Straße,7,,53.83963789,9.48462255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fc,25361,Krempe,Theodor-Storm-Straße,8,,53.83924562,9.48501525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fd,25361,Krempe,Theodor-Storm-Straße,9,,53.83935521,9.48451274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fe,25361,Krempe,Vor dem Grevenkoper Tor,1,,53.83615871,9.4973363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ff,25361,Krempe,Vor dem Grevenkoper Tor,11,,53.83620077,9.49580966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fg,25361,Krempe,Vor dem Grevenkoper Tor,12,,53.83598497,9.49566718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fh,25361,Krempe,Vor dem Grevenkoper Tor,13,,53.83632679,9.49553445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fi,25361,Krempe,Vor dem Grevenkoper Tor,14,,53.83624504,9.49488874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fj,25361,Krempe,Vor dem Grevenkoper Tor,15,,53.83643436,9.49524405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fk,25361,Krempe,Vor dem Grevenkoper Tor,16,,53.83633934,9.49458778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fl,25361,Krempe,Vor dem Grevenkoper Tor,18,,53.83647653,9.49427718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fm,25361,Krempe,Vor dem Grevenkoper Tor,19,,53.83686198,9.49463708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fn,25361,Krempe,Vor dem Grevenkoper Tor,2,,53.83580444,9.49704344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fo,25361,Krempe,Vor dem Grevenkoper Tor,20,,53.83654116,9.49407312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fp,25361,Krempe,Vor dem Grevenkoper Tor,21,,53.83674919,9.49417116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fq,25361,Krempe,Vor dem Grevenkoper Tor,22,,53.83660284,9.49387538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fr,25361,Krempe,Vor dem Grevenkoper Tor,23,,53.8368802,9.4928114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fs,25361,Krempe,Vor dem Grevenkoper Tor,24,,53.8366714,9.49364764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5ft,25361,Krempe,Vor dem Grevenkoper Tor,25,,53.83687354,9.4925438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fu,25361,Krempe,Vor dem Grevenkoper Tor,26,,53.83671608,9.49271828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fv,25361,Krempe,Vor dem Grevenkoper Tor,27,,53.83682827,9.49211827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fw,25361,Krempe,Vor dem Grevenkoper Tor,28,,53.83670503,9.49222823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fx,25361,Krempe,Vor dem Grevenkoper Tor,3,,53.83614984,9.49702936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fy,25361,Krempe,Vor dem Grevenkoper Tor,30,,53.83669325,9.49206762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a5fz,25361,Krempe,Vor dem Grevenkoper Tor,4,,53.83561126,9.49689874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6fK,25361,Krempe,Muchelndorf,4,,53.84550816,9.56274853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6fL,25361,Krempe,Muchelndorf,5,,53.84628269,9.56534628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6fM,25361,Krempe,Muchelndorf,6,,53.84735377,9.56914632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6fN,25361,Krempe,Muchelndorf,7,,53.84758279,9.57004921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7HZ,25361,Krempe,Achtern Riep,1,,53.82280515,9.51241829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I0,25361,Krempe,Achtern Riep,2,,53.82265214,9.51244944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I1,25361,Krempe,Achtern Riep,3,,53.82244329,9.51279296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I2,25361,Krempe,Achtern Riep,4,,53.82214209,9.51302342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I3,25361,Krempe,Achtern Riep,5,,53.82184504,9.51329399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I4,25361,Krempe,Achtern Riep,6,,53.82170268,9.51345512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I5,25361,Krempe,Am Dorf,1,,53.81768293,9.51546591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I6,25361,Krempe,Am Dorf,2,,53.81750707,9.51553269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I7,25361,Krempe,Am Dorf,3,,53.81730728,9.51573639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I8,25361,Krempe,Am Dorf,4,,53.81715783,9.51590832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7I9,25361,Krempe,An der Au,1,,53.84493895,9.56839136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IA,25361,Krempe,Doppelreihe,16,,53.81975976,9.51349601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IB,25361,Krempe,Doppelreihe,17,,53.81961893,9.51404924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IC,25361,Krempe,Doppelreihe,18,,53.81969839,9.51362555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7ID,25361,Krempe,Doppelreihe,19,,53.8195432,9.51417778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IE,25361,Krempe,Doppelreihe,2,,53.82001246,9.51174935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IF,25361,Krempe,Doppelreihe,20,,53.81961352,9.51379384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IG,25361,Krempe,Doppelreihe,21,,53.81946655,9.51447282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IH,25361,Krempe,Doppelreihe,22,,53.81952593,9.51396388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7II,25361,Krempe,Doppelreihe,23,,53.81932817,9.51451527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IJ,25361,Krempe,Doppelreihe,24,,53.8191286,9.514637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IK,25361,Krempe,Doppelreihe,25,,53.81920955,9.51470821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IL,25361,Krempe,Doppelreihe,26,,53.81894805,9.51490613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IM,25361,Krempe,Doppelreihe,27,,53.81910442,9.5149009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IN,25361,Krempe,Doppelreihe,28,,53.81883341,9.51508878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IO,25361,Krempe,Doppelreihe,29,,53.81901278,9.5150441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IP,25361,Krempe,Doppelreihe,3,,53.82004232,9.51301591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IQ,25361,Krempe,Doppelreihe,30,,53.81872187,9.51520445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IR,25361,Krempe,Doppelreihe,31,,53.81891247,9.51521822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IS,25361,Krempe,Doppelreihe,32,,53.81857116,9.51536142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IT,25361,Krempe,Doppelreihe,33,,53.81876218,9.51536799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IU,25361,Krempe,Doppelreihe,35,,53.81859443,9.51556639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IV,25361,Krempe,Doppelreihe,37,,53.8184756,9.51563595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IW,25361,Krempe,Doppelreihe,39,,53.81835809,9.5156783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IX,25361,Krempe,Doppelreihe,4,,53.82000366,9.51212082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IY,25361,Krempe,Doppelreihe,41,,53.81821345,9.51563721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7IZ,25361,Krempe,Doppelreihe,43,,53.81805118,9.51574964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ia,25361,Krempe,An der Au,2,,53.84533476,9.56903187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ib,25361,Krempe,An der Au,3,,53.84508008,9.5682342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ic,25361,Krempe,An der Au,4,,53.84529105,9.5687208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Id,25361,Krempe,An der Au,5,,53.8451967,9.56808533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ie,25361,Krempe,An der Au,6,,53.84523071,9.56842812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7If,25361,Krempe,An der Au,8,,53.84481298,9.5687007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ig,25361,Krempe,Deicherde,1,,53.81491291,9.52306768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ih,25361,Krempe,Deicherde,10,,53.82219678,9.50892254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ii,25361,Krempe,Deicherde,2,,53.81489998,9.52213439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ij,25361,Krempe,Deicherde,3,,53.81495125,9.52092421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ik,25361,Krempe,Deicherde,4,,53.81546858,9.52079741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Il,25361,Krempe,Deicherde,5,,53.81675029,9.5154032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Im,25361,Krempe,Deicherde,6,,53.81986203,9.51141039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7In,25361,Krempe,Deicherde,7,,53.8206343,9.51029538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Io,25361,Krempe,Deicherde,7,a,53.82098197,9.50976657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ip,25361,Krempe,Deicherde,8,,53.82138816,9.50949891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iq,25361,Krempe,Deicherde,8,a,53.82193463,9.50916178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ir,25361,Krempe,Deicherde,8,b,53.8221566,9.50918331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Is,25361,Krempe,Doppelreihe,1,,53.82027839,9.51170673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7It,25361,Krempe,Doppelreihe,1,a,53.82025476,9.51223249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iu,25361,Krempe,Doppelreihe,10,,53.81992889,9.51305799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iv,25361,Krempe,Doppelreihe,11,,53.82006557,9.51352673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iw,25361,Krempe,Doppelreihe,12,,53.81987735,9.51320062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ix,25361,Krempe,Doppelreihe,13,,53.81980041,9.51393241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iy,25361,Krempe,Doppelreihe,14,,53.81981288,9.51337511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Iz,25361,Krempe,Doppelreihe,15,,53.81972447,9.51394357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J0,25361,Krempe,Doppelreihe,45,,53.81781192,9.51579543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J1,25361,Krempe,Doppelreihe,47,,53.8177657,9.51583496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J2,25361,Krempe,Doppelreihe,49,,53.81761746,9.51598303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J3,25361,Krempe,Doppelreihe,49,a,53.81764781,9.51625604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J4,25361,Krempe,Doppelreihe,5,,53.81999609,9.5131261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J5,25361,Krempe,Doppelreihe,6,,53.81999408,9.51234699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J6,25361,Krempe,Doppelreihe,7,,53.81981728,9.51358348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J7,25361,Krempe,Doppelreihe,8,,53.81994395,9.51283153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J8,25361,Krempe,Doppelreihe,9,,53.81987347,9.51375221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7J9,25361,Krempe,Doratwiete,1,,53.84388242,9.57660597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JA,25361,Krempe,Gewerbestraße,1,,53.84405852,9.57162671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JB,25361,Krempe,Gewerbestraße,11,,53.84490947,9.57010573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JC,25361,Krempe,Gewerbestraße,13,,53.84490145,9.56997182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JD,25361,Krempe,Gewerbestraße,14,,53.84524719,9.57078596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JE,25361,Krempe,Gewerbestraße,15,,53.84484146,9.56953314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JF,25361,Krempe,Gewerbestraße,16,,53.84519054,9.57046568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JG,25361,Krempe,Gewerbestraße,17,,53.84471891,9.56933223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JH,25361,Krempe,Gewerbestraße,18,,53.84521594,9.57010596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JJ,25361,Krempe,Gewerbestraße,20,,53.84527872,9.5696492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JK,25361,Krempe,Gewerbestraße,21,,53.84446868,9.56877907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JL,25361,Krempe,Gewerbestraße,22,,53.84513188,9.56932092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JN,25361,Krempe,Gewerbestraße,24,,53.84507826,9.5690437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JO,25361,Krempe,Gewerbestraße,28,,53.84464307,9.56843837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JP,25361,Krempe,Gewerbestraße,3,,53.8442115,9.57144051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JQ,25361,Krempe,Gewerbestraße,4,,53.84474911,9.57149252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JR,25361,Krempe,Gewerbestraße,5,,53.84454532,9.57118436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JS,25361,Krempe,Gewerbestraße,6,,53.8449295,9.57136789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JT,25361,Krempe,Gewerbestraße,7,,53.84495551,9.5707834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JU,25361,Krempe,Gewerbestraße,8,,53.84511597,9.57122976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JV,25361,Krempe,Gewerbestraße,9,,53.84493028,9.57045697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JW,25361,Krempe,Hauptstraße,1,,53.84148099,9.56071135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JX,25361,Krempe,Hauptstraße,10,,53.84272715,9.5642551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JY,25361,Krempe,Hauptstraße,11,,53.84243873,9.56446415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7JZ,25361,Krempe,Hauptstraße,12,,53.84286458,9.56470002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ja,25361,Krempe,Doratwiete,2,,53.8435794,9.57678902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jb,25361,Krempe,Doratwiete,2,a,53.8434133,9.57698052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jc,25361,Krempe,Doratwiete,3,,53.84324676,9.57709795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jd,25361,Krempe,Gartenstraße,1,,53.82051748,9.51085541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Je,25361,Krempe,Gartenstraße,10,,53.82130228,9.51155061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jf,25361,Krempe,Gartenstraße,11,,53.82159497,9.50956104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jg,25361,Krempe,Gartenstraße,12,,53.82128563,9.51127372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jh,25361,Krempe,Gartenstraße,13,,53.82185636,9.50968307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ji,25361,Krempe,Gartenstraße,14,,53.82119697,9.51079642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jj,25361,Krempe,Gartenstraße,15,,53.8217053,9.51012272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jk,25361,Krempe,Gartenstraße,16,,53.82146735,9.51058762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jl,25361,Krempe,Gartenstraße,17,,53.82193579,9.51038062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jm,25361,Krempe,Gartenstraße,18,,53.82179496,9.51079337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jn,25361,Krempe,Gartenstraße,19,,53.82207232,9.51061425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jo,25361,Krempe,Gartenstraße,2,,53.82061995,9.51131421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jp,25361,Krempe,Gartenstraße,20,,53.82192634,9.51104884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jq,25361,Krempe,Gartenstraße,20,a,53.82203943,9.51133359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jr,25361,Krempe,Gartenstraße,21,,53.8221883,9.51087049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Js,25361,Krempe,Gartenstraße,22,,53.82207993,9.51146191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jt,25361,Krempe,Gartenstraße,3,,53.82080834,9.51063136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ju,25361,Krempe,Gartenstraße,4,,53.82091313,9.51113175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jv,25361,Krempe,Gartenstraße,5,,53.82099267,9.51045681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jw,25361,Krempe,Gartenstraße,6,,53.82099995,9.51147913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jx,25361,Krempe,Gartenstraße,7,,53.82120063,9.51027317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jy,25361,Krempe,Gartenstraße,8,,53.82116044,9.51172454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Jz,25361,Krempe,Gartenstraße,9,,53.8214475,9.51017913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K0,25361,Krempe,Hauptstraße,13,,53.84266893,9.5660204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K1,25361,Krempe,Hauptstraße,14,,53.84293644,9.5649462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K2,25361,Krempe,Hauptstraße,15,,53.84274649,9.56637676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K3,25361,Krempe,Hauptstraße,16,,53.842894,9.56518361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K4,25361,Krempe,Hauptstraße,17,,53.84290931,9.56666818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K5,25361,Krempe,Hauptstraße,17,a,53.84296975,9.56779903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K6,25361,Krempe,Hauptstraße,18,,53.84291617,9.56542173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K7,25361,Krempe,Hauptstraße,19,,53.84295618,9.56818045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K8,25361,Krempe,Hauptstraße,2,,53.8422476,9.56293769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7K9,25361,Krempe,Hauptstraße,20,,53.84297432,9.5657049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KA,25361,Krempe,Hauptstraße,40,,53.84383477,9.57134549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KB,25361,Krempe,Hauptstraße,42,,53.84396181,9.5737075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KC,25361,Krempe,Hauptstraße,44,,53.84408542,9.57513211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KD,25361,Krempe,Hauptstraße,46,,53.84340925,9.57659181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KE,25361,Krempe,Hauptstraße,48,,53.84298138,9.57740899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KF,25361,Krempe,Hauptstraße,5,,53.84176965,9.56224514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KG,25361,Krempe,Hauptstraße,50,,53.84285024,9.5775491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KH,25361,Krempe,Hauptstraße,6,,53.84255863,9.56366912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KI,25361,Krempe,Hauptstraße,6,a,53.84277066,9.56354018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KJ,25361,Krempe,Hauptstraße,7,,53.84171689,9.56279098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KK,25361,Krempe,Hauptstraße,8,,53.84265344,9.56400791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KL,25361,Krempe,Hauptstraße,9,,53.84207857,9.56379692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KM,25361,Krempe,Hauptstraße,9,a,53.84215683,9.56405829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KN,25361,Krempe,Hauptstraße,9,b,53.84224058,9.56429008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KO,25361,Krempe,Kirchenstraße,10,,53.82157652,9.51267568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KP,25361,Krempe,Kirchenstraße,11,,53.8207978,9.51265994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KQ,25361,Krempe,Kirchenstraße,12,,53.82174511,9.51251259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KR,25361,Krempe,Kirchenstraße,13,,53.8209928,9.5128595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KS,25361,Krempe,Kirchenstraße,14,,53.82188961,9.5123561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KT,25361,Krempe,Kirchenstraße,15,,53.8211999,9.51264182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KU,25361,Krempe,Kirchenstraße,16,,53.82210368,9.51214114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KV,25361,Krempe,Kirchenstraße,17,,53.82132066,9.51243302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KW,25361,Krempe,Kirchenstraße,18,,53.82225413,9.51198473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KX,25361,Krempe,Kirchenstraße,19,,53.82147019,9.5122627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KY,25361,Krempe,Kirchenstraße,2,,53.82027859,9.51192426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7KZ,25361,Krempe,Kirchenstraße,2,a,53.82048442,9.51376326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ka,25361,Krempe,Hauptstraße,20,a,53.84311417,9.56555488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kb,25361,Krempe,Hauptstraße,21,,53.84353533,9.5698069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kc,25361,Krempe,Hauptstraße,22,,53.84302765,9.56591626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kd,25361,Krempe,Hauptstraße,23,,53.84340071,9.57026113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ke,25361,Krempe,Hauptstraße,24,,53.84310009,9.56617014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kf,25361,Krempe,Hauptstraße,26,,53.84316439,9.56640208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kg,25361,Krempe,Hauptstraße,27,,53.84351659,9.57117334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kh,25361,Krempe,Hauptstraße,28,,53.84321098,9.56665172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ki,25361,Krempe,Hauptstraße,29,,53.8435525,9.57185658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kj,25361,Krempe,Hauptstraße,3,,53.84139874,9.56130185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kk,25361,Krempe,Hauptstraße,30,,53.8432999,9.5671461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kl,25361,Krempe,Hauptstraße,31,,53.84365563,9.572688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Km,25361,Krempe,Hauptstraße,32,,53.84336805,9.56743066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kn,25361,Krempe,Hauptstraße,33,,53.84313268,9.57661101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ko,25361,Krempe,Hauptstraße,33,a,53.84294992,9.5767292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kp,25361,Krempe,Hauptstraße,33,b,53.84271268,9.57692711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kq,25361,Krempe,Hauptstraße,33,c,53.84256301,9.57735483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kr,25361,Krempe,Hauptstraße,33,d,53.8423765,9.57756498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ks,25361,Krempe,Hauptstraße,33,e,53.84219747,9.57779833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kt,25361,Krempe,Hauptstraße,34,,53.84368068,9.56931445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ku,25361,Krempe,Hauptstraße,35,,53.84200604,9.57817124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kv,25361,Krempe,Hauptstraße,36,,53.84386795,9.56958688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kw,25361,Krempe,Hauptstraße,38,,53.84388659,9.57015734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kx,25361,Krempe,Hauptstraße,38,a,53.84390477,9.57054423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ky,25361,Krempe,Hauptstraße,38,b,53.84392251,9.5710057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Kz,25361,Krempe,Hauptstraße,4,,53.8424975,9.56323242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L0,25361,Krempe,Kirchenstraße,20,,53.8223964,9.51182502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L1,25361,Krempe,Kirchenstraße,21,,53.82162798,9.51210347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L2,25361,Krempe,Kirchenstraße,22,,53.82255282,9.51166507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L3,25361,Krempe,Kirchenstraße,23,,53.8217939,9.51193359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L4,25361,Krempe,Kirchenstraße,24,,53.82270045,9.5115071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L5,25361,Krempe,Kirchenstraße,25,,53.82196066,9.51173764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L6,25361,Krempe,Kirchenstraße,27,,53.82238495,9.51134489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L7,25361,Krempe,Kirchenstraße,3,,53.82049745,9.51194882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L8,25361,Krempe,Kirchenstraße,4,,53.82102863,9.51329922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7L9,25361,Krempe,Kirchenstraße,4,a,53.82128515,9.51306307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LA,25361,Krempe,Steinburger Straße,5,,53.84527475,9.57186571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LB,25361,Krempe,Steinburger Straße,6,,53.84462711,9.57247714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LC,25361,Krempe,Steinburger Straße,7,,53.84545497,9.57171648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LD,25361,Krempe,Steinburger Straße,8,,53.84467779,9.5727996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LE,25361,Krempe,Steinburger Straße,9,,53.84561567,9.57156737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LF,25361,Krempe,Süderauer Riep,1,,53.82376327,9.51393606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LG,25361,Krempe,Süderauer Riep,2,,53.82465358,9.51589591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LH,25361,Krempe,Süderauer Riep,3,,53.81210489,9.52895895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LI,25361,Krempe,Süderauerdorfstraße,1,,53.82248685,9.5088012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LJ,25361,Krempe,Süderauerdorfstraße,11,,53.82311848,9.51111891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LK,25361,Krempe,Süderauerdorfstraße,12,,53.82282377,9.51091336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LL,25361,Krempe,Süderauerdorfstraße,13,,53.82295899,9.51136048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LM,25361,Krempe,Süderauerdorfstraße,14,,53.82309739,9.51178719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LN,25361,Krempe,Süderauerdorfstraße,14,a,53.82319626,9.51205627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LO,25361,Krempe,Süderauerdorfstraße,15,,53.82327762,9.51160982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LP,25361,Krempe,Süderauerdorfstraße,16,,53.82330787,9.51232509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LQ,25361,Krempe,Süderauerdorfstraße,17,,53.82343134,9.51209843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LR,25361,Krempe,Süderauerdorfstraße,18,,53.82554987,9.51222859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LS,25361,Krempe,Süderauerdorfstraße,19,,53.8260434,9.51440142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LT,25361,Krempe,Süderauerdorfstraße,2,,53.8224712,9.5092356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LU,25361,Krempe,Süderauerdorfstraße,20,,53.82663218,9.51492212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LV,25361,Krempe,Süderauerdorfstraße,21,,53.8281159,9.51818776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LW,25361,Krempe,Süderauerdorfstraße,22,,53.8289258,9.51993846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LX,25361,Krempe,Süderauerdorfstraße,23,,53.82879885,9.52329788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LY,25361,Krempe,Süderauerdorfstraße,24,,53.82856731,9.52425048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7LZ,25361,Krempe,Süderauerdorfstraße,25,,53.82844582,9.52667127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7La,25361,Krempe,Kirchenstraße,5,,53.82058416,9.51215615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lb,25361,Krempe,Kirchenstraße,6,,53.82110177,9.51380559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lc,25361,Krempe,Kirchenstraße,7,,53.82065167,9.51226805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ld,25361,Krempe,Kirchenstraße,8,,53.82142461,9.51285877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Le,25361,Krempe,Kirchenstraße,9,,53.82073502,9.51246688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lf,25361,Krempe,Lübscher Landweg,1,,53.84391231,9.57569187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lg,25361,Krempe,Lübscher Landweg,10,,53.84364859,9.57953033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lh,25361,Krempe,Lübscher Landweg,11,,53.84371506,9.57979074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Li,25361,Krempe,Lübscher Landweg,12,,53.84389656,9.57956974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lj,25361,Krempe,Lübscher Landweg,2,,53.84394649,9.57615429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lk,25361,Krempe,Lübscher Landweg,4,,53.84393404,9.57694761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ll,25361,Krempe,Lübscher Landweg,5,,53.84367579,9.57722941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lm,25361,Krempe,Lübscher Landweg,6,,53.84383098,9.57761875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ln,25361,Krempe,Lübscher Landweg,7,,53.84382466,9.57824213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lo,25361,Krempe,Lübscher Landweg,8,,53.84379439,9.57871171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lp,25361,Krempe,Lübscher Landweg,9,,53.84376214,9.57910664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lq,25361,Krempe,Steinburger Straße,1,,53.84489419,9.57221527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lr,25361,Krempe,Steinburger Straße,10,,53.84482541,9.57306104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ls,25361,Krempe,Steinburger Straße,12,,53.84491976,9.5727198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lt,25361,Krempe,Steinburger Straße,14,,53.84511173,9.57247735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lu,25361,Krempe,Steinburger Straße,16,,53.84529532,9.57230891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lv,25361,Krempe,Steinburger Straße,18,,53.84547152,9.57213494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lw,25361,Krempe,Steinburger Straße,2,,53.84446176,9.57181784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lx,25361,Krempe,Steinburger Straße,20,,53.84562309,9.57197693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ly,25361,Krempe,Steinburger Straße,3,,53.8451009,9.57203473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Lz,25361,Krempe,Steinburger Straße,4,,53.84452994,9.57213479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M0,25361,Krempe,Süderauerdorfstraße,26,,53.82918164,9.52826233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M1,25361,Krempe,Süderauerdorfstraße,27,,53.82961925,9.52865062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M2,25361,Krempe,Süderauerdorfstraße,28,,53.83123261,9.53070799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M3,25361,Krempe,Süderauerdorfstraße,29,,53.83271955,9.53412129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M4,25361,Krempe,Süderauerdorfstraße,29,a,53.83248008,9.53381085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M5,25361,Krempe,Süderauerdorfstraße,3,,53.822462,9.5094902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M6,25361,Krempe,Süderauerdorfstraße,30,,53.83374759,9.53653622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M7,25361,Krempe,Süderauerdorfstraße,30,a,53.8324737,9.54004987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M8,25361,Krempe,Süderauerdorfstraße,31,,53.83237898,9.54114786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7M9,25361,Krempe,Süderauerdorfstraße,32,,53.83228627,9.5441942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ma,25361,Krempe,Süderauerdorfstraße,32,a,53.83224853,9.54286312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mb,25361,Krempe,Süderauerdorfstraße,33,,53.83231287,9.54564931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mc,25361,Krempe,Süderauerdorfstraße,33,a,53.83230244,9.54649012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Md,25361,Krempe,Süderauerdorfstraße,34,,53.83260205,9.54764042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Me,25361,Krempe,Süderauerdorfstraße,35,,53.83232526,9.54796029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mf,25361,Krempe,Süderauerdorfstraße,36,,53.83257506,9.548183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mg,25361,Krempe,Süderauerdorfstraße,37,,53.83256429,9.54876104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mh,25361,Krempe,Süderauerdorfstraße,38,,53.83179556,9.55245755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mi,25361,Krempe,Süderauerdorfstraße,39,,53.83259951,9.55352251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mj,25361,Krempe,Süderauerdorfstraße,4,,53.82248318,9.50978596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mk,25361,Krempe,Süderauerdorfstraße,40,,53.83422676,9.55396144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ml,25361,Krempe,Süderauerdorfstraße,41,,53.83502261,9.5563656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mm,25361,Krempe,Süderauerdorfstraße,42,,53.83794288,9.56029419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mn,25361,Krempe,Süderauerdorfstraße,43,,53.83999715,9.56107203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mo,25361,Krempe,Süderauerdorfstraße,44,,53.84037777,9.56127262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mp,25361,Krempe,Süderauerdorfstraße,45,,53.84080502,9.56108658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mq,25361,Krempe,Süderauerdorfstraße,5,,53.82233014,9.51015923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Mr,25361,Krempe,Süderauerdorfstraße,6,,53.82261227,9.51002135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a7Ms,25361,Krempe,Süderauerdorfstraße,8,,53.82264606,9.51046459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CPiv,25361,Krempe,Hallensteinweg,8,,53.84126197,9.49487018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EdqT,25361,Krempe,Hauptstraße,52,,53.84290435,9.57795707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EdqU,25361,Krempe,Hauptstraße,50,,53.84284818,9.57787845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EdqZ,25361,Krempe,Hauptstraße,48,,53.84305984,9.57753326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Edqq,25361,Krempe,Hauptstraße,52,,53.84261138,9.57789539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HlE2,25361,Krempe,Hallensteinweg,4,,53.84126135,9.49550893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SdJD,25361,Krempe,Birkenweg,18,a,53.83776097,9.49161805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005W1F5,25361,Krempe,Grevenkoper Riep,29,,53.83673613,9.50191309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sV49,25361,Krempe,Grevenkoper Riep,31,,53.83678257,9.50222177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063ygX,25361,Krempe,Am Kirchhof,28,a,53.83616553,9.49250993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066MjB,25361,Krempe,Gewerbestraße,19,a,53.8446643,9.56912081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066MjD,25361,Krempe,Gewerbestraße,19,b,53.84459943,9.56919298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qFP,25361,Krempe,Achtern Diek,1,,53.81711641,9.51684042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qG1,25361,Krempe,Achtern Diek,4,,53.81735437,9.51733054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGJ,25361,Krempe,Achtern Diek,15,,53.81772649,9.51698286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGN,25361,Krempe,Achtern Diek,16,,53.81750473,9.5171599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGd,25361,Krempe,Achtern Diek,7,,53.81759543,9.51756833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGg,25361,Krempe,Achtern Diek,8,,53.81778874,9.51735416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGl,25361,Krempe,Achtern Diek,9,,53.81799154,9.51732122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGp,25361,Krempe,Achtern Diek,10,,53.81827761,9.51736174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qGt,25361,Krempe,Achtern Diek,11,,53.81814333,9.51706486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068lGE,25361,Krempe,Grevenkoper Riep,36,,53.83658262,9.50307959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Cs6E,25361,Krempe,Hauptstraße,14,a,53.84230119,9.5355275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ViHc,25361,Krempe,Sushörn,4,,53.81931847,9.5131386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006k1uo,25361,Krempe,Am Burggraben,3,,53.8341517,9.49472142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006k1ut,25361,Krempe,Am Burggraben,9,,53.83476377,9.49453772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006k2sT,25361,Krempe,Am Burggraben,11,,53.83462812,9.49473556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Cccv,25361,Krempe,Ostlandweg,24,a,53.83214501,9.49159483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WZbA,25361,Krempe,Achtern Diek,12,,53.81801105,9.51676532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WZbC,25361,Krempe,Achtern Diek,3,,53.81725383,9.51710787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WZbw,25361,Krempe,Achtern Diek,13,,53.81787409,9.51647851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WZby,25361,Krempe,Achtern Diek,5,,53.81740043,9.51769535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qgau,25361,Krempe,Hauptstraße,8,,53.84240817,9.52764416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qkc5,25361,Krempe,Birkenweg,9,c,53.8386752,9.48893106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qkc6,25361,Krempe,Birkenweg,9,d,53.83875121,9.48892065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yqKQ,25361,Krempe,Jordanusweg,10,,53.83833451,9.49444007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yqLk,25361,Krempe,Jordanusweg,12,,53.8381236,9.49453639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008FPVx,25361,Krempe,Königsweg,11,,53.83774184,9.48509484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IccK,25361,Krempe,Birkenweg,20,a,53.83795396,9.49209117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IccL,25361,Krempe,Birkenweg,20,b,53.83813138,9.49267333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IccM,25361,Krempe,Birkenweg,20,c,53.83783498,9.49298911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008oR8C,25361,Krempe,Achtern Diek,16,a,53.81745649,9.51702981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008x9F3,25361,Krempe,Huuskoppel,7,,53.83880423,9.49054088

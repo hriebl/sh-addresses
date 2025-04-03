@@ -1,0 +1,535 @@
+# Amtliche Adressen für die Postleitzahl 24404
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA0,24404,Maasholm,Am Gehege,23,,54.69961633,9.99712056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA1,24404,Maasholm,Am Gehege,24,,54.69957517,9.997351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA2,24404,Maasholm,Am Gehege,25,,54.6995544,9.99756882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA3,24404,Maasholm,Am Gehege,26,,54.69950977,9.99781151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA4,24404,Maasholm,Am Gehege,27,,54.69947243,9.99803105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA5,24404,Maasholm,Am Gehege,28,,54.69943124,9.99826402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA6,24404,Maasholm,Am Gehege,29,,54.69937995,9.99847388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA7,24404,Maasholm,Am Gehege,29,b,54.6994909,9.99896719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA8,24404,Maasholm,Am Gehege,45,,54.69976731,9.99790034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoA9,24404,Maasholm,Am Gehege,46,,54.69979933,9.99764812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAA,24404,Maasholm,An't Holt,187,,54.69877997,9.99967149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAB,24404,Maasholm,An't Holt,188,,54.69863289,9.99953937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAC,24404,Maasholm,An't Holt,188,a,54.69851019,9.99949925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAD,24404,Maasholm,An't Holt,189,,54.69831627,9.99948564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAE,24404,Maasholm,Angelnstraße,117,,54.70090674,9.9986783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAF,24404,Maasholm,Angelnstraße,118,,54.70105358,9.998751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAG,24404,Maasholm,Angelnstraße,119,,54.70120513,9.99888408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAH,24404,Maasholm,Angelnstraße,120,,54.70134543,9.99896995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAI,24404,Maasholm,Angelnstraße,121,,54.70150456,9.99903069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAJ,24404,Maasholm,Angelnstraße,122,,54.70164992,9.99910248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAK,24404,Maasholm,Angelnstraße,123,,54.70180262,9.99918362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAL,24404,Maasholm,Angelnstraße,124,,54.70196048,9.99915147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAM,24404,Maasholm,Angelnstraße,125,,54.70082626,9.99909083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAN,24404,Maasholm,Angelnstraße,126,,54.70098215,9.99916082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAO,24404,Maasholm,Angelnstraße,127,,54.70115216,9.99924458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAP,24404,Maasholm,Angelnstraße,128,,54.70128863,9.99934394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAQ,24404,Maasholm,Angelnstraße,129,,54.70145006,9.99941598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAR,24404,Maasholm,Angelnstraße,130,,54.70158745,9.99949837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAS,24404,Maasholm,Angelnstraße,131,,54.70173862,9.99954103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAT,24404,Maasholm,Bodderfatt,69,,54.70063116,9.99681383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAU,24404,Maasholm,Bodderfatt,70,,54.70058447,9.99705948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAV,24404,Maasholm,Bodderfatt,71,,54.70055498,9.99731015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAW,24404,Maasholm,Bodderfatt,72,,54.70047861,9.99745983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAX,24404,Maasholm,Bodderfatt,73,,54.70045248,9.9977296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAY,24404,Maasholm,Bodderfatt,74,,54.70041891,9.99798635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAZ,24404,Maasholm,Bodderfatt,75,,54.70028758,9.99814883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAa,24404,Maasholm,Am Gehege,47,,54.6998387,9.99742717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAb,24404,Maasholm,Am Gehege,48,,54.69991207,9.99700598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAc,24404,Maasholm,Am Gehege,49,,54.69994083,9.99679255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAd,24404,Maasholm,Am Gehege,50,,54.69993182,9.99653519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAe,24404,Maasholm,Am Gehege,51,,54.69999781,9.99631937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAf,24404,Maasholm,Am Gehege,52,,54.70002235,9.99609522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAg,24404,Maasholm,Am Gehege,53,,54.7000435,9.99581931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAh,24404,Maasholm,Am Gretchenweg,1,,54.68666053,9.9941217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAi,24404,Maasholm,Am Gretchenweg,10,,54.68670785,9.99460133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAj,24404,Maasholm,Am Gretchenweg,2,,54.6864884,9.99431523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAk,24404,Maasholm,Am Gretchenweg,3,,54.6863162,9.99447485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAl,24404,Maasholm,Am Gretchenweg,4,,54.68611566,9.99461257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAm,24404,Maasholm,Am Gretchenweg,5,,54.6863021,9.99487239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAn,24404,Maasholm,Am Gretchenweg,6,,54.68644108,9.99518786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAo,24404,Maasholm,Am Gretchenweg,7,,54.68650196,9.99544498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAp,24404,Maasholm,Am Gretchenweg,8,,54.68668302,9.99524756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAq,24404,Maasholm,Am Gretchenweg,9,,54.6866065,9.99501127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAr,24404,Maasholm,Am Kliff,97,,54.68304314,9.99007866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAs,24404,Maasholm,Am Kliff,98,,54.68302368,9.99026575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAt,24404,Maasholm,An't Holt,179,,54.69818348,9.9989488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAu,24404,Maasholm,An't Holt,180,,54.69835618,9.99903918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAv,24404,Maasholm,An't Holt,181,,54.69847667,9.99913975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAw,24404,Maasholm,An't Holt,182,,54.69866847,9.99917698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAx,24404,Maasholm,An't Holt,183,,54.6988282,9.99920825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAy,24404,Maasholm,An't Holt,184,,54.69897738,9.99931388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoAz,24404,Maasholm,An't Holt,186,,54.69893422,9.99971648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB0,24404,Maasholm,Bodderfatt,76,,54.70033245,9.99845588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB1,24404,Maasholm,Bodderfatt,77,,54.70008688,9.99804313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB2,24404,Maasholm,Bodderfatt,78,,54.70012034,9.99782395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB3,24404,Maasholm,Bodderfatt,79,,54.70014598,9.99760883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB4,24404,Maasholm,Bodderfatt,80,,54.7002453,9.9970693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB5,24404,Maasholm,Bodderfatt,81,,54.70027224,9.99683926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB6,24404,Maasholm,Bodderfatt,82,,54.70029196,9.99663644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB7,24404,Maasholm,Bodderfatt,83,,54.70030171,9.99638541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB8,24404,Maasholm,Exhöft,1,,54.69610534,9.99315228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoB9,24404,Maasholm,Exhöft,10,,54.69476466,9.99263527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBA,24404,Maasholm,Hafenweg,70,,54.68528971,9.99050026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBB,24404,Maasholm,Hafenweg,71,,54.68525345,9.99020148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBC,24404,Maasholm,Hafenweg,72,,54.68525134,9.99006337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBD,24404,Maasholm,Hafenweg,73,,54.68524508,9.98983749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBE,24404,Maasholm,Hafenweg,74,,54.68524548,9.98955232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBF,24404,Maasholm,Hafenweg,75,,54.68519116,9.98938201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBG,24404,Maasholm,Hafenweg,76,,54.68519355,9.98920066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBH,24404,Maasholm,Hauptstraße,13,,54.68509457,9.99075303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBI,24404,Maasholm,Hauptstraße,14,,54.684965,9.99078147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBJ,24404,Maasholm,Hauptstraße,15,,54.68484269,9.99080894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBK,24404,Maasholm,Hauptstraße,16,,54.68480028,9.99081885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBM,24404,Maasholm,Hauptstraße,18,,54.68464661,9.9911248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBN,24404,Maasholm,Hauptstraße,19,,54.68457631,9.99084933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBO,24404,Maasholm,Hauptstraße,20,,54.68444845,9.99087405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBP,24404,Maasholm,Hauptstraße,21,,54.68437205,9.99089255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBQ,24404,Maasholm,Hauptstraße,22,,54.68432883,9.99089341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBR,24404,Maasholm,Hauptstraße,23,,54.68426201,9.99091902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBS,24404,Maasholm,Hauptstraße,24,,54.68421788,9.99092838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBT,24404,Maasholm,Hauptstraße,25,,54.68422362,9.99114563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBU,24404,Maasholm,Hauptstraße,25,a,54.68425584,9.99163695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBV,24404,Maasholm,Hauptstraße,26,,54.68413829,9.99094253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBW,24404,Maasholm,Hauptstraße,27,,54.68412502,9.99132453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBX,24404,Maasholm,Hauptstraße,28,,54.68403349,9.9909672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBY,24404,Maasholm,Hauptstraße,29,,54.68393566,9.99098183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBZ,24404,Maasholm,Hauptstraße,30,a,54.68381417,9.99100023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBa,24404,Maasholm,Exhöft,11,,54.69460892,9.99255907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBb,24404,Maasholm,Exhöft,12,,54.69444411,9.99251942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBc,24404,Maasholm,Exhöft,13,,54.69431131,9.99221193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBd,24404,Maasholm,Exhöft,14,,54.69406013,9.9923515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBe,24404,Maasholm,Exhöft,15,,54.69356085,9.9925268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBf,24404,Maasholm,Exhöft,2,,54.69587716,9.99302388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBg,24404,Maasholm,Exhöft,3,,54.69571962,9.99284745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBh,24404,Maasholm,Exhöft,4,,54.6956395,9.99299015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBi,24404,Maasholm,Exhöft,5,,54.69547789,9.99288413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBj,24404,Maasholm,Exhöft,6,,54.69535019,9.99278859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBk,24404,Maasholm,Exhöft,7,,54.69519572,9.99275256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBl,24404,Maasholm,Exhöft,7,a,54.69519742,9.99254049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBm,24404,Maasholm,Exhöft,8,,54.69503572,9.99277255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBn,24404,Maasholm,Exhöft,9,,54.6948928,9.99278885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBo,24404,Maasholm,Fischlaeger,1,,54.69905392,10.00102679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBp,24404,Maasholm,Fischlaeger,11,,54.69975859,10.00149638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBq,24404,Maasholm,Fischlaeger,168,,54.69943467,10.00165203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBr,24404,Maasholm,Fischlaeger,3,,54.69922065,10.00115899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBs,24404,Maasholm,Fischlaeger,5,,54.69930107,10.00069731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBt,24404,Maasholm,Fischlaeger,7,,54.6994188,10.00047369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBv,24404,Maasholm,Fliederweg,81,,54.68473666,9.98959521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBw,24404,Maasholm,Hafenweg,113,,54.68493869,9.98828856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBx,24404,Maasholm,Hafenweg,69,a,54.68510011,9.9901653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBy,24404,Maasholm,Hafenweg,69,b,54.68509502,9.98982862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoBz,24404,Maasholm,Hafenweg,69,c,54.68509637,9.98944958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC0,24404,Maasholm,Hauptstraße,30,b,54.68379822,9.99133521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC1,24404,Maasholm,Hauptstraße,30,c,54.68376691,9.99100848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC2,24404,Maasholm,Hauptstraße,31,,54.68371025,9.99104106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC3,24404,Maasholm,Hauptstraße,32,,54.68360442,9.99105191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC4,24404,Maasholm,Hauptstraße,33,,54.6835071,9.99108585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC5,24404,Maasholm,Hauptstraße,34,,54.68347193,9.99129416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC6,24404,Maasholm,Hauptstraße,35,,54.68338842,9.99110133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC7,24404,Maasholm,Hauptstraße,36,,54.68327762,9.99112227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC8,24404,Maasholm,Hauptstraße,37,,54.68317493,9.99115045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoC9,24404,Maasholm,Hauptstraße,38,,54.68304276,9.9911725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCA,24404,Maasholm,Hauptstraße,64,a,54.68466844,9.99064696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCB,24404,Maasholm,Hauptstraße,65,a,54.68476004,9.99064002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCC,24404,Maasholm,Hauptstraße,65,b,54.68472651,9.99064679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCD,24404,Maasholm,Hauptstraße,66,,54.68488407,9.99060501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCE,24404,Maasholm,Hauptstraße,67,,54.68495036,9.99035531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCF,24404,Maasholm,Hauptstraße,68,,54.68493792,9.990596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCG,24404,Maasholm,Hauptstraße,69,,54.68509146,9.99057945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCH,24404,Maasholm,Holm,139,,54.70068755,9.99978121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCI,24404,Maasholm,Holm,140,,54.70083842,9.99989482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCJ,24404,Maasholm,Holm,141,,54.70100017,9.99998373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCK,24404,Maasholm,Holm,142,,54.70114268,10.00006304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCL,24404,Maasholm,Holm,143,,54.70127941,10.00015182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCM,24404,Maasholm,Holm,144,,54.70142409,10.00028688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCN,24404,Maasholm,Holm,145,,54.70161968,10.00036423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCO,24404,Maasholm,Holm,145,a,54.7015613,10.00105141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCP,24404,Maasholm,Holm,145,b,54.70149883,10.00130383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCQ,24404,Maasholm,Holm,145,c,54.70147609,10.00161597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCR,24404,Maasholm,Holm,146,,54.70184813,10.00055334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCS,24404,Maasholm,Kiekut,148,d,54.70168486,10.00194344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCT,24404,Maasholm,Kiekut,160,,54.7018237,10.00292813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCU,24404,Maasholm,Kiekut,161,,54.70171226,10.00267361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCV,24404,Maasholm,Kiekut,162,,54.70163394,10.0024785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCW,24404,Maasholm,Kiekut,163,,54.70152546,10.00300277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCX,24404,Maasholm,Kiekut,164,,54.70147084,10.00308591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCY,24404,Maasholm,Kiekut,201,a,54.70022983,10.00127517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCZ,24404,Maasholm,Kiekut,201,b,54.70048728,10.00143087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCa,24404,Maasholm,Hauptstraße,39,,54.68294564,9.99119427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCb,24404,Maasholm,Hauptstraße,40,,54.68291314,9.99120035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCc,24404,Maasholm,Hauptstraße,41,,54.68278466,9.99122582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCd,24404,Maasholm,Hauptstraße,43,,54.68264086,9.99124968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCe,24404,Maasholm,Hauptstraße,44,,54.68294605,9.99076044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCf,24404,Maasholm,Hauptstraße,44,a,54.68293877,9.99057885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCg,24404,Maasholm,Hauptstraße,45,,54.68309464,9.9909608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCh,24404,Maasholm,Hauptstraße,46,,54.68316551,9.99095026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCj,24404,Maasholm,Hauptstraße,48,,54.68337967,9.99090454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCk,24404,Maasholm,Hauptstraße,49,,54.68348389,9.99088607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCl,24404,Maasholm,Hauptstraße,50,,54.68354964,9.99086911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCm,24404,Maasholm,Hauptstraße,51,,54.68360099,9.99086009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCn,24404,Maasholm,Hauptstraße,52,,54.68369471,9.9908416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCo,24404,Maasholm,Hauptstraße,53,,54.68379932,9.99081732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCp,24404,Maasholm,Hauptstraße,54,,54.68388061,9.99051716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCq,24404,Maasholm,Hauptstraße,55,,54.6839146,9.99078803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCr,24404,Maasholm,Hauptstraße,56,,54.6839804,9.99077362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCs,24404,Maasholm,Hauptstraße,57,,54.68411783,9.99074641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCt,24404,Maasholm,Hauptstraße,58,a,54.68422402,9.99072274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCu,24404,Maasholm,Hauptstraße,58,b,54.68422402,9.99072274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCv,24404,Maasholm,Hauptstraße,58,c,54.68421276,9.99056159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCw,24404,Maasholm,Hauptstraße,59,,54.68431757,9.99069879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCx,24404,Maasholm,Hauptstraße,60,,54.68443687,9.99067862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCy,24404,Maasholm,Hauptstraße,61,,54.68453031,9.9906701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoCz,24404,Maasholm,Hauptstraße,62,,54.68461382,9.99065129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD0,24404,Maasholm,Kiekut,202,a,54.70076308,10.00170267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD1,24404,Maasholm,Kiekut,202,b,54.70069945,10.00189056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD2,24404,Maasholm,Kiekut,202,c,54.70062427,10.00208475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD3,24404,Maasholm,Kiekut,202,d,54.70055938,10.00229941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD4,24404,Maasholm,Kiekut,202,e,54.70049352,10.00252733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD5,24404,Maasholm,Kiekut,202,f,54.70028099,10.0026879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD6,24404,Maasholm,Kiekut,203,a,54.70101453,10.00184828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD7,24404,Maasholm,Kiekut,203,b,54.7009419,10.00207014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD8,24404,Maasholm,Kiekut,203,c,54.70087003,10.00229967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoD9,24404,Maasholm,Kiekut,203,d,54.70079733,10.00251191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDA,24404,Maasholm,Lotsenweg,34,,54.70006151,9.99914083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDB,24404,Maasholm,Lotsenweg,35,,54.70019935,9.99926953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDC,24404,Maasholm,Lotsenweg,36,,54.70030727,9.99932711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDD,24404,Maasholm,Lotsenweg,37,,54.70045758,9.99939502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDE,24404,Maasholm,Lotsenweg,38,,54.70056607,9.99901182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDF,24404,Maasholm,Lotsenweg,39,,54.70041098,9.99882817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDG,24404,Maasholm,Lotsenweg,40,,54.70028956,9.99873921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDH,24404,Maasholm,Lotsenweg,41,,54.70018114,9.99865942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDI,24404,Maasholm,Lotsenweg,42,,54.70005014,9.99856442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDJ,24404,Maasholm,Lotsenweg,43,,54.69991247,9.99842493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDK,24404,Maasholm,Lotsenweg,44,,54.69983344,9.99820569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDL,24404,Maasholm,Luv,1,,54.69954493,10.00130358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDM,24404,Maasholm,Luv,3,,54.6996372,10.00082698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDN,24404,Maasholm,Luv,5,,54.69968352,10.00055182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDO,24404,Maasholm,Noorweg,100,,54.70126538,9.99767524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDP,24404,Maasholm,Noorweg,101,,54.70141839,9.99776136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDQ,24404,Maasholm,Noorweg,102,,54.70157553,9.99785112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDR,24404,Maasholm,Noorweg,103,,54.7017312,9.99792732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDS,24404,Maasholm,Noorweg,104,,54.70192265,9.99800942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDT,24404,Maasholm,Noorweg,105,,54.70104194,9.99799938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDU,24404,Maasholm,Noorweg,106,,54.70118628,9.99805224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDV,24404,Maasholm,Noorweg,107,,54.7013482,9.99813662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDW,24404,Maasholm,Noorweg,108,,54.7014983,9.99823192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDX,24404,Maasholm,Noorweg,109,,54.70165401,9.9983085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDY,24404,Maasholm,Noorweg,110,,54.70180476,9.99839614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDZ,24404,Maasholm,Noorweg,111,,54.70197169,9.99844652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDa,24404,Maasholm,Kiekut,203,e,54.70073038,10.00271761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDb,24404,Maasholm,Kiekut,204,a,54.70125133,10.0020326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDc,24404,Maasholm,Kiekut,204,b,54.70117376,10.00226271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDd,24404,Maasholm,Kiekut,204,c,54.70110349,10.00246516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDe,24404,Maasholm,Kiekut,204,d,54.70106187,10.0027163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDf,24404,Maasholm,Kiekut,204,e,54.70096974,10.0029158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDg,24404,Maasholm,Kiekut,205,a,54.70147533,10.00228121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDh,24404,Maasholm,Kiekut,205,b,54.70140433,10.00250147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDi,24404,Maasholm,Kiekut,205,c,54.7013352,10.00270757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDj,24404,Maasholm,Kiekut,205,d,54.70126886,10.00291705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDk,24404,Maasholm,Klönstieg,10,,54.70026567,9.99483068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDl,24404,Maasholm,Klönstieg,11,,54.70015905,9.99448641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDm,24404,Maasholm,Klönstieg,12,,54.70004021,9.99453485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDn,24404,Maasholm,Klönstieg,13,,54.6999864,9.99480153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDo,24404,Maasholm,Klönstieg,9,,54.70011545,9.99493537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDp,24404,Maasholm,Lee,169,,54.69937366,10.00198804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDq,24404,Maasholm,Lee,170,,54.69935794,10.00222125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDr,24404,Maasholm,Lee,171,,54.69916242,10.00198525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDs,24404,Maasholm,Lee,172,,54.69895438,10.00215597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDt,24404,Maasholm,Lee,173,,54.69902172,10.00173419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDu,24404,Maasholm,Lee,174,,54.69911616,10.00151165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDv,24404,Maasholm,Lotsenweg,30,,54.69959308,9.9984414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDw,24404,Maasholm,Lotsenweg,30,a,54.6996252,9.99865027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDx,24404,Maasholm,Lotsenweg,31,,54.69974946,9.99874066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDy,24404,Maasholm,Lotsenweg,32,,54.69985729,9.99892185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoDz,24404,Maasholm,Lotsenweg,33,,54.69996732,9.99904404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE0,24404,Maasholm,Noorweg,99,,54.70112345,9.99757729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE1,24404,Maasholm,Norderstraße,114,,54.68526863,9.98897645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE2,24404,Maasholm,Norderstraße,115,,54.68536339,9.98898162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE3,24404,Maasholm,Norderstraße,116,,54.68548375,9.98914322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE4,24404,Maasholm,Norderstraße,118,,54.68551023,9.9892728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE5,24404,Maasholm,Norderstraße,120,,54.68554142,9.98942783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE6,24404,Maasholm,Norderstraße,122,,54.68556876,9.98956085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE7,24404,Maasholm,Norderstraße,124,,54.68560546,9.98973765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE8,24404,Maasholm,Norderstraße,126,,54.68563107,9.98986245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoE9,24404,Maasholm,Norderstraße,130,,54.68569777,9.99002966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEA,24404,Maasholm,Oeher Ring,138,,54.70205006,10.00040145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEB,24404,Maasholm,Oeher Ring,147,,54.70185532,10.00088501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEC,24404,Maasholm,Oeher Ring,148,,54.70195198,10.00122381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoED,24404,Maasholm,Oeher Ring,148,a,54.70193878,10.00148719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEE,24404,Maasholm,Oeher Ring,148,b,54.70192997,10.00176156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEF,24404,Maasholm,Oeher Ring,148,c,54.70191516,10.00212588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEG,24404,Maasholm,Oeher Ring,149,,54.70221561,10.00076745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEH,24404,Maasholm,Oeher Ring,150,,54.70222297,10.00103897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEI,24404,Maasholm,Oeher Ring,151,,54.70219893,10.00131548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEJ,24404,Maasholm,Oeher Ring,152,,54.70219285,10.00163554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEK,24404,Maasholm,Oeher Ring,153,,54.70218307,10.00189443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEL,24404,Maasholm,Oeher Ring,154,,54.70219622,10.0022004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEM,24404,Maasholm,Oeher Ring,155,,54.70217295,10.00247449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEN,24404,Maasholm,Oeher Ring,156,,54.70218124,10.0027121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEO,24404,Maasholm,Oeher Ring,157,,54.70211994,10.00296185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEP,24404,Maasholm,Oeher Ring,158,,54.70214064,10.00327735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEQ,24404,Maasholm,Oeher Ring,159,,54.70186451,10.00318149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoER,24404,Maasholm,Oeher Ring,84,,54.70135852,9.99644699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoES,24404,Maasholm,Oeher Ring,85,,54.70144869,9.99668971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoET,24404,Maasholm,Oeher Ring,86,,54.70163913,9.99664281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEU,24404,Maasholm,Oeher Ring,87,,54.70179571,9.9968102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEV,24404,Maasholm,Oeher Ring,88,,54.70193433,9.99692285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEW,24404,Maasholm,Oeher Ring,89,,54.70208703,9.99712723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEX,24404,Maasholm,Oeher Ring,90,,54.70218269,9.99737024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEY,24404,Maasholm,Oeher Ring,91,,54.70224728,9.99765784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEZ,24404,Maasholm,Oeher Ring,92,,54.70223587,9.99796252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEa,24404,Maasholm,Norderstraße,131,,54.68559695,9.99013998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEb,24404,Maasholm,Norderstraße,132,,54.68572164,9.99033115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEc,24404,Maasholm,Norderstraße,134,,54.68575064,9.99046337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEd,24404,Maasholm,Oehe,1,,54.70631537,10.00018735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEe,24404,Maasholm,Oehe,10,,54.70582843,9.99974983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEf,24404,Maasholm,Oehe,11,,54.70607097,10.00022046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEg,24404,Maasholm,Oehe,12,,54.70634872,10.00073787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEh,24404,Maasholm,Oehe,2,,54.70627481,10.00010589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEi,24404,Maasholm,Oehe,3,,54.70618295,9.99992156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEj,24404,Maasholm,Oehe,4,,54.70613758,9.99983031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEk,24404,Maasholm,Oehe,5,,54.70599916,9.99954639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEl,24404,Maasholm,Oehe,6,,54.70595509,9.99945703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEm,24404,Maasholm,Oehe,7,,54.70583513,9.99922592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEn,24404,Maasholm,Oehe,8,,54.70576989,9.99911553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEo,24404,Maasholm,Oeher Ring,112,,54.70223269,9.99824961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEp,24404,Maasholm,Oeher Ring,113,,54.702229,9.99853938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEq,24404,Maasholm,Oeher Ring,114,,54.70223273,9.99881535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEr,24404,Maasholm,Oeher Ring,115,,54.70224094,9.99906385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEs,24404,Maasholm,Oeher Ring,116,,54.70213892,9.99937037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEt,24404,Maasholm,Oeher Ring,132,,54.70198847,9.99955513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEu,24404,Maasholm,Oeher Ring,133,,54.70222541,9.99963439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEv,24404,Maasholm,Oeher Ring,134,,54.70222374,9.99992756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEw,24404,Maasholm,Oeher Ring,135,,54.70224194,10.00018899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEx,24404,Maasholm,Oeher Ring,136,,54.70222652,10.0005177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEy,24404,Maasholm,Oeher Ring,137,,54.7020294,9.99987686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoEz,24404,Maasholm,Oeher Ring,137,a,54.70203281,10.00014812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF0,24404,Maasholm,Oeher Ring,93,,54.70126138,9.99689666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF1,24404,Maasholm,Oeher Ring,94,a,54.70142575,9.99697447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF2,24404,Maasholm,Oeher Ring,94,b,54.70137495,9.99694446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF3,24404,Maasholm,Oeher Ring,95,a,54.70157592,9.99709825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF4,24404,Maasholm,Oeher Ring,95,b,54.70152499,9.99706894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF5,24404,Maasholm,Oeher Ring,96,,54.70166659,9.99720638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF6,24404,Maasholm,Oeher Ring,96,a,54.70171483,9.99723424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF7,24404,Maasholm,Oeher Ring,97,,54.70183756,9.99738296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF8,24404,Maasholm,Oeher Ring,98,,54.70196382,9.99756367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoF9,24404,Maasholm,Oeher Weg,1,,54.69997496,9.99406288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFA,24404,Maasholm,Schleimünder Straße,253,,54.69996313,10.0009866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFB,24404,Maasholm,Schleimünder Straße,61,,54.70093795,9.99705429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFC,24404,Maasholm,Schleimünder Straße,62,,54.70091597,9.99728381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFD,24404,Maasholm,Schleimünder Straße,63,,54.70084642,9.99751924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFE,24404,Maasholm,Schleimünder Straße,64,,54.70080396,9.99774002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFF,24404,Maasholm,Schleimünder Straße,65,,54.70075655,9.99797945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFG,24404,Maasholm,Schleimünder Straße,66,,54.70071242,9.99820477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFH,24404,Maasholm,Schleimünder Straße,67,,54.70067491,9.99839615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFI,24404,Maasholm,Schleimünder Straße,68,,54.70063233,9.99861536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFJ,24404,Maasholm,Seeberg,1,,54.69563772,10.01541087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFK,24404,Maasholm,Seebergweg,1,,54.70009396,10.00031587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFL,24404,Maasholm,Seebergweg,11,,54.69923147,10.0000057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFM,24404,Maasholm,Seebergweg,13,,54.6989614,10.00028669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFN,24404,Maasholm,Seebergweg,15,,54.69886088,10.00052809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFO,24404,Maasholm,Seebergweg,17,,54.69879575,10.00086272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFP,24404,Maasholm,Seebergweg,175,,54.69878237,10.00129357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFQ,24404,Maasholm,Seebergweg,176,,54.69872891,10.00155124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFR,24404,Maasholm,Seebergweg,177,,54.69858194,10.00178322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFS,24404,Maasholm,Seebergweg,178,,54.69856785,10.00207295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFT,24404,Maasholm,Seebergweg,185,,54.6987292,10.00016621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFU,24404,Maasholm,Seebergweg,212,,54.6992036,9.99942399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFV,24404,Maasholm,Seebergweg,213,a,54.69959407,9.99970181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFW,24404,Maasholm,Seebergweg,213,b,54.69973507,9.99978848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFX,24404,Maasholm,Seebergweg,213,c,54.69988459,9.99987797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFY,24404,Maasholm,Seebergweg,3,,54.6999284,10.00024869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFZ,24404,Maasholm,Seebergweg,5,,54.69976969,10.00016137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFa,24404,Maasholm,Schleibogen,1,,54.70110001,9.99622613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFb,24404,Maasholm,Schleibogen,2,,54.70096456,9.99612832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFc,24404,Maasholm,Schleibogen,3,,54.70089604,9.99597476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFd,24404,Maasholm,Schleibogen,4,,54.70074749,9.99579845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFe,24404,Maasholm,Schleibogen,5,,54.70064719,9.99566156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFf,24404,Maasholm,Schleibogen,54,,54.70019575,9.99568997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFg,24404,Maasholm,Schleibogen,54,a,54.70030935,9.99586935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFh,24404,Maasholm,Schleibogen,55,,54.70042622,9.99603093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFi,24404,Maasholm,Schleibogen,56,,54.70052076,9.9961336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFj,24404,Maasholm,Schleibogen,57,,54.70063976,9.99629767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFk,24404,Maasholm,Schleibogen,58,,54.70075265,9.99641614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFl,24404,Maasholm,Schleibogen,59,,54.70087354,9.9965712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFm,24404,Maasholm,Schleibogen,6,,54.70056321,9.99553569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFn,24404,Maasholm,Schleibogen,60,,54.70100374,9.99670591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFo,24404,Maasholm,Schleibogen,7,,54.70044982,9.99535711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFp,24404,Maasholm,Schleibogen,7,a,54.70034399,9.99520281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFq,24404,Maasholm,Schleibogen,8,,54.70010167,9.99522824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFr,24404,Maasholm,Schleimünder Straße,165,,54.6997107,10.00244923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFs,24404,Maasholm,Schleimünder Straße,166,,54.69971837,10.00215544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFt,24404,Maasholm,Schleimünder Straße,167,,54.69978991,10.0019118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFu,24404,Maasholm,Schleimünder Straße,208,,54.6999567,10.00252199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFv,24404,Maasholm,Schleimünder Straße,208,b,54.70014553,10.00173955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFw,24404,Maasholm,Schleimünder Straße,208,f,54.70001774,10.00221804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFx,24404,Maasholm,Schleimünder Straße,208,g,54.70020278,10.00236174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFy,24404,Maasholm,Schleimünder Straße,218,,54.69992374,10.00117825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoFz,24404,Maasholm,Schleimünder Straße,219,,54.69988313,10.00146445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG0,24404,Maasholm,Seebergweg,7,,54.69959659,10.00006551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG1,24404,Maasholm,Seebergweg,9,,54.69941992,10.00001787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG2,24404,Maasholm,Smuggelstieg,190,,54.69837433,10.00020366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG3,24404,Maasholm,Smuggelstieg,191,,54.69850964,10.00015766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG4,24404,Maasholm,Smuggelstieg,192,,54.69815092,10.00025017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG5,24404,Maasholm,Smuggelstieg,193,,54.69812393,10.00001463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG6,24404,Maasholm,Smuggelstieg,194,,54.69809119,9.99976758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG7,24404,Maasholm,Smuggelstieg,195,,54.69803672,9.9994682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG8,24404,Maasholm,Smuggelstieg,196,,54.69796937,9.99917847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoG9,24404,Maasholm,Smuggelstieg,196,a,54.69792522,9.99893029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGA,24404,Maasholm,Tüünlüüd,3,,54.68607848,9.99310061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGB,24404,Maasholm,Tüünlüüd,4,,54.68588284,9.99320786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGC,24404,Maasholm,Tüünlüüd,5,,54.68575416,9.99339368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGD,24404,Maasholm,Tüünlüüd,6,,54.68592155,9.99382743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGE,24404,Maasholm,Tüünlüüd,7,,54.6861194,9.99377827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGF,24404,Maasholm,Tüünlüüd,8,,54.68625655,9.99357975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGG,24404,Maasholm,Tüünlüüd,9,,54.68643218,9.99342842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGH,24404,Maasholm,Uleweg,10,,54.68476753,9.99203565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGI,24404,Maasholm,Uleweg,16,,54.6840625,9.99236513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGJ,24404,Maasholm,Uleweg,18,,54.68392788,9.99243209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGK,24404,Maasholm,Uleweg,19,,54.68378969,9.99249149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGL,24404,Maasholm,Uleweg,22,,54.68348498,9.99253145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGM,24404,Maasholm,Uleweg,23,,54.6833458,9.99239243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGN,24404,Maasholm,Uleweg,26,,54.68309745,9.99261225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGO,24404,Maasholm,Uleweg,27,,54.68307787,9.99287873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGP,24404,Maasholm,Uleweg,29,,54.68279998,9.99294466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGQ,24404,Maasholm,Uleweg,3,,54.68590008,9.99163982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGR,24404,Maasholm,Uleweg,31,,54.68303661,9.99366964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGS,24404,Maasholm,Uleweg,36,,54.68367753,9.99299369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGT,24404,Maasholm,Uleweg,37,,54.68385872,9.99289639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGU,24404,Maasholm,Uleweg,38,,54.68400722,9.99285312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGV,24404,Maasholm,Uleweg,39,,54.68415578,9.99278595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGW,24404,Maasholm,Uleweg,4,,54.68576963,9.9916852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGX,24404,Maasholm,Uleweg,40,,54.68434158,9.99270753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGY,24404,Maasholm,Uleweg,41,,54.68451842,9.99265212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGZ,24404,Maasholm,Uleweg,42,,54.68467796,9.99257832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGa,24404,Maasholm,Smuggelstieg,197,a,54.69855719,10.00054375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGb,24404,Maasholm,Smuggelstieg,197,b,54.69841622,10.00063622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGh,24404,Maasholm,Smuggelstieg,199,a,54.69815282,10.00055641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGi,24404,Maasholm,Smuggelstieg,199,b,54.69813627,10.00082119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGj,24404,Maasholm,Smuggelstieg,199,c,54.69812173,10.00111114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGk,24404,Maasholm,Smuggelstieg,200,a,54.69809184,10.00129166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGl,24404,Maasholm,Smuggelstieg,200,b,54.69815564,10.00162223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGm,24404,Maasholm,Smuggelstieg,200,c,54.69814751,10.00189397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGn,24404,Maasholm,Strandweg,1,,54.68269429,9.99276223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGo,24404,Maasholm,Strandweg,2,,54.68272625,9.9926098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGp,24404,Maasholm,Strandweg,3,,54.68274654,9.99253302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGq,24404,Maasholm,Strandweg,4,,54.68272637,9.99245631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGr,24404,Maasholm,Strandweg,5,,54.68273021,9.99238047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGs,24404,Maasholm,Strandweg,6,,54.68271955,9.99224033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGt,24404,Maasholm,Strandweg,6,a,54.68292385,9.99224458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGu,24404,Maasholm,Strandweg,7,,54.68271141,9.99201629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGv,24404,Maasholm,Strandweg,8,,54.68273324,9.99174534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGw,24404,Maasholm,Strandweg,9,,54.68277365,9.99149613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGx,24404,Maasholm,Tüünlüüd,1,,54.68637277,9.99290478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGy,24404,Maasholm,Tüünlüüd,10,,54.68653297,9.99321128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoGz,24404,Maasholm,Tüünlüüd,2,,54.68622531,9.99301256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH0,24404,Maasholm,Uleweg,43,,54.68485012,9.99252058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH1,24404,Maasholm,Uleweg,44,,54.68503167,9.99246162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH2,24404,Maasholm,Uleweg,45,,54.6852038,9.9924502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH3,24404,Maasholm,Uleweg,47,,54.68552597,9.99217907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH4,24404,Maasholm,Uleweg,48,,54.68566792,9.99211706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH5,24404,Maasholm,Uleweg,49,,54.68580135,9.99205173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH6,24404,Maasholm,Uleweg,50,,54.68592503,9.9919814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH7,24404,Maasholm,Uleweg,51,,54.68606036,9.99193897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH8,24404,Maasholm,Uleweg,6,,54.68527048,9.99186139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoH9,24404,Maasholm,Uleweg,7,,54.68516264,9.99190041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHA,24404,Maasholm,Westerstraße,90,,54.68380638,9.98932776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHB,24404,Maasholm,Westerstraße,91,,54.68369224,9.98934729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHC,24404,Maasholm,Westerstraße,92,,54.68359019,9.98938326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHD,24404,Maasholm,Westerstraße,93,,54.68348922,9.98942115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHE,24404,Maasholm,Westerstraße,94,,54.68339021,9.98941638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHF,24404,Maasholm,Westerstraße,95,,54.68328189,9.98949984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHG,24404,Maasholm,Westerstraße,96,,54.68316671,9.98953961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHH,24404,Maasholm,Westerstraße,99,,54.6837333,9.98883618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHI,24404,Maasholm,Westerstraße,99,a,54.68373892,9.98919314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHa,24404,Maasholm,Uleweg,8,,54.68503161,9.99196615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHb,24404,Maasholm,Uleweg,9,,54.68490818,9.9920217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHc,24404,Maasholm,Westerstraße,100,,54.68385812,9.98917049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHd,24404,Maasholm,Westerstraße,101,,54.68392823,9.98915815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHe,24404,Maasholm,Westerstraße,102,,54.68406215,9.98914107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHf,24404,Maasholm,Westerstraße,102,a,54.68399027,9.98893536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHg,24404,Maasholm,Westerstraße,104,,54.68416355,9.98912556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHh,24404,Maasholm,Westerstraße,105,,54.68425553,9.98910548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHi,24404,Maasholm,Westerstraße,106,,54.68436126,9.9890701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHj,24404,Maasholm,Westerstraße,107,,54.68447943,9.98907765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHk,24404,Maasholm,Westerstraße,108,,54.68458721,9.98906437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHl,24404,Maasholm,Westerstraße,109,,54.68470145,9.98905258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHm,24404,Maasholm,Westerstraße,110,,54.68481708,9.98903316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHn,24404,Maasholm,Westerstraße,111,,54.6849323,9.98903007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHo,24404,Maasholm,Westerstraße,112,,54.68504696,9.98901612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHp,24404,Maasholm,Westerstraße,77,,54.6850647,9.98917602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHq,24404,Maasholm,Westerstraße,78,,54.68491579,9.98919073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHr,24404,Maasholm,Westerstraße,79,,54.68481958,9.98920255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHs,24404,Maasholm,Westerstraße,80,,54.68473673,9.98921534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHt,24404,Maasholm,Westerstraße,82,,54.6846514,9.98921965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHu,24404,Maasholm,Westerstraße,83,,54.68457527,9.98922591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHv,24404,Maasholm,Westerstraße,84,,54.68448529,9.98923499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHw,24404,Maasholm,Westerstraße,85,,54.68437182,9.98924465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHx,24404,Maasholm,Westerstraße,86,,54.68423421,9.98926847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHy,24404,Maasholm,Westerstraße,87,,54.68410368,9.98928771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHz,24404,Maasholm,Westerstraße,89,,54.68390807,9.98931374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozA,24404,Maasholm,Schmiedestraße,11,,54.68531477,9.9908372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozB,24404,Maasholm,Schmiedestraße,12,,54.68521462,9.9907874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozC,24404,Maasholm,Schmiedestraße,133,,54.68547924,9.99065274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozD,24404,Maasholm,Schmiedestraße,133,a,54.6855779,9.99067514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozE,24404,Maasholm,Schmiedestraße,135,,54.6856462,9.99081428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozF,24404,Maasholm,Schmiedestraße,136,,54.68576109,9.99087875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozG,24404,Maasholm,Schmiedestraße,137,,54.68590047,9.9909119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozH,24404,Maasholm,Schmiedestraße,138,,54.68601385,9.99099716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozI,24404,Maasholm,Schmiedestraße,140,,54.68619984,9.99096145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozJ,24404,Maasholm,Schmiedestraße,2,,54.6860796,9.99120539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozK,24404,Maasholm,Schmiedestraße,3,,54.68597283,9.99117204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozL,24404,Maasholm,Schmiedestraße,4,,54.68588237,9.99113462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozM,24404,Maasholm,Schmiedestraße,5,,54.68579172,9.99109042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozN,24404,Maasholm,Schmiedestraße,6,,54.68570127,9.99103915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozO,24404,Maasholm,Schmiedestraße,7,,54.68564126,9.9910086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozP,24404,Maasholm,Schmiedestraße,8,,54.68556102,9.99096518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozQ,24404,Maasholm,Schmiedestraße,9,,54.68548049,9.99092266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozR,24404,Maasholm,Am Gehege,14,,54.69988411,9.99495728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozS,24404,Maasholm,Am Gehege,15,,54.69984036,9.99521241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozT,24404,Maasholm,Am Gehege,16,,54.69983052,9.99544196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozU,24404,Maasholm,Am Gehege,17,,54.69979108,9.99568111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozV,24404,Maasholm,Am Gehege,18,,54.699777,9.99588082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozW,24404,Maasholm,Am Gehege,19,,54.69973934,9.99619167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozX,24404,Maasholm,Am Gehege,20,,54.69971112,9.9964236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozY,24404,Maasholm,Am Gehege,21,,54.69968719,9.99662177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NozZ,24404,Maasholm,Am Gehege,22,,54.69965723,9.99688308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nozx,24404,Maasholm,Schmiedestraße,1,,54.68618423,9.9912123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nozy,24404,Maasholm,Schmiedestraße,10,,54.68539856,9.99087591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nozz,24404,Maasholm,Schmiedestraße,10,a,54.68535948,9.9911066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KBih,24404,Maasholm,Oehe,1,a,54.70711301,10.00299113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZLaR,24404,Maasholm,Hauptstraße,49,a,54.6834182,9.99059265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZLae,24404,Maasholm,Fliederweg,5,,54.68453307,9.98977437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZLai,24404,Maasholm,Hauptstraße,17,,54.68470531,9.99083462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZLao,24404,Maasholm,Hauptstraße,47,,54.68327244,9.99093946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005eZVd,24404,Maasholm,Uleweg,24,,54.68326172,9.99259098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCnJ,24404,Maasholm,Am Gretchenweg,16,,54.68726609,9.99459776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCnT,24404,Maasholm,Am Gretchenweg,15,,54.68737319,9.99484795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCo8,24404,Maasholm,Am Gretchenweg,18,,54.68698118,9.99410978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCo9,24404,Maasholm,Am Gretchenweg,14,,54.68759862,9.99494161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCoC,24404,Maasholm,Am Gretchenweg,12,,54.6871517,9.99489719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCoS,24404,Maasholm,Am Gretchenweg,11,,54.68702377,9.99464962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCom,24404,Maasholm,Am Gretchenweg,17,,54.68711387,9.99439266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xCor,24404,Maasholm,Am Gretchenweg,13,,54.68746382,9.99526968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060iw8,24404,Maasholm,Uleweg,30,,54.68244335,9.99316428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PAhi,24404,Maasholm,Kiekut,201,c,54.70043482,10.00169696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ZbO8,24404,Maasholm,Schleimünder Straße,208,e,54.70006927,10.00200396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fSGP,24404,Maasholm,Westerstraße,99,b,54.68344231,9.98916911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007NbhD,24404,Maasholm,Oehe,9,,54.70553038,9.99878556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuO7,24404,Maasholm,Seebergweg,198,a,54.69851985,10.00093247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuOL,24404,Maasholm,Seebergweg,198,c,54.69849924,10.00148168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuOP,24404,Maasholm,Seebergweg,198,d,54.69847873,10.00169885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuOU,24404,Maasholm,Seebergweg,198,e,54.69839731,10.00195844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuOb,24404,Maasholm,Seebergweg,198,b,54.69847533,10.00118105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cGU6,24404,Maasholm,Schleimünder Straße,208,a,54.70017439,10.0015398

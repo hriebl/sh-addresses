@@ -1,0 +1,329 @@
+# Amtliche Adressen für die Postleitzahl 24625
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7X,24625,Negenharrie,Busdorfer Weg,1,,54.11892524,10.05891304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7Y,24625,Negenharrie,Busdorfer Weg,1,a,54.11910986,10.05872908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD7Z,24625,Negenharrie,Busdorfer Weg,1,b,54.11905895,10.05876074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD80,24625,Negenharrie,Busdorfer Weg,10,,54.11835441,10.05927476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD81,24625,Negenharrie,Busdorfer Weg,2,,54.1189093,10.05816772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD82,24625,Negenharrie,Busdorfer Weg,3,,54.11874409,10.0592716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD83,24625,Negenharrie,Busdorfer Weg,4,,54.11869074,10.05863875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD84,24625,Negenharrie,Busdorfer Weg,5,,54.11858518,10.05975109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD85,24625,Negenharrie,Busdorfer Weg,6,,54.11867564,10.05891269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD86,24625,Negenharrie,Busdorfer Weg,8,,54.11850479,10.0590164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD87,24625,Negenharrie,Dorfstraße,1,,54.11933293,10.04819944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD88,24625,Negenharrie,Dorfstraße,11,,54.12035092,10.04661958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD89,24625,Negenharrie,Dorfstraße,13,,54.12090815,10.04517178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8A,24625,Negenharrie,Einfelder Weg,3,,54.11892877,10.04615054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8B,24625,Negenharrie,Einfelder Weg,6,,54.11924415,10.04590384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8C,24625,Negenharrie,Großharriefeld,1,a,54.12028905,10.06563172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8D,24625,Negenharrie,Großharriefeld,2,,54.11773829,10.07797821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8E,24625,Negenharrie,Großharriefeld,3,,54.12020583,10.06596478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8F,24625,Negenharrie,Großharriefeld,4,,54.12257055,10.10277692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8G,24625,Negenharrie,Großharriefeld,5,,54.11868261,10.10053738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8H,24625,Negenharrie,Großharriefeld,7,,54.1188361,10.10158406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8I,24625,Negenharrie,Hörn,1,,54.12076674,10.04845172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8J,24625,Negenharrie,Hörn,2,,54.1210271,10.04886237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8K,24625,Negenharrie,Hörn,4,,54.12170263,10.04954275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8L,24625,Negenharrie,Kleinharrierredder,10,,54.13026367,10.09872097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8M,24625,Negenharrie,Kleinharrierredder,12,,54.12839043,10.10360867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8N,24625,Negenharrie,Kleinharrierredder,12,a,54.12788186,10.1042252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8O,24625,Negenharrie,Kleinharrierredder,14,,54.12711796,10.10488459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8P,24625,Negenharrie,Kleinharrierredder,16,,54.12703837,10.104856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8Q,24625,Negenharrie,Kleinharrierredder,18,,54.12569452,10.10638176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8R,24625,Negenharrie,Kleinharrierredder,6,,54.13262097,10.09584051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8S,24625,Negenharrie,Kleinharrierredder,8,,54.13072324,10.09761038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8T,24625,Negenharrie,Kleinharrierstraße,1,,54.11977806,10.05991454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8U,24625,Negenharrie,Kleinharrierstraße,10,,54.12095325,10.06019611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8V,24625,Negenharrie,Kleinharrierstraße,12,,54.12119433,10.060107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8W,24625,Negenharrie,Kleinharrierstraße,13,,54.12097942,10.05965394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8X,24625,Negenharrie,Kleinharrierstraße,14,,54.12142221,10.06012174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8Y,24625,Negenharrie,Kleinharrierstraße,15,,54.12126668,10.05937419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8Z,24625,Negenharrie,Kleinharrierstraße,16,,54.12171074,10.06000475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8a,24625,Negenharrie,Dorfstraße,15,,54.12081006,10.04672893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8b,24625,Negenharrie,Dorfstraße,17,,54.12073112,10.04702483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8c,24625,Negenharrie,Dorfstraße,19,,54.12076771,10.04746337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8d,24625,Negenharrie,Dorfstraße,2,,54.11933681,10.04861044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8e,24625,Negenharrie,Dorfstraße,21,,54.12107445,10.04819515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8f,24625,Negenharrie,Dorfstraße,23,,54.12066408,10.04797044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8g,24625,Negenharrie,Dorfstraße,25,,54.12040427,10.04885272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8h,24625,Negenharrie,Dorfstraße,27,,54.12008089,10.04946993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8i,24625,Negenharrie,Dorfstraße,29,,54.12009971,10.04987568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8j,24625,Negenharrie,Dorfstraße,29,a,54.12021141,10.05034687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8k,24625,Negenharrie,Dorfstraße,3,,54.11985372,10.04805044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8l,24625,Negenharrie,Dorfstraße,31,,54.11996056,10.05051933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8m,24625,Negenharrie,Dorfstraße,33,,54.11993899,10.05082897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8n,24625,Negenharrie,Dorfstraße,35,,54.1198191,10.05142112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8o,24625,Negenharrie,Dorfstraße,37,,54.11978447,10.0518346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8p,24625,Negenharrie,Dorfstraße,39,,54.11948034,10.05174727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8q,24625,Negenharrie,Dorfstraße,4,,54.1197621,10.04986573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8r,24625,Negenharrie,Dorfstraße,5,,54.11992045,10.04768737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8s,24625,Negenharrie,Dorfstraße,6,,54.11975398,10.05027901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8t,24625,Negenharrie,Dorfstraße,7,,54.11957462,10.0466373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8u,24625,Negenharrie,Dorfstraße,8,,54.11974427,10.05056179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8v,24625,Negenharrie,Dorfstraße,9,,54.12015314,10.04718711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8w,24625,Negenharrie,Einfelder Weg,1,,54.11887139,10.04646149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8x,24625,Negenharrie,Einfelder Weg,12,,54.11935312,10.04499516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8y,24625,Negenharrie,Einfelder Weg,14,,54.11928263,10.04227453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD8z,24625,Negenharrie,Einfelder Weg,16,,54.11928311,10.04172715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD90,24625,Negenharrie,Kleinharrierstraße,17,,54.12163287,10.05927741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD91,24625,Negenharrie,Kleinharrierstraße,18,,54.12194248,10.06043382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD92,24625,Negenharrie,Kleinharrierstraße,19,,54.12211815,10.05982293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD93,24625,Negenharrie,Kleinharrierstraße,2,,54.12000315,10.06055703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD94,24625,Negenharrie,Kleinharrierstraße,2,a,54.12016917,10.06044559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD95,24625,Negenharrie,Kleinharrierstraße,20,,54.12204795,10.06080602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD96,24625,Negenharrie,Kleinharrierstraße,21,,54.12232322,10.06006808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD97,24625,Negenharrie,Kleinharrierstraße,22,,54.12211077,10.06111419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD98,24625,Negenharrie,Kleinharrierstraße,23,,54.12231927,10.06145657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD99,24625,Negenharrie,Kleinharrierstraße,24,,54.1220222,10.06170548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9A,24625,Negenharrie,Lehmsiekweg,4,,54.11806927,10.04993799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9B,24625,Negenharrie,Lehmsiekweg,5,,54.11781664,10.05097128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9C,24625,Negenharrie,Lehmsiekweg,6,,54.1178388,10.05020138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9D,24625,Negenharrie,Lehmsiekweg,7,,54.11764134,10.05136028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9E,24625,Negenharrie,Lehmsiekweg,8,,54.11774125,10.05051138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9F,24625,Negenharrie,Lehmsiekweg,9,,54.11752614,10.05149177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9G,24625,Negenharrie,Preetzer Landstraße,1,,54.1171821,10.04453837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9H,24625,Negenharrie,Preetzer Landstraße,1,a,54.11747928,10.04531778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9I,24625,Negenharrie,Preetzer Landstraße,10,,54.11831446,10.04700174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9J,24625,Negenharrie,Preetzer Landstraße,11,,54.11830556,10.04629841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9K,24625,Negenharrie,Preetzer Landstraße,12,,54.11844175,10.04725633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9L,24625,Negenharrie,Preetzer Landstraße,13,,54.11840713,10.046506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9M,24625,Negenharrie,Preetzer Landstraße,15,,54.11851455,10.0466963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9N,24625,Negenharrie,Preetzer Landstraße,16,,54.11866982,10.04770532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9O,24625,Negenharrie,Preetzer Landstraße,17,,54.11877239,10.04717627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9P,24625,Negenharrie,Preetzer Landstraße,18,,54.11877632,10.04796908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9Q,24625,Negenharrie,Preetzer Landstraße,19,,54.11921271,10.04967705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9R,24625,Negenharrie,Preetzer Landstraße,2,,54.11761419,10.04603885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9S,24625,Negenharrie,Preetzer Landstraße,20,,54.11876872,10.04836377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9T,24625,Negenharrie,Preetzer Landstraße,21,,54.11921333,10.05015452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9U,24625,Negenharrie,Preetzer Landstraße,22,,54.11871578,10.04985981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9V,24625,Negenharrie,Preetzer Landstraße,23,,54.11929026,10.0505211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9W,24625,Negenharrie,Preetzer Landstraße,24,,54.11893103,10.05009853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9Y,24625,Negenharrie,Preetzer Landstraße,26,,54.11890227,10.05074428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9Z,24625,Negenharrie,Preetzer Landstraße,28,,54.11913763,10.05137007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9a,24625,Negenharrie,Kleinharrierstraße,25,,54.12273034,10.06255194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9b,24625,Negenharrie,Kleinharrierstraße,26,,54.12203824,10.06217239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9c,24625,Negenharrie,Kleinharrierstraße,3,,54.11987946,10.05944176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9d,24625,Negenharrie,Kleinharrierstraße,30,,54.12207782,10.06297401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9e,24625,Negenharrie,Kleinharrierstraße,32,,54.1219837,10.06342438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9f,24625,Negenharrie,Kleinharrierstraße,34,,54.12165976,10.06391663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9g,24625,Negenharrie,Kleinharrierstraße,36,,54.12193318,10.06399811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9h,24625,Negenharrie,Kleinharrierstraße,38,,54.12184544,10.06438775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9i,24625,Negenharrie,Kleinharrierstraße,4,,54.12035479,10.06038152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9j,24625,Negenharrie,Kleinharrierstraße,40,,54.12133561,10.06677123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9k,24625,Negenharrie,Kleinharrierstraße,5,,54.12014988,10.05977785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9l,24625,Negenharrie,Kleinharrierstraße,6,,54.12052669,10.06030913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9m,24625,Negenharrie,Kleinharrierstraße,7,,54.12034022,10.05972978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9n,24625,Negenharrie,Kleinharrierstraße,8,,54.12070597,10.06027639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9o,24625,Negenharrie,Kleinharrierstraße,9,,54.12059398,10.05978647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9p,24625,Negenharrie,Lehmsiekweg,1,,54.11816778,10.05062677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9q,24625,Negenharrie,Lehmsiekweg,1,a,54.11832764,10.05033891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9r,24625,Negenharrie,Lehmsiekweg,10,,54.11751542,10.05076905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9s,24625,Negenharrie,Lehmsiekweg,11,,54.11739293,10.05154987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9t,24625,Negenharrie,Lehmsiekweg,13,,54.11722927,10.05166333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9u,24625,Negenharrie,Lehmsiekweg,15,,54.11692517,10.05185802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9v,24625,Negenharrie,Lehmsiekweg,17,,54.11672072,10.05199388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9w,24625,Negenharrie,Lehmsiekweg,19,,54.11654273,10.05212661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9x,24625,Negenharrie,Lehmsiekweg,21,,54.11623632,10.0523217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9y,24625,Negenharrie,Lehmsiekweg,23,,54.11561848,10.05267741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bD9z,24625,Negenharrie,Lehmsiekweg,3,,54.11809353,10.05089258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa0,24625,Negenharrie,Preetzer Landstraße,29,,54.11940533,10.05269743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa1,24625,Negenharrie,Preetzer Landstraße,31,,54.11932444,10.05305406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa2,24625,Negenharrie,Preetzer Landstraße,32,,54.11908335,10.05256921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa3,24625,Negenharrie,Preetzer Landstraße,32,a,54.11868711,10.05279141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa4,24625,Negenharrie,Preetzer Landstraße,33,,54.11910801,10.05364485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa5,24625,Negenharrie,Preetzer Landstraße,33,a,54.11908835,10.05390418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa6,24625,Negenharrie,Preetzer Landstraße,34,,54.11888838,10.05324252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa7,24625,Negenharrie,Preetzer Landstraße,34,a,54.11867059,10.05357502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa8,24625,Negenharrie,Preetzer Landstraße,34,b,54.11865067,10.05370611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDa9,24625,Negenharrie,Preetzer Landstraße,35,,54.1190227,10.05434191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaA,24625,Negenharrie,Preetzer Landstraße,61,,54.1196653,10.05988168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaB,24625,Negenharrie,Preetzer Landstraße,63,,54.12068616,10.0651895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaC,24625,Negenharrie,Preetzer Landstraße,7,,54.11794271,10.04568753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaD,24625,Negenharrie,Preetzer Landstraße,8,,54.11804609,10.04661528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaE,24625,Negenharrie,Preetzer Landstraße,9,,54.11804749,10.04595643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaF,24625,Negenharrie,Preetzer Landstraße,9,a,54.11813246,10.04591555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaG,24625,Negenharrie,Brauner Hirsch,1,,54.13325615,10.09345616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaH,24625,Negenharrie,Brauner Hirsch,2,,54.13349602,10.09340188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaI,24625,Negenharrie,Brauner Hirsch,3,,54.13327999,10.09447807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaJ,24625,Negenharrie,Am Wohlbach,2,,54.12018635,10.05901083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaK,24625,Negenharrie,Am Wohlbach,4,,54.12025876,10.05873442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaL,24625,Negenharrie,Am Wohlbach,6,,54.12023328,10.05853052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaM,24625,Negenharrie,Am Wohlbach,8,,54.12025548,10.05793422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaN,24625,Negenharrie,Wischhof,1,,54.12063289,10.05926164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaO,24625,Negenharrie,Wischhof,2,,54.12085972,10.05874211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaP,24625,Negenharrie,Wischhof,3,,54.12062714,10.05890911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaQ,24625,Negenharrie,Wischhof,4,,54.12087353,10.05833062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaR,24625,Negenharrie,Wischhof,5,,54.12060177,10.0583925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaS,24625,Negenharrie,Wischhof,7,,54.12053742,10.0579613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaT,24625,Negenharrie,Feldscheide,1,,54.12083126,10.06801151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaU,24625,Negenharrie,Feldscheide,2,,54.12136575,10.06856249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaa,24625,Negenharrie,Preetzer Landstraße,35,a,54.11899943,10.05461537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDab,24625,Negenharrie,Preetzer Landstraße,36,,54.11857439,10.0540189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDac,24625,Negenharrie,Preetzer Landstraße,37,,54.11895583,10.05493523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDad,24625,Negenharrie,Preetzer Landstraße,38,,54.1186992,10.05432909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDae,24625,Negenharrie,Preetzer Landstraße,38,a,54.11867318,10.05453678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaf,24625,Negenharrie,Preetzer Landstraße,39,,54.11893288,10.05525964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDag,24625,Negenharrie,Preetzer Landstraße,40,,54.11849917,10.05489517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDah,24625,Negenharrie,Preetzer Landstraße,41,,54.11897907,10.05579243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDai,24625,Negenharrie,Preetzer Landstraße,42,,54.11852991,10.05522051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaj,24625,Negenharrie,Preetzer Landstraße,43,,54.11897805,10.05622662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDak,24625,Negenharrie,Preetzer Landstraße,44,,54.11854825,10.05581459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDal,24625,Negenharrie,Preetzer Landstraße,45,,54.11904076,10.05665484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDam,24625,Negenharrie,Preetzer Landstraße,46,,54.11870244,10.05654013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDan,24625,Negenharrie,Preetzer Landstraße,47,,54.11906311,10.05690918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDao,24625,Negenharrie,Preetzer Landstraße,48,,54.11883634,10.05756289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDap,24625,Negenharrie,Preetzer Landstraße,48,a,54.11917581,10.05925265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaq,24625,Negenharrie,Preetzer Landstraße,5,,54.11776294,10.04570288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDar,24625,Negenharrie,Preetzer Landstraße,50,,54.1192744,10.05960719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDas,24625,Negenharrie,Preetzer Landstraße,51,,54.11915875,10.05739839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDat,24625,Negenharrie,Preetzer Landstraße,52,,54.12067136,10.06648514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDau,24625,Negenharrie,Preetzer Landstraße,55,,54.1192328,10.05786284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDav,24625,Negenharrie,Preetzer Landstraße,55,a,54.11926695,10.05815602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaw,24625,Negenharrie,Preetzer Landstraße,57,,54.11943126,10.05856952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDax,24625,Negenharrie,Preetzer Landstraße,59,,54.1195947,10.05914502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDay,24625,Negenharrie,Preetzer Landstraße,59,a,54.11966083,10.0587287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bDaz,24625,Negenharrie,Preetzer Landstraße,6,,54.11779723,10.04646556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kA,24625,Negenharrie,Dorfstraße,26,,54.14279936,10.07654025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kB,24625,Negenharrie,Dorfstraße,28,,54.14316826,10.07638122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kC,24625,Negenharrie,Dorfstraße,3,,54.14032577,10.0799893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kD,24625,Negenharrie,Dorfstraße,30,,54.14359097,10.07594311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kE,24625,Negenharrie,Dorfstraße,31,,54.143094,10.07528196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kF,24625,Negenharrie,Dorfstraße,32,,54.14406407,10.07667482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kG,24625,Negenharrie,Dorfstraße,34,,54.14448442,10.07640457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kH,24625,Negenharrie,Dorfstraße,35,,54.14469928,10.07599485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kI,24625,Negenharrie,Dorfstraße,36,,54.1448371,10.07642734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kJ,24625,Negenharrie,Dorfstraße,38,,54.14509369,10.07649502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kK,24625,Negenharrie,Dorfstraße,4,,54.14038658,10.0803394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kL,24625,Negenharrie,Dorfstraße,40,,54.14526427,10.07671596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kM,24625,Negenharrie,Dorfstraße,42,,54.14553325,10.07636954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kN,24625,Negenharrie,Dorfstraße,43,,54.14565866,10.07590754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kO,24625,Negenharrie,Dorfstraße,43,a,54.14557751,10.07593054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kP,24625,Negenharrie,Dorfstraße,45,,54.14586601,10.07580628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kQ,24625,Negenharrie,Dorfstraße,47,,54.14613742,10.07541084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kR,24625,Negenharrie,Dorfstraße,47,b,54.14629626,10.07560871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kS,24625,Negenharrie,Dorfstraße,49,,54.14643796,10.07513384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kT,24625,Negenharrie,Dorfstraße,5,,54.14048783,10.07982601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kU,24625,Negenharrie,Dorfstraße,51,,54.14666839,10.07536436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kV,24625,Negenharrie,Dorfstraße,53,,54.14696551,10.07513716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kW,24625,Negenharrie,Dorfstraße,55,,54.14714554,10.07494614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kX,24625,Negenharrie,Dorfstraße,57,,54.14728796,10.07463885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kY,24625,Negenharrie,Dorfstraße,59,,54.15055953,10.07235993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kZ,24625,Negenharrie,Dorfstraße,6,,54.14108106,10.07998923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kj,24625,Negenharrie,Buchwalder Weg,1,,54.15620409,10.08043165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kk,24625,Negenharrie,Buchwalder Weg,2,,54.15616942,10.08082617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kl,24625,Negenharrie,Buchwalder Weg,3,,54.15611416,10.0841311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2km,24625,Negenharrie,Dorfstraße,1,,54.13987781,10.08012012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kn,24625,Negenharrie,Dorfstraße,10,,54.1411624,10.07935341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ko,24625,Negenharrie,Dorfstraße,12,,54.14121494,10.07906068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kp,24625,Negenharrie,Dorfstraße,14,,54.14132641,10.07858386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kq,24625,Negenharrie,Dorfstraße,16,,54.14144556,10.07832154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kr,24625,Negenharrie,Dorfstraße,18,,54.14155155,10.07781134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ks,24625,Negenharrie,Dorfstraße,2,,54.13989386,10.08048178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kt,24625,Negenharrie,Dorfstraße,20,,54.14193317,10.07745051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ku,24625,Negenharrie,Dorfstraße,20,a,54.14222399,10.0772513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kv,24625,Negenharrie,Dorfstraße,21,,54.14163143,10.07686602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kw,24625,Negenharrie,Dorfstraße,22,,54.14240831,10.07682062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kx,24625,Negenharrie,Dorfstraße,23,,54.14212831,10.07655088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ky,24625,Negenharrie,Dorfstraße,24,,54.14258046,10.07670063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2kz,24625,Negenharrie,Dorfstraße,25,,54.14240237,10.07630221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l0,24625,Negenharrie,Dorfstraße,7,,54.14068664,10.0794394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l1,24625,Negenharrie,Dorfstraße,7,a,54.14082445,10.0791854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l2,24625,Negenharrie,Dorfstraße,8,,54.14110516,10.07973026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l3,24625,Negenharrie,Dorfstraße,9,,54.140858,10.078891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l4,24625,Negenharrie,Kiebitzweg,2,,54.14611137,10.0555574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l5,24625,Negenharrie,Lindenallee,10,,54.14357209,10.06622344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l6,24625,Negenharrie,Lindenallee,15,,54.14327098,10.06591414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l7,24625,Negenharrie,Lindenallee,2,,54.14322024,10.06884512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l8,24625,Negenharrie,Lindenallee,3,,54.14242076,10.06920249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2l9,24625,Negenharrie,Lindenallee,3,a,54.14227393,10.06964404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lA,24625,Negenharrie,Mühlenstraße,36,,54.13948034,10.0752474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lB,24625,Negenharrie,Mühlenstraße,38,,54.1391305,10.07571307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lC,24625,Negenharrie,Mühlenstraße,39,,54.13963727,10.07889742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lD,24625,Negenharrie,Mühlenstraße,4,,54.14240519,10.0706192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lE,24625,Negenharrie,Mühlenstraße,40,,54.13916246,10.07657207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lF,24625,Negenharrie,Mühlenstraße,40,a,54.13913348,10.07674794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lG,24625,Negenharrie,Mühlenstraße,41,,54.13968132,10.07943591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lH,24625,Negenharrie,Mühlenstraße,5,,54.14185237,10.0720973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lI,24625,Negenharrie,Mühlenstraße,6,,54.14200345,10.07120849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lJ,24625,Negenharrie,Mühlenstraße,7,,54.14163217,10.0721319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lK,24625,Negenharrie,Mühlenstraße,8,,54.14197563,10.07167878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lL,24625,Negenharrie,Mühlenstraße,9,,54.1414771,10.07223793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lM,24625,Negenharrie,Schulstraße,1,,54.14378435,10.0732253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lN,24625,Negenharrie,Schulstraße,12,,54.14451009,10.07234125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lO,24625,Negenharrie,Schulstraße,14,,54.14421769,10.07182062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lP,24625,Negenharrie,Schulstraße,16,,54.14405637,10.07139759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lQ,24625,Negenharrie,Schulstraße,18,,54.14374305,10.07087916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lR,24625,Negenharrie,Schulstraße,19,,54.14282152,10.07052641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lS,24625,Negenharrie,Schulstraße,20,,54.14348533,10.07037123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lT,24625,Negenharrie,Schulstraße,22,,54.14324743,10.07040975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lU,24625,Negenharrie,Schulstraße,4,,54.14425677,10.07456477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lV,24625,Negenharrie,Wattenbeker Weg,1,,54.14489677,10.06042323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lW,24625,Negenharrie,Wattenbeker Weg,1,a,54.14462252,10.06009368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lX,24625,Negenharrie,Wattenbeker Weg,2,,54.14725761,10.06066141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lY,24625,Negenharrie,Wattenbeker Weg,4,,54.14834806,10.06026505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lZ,24625,Negenharrie,Wattenbeker Weg,6,,54.1488416,10.05949499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2la,24625,Negenharrie,Lindenallee,4,,54.14356252,10.06787791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lb,24625,Negenharrie,Lindenallee,5,,54.14234966,10.06831364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lc,24625,Negenharrie,Lindenallee,6,,54.14554263,10.0683628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ld,24625,Negenharrie,Lindenallee,7,,54.14288538,10.06805121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2le,24625,Negenharrie,Lindenallee,8,,54.1434089,10.06663802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lf,24625,Negenharrie,Mühlenstraße,10,,54.14143558,10.07169546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lg,24625,Negenharrie,Mühlenstraße,12,,54.14132619,10.07199663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lh,24625,Negenharrie,Mühlenstraße,14,,54.1410554,10.0723165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2li,24625,Negenharrie,Mühlenstraße,17,,54.14063052,10.07338902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lj,24625,Negenharrie,Mühlenstraße,18,,54.14042343,10.07287646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lk,24625,Negenharrie,Mühlenstraße,19,,54.14025172,10.07403984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ll,24625,Negenharrie,Mühlenstraße,2,,54.14253488,10.07017267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lm,24625,Negenharrie,Mühlenstraße,20,,54.14020288,10.07325881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ln,24625,Negenharrie,Mühlenstraße,21,,54.14014295,10.07432461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lo,24625,Negenharrie,Mühlenstraße,22,,54.14010046,10.07360943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lp,24625,Negenharrie,Mühlenstraße,23,,54.14008155,10.07468115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lq,24625,Negenharrie,Mühlenstraße,24,,54.13986502,10.07417568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lr,24625,Negenharrie,Mühlenstraße,24,a,54.13991648,10.07388473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ls,24625,Negenharrie,Mühlenstraße,25,,54.14000363,10.07501858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lt,24625,Negenharrie,Mühlenstraße,26,,54.13976907,10.07441743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lu,24625,Negenharrie,Mühlenstraße,27,,54.13976558,10.07542371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lv,24625,Negenharrie,Mühlenstraße,28,,54.13975212,10.07451959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lw,24625,Negenharrie,Mühlenstraße,3,,54.14221609,10.07177814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lx,24625,Negenharrie,Mühlenstraße,30,,54.13963759,10.07475642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ly,24625,Negenharrie,Mühlenstraße,32,,54.13962003,10.07487247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2lz,24625,Negenharrie,Mühlenstraße,34,,54.13949532,10.07514079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m0,24625,Negenharrie,Weederedder,1,,54.1452107,10.07750139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m1,24625,Negenharrie,Weederedder,1,a,54.14524429,10.07763724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m2,24625,Negenharrie,Weederedder,2,,54.14494164,10.07685719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m3,24625,Negenharrie,Weederedder,3,,54.14530333,10.0783402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m4,24625,Negenharrie,Weederedder,4,,54.14489944,10.07710526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m5,24625,Negenharrie,Weederedder,4,a,54.14490521,10.07717348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m6,24625,Negenharrie,Weederedder,6,,54.1449461,10.07747173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m7,24625,Negenharrie,Ovendorf,1,,54.13425045,10.09430708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m8,24625,Negenharrie,Ovendorf,2,,54.13371527,10.09445235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2m9,24625,Negenharrie,Ovendorf,3,,54.13643246,10.10153324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2ma,24625,Negenharrie,Ovendorf,4,,54.1362314,10.10515312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c2mb,24625,Negenharrie,Ovendorf,5,,54.13646883,10.10166003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JoVS,24625,Negenharrie,Preetzer Landstraße,20,a,54.11882247,10.04872322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MqPa,24625,Negenharrie,Dorfstraße,44,,54.14620594,10.07609884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PhqT,24625,Negenharrie,Preetzer Landstraße,2,a,54.11735753,10.04568148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PqWr,24625,Negenharrie,Dorfstraße,27,a,54.12010373,10.04935327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005S6wY,24625,Negenharrie,Lehmsiekweg,12,,54.11721512,10.05067403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005S6x3,24625,Negenharrie,Lehmsiekweg,14,,54.11729707,10.05115136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Y3jP,24625,Negenharrie,Mühlenstraße,35,,54.13951168,10.07803164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Y3jU,24625,Negenharrie,Mühlenstraße,37,,54.13955537,10.07844465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gvNY,24625,Negenharrie,Busdorfer Weg,2,a,54.11875105,10.05842702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006X1Ys,24625,Negenharrie,Dorfstraße,37,,54.14511392,10.07601464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YaQT,24625,Negenharrie,Schulstraße,28,,54.14298573,10.06978407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YaQs,24625,Negenharrie,Schulstraße,24,,54.14316896,10.07010603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YaQt,24625,Negenharrie,Schulstraße,26,,54.14311382,10.07002744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mq8M,24625,Negenharrie,Dorfstraße,11,,54.14095592,10.07861502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bjPp,24625,Negenharrie,Preetzer Landstraße,27,,54.11946235,10.05114955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wr0z,24625,Negenharrie,Dorfstraße,13,,54.14111484,10.07821517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089if1,24625,Negenharrie,Dorfstraße,18,a,54.14193973,10.07792553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008JtmJ,24625,Negenharrie,Kleinharrierstraße,28,,54.12214379,10.0623784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uXda,24625,Negenharrie,Preetzer Landstraße,3,,54.11729869,10.04309067

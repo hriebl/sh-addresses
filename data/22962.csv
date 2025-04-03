@@ -1,0 +1,888 @@
+# Amtliche Adressen für die Postleitzahl 22962
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlVX,22962,Siek,Sieker Straße,5,,53.63242224,10.3112813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnh7,22962,Siek,Sieker Berg,10,,53.63539578,10.31373978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnh8,22962,Siek,Sieker Berg,11,,53.63804067,10.31711219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnh9,22962,Siek,Sieker Berg,12,,53.63560637,10.31428394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnha,22962,Siek,Sieker Berg,13,,53.63839954,10.31681999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnhb,22962,Siek,Sieker Berg,14,,53.63572312,10.31464274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnhc,22962,Siek,Sieker Berg,7,,53.63614223,10.314635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lnhd,22962,Siek,Sieker Berg,9,,53.63600857,10.31496973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrBV,22962,Siek,Alte Landstraße,1,,53.63210787,10.3052711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrBW,22962,Siek,Alte Landstraße,1,a,53.63247809,10.30582253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrBX,22962,Siek,Alte Landstraße,1,b,53.63229383,10.30527105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrBY,22962,Siek,Alte Landstraße,1,c,53.63262611,10.30548619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrBZ,22962,Siek,Alte Landstraße,1,d,53.63275233,10.30544478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC1,22962,Siek,Alte Landstraße,12,,53.62447731,10.2768316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC2,22962,Siek,Alte Landstraße,14,,53.62707656,10.28538963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC3,22962,Siek,Alte Landstraße,18,,53.62419621,10.2750136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC4,22962,Siek,Alte Landstraße,2,,53.63196857,10.30065947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC5,22962,Siek,Alte Landstraße,2,a,53.63197677,10.30071444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC6,22962,Siek,Alte Landstraße,2,b,53.63199138,10.30077333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC7,22962,Siek,Alte Landstraße,20,,53.62408832,10.2747077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC8,22962,Siek,Alte Landstraße,20,b,53.6241625,10.27467287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrC9,22962,Siek,Alte Landstraße,21,,53.63168077,10.30105591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCA,22962,Siek,Alte Landstraße,51,,53.62531184,10.28206101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCB,22962,Siek,Alte Landstraße,53,,53.62488603,10.28063386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCC,22962,Siek,Alte Landstraße,53,a,53.62495603,10.28101074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCD,22962,Siek,Alte Landstraße,55,,53.62404812,10.27645137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCE,22962,Siek,Alte Landstraße,55,a,53.6239701,10.27659046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCF,22962,Siek,Alte Landstraße,55,b,53.62410104,10.27688685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCG,22962,Siek,Alte Landstraße,57,,53.62342817,10.27251609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCH,22962,Siek,Alte Landstraße,59,,53.62242556,10.2640374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCI,22962,Siek,Alte Landstraße,6,,53.63144068,10.29876297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCJ,22962,Siek,Alte Landstraße,61,,53.62199509,10.26387606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCK,22962,Siek,Alte Landstraße,63,,53.62198312,10.26297187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCL,22962,Siek,Alte Landstraße,7,,53.63267775,10.30445656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCM,22962,Siek,Alte Landstraße,8,,53.63122129,10.29834392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCN,22962,Siek,Alte Landstraße,8,a,53.63127491,10.29833211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCO,22962,Siek,Alte Landstraße,8,b,53.63132959,10.29832152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCP,22962,Siek,Alte Landstraße,8,c,53.63138135,10.29829283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCQ,22962,Siek,Alte Landstraße,8,d,53.63143478,10.29828104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCR,22962,Siek,Alte Landstraße,8,e,53.63148861,10.29824777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCS,22962,Siek,Alte Landstraße,8,f,53.6315411,10.2982332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCT,22962,Siek,Alte Landstraße,9,,53.63261888,10.30415545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCU,22962,Siek,Alte Landstraße,9,a,53.63243858,10.30405664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCV,22962,Siek,Dorfstraße,1,,53.62927047,10.27144027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCW,22962,Siek,Dorfstraße,10,,53.62950674,10.27076878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCX,22962,Siek,Dorfstraße,11,,53.62884361,10.26826253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCY,22962,Siek,Dorfstraße,11,a,53.62880059,10.26818143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCZ,22962,Siek,Dorfstraße,11,b,53.62875509,10.26809989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCa,22962,Siek,Alte Landstraße,22,,53.62403557,10.27443068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCb,22962,Siek,Alte Landstraße,23,,53.63159748,10.30027058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCc,22962,Siek,Alte Landstraße,24,,53.62406541,10.27410208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCd,22962,Siek,Alte Landstraße,24,b,53.62395727,10.27410661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCe,22962,Siek,Alte Landstraße,26,,53.62385699,10.2734531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCf,22962,Siek,Alte Landstraße,26,a,53.62392816,10.2736909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCg,22962,Siek,Alte Landstraße,28,,53.62384532,10.27316731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCh,22962,Siek,Alte Landstraße,3,,53.63238445,10.30510484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCi,22962,Siek,Alte Landstraße,30,,53.62360177,10.27192961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCj,22962,Siek,Alte Landstraße,31,,53.63097791,10.29923942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCk,22962,Siek,Alte Landstraße,32,,53.62350669,10.26692776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCl,22962,Siek,Alte Landstraße,33,,53.63097458,10.29899314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCm,22962,Siek,Alte Landstraße,34,,53.62310911,10.26510367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCn,22962,Siek,Alte Landstraße,35,,53.63092871,10.29870956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCo,22962,Siek,Alte Landstraße,36,,53.62241427,10.26327692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCp,22962,Siek,Alte Landstraße,37,,53.63088539,10.29842453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCq,22962,Siek,Alte Landstraße,39,,53.63059463,10.29634348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCr,22962,Siek,Alte Landstraße,4,,53.63174246,10.29979677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCs,22962,Siek,Alte Landstraße,40,,53.62233182,10.26251547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCt,22962,Siek,Alte Landstraße,41,,53.62861994,10.29057136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCu,22962,Siek,Alte Landstraße,42,,53.62210465,10.26203353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCv,22962,Siek,Alte Landstraße,43,,53.62858825,10.29046204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCw,22962,Siek,Alte Landstraße,45,,53.62681023,10.28673859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCx,22962,Siek,Alte Landstraße,47,,53.62600125,10.28433402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCy,22962,Siek,Alte Landstraße,49,,53.62534861,10.28239979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrCz,22962,Siek,Alte Landstraße,5,,53.63278978,10.304808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD0,22962,Siek,Dorfstraße,11,c,53.6287106,10.26801857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD1,22962,Siek,Dorfstraße,11,d,53.62865557,10.2679426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD2,22962,Siek,Dorfstraße,12,,53.62952433,10.27040754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD3,22962,Siek,Dorfstraße,14,,53.62958893,10.27009063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD4,22962,Siek,Dorfstraße,16,,53.62945014,10.26941234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD5,22962,Siek,Dorfstraße,17,,53.62860042,10.26651101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD6,22962,Siek,Dorfstraße,18,,53.62938165,10.26902888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD7,22962,Siek,Dorfstraße,2,,53.62980875,10.2721748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD8,22962,Siek,Dorfstraße,22,,53.62919278,10.26849166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrD9,22962,Siek,Dorfstraße,27,,53.62920371,10.2626217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDA,22962,Siek,Dorfstraße,7,,53.62893622,10.26876498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDB,22962,Siek,Dorfstraße,8,,53.62952618,10.27099897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDC,22962,Siek,Dorfstraße,9,,53.62889654,10.26848957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDD,22962,Siek,Drift,2,,53.62530192,10.27671425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDE,22962,Siek,Drift,2,a,53.6246511,10.27691972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDF,22962,Siek,Gutsstraße,1,,53.62954736,10.26962906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDG,22962,Siek,Gutsstraße,10,,53.63071223,10.26846797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDH,22962,Siek,Gutsstraße,11,,53.63020841,10.26875486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDI,22962,Siek,Gutsstraße,12,,53.63070551,10.26773939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDJ,22962,Siek,Gutsstraße,12,a,53.63072273,10.26785935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDK,22962,Siek,Gutsstraße,13,,53.63047517,10.26914642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDL,22962,Siek,Gutsstraße,14,,53.63069913,10.26743221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDM,22962,Siek,Gutsstraße,14,a,53.63071568,10.26754787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDN,22962,Siek,Gutsstraße,15,,53.63048062,10.26852883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDO,22962,Siek,Gutsstraße,17,,53.63223266,10.26610893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDP,22962,Siek,Gutsstraße,17,a,53.63044267,10.26815969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDQ,22962,Siek,Gutsstraße,2,,53.63044148,10.26979104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDR,22962,Siek,Gutsstraße,2,a,53.62998476,10.27006734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDS,22962,Siek,Gutsstraße,2,b,53.62991119,10.27010249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDT,22962,Siek,Gutsstraße,2,c,53.62986962,10.27015325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDU,22962,Siek,Gutsstraße,2,d,53.62979523,10.27018838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDV,22962,Siek,Gutsstraße,2,e,53.63005755,10.27049936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDW,22962,Siek,Gutsstraße,2,f,53.62998081,10.27053607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDX,22962,Siek,Gutsstraße,2,g,53.62994089,10.27058626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDY,22962,Siek,Gutsstraße,2,h,53.62986794,10.27062072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDZ,22962,Siek,Gutsstraße,20,,53.63364582,10.2654027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDa,22962,Siek,Dorfstraße,29,,53.62928205,10.26241554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDb,22962,Siek,Dorfstraße,3,,53.62918447,10.26984038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDc,22962,Siek,Dorfstraße,3,a,53.62917231,10.26973266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDd,22962,Siek,Dorfstraße,3,b,53.62912757,10.26953294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDe,22962,Siek,Dorfstraße,31,,53.62935709,10.26214862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDf,22962,Siek,Dorfstraße,33,,53.62978811,10.26203019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDg,22962,Siek,Dorfstraße,33,a,53.6299196,10.26208575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDh,22962,Siek,Dorfstraße,35,,53.63027263,10.26216313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDi,22962,Siek,Dorfstraße,35,a,53.63007126,10.26211489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDj,22962,Siek,Dorfstraße,37,,53.63046206,10.26211275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDk,22962,Siek,Dorfstraße,39,,53.63059973,10.26172015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDl,22962,Siek,Dorfstraße,4,,53.62961261,10.27200353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDm,22962,Siek,Dorfstraße,41,,53.63082108,10.26137468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDn,22962,Siek,Dorfstraße,43,,53.63104496,10.26100464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDo,22962,Siek,Dorfstraße,45,,53.63115029,10.26077226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDp,22962,Siek,Dorfstraße,47,,53.63128019,10.26054632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDq,22962,Siek,Dorfstraße,5,,53.62912461,10.26914693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDr,22962,Siek,Dorfstraße,5,a,53.62898244,10.26930851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDs,22962,Siek,Dorfstraße,50,,53.63020583,10.26263903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDt,22962,Siek,Dorfstraße,52,,53.63091208,10.26222256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDu,22962,Siek,Dorfstraße,54,,53.63081577,10.26182241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDv,22962,Siek,Dorfstraße,56,,53.63095043,10.26174065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDw,22962,Siek,Dorfstraße,58,,53.63116886,10.26139414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDx,22962,Siek,Dorfstraße,6,,53.62966849,10.27172298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDy,22962,Siek,Dorfstraße,6,a,53.6297009,10.27142608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrDz,22962,Siek,Dorfstraße,60,,53.63143341,10.26080351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE0,22962,Siek,Gutsstraße,21,,53.63274006,10.26572835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE1,22962,Siek,Gutsstraße,3,,53.6297866,10.26943469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE3,22962,Siek,Gutsstraße,4,,53.63112309,10.27022373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE4,22962,Siek,Gutsstraße,4,a,53.63118413,10.27048733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE5,22962,Siek,Gutsstraße,5,,53.62995692,10.26931753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE6,22962,Siek,Gutsstraße,6,,53.63096984,10.27001788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE7,22962,Siek,Gutsstraße,7,,53.63008163,10.26948179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE8,22962,Siek,Gutsstraße,8,,53.63083496,10.26924935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrE9,22962,Siek,Gutsstraße,8,a,53.62962932,10.27123141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEA,22962,Siek,Uhlenbusch,23,b,53.62705459,10.26508315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEB,22962,Siek,Uhlenbusch,25,,53.62708081,10.26484331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEC,22962,Siek,Uhlenbusch,29,,53.62703133,10.2640391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrED,22962,Siek,Uhlenbusch,3,,53.62801394,10.26777623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEE,22962,Siek,Uhlenbusch,3,a,53.62814127,10.26785084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEF,22962,Siek,Uhlenbusch,31,,53.62698267,10.26375712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEG,22962,Siek,Uhlenbusch,33,,53.62703251,10.26343144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEH,22962,Siek,Uhlenbusch,5,,53.62781081,10.26766859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEI,22962,Siek,Uhlenbusch,62,,53.62630087,10.25906703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEJ,22962,Siek,Uhlenbusch,64,,53.62617146,10.25881806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEK,22962,Siek,Uhlenbusch,7,,53.62763821,10.26759194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEL,22962,Siek,Uhlenbusch,9,,53.62747194,10.26762286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEM,22962,Siek,Gutskoppel,1,,53.63010576,10.26832972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEN,22962,Siek,Gutskoppel,10,,53.62970358,10.26800733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEO,22962,Siek,Gutskoppel,12,,53.62950869,10.26806026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEP,22962,Siek,Gutskoppel,2,,53.63040357,10.26769867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEQ,22962,Siek,Gutskoppel,3,,53.62995992,10.26835025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrER,22962,Siek,Gutskoppel,4,,53.63021889,10.26778537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrES,22962,Siek,Gutskoppel,5,,53.62975773,10.26840326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrET,22962,Siek,Gutskoppel,6,,53.63004679,10.26784879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEU,22962,Siek,Gutskoppel,7,,53.62957114,10.26839503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEV,22962,Siek,Gutskoppel,8,,53.62988488,10.26786989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEW,22962,Siek,An der Lohe,1,,53.63643,10.29106284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEX,22962,Siek,An der Lohe,2,,53.63653955,10.29031415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEY,22962,Siek,An der Rotbuche,1,,53.63633723,10.29788414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEZ,22962,Siek,An der Rotbuche,10,,53.63686265,10.29806114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEa,22962,Siek,Gutsstraße,8,b,53.62970833,10.27119124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEb,22962,Siek,Gutsstraße,9,,53.63022421,10.26927214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEc,22962,Siek,Kampsredder,1,,53.6290041,10.26186608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEd,22962,Siek,Kampsredder,2,,53.62961192,10.26190338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEe,22962,Siek,Meilsdorfer Damm,1,,53.62365576,10.27678953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEf,22962,Siek,Meilsdorfer Damm,1,a,53.62335259,10.2768795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEg,22962,Siek,Meilsdorfer Damm,10,,53.61940502,10.27890539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEh,22962,Siek,Meilsdorfer Damm,10,a,53.61924753,10.27897047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEi,22962,Siek,Meilsdorfer Damm,12,,53.61908949,10.27911127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEj,22962,Siek,Meilsdorfer Damm,12,a,53.61897773,10.2791576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEk,22962,Siek,Meilsdorfer Damm,2,,53.62099853,10.27789181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEl,22962,Siek,Meilsdorfer Damm,3,,53.61910525,10.2796344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEm,22962,Siek,Meilsdorfer Damm,4,,53.62079329,10.27802237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEn,22962,Siek,Meilsdorfer Damm,6,,53.61978987,10.27865806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEo,22962,Siek,Meilsdorfer Damm,7,,53.61723852,10.28082571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEp,22962,Siek,Meilsdorfer Damm,8,,53.61955249,10.27874635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEq,22962,Siek,Mühlenweg,1,,53.62276765,10.27084778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEr,22962,Siek,Uhlenbusch,1,,53.62834149,10.2679039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEs,22962,Siek,Uhlenbusch,11,,53.62728757,10.26734972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEt,22962,Siek,Uhlenbusch,13,,53.62726076,10.26702829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEu,22962,Siek,Uhlenbusch,15,,53.62723022,10.26674882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEv,22962,Siek,Uhlenbusch,17,,53.62719771,10.26646259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEw,22962,Siek,Uhlenbusch,19,,53.62716493,10.26616467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEx,22962,Siek,Uhlenbusch,21,,53.62714907,10.26586965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEy,22962,Siek,Uhlenbusch,23,,53.62709727,10.26535748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrEz,22962,Siek,Uhlenbusch,23,a,53.62708783,10.26525792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF0,22962,Siek,An der Rotbuche,11,,53.63705508,10.2983219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF1,22962,Siek,An der Rotbuche,12,,53.63700626,10.29836599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF2,22962,Siek,An der Rotbuche,13,,53.63696082,10.29840709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF3,22962,Siek,An der Rotbuche,14,,53.63691186,10.298452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF4,22962,Siek,An der Rotbuche,15,,53.63682243,10.29869136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF5,22962,Siek,An der Rotbuche,16,,53.63677226,10.29873712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF6,22962,Siek,An der Rotbuche,17,,53.63672249,10.29878326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF7,22962,Siek,An der Rotbuche,18,,53.63658094,10.29887525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF8,22962,Siek,An der Rotbuche,19,,53.63653657,10.29891565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrF9,22962,Siek,An der Rotbuche,2,,53.63635233,10.29799031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFA,22962,Siek,Bültbek,18,,53.63937663,10.28346495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFB,22962,Siek,Bültbek,19,,53.63819491,10.28323398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFC,22962,Siek,Bültbek,2,,53.63930787,10.28479602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFD,22962,Siek,Bültbek,20,,53.6394114,10.2834399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFE,22962,Siek,Bültbek,20,a,53.63954098,10.28337016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFF,22962,Siek,Bültbek,20,b,53.63960982,10.28332246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFG,22962,Siek,Bültbek,20,c,53.63964017,10.28375109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFH,22962,Siek,Bültbek,20,d,53.63970178,10.28370944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFI,22962,Siek,Bültbek,20,e,53.63970895,10.28404672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFJ,22962,Siek,Bültbek,20,f,53.6397723,10.28400319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFK,22962,Siek,Bültbek,21,,53.63840024,10.28294258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFL,22962,Siek,Bültbek,22,,53.63889773,10.28314537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFM,22962,Siek,Bültbek,23,,53.637891,10.28169875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFN,22962,Siek,Bültbek,24,,53.63915429,10.28285982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFO,22962,Siek,Bültbek,24,a,53.63936569,10.28281443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFP,22962,Siek,Bültbek,25,,53.63750652,10.28190752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFQ,22962,Siek,Bültbek,26,,53.63873935,10.28259907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFR,22962,Siek,Bültbek,27,,53.63747256,10.28173791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFS,22962,Siek,Bültbek,28,,53.63915523,10.28217727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFT,22962,Siek,Bültbek,29,,53.63743759,10.281563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFU,22962,Siek,Bültbek,30,,53.63927182,10.28192184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFV,22962,Siek,Bültbek,31,,53.63790428,10.28085705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFW,22962,Siek,Bültbek,31,a,53.63713025,10.27899151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFX,22962,Siek,Bültbek,32,,53.63976021,10.28193313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFY,22962,Siek,Bültbek,34,,53.63994807,10.28147539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFZ,22962,Siek,Bültbek,36,,53.64036103,10.28030288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFa,22962,Siek,An der Rotbuche,20,,53.63649267,10.298955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFb,22962,Siek,An der Rotbuche,21,,53.63625597,10.29918622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFc,22962,Siek,An der Rotbuche,22,,53.63618363,10.29924921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFd,22962,Siek,An der Rotbuche,25,,53.63605847,10.29927963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFe,22962,Siek,An der Rotbuche,26,,53.63601003,10.29932426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFf,22962,Siek,An der Rotbuche,27,,53.63594894,10.29933297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFg,22962,Siek,An der Rotbuche,28,,53.63590275,10.29937573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFh,22962,Siek,An der Rotbuche,29,,53.63611208,10.29871344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFi,22962,Siek,An der Rotbuche,3,,53.63639283,10.29807545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFj,22962,Siek,An der Rotbuche,30,,53.63603779,10.29875096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFk,22962,Siek,An der Rotbuche,31,,53.63585502,10.29887164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFl,22962,Siek,An der Rotbuche,4,,53.63640513,10.29816232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFm,22962,Siek,An der Rotbuche,5,,53.63645069,10.29824347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFn,22962,Siek,An der Rotbuche,6,,53.63646354,10.29833436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFo,22962,Siek,An der Rotbuche,7,,53.63670307,10.29817248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFp,22962,Siek,An der Rotbuche,8,,53.63676105,10.29811982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFq,22962,Siek,An der Rotbuche,9,,53.63680515,10.2981129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFr,22962,Siek,Birkenbusch,3,,53.65043439,10.29223923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFs,22962,Siek,Bültbek,1,,53.63912864,10.28526536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFt,22962,Siek,Bültbek,10,,53.63903865,10.28370632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFu,22962,Siek,Bültbek,11,,53.63881617,10.28454035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFv,22962,Siek,Bültbek,12,,53.63908431,10.28367323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFw,22962,Siek,Bültbek,13,,53.63849256,10.28332691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFx,22962,Siek,Bültbek,14,,53.63919192,10.28359821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFy,22962,Siek,Bültbek,15,,53.63799428,10.28371619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrFz,22962,Siek,Bültbek,16,,53.63923629,10.28356451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG0,22962,Siek,Bültbek,38,,53.6398062,10.28050538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG1,22962,Siek,Bültbek,4,,53.63945213,10.28461853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG2,22962,Siek,Bültbek,40,,53.63972469,10.2810591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG3,22962,Siek,Bültbek,42,,53.6395407,10.2811497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG4,22962,Siek,Bültbek,44,,53.63931463,10.28122509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG5,22962,Siek,Bültbek,46,,53.63913444,10.28126274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG6,22962,Siek,Bültbek,48,,53.63900737,10.28162954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG7,22962,Siek,Bültbek,5,,53.63866348,10.28617362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG8,22962,Siek,Bültbek,50,,53.63886163,10.28170552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrG9,22962,Siek,Bültbek,52,,53.63855588,10.28193265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGA,22962,Siek,Fasanenweg,8,,53.63804417,10.29434744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGB,22962,Siek,Fasanenweg,9,,53.63778692,10.29516169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGC,22962,Siek,Fichtenweg,1,,53.63864617,10.29353998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGD,22962,Siek,Fichtenweg,10,,53.63825397,10.29575558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGE,22962,Siek,Fichtenweg,11,,53.63867328,10.29499041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGF,22962,Siek,Fichtenweg,12,,53.63819498,10.295773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGG,22962,Siek,Fichtenweg,13,,53.63861163,10.29530057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGH,22962,Siek,Fichtenweg,14,,53.63813476,10.29579744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGI,22962,Siek,Fichtenweg,15,,53.63860334,10.2954031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGJ,22962,Siek,Fichtenweg,16,,53.6380828,10.29584365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGK,22962,Siek,Fichtenweg,17,,53.63857679,10.29570491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGL,22962,Siek,Fichtenweg,18,,53.63803,10.2958662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGM,22962,Siek,Fichtenweg,19,,53.63856769,10.29580441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGN,22962,Siek,Fichtenweg,2,,53.63829885,10.29342886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGO,22962,Siek,Fichtenweg,20,,53.63797687,10.29588566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGP,22962,Siek,Fichtenweg,21,,53.63853457,10.29613315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGQ,22962,Siek,Fichtenweg,22,,53.63792535,10.29591274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGR,22962,Siek,Fichtenweg,23,,53.63852468,10.29623548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGS,22962,Siek,Fichtenweg,24,,53.63788396,10.29596528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGT,22962,Siek,Fichtenweg,25,,53.63848811,10.29658079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGU,22962,Siek,Fichtenweg,26,,53.63825019,10.29626624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGV,22962,Siek,Fichtenweg,27,,53.638478,10.29668175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGW,22962,Siek,Fichtenweg,28,,53.63819062,10.29628664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGX,22962,Siek,Fichtenweg,29,,53.63842672,10.29711711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGY,22962,Siek,Fichtenweg,3,,53.6386943,10.29378888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGZ,22962,Siek,Fichtenweg,30,,53.63813375,10.29631399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGa,22962,Siek,Bültbek,54,,53.63854352,10.28149258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGb,22962,Siek,Bültbek,56,,53.63833371,10.28097361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGc,22962,Siek,Bültbek,6,,53.63934281,10.2842205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGd,22962,Siek,Bültbek,7,,53.63841868,10.28548727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGe,22962,Siek,Bültbek,8,,53.63918546,10.28432874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGf,22962,Siek,Bültbek,9,,53.63860426,10.28479485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGg,22962,Siek,Fasanenweg,1,,53.63820583,10.29490713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGh,22962,Siek,Fasanenweg,10,,53.63788663,10.29435954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGi,22962,Siek,Fasanenweg,11,,53.63773187,10.29518111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGj,22962,Siek,Fasanenweg,12,,53.63777101,10.29441593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGk,22962,Siek,Fasanenweg,12,a,53.63765607,10.29447532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGl,22962,Siek,Fasanenweg,13,,53.63755884,10.29520042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGm,22962,Siek,Fasanenweg,14,,53.63749429,10.29447416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGn,22962,Siek,Fasanenweg,15,,53.63750027,10.2952154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGo,22962,Siek,Fasanenweg,16,,53.63730612,10.2945584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGp,22962,Siek,Fasanenweg,17,,53.63732596,10.29518543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGq,22962,Siek,Fasanenweg,18,,53.63713065,10.29463065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGr,22962,Siek,Fasanenweg,19,,53.63706555,10.2951432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGs,22962,Siek,Fasanenweg,2,,53.63836,10.2941142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGt,22962,Siek,Fasanenweg,20,,53.63693617,10.29487591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGu,22962,Siek,Fasanenweg,21,,53.63708961,10.29547281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGv,22962,Siek,Fasanenweg,3,,53.63815166,10.29492787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGw,22962,Siek,Fasanenweg,4,,53.63827249,10.29424988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGx,22962,Siek,Fasanenweg,5,,53.6380076,10.29505984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGy,22962,Siek,Fasanenweg,6,,53.63813277,10.29418927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrGz,22962,Siek,Fasanenweg,7,,53.63795253,10.29508377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH0,22962,Siek,Fichtenweg,31,,53.63835518,10.29755333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH1,22962,Siek,Fichtenweg,32,,53.63806972,10.29632808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH2,22962,Siek,Fichtenweg,33,,53.6383131,10.29781303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH3,22962,Siek,Fichtenweg,34,,53.63801745,10.29635447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH4,22962,Siek,Fichtenweg,36,,53.63796327,10.29636543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH5,22962,Siek,Fichtenweg,38,,53.63790926,10.29639221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH6,22962,Siek,Fichtenweg,4,,53.63842263,10.29475841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH7,22962,Siek,Fichtenweg,40,,53.63787401,10.2964475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH8,22962,Siek,Fichtenweg,42,,53.63825213,10.29674168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrH9,22962,Siek,Fichtenweg,44,,53.63819092,10.29675531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHA,22962,Siek,Großblöcken,2,c,53.63789215,10.29056202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHB,22962,Siek,Großblöcken,2,d,53.63789215,10.29056202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHC,22962,Siek,Großblöcken,20,,53.63875476,10.28979784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHD,22962,Siek,Großblöcken,22,,53.63878976,10.28970483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHE,22962,Siek,Großblöcken,24,,53.6388242,10.28960336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHF,22962,Siek,Großblöcken,26,,53.63875792,10.28925958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHG,22962,Siek,Großblöcken,28,,53.63876888,10.28887224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHH,22962,Siek,Großblöcken,3,,53.63777189,10.28982472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHI,22962,Siek,Großblöcken,3,a,53.63771538,10.28994621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHJ,22962,Siek,Großblöcken,30,,53.63884025,10.28858259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHK,22962,Siek,Großblöcken,32,,53.6388665,10.28828964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHL,22962,Siek,Großblöcken,34,,53.63864734,10.28847877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHM,22962,Siek,Großblöcken,34,a,53.63867934,10.28840566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHN,22962,Siek,Großblöcken,36,,53.6384575,10.289289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHO,22962,Siek,Großblöcken,38,,53.63835603,10.28949776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHP,22962,Siek,Großblöcken,38,b,53.63831465,10.28959332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHQ,22962,Siek,Großblöcken,4,,53.63856647,10.2909514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHR,22962,Siek,Großblöcken,40,,53.63821854,10.28984231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHS,22962,Siek,Großblöcken,42,,53.63802628,10.2901738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHT,22962,Siek,Großblöcken,6,,53.63868319,10.2907687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHU,22962,Siek,Großblöcken,8,,53.63841329,10.28998837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHV,22962,Siek,Hansdorfer Weg,1,,53.63744554,10.29289052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHW,22962,Siek,Hansdorfer Weg,10,,53.63774814,10.29340073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHX,22962,Siek,Hansdorfer Weg,11,,53.63841267,10.29271833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHY,22962,Siek,Hansdorfer Weg,12,,53.63789399,10.29346377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHZ,22962,Siek,Hansdorfer Weg,12,a,53.63795543,10.29344817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHa,22962,Siek,Fichtenweg,46,,53.63813053,10.29677635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHb,22962,Siek,Fichtenweg,48,,53.63807014,10.29679739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHc,22962,Siek,Fichtenweg,5,,53.63866751,10.29410229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHd,22962,Siek,Fichtenweg,50,,53.63801245,10.29681699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHe,22962,Siek,Fichtenweg,52,,53.63795466,10.29683742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHf,22962,Siek,Fichtenweg,54,,53.63790905,10.29689346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHg,22962,Siek,Fichtenweg,56,,53.63815168,10.29723467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHh,22962,Siek,Fichtenweg,58,,53.63810208,10.29726102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHi,22962,Siek,Fichtenweg,6,,53.63837223,10.29480057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHj,22962,Siek,Fichtenweg,60,,53.63805063,10.29728038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHk,22962,Siek,Fichtenweg,62,,53.63800248,10.29731628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHl,22962,Siek,Fichtenweg,64,,53.63794671,10.29732895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHm,22962,Siek,Fichtenweg,66,,53.63788723,10.29734947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHn,22962,Siek,Fichtenweg,68,,53.63810789,10.29771825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHo,22962,Siek,Fichtenweg,7,,53.63871304,10.29440988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHp,22962,Siek,Fichtenweg,70,,53.63786512,10.29779043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHq,22962,Siek,Fichtenweg,8,,53.63831335,10.29573526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHr,22962,Siek,Fichtenweg,9,,53.63869192,10.29471617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHs,22962,Siek,Großblöcken,10,,53.6383139,10.29019117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHt,22962,Siek,Großblöcken,12,,53.6387132,10.29014792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHu,22962,Siek,Großblöcken,14,,53.63861788,10.29035437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHv,22962,Siek,Großblöcken,16,,53.63854388,10.28969591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHw,22962,Siek,Großblöcken,18,,53.63857531,10.28960421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHx,22962,Siek,Großblöcken,2,,53.63833316,10.29070648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHy,22962,Siek,Großblöcken,2,a,53.63780722,10.29067991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrHz,22962,Siek,Großblöcken,2,b,53.63780722,10.29067991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI0,22962,Siek,Hansdorfer Weg,13,,53.63860576,10.29267243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI1,22962,Siek,Hansdorfer Weg,13,a,53.63861587,10.29250241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI2,22962,Siek,Hansdorfer Weg,14,,53.63806081,10.29334081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI3,22962,Siek,Hansdorfer Weg,14,a,53.63811904,10.29331565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI4,22962,Siek,Hansdorfer Weg,15,,53.6388304,10.29256337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI5,22962,Siek,Hansdorfer Weg,16,,53.63856082,10.2930568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI6,22962,Siek,Hansdorfer Weg,18,,53.63880032,10.29309577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI7,22962,Siek,Hansdorfer Weg,2,,53.6373005,10.29346932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI8,22962,Siek,Hansdorfer Weg,2,a,53.637114,10.29357135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrI9,22962,Siek,Hansdorfer Weg,2,b,53.63705461,10.29357773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIA,22962,Siek,Hauptstraße,12,,53.63842151,10.28706325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIB,22962,Siek,Hauptstraße,12,a,53.63842088,10.28673953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIC,22962,Siek,Hauptstraße,13,,53.63817816,10.2885309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrID,22962,Siek,Hauptstraße,14,,53.63830679,10.28729879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIE,22962,Siek,Hauptstraße,15,,53.63807567,10.28875329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIF,22962,Siek,Hauptstraße,16,,53.63820955,10.28751618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIG,22962,Siek,Hauptstraße,17,,53.63791062,10.28897007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIH,22962,Siek,Hauptstraße,17,a,53.63803343,10.28926497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrII,22962,Siek,Hauptstraße,18,,53.63803561,10.28787026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIJ,22962,Siek,Hauptstraße,18,a,53.63779669,10.28784718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIK,22962,Siek,Hauptstraße,19,,53.63777173,10.28926662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIL,22962,Siek,Hauptstraße,2,,53.64063079,10.28224063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIM,22962,Siek,Hauptstraße,20,,53.63782312,10.288195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIN,22962,Siek,Hauptstraße,21,,53.6376104,10.28961558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIO,22962,Siek,Hauptstraße,22,,53.63778074,10.28843416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIP,22962,Siek,Hauptstraße,22,a,53.63759894,10.28821119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIQ,22962,Siek,Hauptstraße,23,,53.63745843,10.29013504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIR,22962,Siek,Hauptstraße,24,,53.63768848,10.28860651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIS,22962,Siek,Hauptstraße,24,a,53.63748052,10.28834271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIT,22962,Siek,Hauptstraße,25,,53.63732548,10.29044446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIU,22962,Siek,Hauptstraße,26,,53.63759872,10.28884232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIV,22962,Siek,Hauptstraße,26,a,53.63738323,10.28857203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIW,22962,Siek,Hauptstraße,27,,53.63712003,10.29061546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIX,22962,Siek,Hauptstraße,28,,53.63748948,10.28903382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIY,22962,Siek,Hauptstraße,28,a,53.63728709,10.28883188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIZ,22962,Siek,Hauptstraße,29,,53.63695275,10.29113024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIa,22962,Siek,Hansdorfer Weg,2,c,53.63699347,10.29358432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIb,22962,Siek,Hansdorfer Weg,2,d,53.63693414,10.29359077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIc,22962,Siek,Hansdorfer Weg,2,e,53.63687479,10.29359714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrId,22962,Siek,Hansdorfer Weg,2,f,53.63681178,10.2936038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIe,22962,Siek,Hansdorfer Weg,2,g,53.63675173,10.29362181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIf,22962,Siek,Hansdorfer Weg,20,,53.63909319,10.29312905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIg,22962,Siek,Hansdorfer Weg,22,,53.63925535,10.29314008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIh,22962,Siek,Hansdorfer Weg,24,,53.63940334,10.29309664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIi,22962,Siek,Hansdorfer Weg,26,,53.64159441,10.29479961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIj,22962,Siek,Hansdorfer Weg,27,,53.63931023,10.2916179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIk,22962,Siek,Hansdorfer Weg,3,,53.6378374,10.29293716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIl,22962,Siek,Hansdorfer Weg,3,a,53.63775948,10.29297342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIm,22962,Siek,Hansdorfer Weg,33,,53.63941452,10.29215348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIn,22962,Siek,Hansdorfer Weg,35,,53.63939485,10.29251877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIo,22962,Siek,Hansdorfer Weg,4,,53.63746695,10.2934938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIp,22962,Siek,Hansdorfer Weg,4,a,53.63740963,10.29399764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIq,22962,Siek,Hansdorfer Weg,5,,53.63794086,10.29291263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIr,22962,Siek,Hansdorfer Weg,6,,53.63759349,10.29345443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIs,22962,Siek,Hansdorfer Weg,7,,53.63809272,10.29284523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIt,22962,Siek,Hansdorfer Weg,8,,53.63771338,10.29341302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIu,22962,Siek,Hansdorfer Weg,9,,53.63825636,10.29278477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIv,22962,Siek,Hauptstraße,1,,53.63885182,10.28696293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIw,22962,Siek,Hauptstraße,1,a,53.63936166,10.2859163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIx,22962,Siek,Hauptstraße,10,,53.63964438,10.28447159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIy,22962,Siek,Hauptstraße,11,,53.63823284,10.2882737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrIz,22962,Siek,Hauptstraße,11,a,53.63845732,10.28857304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ0,22962,Siek,Hauptstraße,3,,53.63874286,10.28718444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ1,22962,Siek,Hauptstraße,3,a,53.63893809,10.28765787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ2,22962,Siek,Hauptstraße,30,,53.63738949,10.28927523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ3,22962,Siek,Hauptstraße,31,,53.63693361,10.29139203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ4,22962,Siek,Hauptstraße,32,,53.63720055,10.28935452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ5,22962,Siek,Hauptstraße,33,,53.63691745,10.29163038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ6,22962,Siek,Hauptstraße,34,,53.63721692,10.28968195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ7,22962,Siek,Hauptstraße,34,a,53.6370674,10.28981822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ8,22962,Siek,Hauptstraße,34,b,53.63704895,10.28947361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJ9,22962,Siek,Hauptstraße,35,,53.63687485,10.29196812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJA,22962,Siek,Hauptstraße,53,,53.63429143,10.29834189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJB,22962,Siek,Hauptstraße,55,,53.63403854,10.29881855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJC,22962,Siek,Hauptstraße,57,,53.6335664,10.29899564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJD,22962,Siek,Hauptstraße,59,,53.632725,10.29803401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJE,22962,Siek,Hauptstraße,59,a,53.63251997,10.29874057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJF,22962,Siek,Hauptstraße,6,,53.63993032,10.28398763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJG,22962,Siek,Hauptstraße,61,,53.63236194,10.29801381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJH,22962,Siek,Hauptstraße,63,,53.63197564,10.29795664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJI,22962,Siek,Hauptstraße,65,,53.6316839,10.29797347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJJ,22962,Siek,Hauptstraße,7,,53.63854414,10.28778636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJK,22962,Siek,Hauptstraße,9,,53.63837108,10.28795787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJL,22962,Siek,Hinterm Dorf,10,,53.63188402,10.29507952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJM,22962,Siek,Hinterm Dorf,12,,53.63218248,10.29507096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJN,22962,Siek,Hinterm Dorf,14,,53.63238647,10.29487421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJO,22962,Siek,Hinterm Dorf,2,,53.63123293,10.29599367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJP,22962,Siek,Hinterm Dorf,4,,53.63146148,10.29613713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJQ,22962,Siek,Hinterm Dorf,4,a,53.63209165,10.29651408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJR,22962,Siek,Hinterm Dorf,4,b,53.63223051,10.29670112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJS,22962,Siek,Hinterm Dorf,4,c,53.63234946,10.29676723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJT,22962,Siek,Hinterm Dorf,4,d,53.6322629,10.29692418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJU,22962,Siek,Hinterm Dorf,6,,53.63175606,10.2957288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJV,22962,Siek,Hinterm Dorf,6,a,53.63201715,10.29593174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJW,22962,Siek,Hinterm Dorf,6,b,53.63219482,10.29608743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJX,22962,Siek,Hinterm Dorf,6,c,53.63238956,10.29621198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJY,22962,Siek,Hinterm Dorf,8,,53.63188708,10.29544824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJZ,22962,Siek,Hinterm Dorf,8,b,53.63240586,10.29539047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJa,22962,Siek,Hauptstraße,36,,53.63704787,10.29018154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJb,22962,Siek,Hauptstraße,37,,53.63686969,10.29248986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJc,22962,Siek,Hauptstraße,38,,53.63625735,10.29556221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJd,22962,Siek,Hauptstraße,38,b,53.63629818,10.29475344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJe,22962,Siek,Hauptstraße,39,,53.63677125,10.29299679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJf,22962,Siek,Hauptstraße,4,,53.64011046,10.28360155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJg,22962,Siek,Hauptstraße,40,,53.63571922,10.29639732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJh,22962,Siek,Hauptstraße,40,a,53.63600888,10.29585749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJi,22962,Siek,Hauptstraße,41,,53.63661339,10.29391564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJj,22962,Siek,Hauptstraße,42,,53.63536912,10.29681698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJk,22962,Siek,Hauptstraße,42,a,53.63525975,10.29703717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJl,22962,Siek,Hauptstraße,43,,53.63661967,10.29419668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJm,22962,Siek,Hauptstraße,43,a,53.6369053,10.29419264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJn,22962,Siek,Hauptstraße,44,,53.6320304,10.29726216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJo,22962,Siek,Hauptstraße,45,a,53.63661685,10.29492378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJp,22962,Siek,Hauptstraße,45,b,53.63690111,10.2945478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJq,22962,Siek,Hauptstraße,45,c,53.63663418,10.29449632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJr,22962,Siek,Hauptstraße,45,d,53.63656455,10.29449417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJs,22962,Siek,Hauptstraße,46,,53.63169483,10.2976081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJt,22962,Siek,Hauptstraße,47,,53.63650557,10.29538921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJu,22962,Siek,Hauptstraße,47,a,53.63649592,10.29575452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJv,22962,Siek,Hauptstraße,48,,53.63142821,10.29770843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJw,22962,Siek,Hauptstraße,49,,53.63547903,10.29752052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJx,22962,Siek,Hauptstraße,5,,53.63860203,10.2874873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJy,22962,Siek,Hauptstraße,50,,53.63123471,10.29760762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrJz,22962,Siek,Hauptstraße,51,,53.6344571,10.29829377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK0,22962,Siek,Hinterm Dorf,8,c,53.63236022,10.29546473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK1,22962,Siek,Hinterm Dorf,8,d,53.63253018,10.29583959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK2,22962,Siek,Hinterm Dorf,8,e,53.63254612,10.29586721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK3,22962,Siek,Hoisdorfer Weg,1,,53.63610527,10.29755809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK4,22962,Siek,Hoisdorfer Weg,12,,53.63718958,10.29866648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK5,22962,Siek,Hoisdorfer Weg,18,,53.63744007,10.29978332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK6,22962,Siek,Hoisdorfer Weg,18,a,53.6371619,10.30008879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK7,22962,Siek,Hoisdorfer Weg,2,,53.63466001,10.29825315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK8,22962,Siek,Hoisdorfer Weg,20,,53.63750361,10.30003612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrK9,22962,Siek,Hoisdorfer Weg,22,,53.63754776,10.30033949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKA,22962,Siek,Kirchenweg,18,,53.63295513,10.29689568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKB,22962,Siek,Kirchenweg,18,a,53.63278634,10.29671041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKC,22962,Siek,Kirchenweg,18,b,53.63265487,10.29652875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKD,22962,Siek,Kirchenweg,2,,53.63503737,10.2972603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKE,22962,Siek,Kirchenweg,20,,53.63271542,10.29716581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKF,22962,Siek,Kirchenweg,22,,53.63250286,10.29730035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKG,22962,Siek,Kirchenweg,4,,53.63491228,10.29718664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKH,22962,Siek,Kirchenweg,6,,53.63474286,10.29706506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKI,22962,Siek,Kirchenweg,8,,53.63387236,10.29608668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKJ,22962,Siek,Knakenhof,10,,53.6349371,10.29588062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKK,22962,Siek,Knakenhof,11,,53.63458117,10.29490231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKL,22962,Siek,Knakenhof,12,,53.63502497,10.29559622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKM,22962,Siek,Knakenhof,13,,53.63457544,10.2945801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKN,22962,Siek,Knakenhof,14,,53.63525902,10.29561584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKO,22962,Siek,Knakenhof,16,,53.63518283,10.2951757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKP,22962,Siek,Knakenhof,18,,53.63495576,10.2952434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKQ,22962,Siek,Knakenhof,2,,53.63475474,10.29651871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKR,22962,Siek,Knakenhof,20,,53.63489057,10.29496161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKS,22962,Siek,Knakenhof,22,,53.63483853,10.29465936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKT,22962,Siek,Knakenhof,4,,53.63486367,10.29623831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKU,22962,Siek,Knakenhof,5,,53.63466039,10.29585685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKV,22962,Siek,Knakenhof,6,,53.63507129,10.29650435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKW,22962,Siek,Knakenhof,7,,53.63464177,10.29546392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKX,22962,Siek,Knakenhof,8,,53.63524934,10.29599598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKY,22962,Siek,Knakenhof,9,,53.63462874,10.29516089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKZ,22962,Siek,Lehmsol,1,,53.63665016,10.30042478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKa,22962,Siek,Hoisdorfer Weg,24,,53.63729585,10.30053559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKb,22962,Siek,Hoisdorfer Weg,28,,53.63752918,10.3007996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKc,22962,Siek,Hoisdorfer Weg,3,,53.63628107,10.29749368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKd,22962,Siek,Hoisdorfer Weg,3,a,53.63633974,10.2974465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKe,22962,Siek,Hoisdorfer Weg,30,,53.63775056,10.30056407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKf,22962,Siek,Hoisdorfer Weg,32,,53.63788759,10.30074415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKg,22962,Siek,Hoisdorfer Weg,4,,53.63480898,10.29832915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKh,22962,Siek,Hoisdorfer Weg,4,a,53.6347203,10.29872287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKi,22962,Siek,Hoisdorfer Weg,5,,53.63697169,10.29760419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKj,22962,Siek,Hoisdorfer Weg,6,,53.63534527,10.29823228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKk,22962,Siek,Hoisdorfer Weg,6,a,53.63563135,10.29849825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKl,22962,Siek,Hoisdorfer Weg,6,b,53.63564269,10.298562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKm,22962,Siek,Hoisdorfer Weg,6,c,53.63568076,10.29886844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKn,22962,Siek,Hoisdorfer Weg,6,d,53.63569049,10.29892301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKo,22962,Siek,Hoisdorfer Weg,6,e,53.63549143,10.29907141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKp,22962,Siek,Hoisdorfer Weg,6,f,53.63547303,10.29896941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKq,22962,Siek,Hoisdorfer Weg,6,g,53.63545147,10.29869968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKr,22962,Siek,Hoisdorfer Weg,6,h,53.63543409,10.29859961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKs,22962,Siek,Hoisdorfer Weg,7,,53.63729415,10.29800362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKt,22962,Siek,Hoisdorfer Weg,7,a,53.63762177,10.29790929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKu,22962,Siek,Hoisdorfer Weg,8,,53.63581891,10.29818957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKv,22962,Siek,Hoisdorfer Weg,8,a,53.63589803,10.29817591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKw,22962,Siek,Kirchenweg,10,,53.63359055,10.29560314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKx,22962,Siek,Kirchenweg,12,,53.63351585,10.29637833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKy,22962,Siek,Kirchenweg,14,,53.63330627,10.29657012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrKz,22962,Siek,Kirchenweg,16,,53.63317745,10.29670252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL0,22962,Siek,Lehmsol,2,,53.63648022,10.30037191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL1,22962,Siek,Lehmsol,3,,53.63680801,10.30065186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL2,22962,Siek,Lehmsol,4,,53.63658314,10.30080778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL3,22962,Siek,Lehmsol,5,,53.63694693,10.30091171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL4,22962,Siek,Marktstraße,1,,53.63310941,10.29861631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL5,22962,Siek,Marktstraße,1,a,53.63303785,10.29889835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL6,22962,Siek,Marktstraße,1,b,53.63336507,10.29816773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL7,22962,Siek,Marktstraße,10,,53.63246925,10.29999947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL8,22962,Siek,Marktstraße,11,,53.63258369,10.3002884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrL9,22962,Siek,Marktstraße,2,,53.63315342,10.29808626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLA,22962,Siek,Neue Straße,21,,53.63473426,10.30050946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLB,22962,Siek,Neue Straße,22,,53.63441314,10.30100956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLC,22962,Siek,Neue Straße,23,,53.63489087,10.30048315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLD,22962,Siek,Neue Straße,24,,53.6345537,10.30121527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLE,22962,Siek,Neue Straße,25,,53.63506429,10.30047447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLF,22962,Siek,Neue Straße,26,,53.63476901,10.30096158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLG,22962,Siek,Neue Straße,27,,53.63518511,10.3003958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLH,22962,Siek,Neue Straße,28,,53.63494692,10.30104697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLI,22962,Siek,Neue Straße,29,,53.63531516,10.3003926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLJ,22962,Siek,Neue Straße,29,a,53.63548303,10.30036317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLK,22962,Siek,Neue Straße,29,b,53.63553915,10.30035018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLL,22962,Siek,Neue Straße,29,c,53.6356586,10.30029597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLM,22962,Siek,Neue Straße,29,d,53.63572002,10.30027257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLN,22962,Siek,Neue Straße,29,e,53.63582833,10.30022245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLO,22962,Siek,Neue Straße,29,f,53.63588929,10.30019937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLP,22962,Siek,Neue Straße,3,,53.63231659,10.30025223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLQ,22962,Siek,Neue Straße,3,a,53.63279341,10.30039042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLR,22962,Siek,Neue Straße,30,,53.63511902,10.30099299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLS,22962,Siek,Neue Straße,31,,53.63606858,10.30009525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLT,22962,Siek,Neue Straße,32,,53.63534367,10.30090119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLU,22962,Siek,Neue Straße,33,,53.6362856,10.29992566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLV,22962,Siek,Neue Straße,34,,53.63549437,10.30089717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLW,22962,Siek,Neue Straße,35,,53.63648853,10.29976372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLX,22962,Siek,Neue Straße,36,,53.63566588,10.30081306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLY,22962,Siek,Neue Straße,37,,53.63667254,10.29957964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLZ,22962,Siek,Neue Straße,38,,53.63613481,10.3006475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLa,22962,Siek,Marktstraße,2,a,53.63299809,10.29846658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLb,22962,Siek,Marktstraße,3,,53.63296532,10.29911102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLc,22962,Siek,Marktstraße,4,,53.63283053,10.29897474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLd,22962,Siek,Marktstraße,5,,53.6329009,10.29935554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLe,22962,Siek,Marktstraße,6,,53.63262839,10.29954963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLf,22962,Siek,Marktstraße,6,a,53.6327155,10.29928517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLg,22962,Siek,Marktstraße,7,,53.63278899,10.2996254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLh,22962,Siek,Marktstraße,8,,53.63253021,10.29979119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLi,22962,Siek,Marktstraße,9,,53.63279035,10.29999102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLj,22962,Siek,Neue Straße,1,,53.63191392,10.29998831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLk,22962,Siek,Neue Straße,1,a,53.63209026,10.30017806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLl,22962,Siek,Neue Straße,10,,53.63324899,10.30126037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLm,22962,Siek,Neue Straße,11,,53.63380058,10.30048481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLn,22962,Siek,Neue Straße,11,a,53.63375181,10.30047738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLo,22962,Siek,Neue Straße,12,,53.63342048,10.30110474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLp,22962,Siek,Neue Straße,13,,53.63397355,10.30054287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLq,22962,Siek,Neue Straße,14,,53.63365954,10.30113725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLr,22962,Siek,Neue Straße,15,a,53.63410612,10.30058592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLs,22962,Siek,Neue Straße,15,b,53.63416617,10.30059868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLt,22962,Siek,Neue Straße,16,,53.63386157,10.30124465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLu,22962,Siek,Neue Straße,17,,53.63429948,10.30060175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLv,22962,Siek,Neue Straße,18,,53.63402534,10.30105469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLw,22962,Siek,Neue Straße,19,,53.6345011,10.3005163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLx,22962,Siek,Neue Straße,19,a,53.63448046,10.29996767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLy,22962,Siek,Neue Straße,2,,53.63253851,10.30084436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrLz,22962,Siek,Neue Straße,20,,53.63420877,10.30104199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM0,22962,Siek,Neue Straße,39,,53.63684844,10.29946672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM1,22962,Siek,Neue Straße,4,,53.63270508,10.30110316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM2,22962,Siek,Neue Straße,40,,53.63629824,10.3004827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM3,22962,Siek,Neue Straße,41,,53.63701255,10.29932449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM4,22962,Siek,Neue Straße,42,,53.63679351,10.30013715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM5,22962,Siek,Neue Straße,43,,53.63717953,10.29918473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM6,22962,Siek,Neue Straße,44,,53.63696494,10.29981265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM7,22962,Siek,Neue Straße,46,,53.63719112,10.29961354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM8,22962,Siek,Neue Straße,5,,53.63298113,10.30046968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrM9,22962,Siek,Neue Straße,6,,53.63289544,10.30095956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMA,22962,Siek,Ohlenstücken,5,b,53.63632484,10.30162666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMB,22962,Siek,Ohlenstücken,6,,53.63572286,10.30184106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMC,22962,Siek,Ohlenstücken,7,,53.63662536,10.30141945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMD,22962,Siek,Ohlenstücken,8,,53.63591727,10.30178768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrME,22962,Siek,Papendorfer Weg,1,,53.63080145,10.29807729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMF,22962,Siek,Papendorfer Weg,2,,53.6306925,10.29767333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMG,22962,Siek,Papendorfer Weg,3,,53.63062205,10.29820671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMH,22962,Siek,Papendorfer Weg,5,,53.63039668,10.29825173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMI,22962,Siek,Papendorfer Weg,7,,53.63012684,10.2985005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMJ,22962,Siek,Schmiedekamp,1,,53.63027058,10.29789547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMK,22962,Siek,Schmiedekamp,10,,53.63025349,10.29703334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrML,22962,Siek,Schmiedekamp,11,,53.63000415,10.29707368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMM,22962,Siek,Schmiedekamp,12,,53.63022954,10.29694311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMN,22962,Siek,Schmiedekamp,13,,53.62991259,10.29692129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMO,22962,Siek,Schmiedekamp,14,,53.6301075,10.29672326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMP,22962,Siek,Schmiedekamp,2,,53.63040753,10.2977879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMQ,22962,Siek,Schmiedekamp,3,,53.63024656,10.29780572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMR,22962,Siek,Schmiedekamp,4,,53.6303837,10.29769935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMS,22962,Siek,Schmiedekamp,5,,53.63017299,10.29752989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMT,22962,Siek,Schmiedekamp,6,,53.63031173,10.29742145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMU,22962,Siek,Schmiedekamp,7,,53.63014918,10.29744137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMV,22962,Siek,Schmiedekamp,8,,53.63028745,10.29733249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMW,22962,Siek,Schmiedekamp,9,,53.63003557,10.2971986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMX,22962,Siek,Sieker Berg,1,,53.63533071,10.31268921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMY,22962,Siek,Sieker Berg,2,,53.63315881,10.30746656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMZ,22962,Siek,Sieker Berg,3,,53.63535979,10.31311079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMa,22962,Siek,Neue Straße,7,,53.63318569,10.30044923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMb,22962,Siek,Neue Straße,8,,53.63306597,10.30107697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMc,22962,Siek,Neue Straße,9,,53.63358339,10.30045947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMd,22962,Siek,Ohlenhof,11,,53.63457663,10.29379122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMe,22962,Siek,Ohlenhof,12,,53.63492486,10.29420826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMf,22962,Siek,Ohlenhof,13,,53.63471682,10.29371612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMg,22962,Siek,Ohlenhof,14,,53.6351591,10.294067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMh,22962,Siek,Ohlenhof,15,,53.63485968,10.29362621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMi,22962,Siek,Ohlenhof,16,,53.63530245,10.29454634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMj,22962,Siek,Ohlenhof,17,,53.63510978,10.29353183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMk,22962,Siek,Ohlenhof,18,,53.63547973,10.2948425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMl,22962,Siek,Ohlenhof,19,,53.63505784,10.29313487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMm,22962,Siek,Ohlenhof,21,,53.63536194,10.29285597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMn,22962,Siek,Ohlenhof,23,,53.63543329,10.29322889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMo,22962,Siek,Ohlenhof,25,,53.63539326,10.29360644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMp,22962,Siek,Ohlenhof,26,,53.6359616,10.29463784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMq,22962,Siek,Ohlenhof,27,,53.63547049,10.29432367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMr,22962,Siek,Ohlenhof,29,,53.63568887,10.29455401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMs,22962,Siek,Ohlenhof,6,,53.63421677,10.29463473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMt,22962,Siek,Ohlenhof,8,,53.63435343,10.2944823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMu,22962,Siek,Ohlenhof,9,,53.63441165,10.29387155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMv,22962,Siek,Ohlenstücken,1,,53.63594903,10.30092055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMw,22962,Siek,Ohlenstücken,2,,53.63584539,10.30142273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMx,22962,Siek,Ohlenstücken,3,,53.63617315,10.30115108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMy,22962,Siek,Ohlenstücken,4,,53.6356578,10.30147216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrMz,22962,Siek,Ohlenstücken,5,,53.63625748,10.3013914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN0,22962,Siek,Sieker Berg,3,a,53.63543001,10.31326863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN1,22962,Siek,Sieker Berg,4,,53.63449967,10.31183571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN2,22962,Siek,Sieker Berg,4,a,53.63493557,10.3128733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN3,22962,Siek,Sieker Berg,5,,53.63572666,10.31385686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN4,22962,Siek,Sieker Berg,6,,53.63506311,10.31313802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN5,22962,Siek,Sieker Berg,8,,53.63518014,10.31335998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN6,22962,Siek,Sieker Feld,7,,53.62242058,10.2929542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN7,22962,Siek,Dohm,1,,53.63674395,10.29709865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN8,22962,Siek,Dohm,10,,53.63710698,10.29619419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrN9,22962,Siek,Dohm,11,,53.63688319,10.29619178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNA,22962,Siek,Jacobsrade,4,a,53.64223774,10.28455315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNB,22962,Siek,Jacobsrade,40,,53.64548527,10.28526469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNC,22962,Siek,Jacobsrade,42,,53.64604501,10.28542197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrND,22962,Siek,Jacobsrade,44,,53.64610152,10.28549692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNE,22962,Siek,Jacobsrade,46,,53.64615921,10.28557351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNF,22962,Siek,Jacobsrade,5,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNG,22962,Siek,Jacobsrade,56,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNH,22962,Siek,Jacobsrade,57,,53.64543378,10.29227778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNI,22962,Siek,Jacobsrade,58,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNJ,22962,Siek,Jacobsrade,6,,53.6426153,10.28459007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNK,22962,Siek,Jacobsrade,60,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNL,22962,Siek,Jacobsrade,62,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNM,22962,Siek,Jacobsrade,64,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNN,22962,Siek,Jacobsrade,66,,53.64793527,10.29084272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNO,22962,Siek,Jacobsrade,7,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNP,22962,Siek,Jacobsrade,84,,53.64579794,10.29263376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNQ,22962,Siek,Jacobsrade,9,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNa,22962,Siek,Dohm,12,,53.63668056,10.29623551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNb,22962,Siek,Dohm,2,,53.63694164,10.29707363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNc,22962,Siek,Dohm,3,,53.63713954,10.29690827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNd,22962,Siek,Dohm,4,,53.63728746,10.29704578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNe,22962,Siek,Dohm,5,,53.63756208,10.29707235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNf,22962,Siek,Dohm,6,,53.63764878,10.29671678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNg,22962,Siek,Dohm,7,,53.63763861,10.2963775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNh,22962,Siek,Dohm,8,,53.63764744,10.29595214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNi,22962,Siek,Dohm,9,,53.63742263,10.29598031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNj,22962,Siek,Mannhagen,1,,53.64473775,10.28535869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNk,22962,Siek,Mannhagen,2,,53.64442647,10.2851033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNl,22962,Siek,Mannhagen,3,,53.64438438,10.28603177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNm,22962,Siek,Jacobsrade,1,,53.64224718,10.28747075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNn,22962,Siek,Jacobsrade,11,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNo,22962,Siek,Jacobsrade,13,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNp,22962,Siek,Jacobsrade,15,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNq,22962,Siek,Jacobsrade,17,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNr,22962,Siek,Jacobsrade,19,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNs,22962,Siek,Jacobsrade,2,,53.6417367,10.28540068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNt,22962,Siek,Jacobsrade,20,,53.64408401,10.28320538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNu,22962,Siek,Jacobsrade,21,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNv,22962,Siek,Jacobsrade,3,,53.64314479,10.28476635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNw,22962,Siek,Jacobsrade,34,,53.64511554,10.28437001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNx,22962,Siek,Jacobsrade,36,,53.64514353,10.28440813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNy,22962,Siek,Jacobsrade,38,,53.6454397,10.28520175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrNz,22962,Siek,Jacobsrade,4,,53.64172515,10.2853683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JyXx,22962,Siek,Alte Landstraße,53,b,53.62506575,10.28138187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RE2m,22962,Siek,Hansdorfer Weg,1,a,53.63703815,10.29306062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ri8K,22962,Siek,Alte Landstraße,23,a,53.63158949,10.30064994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TkMw,22962,Siek,Dorfstraße,24,,53.62905702,10.26785835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4G,22962,Siek,Fichtenweg,35,,53.63832912,10.29808738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4J,22962,Siek,Fichtenweg,41,,53.63846837,10.29881687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4L,22962,Siek,Fichtenweg,39,,53.63843689,10.29857826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4S,22962,Siek,Fichtenweg,90,,53.63777316,10.29861581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4V,22962,Siek,Fichtenweg,88,,53.63782713,10.29895211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4h,22962,Siek,Fichtenweg,72,,53.6380353,10.29817221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4j,22962,Siek,Fichtenweg,74,,53.63804487,10.29826086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4l,22962,Siek,Fichtenweg,76,,53.63805486,10.29835431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4n,22962,Siek,Fichtenweg,78,,53.63806495,10.29844805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4p,22962,Siek,Fichtenweg,80,,53.63807515,10.29854154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4r,22962,Siek,Fichtenweg,82,,53.6380858,10.29863491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4t,22962,Siek,Fichtenweg,84,,53.63809538,10.29872839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ4v,22962,Siek,Fichtenweg,86,,53.63810494,10.29881752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WZ55,22962,Siek,Fichtenweg,92,,53.63770721,10.2983526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y04N,22962,Siek,Fichtenweg,94,,53.63753699,10.29835474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y04Q,22962,Siek,Fichtenweg,96,,53.63756999,10.29863018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y04Y,22962,Siek,Fichtenweg,98,,53.63759913,10.29893102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y05J,22962,Siek,Weidenkamp,7,,53.63829399,10.30018452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y05N,22962,Siek,Weidenkamp,1,,53.63826138,10.29933902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y05Q,22962,Siek,Weidenkamp,5,,53.63825018,10.29984556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y05V,22962,Siek,Weidenkamp,3,,53.63820349,10.29960899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06B,22962,Siek,Weidenkamp,2,a,53.63800838,10.29945565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06I,22962,Siek,Fichtenweg,43,,53.63774315,10.29938526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06k,22962,Siek,Weidenkamp,9,,53.6383757,10.30058026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06s,22962,Siek,Weidenkamp,4,,53.63806183,10.29972427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06v,22962,Siek,Weidenkamp,6,,53.63805905,10.30002609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y06y,22962,Siek,Weidenkamp,2,,53.63799882,10.29935881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053MQ4,22962,Siek,Hauptstraße,27,a,53.63702898,10.29081361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056eoe,22962,Siek,Dorfstraße,20,,53.62927673,10.26876499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058DAC,22962,Siek,Kampsredder,4,,53.62947902,10.26178304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059WiW,22962,Siek,Hansdorfer Weg,31,,53.63942197,10.29192938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059Wj5,22962,Siek,Hansdorfer Weg,29,,53.6394476,10.29162352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059Wjh,22962,Siek,Hansdorfer Weg,25,,53.63915275,10.2916415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059Wl1,22962,Siek,Hansdorfer Weg,23,,53.63900485,10.29163111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059Wl6,22962,Siek,Hansdorfer Weg,21,,53.63915198,10.29197183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059Wlc,22962,Siek,Hansdorfer Weg,19,,53.63918075,10.2922885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Cbnk,22962,Siek,Dorfstraße,5,b,53.628935,10.26907216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EllO,22962,Siek,Jacobsrade,18,,53.64310485,10.28399337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Jbgw,22962,Siek,Jacobsrade,8,,53.6427677,10.28435178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Jbgx,22962,Siek,Jacobsrade,10,,53.64276956,10.28435505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005L3Ke,22962,Siek,Jacobsrade,86,,53.64268909,10.29017374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Lf2R,22962,Siek,Meilsdorfer Damm,1,b,53.62349374,10.27680971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005OHOc,22962,Siek,Hansdorfer Weg,17,,53.63917232,10.29263807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005OHOd,22962,Siek,Hansdorfer Weg,17,a,53.63917517,10.29252492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005OHoM,22962,Siek,Jacobsrade,65,,53.64424149,10.28951876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SpKo,22962,Siek,Jacobsrade,32,a,53.64470681,10.28427543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SpvC,22962,Siek,Jacobsrade,80,,53.64576587,10.29196878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UIBN,22962,Siek,Jacobsrade,67,,53.64398926,10.2893368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UJcR,22962,Siek,Jacobsrade,23,,53.64498631,10.28558452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005go3Z,22962,Siek,Mannhagen,5,,53.6442874,10.28681265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tg3U,22962,Siek,Kirchenweg,16,a,53.6331392,10.29674723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wgGe,22962,Siek,Dorfstraße,44,,53.62952568,10.26281576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000670dN,22962,Siek,Dorfstraße,48,,53.62995543,10.26262793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IGgD,22962,Siek,Gutsstraße,19,,53.63248863,10.26592024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NhWu,22962,Siek,Jacobsrade,74,,53.64590212,10.29107176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XIAt,22962,Siek,Fichtenweg,37,a,53.63835503,10.29834328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XIAu,22962,Siek,Fichtenweg,37,b,53.63844013,10.2983199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cujJ,22962,Siek,Jacobsrade,71,,53.64365142,10.28916051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cujK,22962,Siek,Jacobsrade,73,,53.64349186,10.28908267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ddEP,22962,Siek,Jacobsrade,4,b,53.64149792,10.28444703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fh3n,22962,Siek,Alte Landstraße,10,b,53.63088362,10.29623867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fh3s,22962,Siek,Alte Landstraße,10,a,53.63101756,10.29666764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fh3y,22962,Siek,Alte Landstraße,10,,53.63102505,10.29712745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fx8H,22962,Siek,Jacobsrade,63,,53.64462823,10.29011369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jn4H,22962,Siek,Dorfstraße,46,,53.6297526,10.2626224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kKUw,22962,Siek,Jacobsrade,4,c,53.64218862,10.28515548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oPQe,22962,Siek,Dorfstraße,58,a,53.63121863,10.26178497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pKrM,22962,Siek,Hauptstraße,36,a,53.63701522,10.29025366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pKrO,22962,Siek,Hauptstraße,36,b,53.63698222,10.2903265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pKsK,22962,Siek,Hauptstraße,36,g,53.63682744,10.2900235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pKsd,22962,Siek,Hauptstraße,36,l,53.63664803,10.29048514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pKsr,22962,Siek,Hauptstraße,36,h,53.63674116,10.28973985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qCj7,22962,Siek,Hauptstraße,36,i,53.63665364,10.28992847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qCj8,22962,Siek,Hauptstraße,36,k,53.63661282,10.29001848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rNRo,22962,Siek,Hauptstraße,36,c,53.63689335,10.29053057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rNRp,22962,Siek,Hauptstraße,36,d,53.63686226,10.29060047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rNRq,22962,Siek,Hauptstraße,36,e,53.63683072,10.29067138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rNRr,22962,Siek,Hauptstraße,36,f,53.63679844,10.29074393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vZFX,22962,Siek,Jacobsrade,82,,53.64581369,10.2923407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079VNQ,22962,Siek,Hauptstraße,2,c,53.6403469,10.2821308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079VNW,22962,Siek,Hauptstraße,2,d,53.64047253,10.28187469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079VO1,22962,Siek,Hauptstraße,2,e,53.64060538,10.28160447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CoGA,22962,Siek,Jacobsrade,36,a,53.64520008,10.28507949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT3P,22962,Siek,Kirchenstieg,1,,53.6331806,10.29605314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT3S,22962,Siek,Kirchenstieg,11,,53.63295922,10.29555065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT3V,22962,Siek,Kirchenstieg,7,,53.6330574,10.29576506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT3Y,22962,Siek,Kirchenstieg,5,,53.63308326,10.29584099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT41,22962,Siek,Kirchenstieg,3,,53.63315464,10.29597711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT44,22962,Siek,Kirchenstieg,9,,53.6329859,10.29562893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4H,22962,Siek,Kirchenstieg,4,,53.63319666,10.29566152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4K,22962,Siek,Kirchenstieg,6,,53.63321195,10.29548703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4N,22962,Siek,Kirchenstieg,8,,53.63319064,10.29540718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4Q,22962,Siek,Kirchenstieg,10,,53.63312172,10.29526439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4T,22962,Siek,Kirchenstieg,12,,53.63310035,10.2951845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4d,22962,Siek,Kirchenstieg,17,,53.63263957,10.29518288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4g,22962,Siek,Kirchenstieg,15,,53.63275092,10.29533251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4j,22962,Siek,Kirchenstieg,13,,53.63278223,10.2954526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4l,22962,Siek,Kirchenstieg,23,,53.63280742,10.29494146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4p,22962,Siek,Kirchenstieg,21,,53.63275786,10.29497813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT4s,22962,Siek,Kirchenstieg,19,,53.63266851,10.29509377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT51,22962,Siek,Kirchenstieg,2,,53.63330503,10.29570512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT5a,22962,Siek,Kirchenstieg,14,,53.63304536,10.29503105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT5d,22962,Siek,Kirchenstieg,16,,53.63302412,10.294951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT5g,22962,Siek,Kirchenstieg,18,,53.63295589,10.29480766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LT5o,22962,Siek,Kirchenstieg,20,,53.63293457,10.29472769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007NU8n,22962,Siek,Gutskoppel,3,a,53.62970921,10.2688927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UErE,22962,Siek,Hauptstraße,32,a,53.63696798,10.28908322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YxDG,22962,Siek,Hoisdorfer Weg,5,a,53.63721811,10.29772004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yxsf,22962,Siek,Papendorfer Weg,9,,53.63032389,10.29882528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yxsg,22962,Siek,Papendorfer Weg,11,,53.63036015,10.2989662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yxsn,22962,Siek,Papendorfer Weg,13,,53.63032457,10.2991419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yxso,22962,Siek,Papendorfer Weg,15,,53.63024719,10.29919948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZWRf,22962,Siek,Jacobsrade,61,,53.64510598,10.2904261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kRQo,22962,Siek,Hauptstraße,36,p,53.63615856,10.29401189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kh1j,22962,Siek,Jacobsrade,78,,53.64579771,10.29152075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pOp9,22962,Siek,Dorfstraße,35,b,53.63021419,10.26215429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007r6sy,22962,Siek,Papendorfer Weg,48,,53.62713156,10.3003047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007r6sz,22962,Siek,Papendorfer Weg,50,,53.62693485,10.30042135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000852Eb,22962,Siek,Jacobsrade,75,,53.64329169,10.28910602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bTWc,22962,Siek,Bültbek,44,a,53.63936425,10.28143809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bw4B,22962,Siek,Hauptstraße,20,a,53.63769289,10.28804974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eQzv,22962,Siek,Am Bürgerpark,1,,53.64059433,10.28616923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008giwv,22962,Siek,Jacobsrade,27,,53.64565258,10.28634151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tmss,22962,Siek,An der Feuerwache,1,,53.6364377,10.29256981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uMTT,22962,Siek,Ohlenhof,5,,53.63404205,10.29407362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ufVw,22962,Siek,Uhlenbusch,27,,53.6271647,10.26442735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uq3t,22962,Siek,Alte Landstraße,55,c,53.62427912,10.27714086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008v2oO,22962,Siek,Knakenhof,3,,53.63452496,10.29644177

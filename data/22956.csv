@@ -1,0 +1,542 @@
+# Amtliche Adressen für die Postleitzahl 22956
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHS,22956,Grönwohld,Alte Siedlung,1,,53.63972959,10.40400202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHT,22956,Grönwohld,Alte Siedlung,10,,53.63931274,10.40286993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHU,22956,Grönwohld,Alte Siedlung,10,a,53.6391412,10.40299728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHV,22956,Grönwohld,Alte Siedlung,11,,53.63945781,10.4026048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHW,22956,Grönwohld,Alte Siedlung,12,,53.63911418,10.4024611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHX,22956,Grönwohld,Alte Siedlung,14,,53.63888526,10.40217046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHY,22956,Grönwohld,Alte Siedlung,14,a,53.6385968,10.40283008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlHZ,22956,Grönwohld,Alte Siedlung,14,b,53.63875269,10.40249557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI0,22956,Grönwohld,Alte Siedlung,15,,53.63935585,10.40236396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI1,22956,Grönwohld,Alte Siedlung,16,,53.63838931,10.40324069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI2,22956,Grönwohld,Alte Siedlung,17,,53.63919797,10.40210102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI3,22956,Grönwohld,Alte Siedlung,18,,53.63844751,10.40348516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI4,22956,Grönwohld,Alte Siedlung,19,,53.63862282,10.402103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI5,22956,Grönwohld,Alte Siedlung,2,,53.63954702,10.40421496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI6,22956,Grönwohld,Alte Siedlung,21,,53.63849221,10.40235078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI7,22956,Grönwohld,Alte Siedlung,23,,53.63819101,10.40261729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI8,22956,Grönwohld,Alte Siedlung,25,,53.6381167,10.40300233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlI9,22956,Grönwohld,Alte Siedlung,3,,53.63970073,10.40369667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIA,22956,Grönwohld,Bahnhofstraße,24,,53.6407631,10.40420205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIB,22956,Grönwohld,Bahnhofstraße,25,,53.64092985,10.40307597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIC,22956,Grönwohld,Bahnhofstraße,26,,53.64075489,10.40391474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlID,22956,Grönwohld,Bahnhofstraße,27,,53.64088682,10.40273183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIE,22956,Grönwohld,Bahnhofstraße,28,,53.6407257,10.4035683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIF,22956,Grönwohld,Bahnhofstraße,29,,53.64085874,10.40248662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIG,22956,Grönwohld,Bahnhofstraße,3,,53.64159444,10.40596656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIH,22956,Grönwohld,Bahnhofstraße,30,,53.6406946,10.40333423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlII,22956,Grönwohld,Bahnhofstraße,31,,53.64081074,10.40220181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIJ,22956,Grönwohld,Bahnhofstraße,32,,53.64066478,10.4030866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIK,22956,Grönwohld,Bahnhofstraße,33,,53.64078249,10.40200115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIL,22956,Grönwohld,Bahnhofstraße,34,,53.64064816,10.40294553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIM,22956,Grönwohld,Bahnhofstraße,34,a,53.6406439,10.40285303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIN,22956,Grönwohld,Bahnhofstraße,35,,53.64074626,10.40174635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIO,22956,Grönwohld,Bahnhofstraße,36,,53.6405967,10.40258627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIP,22956,Grönwohld,Bahnhofstraße,37,,53.64070251,10.40126647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIQ,22956,Grönwohld,Bahnhofstraße,38,,53.6405817,10.40248295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIR,22956,Grönwohld,Bahnhofstraße,4,,53.64145758,10.40766769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIS,22956,Grönwohld,Bahnhofstraße,40,,53.64053876,10.40220514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIT,22956,Grönwohld,Bahnhofstraße,42,,53.64048238,10.40192286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIU,22956,Grönwohld,Bahnhofstraße,44,,53.64047045,10.40184698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIV,22956,Grönwohld,Bahnhofstraße,46,,53.64045657,10.40153638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIW,22956,Grönwohld,Bahnhofstraße,48,,53.64041447,10.40140776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIX,22956,Grönwohld,Bahnhofstraße,5,a,53.64193729,10.40525788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIY,22956,Grönwohld,Bahnhofstraße,5,b,53.64129873,10.40588753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIZ,22956,Grönwohld,Bahnhofstraße,50,,53.64037332,10.40110084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIa,22956,Grönwohld,Alte Siedlung,4,,53.63948119,10.40361933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIb,22956,Grönwohld,Alte Siedlung,5,,53.63968666,10.40357941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIc,22956,Grönwohld,Alte Siedlung,6,,53.6394277,10.40324843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlId,22956,Grönwohld,Alte Siedlung,7,,53.63965074,10.40328937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIe,22956,Grönwohld,Alte Siedlung,8,,53.63938843,10.40309193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIf,22956,Grönwohld,Alte Siedlung,9,,53.63957364,10.4029412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIg,22956,Grönwohld,Bahnhofstraße,1,,53.64168956,10.40795279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIh,22956,Grönwohld,Bahnhofstraße,10,,53.64129069,10.4069832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIi,22956,Grönwohld,Bahnhofstraße,11,,53.64103308,10.40458201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIj,22956,Grönwohld,Bahnhofstraße,12,,53.64125719,10.40677195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIk,22956,Grönwohld,Bahnhofstraße,14,,53.64122298,10.40659027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIl,22956,Grönwohld,Bahnhofstraße,15,,53.641028,10.40431471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIm,22956,Grönwohld,Bahnhofstraße,16,,53.64115257,10.40628696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIn,22956,Grönwohld,Bahnhofstraße,16,a,53.64052793,10.40649328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIo,22956,Grönwohld,Bahnhofstraße,17,,53.64108601,10.40398865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIp,22956,Grönwohld,Bahnhofstraße,18,,53.64104176,10.40599518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIq,22956,Grönwohld,Bahnhofstraße,18,a,53.64062486,10.40613852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIr,22956,Grönwohld,Bahnhofstraße,19,,53.64101201,10.40381036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIs,22956,Grönwohld,Bahnhofstraße,2,,53.64144532,10.40830344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIt,22956,Grönwohld,Bahnhofstraße,2,a,53.6414389,10.40819422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIu,22956,Grönwohld,Bahnhofstraße,20,,53.64097061,10.4057749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIv,22956,Grönwohld,Bahnhofstraße,20,a,53.64064643,10.40580118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIw,22956,Grönwohld,Bahnhofstraße,21,,53.64099961,10.40355076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIx,22956,Grönwohld,Bahnhofstraße,22,,53.64071114,10.40469245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIy,22956,Grönwohld,Bahnhofstraße,22,a,53.64084927,10.40492861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlIz,22956,Grönwohld,Bahnhofstraße,23,,53.6409774,10.4033529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ0,22956,Grönwohld,Bahnhofstraße,6,,53.64140155,10.40746495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ1,22956,Grönwohld,Bahnhofstraße,7,,53.64119805,10.40510371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ2,22956,Grönwohld,Bahnhofstraße,8,,53.64134042,10.4072098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ3,22956,Grönwohld,Bahnhofstraße,9,,53.64118322,10.40502371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ4,22956,Grönwohld,Bahnhofstraße,9,a,53.64135059,10.40474459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ5,22956,Grönwohld,Dorfstraße,1,,53.64219028,10.4087948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ6,22956,Grönwohld,Dorfstraße,10,,53.64308362,10.40752276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ7,22956,Grönwohld,Dorfstraße,10,a,53.64291333,10.40720271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ8,22956,Grönwohld,Dorfstraße,10,b,53.64315528,10.40715238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJ9,22956,Grönwohld,Dorfstraße,11,,53.64413053,10.4076789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJA,22956,Grönwohld,Dorfstraße,27,,53.64672518,10.40952056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJB,22956,Grönwohld,Dorfstraße,28,,53.64645988,10.40867322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJC,22956,Grönwohld,Dorfstraße,29,,53.64982814,10.41058218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJD,22956,Grönwohld,Dorfstraße,3,,53.64240915,10.40869673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJE,22956,Grönwohld,Dorfstraße,30,,53.64659274,10.40884238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJF,22956,Grönwohld,Dorfstraße,32,,53.64680545,10.408975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJG,22956,Grönwohld,Dorfstraße,32,a,53.6472374,10.40937887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJH,22956,Grönwohld,Dorfstraße,32,b,53.64746551,10.40949969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJI,22956,Grönwohld,Dorfstraße,32,c,53.64700455,10.40915222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJJ,22956,Grönwohld,Dorfstraße,34,,53.64786333,10.40963377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJK,22956,Grönwohld,Dorfstraße,34,a,53.64807612,10.40963235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJL,22956,Grönwohld,Dorfstraße,36,a,53.64826036,10.40963084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJM,22956,Grönwohld,Dorfstraße,36,b,53.64833044,10.40963129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJN,22956,Grönwohld,Dorfstraße,36,c,53.64844256,10.40964803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJO,22956,Grönwohld,Dorfstraße,38,,53.64861026,10.4096154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJP,22956,Grönwohld,Dorfstraße,38,a,53.64863706,10.40929883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJQ,22956,Grönwohld,Dorfstraße,38,b,53.64863234,10.40919137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJR,22956,Grönwohld,Dorfstraße,4,,53.64233592,10.40820464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJS,22956,Grönwohld,Dorfstraße,40,,53.64900348,10.40963525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJT,22956,Grönwohld,Dorfstraße,5,,53.64257214,10.40839776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJU,22956,Grönwohld,Dorfstraße,5,a,53.64262596,10.40867597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJV,22956,Grönwohld,Dorfstraße,6,,53.64255241,10.40803705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJW,22956,Grönwohld,Dorfstraße,7,,53.64271822,10.40828791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJX,22956,Grönwohld,Dorfstraße,7,a,53.64282674,10.40817954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJY,22956,Grönwohld,Dorfstraße,8,,53.64280747,10.40756719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJZ,22956,Grönwohld,Dorfstraße,8,a,53.64295949,10.40760301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJa,22956,Grönwohld,Dorfstraße,12,,53.64339269,10.40717088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJb,22956,Grönwohld,Dorfstraße,12,a,53.64347643,10.40673458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJc,22956,Grönwohld,Dorfstraße,14,,53.64379686,10.40717979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJd,22956,Grönwohld,Dorfstraße,14,a,53.64369138,10.40705685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJe,22956,Grönwohld,Dorfstraße,15,,53.64448685,10.4078238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJf,22956,Grönwohld,Dorfstraße,15,a,53.64440888,10.40864094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJg,22956,Grönwohld,Dorfstraße,15,b,53.6440527,10.41030888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJh,22956,Grönwohld,Dorfstraße,16,,53.64393414,10.40704404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJi,22956,Grönwohld,Dorfstraße,17,,53.64477902,10.40802784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJj,22956,Grönwohld,Dorfstraße,17,b,53.64448325,10.4102203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJk,22956,Grönwohld,Dorfstraße,17,c,53.64451925,10.4101407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJl,22956,Grönwohld,Dorfstraße,18,,53.64453756,10.4070104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJm,22956,Grönwohld,Dorfstraße,18,a,53.64409449,10.40655554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJn,22956,Grönwohld,Dorfstraße,18,b,53.64412398,10.40683866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJo,22956,Grönwohld,Dorfstraße,19,,53.64512866,10.40808586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJp,22956,Grönwohld,Dorfstraße,2,,53.64197722,10.40843963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJq,22956,Grönwohld,Dorfstraße,20,,53.6452768,10.40761577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJr,22956,Grönwohld,Dorfstraße,20,a,53.64534024,10.40763808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJs,22956,Grönwohld,Dorfstraße,21,,53.64552994,10.40814346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJt,22956,Grönwohld,Dorfstraße,21,a,53.64540832,10.41055591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJu,22956,Grönwohld,Dorfstraße,22,,53.64562369,10.40753184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJv,22956,Grönwohld,Dorfstraße,23,,53.6460496,10.40874554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJw,22956,Grönwohld,Dorfstraße,24,,53.64588359,10.40796833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJx,22956,Grönwohld,Dorfstraße,25,,53.64638247,10.40920048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJy,22956,Grönwohld,Dorfstraße,25,a,53.64656075,10.40939567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlJz,22956,Grönwohld,Dorfstraße,26,,53.64609843,10.40837879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK0,22956,Grönwohld,Dorfstraße,9,,53.64367794,10.40772292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK1,22956,Grönwohld,Drahtmühle,1,,53.64031262,10.40005371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK2,22956,Grönwohld,Drahtmühle,10,,53.63885021,10.3999823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK3,22956,Grönwohld,Drahtmühle,11,,53.63889361,10.39807088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK4,22956,Grönwohld,Drahtmühle,13,,53.63838489,10.39839992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK5,22956,Grönwohld,Drahtmühle,15,,53.63710566,10.39670212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK6,22956,Grönwohld,Drahtmühle,17,,53.63676864,10.39647493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK7,22956,Grönwohld,Drahtmühle,19,,53.63650126,10.39650555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK8,22956,Grönwohld,Drahtmühle,20,,53.63580247,10.39570234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlK9,22956,Grönwohld,Drahtmühle,22,,53.63581075,10.39506036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKA,22956,Grönwohld,Papierholz,1,,53.63635757,10.40846875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKB,22956,Grönwohld,Papierholz,1,a,53.63651161,10.40877497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKC,22956,Grönwohld,Papierholz,10,,53.63600618,10.40835969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKD,22956,Grönwohld,Papierholz,10,a,53.63585085,10.40810811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKE,22956,Grönwohld,Papierholz,10,c,53.63398991,10.40724002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKF,22956,Grönwohld,Papierholz,11,,53.63436598,10.40674376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKG,22956,Grönwohld,Papierholz,11,a,53.63445248,10.40623858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKH,22956,Grönwohld,Papierholz,11,b,53.63419871,10.40621084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKI,22956,Grönwohld,Papierholz,12,,53.63360124,10.40704344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKJ,22956,Grönwohld,Papierholz,14,,53.63335625,10.40700568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKK,22956,Grönwohld,Papierholz,15,,53.63411944,10.4066913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKL,22956,Grönwohld,Papierholz,16,,53.63309507,10.40703953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKM,22956,Grönwohld,Papierholz,17,,53.63393797,10.40665553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKN,22956,Grönwohld,Papierholz,18,,53.63142198,10.40707268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKO,22956,Grönwohld,Papierholz,19,,53.63367705,10.40668891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKP,22956,Grönwohld,Papierholz,2,,53.63684036,10.40951761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKQ,22956,Grönwohld,Papierholz,21,,53.63149384,10.4064777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKR,22956,Grönwohld,Papierholz,3,a,53.63604032,10.40773198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKS,22956,Grönwohld,Papierholz,3,b,53.63604032,10.40773198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKT,22956,Grönwohld,Papierholz,3,c,53.63604032,10.40773198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKU,22956,Grönwohld,Papierholz,3,d,53.63592678,10.40746789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKV,22956,Grönwohld,Papierholz,3,e,53.63575771,10.40726302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKW,22956,Grönwohld,Papierholz,4,,53.63669278,10.40941044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKX,22956,Grönwohld,Papierholz,5,,53.63549272,10.40714605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKY,22956,Grönwohld,Papierholz,5,a,53.63537466,10.40618025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKZ,22956,Grönwohld,Papierholz,5,b,53.63547891,10.40615105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKa,22956,Grönwohld,Drahtmühle,24,,53.63572694,10.39460004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKb,22956,Grönwohld,Drahtmühle,26,,53.63564924,10.39422827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKc,22956,Grönwohld,Drahtmühle,26,a,53.6356045,10.39393635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKd,22956,Grönwohld,Drahtmühle,28,,53.63561844,10.3937007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKe,22956,Grönwohld,Drahtmühle,28,a,53.63506014,10.39377617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKf,22956,Grönwohld,Drahtmühle,3,,53.63985949,10.39951904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKg,22956,Grönwohld,Drahtmühle,30,,53.63560203,10.39267253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKh,22956,Grönwohld,Drahtmühle,32,,53.63594014,10.39264305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKi,22956,Grönwohld,Drahtmühle,34,,53.63607151,10.39207247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKj,22956,Grönwohld,Drahtmühle,36,,53.63607238,10.39158986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKk,22956,Grönwohld,Drahtmühle,5,,53.63973929,10.39943888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKl,22956,Grönwohld,Drahtmühle,7,,53.63968799,10.39921936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKm,22956,Grönwohld,Drahtmühle,9,,53.63956908,10.39912418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKn,22956,Grönwohld,Drahtmühle,9,a,53.63956772,10.39882688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKo,22956,Grönwohld,Drahtmühle,9,b,53.63935146,10.39876147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKp,22956,Grönwohld,Dwerkaten,1,,53.66396991,10.40712235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKq,22956,Grönwohld,Dwerkaten,2,,53.6660063,10.40503922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKr,22956,Grönwohld,Dwerkaten,2,a,53.6665363,10.40572341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKs,22956,Grönwohld,Dwerkaten,3,,53.66637387,10.40459783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKt,22956,Grönwohld,Dwerkaten,4,,53.66721685,10.40348043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKu,22956,Grönwohld,Dwerkaten,4,a,53.66700671,10.40371981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKv,22956,Grönwohld,Dwerkaten,5,,53.66752535,10.40331702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKw,22956,Grönwohld,Dwerkaten,6,,53.66802474,10.40538838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKx,22956,Grönwohld,Dwerkaten,7,,53.66796595,10.40587092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKy,22956,Grönwohld,Hohe Leuchte,1,,53.65724239,10.41830202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlKz,22956,Grönwohld,Hohe Leuchte,2,,53.6583018,10.41461168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL0,22956,Grönwohld,Papierholz,6,,53.63640495,10.40913851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL1,22956,Grönwohld,Papierholz,7,,53.63491039,10.40687499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL2,22956,Grönwohld,Papierholz,8,,53.63608919,10.40881692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL3,22956,Grönwohld,Papierholz,8,a,53.63605167,10.40843883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL4,22956,Grönwohld,Radeland,1,a,53.64052553,10.40427548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL5,22956,Grönwohld,Radeland,1,b,53.64061054,10.40429281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL6,22956,Grönwohld,Radeland,1,c,53.64072299,10.40429872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL7,22956,Grönwohld,Radeland,1,d,53.64037558,10.40420462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL8,22956,Grönwohld,Radeland,10,,53.63962523,10.40464737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlL9,22956,Grönwohld,Radeland,11,,53.63866024,10.40428588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLA,22956,Grönwohld,Radeland,33,,53.63765587,10.40169077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLB,22956,Grönwohld,Radeland,34,,53.63774301,10.4036387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLC,22956,Grönwohld,Radeland,35,,53.637453,10.40171631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLD,22956,Grönwohld,Radeland,36,,53.63764201,10.4033659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLE,22956,Grönwohld,Radeland,37,,53.63724332,10.40178009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLF,22956,Grönwohld,Radeland,38,,53.63756267,10.40311046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLG,22956,Grönwohld,Radeland,39,,53.63706187,10.40186455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLH,22956,Grönwohld,Radeland,4,,53.64004737,10.40453581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLI,22956,Grönwohld,Radeland,40,,53.63750147,10.40285112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLJ,22956,Grönwohld,Radeland,42,,53.63743606,10.40258907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLK,22956,Grönwohld,Radeland,42,a,53.63737523,10.40265619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLL,22956,Grönwohld,Radeland,44,,53.637372,10.40232138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLM,22956,Grönwohld,Radeland,46,,53.63727085,10.40211824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLN,22956,Grönwohld,Radeland,7,,53.63934039,10.40426931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLO,22956,Grönwohld,Radeland,8,,53.63976961,10.40461571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLP,22956,Grönwohld,Radeland,9,,53.63919072,10.40425399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLQ,22956,Grönwohld,Roter Hahn,1,,53.65621824,10.40870807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLR,22956,Grönwohld,Steinern,1,,53.64208019,10.40967137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLS,22956,Grönwohld,Steinern,1,a,53.64192168,10.40917231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLT,22956,Grönwohld,Steinern,10,,53.64253132,10.42736583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLU,22956,Grönwohld,Steinern,11,,53.64231244,10.42975477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLV,22956,Grönwohld,Steinern,12,,53.64198285,10.43680384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLW,22956,Grönwohld,Steinern,2,,53.64203354,10.40991654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLX,22956,Grönwohld,Steinern,2,a,53.64222263,10.41016172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLY,22956,Grönwohld,Steinern,2,b,53.64228405,10.41019647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLZ,22956,Grönwohld,Steinern,3,,53.64196779,10.41023283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLa,22956,Grönwohld,Radeland,12,,53.6394963,10.40467007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLb,22956,Grönwohld,Radeland,14,,53.63937645,10.4046661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLc,22956,Grönwohld,Radeland,14,a,53.63938479,10.40483257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLd,22956,Grönwohld,Radeland,15,,53.63849261,10.40422981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLe,22956,Grönwohld,Radeland,16,,53.63925741,10.40469403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLf,22956,Grönwohld,Radeland,16,a,53.63919454,10.40470642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLg,22956,Grönwohld,Radeland,17,,53.63833198,10.40411213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLh,22956,Grönwohld,Radeland,18,,53.63881866,10.40471709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLi,22956,Grönwohld,Radeland,19,,53.63811413,10.40383171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLj,22956,Grönwohld,Radeland,2,,53.64029928,10.40451328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLk,22956,Grönwohld,Radeland,2,a,53.64042889,10.40461355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLl,22956,Grönwohld,Radeland,2,b,53.6405456,10.40469887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLm,22956,Grönwohld,Radeland,20,,53.63860699,10.40466071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLn,22956,Grönwohld,Radeland,21,,53.63802277,10.40358158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLo,22956,Grönwohld,Radeland,22,,53.63846768,10.40461721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLp,22956,Grönwohld,Radeland,23,,53.63793075,10.40322949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLq,22956,Grönwohld,Radeland,24,,53.63829666,10.40456931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLr,22956,Grönwohld,Radeland,25,,53.63783165,10.40287684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLs,22956,Grönwohld,Radeland,26,,53.63811938,10.40452063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLt,22956,Grönwohld,Radeland,27,,53.63772938,10.40256356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLu,22956,Grönwohld,Radeland,28,,53.63798991,10.40440572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLv,22956,Grönwohld,Radeland,29,,53.63763168,10.40221841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLw,22956,Grönwohld,Radeland,3,,53.64010757,10.40419204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLx,22956,Grönwohld,Radeland,30,,53.63792246,10.40416658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLy,22956,Grönwohld,Radeland,31,,53.63779468,10.40195038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlLz,22956,Grönwohld,Radeland,32,,53.63783435,10.40389167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM0,22956,Grönwohld,Steinern,3,a,53.64230147,10.41086905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM1,22956,Grönwohld,Steinern,3,b,53.64232103,10.41050138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM2,22956,Grönwohld,Steinern,4,,53.64202566,10.41064789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM3,22956,Grönwohld,Steinern,5,,53.64194642,10.4109309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM4,22956,Grönwohld,Steinern,6,a,53.64217961,10.41139841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM5,22956,Grönwohld,Steinern,6,b,53.64219796,10.4113069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM6,22956,Grönwohld,Steinern,7,,53.64184117,10.41116027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM7,22956,Grönwohld,Steinern,8,,53.6414544,10.4127411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM8,22956,Grönwohld,Steinern,9,,53.64152827,10.41501022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlM9,22956,Grönwohld,Steinern,9,a,53.64093825,10.41467816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMA,22956,Grönwohld,Eiskeller,2,,53.64875531,10.41105705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMB,22956,Grönwohld,Eiskeller,2,a,53.64857905,10.41287261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMC,22956,Grönwohld,Eiskeller,4,,53.64888603,10.41333072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMD,22956,Grönwohld,Eiskeller,6,,53.64976322,10.41365522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlME,22956,Grönwohld,Eiskeller,7,,53.64910827,10.41170235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMF,22956,Grönwohld,Eiskeller,7,a,53.64908385,10.41179938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMG,22956,Grönwohld,Eiskeller,9,,53.64889647,10.41257443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMH,22956,Grönwohld,Zum Moor,1,,53.64813394,10.4090485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMI,22956,Grönwohld,Zum Moor,1,a,53.64801336,10.40927228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMJ,22956,Grönwohld,Zum Moor,2,,53.64834815,10.40860929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMK,22956,Grönwohld,Zum Moor,3,,53.64907437,10.40490742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlML,22956,Grönwohld,Zum Moor,3,a,53.6491356,10.40486712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMM,22956,Grönwohld,Zum Moor,4,,53.64990446,10.39999277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMN,22956,Grönwohld,Zum Moor,5,,53.6514216,10.39699741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMO,22956,Grönwohld,Bei der Schmiede,1,,53.64493872,10.4074001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMP,22956,Grönwohld,Bei der Schmiede,2,,53.64515182,10.40725107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMQ,22956,Grönwohld,Bei der Schmiede,4,,53.64516495,10.40703405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMR,22956,Grönwohld,Bei der Schmiede,4,a,53.645219,10.40673208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMS,22956,Grönwohld,Bei der Schmiede,5,,53.64511637,10.40636139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMT,22956,Grönwohld,Bei der Schmiede,6,,53.6453358,10.40484364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMU,22956,Grönwohld,Lehmbeksweg,1,,53.63594189,10.39636928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMV,22956,Grönwohld,Lehmbeksweg,3,,53.63550572,10.39637924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMW,22956,Grönwohld,Poststraße,1,,53.64148133,10.40870199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMX,22956,Grönwohld,Poststraße,10,,53.64035861,10.40977572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMY,22956,Grönwohld,Poststraße,11,,53.64036793,10.40936779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMZ,22956,Grönwohld,Poststraße,12,,53.63982542,10.41011415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMa,22956,Grönwohld,Steinern,9,b,53.64119258,10.41447374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMb,22956,Grönwohld,Steinern,9,c,53.64130002,10.41415551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMc,22956,Grönwohld,Steinern,9,d,53.64099733,10.41427463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMd,22956,Grönwohld,Hermann-Claudius-Weg,1,,53.63881628,10.41059452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMe,22956,Grönwohld,Hermann-Claudius-Weg,1,a,53.63868311,10.41096545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMf,22956,Grönwohld,Hermann-Claudius-Weg,1,b,53.63891995,10.41030707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMg,22956,Grönwohld,Hermann-Claudius-Weg,10,,53.638666,10.41205902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMh,22956,Grönwohld,Hermann-Claudius-Weg,12,,53.63858758,10.41229579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMi,22956,Grönwohld,Hermann-Claudius-Weg,13,,53.63811455,10.41273107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMj,22956,Grönwohld,Hermann-Claudius-Weg,14,,53.6384807,10.41257164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMk,22956,Grönwohld,Hermann-Claudius-Weg,15,,53.63793609,10.41305226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMl,22956,Grönwohld,Hermann-Claudius-Weg,15,a,53.63493338,10.41168892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMm,22956,Grönwohld,Hermann-Claudius-Weg,16,,53.63835337,10.41292092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMn,22956,Grönwohld,Hermann-Claudius-Weg,2,a,53.63898995,10.41103516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMo,22956,Grönwohld,Hermann-Claudius-Weg,2,b,53.63896602,10.41110179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMq,22956,Grönwohld,Hermann-Claudius-Weg,22,,53.6337931,10.41820765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMr,22956,Grönwohld,Hermann-Claudius-Weg,24,,53.63757131,10.42642724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMs,22956,Grönwohld,Hermann-Claudius-Weg,3,,53.63854218,10.41129846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMt,22956,Grönwohld,Hermann-Claudius-Weg,4,,53.63889805,10.41132709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMu,22956,Grönwohld,Hermann-Claudius-Weg,5,,53.63840237,10.41163982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMv,22956,Grönwohld,Hermann-Claudius-Weg,6,,53.63880064,10.41162632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMw,22956,Grönwohld,Hermann-Claudius-Weg,7,,53.63827609,10.41197703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMx,22956,Grönwohld,Hermann-Claudius-Weg,8,,53.63874318,10.41184939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMy,22956,Grönwohld,Eiskeller,1,,53.64866502,10.41009913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlMz,22956,Grönwohld,Eiskeller,1,a,53.64952899,10.41086308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN0,22956,Grönwohld,Poststraße,13,a,53.64021178,10.40945238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN1,22956,Grönwohld,Poststraße,13,b,53.64020927,10.40933128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN2,22956,Grönwohld,Poststraße,13,c,53.64020732,10.4092374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN3,22956,Grönwohld,Poststraße,13,d,53.64020525,10.40913758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN4,22956,Grönwohld,Poststraße,14,,53.63949777,10.41033815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN5,22956,Grönwohld,Poststraße,15,,53.64016434,10.40869173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN6,22956,Grönwohld,Poststraße,16,,53.63934535,10.41003924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN7,22956,Grönwohld,Poststraße,17,,53.639997,10.40929823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN8,22956,Grönwohld,Poststraße,17,a,53.63999429,10.40888734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlN9,22956,Grönwohld,Poststraße,18,,53.63889953,10.40987252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNA,22956,Grönwohld,Poststraße,30,,53.63709028,10.40970748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNB,22956,Grönwohld,Poststraße,31,,53.63691181,10.40912922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNC,22956,Grönwohld,Poststraße,4,,53.64127028,10.40937624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlND,22956,Grönwohld,Poststraße,5,a,53.64090778,10.4089918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNE,22956,Grönwohld,Poststraße,5,b,53.64090137,10.40889768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNF,22956,Grönwohld,Poststraße,5,c,53.64089441,10.40870698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNG,22956,Grönwohld,Poststraße,5,d,53.64088725,10.40860099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNH,22956,Grönwohld,Poststraße,5,e,53.64080575,10.40830953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNI,22956,Grönwohld,Poststraße,5,f,53.64086064,10.4083034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNJ,22956,Grönwohld,Poststraße,6,,53.64100151,10.40937837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNK,22956,Grönwohld,Poststraße,7,,53.64066235,10.40912904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNL,22956,Grönwohld,Poststraße,7,a,53.64068205,10.40843452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNM,22956,Grönwohld,Poststraße,8,,53.64071425,10.40955287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNN,22956,Grönwohld,Poststraße,9,,53.64051767,10.40930929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNO,22956,Grönwohld,Feldweg,1,,53.6469967,10.41032057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNP,22956,Grönwohld,Feldweg,1,a,53.64682643,10.41062294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNQ,22956,Grönwohld,Feldweg,2,a,53.64670053,10.41087085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNR,22956,Grönwohld,Feldweg,2,b,53.64668351,10.4109227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNS,22956,Grönwohld,Feldweg,3,,53.64682358,10.41118255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNT,22956,Grönwohld,Feldweg,3,a,53.64670694,10.41162468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNU,22956,Grönwohld,Feldweg,3,b,53.64648648,10.41199792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNV,22956,Grönwohld,Feldweg,3,c,53.64658459,10.41214194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNW,22956,Grönwohld,Feldweg,3,d,53.6466868,10.41227916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNX,22956,Grönwohld,Feldweg,4,,53.64641373,10.41155344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNY,22956,Grönwohld,Feldweg,5,,53.64598242,10.41296647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNZ,22956,Grönwohld,Im Winkel,1,,53.64049122,10.40050865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNa,22956,Grönwohld,Poststraße,19,,53.63984577,10.40949042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNb,22956,Grönwohld,Poststraße,19,a,53.63962653,10.40958038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNc,22956,Grönwohld,Poststraße,2,,53.64175397,10.40893201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNd,22956,Grönwohld,Poststraße,2,a,53.64149417,10.40914153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNe,22956,Grönwohld,Poststraße,2,b,53.64147487,10.4094761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNf,22956,Grönwohld,Poststraße,20,,53.63840501,10.40986351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNg,22956,Grönwohld,Poststraße,21,,53.63948703,10.40964177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNh,22956,Grönwohld,Poststraße,21,a,53.63933339,10.40935836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNj,22956,Grönwohld,Poststraße,21,c,53.63930873,10.40907968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNk,22956,Grönwohld,Poststraße,21,d,53.63940306,10.40905419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNl,22956,Grönwohld,Poststraße,22,,53.63803936,10.40979988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNm,22956,Grönwohld,Poststraße,22,a,53.63804258,10.40997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNn,22956,Grönwohld,Poststraße,23,,53.6389835,10.40924503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNo,22956,Grönwohld,Poststraße,24,,53.63779412,10.40981773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNp,22956,Grönwohld,Poststraße,25,,53.63853254,10.40913018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNq,22956,Grönwohld,Poststraße,25,a,53.63837214,10.40913001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNr,22956,Grönwohld,Poststraße,25,b,53.63840396,10.40903446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNt,22956,Grönwohld,Poststraße,27,,53.63816047,10.40937588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNu,22956,Grönwohld,Poststraße,27,a,53.63779786,10.4093241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNv,22956,Grönwohld,Poststraße,27,b,53.63765885,10.40931482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNw,22956,Grönwohld,Poststraße,27,c,53.63797691,10.40931384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNx,22956,Grönwohld,Poststraße,28,,53.63737363,10.4098381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNy,22956,Grönwohld,Poststraße,29,,53.63720814,10.40916522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlNz,22956,Grönwohld,Poststraße,3,,53.64109695,10.40888093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO0,22956,Grönwohld,Im Winkel,11,,53.64087867,10.3994507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO1,22956,Grönwohld,Im Winkel,11,a,53.64103443,10.39944966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO2,22956,Grönwohld,Im Winkel,3,,53.64075209,10.40033296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO3,22956,Grönwohld,Im Winkel,5,,53.64078089,10.40007431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO4,22956,Grönwohld,Im Winkel,9,,53.64098643,10.399791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO5,22956,Grönwohld,Hüttborn,1,,53.64069626,10.41101261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO6,22956,Grönwohld,Hüttborn,10,,53.64138745,10.41091259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO7,22956,Grönwohld,Hüttborn,11,,53.64130932,10.41006438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO8,22956,Grönwohld,Hüttborn,13,,53.64157365,10.41005647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlO9,22956,Grönwohld,Hüttborn,15,,53.64151736,10.41033614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOA,22956,Grönwohld,Im Grund,2,,53.63955839,10.41225576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOB,22956,Grönwohld,Im Grund,3,,53.63984425,10.41234709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOC,22956,Grönwohld,Im Grund,4,,53.63953246,10.41258664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOD,22956,Grönwohld,Im Grund,5,,53.63987947,10.41253366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOE,22956,Grönwohld,Im Grund,6,,53.63954028,10.41292386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOF,22956,Grönwohld,Im Grund,7,,53.63984294,10.41289531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOG,22956,Grönwohld,Im Grund,8,,53.63954497,10.41324991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOH,22956,Grönwohld,Im Grund,9,,53.63985805,10.41316858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOI,22956,Grönwohld,Stücken,10,,53.64086001,10.41171985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOJ,22956,Grönwohld,Stücken,12,,53.64101993,10.41180314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOK,22956,Grönwohld,Stücken,14,,53.64114069,10.41207485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOL,22956,Grönwohld,Stücken,16,,53.64120088,10.41178996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOM,22956,Grönwohld,Stücken,18,,53.64126512,10.41149346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlON,22956,Grönwohld,Stücken,2,,53.6401516,10.41119395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOO,22956,Grönwohld,Stücken,20,,53.64132739,10.41120233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOP,22956,Grönwohld,Stücken,4,,53.64030119,10.41128769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOQ,22956,Grönwohld,Stücken,6,,53.64044784,10.41140845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOR,22956,Grönwohld,Stücken,8,,53.64059026,10.41149138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOS,22956,Grönwohld,Scheefkoppel,1,,53.64063252,10.41259383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOT,22956,Grönwohld,Scheefkoppel,10,,53.6400714,10.41206294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOU,22956,Grönwohld,Scheefkoppel,11,,53.64105667,10.41270282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOV,22956,Grönwohld,Scheefkoppel,12,,53.64018428,10.41275685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOW,22956,Grönwohld,Scheefkoppel,13,,53.64100103,10.41302985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOX,22956,Grönwohld,Scheefkoppel,14,,53.6403557,10.41288884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOY,22956,Grönwohld,Scheefkoppel,15,,53.6409144,10.41330996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOZ,22956,Grönwohld,Scheefkoppel,16,,53.64053081,10.41300389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOa,22956,Grönwohld,Hüttborn,17,,53.64145228,10.41061852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOb,22956,Grönwohld,Hüttborn,2,,53.64103463,10.41123806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOc,22956,Grönwohld,Hüttborn,3,,53.64077417,10.41073719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOd,22956,Grönwohld,Hüttborn,4,,53.64109546,10.41094841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOe,22956,Grönwohld,Hüttborn,5,,53.64084242,10.41045438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOf,22956,Grönwohld,Hüttborn,6,,53.6411562,10.41067191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOg,22956,Grönwohld,Hüttborn,7,,53.64092832,10.41008857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOh,22956,Grönwohld,Hüttborn,8,,53.64124852,10.41037264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOi,22956,Grönwohld,Hüttborn,9,,53.64114245,10.4099614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOj,22956,Grönwohld,Krobarg,1,,53.63991161,10.41124805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOk,22956,Grönwohld,Krobarg,10,,53.6392572,10.41211705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOl,22956,Grönwohld,Krobarg,12,,53.63914397,10.41244529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOm,22956,Grönwohld,Krobarg,14,,53.63902899,10.41277842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOn,22956,Grönwohld,Krobarg,16,,53.63895099,10.4131803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOo,22956,Grönwohld,Krobarg,18,,53.6392203,10.41319239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOp,22956,Grönwohld,Krobarg,2,,53.6397029,10.41094965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOq,22956,Grönwohld,Krobarg,3,,53.63986231,10.41152764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOr,22956,Grönwohld,Krobarg,4,,53.63958757,10.41128257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOs,22956,Grönwohld,Krobarg,5,,53.63982767,10.41177447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOt,22956,Grönwohld,Krobarg,6,,53.63951674,10.41157987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOu,22956,Grönwohld,Krobarg,8,,53.63941826,10.4118398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOv,22956,Grönwohld,Im Grund,1,,53.63982452,10.41208861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOw,22956,Grönwohld,Im Grund,10,,53.63950577,10.41351835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOx,22956,Grönwohld,Im Grund,11,,53.63982296,10.41346585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOy,22956,Grönwohld,Im Grund,12,,53.63964353,10.4136013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlOz,22956,Grönwohld,Im Grund,13,,53.63978274,10.41376679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP0,22956,Grönwohld,Scheefkoppel,18,,53.64071179,10.41313625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP1,22956,Grönwohld,Scheefkoppel,2,,53.64046677,10.41191692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP2,22956,Grönwohld,Scheefkoppel,3,,53.64083019,10.41262545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP3,22956,Grönwohld,Scheefkoppel,4,,53.64042879,10.41234279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP4,22956,Grönwohld,Scheefkoppel,6,,53.64025379,10.41221876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP5,22956,Grönwohld,Scheefkoppel,7,,53.64088404,10.41222374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP6,22956,Grönwohld,Scheefkoppel,8,,53.64012437,10.41182005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP7,22956,Grönwohld,Scheefkoppel,9,,53.64113192,10.41232272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlP9,22956,Grönwohld,Linauer Berg,1,,53.64187056,10.41154254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPa,22956,Grönwohld,Linauer Berg,2,,53.64181031,10.41189957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPb,22956,Grönwohld,Linauer Berg,3,,53.64208735,10.41163776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPc,22956,Grönwohld,Linauer Berg,4,,53.6417292,10.41225352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPd,22956,Grönwohld,Linauer Berg,5,,53.64205647,10.41195866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPe,22956,Grönwohld,Linauer Berg,6,,53.64166433,10.41256591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPf,22956,Grönwohld,Linauer Berg,7,,53.64194861,10.41226814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPg,22956,Grönwohld,Linauer Berg,8,,53.64186959,10.41286972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LlPh,22956,Grönwohld,Linauer Berg,9,,53.64193545,10.41268035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqAc,22956,Grönwohld,Aubarg,1,,53.64067156,10.41408006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqKR,22956,Grönwohld,Aubarg,4,,53.6405462,10.41408396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqxI,22956,Grönwohld,Aubarg,8,,53.64036753,10.41487591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqxp,22956,Grönwohld,Aubarg,3,,53.64056706,10.41454289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqxw,22956,Grönwohld,Aubarg,5,,53.64052855,10.41500408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqy0,22956,Grönwohld,Aubarg,6,,53.64044919,10.41447889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqy9,22956,Grönwohld,An der Obek,11,,53.64003643,10.41442699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqyG,22956,Grönwohld,An der Obek,3,,53.64032876,10.41349934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqyg,22956,Grönwohld,An der Obek,4,,53.64018449,10.41455394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqyj,22956,Grönwohld,An der Obek,9,,53.64011905,10.41399177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqyo,22956,Grönwohld,An der Obek,7,,53.64019417,10.413618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqyw,22956,Grönwohld,An der Obek,5,,53.64018593,10.41325631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bqz3,22956,Grönwohld,Aubarg,2,,53.64078446,10.41372448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004LT80,22956,Grönwohld,Dorfstraße,21,b,53.64563194,10.40876682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TdWO,22956,Grönwohld,Feldweg,1,b,53.64711563,10.40985856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TdWP,22956,Grönwohld,Feldweg,1,c,53.64708114,10.40997324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055mNr,22956,Grönwohld,An der Obek,2,a,53.64025775,10.41411708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055mNv,22956,Grönwohld,An der Obek,2,b,53.64023471,10.41423957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059VfN,22956,Grönwohld,Papierholz,6,a,53.63626693,10.40898687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BQtl,22956,Grönwohld,Hermann-Claudius-Weg,2,c,53.63908242,10.41076078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FlyF,22956,Grönwohld,Papierholz,3,,53.63617178,10.40797246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005V9sq,22956,Grönwohld,Zum Moor,2,a,53.64836707,10.40889722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VqPF,22956,Grönwohld,Dorfstraße,2,b,53.6421441,10.40781717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iZgb,22956,Grönwohld,Hermann-Claudius-Weg,18,,53.63834736,10.41332649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000674Hx,22956,Grönwohld,Steinern,9,f,53.64095904,10.41530442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068KYh,22956,Grönwohld,Bahnhofstraße,11,a,53.6412897,10.40445126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BdlO,22956,Grönwohld,Papierholz,1,b,53.63622502,10.40819768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H0vj,22956,Grönwohld,Krobarg,2,a,53.63986694,10.41065348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JPCm,22956,Grönwohld,Hermann-Claudius-Weg,2,,53.63919023,10.41048118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006K0Z0,22956,Grönwohld,An der Millerbek,31,,53.63680663,10.41192219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006K7fi,22956,Grönwohld,Radeland,41,,53.63694071,10.40190136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KIqk,22956,Grönwohld,An der Millerbek,14,,53.63648708,10.41244131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Lfrk,22956,Grönwohld,An der Millerbek,18,,53.63665551,10.4128196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PxEt,22956,Grönwohld,Bahnhofstraße,7,a,53.6413531,10.40508906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QOxW,22956,Grönwohld,An der Millerbek,28,,53.63725283,10.41207204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QU8o,22956,Grönwohld,An der Millerbek,26,,53.63746017,10.41219828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QbUC,22956,Grönwohld,Zum Erlenhof,25,,53.69014975,10.24030475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QbUI,22956,Grönwohld,Zum Erlenhof,31,,53.6901291,10.24073477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Qhgj,22956,Grönwohld,An der Millerbek,8,,53.63663749,10.41145166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006R2YR,22956,Grönwohld,An der Millerbek,17,,53.63795002,10.41167793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SFQ7,22956,Grönwohld,An der Millerbek,19,,53.63779252,10.41206245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SXyQ,22956,Grönwohld,An der Millerbek,12,,53.63653392,10.41207074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WT4z,22956,Grönwohld,An der Millerbek,21,,53.63767317,10.41240077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fbV2,22956,Grönwohld,Steinern,9,g,53.64074111,10.41516644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jTEY,22956,Grönwohld,An der Obek,1,a,53.64055552,10.41361526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jTEZ,22956,Grönwohld,An der Obek,1,b,53.64048882,10.41361318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pqV2,22956,Grönwohld,Poststraße,21,e,53.63979785,10.40873564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tss4,22956,Grönwohld,Poststraße,28,a,53.6373696,10.40995905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yib2,22956,Grönwohld,Bahnhofstraße,16,b,53.64081339,10.40642198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yj8h,22956,Grönwohld,Bahnhofstraße,15,a,53.64121203,10.4042233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071SCq,22956,Grönwohld,An der Millerbek,11,,53.63755187,10.41153511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074tLL,22956,Grönwohld,An der Millerbek,23,,53.63755698,10.41269689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074tMn,22956,Grönwohld,An der Millerbek,22,,53.63699981,10.4128061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000759fY,22956,Grönwohld,Poststraße,26,a,53.63760054,10.40986686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000759fZ,22956,Grönwohld,Poststraße,26,b,53.63759812,10.40997289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007BkQi,22956,Grönwohld,Bahnhofstraße,23,a,53.64117992,10.40324635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007NhHY,22956,Grönwohld,An der Millerbek,24,,53.63723053,10.41242487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R3VW,22956,Grönwohld,Dorfstraße,7,b,53.64304188,10.40801267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R3W0,22956,Grönwohld,Dorfstraße,7,c,53.64317552,10.40791789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007R3W3,22956,Grönwohld,Dorfstraße,7,d,53.64317552,10.40791789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007RdPY,22956,Grönwohld,Zum Erlenhof,33,,53.69012531,10.24081587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007RdQ3,22956,Grönwohld,Zum Erlenhof,29,,53.69013743,10.24055934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007RdQ9,22956,Grönwohld,Zum Erlenhof,27,,53.69014137,10.24047909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZJ10,22956,Grönwohld,An der Millerbek,6,,53.63687031,10.41150818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aAV8,22956,Grönwohld,An der Millerbek,25,,53.63731765,10.41268809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aAVB,22956,Grönwohld,An der Millerbek,29,,53.63670495,10.4124447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007iRLG,22956,Grönwohld,An der Millerbek,27,,53.6369825,10.41250942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ng9K,22956,Grönwohld,Feldweg,1,f,53.64703422,10.41099305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007sblU,22956,Grönwohld,Feldweg,1,d,53.64728084,10.41036074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vcCv,22956,Grönwohld,An der Millerbek,20,,53.63683429,10.41294649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wmwh,22956,Grönwohld,An der Millerbek,15,,53.63770437,10.41171314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xznn,22956,Grönwohld,An der Millerbek,10,a,53.6365918,10.41162645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xzno,22956,Grönwohld,An der Millerbek,10,b,53.63656804,10.41176454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008FyDz,22956,Grönwohld,An der Millerbek,4,,53.63714793,10.41175651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xS6o,22956,Grönwohld,Hermann-Claudius-Weg,5,b,53.6384006,10.41167841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xS6r,22956,Grönwohld,Hermann-Claudius-Weg,5,a,53.63844243,10.41156373

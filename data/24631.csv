@@ -1,0 +1,805 @@
+# Amtliche Adressen für die Postleitzahl 24631
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PM,24631,Langwedel,Am Brahmsee,1,,54.2023986,9.91049986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PN,24631,Langwedel,Am Brahmsee,11,,54.20314943,9.90820611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PO,24631,Langwedel,Am Brahmsee,12,,54.20358259,9.90937195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PP,24631,Langwedel,Am Brahmsee,14,,54.20389576,9.90863641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PQ,24631,Langwedel,Am Brahmsee,16,,54.20404048,9.90790311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PR,24631,Langwedel,Am Brahmsee,18,,54.20367962,9.90849143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PS,24631,Langwedel,Am Brahmsee,3,,54.20277866,9.91001715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PT,24631,Langwedel,Am Brahmsee,4,,54.2029504,9.91041501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PU,24631,Langwedel,Am Brahmsee,5,,54.20293429,9.90963805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PV,24631,Langwedel,Am Brahmsee,6,,54.20335926,9.90992617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PW,24631,Langwedel,Am Brahmsee,7,,54.20305543,9.90907068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PX,24631,Langwedel,Am Brahmsee,7,a,54.20282888,9.90898923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PY,24631,Langwedel,Am Brahmsee,8,,54.20313341,9.90971378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PZ,24631,Langwedel,Am Brunnenberg,1,,54.21235556,9.93735457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q0,24631,Langwedel,Am Brunnenberg,2,,54.21230975,9.93743427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q1,24631,Langwedel,Am Brunnenberg,3,,54.21226515,9.93751126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q2,24631,Langwedel,Am Brunnenberg,4,,54.21215067,9.93755446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q3,24631,Langwedel,Am Brunnenberg,5,,54.21213004,9.93730798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q4,24631,Langwedel,Am Brunnenberg,6,,54.21219853,9.93707395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q5,24631,Langwedel,Am Hollm,1,,54.2143787,9.93655589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q6,24631,Langwedel,Am Hollm,1,a,54.21441795,9.93638564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q7,24631,Langwedel,Am Hollm,2,,54.2145629,9.93658179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q8,24631,Langwedel,Am Hollm,4,,54.21485946,9.93630619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Q9,24631,Langwedel,Am Hollm,5,,54.21445019,9.93566613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QA,24631,Langwedel,Am Sportplatz,4,,54.21101184,9.91629461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QB,24631,Langwedel,Am Sportplatz,5,,54.21080739,9.91702247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QC,24631,Langwedel,Am Sportplatz,6,,54.21122748,9.9162392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QD,24631,Langwedel,Am Sportplatz,7,,54.21073619,9.91681834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QE,24631,Langwedel,Am Sportplatz,9,,54.21064927,9.91661402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QF,24631,Langwedel,Am Waldheim,1,,54.19972018,9.90547701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QG,24631,Langwedel,Am Waldheim,1,a,54.19969007,9.90627637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QH,24631,Langwedel,Am Waldheim,10,,54.20070011,9.90709298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QI,24631,Langwedel,Am Waldheim,11,,54.20094999,9.90648114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QJ,24631,Langwedel,Am Waldheim,12,,54.20057582,9.90621591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QK,24631,Langwedel,Am Waldheim,14,,54.20095036,9.90587318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QL,24631,Langwedel,Am Waldheim,15,,54.20083859,9.90572098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QM,24631,Langwedel,Am Waldheim,16,,54.20060572,9.90565828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QN,24631,Langwedel,Am Waldheim,17,,54.2005111,9.90522537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QO,24631,Langwedel,Am Waldheim,18,,54.20033864,9.90515852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QP,24631,Langwedel,Am Waldheim,19,,54.20015065,9.90510969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QQ,24631,Langwedel,Am Waldheim,2,,54.19980723,9.90577611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QR,24631,Langwedel,Am Waldheim,20,,54.20000292,9.904982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QS,24631,Langwedel,Am Waldheim,21,,54.19982077,9.9049339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QT,24631,Langwedel,Am Waldheim,22,,54.20001836,9.90430081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QU,24631,Langwedel,Am Waldheim,23,,54.20023189,9.90424659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QV,24631,Langwedel,Am Waldheim,24,,54.20042838,9.90440776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QW,24631,Langwedel,Am Waldheim,25,,54.20047806,9.90472035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QX,24631,Langwedel,Am Waldheim,26,,54.20065032,9.90473718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QY,24631,Langwedel,Am Waldheim,27,,54.20077439,9.90495492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0QZ,24631,Langwedel,Am Waldheim,3,,54.19998977,9.90556782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qa,24631,Langwedel,Am Hollm,6,,54.21498159,9.93678269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qb,24631,Langwedel,Am Hollm,7,,54.21442892,9.93553685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qc,24631,Langwedel,Am Hollm,8,,54.2152996,9.93624352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qd,24631,Langwedel,Am Lustsee,1,,54.21800965,9.93882357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qe,24631,Langwedel,Am Lustsee,11,,54.21866532,9.94009385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qf,24631,Langwedel,Am Lustsee,13,,54.21873387,9.94019005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qg,24631,Langwedel,Am Lustsee,15,,54.21881064,9.94036958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qh,24631,Langwedel,Am Lustsee,17,,54.21892357,9.94072515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qi,24631,Langwedel,Am Lustsee,3,,54.21787599,9.93952005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qj,24631,Langwedel,Am Lustsee,31,,54.21999651,9.93970852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qk,24631,Langwedel,Am Lustsee,41,,54.21998362,9.9372272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ql,24631,Langwedel,Am Lustsee,45,,54.22026369,9.93668161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qm,24631,Langwedel,Am Lustsee,49,,54.22040549,9.9361237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qn,24631,Langwedel,Am Lustsee,5,,54.21832342,9.93984583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qo,24631,Langwedel,Am Lustsee,7,,54.21846839,9.93993423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qp,24631,Langwedel,Am Lustsee,9,,54.21854573,9.93998701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qq,24631,Langwedel,Am Sportplatz,1,,54.21088301,9.91770137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qr,24631,Langwedel,Am Sportplatz,1,b,54.21150009,9.92420439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qs,24631,Langwedel,Am Sportplatz,1,c,54.21090638,9.92196455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qt,24631,Langwedel,Am Sportplatz,1,d,54.21106046,9.92058694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qu,24631,Langwedel,Am Sportplatz,11,,54.21055706,9.91643586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qv,24631,Langwedel,Am Sportplatz,13,,54.21048781,9.91622247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qw,24631,Langwedel,Am Sportplatz,15,,54.21029288,9.91612373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qx,24631,Langwedel,Am Sportplatz,17,,54.21032891,9.91577949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qy,24631,Langwedel,Am Sportplatz,2,,54.21083255,9.91629334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Qz,24631,Langwedel,Am Sportplatz,3,,54.21086371,9.91721829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R0,24631,Langwedel,Am Waldheim,4,,54.20014055,9.90588283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R1,24631,Langwedel,Am Waldheim,5,,54.20027758,9.90599978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R2,24631,Langwedel,Am Waldheim,6,,54.20040637,9.90620064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R3,24631,Langwedel,Am Waldheim,7,,54.20018349,9.90698477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R4,24631,Langwedel,Am Waldheim,8,,54.20000144,9.90690772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R5,24631,Langwedel,Am Waldheim,9,,54.19982404,9.90676964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R6,24631,Langwedel,Am Wiesengrund,1,,54.212068,9.92259631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R7,24631,Langwedel,Am Wiesengrund,10,,54.2130174,9.92145151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R8,24631,Langwedel,Am Wiesengrund,11,,54.21295289,9.92178451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0R9,24631,Langwedel,Am Wiesengrund,12,,54.21276918,9.92182862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RA,24631,Langwedel,An der Mühlenau,17,,54.20938887,9.92497862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RB,24631,Langwedel,An der Mühlenau,18,,54.21002687,9.9244311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RC,24631,Langwedel,An der Mühlenau,19,,54.20929881,9.92523075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RD,24631,Langwedel,An der Mühlenau,2,,54.20982839,9.92657375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RE,24631,Langwedel,An der Mühlenau,20,,54.20982718,9.92428715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RF,24631,Langwedel,An der Mühlenau,21,,54.20921933,9.92545379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RG,24631,Langwedel,An der Mühlenau,22,,54.2096923,9.92413513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RH,24631,Langwedel,An der Mühlenau,23,,54.20920038,9.92578938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RI,24631,Langwedel,An der Mühlenau,24,,54.20957934,9.92395856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RJ,24631,Langwedel,An der Mühlenau,26,,54.20946748,9.92372775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RK,24631,Langwedel,An der Mühlenau,28,,54.20938463,9.92341701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RL,24631,Langwedel,An der Mühlenau,3,,54.20964647,9.92602473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RM,24631,Langwedel,An der Mühlenau,30,,54.20929543,9.92312191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RN,24631,Langwedel,An der Mühlenau,32,,54.20922499,9.92280489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RO,24631,Langwedel,An der Mühlenau,34,,54.20910887,9.92338146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RP,24631,Langwedel,An der Mühlenau,36,,54.2090007,9.92368317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RQ,24631,Langwedel,An der Mühlenau,38,,54.20917317,9.92391841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RR,24631,Langwedel,An der Mühlenau,4,,54.20991875,9.92636925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RS,24631,Langwedel,An der Mühlenau,40,,54.20939999,9.92416956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RT,24631,Langwedel,An der Mühlenau,42,,54.20927954,9.92443887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RU,24631,Langwedel,An der Mühlenau,44,,54.20896635,9.9240839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RV,24631,Langwedel,An der Mühlenau,46,,54.20891037,9.92437489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RW,24631,Langwedel,An der Mühlenau,48,,54.20920864,9.92475907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RX,24631,Langwedel,An der Mühlenau,5,,54.20976553,9.92578006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RY,24631,Langwedel,An der Mühlenau,50,,54.20908934,9.92498901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0RZ,24631,Langwedel,An der Mühlenau,52,,54.20878416,9.92465818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ra,24631,Langwedel,Am Wiesengrund,13,,54.21252171,9.92148424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rb,24631,Langwedel,Am Wiesengrund,14,,54.21239926,9.92182372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rc,24631,Langwedel,Am Wiesengrund,15,,54.21235333,9.92217749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rd,24631,Langwedel,Am Wiesengrund,16,,54.21262253,9.92225688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Re,24631,Langwedel,Am Wiesengrund,17,,54.2127611,9.92242897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rf,24631,Langwedel,Am Wiesengrund,18,,54.21267691,9.92273068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rg,24631,Langwedel,Am Wiesengrund,19,,54.21251864,9.92277794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rh,24631,Langwedel,Am Wiesengrund,2,,54.21205278,9.92220421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ri,24631,Langwedel,Am Wiesengrund,20,,54.21232917,9.92310979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rj,24631,Langwedel,Am Wiesengrund,21,,54.21249588,9.92344317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rk,24631,Langwedel,Am Wiesengrund,3,,54.21202903,9.92180919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rl,24631,Langwedel,Am Wiesengrund,4,,54.21205807,9.92139763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rm,24631,Langwedel,Am Wiesengrund,5,,54.21206313,9.92099953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rn,24631,Langwedel,Am Wiesengrund,6,,54.21212867,9.92059422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ro,24631,Langwedel,Am Wiesengrund,7,,54.21244656,9.92092296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rp,24631,Langwedel,Am Wiesengrund,8,,54.21265102,9.92105664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rq,24631,Langwedel,Am Wiesengrund,9,,54.21292221,9.92126096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rr,24631,Langwedel,An der Mühlenau,1,,54.20958365,9.92627396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rs,24631,Langwedel,An der Mühlenau,10,,54.21019794,9.92554702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rt,24631,Langwedel,An der Mühlenau,11,,54.20995403,9.92488619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ru,24631,Langwedel,An der Mühlenau,12,,54.21036921,9.92514408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rv,24631,Langwedel,An der Mühlenau,13,,54.20962056,9.92450246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rw,24631,Langwedel,An der Mühlenau,13,a,54.20967143,9.92455851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rx,24631,Langwedel,An der Mühlenau,14,,54.21026042,9.9248895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ry,24631,Langwedel,An der Mühlenau,15,,54.20947185,9.9247237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Rz,24631,Langwedel,An der Mühlenau,16,,54.21013279,9.92470936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S0,24631,Langwedel,An der Mühlenau,54,,54.20870485,9.92487523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S1,24631,Langwedel,An der Mühlenau,54,a,54.20861103,9.92475423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S2,24631,Langwedel,An der Mühlenau,56,,54.20896501,9.92532284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S3,24631,Langwedel,An der Mühlenau,6,,54.2099452,9.92599084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S4,24631,Langwedel,An der Mühlenau,7,,54.2098323,9.92551857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S5,24631,Langwedel,An der Mühlenau,8,,54.21006062,9.92571516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S6,24631,Langwedel,An der Mühlenau,9,,54.20993042,9.92530499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S7,24631,Langwedel,Birkenweg,10,,54.20467411,9.91030428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S8,24631,Langwedel,Birkenweg,12,,54.20469979,9.90962359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0S9,24631,Langwedel,Birkenweg,14,,54.20456984,9.90934188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SA,24631,Langwedel,Blocksdorf,15,,54.23536725,9.91109344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SB,24631,Langwedel,Blocksdorf,16,,54.23616157,9.91383296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SC,24631,Langwedel,Blocksdorf,17,,54.23549806,9.91198001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SD,24631,Langwedel,Blocksdorf,18,,54.23644631,9.91399517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SE,24631,Langwedel,Blocksdorf,18,a,54.23665411,9.91414369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SF,24631,Langwedel,Blocksdorf,19,,54.2369047,9.91364907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SG,24631,Langwedel,Blocksdorf,2,,54.23353177,9.91178999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SH,24631,Langwedel,Blocksdorf,20,,54.2350046,9.91029493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SI,24631,Langwedel,Blocksdorf,21,,54.23502253,9.90925025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SJ,24631,Langwedel,Blocksdorf,21,a,54.2349088,9.91012715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SK,24631,Langwedel,Blocksdorf,22,,54.23538771,9.90766769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SL,24631,Langwedel,Blocksdorf,23,,54.23721214,9.90703537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SM,24631,Langwedel,Blocksdorf,24,,54.23463684,9.90896892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SN,24631,Langwedel,Blocksdorf,3,,54.23350446,9.91107521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SO,24631,Langwedel,Blocksdorf,4,,54.23376904,9.91154103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SP,24631,Langwedel,Blocksdorf,5,,54.23407656,9.91064673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SQ,24631,Langwedel,Blocksdorf,6,,54.23414492,9.91127588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SR,24631,Langwedel,Blocksdorf,7,,54.23431541,9.91043458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SS,24631,Langwedel,Blocksdorf,7,a,54.23391076,9.90996324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ST,24631,Langwedel,Blocksdorf,8,,54.23440207,9.91108556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SU,24631,Langwedel,Blocksdorf,9,,54.23451515,9.91007587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SV,24631,Langwedel,Blocksdorf,9,a,54.23462413,9.90970413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SW,24631,Langwedel,Bordesholmer Straße,1,,54.2124718,9.93630275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SX,24631,Langwedel,Bordesholmer Straße,10,,54.21247222,9.9406808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SY,24631,Langwedel,Bordesholmer Straße,11,,54.2127702,9.94166408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0SZ,24631,Langwedel,Bordesholmer Straße,11,a,54.21279873,9.94203667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sa,24631,Langwedel,Birkenweg,2,,54.20362699,9.91163422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sb,24631,Langwedel,Birkenweg,3,,54.20412743,9.91107602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sc,24631,Langwedel,Birkenweg,4,,54.2040415,9.9115807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sd,24631,Langwedel,Birkenweg,5,,54.20422086,9.91156009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Se,24631,Langwedel,Birkenweg,6,,54.20419756,9.91205938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sf,24631,Langwedel,Birkenweg,7,,54.20435931,9.91075175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sg,24631,Langwedel,Birkenweg,8,,54.20522861,9.9100797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sh,24631,Langwedel,Birkenweg,9,,54.20487272,9.90990454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Si,24631,Langwedel,Blocksdorf,1,,54.22212557,9.90483796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sj,24631,Langwedel,Blocksdorf,10,,54.23459563,9.91080218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sk,24631,Langwedel,Blocksdorf,10,a,54.23491803,9.91377611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sl,24631,Langwedel,Blocksdorf,10,b,54.2350542,9.91352634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sm,24631,Langwedel,Blocksdorf,10,c,54.23520375,9.91317832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sn,24631,Langwedel,Blocksdorf,10,d,54.23469329,9.91159222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0So,24631,Langwedel,Blocksdorf,10,e,54.23512973,9.91165035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sp,24631,Langwedel,Blocksdorf,10,f,54.23513188,9.9120008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sq,24631,Langwedel,Blocksdorf,10,g,54.23513224,9.91210718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sr,24631,Langwedel,Blocksdorf,11,,54.23573942,9.91012682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ss,24631,Langwedel,Blocksdorf,11,a,54.23540293,9.91005726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0St,24631,Langwedel,Blocksdorf,11,b,54.23628331,9.91055736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Su,24631,Langwedel,Blocksdorf,11,c,54.23547632,9.90980369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sv,24631,Langwedel,Blocksdorf,12,,54.23487455,9.91426663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sw,24631,Langwedel,Blocksdorf,13,,54.23533095,9.91073659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sx,24631,Langwedel,Blocksdorf,14,,54.23564694,9.91314544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sy,24631,Langwedel,Blocksdorf,14,a,54.23584774,9.91373745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Sz,24631,Langwedel,Blocksdorf,14,b,54.23532048,9.91416547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T0,24631,Langwedel,Bordesholmer Straße,13,,54.21286521,9.94249956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T1,24631,Langwedel,Bordesholmer Straße,15,,54.21305008,9.94344639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T2,24631,Langwedel,Bordesholmer Straße,19,,54.21325677,9.94554664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T3,24631,Langwedel,Bordesholmer Straße,2,,54.21216931,9.93623991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T4,24631,Langwedel,Bordesholmer Straße,2,a,54.21227996,9.93659909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T5,24631,Langwedel,Bordesholmer Straße,2,b,54.21237482,9.93698163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T6,24631,Langwedel,Bordesholmer Straße,20,,54.21287974,9.94532408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T7,24631,Langwedel,Bordesholmer Straße,22,,54.21289828,9.94604942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T8,24631,Langwedel,Bordesholmer Straße,23,,54.2131824,9.94693294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0T9,24631,Langwedel,Bordesholmer Straße,25,,54.21338533,9.94718343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TA,24631,Langwedel,Dorfstraße,18,,54.21214985,9.93447966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TB,24631,Langwedel,Dorfstraße,18,a,54.2119392,9.93441307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TC,24631,Langwedel,Dorfstraße,2,,54.21148752,9.9301985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TD,24631,Langwedel,Dorfstraße,20,,54.21209002,9.93479522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TE,24631,Langwedel,Dorfstraße,4,,54.21102495,9.93026543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TF,24631,Langwedel,Dorfstraße,6,,54.21096184,9.93105911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TG,24631,Langwedel,Dorfstraße,6,a,54.21076779,9.93070391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TH,24631,Langwedel,Dorfstraße,8,,54.21171075,9.93172928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TI,24631,Langwedel,Dorfstraße,9,,54.21264704,9.93462375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TJ,24631,Langwedel,Enkendorf,1,,54.23492562,9.92600841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TK,24631,Langwedel,Enkendorf,10,,54.23666524,9.92520996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TL,24631,Langwedel,Enkendorf,11,,54.23626818,9.92620779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TM,24631,Langwedel,Enkendorf,2,,54.23401655,9.92713346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TN,24631,Langwedel,Enkendorf,20,,54.24186023,9.91939222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TO,24631,Langwedel,Enkendorf,3,,54.23367415,9.92749389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TP,24631,Langwedel,Enkendorf,4,,54.23556569,9.92831982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TQ,24631,Langwedel,Enkendorf,4,a,54.23542338,9.92815793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TR,24631,Langwedel,Enkendorf,5,,54.23677504,9.92588631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TS,24631,Langwedel,Enkendorf,6,,54.2374272,9.92587907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TT,24631,Langwedel,Enkendorf,7,,54.23826061,9.92588236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TU,24631,Langwedel,Enkendorf,8,,54.23959189,9.92627691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TV,24631,Langwedel,Enkendorf,9,,54.23909435,9.92548626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TW,24631,Langwedel,Eichenweg,10,,54.20187529,9.90845346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TX,24631,Langwedel,Eichenweg,11,,54.20154888,9.90880963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TY,24631,Langwedel,Eichenweg,12,,54.20157321,9.90817136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0TZ,24631,Langwedel,Eichenweg,13,,54.2020704,9.90832599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ta,24631,Langwedel,Bordesholmer Straße,29,,54.21347991,9.94844794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tb,24631,Langwedel,Bordesholmer Straße,29,a,54.21367641,9.94820083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tc,24631,Langwedel,Bordesholmer Straße,29,b,54.21377479,9.94900424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Td,24631,Langwedel,Bordesholmer Straße,3,,54.21273936,9.93715095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Te,24631,Langwedel,Bordesholmer Straße,3,a,54.21274609,9.93740075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tf,24631,Langwedel,Bordesholmer Straße,31,,54.2133968,9.94995424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tg,24631,Langwedel,Bordesholmer Straße,33,,54.21324979,9.95082747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Th,24631,Langwedel,Bordesholmer Straße,35,,54.21336096,9.95151508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ti,24631,Langwedel,Bordesholmer Straße,4,,54.21228665,9.93795738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tj,24631,Langwedel,Bordesholmer Straße,4,a,54.21233383,9.93823898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tk,24631,Langwedel,Bordesholmer Straße,5,,54.2126175,9.93771218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tl,24631,Langwedel,Bordesholmer Straße,5,a,54.21263109,9.93958161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tm,24631,Langwedel,Bordesholmer Straße,6,,54.2123352,9.93875668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tn,24631,Langwedel,Bordesholmer Straße,7,,54.21266929,9.93988601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0To,24631,Langwedel,Bordesholmer Straße,8,,54.2122142,9.93962739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tp,24631,Langwedel,Bordesholmer Straße,9,,54.21271207,9.94067316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tq,24631,Langwedel,Bordesholmer Straße,9,a,54.2127034,9.94110072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tr,24631,Langwedel,Brunsrade,2,,54.24684792,9.93478938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ts,24631,Langwedel,Buchenweg,1,,54.20320701,9.91053914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tt,24631,Langwedel,Buchenweg,4,,54.20336705,9.91115606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tu,24631,Langwedel,Buchenweg,6,,54.20356075,9.91058971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tv,24631,Langwedel,Dorfstraße,11,,54.21235314,9.9347236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tw,24631,Langwedel,Dorfstraße,11,a,54.21234957,9.93542493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tx,24631,Langwedel,Dorfstraße,13,,54.21236747,9.935876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ty,24631,Langwedel,Dorfstraße,14,,54.21206931,9.93379888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Tz,24631,Langwedel,Dorfstraße,16,,54.21208397,9.93407702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U0,24631,Langwedel,Eichenweg,14,,54.20144129,9.90789772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U1,24631,Langwedel,Eichenweg,15,,54.20233853,9.90850189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U2,24631,Langwedel,Eichenweg,16,,54.20267113,9.90844637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U3,24631,Langwedel,Eichenweg,17,,54.20243767,9.9073908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U4,24631,Langwedel,Eichenweg,18,,54.20287635,9.90787431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U5,24631,Langwedel,Eichenweg,19,,54.20261047,9.90755871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U6,24631,Langwedel,Eichenweg,2,,54.20255743,9.90992098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U7,24631,Langwedel,Eichenweg,3,,54.20213222,9.9102421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U8,24631,Langwedel,Eichenweg,5,,54.20228866,9.90968856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0U9,24631,Langwedel,Eichenweg,6,,54.20253224,9.9088583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UA,24631,Langwedel,Fasanenweg,7,,54.20858895,9.92252855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UB,24631,Langwedel,Fasanenweg,8,,54.20893915,9.92216305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UC,24631,Langwedel,Fasanenweg,8,a,54.20899054,9.92207476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UD,24631,Langwedel,Fasanenweg,9,,54.20874647,9.92203494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UE,24631,Langwedel,Fasanenweg,9,a,54.20854567,9.92186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UF,24631,Langwedel,Fichtenweg,10,,54.20499443,9.9129587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UG,24631,Langwedel,Fichtenweg,12,a,54.20547909,9.9125148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UH,24631,Langwedel,Fichtenweg,14,,54.20525756,9.91177036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UI,24631,Langwedel,Fichtenweg,15,,54.20541934,9.91043061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UJ,24631,Langwedel,Fichtenweg,16,,54.20541932,9.91132375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UK,24631,Langwedel,Fichtenweg,18,,54.20600751,9.91128035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UL,24631,Langwedel,Fichtenweg,2,,54.20494887,9.91333648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UM,24631,Langwedel,Fichtenweg,4,,54.20513978,9.91346724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UN,24631,Langwedel,Fichtenweg,6,,54.20529092,9.91352649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UO,24631,Langwedel,Fichtenweg,8,,54.20540064,9.91299302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UP,24631,Langwedel,Fischersiedlung,1,,54.21448616,9.91863445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UQ,24631,Langwedel,Fischersiedlung,11,,54.21360893,9.91726924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UR,24631,Langwedel,Fischersiedlung,13,,54.21388536,9.91740854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0US,24631,Langwedel,Fischersiedlung,15,,54.2139413,9.91705875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UT,24631,Langwedel,Fischersiedlung,16,,54.21361636,9.9155107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UU,24631,Langwedel,Fischersiedlung,17,,54.21363401,9.91675694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UV,24631,Langwedel,Fischersiedlung,18,,54.21361299,9.9147558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UW,24631,Langwedel,Fischersiedlung,19,,54.21359779,9.91641736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UX,24631,Langwedel,Fischersiedlung,2,,54.21448044,9.91817239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UY,24631,Langwedel,Fischersiedlung,20,,54.21345155,9.91474634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0UZ,24631,Langwedel,Fischersiedlung,21,,54.21396844,9.91665331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ua,24631,Langwedel,Eichenweg,8,,54.20219919,9.90878692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ub,24631,Langwedel,Eichenweg,9,,54.20173391,9.9092289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uc,24631,Langwedel,Fasanenweg,1,,54.20811116,9.92390408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ud,24631,Langwedel,Fasanenweg,10,,54.20916268,9.92146704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ue,24631,Langwedel,Fasanenweg,11,,54.20889504,9.92157473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uf,24631,Langwedel,Fasanenweg,11,a,54.20893633,9.92144592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ug,24631,Langwedel,Fasanenweg,12,,54.20925737,9.92095125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uh,24631,Langwedel,Fasanenweg,13,,54.20896064,9.9209939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ui,24631,Langwedel,Fasanenweg,14,,54.20943185,9.92038176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uj,24631,Langwedel,Fasanenweg,14,a,54.20946121,9.92013148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uk,24631,Langwedel,Fasanenweg,15,,54.20923251,9.92021346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ul,24631,Langwedel,Fasanenweg,16,,54.20957987,9.91991755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Um,24631,Langwedel,Fasanenweg,17,,54.20930193,9.91949146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Un,24631,Langwedel,Fasanenweg,19,,54.20946227,9.9190724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uo,24631,Langwedel,Fasanenweg,2,,54.20828523,9.92419458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Up,24631,Langwedel,Fasanenweg,2,a,54.20833863,9.92411195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uq,24631,Langwedel,Fasanenweg,21,,54.20958492,9.91865787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ur,24631,Langwedel,Fasanenweg,21,a,54.20969818,9.91816467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Us,24631,Langwedel,Fasanenweg,23,,54.20989882,9.91865622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ut,24631,Langwedel,Fasanenweg,25,,54.2100732,9.91814215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uu,24631,Langwedel,Fasanenweg,27,,54.20993949,9.91796061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uv,24631,Langwedel,Fasanenweg,3,,54.20828417,9.9234779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uw,24631,Langwedel,Fasanenweg,3,a,54.20810803,9.92338222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ux,24631,Langwedel,Fasanenweg,4,,54.20852238,9.92354275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uy,24631,Langwedel,Fasanenweg,5,,54.20844932,9.92296403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Uz,24631,Langwedel,Fasanenweg,6,,54.2087477,9.92284273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V0,24631,Langwedel,Fischersiedlung,22,,54.21301421,9.91483851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V1,24631,Langwedel,Fischersiedlung,23,,54.21408527,9.91624172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V2,24631,Langwedel,Fischersiedlung,24,,54.21279121,9.91508687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V3,24631,Langwedel,Fischersiedlung,25,,54.21378366,9.91607291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V4,24631,Langwedel,Fischersiedlung,26,,54.21267402,9.91535683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V5,24631,Langwedel,Fischersiedlung,27,,54.21354955,9.91588606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V6,24631,Langwedel,Fischersiedlung,29,,54.21340339,9.91566306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V7,24631,Langwedel,Fischersiedlung,3,,54.21380144,9.91785182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V8,24631,Langwedel,Fischersiedlung,30,,54.21166157,9.91570079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0V9,24631,Langwedel,Fischersiedlung,31,,54.21319833,9.91559385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VA,24631,Langwedel,Hasenweg,4,a,54.208806,9.9172619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VB,24631,Langwedel,Hasenweg,5,,54.20848914,9.91580482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VC,24631,Langwedel,Hasenweg,6,,54.2088906,9.91697137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VD,24631,Langwedel,Hasenweg,7,,54.20878726,9.9150834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VE,24631,Langwedel,Hasenweg,8,,54.20888965,9.91658126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VF,24631,Langwedel,Hasenweg,9,,54.20902216,9.91533141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VG,24631,Langwedel,Hörn,1,,54.2120019,9.93001922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VH,24631,Langwedel,Hörn,10,,54.21250558,9.93145917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VI,24631,Langwedel,Hörn,10,a,54.21257167,9.93121609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VJ,24631,Langwedel,Hörn,11,,54.21322405,9.93104646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VK,24631,Langwedel,Hörn,12,a,54.21305218,9.93118684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VL,24631,Langwedel,Hörn,12,b,54.21303427,9.93129231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VM,24631,Langwedel,Hörn,13,,54.21343268,9.93102033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VN,24631,Langwedel,Hörn,14,,54.21293122,9.93164835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VO,24631,Langwedel,Hörn,15,,54.21355873,9.93064839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VP,24631,Langwedel,Hörn,16,,54.21335599,9.93246289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VQ,24631,Langwedel,Hörn,17,,54.21367883,9.93037661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VR,24631,Langwedel,Hörn,18,,54.21341008,9.931849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VS,24631,Langwedel,Hörn,2,,54.21196624,9.93094102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VT,24631,Langwedel,Hörn,20,,54.2134059,9.93142579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VU,24631,Langwedel,Hörn,22,,54.21367752,9.93160919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VV,24631,Langwedel,Hörn,22,a,54.21717485,9.93093252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VX,24631,Langwedel,Hörn,24,,54.21398149,9.93126855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VY,24631,Langwedel,Hörn,26,,54.21384984,9.9308467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0VZ,24631,Langwedel,Hörn,28,,54.21383445,9.93057402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Va,24631,Langwedel,Fischersiedlung,35,,54.21295164,9.91634932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vb,24631,Langwedel,Fischersiedlung,37,,54.21283406,9.91581343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vc,24631,Langwedel,Fischersiedlung,5,,54.21354686,9.91770134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vd,24631,Langwedel,Fischersiedlung,7,,54.21333024,9.91740439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ve,24631,Langwedel,Fischersiedlung,9,,54.2134548,9.91696766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vf,24631,Langwedel,Ginsterbusch,1,,54.20636412,9.91528133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vg,24631,Langwedel,Ginsterbusch,10,,54.20723245,9.91406176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vh,24631,Langwedel,Ginsterbusch,2,,54.20664763,9.91555448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vi,24631,Langwedel,Ginsterbusch,3,,54.20664362,9.91467236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vj,24631,Langwedel,Ginsterbusch,4,,54.20686646,9.91501275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vk,24631,Langwedel,Ginsterbusch,5,,54.20666171,9.91418929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vl,24631,Langwedel,Ginsterbusch,6,,54.20693533,9.91459095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vm,24631,Langwedel,Ginsterbusch,7,,54.20687908,9.91391143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vn,24631,Langwedel,Ginsterbusch,8,,54.20721581,9.91446901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vo,24631,Langwedel,Hasselkrug,2,,54.21449683,9.9523458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vp,24631,Langwedel,Hasselkrug,2,a,54.214722,9.95225515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vq,24631,Langwedel,Hasselkrug,3,,54.21550809,9.95066438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vr,24631,Langwedel,Hasselkrug,4,,54.21541986,9.95125369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vs,24631,Langwedel,Hasselkrug,5,,54.2158257,9.95042765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vt,24631,Langwedel,Hasenweg,1,,54.20839885,9.91719427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vu,24631,Langwedel,Hasenweg,10,,54.20928998,9.91625037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vv,24631,Langwedel,Hasenweg,12,,54.20949198,9.9159382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vw,24631,Langwedel,Hasenweg,14,,54.20922801,9.91575309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vx,24631,Langwedel,Hasenweg,2,,54.20858443,9.91795373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vy,24631,Langwedel,Hasenweg,3,,54.20853765,9.91615038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Vz,24631,Langwedel,Hasenweg,4,,54.20872879,9.91762102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W0,24631,Langwedel,Hörn,3,,54.21224118,9.9301859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W1,24631,Langwedel,Hörn,4,,54.21233939,9.93088548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W2,24631,Langwedel,Hörn,5,,54.21247264,9.93037366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W3,24631,Langwedel,Hörn,5,a,54.2126973,9.93037042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W4,24631,Langwedel,Hörn,7,,54.21290018,9.93059991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W5,24631,Langwedel,Hörn,7,a,54.21297931,9.93037719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W6,24631,Langwedel,Hörn,7,b,54.21309072,9.93000378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W7,24631,Langwedel,Hörn,9,,54.21309432,9.9307157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W8,24631,Langwedel,Heckenrosenweg,1,,54.20459155,9.91403548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0W9,24631,Langwedel,Heckenrosenweg,1,a,54.20468568,9.9141957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WA,24631,Langwedel,Hohlweg,5,,54.21410405,9.92464248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WB,24631,Langwedel,Hohlweg,7,,54.2143599,9.92458226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WC,24631,Langwedel,Hohlweg,9,,54.21466227,9.92425894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WD,24631,Langwedel,Heidkoppel,1,,54.2057304,9.91452456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WE,24631,Langwedel,Heidkoppel,10,,54.20638113,9.91304377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WF,24631,Langwedel,Heidkoppel,11,,54.20608537,9.91333854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WG,24631,Langwedel,Heidkoppel,12,,54.20681916,9.91349485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WH,24631,Langwedel,Heidkoppel,12,a,54.2074634,9.9132914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WI,24631,Langwedel,Heidkoppel,13,,54.20618552,9.91306512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WJ,24631,Langwedel,Heidkoppel,14,,54.20702319,9.91296017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WK,24631,Langwedel,Heidkoppel,14,a,54.20704238,9.91238023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WL,24631,Langwedel,Heidkoppel,14,b,54.207257,9.91253396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WM,24631,Langwedel,Heidkoppel,16,,54.20661366,9.91287302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WN,24631,Langwedel,Heidkoppel,17,,54.20624639,9.91275455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WO,24631,Langwedel,Heidkoppel,18,,54.20682157,9.91226493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WP,24631,Langwedel,Heidkoppel,2,,54.20603354,9.91485686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WQ,24631,Langwedel,Heidkoppel,21,,54.20547113,9.91192568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WR,24631,Langwedel,Heidkoppel,23,,54.20605218,9.91189767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WS,24631,Langwedel,Heidkoppel,25,,54.2062358,9.91206402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WT,24631,Langwedel,Heidkoppel,27,,54.206386,9.91246803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WU,24631,Langwedel,Heidkoppel,3,,54.20541843,9.91434772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WV,24631,Langwedel,Heidkoppel,4,,54.2062584,9.9143668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WW,24631,Langwedel,Heidkoppel,5,,54.20567704,9.91337769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WX,24631,Langwedel,Heidkoppel,6,,54.20634558,9.91396879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WY,24631,Langwedel,Heidkoppel,7,,54.205974,9.91365269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0WZ,24631,Langwedel,Heidkoppel,8,,54.20646481,9.91359285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wa,24631,Langwedel,Heckenrosenweg,10,,54.20533181,9.91557675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wb,24631,Langwedel,Heckenrosenweg,11,,54.20618638,9.91559752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wc,24631,Langwedel,Heckenrosenweg,12,,54.20556814,9.91597798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wd,24631,Langwedel,Heckenrosenweg,13,,54.20652768,9.91596644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0We,24631,Langwedel,Heckenrosenweg,14,,54.20580593,9.91592891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wf,24631,Langwedel,Heckenrosenweg,15,,54.20679541,9.91626123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wg,24631,Langwedel,Heckenrosenweg,16,,54.2060742,9.91610745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wh,24631,Langwedel,Heckenrosenweg,17,,54.20729057,9.91652375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wi,24631,Langwedel,Heckenrosenweg,18,,54.20622728,9.91644523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wj,24631,Langwedel,Heckenrosenweg,18,a,54.20630429,9.91677066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wk,24631,Langwedel,Heckenrosenweg,19,,54.20770523,9.91659814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wl,24631,Langwedel,Heckenrosenweg,2,,54.20440327,9.91447069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wm,24631,Langwedel,Heckenrosenweg,20,,54.20650025,9.91672527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wn,24631,Langwedel,Heckenrosenweg,21,,54.20791339,9.91671967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wo,24631,Langwedel,Heckenrosenweg,22,,54.20661487,9.91683502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wp,24631,Langwedel,Heckenrosenweg,23,,54.20804862,9.91732514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wq,24631,Langwedel,Heckenrosenweg,25,,54.20822787,9.91756424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wr,24631,Langwedel,Heckenrosenweg,3,,54.20498222,9.91424669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ws,24631,Langwedel,Heckenrosenweg,4,,54.20458528,9.91487543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wt,24631,Langwedel,Heckenrosenweg,5,,54.20529346,9.91472379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wu,24631,Langwedel,Heckenrosenweg,6,,54.20486193,9.91492435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wv,24631,Langwedel,Heckenrosenweg,7,,54.20556428,9.91489758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ww,24631,Langwedel,Heckenrosenweg,8,,54.20508746,9.91540839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wx,24631,Langwedel,Heckenrosenweg,9,,54.20592292,9.91539242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wy,24631,Langwedel,Hohlweg,1,,54.21359825,9.92428885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Wz,24631,Langwedel,Hohlweg,3,,54.21390328,9.92445246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X0,24631,Langwedel,Heidkoppel,9,,54.20573282,9.9131278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X1,24631,Langwedel,Hörnstieg,1,,54.21243953,9.92982863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X2,24631,Langwedel,Hörnstieg,2,,54.21278311,9.92999025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X3,24631,Langwedel,Hörnstieg,5,,54.21256532,9.92931488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X4,24631,Langwedel,Hörnstieg,7,,54.21259876,9.92912889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X5,24631,Langwedel,Hörnstieg,9,,54.21280753,9.92946158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X6,24631,Langwedel,Kaninchenpfad,1,,54.20696472,9.91582297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X7,24631,Langwedel,Kaninchenpfad,10,,54.20783611,9.91470792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X8,24631,Langwedel,Kaninchenpfad,11,,54.20787548,9.91316484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0X9,24631,Langwedel,Kaninchenpfad,12,,54.20795478,9.91348513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XA,24631,Langwedel,Kieler Straße,19,a,54.21568135,9.93731528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XB,24631,Langwedel,Kieler Straße,19,b,54.21573172,9.93740616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XC,24631,Langwedel,Kieler Straße,19,c,54.21577632,9.93748652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XD,24631,Langwedel,Kieler Straße,19,d,54.21582821,9.93716416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XE,24631,Langwedel,Kieler Straße,19,e,54.21544918,9.93711064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XF,24631,Langwedel,Kieler Straße,19,f,54.21548356,9.93719574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XG,24631,Langwedel,Kieler Straße,19,g,54.21575644,9.93791023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XH,24631,Langwedel,Kieler Straße,2,,54.21249122,9.93421099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XI,24631,Langwedel,Kieler Straße,22,,54.2158459,9.93909157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XJ,24631,Langwedel,Kieler Straße,22,a,54.21591406,9.93947854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XN,24631,Langwedel,Kieler Straße,26,,54.21614078,9.94061327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XO,24631,Langwedel,Kieler Straße,28,,54.21646247,9.94078112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XP,24631,Langwedel,Kieler Straße,3,,54.21321857,9.93413398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XQ,24631,Langwedel,Kieler Straße,30,,54.2165996,9.94110465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XR,24631,Langwedel,Kieler Straße,32,,54.21674455,9.94150891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XS,24631,Langwedel,Kieler Straße,34,,54.2168634,9.9418674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XT,24631,Langwedel,Kieler Straße,36,,54.22246211,9.9555257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XU,24631,Langwedel,Kieler Straße,36,a,54.22238629,9.95532937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XV,24631,Langwedel,Kieler Straße,38,,54.22273684,9.95563615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XW,24631,Langwedel,Kieler Straße,5,,54.21332778,9.93447118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XX,24631,Langwedel,Kieler Straße,6,,54.21274073,9.93414653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XY,24631,Langwedel,Kieler Straße,6,a,54.21286823,9.934458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0XZ,24631,Langwedel,Kieler Straße,7,,54.21344378,9.93489392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xa,24631,Langwedel,Kaninchenpfad,2,,54.20728237,9.91587497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xb,24631,Langwedel,Kaninchenpfad,3,,54.20715013,9.91527905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xc,24631,Langwedel,Kaninchenpfad,4,,54.207456,9.91595506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xd,24631,Langwedel,Kaninchenpfad,5,,54.2073502,9.915008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xe,24631,Langwedel,Kaninchenpfad,6,,54.20780158,9.91555568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xf,24631,Langwedel,Kaninchenpfad,8,,54.20732563,9.91559422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xg,24631,Langwedel,Kiebitzweg,1,,54.20813189,9.91602546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xh,24631,Langwedel,Kiebitzweg,2,,54.20848233,9.91513231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xi,24631,Langwedel,Kiebitzweg,2,a,54.20836136,9.91513212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xj,24631,Langwedel,Kiebitzweg,3,,54.20795823,9.91595696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xk,24631,Langwedel,Kiebitzweg,4,,54.20828493,9.91489367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xl,24631,Langwedel,Kieler Straße,1,,54.21298817,9.93404464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xm,24631,Langwedel,Kieler Straße,10,,54.21303924,9.93530583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xn,24631,Langwedel,Kieler Straße,10,a,54.2132114,9.93517783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xo,24631,Langwedel,Kieler Straße,10,b,54.21324155,9.93545693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xp,24631,Langwedel,Kieler Straße,10,c,54.21318414,9.93558926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xq,24631,Langwedel,Kieler Straße,11,,54.21383241,9.93578233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xr,24631,Langwedel,Kieler Straße,12,,54.2137267,9.9361762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xs,24631,Langwedel,Kieler Straße,13,,54.21405667,9.93594144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xt,24631,Langwedel,Kieler Straße,14,,54.21393379,9.93663777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xu,24631,Langwedel,Kieler Straße,15,,54.21416909,9.93611635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xv,24631,Langwedel,Kieler Straße,16,,54.21411661,9.93683659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xw,24631,Langwedel,Kieler Straße,17,,54.21560447,9.9372266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xx,24631,Langwedel,Kieler Straße,17,a,54.21531586,9.93731556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xy,24631,Langwedel,Kieler Straße,17,b,54.21527731,9.93722359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Xz,24631,Langwedel,Kieler Straße,17,c,54.21524045,9.93712799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y0,24631,Langwedel,Langwedelerfeld,1,,54.22987092,9.96939481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y1,24631,Langwedel,Langwedelerfeld,10,,54.23303898,9.97735802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y2,24631,Langwedel,Langwedelerfeld,11,,54.23658495,9.97598231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y3,24631,Langwedel,Langwedelerfeld,11,a,54.23655927,9.97590239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y4,24631,Langwedel,Langwedelerfeld,12,,54.23311326,9.97656262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y5,24631,Langwedel,Langwedelerfeld,13,,54.2371298,9.97559758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y6,24631,Langwedel,Langwedelerfeld,14,,54.23293655,9.97592718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y7,24631,Langwedel,Langwedelerfeld,14,a,54.23302572,9.97586284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y8,24631,Langwedel,Langwedelerfeld,15,,54.23724457,9.97546954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Y9,24631,Langwedel,Langwedelerfeld,16,,54.2327743,9.97531397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YA,24631,Langwedel,Manhagener Weg,2,a,54.21418561,9.92398882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YB,24631,Langwedel,Manhagener Weg,4,,54.21484272,9.92321512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YC,24631,Langwedel,Manhagener Weg,4,a,54.21453036,9.92339952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YD,24631,Langwedel,Manhagener Weg,4,b,54.21500188,9.92305873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YE,24631,Langwedel,Manhagener Weg,4,c,54.21478747,9.92348419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YF,24631,Langwedel,Manhagener Weg,4,d,54.21451703,9.92353368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YG,24631,Langwedel,Manhagener Weg,4,e,54.2148248,9.92363259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YH,24631,Langwedel,Manhagener Weg,6,,54.21564222,9.92246393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YI,24631,Langwedel,Meiereidamm,2,a,54.21344609,9.93562842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YJ,24631,Langwedel,Meiereidamm,2,b,54.21338536,9.93569593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YK,24631,Langwedel,Meiereidamm,4,,54.21291276,9.93558484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YL,24631,Langwedel,Melkenkamp,1,,54.21484177,9.93940445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YM,24631,Langwedel,Melkenkamp,10,,54.21408531,9.93981487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YN,24631,Langwedel,Melkenkamp,11,,54.2137932,9.93947949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YO,24631,Langwedel,Melkenkamp,12,,54.21364704,9.93972777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YP,24631,Langwedel,Melkenkamp,12,a,54.21356153,9.94005606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YQ,24631,Langwedel,Melkenkamp,13,,54.21346913,9.9403574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YR,24631,Langwedel,Melkenkamp,13,a,54.21317001,9.93986201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YS,24631,Langwedel,Melkenkamp,14,,54.2133364,9.93971938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YT,24631,Langwedel,Melkenkamp,15,,54.21345493,9.93944112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YU,24631,Langwedel,Melkenkamp,16,,54.21356944,9.93909906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YV,24631,Langwedel,Melkenkamp,17,,54.21363179,9.93874927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YW,24631,Langwedel,Melkenkamp,18,,54.21376738,9.93893574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YX,24631,Langwedel,Melkenkamp,19,,54.21391249,9.93913266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YY,24631,Langwedel,Melkenkamp,2,,54.21470427,9.9396205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0YZ,24631,Langwedel,Melkenkamp,20,,54.21405443,9.93933472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ya,24631,Langwedel,Langwedelerfeld,18,,54.23276584,9.97505142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yb,24631,Langwedel,Langwedelerfeld,2,,54.22831074,9.96901685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yc,24631,Langwedel,Langwedelerfeld,20,,54.23273483,9.9749467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yd,24631,Langwedel,Langwedelerfeld,3,,54.23023959,9.96972566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ye,24631,Langwedel,Langwedelerfeld,5,,54.23106508,9.97046607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yf,24631,Langwedel,Langwedelerfeld,6,,54.22821236,9.97144694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yg,24631,Langwedel,Langwedelerfeld,7,,54.23135637,9.97092944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yh,24631,Langwedel,Langwedelerfeld,8,,54.23300581,9.97766572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yi,24631,Langwedel,Langwedelerfeld,8,a,54.23342328,9.97770338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yj,24631,Langwedel,Langwedelerfeld,9,,54.23254689,9.97050429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yk,24631,Langwedel,Langwedelerholz,1,,54.214822,9.97338922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yl,24631,Langwedel,Langwedelerholz,2,,54.21155676,9.975042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ym,24631,Langwedel,Langwedelerholz,2,a,54.21155592,9.97513687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yn,24631,Langwedel,Langwedelerholz,2,b,54.21155513,9.97522666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yo,24631,Langwedel,Langwedelerholz,2,c,54.21155437,9.97531279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yp,24631,Langwedel,Langwedelerholz,2,d,54.21155361,9.97539892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yq,24631,Langwedel,Langwedelerholz,3,,54.21460892,9.97172157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yr,24631,Langwedel,Langwedelerholz,4,,54.2166543,9.97331742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ys,24631,Langwedel,Langwedelerholz,5,,54.21950124,9.97282857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yt,24631,Langwedel,Langwedelerholz,6,,54.21879514,9.97312099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yu,24631,Langwedel,Langwedelerholz,7,,54.21990949,9.97298867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yv,24631,Langwedel,Manhagen,3,,54.21961059,9.9225327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yw,24631,Langwedel,Manhagen,5,,54.21917704,9.92325194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yx,24631,Langwedel,Manhagen,7,,54.21891165,9.9235043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yy,24631,Langwedel,Manhagener Weg,1,,54.21474507,9.92282539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Yz,24631,Langwedel,Manhagener Weg,2,,54.21427364,9.92356157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z0,24631,Langwedel,Melkenkamp,21,,54.21428244,9.93962497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z1,24631,Langwedel,Melkenkamp,22,,54.21442977,9.93949173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z2,24631,Langwedel,Melkenkamp,23,,54.21471985,9.93904964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z3,24631,Langwedel,Melkenkamp,24,,54.21494351,9.93891592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z4,24631,Langwedel,Melkenkamp,25,,54.21505531,9.9387421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z5,24631,Langwedel,Melkenkamp,26,,54.21522129,9.93868809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z6,24631,Langwedel,Melkenkamp,27,,54.21337261,9.93883191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z7,24631,Langwedel,Melkenkamp,27,a,54.21320135,9.93906752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z8,24631,Langwedel,Melkenkamp,28,,54.21303883,9.93886554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Z9,24631,Langwedel,Melkenkamp,28,a,54.21297985,9.93910232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZA,24631,Langwedel,Mühlenstraße,15,,54.21211965,9.92591992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZB,24631,Langwedel,Mühlenstraße,16,,54.21234781,9.92621633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZC,24631,Langwedel,Mühlenstraße,17,,54.21213293,9.92574703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZD,24631,Langwedel,Mühlenstraße,2,a,54.21213138,9.92966933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZE,24631,Langwedel,Mühlenstraße,2,b,54.2122011,9.92970796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZF,24631,Langwedel,Mühlenstraße,21,,54.21257425,9.92476155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZG,24631,Langwedel,Mühlenstraße,22,,54.21363761,9.92393618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZH,24631,Langwedel,Mühlenstraße,23,,54.21395638,9.92301461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZI,24631,Langwedel,Mühlenstraße,23,a,54.21409124,9.92258403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZJ,24631,Langwedel,Mühlenstraße,23,b,54.21335961,9.92254126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZK,24631,Langwedel,Mühlenstraße,23,c,54.21362769,9.92268638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZL,24631,Langwedel,Mühlenstraße,23,d,54.21315268,9.92225007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZM,24631,Langwedel,Mühlenstraße,23,e,54.21318949,9.92210448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZN,24631,Langwedel,Mühlenstraße,24,,54.21385941,9.92376665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZO,24631,Langwedel,Mühlenstraße,24,a,54.21404188,9.92355105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZP,24631,Langwedel,Mühlenstraße,25,,54.21422452,9.92233829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZQ,24631,Langwedel,Mühlenstraße,26,,54.21426175,9.92313947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZR,24631,Langwedel,Mühlenstraße,27,,54.2143298,9.92195446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZS,24631,Langwedel,Mühlenstraße,28,,54.21438054,9.92253285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZT,24631,Langwedel,Mühlenstraße,29,,54.21474109,9.91654283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZU,24631,Langwedel,Mühlenstraße,3,,54.21175295,9.92911448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZV,24631,Langwedel,Mühlenstraße,30,,54.21489744,9.91685059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZW,24631,Langwedel,Mühlenstraße,30,a,54.21482407,9.91879502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZX,24631,Langwedel,Mühlenstraße,31,,54.2146996,9.91600594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZY,24631,Langwedel,Mühlenstraße,33,,54.21477623,9.91551108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0ZZ,24631,Langwedel,Mühlenstraße,4,a,54.21193467,9.92942918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Za,24631,Langwedel,Melkenkamp,29,,54.21284064,9.93887646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zb,24631,Langwedel,Melkenkamp,3,,54.21456724,9.93984618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zc,24631,Langwedel,Melkenkamp,30,,54.21266442,9.93888365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zd,24631,Langwedel,Melkenkamp,31,,54.21264627,9.93855997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Ze,24631,Langwedel,Melkenkamp,32,,54.21285123,9.93854542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zf,24631,Langwedel,Melkenkamp,33,,54.21310027,9.93851839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zg,24631,Langwedel,Melkenkamp,34,,54.2132361,9.93842601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zh,24631,Langwedel,Melkenkamp,35,,54.21345818,9.93853974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zi,24631,Langwedel,Melkenkamp,4,,54.21443679,9.94009151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zj,24631,Langwedel,Melkenkamp,5,,54.21430515,9.94034029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zk,24631,Langwedel,Melkenkamp,6,,54.21418016,9.94058027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zl,24631,Langwedel,Melkenkamp,7,,54.21404918,9.94083506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zm,24631,Langwedel,Melkenkamp,7,a,54.2137981,9.94121357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zn,24631,Langwedel,Melkenkamp,8,,54.21384011,9.94045819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zo,24631,Langwedel,Melkenkamp,8,a,54.21371546,9.94087197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zp,24631,Langwedel,Melkenkamp,9,,54.21403054,9.94027863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zq,24631,Langwedel,Moorweg,1,,54.20751244,9.92463515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zr,24631,Langwedel,Moorweg,2,,54.20732916,9.92405282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zs,24631,Langwedel,Moorweg,4,,54.20717121,9.9240192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zt,24631,Langwedel,Moorweg,6,,54.20682837,9.92403182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zu,24631,Langwedel,Mühlenstraße,1,,54.21172511,9.92947166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zv,24631,Langwedel,Mühlenstraße,10,,54.21220378,9.92744309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zw,24631,Langwedel,Mühlenstraße,11,,54.21197676,9.92712548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zx,24631,Langwedel,Mühlenstraße,12,,54.2124808,9.92809678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zy,24631,Langwedel,Mühlenstraße,13,,54.21201289,9.92661889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0Zz,24631,Langwedel,Mühlenstraße,14,,54.21230098,9.92680524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c100,24631,Langwedel,Mühlenstraße,4,b,54.21195312,9.92932212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c101,24631,Langwedel,Mühlenstraße,4,c,54.21197259,9.929209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c102,24631,Langwedel,Mühlenstraße,4,d,54.21223914,9.92917053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c103,24631,Langwedel,Mühlenstraße,4,e,54.2122079,9.92939989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c104,24631,Langwedel,Mühlenstraße,5,,54.21179778,9.92885066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c105,24631,Langwedel,Mühlenstraße,6,a,54.21214594,9.9287715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c106,24631,Langwedel,Mühlenstraße,6,b,54.21216449,9.92866295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c107,24631,Langwedel,Mühlenstraße,6,c,54.21218329,9.92855178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c108,24631,Langwedel,Mühlenstraße,7,,54.21188782,9.92843909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c109,24631,Langwedel,Mühlenstraße,7,a,54.21166312,9.92836024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10A,24631,Langwedel,Nortorfer Straße,5,,54.21109565,9.92932193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10B,24631,Langwedel,Nortorfer Straße,6,,54.21090426,9.92850244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10C,24631,Langwedel,Nortorfer Straße,6,a,54.21105426,9.92802855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10D,24631,Langwedel,Nortorfer Straße,7,,54.21087307,9.92923603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10E,24631,Langwedel,Nortorfer Straße,8,,54.21086136,9.92823867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10F,24631,Langwedel,Nortorfer Straße,80,,54.19735641,9.90084744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10G,24631,Langwedel,Nortorfer Straße,80,a,54.19715529,9.89980117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10H,24631,Langwedel,Nortorfer Straße,82,,54.19709213,9.89946122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10I,24631,Langwedel,Nortorfer Straße,83,,54.19283451,9.90267267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10J,24631,Langwedel,Nortorfer Straße,9,,54.21066709,9.92924768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10K,24631,Langwedel,Nortorfer Straße,9,a,54.21041918,9.92928245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10L,24631,Langwedel,Nortorfer Straße,9,b,54.21037271,9.9292267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10M,24631,Langwedel,Olendiekskamp,1,,54.2095727,9.92806579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10N,24631,Langwedel,Olendiekskamp,2,,54.20953905,9.92746005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10O,24631,Langwedel,Olendiekskamp,3,,54.20944658,9.92784034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10P,24631,Langwedel,Olendiekskamp,4,,54.2093739,9.92727153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10Q,24631,Langwedel,Olendiekskamp,5,,54.20928954,9.92760564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10R,24631,Langwedel,Olendiekskamp,6,,54.20925546,9.92700918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10S,24631,Langwedel,Olendiekskamp,7,,54.20910293,9.92741656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10T,24631,Langwedel,Olendiekskamp,9,,54.20888299,9.92788211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10U,24631,Langwedel,Pohlsee,1,,54.23813302,9.93557219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10V,24631,Langwedel,Pohlsee,2,,54.23781705,9.93523484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10W,24631,Langwedel,Pohlsee,2,a,54.23756074,9.93443268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10X,24631,Langwedel,Pohlsee,2,b,54.23875827,9.93677874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10Y,24631,Langwedel,Pohlsee,3,,54.23859569,9.93692451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10Z,24631,Langwedel,Pohlsee,3,a,54.2379718,9.93645624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10a,24631,Langwedel,Mühlenstraße,8,,54.21210158,9.92826789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10b,24631,Langwedel,Mühlenstraße,9,,54.21197239,9.9277102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10c,24631,Langwedel,Nortorfer Straße,10,,54.21060132,9.92784968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10d,24631,Langwedel,Nortorfer Straße,10,a,54.21099378,9.92712146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10e,24631,Langwedel,Nortorfer Straße,11,,54.21067768,9.92860995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10f,24631,Langwedel,Nortorfer Straße,12,,54.21041796,9.92758827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10g,24631,Langwedel,Nortorfer Straße,12,a,54.21060061,9.92695938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10h,24631,Langwedel,Nortorfer Straße,13,,54.21060463,9.92839464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10i,24631,Langwedel,Nortorfer Straße,13,a,54.21019578,9.92827534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10j,24631,Langwedel,Nortorfer Straße,14,,54.21025355,9.92735288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10k,24631,Langwedel,Nortorfer Straße,15,,54.21044585,9.92814253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10l,24631,Langwedel,Nortorfer Straße,16,,54.21008577,9.92709776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10m,24631,Langwedel,Nortorfer Straße,17,,54.21031583,9.92799402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10n,24631,Langwedel,Nortorfer Straße,18,,54.20997251,9.92694529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10o,24631,Langwedel,Nortorfer Straße,18,a,54.21075363,9.92479859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10p,24631,Langwedel,Nortorfer Straße,2,,54.21148549,9.9285996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10q,24631,Langwedel,Nortorfer Straße,21,,54.20978843,9.9276401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10r,24631,Langwedel,Nortorfer Straße,27,,54.2080674,9.92539365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10s,24631,Langwedel,Nortorfer Straße,3,,54.21134801,9.92954866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10t,24631,Langwedel,Nortorfer Straße,3,a,54.21116334,9.92986261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10u,24631,Langwedel,Nortorfer Straße,3,b,54.21110662,9.92998636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10v,24631,Langwedel,Nortorfer Straße,30,,54.2072939,9.92299668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10w,24631,Langwedel,Nortorfer Straße,32,,54.20713999,9.92273111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10x,24631,Langwedel,Nortorfer Straße,4,,54.21121422,9.92891479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10y,24631,Langwedel,Nortorfer Straße,4,a,54.21121977,9.92842833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c10z,24631,Langwedel,Nortorfer Straße,4,b,54.21139458,9.92910171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c110,24631,Langwedel,Pohlsee,4,,54.23829854,9.93802939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c111,24631,Langwedel,Pohlsee,6,,54.23456463,9.94221994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c112,24631,Langwedel,Pohlsee,8,,54.23394665,9.94298857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c113,24631,Langwedel,Reitweg,3,,54.20773186,9.93447267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c114,24631,Langwedel,Sandfeld,1,,54.22754773,9.91378508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c115,24631,Langwedel,Sandfeld,2,,54.22777408,9.91336238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c116,24631,Langwedel,Schulstraße,2,,54.21207377,9.93203573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c117,24631,Langwedel,Schulstraße,8,,54.21251304,9.93217891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c118,24631,Langwedel,Springhorst,2,,54.21671738,9.96114467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c119,24631,Langwedel,Springhorst,4,,54.21721456,9.96228786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11A,24631,Langwedel,Wollm,13,,54.20962728,9.93649392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11B,24631,Langwedel,Wollm,14,,54.20595302,9.93551881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11C,24631,Langwedel,Wollm,15,,54.20914024,9.93596772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11D,24631,Langwedel,Wollm,18,,54.20470304,9.93511349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11F,24631,Langwedel,Wollm,20,,54.20456059,9.93505732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11G,24631,Langwedel,Wollm,21,,54.20658973,9.93625708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11H,24631,Langwedel,Wollm,23,,54.20637512,9.93635367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11I,24631,Langwedel,Wollm,3,,54.21147587,9.93627492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11J,24631,Langwedel,Wollm,3,a,54.21155867,9.93625714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11K,24631,Langwedel,Wollm,5,,54.21082709,9.93635569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11L,24631,Langwedel,Wollm,5,a,54.21111618,9.93632464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11M,24631,Langwedel,Wollm,7,,54.2102242,9.9361578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11N,24631,Langwedel,Wollm,7,a,54.21043337,9.9362772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11O,24631,Langwedel,Wollm,8,,54.2079117,9.93586025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11P,24631,Langwedel,Wollm,9,,54.21008583,9.93678798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11Q,24631,Langwedel,Ziegelei,1,,54.22852829,9.95295731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11R,24631,Langwedel,Ziegelei,10,,54.23249009,9.9451716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11S,24631,Langwedel,Ziegelei,2,,54.22856689,9.95357581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11T,24631,Langwedel,Ziegelei,2,a,54.22837556,9.95439548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11U,24631,Langwedel,Ziegelei,3,,54.22980847,9.95369787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11V,24631,Langwedel,Ziegelei,3,a,54.22996703,9.9541728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11W,24631,Langwedel,Ziegelei,4,,54.22750324,9.95616122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11X,24631,Langwedel,Ziegelei,5,,54.23011575,9.95469848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11Y,24631,Langwedel,Ziegelei,5,a,54.23052018,9.95517993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11Z,24631,Langwedel,Ziegelei,6,,54.23262028,9.94493972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11a,24631,Langwedel,Springhorst,6,,54.21761331,9.9633264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11b,24631,Langwedel,Springhorst,7,,54.21825471,9.96410688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11c,24631,Langwedel,Springhorst,8,,54.21763009,9.96472612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11d,24631,Langwedel,Uhlenbarg,1,,54.21373193,9.93478599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11e,24631,Langwedel,Uhlenbarg,2,,54.21388322,9.93520659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11f,24631,Langwedel,Uhlenbarg,3,,54.21387656,9.93464081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11g,24631,Langwedel,Uhlenbarg,4,,54.21419938,9.93503083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11h,24631,Langwedel,Waldheim,1,,54.1988371,9.90459091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11i,24631,Langwedel,Wennebek,1,,54.19016841,9.89437405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11j,24631,Langwedel,Wennebek,1,a,54.189982,9.89405851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11k,24631,Langwedel,Wennebek,2,,54.18992986,9.89441891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11l,24631,Langwedel,Windmühlenberg,1,,54.21279265,9.92362794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11m,24631,Langwedel,Windmühlenberg,2,,54.21290974,9.92330643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11n,24631,Langwedel,Windmühlenberg,3,,54.21308774,9.92313474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11o,24631,Langwedel,Windmühlenberg,4,,54.21325927,9.9230061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11p,24631,Langwedel,Windmühlenberg,5,,54.21344949,9.92307705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11q,24631,Langwedel,Windmühlenberg,6,,54.21359115,9.92333586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11r,24631,Langwedel,Windmühlenberg,7,,54.21344436,9.92352715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11s,24631,Langwedel,Windmühlenberg,8,,54.21312826,9.92363638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11t,24631,Langwedel,Windmühlenberg,9,,54.21296167,9.92394382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11u,24631,Langwedel,Windmühlenberg,9,a,54.21288366,9.92403528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11v,24631,Langwedel,Wollm,1,a,54.21194227,9.9365347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11w,24631,Langwedel,Wollm,10,,54.20764085,9.9352499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11x,24631,Langwedel,Wollm,10,a,54.20751305,9.93522522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11y,24631,Langwedel,Wollm,11,,54.20994113,9.9360318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c11z,24631,Langwedel,Wollm,12,,54.20634962,9.93455243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c120,24631,Langwedel,Ziegelei,7,,54.23182475,9.94754558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c121,24631,Langwedel,Ziegelei,7,a,54.23178039,9.9473113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GAWm,24631,Langwedel,Buchenweg,8,,54.20371447,9.91017634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GAtA,24631,Langwedel,Birkenweg,11,,54.20398483,9.90916196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GBW9,24631,Langwedel,Kiebitzweg,8,,54.20813828,9.91694955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GC7c,24631,Langwedel,Langwedelerholz,4,a,54.21651523,9.97301632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GCL4,24631,Langwedel,Olendiekskamp,11,,54.20887083,9.92708116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GCL9,24631,Langwedel,Olendiekskamp,13,,54.2086935,9.92678448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GCUF,24631,Langwedel,Wollm,22,,54.20428796,9.93495231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WVzb,24631,Langwedel,Bordesholmer Straße,1,a,54.21252131,9.93672781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YKVB,24631,Langwedel,Olendiekskamp,15,,54.20855454,9.92655088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YKVZ,24631,Langwedel,Olendiekskamp,16,,54.20850244,9.92596805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YKVn,24631,Langwedel,Olendiekskamp,10,,54.20887769,9.9264855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YKVs,24631,Langwedel,Olendiekskamp,12,,54.20876056,9.92632306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YKVx,24631,Langwedel,Olendiekskamp,14,,54.20864521,9.92614466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hzLD,24631,Langwedel,Langwedelerfeld,20,a,54.2327304,9.97480433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060fbG,24631,Langwedel,Olendiekskamp,8,,54.20901653,9.92667073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DCRk,24631,Langwedel,Kieler Straße,23,a,54.21602134,9.93801679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DCRl,24631,Langwedel,Kieler Straße,23,b,54.21607502,9.93795031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DCRm,24631,Langwedel,Kieler Straße,23,c,54.21613469,9.93787644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DCRn,24631,Langwedel,Kieler Straße,23,d,54.21618628,9.93781262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DDge,24631,Langwedel,Pohlsee,1,a,54.23832911,9.93547792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DTzR,24631,Langwedel,Buchenweg,2,a,54.20305243,9.91102804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XA0Z,24631,Langwedel,Meiereidamm,1,,54.21348955,9.93598701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XAcZ,24631,Langwedel,Pohlsee,7,,54.23339666,9.94350899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XxY5,24631,Langwedel,Mühlenstraße,23,f,54.21398087,9.92290988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006d0BL,24631,Langwedel,Olendiekskamp,17,,54.2083882,9.92640363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oREP,24631,Langwedel,Birkenweg,13,,54.20398119,9.91038806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oReq,24631,Langwedel,Fasanenweg,23,a,54.21008351,9.91848226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRr0,24631,Langwedel,Buchenweg,2,,54.20281126,9.91085355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075dcV,24631,Langwedel,Blocksdorf,11,d,54.23574857,9.90972288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FCtU,24631,Langwedel,Dorfstraße,6,b,54.21120854,9.93085453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MOLL,24631,Langwedel,Kieler Straße,27,,54.21612331,9.93877584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MpTL,24631,Langwedel,Fasanenweg,5,a,54.20852015,9.9229979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lmGN,24631,Langwedel,Kieler Straße,25,,54.21635129,9.93831646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lmMF,24631,Langwedel,Kieler Straße,24,,54.216002,9.94006486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lmMK,24631,Langwedel,Kieler Straße,24,a,54.21598095,9.93982624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089mi9,24631,Langwedel,Mühlenstraße,15,a,54.2119836,9.9259689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089mia,24631,Langwedel,Mühlenstraße,17,a,54.2120923,9.92573394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008g1Mo,24631,Langwedel,Fasanenweg,4,a,54.20855684,9.92342667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008g1Mp,24631,Langwedel,Fasanenweg,4,b,54.2086146,9.92324336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008g1Mq,24631,Langwedel,Fasanenweg,4,c,54.20868532,9.92331006

@@ -1,0 +1,573 @@
+# Amtliche Adressen für die Postleitzahl 23717
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004BYAF,23717,Kasseedorf,Ortsteil Sibbersdorf,999,,54.15890361,10.65967096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lG,23717,Kasseedorf,Altes Seeufer,1,,54.13557801,10.70463914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lH,23717,Kasseedorf,Altes Seeufer,1,a,54.13528582,10.70454959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lI,23717,Kasseedorf,Altes Seeufer,1,c,54.13470771,10.70361265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lJ,23717,Kasseedorf,Altes Seeufer,1,d,54.13453208,10.70312694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lK,23717,Kasseedorf,Altes Seeufer,1,e,54.13585097,10.70502814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lL,23717,Kasseedorf,Altes Seeufer,10,,54.1353496,10.70405396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lM,23717,Kasseedorf,Altes Seeufer,11,,54.1383185,10.7012043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lN,23717,Kasseedorf,Altes Seeufer,12,,54.1352381,10.7038888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lO,23717,Kasseedorf,Altes Seeufer,14,,54.13506689,10.70368668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lP,23717,Kasseedorf,Altes Seeufer,16,,54.13498632,10.70355305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lQ,23717,Kasseedorf,Altes Seeufer,18,,54.13488031,10.70320918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lR,23717,Kasseedorf,Altes Seeufer,18,a,54.13480351,10.70263951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lS,23717,Kasseedorf,Altes Seeufer,2,,54.13589669,10.70450577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lT,23717,Kasseedorf,Altes Seeufer,20,,54.13488317,10.70221388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lU,23717,Kasseedorf,Altes Seeufer,22,,54.13481124,10.70173751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lV,23717,Kasseedorf,Altes Seeufer,22,a,54.13490712,10.70139802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lW,23717,Kasseedorf,Altes Seeufer,24,,54.135301,10.70171311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lX,23717,Kasseedorf,Altes Seeufer,3,,54.13446438,10.70230804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lY,23717,Kasseedorf,Altes Seeufer,4,,54.13580295,10.70440174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1lZ,23717,Kasseedorf,Altes Seeufer,5,,54.13454932,10.70103691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m0,23717,Kasseedorf,Altes Seeufer,6,,54.13573391,10.70432568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m1,23717,Kasseedorf,Altes Seeufer,7,,54.13516921,10.70088997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m2,23717,Kasseedorf,Altes Seeufer,7,a,54.13575751,10.70021178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m3,23717,Kasseedorf,Altes Seeufer,7,b,54.13601373,10.6997992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m4,23717,Kasseedorf,Altes Seeufer,8,,54.13559215,10.70417431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m5,23717,Kasseedorf,Altes Seeufer,9,,54.13709567,10.70233033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m6,23717,Kasseedorf,Am Bungsberg,1,,54.19790194,10.69971012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m7,23717,Kasseedorf,Am Bungsberg,10,,54.19845026,10.69907886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m8,23717,Kasseedorf,Am Bungsberg,2,,54.19808665,10.70156398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1m9,23717,Kasseedorf,Am Bungsberg,3,,54.19800949,10.69907607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mA,23717,Kasseedorf,Am Dorfplatz,7,a,54.16366704,10.72110982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mB,23717,Kasseedorf,Am Dorfplatz,8,,54.16423039,10.72090846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mC,23717,Kasseedorf,Am Dorfplatz,9,,54.16441146,10.7208083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mD,23717,Kasseedorf,Am See,2,,54.17762558,10.6740147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mE,23717,Kasseedorf,Am See,4,,54.17777497,10.67387808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mF,23717,Kasseedorf,Am See,6,,54.17788667,10.67355365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mG,23717,Kasseedorf,Am Sina,10,,54.1395228,10.71321708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mH,23717,Kasseedorf,Am Sina,12,,54.13975777,10.71378217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mI,23717,Kasseedorf,Am Sina,14,,54.13952824,10.7143067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mJ,23717,Kasseedorf,Am Sina,2,,54.13882581,10.71156445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mK,23717,Kasseedorf,Am Sina,2,a,54.13905915,10.71182405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mL,23717,Kasseedorf,Am Sina,4,,54.13917808,10.71223697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mM,23717,Kasseedorf,Am Sina,6,,54.13939566,10.71232695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mN,23717,Kasseedorf,Am Sina,8,,54.13950038,10.71265352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mO,23717,Kasseedorf,An der Aue,1,,54.17755454,10.67435315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mP,23717,Kasseedorf,An der Aue,2,,54.17754594,10.6746978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mQ,23717,Kasseedorf,An der Aue,4,,54.17830421,10.67510495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mR,23717,Kasseedorf,Auf dem Heisen,1,,54.16585717,10.71405943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mS,23717,Kasseedorf,Auf dem Heisen,10,,54.16549864,10.71238136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mT,23717,Kasseedorf,Auf dem Heisen,11,,54.16507685,10.71322845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mU,23717,Kasseedorf,Auf dem Heisen,12,,54.16539982,10.71263413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mV,23717,Kasseedorf,Auf dem Heisen,13,,54.16502242,10.71296623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mW,23717,Kasseedorf,Auf dem Heisen,14,,54.16531302,10.71301522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mX,23717,Kasseedorf,Auf dem Heisen,15,,54.16483908,10.71364111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mY,23717,Kasseedorf,Auf dem Heisen,16,,54.16516928,10.71255645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mZ,23717,Kasseedorf,Auf dem Heisen,17,,54.16468784,10.71291448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ma,23717,Kasseedorf,Am Bungsberg,4,,54.19821161,10.70106989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mb,23717,Kasseedorf,Am Bungsberg,6,,54.19835562,10.70065783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mc,23717,Kasseedorf,Am Bungsberg,8,,54.19833613,10.69983938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1md,23717,Kasseedorf,Am Clasberg,1,,54.19746289,10.70126493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1me,23717,Kasseedorf,Am Clasberg,11,,54.19479315,10.69828446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mf,23717,Kasseedorf,Am Clasberg,13,,54.19431066,10.69786365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mg,23717,Kasseedorf,Am Clasberg,15,,54.19392832,10.69739822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mh,23717,Kasseedorf,Am Clasberg,17,,54.19386458,10.69732842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mi,23717,Kasseedorf,Am Clasberg,2,,54.19756138,10.70067032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mj,23717,Kasseedorf,Am Clasberg,3,,54.19745526,10.70175629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mk,23717,Kasseedorf,Am Clasberg,4,,54.19714538,10.70095189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ml,23717,Kasseedorf,Am Clasberg,5,,54.19638496,10.70039746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mm,23717,Kasseedorf,Am Clasberg,6,,54.19518793,10.69813227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mn,23717,Kasseedorf,Am Clasberg,7,,54.19601736,10.70031528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mo,23717,Kasseedorf,Am Clasberg,8,,54.19353564,10.69639817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mp,23717,Kasseedorf,Am Clasberg,9,,54.19486431,10.69835004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mq,23717,Kasseedorf,Am Dorfplatz,1,,54.16477162,10.72113101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mr,23717,Kasseedorf,Am Dorfplatz,1,a,54.16509779,10.72126114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ms,23717,Kasseedorf,Am Dorfplatz,10,,54.16428135,10.72026796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mt,23717,Kasseedorf,Am Dorfplatz,2,,54.16440902,10.72228699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mu,23717,Kasseedorf,Am Dorfplatz,2,a,54.16469869,10.72202086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mv,23717,Kasseedorf,Am Dorfplatz,3,,54.16445288,10.72176874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mw,23717,Kasseedorf,Am Dorfplatz,4,,54.16419859,10.72169176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mx,23717,Kasseedorf,Am Dorfplatz,5,,54.16391701,10.7219071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1my,23717,Kasseedorf,Am Dorfplatz,6,,54.16369512,10.72260488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1mz,23717,Kasseedorf,Am Dorfplatz,7,,54.16389551,10.72110483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n0,23717,Kasseedorf,Auf dem Heisen,18,,54.16510827,10.71203627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n1,23717,Kasseedorf,Auf dem Heisen,19,,54.16473492,10.71263961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n2,23717,Kasseedorf,Auf dem Heisen,2,,54.16555648,10.71350789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n3,23717,Kasseedorf,Auf dem Heisen,20,,54.16422731,10.71157511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n4,23717,Kasseedorf,Auf dem Heisen,21,,54.16482482,10.7122861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n5,23717,Kasseedorf,Auf dem Heisen,22,,54.16417711,10.7119082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n6,23717,Kasseedorf,Auf dem Heisen,23,,54.16449717,10.71169925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n7,23717,Kasseedorf,Auf dem Heisen,24,,54.16410672,10.7122921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n8,23717,Kasseedorf,Auf dem Heisen,25,,54.16437805,10.71206009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1n9,23717,Kasseedorf,Auf dem Heisen,26,,54.1640116,10.7126684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nA,23717,Kasseedorf,Dorfstraße,21,a,54.1804723,10.67546521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nB,23717,Kasseedorf,Dorfstraße,22,,54.17706823,10.67515877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nC,23717,Kasseedorf,Dorfstraße,23,,54.18145624,10.67518121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nD,23717,Kasseedorf,Dorfstraße,24,,54.17717498,10.6756021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nE,23717,Kasseedorf,Dorfstraße,25,,54.18268957,10.67324195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nF,23717,Kasseedorf,Dorfstraße,26,,54.17705563,10.67591202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nG,23717,Kasseedorf,Dorfstraße,27,,54.18407963,10.67399466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nH,23717,Kasseedorf,Dorfstraße,28,,54.17710952,10.67617187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nI,23717,Kasseedorf,Dorfstraße,3,,54.17577658,10.67339923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nJ,23717,Kasseedorf,Dorfstraße,30,,54.1771014,10.67647637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nK,23717,Kasseedorf,Dorfstraße,32,,54.17720294,10.67723907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nL,23717,Kasseedorf,Dorfstraße,34,,54.17773152,10.67789686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nM,23717,Kasseedorf,Dorfstraße,36,,54.17816781,10.67900076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nN,23717,Kasseedorf,Dorfstraße,38,,54.17833808,10.67933672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nO,23717,Kasseedorf,Dorfstraße,4,,54.17446113,10.67294962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nP,23717,Kasseedorf,Dorfstraße,40,,54.18184825,10.68204018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nQ,23717,Kasseedorf,Dorfstraße,5,,54.17604916,10.67359352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nR,23717,Kasseedorf,Dorfstraße,6,,54.1748859,10.67337854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nS,23717,Kasseedorf,Dorfstraße,7,,54.1762199,10.67382194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nT,23717,Kasseedorf,Dorfstraße,8,,54.17515417,10.67353394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nU,23717,Kasseedorf,Dorfstraße,9,,54.1764906,10.67359074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nV,23717,Kasseedorf,Ellerthufe,1,,54.16642556,10.72155541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nW,23717,Kasseedorf,Ellerthufe,3,,54.16655315,10.72143503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nX,23717,Kasseedorf,Ellerthufe,5,,54.16669958,10.72127339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nY,23717,Kasseedorf,Ellerthufe,7,,54.16683886,10.72112915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nZ,23717,Kasseedorf,Ellerthufe,9,,54.16694855,10.7210274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1na,23717,Kasseedorf,Auf dem Heisen,27,,54.16437542,10.71250866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nb,23717,Kasseedorf,Auf dem Heisen,28,,54.16395151,10.713021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nc,23717,Kasseedorf,Auf dem Heisen,29,,54.16430188,10.71286807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nd,23717,Kasseedorf,Auf dem Heisen,3,,54.16571975,10.71396173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ne,23717,Kasseedorf,Auf dem Heisen,31,,54.16417679,10.71313673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nf,23717,Kasseedorf,Auf dem Heisen,4,,54.1656392,10.71312151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ng,23717,Kasseedorf,Auf dem Heisen,5,,54.16551049,10.71385351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nh,23717,Kasseedorf,Auf dem Heisen,6,,54.16572786,10.71287675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ni,23717,Kasseedorf,Auf dem Heisen,7,,54.16535615,10.71369413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nj,23717,Kasseedorf,Auf dem Heisen,8,,54.16585694,10.71262268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nk,23717,Kasseedorf,Auf dem Heisen,9,,54.16520277,10.7134636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nl,23717,Kasseedorf,Ortsteil Bergfeld,999,,54.19726483,10.70021757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nm,23717,Kasseedorf,Dorfstraße,1,,54.17492708,10.67278337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nn,23717,Kasseedorf,Dorfstraße,10,,54.17535496,10.67364255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1no,23717,Kasseedorf,Dorfstraße,11,,54.17678183,10.67362333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1np,23717,Kasseedorf,Dorfstraße,12,,54.17555573,10.67386821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nq,23717,Kasseedorf,Dorfstraße,13,,54.17720184,10.6747123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nr,23717,Kasseedorf,Dorfstraße,14,,54.17595903,10.6741577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ns,23717,Kasseedorf,Dorfstraße,15,,54.17727419,10.67517357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nt,23717,Kasseedorf,Dorfstraße,16,,54.1762826,10.67446999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nu,23717,Kasseedorf,Dorfstraße,17,,54.17753019,10.6767697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nw,23717,Kasseedorf,Dorfstraße,18,,54.1766336,10.67415334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nx,23717,Kasseedorf,Dorfstraße,19,,54.17831889,10.67869877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ny,23717,Kasseedorf,Dorfstraße,20,,54.17668853,10.67474662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1nz,23717,Kasseedorf,Dorfstraße,21,,54.17972062,10.67921052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o0,23717,Kasseedorf,Eutiner Straße,1,,54.16279823,10.72124285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o1,23717,Kasseedorf,Eutiner Straße,10,,54.16183902,10.72085081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o2,23717,Kasseedorf,Eutiner Straße,11,,54.16186561,10.72162707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o3,23717,Kasseedorf,Eutiner Straße,12,,54.15825866,10.72016054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o4,23717,Kasseedorf,Eutiner Straße,13,,54.16148994,10.72144881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o5,23717,Kasseedorf,Eutiner Straße,14,,54.15634822,10.7196204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o6,23717,Kasseedorf,Eutiner Straße,15,,54.16126319,10.72130106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o7,23717,Kasseedorf,Eutiner Straße,17,,54.16108091,10.72142973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o8,23717,Kasseedorf,Eutiner Straße,19,,54.1607363,10.72147776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1o9,23717,Kasseedorf,Eutiner Straße,2,,54.1628934,10.72100798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oA,23717,Kasseedorf,Gartenweg,2,,54.16877269,10.71935781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oB,23717,Kasseedorf,Gartenweg,3,,54.16837192,10.71901249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oC,23717,Kasseedorf,Gartenweg,4,,54.16868423,10.71908083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oD,23717,Kasseedorf,Gartenweg,5,,54.16824715,10.71864909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oE,23717,Kasseedorf,Gartenweg,6,,54.16858508,10.71878569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oF,23717,Kasseedorf,Gartenweg,7,,54.16809102,10.71820367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oG,23717,Kasseedorf,Gartenweg,8,,54.16844121,10.71850674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oH,23717,Kasseedorf,Glinder Weg,1,,54.16795602,10.72779737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oI,23717,Kasseedorf,Glinder Weg,2,,54.16832917,10.73992718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oJ,23717,Kasseedorf,Glinder Weg,3,,54.16763962,10.74854727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oK,23717,Kasseedorf,Glinder Weg,3,a,54.16734715,10.74807451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oL,23717,Kasseedorf,Glinder Weg,4,,54.16856962,10.7388101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oM,23717,Kasseedorf,Glinder Weg,5,,54.16903626,10.75781475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oO,23717,Kasseedorf,Griebeler Straße,1,,54.1555315,10.72305505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oP,23717,Kasseedorf,Griebeler Straße,2,,54.15609048,10.72065799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oQ,23717,Kasseedorf,Griebeler Straße,3,,54.15496757,10.7232265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oR,23717,Kasseedorf,Griebeler Straße,4,,54.15578153,10.72122535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oS,23717,Kasseedorf,Hinter den Höfen,2,,54.17541619,10.67266754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oT,23717,Kasseedorf,Hinter den Höfen,3,,54.17514624,10.67156046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oU,23717,Kasseedorf,Hinter den Höfen,4,,54.17549702,10.67233794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oV,23717,Kasseedorf,Hinter den Höfen,5,,54.17538021,10.67188172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oW,23717,Kasseedorf,Hinter den Höfen,6,,54.17563521,10.67192188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oY,23717,Kasseedorf,Hinter den Höfen,8,,54.17574923,10.67165569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oZ,23717,Kasseedorf,Hökerweg,1,,54.17603806,10.67262151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oa,23717,Kasseedorf,Eutiner Straße,21,,54.16048941,10.72116171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ob,23717,Kasseedorf,Eutiner Straße,25,,54.15968452,10.72123561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oc,23717,Kasseedorf,Eutiner Straße,27,,54.15910268,10.72088686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1od,23717,Kasseedorf,Eutiner Straße,29,,54.15890962,10.7208306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oe,23717,Kasseedorf,Eutiner Straße,3,,54.16254148,10.7212618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1of,23717,Kasseedorf,Eutiner Straße,31,,54.1585703,10.72120669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1og,23717,Kasseedorf,Eutiner Straße,4,,54.16257537,10.72104046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oh,23717,Kasseedorf,Eutiner Straße,5,,54.16237238,10.72129218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oi,23717,Kasseedorf,Eutiner Straße,6,,54.16230753,10.72101096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oj,23717,Kasseedorf,Eutiner Straße,7,,54.1622986,10.72129221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ok,23717,Kasseedorf,Eutiner Straße,7,a,54.16217584,10.72163871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ol,23717,Kasseedorf,Eutiner Straße,8,,54.16201892,10.72087762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1om,23717,Kasseedorf,Eutiner Straße,9,,54.16201563,10.72168386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1on,23717,Kasseedorf,Ortsteil Freudenholm,999,,54.19066457,10.67978417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oo,23717,Kasseedorf,Fühlenweg,1,,54.13660885,10.70773812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1op,23717,Kasseedorf,Fühlenweg,2,,54.13640149,10.70747569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oq,23717,Kasseedorf,Fühlenweg,3,,54.13611051,10.70851129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1or,23717,Kasseedorf,Fühlenweg,4,,54.13629065,10.70747529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1os,23717,Kasseedorf,Fühlenweg,4,a,54.13604869,10.70759807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ot,23717,Kasseedorf,Fühlenweg,4,b,54.135711,10.70791236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ou,23717,Kasseedorf,Fühlenweg,5,,54.13816493,10.71847968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ov,23717,Kasseedorf,Fühlenweg,8,,54.13769283,10.71769046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ow,23717,Kasseedorf,Gartenweg,1,,54.16866328,10.71972692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ox,23717,Kasseedorf,Gartenweg,1,a,54.16847874,10.71932276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oy,23717,Kasseedorf,Gartenweg,10,,54.16844108,10.71809629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1oz,23717,Kasseedorf,Gartenweg,12,,54.16822162,10.71809627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p0,23717,Kasseedorf,Hökerweg,2,,54.17626906,10.67254885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p1,23717,Kasseedorf,Hökerweg,4,,54.1764041,10.6726441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p2,23717,Kasseedorf,Hohlbek,2,a,54.17000342,10.71891398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p3,23717,Kasseedorf,Hohlbek,7,,54.16983288,10.71813062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p4,23717,Kasseedorf,Hollergraben,1,,54.16945893,10.7286259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p5,23717,Kasseedorf,Holzkaten,1,,54.13687267,10.72190196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p6,23717,Kasseedorf,Holzkaten,11,,54.13582382,10.72097103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p7,23717,Kasseedorf,Holzkaten,13,,54.13497608,10.7219912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p8,23717,Kasseedorf,Holzkaten,15,,54.13252092,10.72187094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1p9,23717,Kasseedorf,Holzkaten,2,,54.1365266,10.72073747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pA,23717,Kasseedorf,Krückberg,7,,54.17245953,10.67234287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pB,23717,Kasseedorf,Krückberg,8,,54.17223686,10.67091075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pC,23717,Kasseedorf,Krückberg,9,,54.17232079,10.67221993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pD,23717,Kasseedorf,Muhs'sche Koppel,1,,54.16806856,10.72013495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pE,23717,Kasseedorf,Muhs'sche Koppel,2,,54.16829786,10.7198012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pF,23717,Kasseedorf,Muhs'sche Koppel,3,,54.16798077,10.71970676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pG,23717,Kasseedorf,Muhs'sche Koppel,4,,54.16823591,10.71950999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pH,23717,Kasseedorf,Muhs'sche Koppel,6,,54.16811924,10.71925804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pI,23717,Kasseedorf,Muhs'sche Koppel,8,,54.16799536,10.71890469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pJ,23717,Kasseedorf,Näthkamp,1,,54.14152287,10.72366172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pK,23717,Kasseedorf,Näthkamp,2,,54.14112812,10.72377204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pL,23717,Kasseedorf,Ochsenhals,1,,54.15650454,10.66694663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pM,23717,Kasseedorf,Oldenburger Straße,1,,54.16489199,10.72164856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pN,23717,Kasseedorf,Oldenburger Straße,10,,54.1670598,10.72402813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pO,23717,Kasseedorf,Oldenburger Straße,11,,54.16688664,10.72336655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pP,23717,Kasseedorf,Oldenburger Straße,13,,54.1670923,10.723268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pQ,23717,Kasseedorf,Oldenburger Straße,15,,54.16736129,10.72369355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pR,23717,Kasseedorf,Oldenburger Straße,17,,54.1674403,10.72328567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pS,23717,Kasseedorf,Oldenburger Straße,17,a,54.16743828,10.72317222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pT,23717,Kasseedorf,Oldenburger Straße,17,b,54.1675298,10.72305805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pU,23717,Kasseedorf,Oldenburger Straße,19,,54.16769023,10.72299373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pV,23717,Kasseedorf,Oldenburger Straße,2,,54.16498097,10.72220923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pW,23717,Kasseedorf,Oldenburger Straße,21,,54.16782817,10.72283818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pX,23717,Kasseedorf,Oldenburger Straße,23,,54.1691902,10.7257773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pY,23717,Kasseedorf,Oldenburger Straße,25,,54.17160273,10.72946086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pZ,23717,Kasseedorf,Oldenburger Straße,27,,54.1723867,10.73087031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pa,23717,Kasseedorf,Holzkaten,3,,54.13663911,10.72124701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pb,23717,Kasseedorf,Holzkaten,4,,54.13316878,10.71966254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pc,23717,Kasseedorf,Holzkaten,5,,54.13642306,10.72107978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pd,23717,Kasseedorf,Holzkaten,7,,54.13619618,10.72094077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pe,23717,Kasseedorf,Holzkaten,9,,54.13608906,10.72091092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pf,23717,Kasseedorf,Ortsteil Kasseedorf,999,,54.16341636,10.72197348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pg,23717,Kasseedorf,Krückberg,1,,54.17317266,10.67291335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ph,23717,Kasseedorf,Krückberg,10,,54.17230296,10.67070868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pi,23717,Kasseedorf,Krückberg,11,,54.1721608,10.67217104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pj,23717,Kasseedorf,Krückberg,13,,54.17202132,10.67200897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pk,23717,Kasseedorf,Krückberg,15,,54.17179957,10.67179037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pl,23717,Kasseedorf,Krückberg,17,,54.17167717,10.67251003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pm,23717,Kasseedorf,Krückberg,19,,54.17160266,10.6728978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pn,23717,Kasseedorf,Krückberg,21,,54.17152669,10.67335454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1po,23717,Kasseedorf,Krückberg,21,a,54.17146366,10.67373382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pp,23717,Kasseedorf,Krückberg,23,,54.17140913,10.67295705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pq,23717,Kasseedorf,Krückberg,23,a,54.17141635,10.67272256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pr,23717,Kasseedorf,Krückberg,23,b,54.17146926,10.67239437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ps,23717,Kasseedorf,Krückberg,23,c,54.17152647,10.67208021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pt,23717,Kasseedorf,Krückberg,25,,54.17161859,10.67150462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pu,23717,Kasseedorf,Krückberg,25,a,54.17144724,10.67120475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pv,23717,Kasseedorf,Krückberg,27,,54.17126963,10.67116367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pw,23717,Kasseedorf,Krückberg,3,,54.17287717,10.67266995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1px,23717,Kasseedorf,Krückberg,4,,54.1720945,10.67134198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1py,23717,Kasseedorf,Krückberg,5,,54.17277599,10.6725805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1pz,23717,Kasseedorf,Krückberg,6,,54.17213006,10.6712351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q0,23717,Kasseedorf,Oldenburger Straße,3,,54.16493053,10.7217478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q1,23717,Kasseedorf,Oldenburger Straße,4,,54.16505003,10.72260375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q2,23717,Kasseedorf,Oldenburger Straße,5,,54.1652464,10.72208236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q3,23717,Kasseedorf,Oldenburger Straße,5,a,54.16538829,10.72224048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q4,23717,Kasseedorf,Oldenburger Straße,6,,54.16545233,10.72285653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q5,23717,Kasseedorf,Oldenburger Straße,7,,54.16635558,10.72314246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q6,23717,Kasseedorf,Oldenburger Straße,8,,54.1656478,10.72331975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q7,23717,Kasseedorf,Oldenburger Straße,9,,54.166695,10.7232392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q8,23717,Kasseedorf,Op'n Kamp,1,,54.16776525,10.72729065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1q9,23717,Kasseedorf,Op'n Kamp,10,,54.16793544,10.7271011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qA,23717,Kasseedorf,Ostpreußenweg,22,,54.16937723,10.71715365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qB,23717,Kasseedorf,Ostpreußenweg,22,a,54.16943508,10.71711489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qC,23717,Kasseedorf,Ostpreußenweg,23,,54.1688751,10.71763033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qD,23717,Kasseedorf,Ostpreußenweg,24,,54.16949538,10.71664984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qE,23717,Kasseedorf,Ostpreußenweg,25,,54.16870973,10.71780996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qF,23717,Kasseedorf,Ostpreußenweg,26,,54.16907249,10.7166129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qG,23717,Kasseedorf,Ostpreußenweg,27,,54.1686057,10.71750966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qH,23717,Kasseedorf,Ostpreußenweg,28,,54.16941957,10.71629473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qI,23717,Kasseedorf,Ostpreußenweg,29,,54.16872815,10.71730386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qJ,23717,Kasseedorf,Ostpreußenweg,3,,54.16931692,10.71963687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qK,23717,Kasseedorf,Ostpreußenweg,30,,54.16931459,10.71587037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qL,23717,Kasseedorf,Ostpreußenweg,31,,54.1688743,10.71712552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qM,23717,Kasseedorf,Ostpreußenweg,4,,54.16973654,10.71931719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qN,23717,Kasseedorf,Ostpreußenweg,5,,54.16921862,10.71945773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qO,23717,Kasseedorf,Ostpreußenweg,6,,54.16967579,10.71908056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qP,23717,Kasseedorf,Ostpreußenweg,7,,54.1692668,10.71919867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qQ,23717,Kasseedorf,Ostpreußenweg,8,,54.16964892,10.71897508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qR,23717,Kasseedorf,Ostpreußenweg,9,,54.16943144,10.71895853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qS,23717,Kasseedorf,Ruhwinkel,1,,54.16716656,10.72086319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qT,23717,Kasseedorf,Ruhwinkel,1,a,54.16701743,10.72066827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qU,23717,Kasseedorf,Ruhwinkel,1,b,54.16710835,10.72058344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qV,23717,Kasseedorf,Ruhwinkel,1,c,54.16718759,10.72050952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qW,23717,Kasseedorf,Ruhwinkel,2,,54.16733134,10.72032606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qX,23717,Kasseedorf,Ortsteil Sagau,999,,54.17266412,10.67500301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qY,23717,Kasseedorf,Sagauer Straße,1,,54.16465362,10.72022982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qZ,23717,Kasseedorf,Sagauer Straße,10,,54.16532819,10.7194071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qa,23717,Kasseedorf,Op'n Kamp,11,,54.16722669,10.72623744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qb,23717,Kasseedorf,Op'n Kamp,12,,54.16778022,10.72685267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qc,23717,Kasseedorf,Op'n Kamp,14,,54.16789098,10.72662782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qd,23717,Kasseedorf,Op'n Kamp,16,,54.16770961,10.72626202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qe,23717,Kasseedorf,Op'n Kamp,18,,54.16757412,10.72650473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qf,23717,Kasseedorf,Op'n Kamp,20,,54.16744491,10.72626432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qg,23717,Kasseedorf,Op'n Kamp,4,,54.16818002,10.72721889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qh,23717,Kasseedorf,Op'n Kamp,5,,54.16758543,10.72696016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qi,23717,Kasseedorf,Op'n Kamp,6,,54.16831115,10.72694561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qj,23717,Kasseedorf,Op'n Kamp,8,,54.16808383,10.72684633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qk,23717,Kasseedorf,Op'n Kamp,9,,54.16737274,10.72662143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ql,23717,Kasseedorf,Ostpreußenweg,1,,54.16954648,10.71955138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qm,23717,Kasseedorf,Ostpreußenweg,10,,54.16957255,10.71860892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qn,23717,Kasseedorf,Ostpreußenweg,11,,54.16921861,10.71849781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qo,23717,Kasseedorf,Ostpreußenweg,12,,54.16950527,10.71836885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qp,23717,Kasseedorf,Ostpreußenweg,13,,54.16899783,10.71874818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qq,23717,Kasseedorf,Ostpreußenweg,14,,54.16944366,10.71811216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qr,23717,Kasseedorf,Ostpreußenweg,15,,54.16886637,10.7185021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qs,23717,Kasseedorf,Ostpreußenweg,16,,54.16936321,10.71780152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qt,23717,Kasseedorf,Ostpreußenweg,17,,54.16902269,10.71827231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qu,23717,Kasseedorf,Ostpreußenweg,18,,54.16931613,10.71762172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qv,23717,Kasseedorf,Ostpreußenweg,18,a,54.16959921,10.71737662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qw,23717,Kasseedorf,Ostpreußenweg,19,,54.1691905,10.71799208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qx,23717,Kasseedorf,Ostpreußenweg,2,,54.16976774,10.71943422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qy,23717,Kasseedorf,Ostpreußenweg,20,,54.16924077,10.71721006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1qz,23717,Kasseedorf,Ostpreußenweg,21,,54.16903337,10.7174591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r0,23717,Kasseedorf,Sagauer Straße,11,,54.16528018,10.71877291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r1,23717,Kasseedorf,Sagauer Straße,13,,54.16533744,10.7184296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r2,23717,Kasseedorf,Sagauer Straße,14,,54.16560949,10.71845451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r3,23717,Kasseedorf,Sagauer Straße,15,,54.16516765,10.71727284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r4,23717,Kasseedorf,Sagauer Straße,15,a,54.16540985,10.71651576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r5,23717,Kasseedorf,Sagauer Straße,16,,54.16558496,10.71760151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r6,23717,Kasseedorf,Sagauer Straße,17,,54.16598988,10.71368209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r7,23717,Kasseedorf,Sagauer Straße,18,,54.1655932,10.71732584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r8,23717,Kasseedorf,Sagauer Straße,19,,54.16604346,10.71341723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1r9,23717,Kasseedorf,Sagauer Straße,2,,54.16485499,10.72057699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rA,23717,Kasseedorf,Sagauer Straße,54,,54.16685165,10.7107775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rB,23717,Kasseedorf,Sagauer Straße,56,,54.16696948,10.71020944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rC,23717,Kasseedorf,Sagauer Straße,56,a,54.16725094,10.71056577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rD,23717,Kasseedorf,Sagauer Straße,56,b,54.16719917,10.71023506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rF,23717,Kasseedorf,Sagauer Straße,56,d,54.16730463,10.71002773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rG,23717,Kasseedorf,Sagauer Straße,58,,54.16714031,10.70929577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rH,23717,Kasseedorf,Sagauer Straße,6,,54.16501391,10.719981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rI,23717,Kasseedorf,Sagauer Straße,60,,54.16759866,10.70829954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rJ,23717,Kasseedorf,Sagauer Straße,7,,54.16512512,10.71924914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rK,23717,Kasseedorf,Sagauer Straße,8,,54.16506424,10.71986828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rL,23717,Kasseedorf,Sagauer Straße,9,,54.16516949,10.71914015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rM,23717,Kasseedorf,Ortsteil Schmützberg,999,,54.18497421,10.6745163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rN,23717,Kasseedorf,Schmützberg,3,,54.18554775,10.67462817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rO,23717,Kasseedorf,Schmützberg,5,,54.18623173,10.67490554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rP,23717,Kasseedorf,Schulberg,1,,54.13413191,10.70232081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rQ,23717,Kasseedorf,Schulberg,11,,54.13310058,10.70244325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rR,23717,Kasseedorf,Schulberg,12,,54.13315371,10.70181413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rT,23717,Kasseedorf,Schulberg,2,,54.13446341,10.70186434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rU,23717,Kasseedorf,Schulberg,3,,54.13396862,10.70237498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rV,23717,Kasseedorf,Schulberg,4,,54.1342804,10.70190062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rW,23717,Kasseedorf,Schulberg,5,,54.1337354,10.70241186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rX,23717,Kasseedorf,Schulberg,6,,54.13410992,10.70190586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rY,23717,Kasseedorf,Schulberg,7,,54.13357761,10.70247557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rZ,23717,Kasseedorf,Schulberg,8,,54.13392669,10.70189658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ra,23717,Kasseedorf,Sagauer Straße,20,,54.16559184,10.71723555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rb,23717,Kasseedorf,Sagauer Straße,21,,54.16618178,10.71295301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rc,23717,Kasseedorf,Sagauer Straße,22,,54.16572799,10.71622939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rd,23717,Kasseedorf,Sagauer Straße,23,,54.16621025,10.71271909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1re,23717,Kasseedorf,Sagauer Straße,24,,54.16574552,10.71614037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rf,23717,Kasseedorf,Sagauer Straße,25,,54.1667897,10.70979697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rg,23717,Kasseedorf,Sagauer Straße,25,a,54.16666774,10.71004131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rh,23717,Kasseedorf,Sagauer Straße,26,,54.16580979,10.71578561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ri,23717,Kasseedorf,Sagauer Straße,27,,54.16686937,10.70936484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rj,23717,Kasseedorf,Sagauer Straße,28,,54.16593049,10.71524982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rk,23717,Kasseedorf,Sagauer Straße,3,,54.16475851,10.7199783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rl,23717,Kasseedorf,Sagauer Straße,30,,54.16619554,10.71496599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rm,23717,Kasseedorf,Sagauer Straße,31,,54.16679799,10.70886281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rn,23717,Kasseedorf,Sagauer Straße,32,,54.16625093,10.71463548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ro,23717,Kasseedorf,Sagauer Straße,34,,54.166196,10.71436779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rp,23717,Kasseedorf,Sagauer Straße,36,,54.16627151,10.71382202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rq,23717,Kasseedorf,Sagauer Straße,4,,54.16487167,10.72046805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rr,23717,Kasseedorf,Sagauer Straße,4,a,54.16509403,10.72035343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rs,23717,Kasseedorf,Sagauer Straße,40,,54.16634543,10.71305475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rt,23717,Kasseedorf,Sagauer Straße,42,,54.166375,10.71292854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ru,23717,Kasseedorf,Sagauer Straße,44,,54.16645352,10.71260261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rv,23717,Kasseedorf,Sagauer Straße,46,,54.16648117,10.71248549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rw,23717,Kasseedorf,Sagauer Straße,48,,54.16663504,10.71219395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rx,23717,Kasseedorf,Sagauer Straße,5,,54.16491037,10.71965127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ry,23717,Kasseedorf,Sagauer Straße,50,,54.16670827,10.71140179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1rz,23717,Kasseedorf,Sagauer Straße,52,,54.16676182,10.71113509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1s0,23717,Kasseedorf,Schulberg,9,,54.13334099,10.70238904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1s1,23717,Kasseedorf,Schwentineweg,2,,54.16237688,10.71975744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1s2,23717,Kasseedorf,Schwentineweg,4,,54.16256434,10.7204008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1s3,23717,Kasseedorf,Schwentineweg,6,,54.16221038,10.72056024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1s4,23717,Kasseedorf,Ortsteil Stendorf,999,,54.16715947,10.69611796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sB,23717,Kasseedorf,Vinzierer Weg,13,,54.13317245,10.70109436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sD,23717,Kasseedorf,Vinzierer Weg,15,,54.13267537,10.70253238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sF,23717,Kasseedorf,Vinzierer Weg,17,,54.132736,10.70239896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sH,23717,Kasseedorf,Vinzierer Weg,19,,54.12932534,10.70535168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sI,23717,Kasseedorf,Vinzierer Weg,20,,54.12877981,10.70457307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sK,23717,Kasseedorf,Vinzierer Weg,22,,54.12804227,10.70489871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sL,23717,Kasseedorf,Vinzierer Weg,23,,54.12815455,10.70545844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sr,23717,Kasseedorf,Stendorfer Weg,10,,54.17267039,10.67419122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ss,23717,Kasseedorf,Stendorfer Weg,2,,54.17353402,10.67346679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1st,23717,Kasseedorf,Stendorfer Weg,4,,54.17349827,10.67356135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1su,23717,Kasseedorf,Stendorfer Weg,6,,54.17336745,10.67385168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sv,23717,Kasseedorf,Stendorfer Weg,8,,54.17331994,10.67394809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1sx,23717,Kasseedorf,Ortsteil Vinzier,999,,54.12145796,10.70846819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t2,23717,Kasseedorf,Wührenweg,1,,54.16696775,10.72461871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t3,23717,Kasseedorf,Wührenweg,10,,54.16650354,10.72658207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t4,23717,Kasseedorf,Wührenweg,10,a,54.16651533,10.7263874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t5,23717,Kasseedorf,Wührenweg,11,,54.16656842,10.7270977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t6,23717,Kasseedorf,Wührenweg,12,,54.16628958,10.72682281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t7,23717,Kasseedorf,Wührenweg,13,,54.16590908,10.7273902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t8,23717,Kasseedorf,Wührenweg,14,,54.16608736,10.72681445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1t9,23717,Kasseedorf,Wührenweg,15,,54.16575383,10.7280686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tA,23717,Kasseedorf,Zum Moorberg,2,a,54.17447566,10.67065425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tB,23717,Kasseedorf,Zum Moorberg,3,,54.17428062,10.67134284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tC,23717,Kasseedorf,Zum Moorberg,4,,54.17501726,10.66968395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tD,23717,Kasseedorf,Zum Moorberg,6,,54.17467969,10.66898347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tE,23717,Kasseedorf,Zum Moorberg,7,,54.17430973,10.66954194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tF,23717,Kasseedorf,Zum Moorberg,8,,54.17507773,10.66782761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tH,23717,Kasseedorf,Zum Vossberg,1,,54.16630016,10.72220684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tI,23717,Kasseedorf,Zum Vossberg,1,a,54.16611586,10.72172168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tJ,23717,Kasseedorf,Zum Vossberg,10,,54.16732825,10.72179326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tK,23717,Kasseedorf,Zum Vossberg,11,,54.16753507,10.72113258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tL,23717,Kasseedorf,Zum Vossberg,12,,54.16752778,10.72163069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tM,23717,Kasseedorf,Zum Vossberg,12,a,54.16758095,10.72199163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tN,23717,Kasseedorf,Zum Vossberg,13,,54.16780446,10.72096564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tO,23717,Kasseedorf,Zum Vossberg,14,,54.16760981,10.72156824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tP,23717,Kasseedorf,Zum Vossberg,15,,54.16818227,10.72055454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tQ,23717,Kasseedorf,Zum Vossberg,17,,54.16845438,10.720478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tR,23717,Kasseedorf,Zum Vossberg,19,,54.16859015,10.72033274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tS,23717,Kasseedorf,Zum Vossberg,2,,54.16663151,10.72228114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tT,23717,Kasseedorf,Zum Vossberg,21,,54.16874373,10.72016699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tU,23717,Kasseedorf,Zum Vossberg,23,,54.16900538,10.71979948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tV,23717,Kasseedorf,Zum Vossberg,25,,54.17771874,10.71318991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tW,23717,Kasseedorf,Zum Vossberg,3,,54.16649286,10.72186589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tX,23717,Kasseedorf,Zum Vossberg,3,a,54.16670492,10.72182309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tY,23717,Kasseedorf,Zum Vossberg,4,,54.16688253,10.72212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tZ,23717,Kasseedorf,Zum Vossberg,5,,54.16692729,10.72164474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ta,23717,Kasseedorf,Wührenweg,16,,54.16579937,10.72684515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tb,23717,Kasseedorf,Wührenweg,17,,54.16572683,10.7281642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tc,23717,Kasseedorf,Wührenweg,18,,54.16569586,10.7272521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1td,23717,Kasseedorf,Wührenweg,19,,54.16566197,10.72839406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1te,23717,Kasseedorf,Wührenweg,2,,54.16677239,10.72493721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tf,23717,Kasseedorf,Wührenweg,20,,54.16556582,10.72757829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tg,23717,Kasseedorf,Wührenweg,21,,54.16563084,10.72850468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1th,23717,Kasseedorf,Wührenweg,22,,54.16550767,10.72787127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ti,23717,Kasseedorf,Wührenweg,23,,54.1656426,10.72884715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tj,23717,Kasseedorf,Wührenweg,24,,54.1654218,10.72823846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tk,23717,Kasseedorf,Wührenweg,25,,54.1655819,10.72925621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tl,23717,Kasseedorf,Wührenweg,26,,54.1653814,10.72845966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tm,23717,Kasseedorf,Wührenweg,27,,54.1655086,10.72958339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tn,23717,Kasseedorf,Wührenweg,28,,54.16529631,10.72872339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1to,23717,Kasseedorf,Wührenweg,29,,54.16539083,10.72980955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tp,23717,Kasseedorf,Wührenweg,3,,54.16694888,10.72476413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tq,23717,Kasseedorf,Wührenweg,30,,54.16521525,10.72908582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tr,23717,Kasseedorf,Wührenweg,32,,54.16512925,10.72941878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ts,23717,Kasseedorf,Wührenweg,34,,54.16505587,10.72970867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tt,23717,Kasseedorf,Wührenweg,4,,54.16676203,10.7254193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tu,23717,Kasseedorf,Wührenweg,6,,54.16684734,10.72603444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tv,23717,Kasseedorf,Wührenweg,7,,54.1669607,10.72535439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tw,23717,Kasseedorf,Wührenweg,8,,54.16665285,10.72659313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tx,23717,Kasseedorf,Zum Moorberg,1,,54.17423757,10.67219351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1ty,23717,Kasseedorf,Zum Moorberg,10,,54.17721719,10.66412254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1tz,23717,Kasseedorf,Zum Moorberg,2,,54.1746101,10.66958171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u0,23717,Kasseedorf,Zum Vossberg,6,,54.16695694,10.72236213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u1,23717,Kasseedorf,Zum Vossberg,7,,54.16710951,10.72151502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u2,23717,Kasseedorf,Zum Vossberg,8,,54.16717511,10.72188732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1u3,23717,Kasseedorf,Zum Vossberg,9,,54.16728976,10.72135957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DJfe,23717,Kasseedorf,Am Bungsberg,12,,54.19877329,10.69887224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FBl0,23717,Kasseedorf,Op'n Kamp,22,,54.16739944,10.7258388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Rll3,23717,Kasseedorf,Sagauer Straße,56,e,54.16705969,10.70979198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCoU,23717,Kasseedorf,Stendorf,1,,54.16421321,10.6933979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCp1,23717,Kasseedorf,Stendorf,3,,54.16370386,10.69448225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCp2,23717,Kasseedorf,Stendorf,7,,54.16291049,10.6967623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCp3,23717,Kasseedorf,Stendorf,9,,54.16311734,10.69612794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpI,23717,Kasseedorf,Stendorf,17,,54.16387209,10.69102012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpU,23717,Kasseedorf,Stendorf,19,,54.16374073,10.69058133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpV,23717,Kasseedorf,Stendorf,21,,54.16371723,10.6904863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpa,23717,Kasseedorf,Stendorf,5,,54.16534442,10.69842914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpf,23717,Kasseedorf,Stendorf,2,,54.1647776,10.69246423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpg,23717,Kasseedorf,Stendorf,4,,54.16460288,10.69242654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpk,23717,Kasseedorf,Stendorf,8,,54.16383735,10.68982378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpl,23717,Kasseedorf,Stendorf,10,,54.16382094,10.68971494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCps,23717,Kasseedorf,Stendorf,11,,54.16400368,10.6921111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpx,23717,Kasseedorf,Stendorf,13,,54.16389252,10.69136273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCpy,23717,Kasseedorf,Stendorf,15,,54.16388035,10.69124701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCq2,23717,Kasseedorf,Stendorf,25,,54.1632942,10.68979723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCq3,23717,Kasseedorf,Stendorf,27,,54.16322403,10.68978261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqF,23717,Kasseedorf,Stendorf,18,,54.16476533,10.68746062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqJ,23717,Kasseedorf,Stendorf,24,,54.16525093,10.68757235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqK,23717,Kasseedorf,Stendorf,26,,54.16530741,10.68757935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqQ,23717,Kasseedorf,Stendorf,28,,54.16559435,10.68759057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqR,23717,Kasseedorf,Stendorf,30,,54.16564709,10.68756921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqn,23717,Kasseedorf,Stendorf,12,,54.1643047,10.68809436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqo,23717,Kasseedorf,Stendorf,14,,54.16430201,10.68799079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqp,23717,Kasseedorf,Stendorf,16,,54.16430063,10.68789196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqx,23717,Kasseedorf,Stendorf,20,,54.16481908,10.68746516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VCqy,23717,Kasseedorf,Stendorf,22,,54.16487556,10.68747216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004YPID,23717,Kasseedorf,Freudenholm,2,,54.19047498,10.6764452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z766,23717,Kasseedorf,Schulberg,14,,54.13294241,10.70200662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005W9AE,23717,Kasseedorf,Dorfstraße,17,c,54.17784547,10.67770843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZO24,23717,Kasseedorf,Sagauer Straße,13,a,54.16545794,10.71805039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005g0uP,23717,Kasseedorf,Zum Vossberg,6,a,54.16748069,10.72250247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lPvD,23717,Kasseedorf,Schulberg,10,,54.13369521,10.70197202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oko7,23717,Kasseedorf,Zum Moorberg,6,a,54.17485027,10.66868522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005okoa,23717,Kasseedorf,Zum Moorberg,6,b,54.17501987,10.66814638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vGZE,23717,Kasseedorf,Op'n Kamp,13,,54.16720448,10.72576371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bv7l,23717,Kasseedorf,Sagauer Straße,13,b,54.16512346,10.71791794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bv7m,23717,Kasseedorf,Sagauer Straße,13,c,54.16525855,10.71790935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bv7n,23717,Kasseedorf,Sagauer Straße,13,d,54.16543005,10.71751353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fuMo,23717,Kasseedorf,Dorfstraße,32,a,54.1771857,10.67772055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kEFv,23717,Kasseedorf,Sagauer Straße,12,,54.16551739,10.71890594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kGnC,23717,Kasseedorf,Ostpreußenweg,20,a,54.16905074,10.71689001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s6c1,23717,Kasseedorf,Freudenholm,5,,54.19066543,10.67762282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s6c2,23717,Kasseedorf,Freudenholm,7,,54.19082806,10.67792825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071OY4,23717,Kasseedorf,Altes Seeufer,1,f,54.13572272,10.7046321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071OY5,23717,Kasseedorf,Altes Seeufer,1,g,54.13575477,10.7046663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075r2f,23717,Kasseedorf,Ochsenhals,2,,54.15432747,10.66880156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075r2k,23717,Kasseedorf,Sibbersdorfer Mühle,1,,54.16097388,10.66855487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Do83,23717,Kasseedorf,Oldenburger Straße,27,a,54.17243933,10.73004931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SHBc,23717,Kasseedorf,Eutiner Straße,23,,54.16003685,10.72117551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YAoq,23717,Kasseedorf,Hinter den Höfen,1,,54.17519451,10.67224971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007c8ZM,23717,Kasseedorf,Altes Seeufer,1,b,54.13508563,10.70421562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007iT3n,23717,Kasseedorf,Dorfstraße,17,b,54.17767406,10.67730774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYjW,23717,Kasseedorf,Dorfstraße,15,a,54.17731442,10.67581348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYjX,23717,Kasseedorf,Dorfstraße,15,b,54.17738872,10.67621657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081MsL,23717,Kasseedorf,Altes Seeufer,5,a,54.13450683,10.70142406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I6V,23717,Kasseedorf,Ortsteil Vinzier,1,,54.12164091,10.70970887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I6W,23717,Kasseedorf,Ortsteil Vinzier,1,a,54.12155522,10.70971246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I6X,23717,Kasseedorf,Ortsteil Vinzier,1,b,54.12153318,10.70956551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I6t,23717,Kasseedorf,Ortsteil Vinzier,9,,54.1200421,10.70825704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I73,23717,Kasseedorf,Ortsteil Vinzier,10,,54.12182114,10.7103844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I7H,23717,Kasseedorf,Ortsteil Vinzier,3,,54.12172609,10.70951017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I7e,23717,Kasseedorf,Ortsteil Vinzier,5,,54.12134864,10.70905329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8B,23717,Kasseedorf,Ortsteil Vinzier,15,a,54.12144797,10.71151314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8C,23717,Kasseedorf,Ortsteil Vinzier,15,b,54.12137983,10.71158149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8D,23717,Kasseedorf,Ortsteil Vinzier,32,,54.12158196,10.7119862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8G,23717,Kasseedorf,Ortsteil Vinzier,16,,54.12122991,10.71123526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8h,23717,Kasseedorf,Ortsteil Vinzier,14,,54.12142033,10.71089819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8k,23717,Kasseedorf,Ortsteil Vinzier,12,,54.12148203,10.71078196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8o,23717,Kasseedorf,Ortsteil Vinzier,11,,54.12167076,10.71127719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I8p,23717,Kasseedorf,Ortsteil Vinzier,30,,54.12182427,10.71171858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I97,23717,Kasseedorf,Ortsteil Vinzier,53,,54.12266043,10.71273834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9E,23717,Kasseedorf,Ortsteil Vinzier,51,,54.12244307,10.71254095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9I,23717,Kasseedorf,Ortsteil Vinzier,47,,54.12237912,10.71248177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9L,23717,Kasseedorf,Ortsteil Vinzier,45,,54.12233629,10.7123809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9O,23717,Kasseedorf,Ortsteil Vinzier,43,,54.12227732,10.71232575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9X,23717,Kasseedorf,Ortsteil Vinzier,40,,54.12197622,10.71252448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9g,23717,Kasseedorf,Ortsteil Vinzier,49,,54.12254752,10.71215834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089I9j,23717,Kasseedorf,Ortsteil Vinzier,42,,54.12207658,10.71271626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089Iam,23717,Kasseedorf,Ortsteil Vinzier,21,,54.12202828,10.71077617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089Iaq,23717,Kasseedorf,Ortsteil Vinzier,27,,54.12231075,10.7118484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089MM9,23717,Kasseedorf,Vinzierer Weg,1,,54.13447563,10.69747313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F1ZC,23717,Kasseedorf,Altes Seeufer,5,b,54.13472194,10.70118282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F1Zx,23717,Kasseedorf,Altes Seeufer,5,d,54.13472194,10.70118282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F1Zz,23717,Kasseedorf,Altes Seeufer,5,c,54.13472194,10.70118282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008b6Dy,23717,Kasseedorf,Zum Vossberg,6,b,54.16709617,10.72244578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hUrH,23717,Kasseedorf,Am Sina,12,a,54.13962608,10.71350008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mZD8,23717,Kasseedorf,Glinder Weg,7,,54.16821284,10.75824614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008q3aZ,23717,Kasseedorf,Op'n Kamp,6,a,54.16819733,10.72674478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tqzW,23717,Kasseedorf,Altes Seeufer,5,e,54.13494402,10.70096345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yw0o,23717,Kasseedorf,Bökensberg,1,,54.1902298,10.67519176

@@ -1,0 +1,795 @@
+# Amtliche Adressen für die Postleitzahl 24649
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY2,24649,Fuhlendorf,Am Teich,1,,53.9549268,9.91299293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY3,24649,Fuhlendorf,Am Teich,2,,53.95490382,9.91329915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY4,24649,Fuhlendorf,Assbrook,1,,53.95881008,9.90077873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY5,24649,Fuhlendorf,Assbrook,10,,53.95963936,9.89983666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY6,24649,Fuhlendorf,Assbrook,11,,53.95971758,9.89893231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY7,24649,Fuhlendorf,Assbrook,12,,53.95978152,9.89940569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY8,24649,Fuhlendorf,Assbrook,13,,53.95992269,9.89849653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJY9,24649,Fuhlendorf,Assbrook,14,,53.96001421,9.89889899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYA,24649,Fuhlendorf,Bahnhofstraße,13,,53.95678814,9.90748566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYB,24649,Fuhlendorf,Bahnhofstraße,14,,53.95657008,9.90699942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYC,24649,Fuhlendorf,Bahnhofstraße,15,,53.95637945,9.90837764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYD,24649,Fuhlendorf,Bahnhofstraße,16,,53.95625904,9.90755624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYE,24649,Fuhlendorf,Bahnhofstraße,16,a,53.95616858,9.90769352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYF,24649,Fuhlendorf,Bahnhofstraße,17,,53.95624274,9.90871259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYG,24649,Fuhlendorf,Bahnhofstraße,17,a,53.95640322,9.90929434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYH,24649,Fuhlendorf,Bahnhofstraße,18,,53.95609364,9.90817576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYI,24649,Fuhlendorf,Bahnhofstraße,19,,53.95613416,9.90897681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYJ,24649,Fuhlendorf,Bahnhofstraße,2,,53.95763548,9.90527047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYK,24649,Fuhlendorf,Bahnhofstraße,2,a,53.95748151,9.90541358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYL,24649,Fuhlendorf,Bahnhofstraße,20,,53.95599383,9.90845472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYM,24649,Fuhlendorf,Bahnhofstraße,21,,53.95600631,9.90935537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYN,24649,Fuhlendorf,Bahnhofstraße,22,,53.95557901,9.9096213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYO,24649,Fuhlendorf,Bahnhofstraße,23,,53.95589158,9.90968433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYP,24649,Fuhlendorf,Bahnhofstraße,24,,53.95542836,9.90977909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYQ,24649,Fuhlendorf,Bahnhofstraße,26,,53.95541265,9.91015215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYR,24649,Fuhlendorf,Bahnhofstraße,28,,53.95518605,9.91052787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYS,24649,Fuhlendorf,Bahnhofstraße,3,,53.95741282,9.9063295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYT,24649,Fuhlendorf,Bahnhofstraße,30,,53.95505044,9.91095617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYU,24649,Fuhlendorf,Bahnhofstraße,31,,53.95604048,9.91038264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYV,24649,Fuhlendorf,Bahnhofstraße,32,,53.95500004,9.91124608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYW,24649,Fuhlendorf,Bahnhofstraße,33,,53.95543618,9.91079586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYX,24649,Fuhlendorf,Bahnhofstraße,33,a,53.95536808,9.91109395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYY,24649,Fuhlendorf,Bahnhofstraße,34,,53.9548268,9.9114817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYZ,24649,Fuhlendorf,Bahnhofstraße,35,,53.95478929,9.91256351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYa,24649,Fuhlendorf,Assbrook,15,,53.95987504,9.89801758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYb,24649,Fuhlendorf,Assbrook,16,,53.96052123,9.89854574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYc,24649,Fuhlendorf,Assbrook,18,,53.96029902,9.89802288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYd,24649,Fuhlendorf,Assbrook,2,,53.95924905,9.90064327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYe,24649,Fuhlendorf,Assbrook,20,,53.96041827,9.89727229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYf,24649,Fuhlendorf,Assbrook,23,,53.96024258,9.89676949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYg,24649,Fuhlendorf,Assbrook,26,,53.96054399,9.8959058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYh,24649,Fuhlendorf,Assbrook,3,,53.9589872,9.90049599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYi,24649,Fuhlendorf,Assbrook,4,,53.95957257,9.90074677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYj,24649,Fuhlendorf,Assbrook,5,,53.95912444,9.90004439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYk,24649,Fuhlendorf,Assbrook,6,,53.95957257,9.90074677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYl,24649,Fuhlendorf,Assbrook,7,,53.95942529,9.89956741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYm,24649,Fuhlendorf,Assbrook,8,,53.95988098,9.90067495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYn,24649,Fuhlendorf,Assbrook,9,,53.9594601,9.89893601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYo,24649,Fuhlendorf,Aukamp,1,,53.95473846,9.90241606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYp,24649,Fuhlendorf,Aukamp,2,,53.95499584,9.9028141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYq,24649,Fuhlendorf,Aukamp,3,,53.95485468,9.9021404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYr,24649,Fuhlendorf,Aukamp,4,,53.95504714,9.90246838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYt,24649,Fuhlendorf,Aukamp,5,,53.95491514,9.90179453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYu,24649,Fuhlendorf,Aukamp,6,,53.95520383,9.90218393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYv,24649,Fuhlendorf,Bahnhofstraße,1,,53.95773142,9.90554584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYw,24649,Fuhlendorf,Bahnhofstraße,1,a,53.95753622,9.90597017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYx,24649,Fuhlendorf,Bahnhofstraße,10,,53.95689654,9.90629618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYy,24649,Fuhlendorf,Bahnhofstraße,11,,53.95684303,9.90711933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJYz,24649,Fuhlendorf,Bahnhofstraße,12,,53.95673248,9.90654285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ0,24649,Fuhlendorf,Bahnhofstraße,37,,53.95411627,9.91515783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ1,24649,Fuhlendorf,Bahnhofstraße,39,,53.95189851,9.92062643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ2,24649,Fuhlendorf,Bahnhofstraße,4,,53.95736012,9.90573492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ3,24649,Fuhlendorf,Bahnhofstraße,40,,53.95467082,9.91193694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ4,24649,Fuhlendorf,Bahnhofstraße,41,,53.95158473,9.92145438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ5,24649,Fuhlendorf,Bahnhofstraße,42,,53.95455094,9.91224762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ6,24649,Fuhlendorf,Bahnhofstraße,44,,53.95441787,9.91260231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ7,24649,Fuhlendorf,Bahnhofstraße,46,,53.95433682,9.91283061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ8,24649,Fuhlendorf,Bahnhofstraße,48,,53.95421977,9.91313599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZ9,24649,Fuhlendorf,Bahnhofstraße,5,,53.95721814,9.90634892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZA,24649,Fuhlendorf,Dorfstraße,20,b,53.96079497,9.90095043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZB,24649,Fuhlendorf,Dorfstraße,21,,53.95720218,9.90260606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZC,24649,Fuhlendorf,Dorfstraße,22,,53.96014897,9.90124443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZD,24649,Fuhlendorf,Dorfstraße,22,a,53.95982549,9.90132711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZE,24649,Fuhlendorf,Dorfstraße,23,,53.95697313,9.90295556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZF,24649,Fuhlendorf,Dorfstraße,24,,53.95933897,9.90126948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZG,24649,Fuhlendorf,Dorfstraße,25,a,53.95718332,9.90373518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZI,24649,Fuhlendorf,Dorfstraße,26,,53.9591044,9.90113293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZK,24649,Fuhlendorf,Dorfstraße,29,,53.95692283,9.90395918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZL,24649,Fuhlendorf,Dorfstraße,3,,53.96054509,9.90299986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZM,24649,Fuhlendorf,Dorfstraße,3,a,53.96018322,9.90252223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZN,24649,Fuhlendorf,Dorfstraße,3,b,53.96016045,9.90239888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZO,24649,Fuhlendorf,Dorfstraße,30,,53.95832992,9.90132252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZP,24649,Fuhlendorf,Dorfstraße,31,,53.95665313,9.90377925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZQ,24649,Fuhlendorf,Dorfstraße,32,,53.95797227,9.90144232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZR,24649,Fuhlendorf,Dorfstraße,34,,53.95766808,9.9016797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZS,24649,Fuhlendorf,Dorfstraße,36,,53.95745325,9.90170428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZT,24649,Fuhlendorf,Dorfstraße,38,,53.95721223,9.90194206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZU,24649,Fuhlendorf,Dorfstraße,4,,53.96086804,9.90387048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZV,24649,Fuhlendorf,Dorfstraße,40,,53.95704786,9.90200478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZW,24649,Fuhlendorf,Dorfstraße,42,,53.95685865,9.9021549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZX,24649,Fuhlendorf,Dorfstraße,44,,53.95682264,9.90259655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZY,24649,Fuhlendorf,Dorfstraße,46,,53.95679409,9.90289334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZZ,24649,Fuhlendorf,Dorfstraße,5,a,53.96033127,9.9022198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZa,24649,Fuhlendorf,Bahnhofstraße,50,,53.9530867,9.91524882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZb,24649,Fuhlendorf,Bahnhofstraße,52,,53.9508959,9.92170169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZc,24649,Fuhlendorf,Bahnhofstraße,6,,53.95698,9.90574203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZd,24649,Fuhlendorf,Bahnhofstraße,7,,53.95709319,9.90667167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZe,24649,Fuhlendorf,Bahnhofstraße,7,a,53.95729391,9.9071897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZf,24649,Fuhlendorf,Bahnhofstraße,8,,53.95701082,9.90608137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZg,24649,Fuhlendorf,Bahnhofstraße,9,,53.9569648,9.90690232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZh,24649,Fuhlendorf,Beverloh,1,,53.97170651,9.88831987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZi,24649,Fuhlendorf,Beverloh,2,,53.97305165,9.88634081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZj,24649,Fuhlendorf,Beverloh,4,,53.97267559,9.88640145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZk,24649,Fuhlendorf,Dorfstraße,1,,53.96048018,9.90357724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZl,24649,Fuhlendorf,Dorfstraße,11,,53.95984569,9.90173569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZm,24649,Fuhlendorf,Dorfstraße,11,a,53.95984374,9.9018419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZn,24649,Fuhlendorf,Dorfstraße,13,,53.9595259,9.90166659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZp,24649,Fuhlendorf,Dorfstraße,14,a,53.96068387,9.90230259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZq,24649,Fuhlendorf,Dorfstraße,15,,53.95811061,9.90192767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZr,24649,Fuhlendorf,Dorfstraße,16,,53.96086564,9.90178687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZs,24649,Fuhlendorf,Dorfstraße,17,,53.95792148,9.90194366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZt,24649,Fuhlendorf,Dorfstraße,17,a,53.9576137,9.90285166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZu,24649,Fuhlendorf,Dorfstraße,17,b,53.957609,9.902148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZv,24649,Fuhlendorf,Dorfstraße,18,,53.960453,9.90178371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZw,24649,Fuhlendorf,Dorfstraße,19,,53.95744946,9.90235946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZx,24649,Fuhlendorf,Dorfstraße,2,,53.96091278,9.90411835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZy,24649,Fuhlendorf,Dorfstraße,20,,53.96078493,9.90130074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJZz,24649,Fuhlendorf,Dorfstraße,20,a,53.96055797,9.90108983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK00,24649,Fuhlendorf,Dorfstraße,6,,53.96084491,9.90353021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK01,24649,Fuhlendorf,Dorfstraße,7,,53.96026108,9.90189248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK02,24649,Fuhlendorf,Dorfstraße,7,a,53.96024259,9.90179227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK03,24649,Fuhlendorf,Dorfstraße,9,,53.96001807,9.90178006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK04,24649,Fuhlendorf,Drosselweg,1,,53.9569586,9.90852626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK05,24649,Fuhlendorf,Drosselweg,2,,53.95710421,9.90906003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK06,24649,Fuhlendorf,Drosselweg,3,,53.95712386,9.90784743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK07,24649,Fuhlendorf,Drosselweg,4,,53.95728443,9.90886748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK08,24649,Fuhlendorf,Drosselweg,5,,53.95734217,9.90819724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK09,24649,Fuhlendorf,Drosselweg,6,,53.95744822,9.90869812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0A,24649,Fuhlendorf,Fuhlendorfer Weg,29,,53.94795184,9.89672288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0B,24649,Fuhlendorf,Fuhlendorfer Weg,3,,53.95050281,9.89874922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0C,24649,Fuhlendorf,Fuhlendorfer Weg,3,a,53.95045216,9.89914574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0D,24649,Fuhlendorf,Fuhlendorfer Weg,3,b,53.95042288,9.89945748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0E,24649,Fuhlendorf,Fuhlendorfer Weg,30,,53.94775227,9.89559597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0F,24649,Fuhlendorf,Fuhlendorfer Weg,31,,53.94759654,9.89764749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0G,24649,Fuhlendorf,Fuhlendorfer Weg,33,,53.94689874,9.89570643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0H,24649,Fuhlendorf,Fuhlendorfer Weg,35,,53.94599521,9.89498965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0I,24649,Fuhlendorf,Fuhlendorfer Weg,37,,53.9458185,9.89533878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0J,24649,Fuhlendorf,Fuhlendorfer Weg,4,,53.95119039,9.89976808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0K,24649,Fuhlendorf,Fuhlendorfer Weg,5,,53.95032595,9.89861138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0L,24649,Fuhlendorf,Fuhlendorfer Weg,6,,53.95126601,9.89947548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0M,24649,Fuhlendorf,Fuhlendorfer Weg,7,,53.95017183,9.89876589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0N,24649,Fuhlendorf,Fuhlendorfer Weg,8,,53.95129063,9.89937964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0O,24649,Fuhlendorf,Fuhlendorfer Weg,9,,53.95008391,9.8985797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0P,24649,Fuhlendorf,Gärtnerstraße,1,,53.96132824,9.90545787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0Q,24649,Fuhlendorf,Gärtnerstraße,2,,53.96106893,9.90615305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0R,24649,Fuhlendorf,Gärtnerstraße,2,a,53.9609651,9.90561321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0S,24649,Fuhlendorf,Gärtnerstraße,2,b,53.96103505,9.90590122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0T,24649,Fuhlendorf,Gärtnerstraße,4,,53.9611691,9.90665092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0U,24649,Fuhlendorf,Gärtnerstraße,6,,53.96120828,9.90719765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0V,24649,Fuhlendorf,Gärtnerstraße,8,,53.96135983,9.90748085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0W,24649,Fuhlendorf,Großenasper Weg,1,,53.95819281,9.90557831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0X,24649,Fuhlendorf,Großenasper Weg,1,a,53.95812471,9.9053194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0Y,24649,Fuhlendorf,Großenasper Weg,10,,53.95806786,9.90783706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0Z,24649,Fuhlendorf,Großenasper Weg,11,,53.95876918,9.90781682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0a,24649,Fuhlendorf,Eichenweg,1,,53.95581089,9.9027479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0b,24649,Fuhlendorf,Eichenweg,2,,53.95602333,9.90296389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0c,24649,Fuhlendorf,Fasanenweg,1,,53.95739459,9.91003244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0d,24649,Fuhlendorf,Fasanenweg,2,,53.9574489,9.91050757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0e,24649,Fuhlendorf,Fasanenweg,3,,53.95756553,9.90969518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0f,24649,Fuhlendorf,Fasanenweg,4,,53.95764786,9.91027255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0g,24649,Fuhlendorf,Fasanenweg,5,,53.95767634,9.909488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0h,24649,Fuhlendorf,Fasanenweg,6,,53.95785957,9.91004233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0i,24649,Fuhlendorf,Fuhlendorfer Weg,1,,53.95065143,9.89887615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0j,24649,Fuhlendorf,Fuhlendorfer Weg,1,a,53.95091157,9.89909837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0k,24649,Fuhlendorf,Fuhlendorfer Weg,10,,53.95163065,9.8997255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0l,24649,Fuhlendorf,Fuhlendorfer Weg,11,,53.94994838,9.89854282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0m,24649,Fuhlendorf,Fuhlendorfer Weg,13,,53.94987791,9.89822312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0n,24649,Fuhlendorf,Fuhlendorfer Weg,15,,53.94967442,9.8982171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0o,24649,Fuhlendorf,Fuhlendorfer Weg,17,,53.94920398,9.89864597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0p,24649,Fuhlendorf,Fuhlendorfer Weg,17,a,53.94952187,9.89797128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0q,24649,Fuhlendorf,Fuhlendorfer Weg,2,,53.9511602,9.89988563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0r,24649,Fuhlendorf,Fuhlendorfer Weg,21,,53.94933806,9.89775521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0s,24649,Fuhlendorf,Fuhlendorfer Weg,23,,53.94922799,9.8978907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0t,24649,Fuhlendorf,Fuhlendorfer Weg,25,,53.94911806,9.89809006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0u,24649,Fuhlendorf,Fuhlendorfer Weg,27,,53.94897178,9.89823042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0v,24649,Fuhlendorf,Fuhlendorfer Weg,27,a,53.94887854,9.89765457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0w,24649,Fuhlendorf,Fuhlendorfer Weg,27,b,53.94873109,9.89731097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0x,24649,Fuhlendorf,Fuhlendorfer Weg,27,c,53.94852567,9.8971487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0y,24649,Fuhlendorf,Fuhlendorfer Weg,27,d,53.94834089,9.89703431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK0z,24649,Fuhlendorf,Fuhlendorfer Weg,27,e,53.9481222,9.89685794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK10,24649,Fuhlendorf,Großenasper Weg,13,,53.95912429,9.908683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK11,24649,Fuhlendorf,Großenasper Weg,14,,53.96125915,9.92308827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK12,24649,Fuhlendorf,Großenasper Weg,15,,53.95936738,9.90966744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK13,24649,Fuhlendorf,Großenasper Weg,16,,53.96102123,9.92338111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK14,24649,Fuhlendorf,Großenasper Weg,17,,53.95988352,9.91166238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK15,24649,Fuhlendorf,Großenasper Weg,18,,53.96012371,9.93079204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK16,24649,Fuhlendorf,Großenasper Weg,19,,53.96013485,9.91191405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK18,24649,Fuhlendorf,Großenasper Weg,20,,53.95994184,9.93191977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK19,24649,Fuhlendorf,Großenasper Weg,21,,53.96125242,9.91675389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1A,24649,Fuhlendorf,Hambrook,8,,53.95019715,9.90135809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1B,24649,Fuhlendorf,Harzhorn,1,,53.98763534,9.91667368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1C,24649,Fuhlendorf,Harzhorn,2,,53.98056063,9.91486664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1D,24649,Fuhlendorf,Harzhorn,3,,53.98036171,9.91566064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1E,24649,Fuhlendorf,Harzhorn,4,,53.98016278,9.9149702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1F,24649,Fuhlendorf,Harzhorn,6,,53.97886352,9.91244718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1G,24649,Fuhlendorf,Kieler Straße,1,,53.96829063,9.90557682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1H,24649,Fuhlendorf,Kieler Straße,1,a,53.9682142,9.90537819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1I,24649,Fuhlendorf,Kieler Straße,10,,53.96668096,9.90334813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1J,24649,Fuhlendorf,Kieler Straße,104,,53.95257349,9.90068354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1K,24649,Fuhlendorf,Kieler Straße,108,,53.95183352,9.9002403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1L,24649,Fuhlendorf,Kieler Straße,11,,53.96666093,9.90465731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1M,24649,Fuhlendorf,Kieler Straße,113,,53.95124188,9.90068025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1N,24649,Fuhlendorf,Kieler Straße,115,,53.95028075,9.90021262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1O,24649,Fuhlendorf,Kieler Straße,116,,53.95085928,9.89987307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1P,24649,Fuhlendorf,Kieler Straße,116,a,53.95074451,9.89973312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1Q,24649,Fuhlendorf,Kieler Straße,117,,53.95010921,9.90004499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1R,24649,Fuhlendorf,Kieler Straße,118,,53.95061855,9.89961501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1S,24649,Fuhlendorf,Kieler Straße,119,,53.94990832,9.89990174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1T,24649,Fuhlendorf,Kieler Straße,12,,53.96613193,9.90309563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1U,24649,Fuhlendorf,Kieler Straße,121,,53.94987103,9.90005544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1V,24649,Fuhlendorf,Kieler Straße,123,,53.94975949,9.89983433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1W,24649,Fuhlendorf,Kieler Straße,127,,53.94942308,9.89994381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1X,24649,Fuhlendorf,Kieler Straße,129,,53.9491025,9.89963259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1Y,24649,Fuhlendorf,Kieler Straße,13,,53.96674351,9.90452024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1Z,24649,Fuhlendorf,Kieler Straße,130,,53.94951407,9.89907415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1a,24649,Fuhlendorf,Großenasper Weg,22,,53.95924089,9.93363285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1b,24649,Fuhlendorf,Großenasper Weg,23,,53.96167356,9.91911667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1c,24649,Fuhlendorf,Großenasper Weg,25,,53.96078556,9.93008156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1d,24649,Fuhlendorf,Großenasper Weg,26,,53.95300076,9.94220496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1e,24649,Fuhlendorf,Großenasper Weg,27,,53.96024509,9.93208222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1f,24649,Fuhlendorf,Großenasper Weg,29,,53.95112344,9.94473259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1g,24649,Fuhlendorf,Großenasper Weg,3,,53.95827419,9.90586509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1i,24649,Fuhlendorf,Großenasper Weg,4,,53.95802903,9.90638571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1j,24649,Fuhlendorf,Großenasper Weg,5,,53.95834994,9.90614404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1k,24649,Fuhlendorf,Großenasper Weg,6,,53.95810798,9.9066954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1l,24649,Fuhlendorf,Großenasper Weg,7,,53.95847275,9.90637487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1m,24649,Fuhlendorf,Großenasper Weg,8,,53.95835965,9.90718912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1n,24649,Fuhlendorf,Großenasper Weg,9,,53.95846004,9.90675428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1o,24649,Fuhlendorf,Großenasper Weg,9,a,53.95861178,9.90703852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1p,24649,Fuhlendorf,Grünplan,1,,53.95410309,9.94545544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1q,24649,Fuhlendorf,Grünplan,3,,53.9543248,9.94811085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1r,24649,Fuhlendorf,Hambrook,1,,53.95093075,9.90064299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1s,24649,Fuhlendorf,Hambrook,10,,53.94997398,9.90154878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1t,24649,Fuhlendorf,Hambrook,12,,53.94983905,9.90171955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1u,24649,Fuhlendorf,Hambrook,12,a,53.94972658,9.90150029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1v,24649,Fuhlendorf,Hambrook,14,,53.94954148,9.90159207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1w,24649,Fuhlendorf,Hambrook,16,,53.94941091,9.90202887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1x,24649,Fuhlendorf,Hambrook,2,,53.95066594,9.90041485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1y,24649,Fuhlendorf,Hambrook,4,,53.95040223,9.90090051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK1z,24649,Fuhlendorf,Hambrook,6,,53.95030309,9.90114422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK20,24649,Fuhlendorf,Kieler Straße,131,,53.94896075,9.89948756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK21,24649,Fuhlendorf,Kieler Straße,132,,53.94937372,9.89888185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK22,24649,Fuhlendorf,Kieler Straße,136,,53.94885053,9.89890052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK23,24649,Fuhlendorf,Kieler Straße,138,,53.94853982,9.8985524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK24,24649,Fuhlendorf,Kieler Straße,139,,53.94785442,9.90004612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK25,24649,Fuhlendorf,Kieler Straße,140,,53.94833675,9.8984317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK26,24649,Fuhlendorf,Kieler Straße,141,,53.94761755,9.89991307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK27,24649,Fuhlendorf,Kieler Straße,142,,53.94810579,9.89812973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK28,24649,Fuhlendorf,Kieler Straße,144,,53.94817877,9.89776964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK29,24649,Fuhlendorf,Kieler Straße,15,,53.96673528,9.90711227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2A,24649,Fuhlendorf,Kieler Straße,51,,53.96049093,9.90530135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2B,24649,Fuhlendorf,Kieler Straße,53,,53.96017149,9.90557807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2C,24649,Fuhlendorf,Kieler Straße,55,,53.95987236,9.90525734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2D,24649,Fuhlendorf,Kieler Straße,55,a,53.95968615,9.90522358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2E,24649,Fuhlendorf,Kieler Straße,55,b,53.95954767,9.90523537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2F,24649,Fuhlendorf,Kieler Straße,56,,53.95915723,9.90452851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2G,24649,Fuhlendorf,Kieler Straße,57,,53.9594193,9.90522686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2H,24649,Fuhlendorf,Kieler Straße,57,a,53.95928193,9.90524709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2I,24649,Fuhlendorf,Kieler Straße,58,,53.95890874,9.90448848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2J,24649,Fuhlendorf,Kieler Straße,59,,53.95908337,9.9052897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2K,24649,Fuhlendorf,Kieler Straße,60,,53.9586621,9.90355159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2L,24649,Fuhlendorf,Kieler Straße,61,a,53.95879131,9.90507957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2M,24649,Fuhlendorf,Kieler Straße,61,b,53.95879131,9.90507957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2N,24649,Fuhlendorf,Kieler Straße,61,c,53.95879131,9.90507957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2O,24649,Fuhlendorf,Kieler Straße,61,d,53.95879131,9.90507957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2P,24649,Fuhlendorf,Kieler Straße,62,,53.95876885,9.90314309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2R,24649,Fuhlendorf,Kieler Straße,64,,53.95840374,9.90443165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2S,24649,Fuhlendorf,Kieler Straße,65,,53.9582779,9.90493582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2T,24649,Fuhlendorf,Kieler Straße,67,,53.95810355,9.90498749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2U,24649,Fuhlendorf,Kieler Straße,68,,53.95799632,9.90441949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2V,24649,Fuhlendorf,Kieler Straße,69,,53.95722936,9.90468314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2W,24649,Fuhlendorf,Kieler Straße,69,a,53.95712484,9.90528176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2X,24649,Fuhlendorf,Kieler Straße,69,b,53.95709021,9.90537482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2Y,24649,Fuhlendorf,Kieler Straße,7,,53.96740114,9.90502262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2Z,24649,Fuhlendorf,Kieler Straße,70,,53.9575541,9.90440667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2a,24649,Fuhlendorf,Kieler Straße,152,,53.94727174,9.89781146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2b,24649,Fuhlendorf,Kieler Straße,154,,53.94708566,9.89804251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2c,24649,Fuhlendorf,Kieler Straße,158,,53.9469087,9.89770296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2d,24649,Fuhlendorf,Kieler Straße,159,,53.94547158,9.8977202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2e,24649,Fuhlendorf,Kieler Straße,16,,53.96560437,9.90334907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2f,24649,Fuhlendorf,Kieler Straße,164,,53.94633864,9.89768557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2g,24649,Fuhlendorf,Kieler Straße,17,,53.96673916,9.90758343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2h,24649,Fuhlendorf,Kieler Straße,170,,53.94568395,9.89686034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2i,24649,Fuhlendorf,Kieler Straße,18,,53.96466913,9.902983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2j,24649,Fuhlendorf,Kieler Straße,2,,53.96829489,9.90425059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2k,24649,Fuhlendorf,Kieler Straße,20,,53.96443123,9.90353043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2l,24649,Fuhlendorf,Kieler Straße,28,,53.96332782,9.90387581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2m,24649,Fuhlendorf,Kieler Straße,31,,53.96442419,9.90438042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2n,24649,Fuhlendorf,Kieler Straße,33,,53.96418093,9.90452566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2o,24649,Fuhlendorf,Kieler Straße,35,,53.96353307,9.90460506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2p,24649,Fuhlendorf,Kieler Straße,37,,53.96287823,9.9048089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2q,24649,Fuhlendorf,Kieler Straße,41,,53.96236926,9.90490029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2r,24649,Fuhlendorf,Kieler Straße,42,,53.96147211,9.90400768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2s,24649,Fuhlendorf,Kieler Straße,42,a,53.96127471,9.9042739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2t,24649,Fuhlendorf,Kieler Straße,42,b,53.96105048,9.90408678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2u,24649,Fuhlendorf,Kieler Straße,43,,53.96203445,9.90493934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2v,24649,Fuhlendorf,Kieler Straße,44,,53.9607071,9.9045351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2w,24649,Fuhlendorf,Kieler Straße,45,,53.96171094,9.90506516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2x,24649,Fuhlendorf,Kieler Straße,46,,53.96045703,9.9045432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2y,24649,Fuhlendorf,Kieler Straße,47,,53.96107827,9.90494322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK2z,24649,Fuhlendorf,Kieler Straße,49,,53.96084264,9.90519875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK30,24649,Fuhlendorf,Kieler Straße,71,,53.95683908,9.9044993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK31,24649,Fuhlendorf,Kieler Straße,72,,53.95741364,9.9040969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK32,24649,Fuhlendorf,Kieler Straße,73,,53.95654836,9.90432498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK33,24649,Fuhlendorf,Kieler Straße,75,,53.95604637,9.90436624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK34,24649,Fuhlendorf,Kieler Straße,77,,53.95572894,9.90395648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK35,24649,Fuhlendorf,Kieler Straße,79,,53.95554886,9.90389753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK36,24649,Fuhlendorf,Kieler Straße,80,,53.95600193,9.90360885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK37,24649,Fuhlendorf,Kieler Straße,82,,53.95576316,9.90359846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK38,24649,Fuhlendorf,Kieler Straße,84,,53.95545423,9.90342784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK39,24649,Fuhlendorf,Kieler Straße,84,a,53.95550177,9.90305778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3A,24649,Fuhlendorf,Neue Dorfstraße,1,a,53.95775522,9.90402553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3B,24649,Fuhlendorf,Neue Dorfstraße,10,,53.95877567,9.90258508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3C,24649,Fuhlendorf,Neue Dorfstraße,12,,53.95853075,9.90206418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3D,24649,Fuhlendorf,Neue Dorfstraße,12,a,53.95877825,9.90169122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3E,24649,Fuhlendorf,Neue Dorfstraße,12,b,53.95880513,9.90221771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3F,24649,Fuhlendorf,Neue Dorfstraße,2,,53.95802627,9.90385257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3G,24649,Fuhlendorf,Neue Dorfstraße,2,a,53.95839747,9.90364163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3H,24649,Fuhlendorf,Neue Dorfstraße,3,,53.95787994,9.90329616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3I,24649,Fuhlendorf,Neue Dorfstraße,4,,53.95814988,9.90341644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3J,24649,Fuhlendorf,Neue Dorfstraße,5,,53.95799419,9.90285587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3K,24649,Fuhlendorf,Neue Dorfstraße,6,,53.95834269,9.90294498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3L,24649,Fuhlendorf,Neue Dorfstraße,7,,53.95803763,9.90264193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3M,24649,Fuhlendorf,Neue Dorfstraße,7,a,53.95808471,9.90242215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3N,24649,Fuhlendorf,Neue Dorfstraße,8,,53.95842628,9.90245774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3O,24649,Fuhlendorf,Neue Dorfstraße,9,,53.95820019,9.90219953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3P,24649,Fuhlendorf,Neuer Weg,1,,53.95506429,9.90564645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3Q,24649,Fuhlendorf,Neuer Weg,11,,53.95441607,9.90475901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3R,24649,Fuhlendorf,Neuer Weg,2,,53.95525618,9.90542131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3S,24649,Fuhlendorf,Neuer Weg,3,,53.95485553,9.90543483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3T,24649,Fuhlendorf,Neuer Weg,4,,53.95502683,9.90516581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3U,24649,Fuhlendorf,Neuer Weg,5,,53.9544805,9.9058365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3V,24649,Fuhlendorf,Neuer Weg,6,,53.95485086,9.9049645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3W,24649,Fuhlendorf,Neuer Weg,7,,53.9546926,9.90529203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3X,24649,Fuhlendorf,Neuer Weg,8,,53.95469752,9.90476103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3Y,24649,Fuhlendorf,Neuer Weg,9,,53.95452082,9.90505552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3Z,24649,Fuhlendorf,Osterdoor,1,a,53.95626263,9.90513654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3a,24649,Fuhlendorf,Kieler Straße,86,,53.95522331,9.90310162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3b,24649,Fuhlendorf,Kieler Straße,89,,53.95390419,9.90283142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3c,24649,Fuhlendorf,Kieler Straße,9,,53.96694945,9.90466282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3d,24649,Fuhlendorf,Kieler Straße,91,,53.95371555,9.90262463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3e,24649,Fuhlendorf,Königsberger Weg,1,,53.9466515,9.89554065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3f,24649,Fuhlendorf,Königsberger Weg,1,a,53.94649173,9.8960615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3g,24649,Fuhlendorf,Königsberger Weg,1,b,53.94640161,9.89630325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3h,24649,Fuhlendorf,Königsberger Weg,1,c,53.94669713,9.89684415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3i,24649,Fuhlendorf,Königsberger Weg,10,,53.94588658,9.8968621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3j,24649,Fuhlendorf,Königsberger Weg,2,,53.94635341,9.89545934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3k,24649,Fuhlendorf,Königsberger Weg,3,,53.94622702,9.89655893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3l,24649,Fuhlendorf,Königsberger Weg,4,,53.94631756,9.89559576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3m,24649,Fuhlendorf,Königsberger Weg,5,,53.94618896,9.89670107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3n,24649,Fuhlendorf,Königsberger Weg,6,,53.94613095,9.89608301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3o,24649,Fuhlendorf,Königsberger Weg,6,a,53.94579586,9.8956736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3p,24649,Fuhlendorf,Königsberger Weg,7,,53.94596002,9.89693128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3q,24649,Fuhlendorf,Königsberger Weg,8,,53.94609303,9.89622382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3r,24649,Fuhlendorf,Königsberger Weg,8,a,53.9459649,9.89636466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3s,24649,Fuhlendorf,Mittelweg,1,,53.95607439,9.90722232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3t,24649,Fuhlendorf,Mittelweg,2,,53.95631587,9.9070555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3u,24649,Fuhlendorf,Mittelweg,3,,53.9557904,9.90692397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3v,24649,Fuhlendorf,Mittelweg,4,,53.95616878,9.90688599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3w,24649,Fuhlendorf,Mittelweg,5,,53.95558876,9.90666285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3x,24649,Fuhlendorf,Mittelweg,6,,53.95597186,9.90666505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3y,24649,Fuhlendorf,Mittelweg,6,a,53.95595666,9.90642181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK3z,24649,Fuhlendorf,Neue Dorfstraße,1,,53.95783047,9.90379438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK40,24649,Fuhlendorf,Osterdoor,1,b,53.95636476,9.90496227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK41,24649,Fuhlendorf,Osterdoor,10,,53.95507248,9.9067134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK42,24649,Fuhlendorf,Osterdoor,10,a,53.95472715,9.90626957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK43,24649,Fuhlendorf,Osterdoor,10,b,53.95489951,9.90700579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK44,24649,Fuhlendorf,Osterdoor,12,,53.95500265,9.90726194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK45,24649,Fuhlendorf,Osterdoor,14,,53.95512824,9.90745546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK46,24649,Fuhlendorf,Osterdoor,14,a,53.95519293,9.9075908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK47,24649,Fuhlendorf,Osterdoor,16,,53.95525817,9.90797833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK48,24649,Fuhlendorf,Osterdoor,2,,53.95594187,9.90492893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK49,24649,Fuhlendorf,Osterdoor,20,,53.95537132,9.90821666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4A,24649,Fuhlendorf,Poststraße,13,,53.95905342,9.9038226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4B,24649,Fuhlendorf,Poststraße,14,,53.95904995,9.90327916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4C,24649,Fuhlendorf,Poststraße,2,,53.95924599,9.90174373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4D,24649,Fuhlendorf,Poststraße,3,,53.95960054,9.90242769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4E,24649,Fuhlendorf,Poststraße,4,,53.95929264,9.90218867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4F,24649,Fuhlendorf,Poststraße,6,,53.9593167,9.90259937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4G,24649,Fuhlendorf,Poststraße,7,,53.95955147,9.90318444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4H,24649,Fuhlendorf,Poststraße,8,,53.95909101,9.90291144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4I,24649,Fuhlendorf,Rhönstraße,10,,53.95398706,9.90479801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4J,24649,Fuhlendorf,Rhönstraße,10,a,53.95395658,9.9048963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4K,24649,Fuhlendorf,Rhönstraße,11,,53.95429516,9.90573478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4L,24649,Fuhlendorf,Rhönstraße,12,,53.95389167,9.9051086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4M,24649,Fuhlendorf,Rhönstraße,12,a,53.95386244,9.90520414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4N,24649,Fuhlendorf,Rhönstraße,14,,53.95376,9.90561342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4O,24649,Fuhlendorf,Rhönstraße,14,a,53.95353195,9.90482972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4P,24649,Fuhlendorf,Rhönstraße,16,,53.95331929,9.90617267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4Q,24649,Fuhlendorf,Rhönstraße,18,,53.95321432,9.90670911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4R,24649,Fuhlendorf,Rhönstraße,2,,53.95423781,9.90407122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4S,24649,Fuhlendorf,Rhönstraße,4,,53.95405601,9.90448221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4T,24649,Fuhlendorf,Rhönstraße,5,,53.95450025,9.90446395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4U,24649,Fuhlendorf,Rhönstraße,6,a,53.95384983,9.90428491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4V,24649,Fuhlendorf,Rhönstraße,6,b,53.95388328,9.90417921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4W,24649,Fuhlendorf,Rhönstraße,7,,53.95421423,9.90494966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4X,24649,Fuhlendorf,Rhönstraße,8,,53.95370106,9.90456413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4Y,24649,Fuhlendorf,Rhönstraße,9,,53.95402068,9.90558767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4a,24649,Fuhlendorf,Osterdoor,24,,53.95552997,9.90884005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4b,24649,Fuhlendorf,Osterdoor,26,,53.95563637,9.90903276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4c,24649,Fuhlendorf,Osterdoor,3,,53.95583917,9.90559555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4d,24649,Fuhlendorf,Osterdoor,4,,53.95577043,9.905226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4e,24649,Fuhlendorf,Osterdoor,4,a,53.95562987,9.90545778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4f,24649,Fuhlendorf,Osterdoor,5,,53.95537005,9.90702536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4g,24649,Fuhlendorf,Osterdoor,6,,53.95554031,9.90565596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4h,24649,Fuhlendorf,Osterdoor,7,,53.95549919,9.90755639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4i,24649,Fuhlendorf,Osterdoor,8,,53.95521918,9.90628923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4j,24649,Fuhlendorf,Osterdoor,9,,53.95563919,9.90791024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4k,24649,Fuhlendorf,Osterkamp,10,,53.95362353,9.91158739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4l,24649,Fuhlendorf,Osterkamp,12,,53.95353268,9.91193106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4m,24649,Fuhlendorf,Osterkamp,14,,53.95341742,9.91214124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4n,24649,Fuhlendorf,Osterkamp,16,,53.95332712,9.91236438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4o,24649,Fuhlendorf,Osterkamp,2,,53.95438908,9.91169916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4p,24649,Fuhlendorf,Osterkamp,2,a,53.95418733,9.9115143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4q,24649,Fuhlendorf,Osterkamp,3,,53.95404405,9.9117463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4r,24649,Fuhlendorf,Osterkamp,4,,53.95404412,9.91129714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4s,24649,Fuhlendorf,Osterkamp,5,,53.95381743,9.91202978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4t,24649,Fuhlendorf,Osterkamp,6,,53.95386313,9.91107775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4u,24649,Fuhlendorf,Osterkamp,7,,53.95386605,9.91239921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4v,24649,Fuhlendorf,Osterkamp,8,,53.95364016,9.9112774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4w,24649,Fuhlendorf,Osterkamp,9,,53.95370885,9.9126975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4x,24649,Fuhlendorf,Poststraße,1,,53.95948031,9.90208316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4y,24649,Fuhlendorf,Poststraße,10,,53.95937885,9.90300554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK4z,24649,Fuhlendorf,Poststraße,12,,53.95942035,9.90332926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK50,24649,Fuhlendorf,Schulweg,2,,53.96116127,9.90259125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK51,24649,Fuhlendorf,Schulweg,3,,53.96153718,9.90261058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK52,24649,Fuhlendorf,Stettiner Weg,1,,53.94747045,9.89628853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK53,24649,Fuhlendorf,Stettiner Weg,10,,53.94682921,9.89661229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK54,24649,Fuhlendorf,Stettiner Weg,2,,53.94731494,9.89611767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK55,24649,Fuhlendorf,Stettiner Weg,3,,53.94743982,9.89639458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK56,24649,Fuhlendorf,Stettiner Weg,4,,53.94728018,9.8962406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK57,24649,Fuhlendorf,Stettiner Weg,5,,53.94727985,9.89674366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK58,24649,Fuhlendorf,Stettiner Weg,6,,53.94702194,9.89643985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK59,24649,Fuhlendorf,Stettiner Weg,7,,53.94717398,9.89676205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5A,24649,Fuhlendorf,Wiesenweg,5,,53.95676212,9.90143873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5B,24649,Fuhlendorf,Wiesenweg,6,,53.9567801,9.90083957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5C,24649,Fuhlendorf,Wiesenweg,7,,53.95658955,9.90164012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5D,24649,Fuhlendorf,Wiesenweg,8,,53.95661868,9.90078738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5E,24649,Fuhlendorf,Wiesenweg,9,,53.9565777,9.90120369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5F,24649,Fuhlendorf,Ziegeleiweg,1,,53.96372769,9.90584662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5G,24649,Fuhlendorf,Ziegeleiweg,1,a,53.96387429,9.90627316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5H,24649,Fuhlendorf,Ziegeleiweg,3,,53.964338,9.90782218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5I,24649,Fuhlendorf,Ziegeleiweg,5,,53.96473761,9.90802206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5K,24649,Fuhlendorf,Bäckertwied,1,,53.95936837,9.90651591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5L,24649,Fuhlendorf,Bäckertwied,10,,53.95986981,9.90745631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5M,24649,Fuhlendorf,Bäckertwied,11,,53.95979489,9.90611661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5N,24649,Fuhlendorf,Bäckertwied,12,,53.95981317,9.90749416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5O,24649,Fuhlendorf,Bäckertwied,13,,53.95996856,9.90610815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5P,24649,Fuhlendorf,Bäckertwied,14,,53.95966818,9.90755222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5Q,24649,Fuhlendorf,Bäckertwied,15,,53.9600807,9.90650812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5R,24649,Fuhlendorf,Bäckertwied,16,,53.95961042,9.90766605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5S,24649,Fuhlendorf,Bäckertwied,17,,53.96037975,9.90671567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5T,24649,Fuhlendorf,Bäckertwied,18,,53.95971263,9.90787246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5U,24649,Fuhlendorf,Bäckertwied,19,,53.96045555,9.90668935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5V,24649,Fuhlendorf,Bäckertwied,2,,53.95946008,9.90708344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5W,24649,Fuhlendorf,Bäckertwied,20,,53.95971263,9.90787246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5X,24649,Fuhlendorf,Bäckertwied,21,,53.96033483,9.90623585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5Y,24649,Fuhlendorf,Bäckertwied,21,a,53.96025692,9.90628929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5Z,24649,Fuhlendorf,Bäckertwied,22,,53.95996232,9.90790326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5a,24649,Fuhlendorf,Stettiner Weg,8,,53.94701046,9.89658681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5b,24649,Fuhlendorf,Tegelkuhle,1,,53.95673023,9.90783868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5c,24649,Fuhlendorf,Tegelkuhle,10,,53.95648574,9.90972817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5d,24649,Fuhlendorf,Tegelkuhle,10,a,53.95657451,9.91013079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5e,24649,Fuhlendorf,Tegelkuhle,12,,53.95699319,9.90994774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5f,24649,Fuhlendorf,Tegelkuhle,14,,53.95708844,9.91033854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5g,24649,Fuhlendorf,Tegelkuhle,16,,53.95716976,9.91064876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5h,24649,Fuhlendorf,Tegelkuhle,18,,53.95727158,9.91101846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5i,24649,Fuhlendorf,Tegelkuhle,2,,53.95656369,9.90828281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5j,24649,Fuhlendorf,Tegelkuhle,20,,53.95727321,9.91135292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5k,24649,Fuhlendorf,Tegelkuhle,22,,53.95748608,9.91091578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5l,24649,Fuhlendorf,Tegelkuhle,3,,53.95677903,9.90820531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5m,24649,Fuhlendorf,Tegelkuhle,4,,53.9567536,9.90891492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5n,24649,Fuhlendorf,Tegelkuhle,6,,53.95678772,9.90917944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5o,24649,Fuhlendorf,Tegelkuhle,8,,53.95693362,9.90962842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5p,24649,Fuhlendorf,Tegelkuhle,8,a,53.95669197,9.90957928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5q,24649,Fuhlendorf,Vierthorn,1,,53.95675601,9.87941785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5r,24649,Fuhlendorf,Vierthorn,2,,53.9578226,9.87615153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5s,24649,Fuhlendorf,Wiesental,1,,53.97088959,9.90785622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5t,24649,Fuhlendorf,Wiesental,2,,53.97155015,9.90613206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5u,24649,Fuhlendorf,Wiesental,3,,53.97058387,9.90964338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5v,24649,Fuhlendorf,Wiesenweg,1,,53.95719775,9.90135055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5w,24649,Fuhlendorf,Wiesenweg,2,,53.95720769,9.90083247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5x,24649,Fuhlendorf,Wiesenweg,2,a,53.95741783,9.90073077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5y,24649,Fuhlendorf,Wiesenweg,3,,53.95694983,9.90151172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK5z,24649,Fuhlendorf,Wiesenweg,4,,53.95699478,9.9008228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK60,24649,Fuhlendorf,Bäckertwied,23,,53.96054107,9.90618934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK61,24649,Fuhlendorf,Bäckertwied,24,,53.95996111,9.9077981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK62,24649,Fuhlendorf,Bäckertwied,25,,53.96065713,9.90589255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK63,24649,Fuhlendorf,Bäckertwied,26,,53.96039512,9.90780305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK64,24649,Fuhlendorf,Bäckertwied,27,,53.96074418,9.90622417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK65,24649,Fuhlendorf,Bäckertwied,28,,53.96022087,9.90776236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK66,24649,Fuhlendorf,Bäckertwied,29,,53.96080255,9.90654257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK67,24649,Fuhlendorf,Bäckertwied,3,,53.9593134,9.90608262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK68,24649,Fuhlendorf,Bäckertwied,30,,53.96018453,9.9079071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK69,24649,Fuhlendorf,Bäckertwied,31,,53.96087365,9.90688079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6A,24649,Fuhlendorf,Op'n Wischhoff,8,,53.95482787,9.90423554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6B,24649,Fuhlendorf,Achtern Hoff,1,,53.95825548,9.90683362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6C,24649,Fuhlendorf,Achtern Hoff,2,,53.95787874,9.9069869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6D,24649,Fuhlendorf,Achtern Hoff,3,,53.95810894,9.90713248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6F,24649,Fuhlendorf,Achtern Hoff,5,,53.95787424,9.90721872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6G,24649,Fuhlendorf,Achtern Hoff,6,,53.95752736,9.9072824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6H,24649,Fuhlendorf,Achtern Hoff,7,,53.95771238,9.9073477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6I,24649,Fuhlendorf,Achtern Hoff,9,,53.95744306,9.90750834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6J,24649,Fuhlendorf,Meiereiweg,10,,53.95873823,9.90592171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6K,24649,Fuhlendorf,Meiereiweg,2,,53.95852409,9.9052381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6L,24649,Fuhlendorf,Meiereiweg,5,,53.95885998,9.90546136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6M,24649,Fuhlendorf,Meiereiweg,6,,53.9586327,9.90556051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6N,24649,Fuhlendorf,Meiereiweg,7,,53.95885539,9.90557983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6O,24649,Fuhlendorf,Meiereiweg,9,,53.95894897,9.90587733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6P,24649,Fuhlendorf,Am Eichenhof,1,,53.95662864,9.90237563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6Q,24649,Fuhlendorf,Am Eichenhof,11,,53.95609463,9.90247275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6R,24649,Fuhlendorf,Am Eichenhof,11,a,53.95602897,9.90247867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6S,24649,Fuhlendorf,Am Eichenhof,13,,53.95584136,9.9023997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6T,24649,Fuhlendorf,Am Eichenhof,15,,53.95558763,9.90220837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6U,24649,Fuhlendorf,Am Eichenhof,2,,53.95661191,9.9021901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6V,24649,Fuhlendorf,Am Eichenhof,3,,53.95648484,9.90243663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6W,24649,Fuhlendorf,Am Eichenhof,4,,53.95647557,9.90218036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6X,24649,Fuhlendorf,Am Eichenhof,5,,53.95641737,9.90244299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6Y,24649,Fuhlendorf,Am Eichenhof,6,,53.95632991,9.90219244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6Z,24649,Fuhlendorf,Am Eichenhof,7,,53.9562861,9.90245603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6a,24649,Fuhlendorf,Bäckertwied,32,,53.96003011,9.90726485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6b,24649,Fuhlendorf,Bäckertwied,34,,53.96008971,9.90722502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6c,24649,Fuhlendorf,Bäckertwied,36,,53.9602699,9.90715553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6d,24649,Fuhlendorf,Bäckertwied,38,,53.96047235,9.90698975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6e,24649,Fuhlendorf,Bäckertwied,4,,53.95952305,9.9070411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6f,24649,Fuhlendorf,Bäckertwied,40,,53.96050332,9.90697018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6g,24649,Fuhlendorf,Bäckertwied,42,,53.96054847,9.90740593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6h,24649,Fuhlendorf,Bäckertwied,44,,53.96063249,9.90768769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6i,24649,Fuhlendorf,Bäckertwied,46,,53.96072006,9.90762855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6j,24649,Fuhlendorf,Bäckertwied,48,,53.96105359,9.90768428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6k,24649,Fuhlendorf,Bäckertwied,5,,53.95959888,9.90611144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6l,24649,Fuhlendorf,Bäckertwied,50,,53.96090023,9.90738135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6m,24649,Fuhlendorf,Bäckertwied,6,,53.95970142,9.90701877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6n,24649,Fuhlendorf,Bäckertwied,7,,53.95964045,9.90653507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6o,24649,Fuhlendorf,Bäckertwied,8,,53.95975201,9.90698498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6p,24649,Fuhlendorf,Bäckertwied,9,,53.95989094,9.90658423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6q,24649,Fuhlendorf,Beverlohweg,3,,53.96602739,9.89482321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6r,24649,Fuhlendorf,Op'n Wischhoff,1,,53.95475657,9.90365922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6s,24649,Fuhlendorf,Op'n Wischhoff,10,,53.95504179,9.90442262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6t,24649,Fuhlendorf,Op'n Wischhoff,12,,53.95522665,9.90431761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6u,24649,Fuhlendorf,Op'n Wischhoff,14,,53.95525925,9.9040009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6v,24649,Fuhlendorf,Op'n Wischhoff,16,,53.95528253,9.90389475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6w,24649,Fuhlendorf,Op'n Wischhoff,2,,53.95457599,9.90389134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6x,24649,Fuhlendorf,Op'n Wischhoff,3,,53.9550247,9.90370858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6y,24649,Fuhlendorf,Op'n Wischhoff,4,,53.95463223,9.90394285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK6z,24649,Fuhlendorf,Op'n Wischhoff,6,,53.9548564,9.90412789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK70,24649,Fuhlendorf,Am Eichenhof,8,,53.95594264,9.90171393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK71,24649,Fuhlendorf,Am Eichenhof,9,,53.9562196,9.90246223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK72,24649,Fuhlendorf,Claustal,1,,53.95883986,9.90693209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK73,24649,Fuhlendorf,Claustal,11,,53.95916692,9.90666575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK74,24649,Fuhlendorf,Claustal,3,,53.95898064,9.90683882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK75,24649,Fuhlendorf,Claustal,5,,53.95878067,9.90655109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK76,24649,Fuhlendorf,Claustal,7,,53.95889741,9.90641761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cK77,24649,Fuhlendorf,Claustal,9,,53.95907771,9.90634505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudA,24649,Fuhlendorf,Bast,3,,53.94598468,9.89399356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudB,24649,Fuhlendorf,Bast,4,,53.94636893,9.89463016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudC,24649,Fuhlendorf,Bast,5,,53.94606826,9.89369773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudD,24649,Fuhlendorf,Bast,6,,53.94663171,9.89435851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudE,24649,Fuhlendorf,Bast,8,,53.94646257,9.89406844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudF,24649,Fuhlendorf,Bocksberg,1,,53.94456909,9.89770768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudG,24649,Fuhlendorf,Bocksberg,2,,53.94395308,9.90111328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudH,24649,Fuhlendorf,Bocksberg,3,,53.94481678,9.89795712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudI,24649,Fuhlendorf,Bocksberg,4,,53.94283128,9.9103943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudJ,24649,Fuhlendorf,Bocksberg,5,,53.94487999,9.89798533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudK,24649,Fuhlendorf,Bocksberg,6,,53.94016221,9.91152753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudL,24649,Fuhlendorf,Dorfstraße,1,,53.94390733,9.88602337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudM,24649,Fuhlendorf,Dorfstraße,10,,53.94444392,9.88393214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudN,24649,Fuhlendorf,Dorfstraße,12,,53.94377327,9.88298816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudO,24649,Fuhlendorf,Dorfstraße,13,,53.943947,9.88431117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudP,24649,Fuhlendorf,Dorfstraße,14,,53.94330932,9.8820429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudQ,24649,Fuhlendorf,Dorfstraße,16,,53.94314319,9.88139361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudR,24649,Fuhlendorf,Dorfstraße,2,,53.94388549,9.88673737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudS,24649,Fuhlendorf,Dorfstraße,23,,53.94330184,9.88254504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudT,24649,Fuhlendorf,Dorfstraße,25,,53.94321393,9.88226138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudU,24649,Fuhlendorf,Dorfstraße,27,,53.94303548,9.88159623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudV,24649,Fuhlendorf,Dorfstraße,4,,53.94406986,9.88644874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudW,24649,Fuhlendorf,Dorfstraße,6,,53.94415353,9.88604346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudX,24649,Fuhlendorf,Dorfstraße,7,,53.94360601,9.8851247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudY,24649,Fuhlendorf,Dorfstraße,8,,53.9443855,9.88503947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudZ,24649,Fuhlendorf,Eckkoppel,1,,53.94314648,9.89514766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudo,24649,Fuhlendorf,Bast,1,,53.94591004,9.8942795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudp,24649,Fuhlendorf,Bast,10,,53.94650925,9.89358107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudq,24649,Fuhlendorf,Bast,12,,53.94677263,9.89375915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudr,24649,Fuhlendorf,Bast,14,,53.94690313,9.8934147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuds,24649,Fuhlendorf,Bast,16,,53.94670519,9.89324615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudt,24649,Fuhlendorf,Bast,18,,53.94687929,9.8929617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudu,24649,Fuhlendorf,Bast,2,,53.94608425,9.89441992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudv,24649,Fuhlendorf,Bast,20,,53.94709442,9.89311755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudw,24649,Fuhlendorf,Bast,22,,53.94701908,9.89244051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudx,24649,Fuhlendorf,Bast,24,,53.94729201,9.89210902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudy,24649,Fuhlendorf,Bast,26,,53.9473955,9.891755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudz,24649,Fuhlendorf,Bast,28,,53.94772481,9.89126839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue0,24649,Fuhlendorf,Eckkoppel,3,,53.94339567,9.89528393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue1,24649,Fuhlendorf,Eckkoppel,4,,53.94301659,9.89581166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue2,24649,Fuhlendorf,Eckkoppel,5,,53.94360967,9.89538922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue3,24649,Fuhlendorf,Eckkoppel,6,,53.94323076,9.89570946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue4,24649,Fuhlendorf,Eckkoppel,8,,53.94345195,9.89582035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue5,24649,Fuhlendorf,Hauptstraße,1,,53.94417206,9.89628144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue6,24649,Fuhlendorf,Hauptstraße,11,,53.94378137,9.89440011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue7,24649,Fuhlendorf,Hauptstraße,12,,53.94417811,9.89489712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue8,24649,Fuhlendorf,Hauptstraße,14,,53.94414156,9.89463811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cue9,24649,Fuhlendorf,Hauptstraße,16,,53.94415155,9.8942554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueA,24649,Fuhlendorf,Hauptstraße,57,,53.94259923,9.88233956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueB,24649,Fuhlendorf,Hauptstraße,58,,53.94332962,9.88489428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueC,24649,Fuhlendorf,Hauptstraße,59,,53.94270653,9.88170801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueD,24649,Fuhlendorf,Hauptstraße,60,,53.94334511,9.88383473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueE,24649,Fuhlendorf,Hauptstraße,61,,53.94261584,9.88139298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueF,24649,Fuhlendorf,Hauptstraße,63,,53.94265201,9.88107273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueG,24649,Fuhlendorf,Hauptstraße,65,,53.94268013,9.88080956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueH,24649,Fuhlendorf,Hauptstraße,66,,53.94301896,9.88323288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueI,24649,Fuhlendorf,Hauptstraße,68,,53.9429758,9.88280708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueJ,24649,Fuhlendorf,Hauptstraße,7,,53.94385179,9.895118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueK,24649,Fuhlendorf,Hauptstraße,70,,53.9429479,9.88247486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueL,24649,Fuhlendorf,Hauptstraße,71,,53.94270033,9.8798694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueM,24649,Fuhlendorf,Hauptstraße,72,,53.9429086,9.88225571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueN,24649,Fuhlendorf,Hauptstraße,73,,53.94276285,9.87928154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueO,24649,Fuhlendorf,Hauptstraße,75,,53.94270622,9.87890405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueP,24649,Fuhlendorf,Hauptstraße,76,,53.94307976,9.87994307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueQ,24649,Fuhlendorf,Hauptstraße,77,,53.94273966,9.87845219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueR,24649,Fuhlendorf,Hauptstraße,78,,53.9430296,9.87922781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueS,24649,Fuhlendorf,Hauptstraße,83,,53.94360211,9.87292936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueT,24649,Fuhlendorf,Hauptstraße,86,,53.94328577,9.87537732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueU,24649,Fuhlendorf,Hauptstraße,87,,53.94387208,9.86817555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueV,24649,Fuhlendorf,Hauptstraße,89,,53.94342286,9.86712895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueW,24649,Fuhlendorf,Hauptstraße,9,,53.94382689,9.89492993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueX,24649,Fuhlendorf,Im Winkel,1,,53.94500027,9.894542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueY,24649,Fuhlendorf,Im Winkel,1,a,53.94507105,9.89473065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueZ,24649,Fuhlendorf,Im Winkel,2,,53.94509446,9.89526641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuea,24649,Fuhlendorf,Hauptstraße,18,,53.94410927,9.89376031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueb,24649,Fuhlendorf,Hauptstraße,20,,53.94420555,9.89293561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuec,24649,Fuhlendorf,Hauptstraße,26,,53.9441434,9.89186683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cued,24649,Fuhlendorf,Hauptstraße,28,,53.94412303,9.89144404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuee,24649,Fuhlendorf,Hauptstraße,3,,53.94384376,9.89593267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuef,24649,Fuhlendorf,Hauptstraße,30,,53.94407268,9.89092808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueg,24649,Fuhlendorf,Hauptstraße,32,,53.94408135,9.8905992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueh,24649,Fuhlendorf,Hauptstraße,33,,53.94362766,9.88833954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuei,24649,Fuhlendorf,Hauptstraße,34,,53.94411004,9.89016784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuej,24649,Fuhlendorf,Hauptstraße,35,,53.94353865,9.88785628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuek,24649,Fuhlendorf,Hauptstraße,36,,53.94402204,9.88970419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuel,24649,Fuhlendorf,Hauptstraße,37,,53.94351893,9.88734758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuem,24649,Fuhlendorf,Hauptstraße,38,,53.94396079,9.88914177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuen,24649,Fuhlendorf,Hauptstraße,39,,53.94331783,9.88630893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueo,24649,Fuhlendorf,Hauptstraße,40,,53.94381068,9.88850974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuep,24649,Fuhlendorf,Hauptstraße,41,,53.94315599,9.88575911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueq,24649,Fuhlendorf,Hauptstraße,43,,53.94312359,9.88525165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuer,24649,Fuhlendorf,Hauptstraße,44,,53.94384561,9.88788484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cues,24649,Fuhlendorf,Hauptstraße,46,,53.94383603,9.88757113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuet,24649,Fuhlendorf,Hauptstraße,48,,53.94388291,9.88721184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cueu,24649,Fuhlendorf,Hauptstraße,5,,53.94393228,9.89546645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuev,24649,Fuhlendorf,Hauptstraße,50,,53.94363764,9.88612473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuew,24649,Fuhlendorf,Hauptstraße,51,,53.94271538,9.88361801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuex,24649,Fuhlendorf,Hauptstraße,52,,53.94346443,9.88574234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuey,24649,Fuhlendorf,Hauptstraße,53,,53.94264123,9.88322636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuez,24649,Fuhlendorf,Hauptstraße,55,,53.94252588,9.88273516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf0,24649,Fuhlendorf,Im Winkel,3,,53.9448705,9.89521653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf1,24649,Fuhlendorf,Im Winkel,4,,53.94464394,9.8950244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf2,24649,Fuhlendorf,Im Winkel,5,,53.94467007,9.89459762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf3,24649,Fuhlendorf,Kieler Straße,1,,53.93186347,9.89074564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf4,24649,Fuhlendorf,Kieler Straße,10,,53.94528817,9.89763505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf5,24649,Fuhlendorf,Kieler Straße,3,,53.94083483,9.89488091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf6,24649,Fuhlendorf,Kieler Straße,4,,53.93745778,9.89388745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf7,24649,Fuhlendorf,Kieler Straße,6,,53.94179434,9.89630071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf8,24649,Fuhlendorf,Kieler Straße,6,a,53.94153908,9.89647059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuf9,24649,Fuhlendorf,Kieler Straße,8,,53.94287542,9.89647716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufA,24649,Fuhlendorf,Wiemersdorfer Weg,23,,53.94544236,9.89339411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufB,24649,Fuhlendorf,Wiemersdorfer Weg,25,,53.94532259,9.89394382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufC,24649,Fuhlendorf,Wiemersdorfer Weg,27,,53.94553933,9.89408462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufD,24649,Fuhlendorf,Wiemersdorfer Weg,3,,53.94449993,9.89267979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufE,24649,Fuhlendorf,Wiemersdorfer Weg,4,,53.94473021,9.89400392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufF,24649,Fuhlendorf,Wiemersdorfer Weg,5,,53.94478051,9.89285515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufG,24649,Fuhlendorf,Wiemersdorfer Weg,6,,53.94485395,9.89427033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufH,24649,Fuhlendorf,Wiemersdorfer Weg,7,,53.94463398,9.8932303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufI,24649,Fuhlendorf,Wiemersdorfer Weg,8,,53.94531638,9.89461009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufJ,24649,Fuhlendorf,Wiemersdorfer Weg,9,,53.9446363,9.89344557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufa,24649,Fuhlendorf,Milchstraße,4,,53.94501679,9.88540027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufb,24649,Fuhlendorf,Osterfeld,1,,53.94363901,9.89411774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufc,24649,Fuhlendorf,Osterfeld,2,,53.94365555,9.8933392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufd,24649,Fuhlendorf,Osterfeld,5,,53.94344627,9.89455517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufe,24649,Fuhlendorf,Osterfeld,7,,53.9433864,9.89490675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuff,24649,Fuhlendorf,Osterfeld,9,,53.94269904,9.89574862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufg,24649,Fuhlendorf,Seegenweg,1,,53.94338947,9.8870239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufh,24649,Fuhlendorf,Seegenweg,10,,53.94221393,9.88681395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufi,24649,Fuhlendorf,Seegenweg,12,,53.94200567,9.88684332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufj,24649,Fuhlendorf,Seegenweg,4,,53.94287641,9.88670019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufk,24649,Fuhlendorf,Seegenweg,5,,53.94287941,9.88718452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufl,24649,Fuhlendorf,Seegenweg,6,,53.94267245,9.88679471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufm,24649,Fuhlendorf,Seegenweg,8,,53.94247938,9.88669809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufn,24649,Fuhlendorf,Wiemersdorfer Weg,1,,53.94205301,9.89109675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufo,24649,Fuhlendorf,Wiemersdorfer Weg,10,,53.94532309,9.89541285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufp,24649,Fuhlendorf,Wiemersdorfer Weg,11,,53.9448047,9.89356449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufq,24649,Fuhlendorf,Wiemersdorfer Weg,12,,53.94555747,9.89467898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufr,24649,Fuhlendorf,Wiemersdorfer Weg,13,,53.94487946,9.89306475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufs,24649,Fuhlendorf,Wiemersdorfer Weg,14,,53.94564948,9.89475246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuft,24649,Fuhlendorf,Wiemersdorfer Weg,15,,53.9451127,9.89312807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufu,24649,Fuhlendorf,Wiemersdorfer Weg,16,,53.94550635,9.89557648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufv,24649,Fuhlendorf,Wiemersdorfer Weg,17,,53.94497474,9.89369527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufw,24649,Fuhlendorf,Wiemersdorfer Weg,18,,53.94545324,9.89572777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufx,24649,Fuhlendorf,Wiemersdorfer Weg,19,,53.94514136,9.89377512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufy,24649,Fuhlendorf,Wiemersdorfer Weg,2,,53.94449477,9.89391491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cufz,24649,Fuhlendorf,Wiemersdorfer Weg,21,,53.94525881,9.89326601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MEqQ,24649,Fuhlendorf,Assbrook,12,a,53.95994059,9.89966919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RkaQ,24649,Fuhlendorf,Kieler Straße,5,,53.94576233,9.89658748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RxyG,24649,Fuhlendorf,Dorfstraße,21,a,53.95733379,9.90290439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RxyK,24649,Fuhlendorf,Dorfstraße,21,b,53.95750509,9.9031898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WgXW,24649,Fuhlendorf,Dorfstraße,25,,53.95722241,9.90358647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Zjme,24649,Fuhlendorf,Hauptstraße,22,,53.94416075,9.89255316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052cgn,24649,Fuhlendorf,Osterfeld,6,,53.94265986,9.89495878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005A7qS,24649,Fuhlendorf,Bast,7,,53.94630875,9.89333187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bumg,24649,Fuhlendorf,Fuhlendorfer Weg,5,a,53.95021627,9.89934109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ESGg,24649,Fuhlendorf,Schulweg,1,,53.96097774,9.90218619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ioun,24649,Fuhlendorf,Gärtnerstraße,10,,53.9614098,9.90767159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Iouo,24649,Fuhlendorf,Gärtnerstraße,12,,53.96133046,9.90771788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005OKvk,24649,Fuhlendorf,Osterdoor,22,,53.95541959,9.9085363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QnBe,24649,Fuhlendorf,Beverloh,2,a,53.97377381,9.88543257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SxIW,24649,Fuhlendorf,Osterfeld,10,,53.94225275,9.89516816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SxJ1,24649,Fuhlendorf,Osterfeld,8,,53.94227707,9.89507999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005necu,24649,Fuhlendorf,Stettiner Weg,3,a,53.94743491,9.89684645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005necv,24649,Fuhlendorf,Stettiner Weg,3,b,53.94753816,9.8970373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005necw,24649,Fuhlendorf,Stettiner Weg,3,c,53.94745029,9.89723219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005onlz,24649,Fuhlendorf,Hauptstraße,80,,53.94321711,9.87857699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064lP4,24649,Fuhlendorf,Dorfstraße,48,,53.95656783,9.90345211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064lP5,24649,Fuhlendorf,Dorfstraße,50,,53.95654107,9.90353476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064lP6,24649,Fuhlendorf,Dorfstraße,52,,53.95648848,9.90369671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064lP7,24649,Fuhlendorf,Dorfstraße,54,,53.95646168,9.90377916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006560r,24649,Fuhlendorf,Kieler Straße,127,a,53.9492636,9.8996013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006AJWh,24649,Fuhlendorf,Zum Hafkorn,2,,53.94513489,9.87547869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ERP3,24649,Fuhlendorf,Am Teich,3,,53.95502073,9.91214289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ERP4,24649,Fuhlendorf,Am Teich,4,,53.95511983,9.91250412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FRfA,24649,Fuhlendorf,Osterfeld,4,,53.94279145,9.89461953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FRft,24649,Fuhlendorf,Osterfeld,4,a,53.94248435,9.89431818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MO8J,24649,Fuhlendorf,Dorfstraße,27,a,53.95692194,9.90354522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MO8K,24649,Fuhlendorf,Dorfstraße,27,b,53.9568415,9.90342373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MO8L,24649,Fuhlendorf,Dorfstraße,27,c,53.9568415,9.90342373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MO8M,24649,Fuhlendorf,Dorfstraße,27,d,53.9568415,9.90342373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MO8N,24649,Fuhlendorf,Dorfstraße,27,e,53.9568415,9.90342373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MXyB,24649,Fuhlendorf,Gärtnerstraße,15,,53.9617255,9.90791605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Nu9K,24649,Fuhlendorf,Gärtnerstraße,18,,53.96165586,9.90865308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ODVb,24649,Fuhlendorf,Bahnhofstraße,31,b,53.95563001,9.91055244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ODVh,24649,Fuhlendorf,Bahnhofstraße,33,b,53.95514028,9.91168015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cuZc,24649,Fuhlendorf,Hauptstraße,13,,53.94389483,9.89374641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fA2Y,24649,Fuhlendorf,Wiemersdorfer Weg,1,a,53.9443778,9.89325978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gt0K,24649,Fuhlendorf,Kieler Straße,31,a,53.96443089,9.9050345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rZNF,24649,Fuhlendorf,Hauptstraße,24,,53.94414383,9.89225774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006udi1,24649,Fuhlendorf,Hambrook,18,,53.94918704,9.90209912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006x70w,24649,Fuhlendorf,Bahnhofstraße,31,a,53.95576943,9.91087071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zOAG,24649,Fuhlendorf,Kieler Straße,146,,53.94781943,9.89815582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713b0,24649,Fuhlendorf,Am Eichenhof,17,,53.9546718,9.90137433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713b4,24649,Fuhlendorf,Am Eichenhof,19,,53.95444534,9.90204619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713b8,24649,Fuhlendorf,Am Eichenhof,21,,53.95429565,9.90177848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713bc,24649,Fuhlendorf,Am Eichenhof,23,,53.9544131,9.90143189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713bg,24649,Fuhlendorf,Am Eichenhof,25,,53.95417254,9.90133453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000713bk,24649,Fuhlendorf,Am Eichenhof,27,,53.95414939,9.90159619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007730o,24649,Fuhlendorf,Gärtnerstraße,14,,53.96147681,9.9081339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007A8xP,24649,Fuhlendorf,Dorfstraße,6,a,53.9610887,9.90339771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007AWfj,24649,Fuhlendorf,Poststraße,12,a,53.95920919,9.90323859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ccos,24649,Fuhlendorf,Achtern Hoff,4,,53.95766059,9.90717647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007E9zc,24649,Fuhlendorf,Kieler Straße,134,,53.94889021,9.89852659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HpOr,24649,Fuhlendorf,Beverlohweg,1,,53.96579118,9.89520875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Mxtq,24649,Fuhlendorf,Osterkamp,1,,53.95419666,9.91200076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P0Cm,24649,Fuhlendorf,Gärtnerstraße,17,,53.9618873,9.90794014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PPwF,24649,Fuhlendorf,Am Eichenhof,15,a,53.95535456,9.9025928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PcCg,24649,Fuhlendorf,Gärtnerstraße,23,,53.96203958,9.90866813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SfYx,24649,Fuhlendorf,Dorfstraße,36,a,53.95771166,9.90059151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Vc7e,24649,Fuhlendorf,Assbrook,31,,53.95952282,9.89436565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Vv1p,24649,Fuhlendorf,Dorfstraße,28,,53.95856057,9.9012768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WEOG,24649,Fuhlendorf,Gärtnerstraße,7,,53.96154561,9.90673474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gon7,24649,Fuhlendorf,Kieler Straße,78,,53.95620988,9.90382035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007krKE,24649,Fuhlendorf,Gärtnerstraße,25,,53.9621111,9.90890361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007s3Nw,24649,Fuhlendorf,Dorfstraße,15,a,53.95813551,9.90177916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007s3Nx,24649,Fuhlendorf,Neue Dorfstraße,11,,53.95837423,9.90188859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zANP,24649,Fuhlendorf,Bahnhofstraße,1,b,53.95763508,9.90636933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zxt6,24649,Fuhlendorf,Gärtnerstraße,21,,53.96181093,9.90843104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080rrH,24649,Fuhlendorf,Gärtnerstraße,9,,53.96154545,9.90704435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083BrN,24649,Fuhlendorf,Fuhlendorfer Weg,29,b,53.9476198,9.89743586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Blep,24649,Fuhlendorf,Großenasper Weg,24,,53.95671608,9.93769677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EHdW,24649,Fuhlendorf,Gärtnerstraße,22,,53.96177953,9.90915468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Evir,24649,Fuhlendorf,Gärtnerstraße,13,a,53.96180009,9.90754818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Eviu,24649,Fuhlendorf,Gärtnerstraße,13,,53.96177546,9.90743697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f85l,24649,Fuhlendorf,Gärtnerstraße,20,,53.96168791,9.90887491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f85p,24649,Fuhlendorf,Gärtnerstraße,20,a,53.9617086,9.9089558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iAJJ,24649,Fuhlendorf,Gärtnerstraße,16,,53.96154795,9.90838217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iJN6,24649,Fuhlendorf,Gärtnerstraße,11,,53.96170953,9.90722957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008snMT,24649,Fuhlendorf,Gärtnerstraße,3,,53.9612978,9.90598157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yoHD,24649,Fuhlendorf,Gärtnerstraße,5,,53.96142597,9.90618646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zRrb,24649,Fuhlendorf,Mittelweg,2,a,53.95637471,9.90681019

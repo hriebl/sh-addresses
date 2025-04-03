@@ -1,0 +1,845 @@
+# Amtliche Adressen für die Postleitzahl 23826
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjO,23826,Fredesdorf,Am Dorfkrug,1,,53.89096599,10.17518988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjP,23826,Fredesdorf,Am Dorfkrug,10,,53.89089428,10.17478437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjQ,23826,Fredesdorf,Am Dorfkrug,12,,53.89066793,10.17485472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjR,23826,Fredesdorf,Am Dorfkrug,14,,53.89043411,10.17484017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjS,23826,Fredesdorf,Am Dorfkrug,2,,53.89142841,10.17465778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjT,23826,Fredesdorf,Am Dorfkrug,3,,53.89072011,10.17529631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjU,23826,Fredesdorf,Am Dorfkrug,4,,53.89136183,10.17502506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjV,23826,Fredesdorf,Am Dorfkrug,5,,53.89049609,10.17540794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjW,23826,Fredesdorf,Am Dorfkrug,6,,53.89109929,10.17491554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjX,23826,Fredesdorf,Am Dorfkrug,7,,53.89046709,10.17513927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjY,23826,Fredesdorf,Am Dorfkrug,8,,53.89117194,10.17469016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIjZ,23826,Fredesdorf,Am Dorfplatz,14,,53.89566952,10.17670833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk0,23826,Fredesdorf,Am Dorfplatz,2,,53.89563833,10.17777288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk1,23826,Fredesdorf,Am Dorfplatz,2,a,53.8960132,10.17824061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk2,23826,Fredesdorf,Am Dorfplatz,2,b,53.89601344,10.17833037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk3,23826,Fredesdorf,Am Dorfplatz,4,,53.89593303,10.17783357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk4,23826,Fredesdorf,Am Dorfplatz,6,,53.89634461,10.1779805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk5,23826,Fredesdorf,Am Dorfplatz,8,,53.89591694,10.17720897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk6,23826,Fredesdorf,Am Sportplatz,1,,53.89983149,10.18407814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk7,23826,Fredesdorf,Am Sportplatz,2,,53.8991478,10.18378138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk8,23826,Fredesdorf,Am Sportplatz,3,,53.90003572,10.18470579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIk9,23826,Fredesdorf,An der Eiche,1,,53.89541205,10.17885968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkA,23826,Fredesdorf,Dorfstraße,28,a,53.89512197,10.1759795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkB,23826,Fredesdorf,Dorfstraße,29,,53.89492435,10.17766406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkC,23826,Fredesdorf,Dorfstraße,29,b,53.8949559,10.17796952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkD,23826,Fredesdorf,Dorfstraße,3,,53.89713497,10.18209735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkE,23826,Fredesdorf,Dorfstraße,30,,53.89502582,10.17638542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkF,23826,Fredesdorf,Dorfstraße,31,,53.89487049,10.17701933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkG,23826,Fredesdorf,Dorfstraße,32,,53.89476585,10.17593717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkH,23826,Fredesdorf,Dorfstraße,32,a,53.89441649,10.1754915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkI,23826,Fredesdorf,Dorfstraße,33,,53.89438837,10.17676996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkJ,23826,Fredesdorf,Dorfstraße,34,,53.8930694,10.17564064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkK,23826,Fredesdorf,Dorfstraße,35,,53.8940587,10.17661301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkL,23826,Fredesdorf,Dorfstraße,36,,53.89277522,10.1761891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkM,23826,Fredesdorf,Dorfstraße,36,a,53.89272107,10.17538805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkN,23826,Fredesdorf,Dorfstraße,36,b,53.8927047,10.17500131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkO,23826,Fredesdorf,Dorfstraße,37,,53.89382621,10.17652464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkP,23826,Fredesdorf,Dorfstraße,38,,53.89245739,10.17613367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkQ,23826,Fredesdorf,Dorfstraße,38,a,53.8922926,10.17618126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkR,23826,Fredesdorf,Dorfstraße,39,,53.89360256,10.17666213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkS,23826,Fredesdorf,Dorfstraße,40,,53.89196948,10.17600555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkT,23826,Fredesdorf,Dorfstraße,42,,53.89202923,10.17459766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkU,23826,Fredesdorf,Dorfstraße,43,,53.89323715,10.17648633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkV,23826,Fredesdorf,Dorfstraße,45,,53.89291844,10.17670441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkW,23826,Fredesdorf,Dorfstraße,46,,53.89261796,10.17450303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkX,23826,Fredesdorf,Dorfstraße,46,a,53.89275774,10.17441049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkY,23826,Fredesdorf,Dorfstraße,46,b,53.89266291,10.17392402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkZ,23826,Fredesdorf,Dorfstraße,46,c,53.89255085,10.17387435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIka,23826,Fredesdorf,An der Eiche,11,,53.89480007,10.1786073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkb,23826,Fredesdorf,An der Eiche,3,,53.89522329,10.1789816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkc,23826,Fredesdorf,An der Eiche,5,,53.89507264,10.17917126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkd,23826,Fredesdorf,An der Eiche,7,,53.8948878,10.17934265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIke,23826,Fredesdorf,An der Eiche,9,,53.89483489,10.17890573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkf,23826,Fredesdorf,Dorfstraße,1,,53.89746607,10.18244632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkg,23826,Fredesdorf,Dorfstraße,10,,53.89740787,10.18191411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkh,23826,Fredesdorf,Dorfstraße,11,,53.89567946,10.17953112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIki,23826,Fredesdorf,Dorfstraße,12,,53.8972293,10.18172892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkj,23826,Fredesdorf,Dorfstraße,12,a,53.89734657,10.1815312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkk,23826,Fredesdorf,Dorfstraße,13,,53.89560149,10.17914969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkl,23826,Fredesdorf,Dorfstraße,14,,53.89704091,10.18155476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkm,23826,Fredesdorf,Dorfstraße,15,,53.89538108,10.17940296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkn,23826,Fredesdorf,Dorfstraße,16,,53.89681994,10.18134669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIko,23826,Fredesdorf,Dorfstraße,17,,53.89516314,10.17965835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkp,23826,Fredesdorf,Dorfstraße,18,,53.89646621,10.18084021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkq,23826,Fredesdorf,Dorfstraße,19,,53.89500444,10.17973944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkr,23826,Fredesdorf,Dorfstraße,2,,53.89923196,10.1831809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIks,23826,Fredesdorf,Dorfstraße,2,a,53.89928142,10.18276167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkt,23826,Fredesdorf,Dorfstraße,20,,53.89616768,10.18001338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIku,23826,Fredesdorf,Dorfstraße,22,,53.89603382,10.17961437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkv,23826,Fredesdorf,Dorfstraße,24,,53.89580372,10.17900998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkw,23826,Fredesdorf,Dorfstraße,25,,53.89533035,10.17803938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkx,23826,Fredesdorf,Dorfstraße,26,,53.89566206,10.17829037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIky,23826,Fredesdorf,Dorfstraße,27,,53.89533035,10.17803938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIkz,23826,Fredesdorf,Dorfstraße,28,,53.8951236,10.17584153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl0,23826,Fredesdorf,Dorfstraße,47,,53.8925386,10.17675219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl1,23826,Fredesdorf,Dorfstraße,48,,53.89209098,10.17418093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl2,23826,Fredesdorf,Dorfstraße,49,,53.89255743,10.17752266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl3,23826,Fredesdorf,Dorfstraße,5,,53.8969467,10.18190123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl4,23826,Fredesdorf,Dorfstraße,50,,53.89212347,10.17368906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl5,23826,Fredesdorf,Dorfstraße,51,,53.89231683,10.17677717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl6,23826,Fredesdorf,Dorfstraße,52,,53.8921307,10.17306377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl7,23826,Fredesdorf,Dorfstraße,53,,53.89196603,10.1780012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl8,23826,Fredesdorf,Dorfstraße,54,,53.89216853,10.17233198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIl9,23826,Fredesdorf,Dorfstraße,55,,53.89196016,10.17715311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlA,23826,Fredesdorf,Fredesdorfer Straße,4,,53.89084117,10.17658225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlB,23826,Fredesdorf,Fredesdorfer Straße,5,,53.8902569,10.17732685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlC,23826,Fredesdorf,Friedrichshöh,1,,53.89177538,10.17350285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlD,23826,Fredesdorf,Friedrichshöh,10,,53.89026555,10.17386146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlE,23826,Fredesdorf,Friedrichshöh,11,,53.89086596,10.1738703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlF,23826,Fredesdorf,Friedrichshöh,12,,53.89006169,10.1741236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlG,23826,Fredesdorf,Friedrichshöh,13,,53.89071109,10.17392165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlH,23826,Fredesdorf,Friedrichshöh,14,,53.88983257,10.17439767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlI,23826,Fredesdorf,Friedrichshöh,15,,53.89055209,10.1740982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlJ,23826,Fredesdorf,Friedrichshöh,15,a,53.89054839,10.17438405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlK,23826,Fredesdorf,Friedrichshöh,16,,53.88962058,10.17469593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlL,23826,Fredesdorf,Friedrichshöh,17,,53.890351,10.17431766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlM,23826,Fredesdorf,Friedrichshöh,18,,53.88938799,10.17488113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlN,23826,Fredesdorf,Friedrichshöh,19,,53.89008634,10.17458103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlO,23826,Fredesdorf,Friedrichshöh,2,,53.89138106,10.17324031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlP,23826,Fredesdorf,Friedrichshöh,20,,53.88928502,10.17423884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlQ,23826,Fredesdorf,Friedrichshöh,21,,53.88987771,10.17485028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlR,23826,Fredesdorf,Friedrichshöh,22,,53.88916742,10.17378612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlS,23826,Fredesdorf,Friedrichshöh,23,,53.88962444,10.17514221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlT,23826,Fredesdorf,Friedrichshöh,25,,53.88939091,10.17538388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlU,23826,Fredesdorf,Friedrichshöh,27,,53.88913068,10.1756276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlV,23826,Fredesdorf,Friedrichshöh,29,,53.88907094,10.1750617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlW,23826,Fredesdorf,Friedrichshöh,3,,53.89145025,10.17370154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlX,23826,Fredesdorf,Friedrichshöh,31,,53.88900052,10.17466062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlY,23826,Fredesdorf,Friedrichshöh,33,,53.88893929,10.17423336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlZ,23826,Fredesdorf,Friedrichshöh,35,,53.88881087,10.17397222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIla,23826,Fredesdorf,Dorfstraße,56,,53.89206409,10.17191093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlb,23826,Fredesdorf,Dorfstraße,57,,53.89196692,10.17667672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlc,23826,Fredesdorf,Dorfstraße,58,,53.89194965,10.17150799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIld,23826,Fredesdorf,Dorfstraße,59,,53.89169789,10.17617974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIle,23826,Fredesdorf,Dorfstraße,6,,53.89867637,10.18270954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlf,23826,Fredesdorf,Dorfstraße,60,,53.89194681,10.1712765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlh,23826,Fredesdorf,Dorfstraße,62,,53.89192928,10.17103148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIli,23826,Fredesdorf,Dorfstraße,63,,53.89170887,10.17497873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlj,23826,Fredesdorf,Dorfstraße,64,,53.89190855,10.17065805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlk,23826,Fredesdorf,Dorfstraße,65,,53.89178634,10.17449291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIll,23826,Fredesdorf,Dorfstraße,65,a,53.89173246,10.17421201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlm,23826,Fredesdorf,Dorfstraße,66,,53.89186576,10.17004219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIln,23826,Fredesdorf,Dorfstraße,67,,53.89185467,10.17375189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlo,23826,Fredesdorf,Dorfstraße,68,,53.8918301,10.16939244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlp,23826,Fredesdorf,Dorfstraße,69,,53.89191002,10.17292282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlq,23826,Fredesdorf,Dorfstraße,7,,53.89676179,10.18171704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlr,23826,Fredesdorf,Dorfstraße,7,a,53.89667859,10.1816692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIls,23826,Fredesdorf,Dorfstraße,71,,53.89176983,10.17260369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlt,23826,Fredesdorf,Dorfstraße,73,,53.89173822,10.17215606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlu,23826,Fredesdorf,Dorfstraße,8,,53.89787016,10.18238293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlv,23826,Fredesdorf,Dorfstraße,9,,53.89646717,10.18135598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlw,23826,Fredesdorf,Fredesdorfer Straße,1,,53.8912073,10.17679347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlx,23826,Fredesdorf,Fredesdorfer Straße,2,,53.89116081,10.17637455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIly,23826,Fredesdorf,Fredesdorfer Straße,2,a,53.89096206,10.17642494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIlz,23826,Fredesdorf,Fredesdorfer Straße,3,,53.89158128,10.17736881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm0,23826,Fredesdorf,Friedrichshöh,4,,53.89109622,10.17337051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm1,23826,Fredesdorf,Friedrichshöh,5,,53.89132135,10.17374414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm2,23826,Fredesdorf,Friedrichshöh,6,,53.89078948,10.17350257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm3,23826,Fredesdorf,Friedrichshöh,7,,53.89115488,10.17361042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm4,23826,Fredesdorf,Friedrichshöh,8,,53.89048407,10.17366236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm5,23826,Fredesdorf,Friedrichshöh,9,,53.89102643,10.17381508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm6,23826,Fredesdorf,Hörn,1,,53.89544578,10.17552487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm7,23826,Fredesdorf,Hörn,1,a,53.89549243,10.17532389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm8,23826,Fredesdorf,Hörn,1,b,53.89537626,10.17517298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIm9,23826,Fredesdorf,Hörn,1,c,53.89531855,10.17513263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImA,23826,Fredesdorf,Mühlenstraße,2,,53.89450018,10.17440342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImB,23826,Fredesdorf,Poggensaal,1,,53.8909693,10.16566555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImC,23826,Fredesdorf,Poggensaal,2,,53.89154939,10.16510448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImD,23826,Fredesdorf,Poggensaal,4,,53.89145115,10.1645504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImE,23826,Fredesdorf,Schützenstraße,1,,53.89682798,10.18077286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImF,23826,Fredesdorf,Schützenstraße,10,,53.89789592,10.18189661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImG,23826,Fredesdorf,Schützenstraße,10,a,53.89807574,10.1808965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImH,23826,Fredesdorf,Schützenstraße,11,,53.89820791,10.18042795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImI,23826,Fredesdorf,Schützenstraße,12,,53.89823534,10.18085936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImJ,23826,Fredesdorf,Schützenstraße,2,,53.89708804,10.18111556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImK,23826,Fredesdorf,Schützenstraße,3,,53.89704764,10.18071647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImL,23826,Fredesdorf,Schützenstraße,4,,53.89729312,10.18109235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImM,23826,Fredesdorf,Schützenstraße,5,,53.89738444,10.18063843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImN,23826,Fredesdorf,Schützenstraße,6,,53.89750161,10.18101612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImO,23826,Fredesdorf,Schützenstraße,6,a,53.89767973,10.18134713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImP,23826,Fredesdorf,Schützenstraße,7,a,53.89769036,10.18059336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImQ,23826,Fredesdorf,Schützenstraße,7,b,53.89760754,10.18002441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImR,23826,Fredesdorf,Schützenstraße,8,,53.89780365,10.18090007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImS,23826,Fredesdorf,Schützenstraße,9,,53.8979485,10.18059572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImT,23826,Fredesdorf,Siedlungsstraße,1,,53.89787086,10.18295391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImU,23826,Fredesdorf,Siedlungsstraße,10,,53.89511067,10.18427308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImV,23826,Fredesdorf,Siedlungsstraße,11,,53.89696351,10.18411107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImW,23826,Fredesdorf,Siedlungsstraße,12,,53.89492209,10.18425008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImX,23826,Fredesdorf,Siedlungsstraße,13,,53.8967045,10.18428995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImY,23826,Fredesdorf,Siedlungsstraße,13,a,53.89675715,10.18424932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImZ,23826,Fredesdorf,Siedlungsstraße,14,,53.89475729,10.18440262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIma,23826,Fredesdorf,Hörn,10,,53.89713426,10.17358427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImb,23826,Fredesdorf,Hörn,11,,53.89637504,10.17377357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImc,23826,Fredesdorf,Hörn,13,,53.89667365,10.17365839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImd,23826,Fredesdorf,Hörn,15,,53.89695798,10.17336236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIme,23826,Fredesdorf,Hörn,17,,53.89714977,10.17312575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImf,23826,Fredesdorf,Hörn,2,,53.89546902,10.17627249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImg,23826,Fredesdorf,Hörn,2,a,53.89566116,10.1753773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImh,23826,Fredesdorf,Hörn,3,,53.89550318,10.17481984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImi,23826,Fredesdorf,Hörn,4,,53.89590447,10.17442491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImj,23826,Fredesdorf,Hörn,5,,53.89547626,10.17422052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImk,23826,Fredesdorf,Hörn,6,,53.89620161,10.17412743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIml,23826,Fredesdorf,Hörn,6,a,53.89636096,10.17410641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImm,23826,Fredesdorf,Hörn,7,,53.89524628,10.17420879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImn,23826,Fredesdorf,Hörn,8,,53.89662611,10.17414433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImo,23826,Fredesdorf,Hörn,8,a,53.89694175,10.17386032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImp,23826,Fredesdorf,Meiereistraße,1,,53.89381742,10.17574824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImq,23826,Fredesdorf,Meiereistraße,2,,53.8940206,10.1756046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImr,23826,Fredesdorf,Meiereistraße,3,,53.89367179,10.17428875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIms,23826,Fredesdorf,Meiereistraße,4,,53.89395221,10.17493371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImt,23826,Fredesdorf,Meiereistraße,5,,53.89365736,10.17410695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImu,23826,Fredesdorf,Meiereistraße,6,,53.89393778,10.1741823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImv,23826,Fredesdorf,Meiereistraße,7,,53.89363331,10.17378393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImw,23826,Fredesdorf,Meiereistraße,8,,53.8938929,10.17356216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImx,23826,Fredesdorf,Meiereistraße,9,,53.89363568,10.17366251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImy,23826,Fredesdorf,Mühlenstraße,1,,53.8945373,10.17389555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cImz,23826,Fredesdorf,Mühlenstraße,1,a,53.89465055,10.17389068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn0,23826,Fredesdorf,Siedlungsstraße,14,a,53.89462037,10.18443403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn1,23826,Fredesdorf,Siedlungsstraße,14,b,53.89446785,10.18448844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn2,23826,Fredesdorf,Siedlungsstraße,15,,53.89650239,10.18432615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn3,23826,Fredesdorf,Siedlungsstraße,16,,53.89438768,10.18396287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn4,23826,Fredesdorf,Siedlungsstraße,17,,53.89626822,10.18430425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn5,23826,Fredesdorf,Siedlungsstraße,18,,53.89435482,10.18360036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn6,23826,Fredesdorf,Siedlungsstraße,19,,53.8959064,10.18457509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn7,23826,Fredesdorf,Siedlungsstraße,2,,53.89725087,10.18341688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn8,23826,Fredesdorf,Siedlungsstraße,2,a,53.89698409,10.18364017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIn9,23826,Fredesdorf,Siedlungsstraße,2,b,53.89679773,10.18364946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInA,23826,Fredesdorf,Siedlungsstraße,36,a,53.89397245,10.17881279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInB,23826,Fredesdorf,Siedlungsstraße,36,b,53.89394935,10.17848491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInC,23826,Fredesdorf,Siedlungsstraße,37,,53.89417549,10.18454584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInD,23826,Fredesdorf,Siedlungsstraße,38,,53.89367571,10.17861448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInE,23826,Fredesdorf,Siedlungsstraße,39,,53.89418474,10.18428211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInF,23826,Fredesdorf,Siedlungsstraße,4,,53.89587016,10.18395243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInG,23826,Fredesdorf,Siedlungsstraße,4,a,53.89580691,10.18399033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInH,23826,Fredesdorf,Siedlungsstraße,41,,53.89414644,10.18399779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInI,23826,Fredesdorf,Siedlungsstraße,43,,53.89410822,10.18362294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInJ,23826,Fredesdorf,Siedlungsstraße,45,,53.89407522,10.18326711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInK,23826,Fredesdorf,Siedlungsstraße,47,,53.89405191,10.18291074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInL,23826,Fredesdorf,Siedlungsstraße,47,a,53.89401111,10.1826952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInM,23826,Fredesdorf,Siedlungsstraße,47,b,53.8940018,10.18258554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInN,23826,Fredesdorf,Siedlungsstraße,49,,53.89397968,10.1823328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInO,23826,Fredesdorf,Siedlungsstraße,5,,53.89749178,10.18342811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInP,23826,Fredesdorf,Siedlungsstraße,51,,53.89394587,10.18194457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInQ,23826,Fredesdorf,Siedlungsstraße,53,,53.89390723,10.18160781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInR,23826,Fredesdorf,Siedlungsstraße,55,,53.89384411,10.18136071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInS,23826,Fredesdorf,Siedlungsstraße,57,,53.89387621,10.18102233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInT,23826,Fredesdorf,Siedlungsstraße,59,,53.89384096,10.18065909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInU,23826,Fredesdorf,Siedlungsstraße,6,,53.89563379,10.18407369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInV,23826,Fredesdorf,Siedlungsstraße,61,,53.89379788,10.18026529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInW,23826,Fredesdorf,Siedlungsstraße,61,a,53.89367658,10.18001328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInX,23826,Fredesdorf,Siedlungsstraße,63,,53.89375437,10.17964534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInY,23826,Fredesdorf,Siedlungsstraße,63,a,53.8937351,10.17932507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInZ,23826,Fredesdorf,Siedlungsstraße,65,,53.89357295,10.17897061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIna,23826,Fredesdorf,Siedlungsstraße,2,d,53.89656803,10.18374454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInb,23826,Fredesdorf,Siedlungsstraße,2,e,53.89643227,10.18384832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInc,23826,Fredesdorf,Siedlungsstraße,2,f,53.89620675,10.18379831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInd,23826,Fredesdorf,Siedlungsstraße,2,g,53.89605136,10.18395846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIne,23826,Fredesdorf,Siedlungsstraße,20,,53.89431135,10.18307071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInf,23826,Fredesdorf,Siedlungsstraße,20,a,53.89429706,10.18294354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIng,23826,Fredesdorf,Siedlungsstraße,21,,53.89569246,10.18484484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInh,23826,Fredesdorf,Siedlungsstraße,22,,53.89424964,10.18247475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIni,23826,Fredesdorf,Siedlungsstraße,23,,53.89551339,10.184598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInj,23826,Fredesdorf,Siedlungsstraße,24,,53.89421118,10.18204237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInk,23826,Fredesdorf,Siedlungsstraße,25,,53.89533285,10.18466173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInl,23826,Fredesdorf,Siedlungsstraße,26,,53.89420092,10.18168949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInm,23826,Fredesdorf,Siedlungsstraße,27,,53.89510421,10.18490329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInn,23826,Fredesdorf,Siedlungsstraße,28,,53.89417118,10.18135402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIno,23826,Fredesdorf,Siedlungsstraße,29,,53.89481164,10.18511161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInp,23826,Fredesdorf,Siedlungsstraße,3,,53.897659,10.18330019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInq,23826,Fredesdorf,Siedlungsstraße,30,,53.89413247,10.18105479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInr,23826,Fredesdorf,Siedlungsstraße,30,a,53.89405301,10.18048671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIns,23826,Fredesdorf,Siedlungsstraße,31,,53.89463752,10.18490926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInt,23826,Fredesdorf,Siedlungsstraße,32,,53.89402691,10.18005866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInu,23826,Fredesdorf,Siedlungsstraße,33,,53.89449434,10.18521495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInv,23826,Fredesdorf,Siedlungsstraße,34,,53.89398834,10.17967711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInw,23826,Fredesdorf,Siedlungsstraße,35,,53.8942463,10.18512694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInx,23826,Fredesdorf,Siedlungsstraße,35,a,53.89394595,10.18517712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIny,23826,Fredesdorf,Siedlungsstraße,35,b,53.89383489,10.18547345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cInz,23826,Fredesdorf,Siedlungsstraße,36,,53.89393657,10.17918351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo0,23826,Fredesdorf,Siedlungsstraße,67,,53.89328661,10.17818821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo1,23826,Fredesdorf,Siedlungsstraße,67,a,53.89334158,10.1785926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo2,23826,Fredesdorf,Siedlungsstraße,7,,53.89737915,10.18376405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo3,23826,Fredesdorf,Siedlungsstraße,8,,53.89543303,10.18416611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo4,23826,Fredesdorf,Siedlungsstraße,9,,53.89712943,10.18406591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo5,23826,Fredesdorf,Am Beeck,1,,53.88427119,10.10893429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo6,23826,Fredesdorf,Am Beeck,2,,53.88466266,10.10951606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo7,23826,Fredesdorf,Am Beeck,2,a,53.88535216,10.1088155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo8,23826,Fredesdorf,Am Beeck,3,,53.88476309,10.1087647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIo9,23826,Fredesdorf,Am Beeck,3,a,53.88916808,10.10776362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoA,23826,Fredesdorf,Gartenstraße,1,,53.89640183,10.18307906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoB,23826,Fredesdorf,Gartenstraße,10,,53.89631821,10.18258679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoC,23826,Fredesdorf,Gartenstraße,12,,53.89611644,10.1825398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoD,23826,Fredesdorf,Gartenstraße,14,,53.89592901,10.18259082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoE,23826,Fredesdorf,Gartenstraße,16,,53.89574498,10.18268845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoF,23826,Fredesdorf,Gartenstraße,2,,53.89670328,10.1831023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoG,23826,Fredesdorf,Gartenstraße,3,,53.8961567,10.18318705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoH,23826,Fredesdorf,Gartenstraße,4,,53.89692365,10.18298366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoI,23826,Fredesdorf,Gartenstraße,5,,53.89607523,10.1829841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoJ,23826,Fredesdorf,Gartenstraße,6,,53.89662721,10.18278984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoK,23826,Fredesdorf,Gartenstraße,7,,53.89587794,10.18319677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoL,23826,Fredesdorf,Gartenstraße,8,,53.89655349,10.18252592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoM,23826,Fredesdorf,Vossbarg,1,,53.89621744,10.18608903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoN,23826,Fredesdorf,Vossbarg,10,,53.89536634,10.18570519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoO,23826,Fredesdorf,Vossbarg,11,,53.89521814,10.18653032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoP,23826,Fredesdorf,Vossbarg,12,,53.89511671,10.18571506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoQ,23826,Fredesdorf,Vossbarg,14,,53.89523555,10.18614585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoR,23826,Fredesdorf,Vossbarg,4,,53.8959027,10.18552734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoS,23826,Fredesdorf,Vossbarg,6,,53.8956891,10.18559918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoT,23826,Fredesdorf,Vossbarg,9,,53.89544618,10.18639202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoa,23826,Fredesdorf,Am Beeck,3,b,53.88958028,10.10749044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIob,23826,Fredesdorf,Am Beeck,4,,53.88706392,10.10843272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoc,23826,Fredesdorf,Am Beeck,5,,53.88991017,10.10684281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIod,23826,Fredesdorf,Am Beeck,6,,53.88742664,10.10830173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoe,23826,Fredesdorf,Am Beeck,7,,53.88939105,10.10691075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIof,23826,Fredesdorf,Am Beeck,8,,53.88975252,10.10808518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIog,23826,Fredesdorf,Am Beeck,8,a,53.88940014,10.1082323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoh,23826,Fredesdorf,Poststraße,1,,53.88804077,10.12808568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoi,23826,Fredesdorf,Poststraße,2,,53.88408559,10.12689545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoj,23826,Fredesdorf,Poststraße,3,,53.88859958,10.12813228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIok,23826,Fredesdorf,Poststraße,4,,53.8867497,10.1294661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIol,23826,Fredesdorf,Poststraße,5,,53.88886882,10.12804066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIom,23826,Fredesdorf,Poststraße,6,,53.8880947,10.12856049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIon,23826,Fredesdorf,Poststraße,7,,53.89070824,10.12510929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoo,23826,Fredesdorf,Todesfelder Straße,1,,53.88739859,10.14395765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIop,23826,Fredesdorf,Todesfelder Straße,10,,53.88354112,10.11632599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoq,23826,Fredesdorf,Todesfelder Straße,2,,53.88459467,10.13247871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIor,23826,Fredesdorf,Todesfelder Straße,2,a,53.88464678,10.13199329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIos,23826,Fredesdorf,Todesfelder Straße,3,,53.88330956,10.12362767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIot,23826,Fredesdorf,Todesfelder Straße,3,a,53.88329471,10.12428479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIou,23826,Fredesdorf,Todesfelder Straße,4,,53.88402328,10.12610216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIov,23826,Fredesdorf,Todesfelder Straße,5,,53.88318237,10.11995063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIow,23826,Fredesdorf,Todesfelder Straße,6,,53.88399288,10.12550896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIox,23826,Fredesdorf,Todesfelder Straße,7,,53.88301426,10.11624018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoy,23826,Fredesdorf,Todesfelder Straße,8,,53.88372656,10.11921456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIoz,23826,Fredesdorf,Todesfelder Straße,9,,53.88335291,10.1124963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA0,23826,Fredesdorf,Finkenweg,5,,53.9180258,10.14582947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA1,23826,Fredesdorf,Finkenweg,6,,53.9175054,10.14541801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA2,23826,Fredesdorf,Finkenweg,6,a,53.91721041,10.14569537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA3,23826,Fredesdorf,Finkenweg,8,,53.91754096,10.14620717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA4,23826,Fredesdorf,Kiefernweg,1,,53.91975171,10.14278773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA5,23826,Fredesdorf,Kiefernweg,10,,53.91935206,10.14241939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA6,23826,Fredesdorf,Kiefernweg,2,,53.91990667,10.14131871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA7,23826,Fredesdorf,Kiefernweg,2,a,53.91974189,10.14147304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA8,23826,Fredesdorf,Kiefernweg,3,,53.91978658,10.1432677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csA9,23826,Fredesdorf,Kiefernweg,4,,53.91958279,10.14166023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAa,23826,Fredesdorf,Kiefernweg,6,,53.91951539,10.14205551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAb,23826,Fredesdorf,Kiefernweg,8,,53.91957084,10.14241109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAc,23826,Fredesdorf,Kiefernweg,8,a,53.91955405,10.14261156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAd,23826,Fredesdorf,Moorweg,1,,53.91852695,10.13187297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAe,23826,Fredesdorf,Moorweg,2,,53.91845667,10.1314692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAf,23826,Fredesdorf,Moorweg,4,,53.91825517,10.13148283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAg,23826,Fredesdorf,Moorweg,5,,53.91827065,10.13189959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAh,23826,Fredesdorf,Moorweg,6,,53.91799841,10.13143211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAi,23826,Fredesdorf,Moorweg,6,a,53.9179002,10.1313953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAj,23826,Fredesdorf,Moorweg,7,,53.91813679,10.13208798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csAk,23826,Fredesdorf,Moorweg,9,,53.91824786,10.13279892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv1,23826,Fredesdorf,Birkenweg,1,,53.91186517,10.17083036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv2,23826,Fredesdorf,Birkenweg,10,,53.9119769,10.16901304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv3,23826,Fredesdorf,Birkenweg,11,,53.91163856,10.16902226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv4,23826,Fredesdorf,Birkenweg,12,,53.91190391,10.16853291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv5,23826,Fredesdorf,Birkenweg,13,,53.91167182,10.16872634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv6,23826,Fredesdorf,Birkenweg,15,,53.91155833,10.16827474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv7,23826,Fredesdorf,Birkenweg,16,,53.9117521,10.16784007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv8,23826,Fredesdorf,Birkenweg,17,,53.91149537,10.1679728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csv9,23826,Fredesdorf,Birkenweg,18,,53.91164286,10.16741401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvA,23826,Fredesdorf,Dorfstraße,2,,53.91064352,10.18458152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvB,23826,Fredesdorf,Dorfstraße,21,,53.91091315,10.17872822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvC,23826,Fredesdorf,Dorfstraße,21,a,53.91080199,10.17885025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvD,23826,Fredesdorf,Dorfstraße,22,,53.91119586,10.17950265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvE,23826,Fredesdorf,Dorfstraße,23,,53.91100999,10.17812711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvF,23826,Fredesdorf,Dorfstraße,24,,53.9111929,10.17908737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvG,23826,Fredesdorf,Dorfstraße,25,,53.91095672,10.17742527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvH,23826,Fredesdorf,Dorfstraße,26,,53.91129323,10.1788048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvI,23826,Fredesdorf,Dorfstraße,28,,53.91135701,10.17833856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvJ,23826,Fredesdorf,Dorfstraße,3,,53.91046746,10.18308092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvK,23826,Fredesdorf,Dorfstraße,30,,53.91145575,10.17780057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvL,23826,Fredesdorf,Dorfstraße,32,,53.91155177,10.17733313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvM,23826,Fredesdorf,Dorfstraße,33,,53.91162143,10.17583539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvN,23826,Fredesdorf,Dorfstraße,34,,53.91166488,10.17688984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvO,23826,Fredesdorf,Dorfstraße,37,,53.91176991,10.17501403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvP,23826,Fredesdorf,Dorfstraße,39,,53.91206902,10.17393065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvQ,23826,Fredesdorf,Dorfstraße,4,,53.91075194,10.18407059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvR,23826,Fredesdorf,Dorfstraße,40,,53.91202007,10.17583153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvS,23826,Fredesdorf,Dorfstraße,41,,53.91206118,10.17340696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvT,23826,Fredesdorf,Dorfstraße,42,,53.91218549,10.175407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvU,23826,Fredesdorf,Dorfstraße,43,,53.91202911,10.17280425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvV,23826,Fredesdorf,Dorfstraße,44,,53.91238448,10.17475657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvW,23826,Fredesdorf,Dorfstraße,45,,53.91202164,10.17238549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvX,23826,Fredesdorf,Dorfstraße,46,,53.91247551,10.17417665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvY,23826,Fredesdorf,Dorfstraße,47,,53.91195924,10.1721131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvZ,23826,Fredesdorf,Dorfstraße,48,,53.91240689,10.17383871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csva,23826,Fredesdorf,Birkenweg,19,,53.91143131,10.16765196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvb,23826,Fredesdorf,Birkenweg,2,,53.91215648,10.1701779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvc,23826,Fredesdorf,Birkenweg,20,,53.91150302,10.16689316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvd,23826,Fredesdorf,Birkenweg,21,,53.91133056,10.16731079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csve,23826,Fredesdorf,Birkenweg,22,,53.91137321,10.1663898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvf,23826,Fredesdorf,Birkenweg,23,,53.9111728,10.16686302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvg,23826,Fredesdorf,Birkenweg,25,,53.91099777,10.16626095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvh,23826,Fredesdorf,Birkenweg,3,,53.91183706,10.17039133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvi,23826,Fredesdorf,Birkenweg,30,,53.89388314,10.11217256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvj,23826,Fredesdorf,Birkenweg,4,,53.91217719,10.16988198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvk,23826,Fredesdorf,Birkenweg,5,,53.91179825,10.17003104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvl,23826,Fredesdorf,Birkenweg,6,,53.91210303,10.16955707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvm,23826,Fredesdorf,Birkenweg,7,,53.91171467,10.16970313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvn,23826,Fredesdorf,Birkenweg,8,,53.91245265,10.16929218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvo,23826,Fredesdorf,Birkenweg,9,,53.91169257,10.16941033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvp,23826,Fredesdorf,Dorfstraße,1,,53.91036848,10.18450542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvq,23826,Fredesdorf,Dorfstraße,10,,53.91080176,10.18305582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvr,23826,Fredesdorf,Dorfstraße,11,,53.91049399,10.18141785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvs,23826,Fredesdorf,Dorfstraße,12,,53.91076442,10.18274261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvt,23826,Fredesdorf,Dorfstraße,13,,53.91056666,10.18100165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvu,23826,Fredesdorf,Dorfstraße,14,,53.91078848,10.18242418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvv,23826,Fredesdorf,Dorfstraße,15,,53.91071654,10.18025777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvw,23826,Fredesdorf,Dorfstraße,16,,53.91081986,10.18172083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvx,23826,Fredesdorf,Dorfstraße,17,,53.9108302,10.17955193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvy,23826,Fredesdorf,Dorfstraße,18,,53.91082688,10.18127476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csvz,23826,Fredesdorf,Dorfstraße,19,,53.91080348,10.17918543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw0,23826,Fredesdorf,Dorfstraße,49,,53.91190133,10.17177201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw1,23826,Fredesdorf,Dorfstraße,5,,53.91042205,10.18261859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw2,23826,Fredesdorf,Dorfstraße,51,,53.91192716,10.17139694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw3,23826,Fredesdorf,Dorfstraße,52,,53.91237113,10.1721925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw4,23826,Fredesdorf,Dorfstraße,53,,53.91185776,10.17105381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw5,23826,Fredesdorf,Dorfstraße,54,,53.91237703,10.17181712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw6,23826,Fredesdorf,Dorfstraße,56,,53.91234884,10.17156275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw7,23826,Fredesdorf,Dorfstraße,58,,53.91233301,10.17130705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw8,23826,Fredesdorf,Dorfstraße,7,,53.91042096,10.18222309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csw9,23826,Fredesdorf,Dorfstraße,8,,53.91078117,10.1832703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswA,23826,Fredesdorf,Segeberger Straße,16,a,53.91064855,10.1854614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswB,23826,Fredesdorf,Segeberger Straße,16,b,53.9107155,10.18540109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswC,23826,Fredesdorf,Segeberger Straße,16,c,53.91083401,10.18529431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswD,23826,Fredesdorf,Segeberger Straße,17,,53.91091076,10.18693645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswE,23826,Fredesdorf,Segeberger Straße,17,a,53.91092203,10.18748502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswF,23826,Fredesdorf,Segeberger Straße,18,,53.91052999,10.18490497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswG,23826,Fredesdorf,Segeberger Straße,19,a,53.91035253,10.18670628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswH,23826,Fredesdorf,Segeberger Straße,2,,53.9127177,10.19051121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswI,23826,Fredesdorf,Segeberger Straße,2,a,53.91254246,10.19010448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswK,23826,Fredesdorf,Segeberger Straße,20,,53.90994051,10.18448852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswL,23826,Fredesdorf,Segeberger Straße,21,,53.91052574,10.18598464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswM,23826,Fredesdorf,Segeberger Straße,21,a,53.91027077,10.18640387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswN,23826,Fredesdorf,Segeberger Straße,23,,53.91017035,10.18525632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswO,23826,Fredesdorf,Segeberger Straße,24,,53.90946549,10.18430392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswP,23826,Fredesdorf,Segeberger Straße,26,,53.90898643,10.18439776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswQ,23826,Fredesdorf,Segeberger Straße,27,,53.90986438,10.18542588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswR,23826,Fredesdorf,Segeberger Straße,28,,53.90888525,10.18435278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswS,23826,Fredesdorf,Segeberger Straße,29,,53.90944803,10.18549942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswT,23826,Fredesdorf,Segeberger Straße,3,,53.91249388,10.19077725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswU,23826,Fredesdorf,Segeberger Straße,30,,53.90847432,10.18439812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswV,23826,Fredesdorf,Segeberger Straße,31,a,53.90897642,10.18592654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswW,23826,Fredesdorf,Segeberger Straße,32,,53.90822504,10.18436896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswX,23826,Fredesdorf,Segeberger Straße,33,,53.90938953,10.18488791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswY,23826,Fredesdorf,Segeberger Straße,33,a,53.90901271,10.18472321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswZ,23826,Fredesdorf,Segeberger Straße,34,,53.90800949,10.18423672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswa,23826,Fredesdorf,Dorfstraße,9,,53.91050659,10.18189178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswb,23826,Fredesdorf,Fasanenweg,1,,53.91493773,10.17077939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswc,23826,Fredesdorf,Fasanenweg,2,,53.91480463,10.17095609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswd,23826,Fredesdorf,Fasanenweg,3,,53.91499087,10.17097035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswe,23826,Fredesdorf,Fasanenweg,3,a,53.91513945,10.17104561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswf,23826,Fredesdorf,Fasanenweg,4,,53.91486645,10.17143857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswg,23826,Fredesdorf,Fasanenweg,5,,53.91510493,10.17146135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswh,23826,Fredesdorf,Fasanenweg,6,,53.91495269,10.1719807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswi,23826,Fredesdorf,Fasanenweg,6,a,53.91470909,10.17209716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswj,23826,Fredesdorf,Fasanenweg,7,,53.91516253,10.17161082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswk,23826,Fredesdorf,Fasanenweg,9,,53.91551959,10.17228322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswl,23826,Fredesdorf,Lunden,1,,53.91466209,10.17523881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswm,23826,Fredesdorf,Segeberger Straße,1,,53.91261339,10.19148603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswn,23826,Fredesdorf,Segeberger Straße,10,,53.91149004,10.18750643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswo,23826,Fredesdorf,Segeberger Straße,10,a,53.91142315,10.18733736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswp,23826,Fredesdorf,Segeberger Straße,10,b,53.91142315,10.18733736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswq,23826,Fredesdorf,Segeberger Straße,10,c,53.91142315,10.18733736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswr,23826,Fredesdorf,Segeberger Straße,10,d,53.91142315,10.18733736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csws,23826,Fredesdorf,Segeberger Straße,11,,53.91185129,10.18904865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswt,23826,Fredesdorf,Segeberger Straße,12,,53.91119199,10.1867496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswu,23826,Fredesdorf,Segeberger Straße,12,a,53.91110035,10.18651475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswv,23826,Fredesdorf,Segeberger Straße,13,,53.91166805,10.1886163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csww,23826,Fredesdorf,Segeberger Straße,14,,53.91099977,10.18625553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswx,23826,Fredesdorf,Segeberger Straße,14,a,53.91086179,10.18588896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswy,23826,Fredesdorf,Segeberger Straße,15,,53.91131961,10.18775924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cswz,23826,Fredesdorf,Segeberger Straße,16,,53.91057992,10.18539426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx0,23826,Fredesdorf,Segeberger Straße,35,,53.90872457,10.18480645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx1,23826,Fredesdorf,Segeberger Straße,37,,53.90801086,10.18496245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx2,23826,Fredesdorf,Segeberger Straße,4,,53.9124189,10.18980672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx4,23826,Fredesdorf,Segeberger Straße,5,,53.9123078,10.19044208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx5,23826,Fredesdorf,Segeberger Straße,7,,53.91221345,10.19001472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx7,23826,Fredesdorf,Segeberger Straße,8,a,53.91196279,10.18862586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx8,23826,Fredesdorf,Segeberger Straße,9,,53.91189823,10.18951349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csx9,23826,Fredesdorf,Schafhauser Weg,1,,53.91228423,10.17062222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxA,23826,Fredesdorf,Schafhauser Landstraße,15,,53.920297,10.17075834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxB,23826,Fredesdorf,Schafhauser Landstraße,16,,53.92049571,10.16905835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxC,23826,Fredesdorf,Schafhauser Landstraße,17,,53.92006487,10.1670385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxE,23826,Fredesdorf,Schafhauser Landstraße,19,,53.91971186,10.1601059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxF,23826,Fredesdorf,Schafhauser Landstraße,3,,53.92114937,10.18059493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxG,23826,Fredesdorf,Schafhauser Landstraße,4,,53.92121642,10.17366042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxH,23826,Fredesdorf,Schafhauser Landstraße,5,,53.92114208,10.18047319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxI,23826,Fredesdorf,Schafhauser Landstraße,6,,53.92061114,10.17231396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxJ,23826,Fredesdorf,Schafhauser Landstraße,7,,53.92096237,10.17863533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxK,23826,Fredesdorf,Schafhauser Landstraße,7,a,53.92075795,10.1783148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxL,23826,Fredesdorf,Schafhauser Landstraße,8,,53.92057424,10.17131592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxM,23826,Fredesdorf,Schafhauser Landstraße,9,,53.92091336,10.17779763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxN,23826,Fredesdorf,Am Schillersberg,1,,53.91893951,10.13879103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxO,23826,Fredesdorf,Am Schillersberg,10,,53.91871452,10.13862667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxP,23826,Fredesdorf,Am Schillersberg,11,,53.91792851,10.14147338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxQ,23826,Fredesdorf,Am Schillersberg,11,a,53.91807243,10.14209718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxR,23826,Fredesdorf,Am Schillersberg,13,,53.91778493,10.14191271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxS,23826,Fredesdorf,Am Schillersberg,15,,53.91782227,10.1422963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxT,23826,Fredesdorf,Am Schillersberg,15,a,53.91758574,10.14243505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxU,23826,Fredesdorf,Am Schillersberg,17,,53.9176273,10.14275266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxV,23826,Fredesdorf,Am Schillersberg,19,,53.91744125,10.14281846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxW,23826,Fredesdorf,Am Schillersberg,2,,53.91902751,10.13738579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxX,23826,Fredesdorf,Am Schillersberg,21,,53.91735206,10.14305873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxY,23826,Fredesdorf,Am Schillersberg,25,,53.91727581,10.14339621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxZ,23826,Fredesdorf,Am Schillersberg,27,,53.91718318,10.14392715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxa,23826,Fredesdorf,Schafhauser Weg,11,,53.91367782,10.17017363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxb,23826,Fredesdorf,Schafhauser Weg,13,,53.91384642,10.17014585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxc,23826,Fredesdorf,Schafhauser Weg,15,,53.91401963,10.17011332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxd,23826,Fredesdorf,Schafhauser Weg,16,,53.91434127,10.17063058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxe,23826,Fredesdorf,Schafhauser Weg,17,,53.91420001,10.17008797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxf,23826,Fredesdorf,Schafhauser Weg,18,,53.9146044,10.17053162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxg,23826,Fredesdorf,Schafhauser Weg,19,,53.91435224,10.17008416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxh,23826,Fredesdorf,Schafhauser Weg,2,,53.91248436,10.17106736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxi,23826,Fredesdorf,Schafhauser Weg,21,,53.91461566,10.16994955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxj,23826,Fredesdorf,Schafhauser Weg,23,,53.91494671,10.16994682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxk,23826,Fredesdorf,Schafhauser Weg,25,,53.91505102,10.17005732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxl,23826,Fredesdorf,Schafhauser Weg,27,,53.91983109,10.17185156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxm,23826,Fredesdorf,Schafhauser Weg,3,,53.91257382,10.17053491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxn,23826,Fredesdorf,Schafhauser Weg,3,a,53.91255798,10.16994973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxo,23826,Fredesdorf,Schafhauser Weg,4,,53.9126342,10.17104378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxp,23826,Fredesdorf,Schafhauser Weg,5,,53.91292181,10.17051179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxq,23826,Fredesdorf,Schafhauser Weg,7,,53.91324935,10.170394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxr,23826,Fredesdorf,Schafhauser Weg,9,,53.91350881,10.17020677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxs,23826,Fredesdorf,Zum Hochmoor,2,,53.91298611,10.17003549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxt,23826,Fredesdorf,Schafhauser Landstraße,1,,53.92116997,10.18131477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxu,23826,Fredesdorf,Schafhauser Landstraße,10,,53.920703,10.17081567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxv,23826,Fredesdorf,Schafhauser Landstraße,11,,53.92099372,10.17712809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxw,23826,Fredesdorf,Schafhauser Landstraße,12,,53.92171463,10.1713209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxx,23826,Fredesdorf,Schafhauser Landstraße,13,,53.92020702,10.17649743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxy,23826,Fredesdorf,Schafhauser Landstraße,13,a,53.92059564,10.17649004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csxz,23826,Fredesdorf,Schafhauser Landstraße,14,,53.92080215,10.1700193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy0,23826,Fredesdorf,Am Schillersberg,29,,53.91691172,10.14441921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy1,23826,Fredesdorf,Am Schillersberg,3,,53.91867261,10.13969695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy2,23826,Fredesdorf,Am Schillersberg,3,a,53.91883634,10.1396007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy3,23826,Fredesdorf,Am Schillersberg,31,,53.91686595,10.14503668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy4,23826,Fredesdorf,Am Schillersberg,4,,53.91896101,10.13774926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy5,23826,Fredesdorf,Am Schillersberg,5,,53.91848947,10.13990619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy6,23826,Fredesdorf,Am Schillersberg,5,a,53.9187211,10.14033244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy7,23826,Fredesdorf,Am Schillersberg,6,,53.91884215,10.1380769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy8,23826,Fredesdorf,Am Schillersberg,7,,53.91830763,10.14041948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csy9,23826,Fredesdorf,Am Schillersberg,7,a,53.9185779,10.14081027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyA,23826,Fredesdorf,Bockhorner Landstraße,24,a,53.91983973,10.13685219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyB,23826,Fredesdorf,Bockhorner Landstraße,27,,53.91965327,10.13938632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyC,23826,Fredesdorf,Bockhorner Landstraße,28,,53.91972891,10.13597712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyD,23826,Fredesdorf,Bockhorner Landstraße,28,a,53.91932754,10.1360449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyE,23826,Fredesdorf,Bockhorner Landstraße,29,,53.91954236,10.1387519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyF,23826,Fredesdorf,Bockhorner Landstraße,3,,53.92080452,10.14724346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyG,23826,Fredesdorf,Bockhorner Landstraße,30,,53.91931827,10.13556807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyH,23826,Fredesdorf,Bockhorner Landstraße,31,,53.91943987,10.13828068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyI,23826,Fredesdorf,Bockhorner Landstraße,32,,53.91927434,10.13429191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyJ,23826,Fredesdorf,Bockhorner Landstraße,34,,53.919169,10.13333584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyK,23826,Fredesdorf,Bockhorner Landstraße,35,,53.91887107,10.13641785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyL,23826,Fredesdorf,Bockhorner Landstraße,36,,53.91899976,10.13290508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyM,23826,Fredesdorf,Bockhorner Landstraße,37,,53.91902134,10.13577939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyN,23826,Fredesdorf,Bockhorner Landstraße,37,a,53.91858903,10.13568803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyO,23826,Fredesdorf,Bockhorner Landstraße,38,,53.91907749,10.13196144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyP,23826,Fredesdorf,Bockhorner Landstraße,39,,53.91883231,10.13524475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyQ,23826,Fredesdorf,Bockhorner Landstraße,40,,53.91896936,10.1311358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyR,23826,Fredesdorf,Bockhorner Landstraße,41,a,53.9188516,10.13470865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyS,23826,Fredesdorf,Bockhorner Landstraße,41,b,53.91854262,10.13463854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyT,23826,Fredesdorf,Bockhorner Landstraße,42,,53.91896603,10.13017622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyU,23826,Fredesdorf,Bockhorner Landstraße,43,,53.91876246,10.13427618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyV,23826,Fredesdorf,Bockhorner Landstraße,44,,53.9189624,10.12985887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyW,23826,Fredesdorf,Bockhorner Landstraße,46,,53.91900168,10.12954111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyX,23826,Fredesdorf,Bockhorner Landstraße,48,,53.91913289,10.12918301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyY,23826,Fredesdorf,Bockhorner Landstraße,5,,53.92053404,10.14667459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyZ,23826,Fredesdorf,Bockhorner Landstraße,5,a,53.92066836,10.14622587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csya,23826,Fredesdorf,Am Schillersberg,8,,53.9187136,10.13837986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyb,23826,Fredesdorf,Am Schillersberg,9,,53.91816896,10.14081057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyc,23826,Fredesdorf,Am Schillersberg,9,a,53.91829877,10.14153513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyd,23826,Fredesdorf,Bockhorner Landstraße,1,,53.92084213,10.14760729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csye,23826,Fredesdorf,Bockhorner Landstraße,10,,53.92028498,10.14064255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyf,23826,Fredesdorf,Bockhorner Landstraße,10,a,53.92038834,10.14136054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyg,23826,Fredesdorf,Bockhorner Landstraße,10,b,53.92037869,10.14088009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyh,23826,Fredesdorf,Bockhorner Landstraße,11,,53.92057862,10.14468753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyi,23826,Fredesdorf,Bockhorner Landstraße,12,,53.92021179,10.14051168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyj,23826,Fredesdorf,Bockhorner Landstraße,13,,53.92032305,10.1443243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyk,23826,Fredesdorf,Bockhorner Landstraße,13,a,53.92034481,10.14386997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyl,23826,Fredesdorf,Bockhorner Landstraße,14,,53.920045,10.13965052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csym,23826,Fredesdorf,Bockhorner Landstraße,15,,53.92038113,10.14322849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyn,23826,Fredesdorf,Bockhorner Landstraße,15,a,53.92030799,10.14271293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyo,23826,Fredesdorf,Bockhorner Landstraße,16,,53.91989265,10.13894722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyp,23826,Fredesdorf,Bockhorner Landstraße,17,,53.92024115,10.14209048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyq,23826,Fredesdorf,Bockhorner Landstraße,18,,53.91987431,10.13842698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyr,23826,Fredesdorf,Bockhorner Landstraße,18,a,53.91980261,10.13815368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csys,23826,Fredesdorf,Bockhorner Landstraße,19,,53.92000751,10.14089887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyt,23826,Fredesdorf,Bockhorner Landstraße,20,,53.91973768,10.13789898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyu,23826,Fredesdorf,Bockhorner Landstraße,20,a,53.91966221,10.13760357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyv,23826,Fredesdorf,Bockhorner Landstraße,21,,53.91994175,10.1403242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyw,23826,Fredesdorf,Bockhorner Landstraße,21,a,53.91968291,10.14054172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyx,23826,Fredesdorf,Bockhorner Landstraße,22,,53.91987936,10.13722852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyy,23826,Fredesdorf,Bockhorner Landstraße,23,,53.91968632,10.13993377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csyz,23826,Fredesdorf,Bockhorner Landstraße,24,,53.91948907,10.13691609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz0,23826,Fredesdorf,Bockhorner Landstraße,50,,53.9190969,10.12894462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz1,23826,Fredesdorf,Bockhorner Landstraße,51,,53.91864951,10.13305396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz2,23826,Fredesdorf,Bockhorner Landstraße,51,a,53.91830635,10.13318028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz3,23826,Fredesdorf,Bockhorner Landstraße,52,,53.91892973,10.12866756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz4,23826,Fredesdorf,Bockhorner Landstraße,53,,53.91863032,10.13269555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz5,23826,Fredesdorf,Bockhorner Landstraße,54,,53.91911361,10.12776802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz6,23826,Fredesdorf,Bockhorner Landstraße,55,,53.91861669,10.1323031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz7,23826,Fredesdorf,Bockhorner Landstraße,56,,53.919114,10.12782845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz8,23826,Fredesdorf,Bockhorner Landstraße,57,,53.91864591,10.13115034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csz9,23826,Fredesdorf,Bockhorner Landstraße,58,,53.91890813,10.12679551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszA,23826,Fredesdorf,Drosselweg,16,,53.91814688,10.14311563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszB,23826,Fredesdorf,Drosselweg,17,,53.91839215,10.14360685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszC,23826,Fredesdorf,Drosselweg,18,,53.9179491,10.14335283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszD,23826,Fredesdorf,Drosselweg,19,,53.91826623,10.14381497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszE,23826,Fredesdorf,Drosselweg,2,,53.91894123,10.13997942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszF,23826,Fredesdorf,Drosselweg,2,a,53.9190942,10.14032894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszH,23826,Fredesdorf,Drosselweg,21,,53.91813144,10.14420326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszI,23826,Fredesdorf,Drosselweg,22,,53.91765885,10.14451521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszJ,23826,Fredesdorf,Drosselweg,23,,53.91802803,10.14449196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszK,23826,Fredesdorf,Drosselweg,25,,53.91792124,10.14487542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszL,23826,Fredesdorf,Drosselweg,25,a,53.91816673,10.14511183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszM,23826,Fredesdorf,Drosselweg,3,,53.9193407,10.14061524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszN,23826,Fredesdorf,Drosselweg,3,a,53.91943768,10.14092214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszO,23826,Fredesdorf,Drosselweg,4,,53.91893176,10.1409299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszP,23826,Fredesdorf,Drosselweg,5,,53.91913914,10.14138422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszQ,23826,Fredesdorf,Drosselweg,6,,53.91879597,10.14133944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszR,23826,Fredesdorf,Drosselweg,7,,53.91902297,10.1416529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszS,23826,Fredesdorf,Drosselweg,8,,53.91865608,10.14170223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszT,23826,Fredesdorf,Drosselweg,9,,53.91901139,10.14201627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszU,23826,Fredesdorf,Finkenweg,1,,53.91785866,10.14525019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszV,23826,Fredesdorf,Finkenweg,1,a,53.91736129,10.1444161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszW,23826,Fredesdorf,Finkenweg,10,,53.91769781,10.14664646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszX,23826,Fredesdorf,Finkenweg,12,,53.91809112,10.14654192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszY,23826,Fredesdorf,Finkenweg,3,,53.91784445,10.14541913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszZ,23826,Fredesdorf,Finkenweg,4,,53.91741002,10.14496266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csza,23826,Fredesdorf,Bockhorner Landstraße,59,,53.91853328,10.13069103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszb,23826,Fredesdorf,Bockhorner Landstraße,59,a,53.91850374,10.13042005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszc,23826,Fredesdorf,Bockhorner Landstraße,59,b,53.91851501,10.13007565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszd,23826,Fredesdorf,Bockhorner Landstraße,6,,53.92076807,10.14294765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001csze,23826,Fredesdorf,Bockhorner Landstraße,60,,53.91907205,10.12644265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszf,23826,Fredesdorf,Bockhorner Landstraße,61,,53.91824129,10.12970731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszg,23826,Fredesdorf,Bockhorner Landstraße,62,,53.91997284,10.12559083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszh,23826,Fredesdorf,Bockhorner Landstraße,63,,53.91835562,10.12906087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszi,23826,Fredesdorf,Bockhorner Landstraße,63,a,53.91831314,10.12781226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszj,23826,Fredesdorf,Bockhorner Landstraße,64,,53.92076211,10.09290792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszk,23826,Fredesdorf,Bockhorner Landstraße,65,,53.91842223,10.12657746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszl,23826,Fredesdorf,Bockhorner Landstraße,69,,53.91808343,10.12529539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszm,23826,Fredesdorf,Bockhorner Landstraße,7,b,53.9206346,10.14583175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszn,23826,Fredesdorf,Bockhorner Landstraße,8,,53.92050189,10.14210647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszo,23826,Fredesdorf,Bockhorner Landstraße,8,a,53.92059099,10.14168184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszp,23826,Fredesdorf,Bockhorner Landstraße,9,,53.9206332,10.1452245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszq,23826,Fredesdorf,Bockhorner Landstraße,9,a,53.92034145,10.14500063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszr,23826,Fredesdorf,Bockhorner Landstraße,9,b,53.9203357,10.1448925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszs,23826,Fredesdorf,Bockhorner Landstraße,9,c,53.92032914,10.14467453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszt,23826,Fredesdorf,Drosselweg,1,,53.91930619,10.13967075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszu,23826,Fredesdorf,Drosselweg,10,,53.91847833,10.1420966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszv,23826,Fredesdorf,Drosselweg,11,,53.91884145,10.14220757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszw,23826,Fredesdorf,Drosselweg,12,,53.91836992,10.14229972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszx,23826,Fredesdorf,Drosselweg,13,,53.91864355,10.14286457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszy,23826,Fredesdorf,Drosselweg,14,,53.91826371,10.14278784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cszz,23826,Fredesdorf,Drosselweg,15,,53.91844322,10.14331683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubA,23826,Fredesdorf,Bergstraße,4,,53.8751716,10.19638653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubB,23826,Fredesdorf,Bergstraße,6,,53.87502325,10.19613058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubC,23826,Fredesdorf,Bergstraße,6,a,53.87521107,10.19593824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubD,23826,Fredesdorf,Christian-Rohlfs-Straße,1,,53.87650667,10.19740802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubE,23826,Fredesdorf,Christian-Rohlfs-Straße,2,b,53.87650938,10.19650822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubF,23826,Fredesdorf,Christian-Rohlfs-Straße,2,c,53.87639357,10.19625188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubG,23826,Fredesdorf,Christian-Rohlfs-Straße,2,d,53.8763778,10.19575854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubH,23826,Fredesdorf,Christian-Rohlfs-Straße,2,f,53.87613202,10.19555816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubI,23826,Fredesdorf,Christian-Rohlfs-Straße,3,,53.87628112,10.19717935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubJ,23826,Fredesdorf,Christian-Rohlfs-Straße,4,,53.87601796,10.19525905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubK,23826,Fredesdorf,Christian-Rohlfs-Straße,5,,53.87628581,10.19661772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubL,23826,Fredesdorf,Christian-Rohlfs-Straße,6,,53.87594598,10.19498658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubM,23826,Fredesdorf,Christian-Rohlfs-Straße,7,,53.87586244,10.19574489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubN,23826,Fredesdorf,Christian-Rohlfs-Straße,8,,53.8758375,10.19452489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubO,23826,Fredesdorf,Christian-Rohlfs-Straße,9,,53.87574263,10.19547221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubP,23826,Fredesdorf,Dorfstraße,1,,53.87519614,10.20421689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubQ,23826,Fredesdorf,Dorfstraße,1,a,53.87532261,10.20443643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubR,23826,Fredesdorf,Dorfstraße,10,,53.87340773,10.2014031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubS,23826,Fredesdorf,Dorfstraße,11,,53.87362648,10.20217752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubT,23826,Fredesdorf,Dorfstraße,12,,53.87320628,10.20118271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubU,23826,Fredesdorf,Dorfstraße,13,,53.87334943,10.20193918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubV,23826,Fredesdorf,Dorfstraße,14,,53.87305344,10.20103071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubW,23826,Fredesdorf,Dorfstraße,15,,53.87300663,10.20147707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubX,23826,Fredesdorf,Dorfstraße,16,b,53.87270183,10.20016848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubY,23826,Fredesdorf,Dorfstraße,16,c,53.87250539,10.20063055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubZ,23826,Fredesdorf,Dorfstraße,17,,53.87264432,10.20156368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubo,23826,Fredesdorf,Am Dorfplatz,2,,53.87556164,10.20362373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubp,23826,Fredesdorf,Am Dorfplatz,2,a,53.87542749,10.20385991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubq,23826,Fredesdorf,Am Dorfplatz,4,,53.87560155,10.20324783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubr,23826,Fredesdorf,Am Dorfplatz,4,a,53.87574878,10.20334512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubs,23826,Fredesdorf,Am Dorfplatz,6,,53.87564152,10.20276651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubt,23826,Fredesdorf,Am Dorfplatz,6,a,53.87572168,10.20209231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubu,23826,Fredesdorf,Am Dorfplatz,6,b,53.8755977,10.20193182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubv,23826,Fredesdorf,Am Dorfplatz,8,,53.8754153,10.20242208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubw,23826,Fredesdorf,Bergstraße,1,,53.87604022,10.1970411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubx,23826,Fredesdorf,Bergstraße,11,,53.87474489,10.19585296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuby,23826,Fredesdorf,Bergstraße,2,,53.87555663,10.19656494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cubz,23826,Fredesdorf,Bergstraße,3,,53.87580186,10.19693149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc0,23826,Fredesdorf,Dorfstraße,18,,53.87215049,10.20016162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc1,23826,Fredesdorf,Dorfstraße,19,,53.87243307,10.20126182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc2,23826,Fredesdorf,Dorfstraße,2,,53.87571664,10.20480334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc3,23826,Fredesdorf,Dorfstraße,20,,53.87228243,10.19987972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc4,23826,Fredesdorf,Dorfstraße,21,,53.87229969,10.20104641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc5,23826,Fredesdorf,Dorfstraße,23,,53.8720673,10.20086409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc6,23826,Fredesdorf,Dorfstraße,25,,53.87186417,10.20072941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc7,23826,Fredesdorf,Dorfstraße,3,,53.87433486,10.2042212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc8,23826,Fredesdorf,Dorfstraße,4,,53.87541048,10.20425977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuc9,23826,Fredesdorf,Dorfstraße,4,a,53.87434348,10.20248415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucA,23826,Fredesdorf,Hauptstraße,26,,53.87685814,10.1982168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucB,23826,Fredesdorf,Hauptstraße,27,,53.87648832,10.19788961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucC,23826,Fredesdorf,Hauptstraße,28,,53.87679272,10.19786351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucD,23826,Fredesdorf,Hauptstraße,29,,53.87692521,10.19677031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucE,23826,Fredesdorf,Hauptstraße,3,,53.87477886,10.20515195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucF,23826,Fredesdorf,Hauptstraße,30,,53.87709935,10.19810517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucG,23826,Fredesdorf,Hauptstraße,34,,53.87706488,10.19708806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucH,23826,Fredesdorf,Hauptstraße,4,,53.87504409,10.20472762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucI,23826,Fredesdorf,Hauptstraße,6,,53.87572973,10.20168538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucJ,23826,Fredesdorf,Hauptstraße,7,,53.87506001,10.20204761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucK,23826,Fredesdorf,Hauptstraße,8,,53.87596812,10.20131775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucL,23826,Fredesdorf,Hauptstraße,9,,53.87534737,10.20159462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucM,23826,Fredesdorf,Schulstraße,8,,53.87466722,10.20285387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucN,23826,Fredesdorf,Voßlohredder,1,,53.87683017,10.19984934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucO,23826,Fredesdorf,Voßlohredder,1,a,53.8765916,10.20007509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucP,23826,Fredesdorf,Voßlohredder,1,b,53.87664721,10.20002118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucQ,23826,Fredesdorf,Voßlohredder,10,,53.87739212,10.20057754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucR,23826,Fredesdorf,Voßlohredder,11,,53.87726315,10.19847805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucS,23826,Fredesdorf,Voßlohredder,12,,53.8774463,10.20084988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucT,23826,Fredesdorf,Voßlohredder,12,a,53.87748918,10.20097115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucU,23826,Fredesdorf,Voßlohredder,13,,53.87738055,10.19828843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucV,23826,Fredesdorf,Voßlohredder,14,,53.87757777,10.20138653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucW,23826,Fredesdorf,Voßlohredder,15,,53.87754939,10.19848931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucX,23826,Fredesdorf,Voßlohredder,16,,53.87771438,10.20176958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucY,23826,Fredesdorf,Voßlohredder,17,,53.87779709,10.19874069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucZ,23826,Fredesdorf,Voßlohredder,18,,53.87782944,10.20213471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuca,23826,Fredesdorf,Dorfstraße,5,,53.87456472,10.20364169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucb,23826,Fredesdorf,Dorfstraße,6,,53.87409251,10.20231212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucc,23826,Fredesdorf,Dorfstraße,7,,53.87420382,10.20346262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucd,23826,Fredesdorf,Dorfstraße,8,,53.87378289,10.2019997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuce,23826,Fredesdorf,Dorfstraße,8,a,53.87371291,10.2017106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucf,23826,Fredesdorf,Dorfstraße,8,b,53.87403458,10.20139546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucg,23826,Fredesdorf,Dorfstraße,9,,53.87371055,10.20247735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuch,23826,Fredesdorf,Hauptstraße,1,a,53.87448519,10.20608837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuci,23826,Fredesdorf,Hauptstraße,1,b,53.87459428,10.20589784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucj,23826,Fredesdorf,Hauptstraße,1,c,53.87461883,10.20567504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuck,23826,Fredesdorf,Hauptstraße,1,d,53.87465803,10.20540517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucl,23826,Fredesdorf,Hauptstraße,10,,53.87605209,10.20176853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucm,23826,Fredesdorf,Hauptstraße,11,,53.8757343,10.20101902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucn,23826,Fredesdorf,Hauptstraße,12,,53.87617461,10.2003846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuco,23826,Fredesdorf,Hauptstraße,14,,53.87627062,10.20004854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucp,23826,Fredesdorf,Hauptstraße,16,,53.87631941,10.19952689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucq,23826,Fredesdorf,Hauptstraße,18,,53.87653961,10.19916303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucr,23826,Fredesdorf,Hauptstraße,2,,53.87470896,10.20645675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucs,23826,Fredesdorf,Hauptstraße,20,,53.87670664,10.19903287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuct,23826,Fredesdorf,Hauptstraße,21,,53.8761523,10.19911803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucu,23826,Fredesdorf,Hauptstraße,22,,53.87664838,10.19867847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucv,23826,Fredesdorf,Hauptstraße,23,,53.87622936,10.19863999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucw,23826,Fredesdorf,Hauptstraße,24,,53.87673118,10.19845052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucx,23826,Fredesdorf,Hauptstraße,25,,53.87623052,10.1982366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucy,23826,Fredesdorf,Hauptstraße,25,a,53.87625528,10.19812851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cucz,23826,Fredesdorf,Hauptstraße,25,b,53.87627778,10.19802381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud0,23826,Fredesdorf,Voßlohredder,19,,53.87763601,10.19892115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud1,23826,Fredesdorf,Voßlohredder,19,a,53.87778709,10.19928103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud2,23826,Fredesdorf,Voßlohredder,19,b,53.87796593,10.19904025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud3,23826,Fredesdorf,Voßlohredder,2,,53.87629133,10.20075695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud4,23826,Fredesdorf,Voßlohredder,2,a,53.87653316,10.20056317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud5,23826,Fredesdorf,Voßlohredder,21,,53.87736283,10.19970947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud6,23826,Fredesdorf,Voßlohredder,23,,53.87746098,10.19995417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud7,23826,Fredesdorf,Voßlohredder,25,,53.87756049,10.20023716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud8,23826,Fredesdorf,Voßlohredder,27,,53.87761717,10.20049214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cud9,23826,Fredesdorf,Voßlohredder,29,,53.87770421,10.2007746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cuda,23826,Fredesdorf,Voßlohredder,3,,53.87696149,10.19968472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudb,23826,Fredesdorf,Voßlohredder,31,,53.87773727,10.20089707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudc,23826,Fredesdorf,Voßlohredder,33,,53.87788314,10.20114319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudd,23826,Fredesdorf,Voßlohredder,35,,53.87796188,10.20142591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cude,23826,Fredesdorf,Voßlohredder,35,a,53.87802494,10.20134684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudf,23826,Fredesdorf,Voßlohredder,37,,53.87803702,10.20170618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudg,23826,Fredesdorf,Voßlohredder,39,,53.87812595,10.20196595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudh,23826,Fredesdorf,Voßlohredder,4,,53.87669607,10.20033814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudi,23826,Fredesdorf,Voßlohredder,5,,53.87710207,10.19947757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudj,23826,Fredesdorf,Voßlohredder,6,,53.87685309,10.20018766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudk,23826,Fredesdorf,Voßlohredder,7,,53.87723388,10.19932825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudl,23826,Fredesdorf,Voßlohredder,8,,53.87711603,10.19994243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudm,23826,Fredesdorf,Voßlohredder,8,a,53.87731001,10.20031076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cudn,23826,Fredesdorf,Voßlohredder,9,,53.87734823,10.19902184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003JyA2,23826,Fredesdorf,Am Dorfplatz,4,b,53.8760212,10.20296358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003Jyw1,23826,Fredesdorf,Bockhorner Landstraße,3,b,53.92037545,10.14724252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003Jyw7,23826,Fredesdorf,Bockhorner Landstraße,3,a,53.92038058,10.14733992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00051Gjz,23826,Fredesdorf,Fasanenweg,8,,53.91510637,10.17245931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059pbu,23826,Fredesdorf,Bockhorner Landstraße,3,c,53.92031152,10.14693348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Cdje,23826,Fredesdorf,Friedrichshöh,6,a,53.89066236,10.17357626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CmnK,23826,Fredesdorf,Dorfstraße,50,c,53.91233055,10.1725383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CmnP,23826,Fredesdorf,Dorfstraße,50,b,53.91243493,10.17280346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CmnU,23826,Fredesdorf,Dorfstraße,50,a,53.91242908,10.17307146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Cmo0,23826,Fredesdorf,Dorfstraße,50,,53.91239062,10.17342542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D05v,23826,Fredesdorf,Inge-Kröger-Weg,1,,53.91252406,10.18917033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D05w,23826,Fredesdorf,Inge-Kröger-Weg,1,a,53.91263331,10.18921366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D05x,23826,Fredesdorf,Inge-Kröger-Weg,1,b,53.91261885,10.18920793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D05y,23826,Fredesdorf,Inge-Kröger-Weg,1,c,53.9126532,10.18922154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D05z,23826,Fredesdorf,Inge-Kröger-Weg,1,d,53.91268696,10.18923494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D06E,23826,Fredesdorf,Inge-Kröger-Weg,3,,53.91302005,10.18930269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D06J,23826,Fredesdorf,Inge-Kröger-Weg,2,,53.91252906,10.1895204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005D06O,23826,Fredesdorf,Inge-Kröger-Weg,4,,53.91290114,10.18985202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EWEU,23826,Fredesdorf,Schafhauser Landstraße,14,a,53.92089804,10.16976489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JK6F,23826,Fredesdorf,Schafhauser Landstraße,22,,53.9206164,10.16728711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KgxT,23826,Fredesdorf,Vossbarg,8,,53.89550968,10.18562736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Kgxw,23826,Fredesdorf,Vossbarg,5,,53.89582204,10.18624494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NSQz,23826,Fredesdorf,Am Schillersberg,23,,53.91774428,10.1436728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Q8bZ,23826,Fredesdorf,Vossbarg,7,,53.89560025,10.18637414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QuNi,23826,Fredesdorf,Bockhorner Landstraße,67,,53.91795665,10.12580466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QzP2,23826,Fredesdorf,Bockhorner Landstraße,60,a,53.91876406,10.12637557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QzP3,23826,Fredesdorf,Bockhorner Landstraße,60,b,53.91876813,10.12647564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RuQT,23826,Fredesdorf,Schützenstraße,1,a,53.89681316,10.18039136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RuQU,23826,Fredesdorf,Schützenstraße,1,b,53.89679958,10.18005634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005TlKi,23826,Fredesdorf,Siedlungsstraße,19,a,53.89598934,10.1849304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qJ4h,23826,Fredesdorf,Dorfstraße,33,a,53.91165388,10.17571649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s1vS,23826,Fredesdorf,Dorfstraße,16,a,53.87284153,10.2004055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005s1wv,23826,Fredesdorf,Dorfstraße,16,,53.87291376,10.20044639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005szDK,23826,Fredesdorf,Am Dorfplatz,4,d,53.87598076,10.20241489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005szDY,23826,Fredesdorf,Am Dorfplatz,4,c,53.87602116,10.20260974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005t6aB,23826,Fredesdorf,Vossbarg,3,,53.89604749,10.18616799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tuRu,23826,Fredesdorf,Bockhorner Landstraße,26,,53.91977701,10.13649323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061K46,23826,Fredesdorf,Dorfstraße,31,a,53.89476079,10.17683174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068oTd,23826,Fredesdorf,Bockhorner Landstraße,7,,53.92034121,10.14631438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GjxZ,23826,Fredesdorf,Am Dorfplatz,6,a,53.89632577,10.17847485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Kze6,23826,Fredesdorf,Am Dorfplatz,4,e,53.87553093,10.20287173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ROtz,23826,Fredesdorf,Finkenweg,5,a,53.91811707,10.1454422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006a827,23826,Fredesdorf,Segeberger Straße,19,,53.91077779,10.18662934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006x6p0,23826,Fredesdorf,Vossbarg,2,,53.8961049,10.1855083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076wXA,23826,Fredesdorf,Dorfstraße,15,a,53.87302815,10.20204714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007EFpP,23826,Fredesdorf,Hofkoppel,4,,53.89092709,10.17141694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007N5Ib,23826,Fredesdorf,Hofkoppel,6,,53.89095711,10.17187383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P5pH,23826,Fredesdorf,Hofkoppel,9,,53.89123698,10.17242254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PChz,23826,Fredesdorf,Hofkoppel,3,,53.89125371,10.17129128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SiKU,23826,Fredesdorf,Hofkoppel,8,,53.89099006,10.17223132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SiL0,23826,Fredesdorf,Hofkoppel,10,,53.89069036,10.17241059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007U2GT,23826,Fredesdorf,Hofkoppel,2,,53.89087008,10.17098219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007U2Hi,23826,Fredesdorf,Hofkoppel,16,,53.89057102,10.17110665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WBIA,23826,Fredesdorf,Hofkoppel,1,,53.89118963,10.17094377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WiG7,23826,Fredesdorf,Friedrichshöh,2,a,53.89129001,10.17316449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZgNE,23826,Fredesdorf,Hofkoppel,11,,53.89130961,10.17271248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EIby,23826,Fredesdorf,Hauptstraße,2,a,53.87477301,10.20616169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008HftX,23826,Fredesdorf,Hauptstraße,2,c,53.87490979,10.2055894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Iro5,23826,Fredesdorf,Schafhauser Weg,10,,53.91329822,10.17101769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IroE,23826,Fredesdorf,Schafhauser Weg,14,,53.91372019,10.17091264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008JGT3,23826,Fredesdorf,Schafhauser Weg,14,a,53.91392435,10.17081499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bg4A,23826,Fredesdorf,Hauptstraße,33,,53.87680534,10.19590969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bg4s,23826,Fredesdorf,Hauptstraße,33,b,53.87669178,10.19609252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bg4w,23826,Fredesdorf,Hauptstraße,33,a,53.87675261,10.19600107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ccUI,23826,Fredesdorf,Hauptstraße,13,a,53.87589819,10.20039485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ccUN,23826,Fredesdorf,Hauptstraße,13,,53.87587232,10.20051721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gx8m,23826,Fredesdorf,Hofkoppel,7,,53.89128193,10.17194039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tHHA,23826,Fredesdorf,Birkenweg,24,,53.9112359,10.16575927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ttx6,23826,Fredesdorf,Dorfstraße,4,b,53.87433627,10.20216182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uKbH,23826,Fredesdorf,Schafhauser Weg,12,,53.9134651,10.17092511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008w7WK,23826,Fredesdorf,Schützenstraße,7,,53.89764225,10.18061482

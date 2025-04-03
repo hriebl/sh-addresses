@@ -1,0 +1,708 @@
+# Amtliche Adressen für die Postleitzahl 24896
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA0,24896,Börm,Geilwanger Straße,1,,54.51476702,9.31327078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA1,24896,Börm,Geilwanger Straße,10,,54.51616757,9.31353493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA2,24896,Börm,Geilwanger Straße,10,a,54.51649286,9.31345313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA3,24896,Börm,Geilwanger Straße,11,,54.51638019,9.31298318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA4,24896,Börm,Geilwanger Straße,12,,54.51673819,9.31338765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA5,24896,Börm,Geilwanger Straße,13,,54.51653114,9.3129764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA6,24896,Börm,Geilwanger Straße,14,,54.51698261,9.31342308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA7,24896,Börm,Geilwanger Straße,15,,54.51667388,9.31297057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA8,24896,Börm,Geilwanger Straße,16,,54.5175665,9.31357596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkA9,24896,Börm,Geilwanger Straße,17,,54.51682542,9.3130198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAA,24896,Börm,Goosholz,2,c,54.4952067,9.32516204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAB,24896,Börm,Goosholz,4,,54.49521593,9.32584674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAC,24896,Börm,Goosholz,6,,54.49549694,9.32543707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAD,24896,Börm,Goosholz,8,,54.49586789,9.32469536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAE,24896,Börm,Goosholzer Straße,1,,54.51291142,9.30802551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAF,24896,Börm,Goosholzer Straße,1,a,54.51312735,9.30796668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAG,24896,Börm,Goosholzer Straße,10,,54.51169775,9.3074838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAH,24896,Börm,Goosholzer Straße,11,,54.51159831,9.30819188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAI,24896,Börm,Goosholzer Straße,13,,54.51130977,9.30830467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAJ,24896,Börm,Goosholzer Straße,14,,54.51057802,9.30755039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAK,24896,Börm,Goosholzer Straße,14,a,54.51044794,9.30701692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAL,24896,Börm,Goosholzer Straße,14,b,54.5104376,9.30662594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAM,24896,Börm,Goosholzer Straße,14,c,54.51022887,9.30657248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAN,24896,Börm,Goosholzer Straße,15,,54.51098609,9.30790921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAO,24896,Börm,Goosholzer Straße,16,,54.51014901,9.30747159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAP,24896,Börm,Goosholzer Straße,16,a,54.51016464,9.30696475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAR,24896,Börm,Goosholzer Straße,18,,54.50981957,9.30747633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAS,24896,Börm,Goosholzer Straße,19,,54.51014861,9.30822857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAT,24896,Börm,Goosholzer Straße,2,,54.51293478,9.30744702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAU,24896,Börm,Goosholzer Straße,2,a,54.51284399,9.30745651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAV,24896,Börm,Goosholzer Straße,20,,54.5095655,9.30747903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAW,24896,Börm,Goosholzer Straße,21,,54.50941559,9.30792475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAX,24896,Börm,Goosholzer Straße,22,,54.50896827,9.307627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAY,24896,Börm,Goosholzer Straße,23,,54.50923353,9.30788219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAZ,24896,Börm,Goosholzer Straße,24,,54.5087829,9.30743496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAa,24896,Börm,Geilwanger Straße,18,,54.51778122,9.31355064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAb,24896,Börm,Geilwanger Straße,19,,54.51721049,9.31285806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAc,24896,Börm,Geilwanger Straße,2,,54.51446706,9.31388411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAd,24896,Börm,Geilwanger Straße,2,a,54.5145591,9.3137434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAe,24896,Börm,Geilwanger Straße,20,,54.51801905,9.31351187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAf,24896,Börm,Geilwanger Straße,21,,54.51738239,9.31316196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAg,24896,Börm,Geilwanger Straße,22,,54.52024099,9.31147536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAh,24896,Börm,Geilwanger Straße,23,,54.51752748,9.31317268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAi,24896,Börm,Geilwanger Straße,24,,54.52605807,9.30240629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAj,24896,Börm,Geilwanger Straße,25,,54.51783489,9.31309549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAk,24896,Börm,Geilwanger Straße,26,,54.5266522,9.30160109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAl,24896,Börm,Geilwanger Straße,27,,54.51804085,9.31302832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAm,24896,Börm,Geilwanger Straße,28,,54.52653164,9.30087705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAn,24896,Börm,Geilwanger Straße,29,,54.51833563,9.31289225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAo,24896,Börm,Geilwanger Straße,3,,54.51496767,9.3131755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAp,24896,Börm,Geilwanger Straße,33,,54.52038154,9.31097097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAq,24896,Börm,Geilwanger Straße,35,,54.52377845,9.30862289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAr,24896,Börm,Geilwanger Straße,4,,54.51485564,9.31370007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAs,24896,Börm,Geilwanger Straße,6,,54.51546816,9.31351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAt,24896,Börm,Geilwanger Straße,8,,54.51582465,9.31354848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAu,24896,Börm,Geilwanger Straße,9,,54.51563455,9.3130567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAv,24896,Börm,Goosholz,1,,54.49526091,9.32470401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAw,24896,Börm,Goosholz,10,,54.4961272,9.32439059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAx,24896,Börm,Goosholz,2,,54.49437776,9.32420893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAy,24896,Börm,Goosholz,2,a,54.49462929,9.32450422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkAz,24896,Börm,Goosholz,2,b,54.49492548,9.32481171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB0,24896,Börm,Goosholzer Straße,25,,54.50898124,9.30791505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB1,24896,Börm,Goosholzer Straße,26,,54.50859493,9.30741248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB2,24896,Börm,Goosholzer Straße,27,,54.5087792,9.30790821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB3,24896,Börm,Goosholzer Straße,28,,54.50813346,9.30740287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB4,24896,Börm,Goosholzer Straße,29,,54.50853629,9.30776997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB5,24896,Börm,Goosholzer Straße,3,,54.51252869,9.3079469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB6,24896,Börm,Goosholzer Straße,30,,54.50646224,9.30761294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB7,24896,Börm,Goosholzer Straße,31,,54.5082363,9.30779605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB8,24896,Börm,Goosholzer Straße,32,,54.50613839,9.30779256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkB9,24896,Börm,Goosholzer Straße,33,,54.50799302,9.30772641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBA,24896,Börm,Goosholzer Straße,52,,54.49917975,9.31523987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBB,24896,Börm,Goosholzer Straße,52,a,54.49901416,9.31536092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBC,24896,Börm,Goosholzer Straße,53,,54.49778551,9.31744708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBD,24896,Börm,Goosholzer Straße,54,,54.49203729,9.3205509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBE,24896,Börm,Goosholzer Straße,55,,54.49669149,9.31693701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBF,24896,Börm,Goosholzer Straße,56,,54.48966215,9.31736815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBG,24896,Börm,Goosholzer Straße,6,,54.51236084,9.3074901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBH,24896,Börm,Goosholzer Straße,7,,54.51193509,9.30794091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBI,24896,Börm,Goosholzer Straße,8,,54.51195021,9.30748235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBJ,24896,Börm,Goosholzer Straße,9,,54.51159831,9.30819188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBK,24896,Börm,Gromsholm,2,,54.5214373,9.30811092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBL,24896,Börm,Gromsholm,4,,54.52159547,9.30836257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBM,24896,Börm,Gromsholm,6,,54.52182517,9.3094182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBN,24896,Börm,Grüfter Ring,1,,54.53176139,9.32844212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBO,24896,Börm,Grüfter Straße,1,,54.51604983,9.32260175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBP,24896,Börm,Grüfter Straße,1,a,54.51587816,9.32197351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBQ,24896,Börm,Grüfter Straße,10,,54.51677652,9.32303451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBR,24896,Börm,Grüfter Straße,11,,54.52411517,9.31615963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBS,24896,Börm,Grüfter Straße,12,,54.51707184,9.32291228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBT,24896,Börm,Grüfter Straße,13,,54.52964971,9.32303563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBU,24896,Börm,Grüfter Straße,13,a,54.52996063,9.32424084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBV,24896,Börm,Grüfter Straße,13,b,54.53019944,9.32428769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBW,24896,Börm,Grüfter Straße,14,,54.51720603,9.32280048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBX,24896,Börm,Grüfter Straße,15,,54.53070125,9.32504486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBY,24896,Börm,Grüfter Straße,16,,54.52069129,9.31695037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBZ,24896,Börm,Grüfter Straße,17,,54.53050544,9.32638791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBa,24896,Börm,Goosholzer Straße,33,a,54.50649358,9.30816971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBd,24896,Börm,Goosholzer Straße,34,,54.50571999,9.30806338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBe,24896,Börm,Goosholzer Straße,35,,54.50549422,9.30866124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBf,24896,Börm,Goosholzer Straße,36,,54.50549577,9.30825848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBg,24896,Börm,Goosholzer Straße,37,,54.50518673,9.30893731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBh,24896,Börm,Goosholzer Straße,37,a,54.50533658,9.30902347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBi,24896,Börm,Goosholzer Straße,38,,54.5050949,9.30859138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBj,24896,Börm,Goosholzer Straße,39,,54.50495104,9.3091151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBk,24896,Börm,Goosholzer Straße,4,,54.51263835,9.30732406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBl,24896,Börm,Goosholzer Straße,4,a,54.51263846,9.3074507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBm,24896,Börm,Goosholzer Straße,40,,54.50461452,9.30894334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBn,24896,Börm,Goosholzer Straße,41,,54.50451393,9.30959074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBo,24896,Börm,Goosholzer Straße,43,,54.50387285,9.31006915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBp,24896,Börm,Goosholzer Straße,44,,54.50434156,9.30920112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBq,24896,Börm,Goosholzer Straße,45,,54.50379238,9.31055779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBr,24896,Börm,Goosholzer Straße,46,,54.50403452,9.30946305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBs,24896,Börm,Goosholzer Straße,46,a,54.50381427,9.30940043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBt,24896,Börm,Goosholzer Straße,47,,54.50281599,9.31172372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBu,24896,Börm,Goosholzer Straße,48,,54.50387057,9.30980742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBv,24896,Börm,Goosholzer Straße,49,,54.50126003,9.31448433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBw,24896,Börm,Goosholzer Straße,49,a,54.50099226,9.31430531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBx,24896,Börm,Goosholzer Straße,5,,54.51226389,9.30781545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBy,24896,Börm,Goosholzer Straße,50,,54.5036997,9.3099219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkBz,24896,Börm,Goosholzer Straße,51,,54.50058154,9.31449838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC0,24896,Börm,Grüfter Straße,18,,54.52085155,9.31680673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC1,24896,Börm,Grüfter Straße,19,,54.53398336,9.33530405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC2,24896,Börm,Grüfter Straße,2,,54.51590912,9.32300411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC4,24896,Börm,Grüfter Straße,20,,54.52112494,9.31645888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC5,24896,Börm,Grüfter Straße,21,,54.5341982,9.33558683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC6,24896,Börm,Grüfter Straße,22,,54.52915767,9.32450041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC7,24896,Börm,Grüfter Straße,23,,54.5349604,9.33699379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC8,24896,Börm,Grüfter Straße,24,,54.53243739,9.33399164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkC9,24896,Börm,Grüfter Straße,25,,54.53542216,9.33730051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCA,24896,Börm,Harenburger Weg,5,,54.54419385,9.32690189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCB,24896,Börm,Harenburger Weg,6,,54.53977144,9.32545966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCC,24896,Börm,Harenburger Weg,6,a,54.5390163,9.32486646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCD,24896,Börm,Harenburger Weg,7,,54.54603661,9.32694317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCE,24896,Börm,Harenburger Weg,8,,54.54882997,9.32773678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCF,24896,Börm,Harenburger Weg,9,,54.54693319,9.32697156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCG,24896,Börm,Heideweg,1,,54.5092441,9.30658809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCH,24896,Börm,Heideweg,2,,54.50995985,9.30525652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCI,24896,Börm,Heideweg,2,a,54.50996528,9.30510495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCJ,24896,Börm,Heideweg,3,,54.51075494,9.30111817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCK,24896,Börm,Heideweg,4,,54.50996989,9.30497622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCL,24896,Börm,Hochholzer Weg,2,,54.51388218,9.33515285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCM,24896,Börm,Holmer Straße,1,,54.51484919,9.32264643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCN,24896,Börm,Holmer Straße,10,,54.51153836,9.32344103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCO,24896,Börm,Holmer Straße,11,,54.51362011,9.32230293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCP,24896,Börm,Holmer Straße,12,,54.51142022,9.32353992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCQ,24896,Börm,Holmer Straße,13,,54.51342627,9.32224453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCR,24896,Börm,Holmer Straße,14,,54.51131916,9.32365064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCS,24896,Börm,Holmer Straße,15,,54.51323531,9.32227209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCT,24896,Börm,Holmer Straße,16,,54.5112096,9.3237704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCU,24896,Börm,Holmer Straße,17,,54.51260155,9.32254433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCV,24896,Börm,Holmer Straße,18,,54.51110648,9.3238843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCW,24896,Börm,Holmer Straße,19,,54.5122612,9.32300469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCX,24896,Börm,Holmer Straße,2,,54.51455208,9.32209319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCY,24896,Börm,Holmer Straße,20,,54.51099174,9.32401222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCZ,24896,Börm,Holmer Straße,21,,54.51197477,9.32344412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCa,24896,Börm,Grüfter Straße,26,,54.53633481,9.3382494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCb,24896,Börm,Grüfter Straße,27,,54.5360768,9.33753027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCc,24896,Börm,Grüfter Straße,28,,54.53749146,9.33779322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCd,24896,Börm,Grüfter Straße,29,,54.53759475,9.33687255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCe,24896,Börm,Grüfter Straße,3,,54.51624856,9.32251928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCf,24896,Börm,Grüfter Straße,31,,54.53785174,9.33644316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCg,24896,Börm,Grüfter Straße,4,,54.5162427,9.32304098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCh,24896,Börm,Grüfter Straße,5,,54.51653802,9.32243792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCi,24896,Börm,Grüfter Straße,6,,54.51642327,9.32306662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCj,24896,Börm,Grüfter Straße,7,,54.51672772,9.32241124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCk,24896,Börm,Grüfter Straße,7,a,54.51693042,9.32245157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCl,24896,Börm,Grüfter Straße,8,,54.51660759,9.32309018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCm,24896,Börm,Grüfter Straße,9,,54.51859244,9.31971128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCn,24896,Börm,Grüfter Straße,9,a,54.51861666,9.31937808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCo,24896,Börm,Grüner Weg,1,,54.50628672,9.31121721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCp,24896,Börm,Grüner Weg,1,a,54.50437604,9.31013587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCq,24896,Börm,Grüner Weg,2,,54.50414262,9.3101705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCr,24896,Börm,Grüner Weg,3,,54.50662804,9.31189133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCs,24896,Börm,Harenburger Weg,1,,54.53115016,9.31620809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCt,24896,Börm,Harenburger Weg,1,a,54.53113556,9.31633472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCu,24896,Börm,Harenburger Weg,11,,54.54760173,9.32695505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCv,24896,Börm,Harenburger Weg,13,,54.54926047,9.32708049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCw,24896,Börm,Harenburger Weg,15,,54.54967941,9.32686898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCx,24896,Börm,Harenburger Weg,2,,54.53096644,9.31823493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCy,24896,Börm,Harenburger Weg,3,,54.54138878,9.3267352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkCz,24896,Börm,Harenburger Weg,4,,54.53073554,9.31857949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD0,24896,Börm,Holmer Straße,22,,54.51091836,9.3241697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD1,24896,Börm,Holmer Straße,23,,54.51169051,9.32369727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD2,24896,Börm,Holmer Straße,24,,54.51081156,9.32429192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD3,24896,Börm,Holmer Straße,24,a,54.51057665,9.32452945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD4,24896,Börm,Holmer Straße,25,,54.51144517,9.32409875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD5,24896,Börm,Holmer Straße,26,,54.51046173,9.32473045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD6,24896,Börm,Holmer Straße,27,,54.51144517,9.32409875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD7,24896,Börm,Holmer Straße,28,,54.51013867,9.32499877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD8,24896,Börm,Holmer Straße,29,,54.51144517,9.32409875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkD9,24896,Börm,Holmer Straße,30,,54.50998558,9.32511376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDA,24896,Börm,Krim,5,,54.51485951,9.30700944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDB,24896,Börm,Krim,6,,54.51467143,9.30758784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDC,24896,Börm,Krim,7,,54.51505327,9.30695776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDD,24896,Börm,Krim,8,,54.51513232,9.30737695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDE,24896,Börm,Krim,9,,54.51528061,9.30691859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDF,24896,Börm,Krugland,1,,54.51560803,9.32049744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDG,24896,Börm,Krugland,2,,54.51584087,9.32051184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDH,24896,Börm,Krugland,3,,54.51562073,9.32011982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDI,24896,Börm,Krugland,4,,54.51585689,9.32011041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDJ,24896,Börm,Krugland,5,,54.51549424,9.31965888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDK,24896,Börm,Krugland,6,,54.5158683,9.31973133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDL,24896,Börm,Krugland,7,,54.51545316,9.31924879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDM,24896,Börm,Krugland,8,,54.51580049,9.31931992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDO,24896,Börm,Lange Redder,1,a,54.5048052,9.30869739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDP,24896,Börm,Lange Redder,10,,54.50458819,9.3046561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDQ,24896,Börm,Lange Redder,2,,54.50497136,9.30822772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDR,24896,Börm,Lange Redder,4,,54.50487539,9.30753748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDS,24896,Börm,Lange Redder,4,a,54.50479413,9.3070906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDT,24896,Börm,Lange Redder,6,,54.50476294,9.30654764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDU,24896,Börm,Lange Redder,6,a,54.50470187,9.30596071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDV,24896,Börm,Lange Redder,8,,54.50453907,9.3053387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDW,24896,Börm,Maaskier,3,,54.53281232,9.34812755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDY,24896,Börm,Meiereistraße,7,,54.5139334,9.3177672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDZ,24896,Börm,Meiereistraße,9,,54.5139589,9.31772923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDa,24896,Börm,Holmer Straße,31,,54.510432,9.32509948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDb,24896,Börm,Holmer Straße,32,,54.50979193,9.32527262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDc,24896,Börm,Holmer Straße,33,,54.51020882,9.32520377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDd,24896,Börm,Holmer Straße,4,,54.51422262,9.32193869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDe,24896,Börm,Holmer Straße,4,a,54.51422262,9.32193869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDf,24896,Börm,Holmer Straße,6,,54.51180259,9.32315506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDg,24896,Börm,Holmer Straße,6,a,54.51180259,9.32315506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDh,24896,Börm,Holmer Straße,7,,54.51404749,9.32237503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDi,24896,Börm,Holmer Straße,8,,54.51163992,9.32332614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDj,24896,Börm,Holmer Straße,9,,54.51384551,9.3222956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDk,24896,Börm,Iplander Weg,1,,54.5303274,9.31389424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDl,24896,Börm,Iplander Weg,2,,54.52965242,9.31766183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDm,24896,Börm,Kerlöher Weg,1,,54.52959401,9.3303845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDn,24896,Börm,Kerlöher Weg,2,,54.52778195,9.3377689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDo,24896,Börm,Kerlöher Weg,4,,54.52755879,9.33881161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDp,24896,Börm,Krauweg,2,,54.53415674,9.32956062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDq,24896,Börm,Krim,1,,54.51427144,9.3073935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDr,24896,Börm,Krim,1,a,54.51406341,9.30774943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDs,24896,Börm,Krim,10,,54.51567551,9.30721174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDt,24896,Börm,Krim,11,,54.51544683,9.30687958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDu,24896,Börm,Krim,15,,54.51613062,9.30676489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDv,24896,Börm,Krim,17,,54.51633189,9.30672245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDw,24896,Börm,Krim,19,,54.51656299,9.3066746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDy,24896,Börm,Krim,3,,54.51458193,9.30705509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkDz,24896,Börm,Krim,4,,54.51465012,9.30734833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE0,24896,Börm,Moorweg,1,,54.53541818,9.31039844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE1,24896,Börm,Moorweg,2,,54.53574511,9.31121607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE2,24896,Börm,Moorweg,3,,54.54320419,9.32046756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE3,24896,Börm,Moorweg,4,,54.54347748,9.32070895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE4,24896,Börm,Norderbrooker Weg,1,,54.51885402,9.29155051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE5,24896,Börm,Norderbrooker Weg,3,,54.52233847,9.29740165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE6,24896,Börm,Norderbrooker Weg,3,a,54.52220535,9.29806158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE7,24896,Börm,Op de Höchde,2,,54.52458416,9.32827039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE8,24896,Börm,Op de Höchde,4,,54.52486039,9.3343481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkE9,24896,Börm,Op de Sicht,1,,54.51609846,9.32640999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEA,24896,Börm,Peerkoppel,17,,54.5120116,9.30445767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEB,24896,Börm,Peerkoppel,18,,54.51226953,9.30534714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEC,24896,Börm,Peerkoppel,2,,54.5123424,9.3068541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkED,24896,Börm,Peerkoppel,3,,54.51171982,9.30693006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEE,24896,Börm,Peerkoppel,4,,54.51264707,9.30688976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEF,24896,Börm,Peerkoppel,5,,54.51172558,9.30655945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEG,24896,Börm,Peerkoppel,6,,54.51288333,9.30692077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEH,24896,Börm,Peerkoppel,7,,54.51200155,9.30647972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEI,24896,Börm,Peerkoppel,8,,54.51277006,9.30652328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEJ,24896,Börm,Peerkoppel,9,,54.51200469,9.30601952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEK,24896,Börm,Preesterstieg,2,,54.51222865,9.31968349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEL,24896,Börm,Sandkamp,1,,54.50937605,9.32702324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEM,24896,Börm,Sandkamp,2,,54.50914344,9.32695107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEN,24896,Börm,Süderfeld,2,,54.49983894,9.30156237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEO,24896,Börm,Süderfeld,4,,54.49970454,9.30067695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEP,24896,Börm,Schwabstedter Damm,1,,54.51015382,9.28377202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEQ,24896,Börm,Schwienholz,1,,54.49768481,9.29065976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkER,24896,Börm,Schwimmbadweg,10,,54.5172843,9.32038874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkES,24896,Börm,Schwimmbadweg,12,,54.51728469,9.32005832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkET,24896,Börm,Schwimmbadweg,14,,54.51728491,9.31975563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEU,24896,Börm,Schwimmbadweg,16,,54.51728486,9.31945298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEV,24896,Börm,Schwimmbadweg,18,,54.51721913,9.31906024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEW,24896,Börm,Schwimmbadweg,2,,54.51720705,9.32163126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEX,24896,Börm,Schwimmbadweg,3,,54.51695848,9.32201835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEY,24896,Börm,Schwimmbadweg,4,,54.51720875,9.32130858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEZ,24896,Börm,Schwimmbadweg,5,,54.51695834,9.32169871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEa,24896,Börm,Op de Sicht,2,,54.51608374,9.3268264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEb,24896,Börm,Op de Sicht,3,,54.51653362,9.32649623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEc,24896,Börm,Op de Sicht,4,,54.51636631,9.32682188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEd,24896,Börm,Osterende,1,,54.5112121,9.32432912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEe,24896,Börm,Osterende,2,,54.51128428,9.32566943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEf,24896,Börm,Osterende,3,,54.51139486,9.32530153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEg,24896,Börm,Osterende,5,,54.51224768,9.3298958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEh,24896,Börm,Osterweg,1,,54.51641699,9.33470618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEi,24896,Börm,Osterweg,11,,54.52264096,9.32745001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEj,24896,Börm,Osterweg,13,,54.5238166,9.3272544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEk,24896,Börm,Osterweg,13,a,54.52370945,9.3273229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEl,24896,Börm,Osterweg,2,,54.51889771,9.33506238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEm,24896,Börm,Osterweg,3,,54.51817827,9.33467198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEn,24896,Börm,Osterweg,4,,54.52272264,9.3278139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEo,24896,Börm,Osterweg,5,,54.51902787,9.33469487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEp,24896,Börm,Osterweg,7,,54.52054592,9.33068775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEq,24896,Börm,Osterweg,9,,54.52108905,9.32677305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEr,24896,Börm,Peerkoppel,1,,54.51203021,9.30703537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEs,24896,Börm,Peerkoppel,1,a,54.51202652,9.30687807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEt,24896,Börm,Peerkoppel,10,,54.51258751,9.30653959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEu,24896,Börm,Peerkoppel,11,,54.51196186,9.30559358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEv,24896,Börm,Peerkoppel,12,,54.51233329,9.30653039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEw,24896,Börm,Peerkoppel,13,,54.51196909,9.30519078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEx,24896,Börm,Peerkoppel,14,,54.51220114,9.306036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEy,24896,Börm,Peerkoppel,15,,54.51203687,9.30478657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkEz,24896,Börm,Peerkoppel,16,,54.5122024,9.30571251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF0,24896,Börm,Schwimmbadweg,6,,54.51720876,9.32101972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF1,24896,Börm,Schwimmbadweg,7,,54.51696742,9.3213916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF2,24896,Börm,Schwimmbadweg,8,,54.51720844,9.32068771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF3,24896,Börm,Schwimmbadweg,9,,54.51688852,9.32107125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF4,24896,Börm,Schwittschauer Weg,19,,54.54135406,9.34469648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF7,24896,Börm,Steenerich,2,,54.51799338,9.32361761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF8,24896,Börm,Steenerich,2,a,54.51758362,9.32286143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkF9,24896,Börm,Treenestraße,1,,54.51425966,9.33840476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFA,24896,Börm,Treenestraße,36,a,54.51479327,9.32027287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFB,24896,Börm,Treenestraße,37,,54.51423607,9.31893466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFD,24896,Börm,Treenestraße,38,,54.51473043,9.31993946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFE,24896,Börm,Treenestraße,39,,54.5143141,9.31835788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFF,24896,Börm,Treenestraße,4,,54.51608916,9.33416408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFG,24896,Börm,Treenestraße,40,,54.51459368,9.31954889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFH,24896,Börm,Treenestraße,41,,54.51433873,9.31799962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFI,24896,Börm,Treenestraße,42,,54.51455774,9.31922757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFJ,24896,Börm,Treenestraße,43,,54.51433873,9.31799962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFK,24896,Börm,Treenestraße,44,,54.5148099,9.31650418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFL,24896,Börm,Treenestraße,45,,54.51432788,9.31751922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFM,24896,Börm,Treenestraße,46,,54.5145715,9.31599596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFN,24896,Börm,Treenestraße,47,,54.51434179,9.31667028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFO,24896,Börm,Treenestraße,48,,54.51456921,9.31580295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFP,24896,Börm,Treenestraße,49,,54.5142714,9.31591071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFQ,24896,Börm,Treenestraße,5,,54.5157672,9.32900177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFR,24896,Börm,Treenestraße,50,,54.51452829,9.31542334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFS,24896,Börm,Treenestraße,51,,54.5140948,9.31529192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFT,24896,Börm,Treenestraße,52,,54.51448543,9.31492919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFU,24896,Börm,Treenestraße,53,,54.51421253,9.31492377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFV,24896,Börm,Treenestraße,54,,54.5144757,9.31470469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFW,24896,Börm,Treenestraße,55,,54.51413441,9.3141925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFX,24896,Börm,Treenestraße,56,,54.51447897,9.31444104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFY,24896,Börm,Treenestraße,57,,54.51409848,9.31379788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFZ,24896,Börm,Treenestraße,58,,54.51422327,9.3133612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFa,24896,Börm,Treenestraße,10,,54.51594951,9.32728501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFb,24896,Börm,Treenestraße,100,,54.51360858,9.3017262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFc,24896,Börm,Treenestraße,11,,54.51558398,9.32448605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFd,24896,Börm,Treenestraße,15,,54.51544201,9.3240216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFe,24896,Börm,Treenestraße,17,,54.5153243,9.32372589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFf,24896,Börm,Treenestraße,18,,54.51608876,9.32612567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFg,24896,Börm,Treenestraße,19,,54.51515868,9.3234694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFh,24896,Börm,Treenestraße,2,,54.51611456,9.34124971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFi,24896,Börm,Treenestraße,20,,54.51603199,9.32538708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFj,24896,Börm,Treenestraße,21,,54.51503338,9.32322634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFk,24896,Börm,Treenestraße,22,,54.51587737,9.32455698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFl,24896,Börm,Treenestraße,23,,54.51473515,9.32114103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFm,24896,Börm,Treenestraße,24,,54.51580419,9.32419224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFn,24896,Börm,Treenestraße,25,,54.51469673,9.32093093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFo,24896,Börm,Treenestraße,26,,54.51563585,9.32363952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFp,24896,Börm,Treenestraße,27,,54.51454627,9.32093889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFq,24896,Börm,Treenestraße,28,,54.5155531,9.32335198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFr,24896,Börm,Treenestraße,29,,54.51458424,9.32032742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFs,24896,Börm,Treenestraße,3,,54.51541777,9.3347699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFt,24896,Börm,Treenestraße,30,,54.51523247,9.3225346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFu,24896,Börm,Treenestraße,31,,54.51453257,9.32006718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFv,24896,Börm,Treenestraße,32,,54.51505549,9.32201982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFw,24896,Börm,Treenestraße,33,,54.51442345,9.31978789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFx,24896,Börm,Treenestraße,34,,54.51501507,9.32132521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFy,24896,Börm,Treenestraße,35,,54.51434137,9.31939303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkFz,24896,Börm,Treenestraße,36,,54.5149178,9.32076389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG0,24896,Börm,Treenestraße,59,,54.5140014,9.31340413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG1,24896,Börm,Treenestraße,6,,54.51579953,9.33103606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG2,24896,Börm,Treenestraße,60,,54.51414965,9.31300066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG3,24896,Börm,Treenestraße,61,,54.51388871,9.31290575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG4,24896,Börm,Treenestraße,62,,54.51408124,9.31266823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG5,24896,Börm,Treenestraße,64,,54.51404598,9.31236743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG6,24896,Börm,Treenestraße,65,,54.51380472,9.31247704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG7,24896,Börm,Treenestraße,65,a,54.5135563,9.31256498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG8,24896,Börm,Treenestraße,65,b,54.51349204,9.31257979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkG9,24896,Börm,Treenestraße,65,c,54.51343091,9.31260866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGA,24896,Börm,Treenestraße,9,,54.51572738,9.32492807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGB,24896,Börm,Treenestraße,9,a,54.51571064,9.3248101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGC,24896,Börm,Treenestraße,90,,54.51367156,9.30594589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGD,24896,Börm,Treenestraße,91,,54.51311684,9.30425203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGE,24896,Börm,Treenestraße,92,,54.51361811,9.30562661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGF,24896,Börm,Treenestraße,93,,54.51208424,9.28556828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGG,24896,Börm,Treenestraße,94,,54.51370282,9.30511186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGH,24896,Börm,Treenestraße,96,,54.51364017,9.30459849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGI,24896,Börm,Treenestraße,98,,54.51362894,9.30394437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGJ,24896,Börm,Treenewiesen,1,,54.51695658,9.31983962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGK,24896,Börm,Treenewiesen,10,,54.51622705,9.31929726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGL,24896,Börm,Treenewiesen,12,,54.51622706,9.31973652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGM,24896,Börm,Treenewiesen,2,,54.51696188,9.31941445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGN,24896,Börm,Treenewiesen,3,,54.51678493,9.31983982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGO,24896,Börm,Treenewiesen,4,,54.51676517,9.31941341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGP,24896,Börm,Treenewiesen,5,,54.51659786,9.319826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGQ,24896,Börm,Treenewiesen,6,,54.51658111,9.3193764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGR,24896,Börm,Treenewiesen,7,,54.51641913,9.31982708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGS,24896,Börm,Treenewiesen,8,,54.51641869,9.31932954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGT,24896,Börm,Treenewiesen,9,,54.51620829,9.3200328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGU,24896,Börm,Vogelsang,2,,54.51292111,9.28909698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGV,24896,Börm,Vogelsang,4,,54.51177667,9.28322774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGW,24896,Börm,Westerweg,1,,54.51072529,9.29439504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGX,24896,Börm,Westerweg,1,a,54.51170736,9.29419688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGY,24896,Börm,Westerweg,2,,54.50196528,9.29580003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGZ,24896,Börm,Westerweg,4,,54.50131986,9.29581845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGa,24896,Börm,Treenestraße,65,d,54.51336918,9.31263119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGb,24896,Börm,Treenestraße,66,,54.51401365,9.31211119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGc,24896,Börm,Treenestraße,67,,54.51377809,9.31183097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGd,24896,Börm,Treenestraße,68,,54.51401808,9.31187052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGe,24896,Börm,Treenestraße,69,,54.51368803,9.31122893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGf,24896,Börm,Treenestraße,7,,54.51571523,9.325947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGg,24896,Börm,Treenestraße,70,,54.51394971,9.31154248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGh,24896,Börm,Treenestraße,71,,54.51361491,9.31048617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGi,24896,Börm,Treenestraße,72,,54.51391017,9.31125087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGj,24896,Börm,Treenestraße,73,,54.51345116,9.30932166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGk,24896,Börm,Treenestraße,74,,54.51399274,9.31092496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGl,24896,Börm,Treenestraße,76,,54.51393367,9.31030625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGm,24896,Börm,Treenestraße,77,,54.51332846,9.30789366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGn,24896,Börm,Treenestraße,78,,54.51372778,9.30964238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGo,24896,Börm,Treenestraße,79,,54.51328931,9.30744249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGp,24896,Börm,Treenestraße,8,,54.51599855,9.32868796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGq,24896,Börm,Treenestraße,80,,54.51363121,9.30892985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGr,24896,Börm,Treenestraße,81,,54.51327293,9.30690221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGs,24896,Börm,Treenestraße,82,,54.51360437,9.308599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGt,24896,Börm,Treenestraße,83,,54.51319352,9.30641318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGu,24896,Börm,Treenestraße,84,,54.51353154,9.30793512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGv,24896,Börm,Treenestraße,85,,54.51315756,9.30606957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGw,24896,Börm,Treenestraße,86,,54.51349054,9.30766266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGx,24896,Börm,Treenestraße,87,,54.5130904,9.30567535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGy,24896,Börm,Treenestraße,88,,54.51344884,9.30712819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkGz,24896,Börm,Treenestraße,89,,54.5131461,9.30461355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH0,24896,Börm,Westerweg,6,,54.49786626,9.2967335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH1,24896,Börm,Wiesengrund,1,,54.5176415,9.32064438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH2,24896,Börm,Wiesengrund,10,,54.518138,9.32018616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH3,24896,Börm,Wiesengrund,11,,54.51782204,9.31936708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH4,24896,Börm,Wiesengrund,13,,54.51804593,9.31972045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH5,24896,Börm,Wiesengrund,15,,54.51831134,9.31992841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH6,24896,Börm,Wiesengrund,2,,54.51766291,9.32129645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH7,24896,Börm,Wiesengrund,3,,54.51776379,9.32034124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH8,24896,Börm,Wiesengrund,4,,54.51775057,9.32094738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkH9,24896,Börm,Wiesengrund,5,,54.51788927,9.31991751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHa,24896,Börm,Wiesengrund,6,,54.51787973,9.32070467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHb,24896,Börm,Wiesengrund,7,,54.51770721,9.31976522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHc,24896,Börm,Wiesengrund,8,,54.5180124,9.32044462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHd,24896,Börm,Wiesengrund,9,,54.51767337,9.31950041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHe,24896,Börm,Zum Haubarg,1,,54.53374177,9.29964745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHf,24896,Börm,Zur alten Mühle,1,,54.51454875,9.32259542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHg,24896,Börm,Zur alten Mühle,10,,54.51388971,9.3231484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHh,24896,Börm,Zur alten Mühle,11,,54.51440739,9.32386979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHi,24896,Börm,Zur alten Mühle,12,,54.51379726,9.32353366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHj,24896,Börm,Zur alten Mühle,14,,54.51398066,9.32362144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHk,24896,Börm,Zur alten Mühle,16,,54.51420107,9.32379642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHl,24896,Börm,Zur alten Mühle,16,a,54.5141908,9.32392036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHm,24896,Börm,Zur alten Mühle,2,,54.51430234,9.32253064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHo,24896,Börm,Zur alten Mühle,4,,54.51426264,9.32282241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHp,24896,Börm,Zur alten Mühle,5,,54.51447236,9.32305162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHq,24896,Börm,Zur alten Mühle,6,,54.51425178,9.3229429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHr,24896,Börm,Zur alten Mühle,7,,54.51443535,9.32344686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHs,24896,Börm,Zur alten Mühle,8,,54.51421204,9.32327952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHt,24896,Börm,Zur alten Mühle,9,,54.51461882,9.32397653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHu,24896,Börm,Zur Treene,1,,54.51233899,9.30858009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxT,24896,Börm,Am Grüfter Wald,1,,54.52408768,9.32077692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxU,24896,Börm,Am Mühlenberg,10,,54.51344554,9.32327231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxV,24896,Börm,Am Mühlenberg,12,,54.51348892,9.32301745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxW,24896,Börm,Am Mühlenberg,2,,54.5129719,9.32247708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxX,24896,Börm,Am Mühlenberg,4,,54.51304992,9.32279371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxY,24896,Börm,Am Mühlenberg,6,,54.51312608,9.3231032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxZ,24896,Börm,Am Mühlenberg,8,,54.51321543,9.32333515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky0,24896,Börm,Am Sportplatz,10,,54.51289304,9.313399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky1,24896,Börm,Am Sportplatz,4,,54.5134576,9.31329122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky2,24896,Börm,Arp-Arens-Straße,1,,54.51532978,9.3206506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky3,24896,Börm,Arp-Arens-Straße,10,,54.51599556,9.3212157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky4,24896,Börm,Arp-Arens-Straße,10,a,54.51599556,9.3213437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky5,24896,Börm,Arp-Arens-Straße,11,,54.51658855,9.32064008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky6,24896,Börm,Arp-Arens-Straße,12,,54.51627146,9.32101863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky7,24896,Börm,Arp-Arens-Straße,13,,54.51675561,9.32064026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky8,24896,Börm,Arp-Arens-Straße,14,,54.51651842,9.32100927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nky9,24896,Börm,Arp-Arens-Straße,15,,54.51694967,9.32064024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyA,24896,Börm,Buchenweg,21,,54.51506065,9.31251509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyB,24896,Börm,Buchenweg,23,,54.51504694,9.31237955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyC,24896,Börm,Buchenweg,25,,54.51504129,9.31224147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyD,24896,Börm,Buchenweg,27,,54.51484556,9.31255936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyE,24896,Börm,Buchenweg,29,,54.51464977,9.31247624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyF,24896,Börm,Buchenweg,3,,54.51540039,9.31264534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyG,24896,Börm,Buchenweg,31,,54.51457956,9.31250177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyH,24896,Börm,Buchenweg,33,,54.51449593,9.31253225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyI,24896,Börm,Buchenweg,35,,54.51455615,9.31285629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyJ,24896,Börm,Buchenweg,37,,54.51467268,9.31281216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyK,24896,Börm,Buchenweg,4,,54.51563475,9.31247619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyL,24896,Börm,Buchenweg,5,,54.51540774,9.31249961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyM,24896,Börm,Buchenweg,6,,54.51563479,9.31210255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyN,24896,Börm,Buchenweg,7,,54.51541246,9.31233984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyO,24896,Börm,Buchenweg,8,,54.51560622,9.31147584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyP,24896,Börm,Buchenweg,8,a,54.51545614,9.31088737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyQ,24896,Börm,Buchenweg,9,,54.51536852,9.31265401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyR,24896,Börm,Dörpacker,1,,54.51594685,9.31285172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyS,24896,Börm,Dörpacker,10,,54.51627753,9.31173699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyT,24896,Börm,Dörpacker,11,,54.51605767,9.31100585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyU,24896,Börm,Dörpacker,12,,54.51629354,9.31151479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyV,24896,Börm,Dörpacker,13,,54.51607619,9.31066004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyW,24896,Börm,Dörpacker,14,,54.5163,9.31120449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyX,24896,Börm,Dörpacker,15,,54.5160947,9.31034207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyY,24896,Börm,Dörpacker,16,,54.51631751,9.31095301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkyZ,24896,Börm,Dörpacker,17,,54.51611449,9.30997176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkya,24896,Börm,Arp-Arens-Straße,2,,54.5152252,9.3212265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyb,24896,Börm,Arp-Arens-Straße,4,,54.51551495,9.32132973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyc,24896,Börm,Arp-Arens-Straße,7,,54.5161995,9.32064114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyd,24896,Börm,Arp-Arens-Straße,8,,54.51582514,9.32115752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkye,24896,Börm,Arp-Arens-Straße,8,a,54.5158233,9.32131084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyf,24896,Börm,Arp-Arens-Straße,9,,54.51639993,9.32065214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyg,24896,Börm,Berliner Eck,1,,54.51648869,9.321377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyh,24896,Börm,Berliner Eck,2,,54.51630172,9.32135841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyi,24896,Börm,Berliner Eck,3,,54.51648859,9.32166573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyj,24896,Börm,Berliner Eck,4,,54.51622989,9.32165287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyk,24896,Börm,Berliner Eck,5,,54.51647476,9.32188718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyl,24896,Börm,Berliner Eck,6,,54.51627413,9.321934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkym,24896,Börm,Buchenweg,1,,54.51532898,9.312969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyn,24896,Börm,Buchenweg,10,,54.51518254,9.31088991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyo,24896,Börm,Buchenweg,11,,54.51523812,9.31266551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyp,24896,Börm,Buchenweg,12,,54.51509975,9.311215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyq,24896,Börm,Buchenweg,12,a,54.5152526,9.31151245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyr,24896,Börm,Buchenweg,13,,54.51517361,9.31313666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkys,24896,Börm,Buchenweg,14,,54.51532304,9.31194291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyt,24896,Börm,Buchenweg,15,,54.51515508,9.3130104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyu,24896,Börm,Buchenweg,16,,54.51511343,9.3119142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyv,24896,Börm,Buchenweg,17,,54.51513573,9.31287819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyw,24896,Börm,Buchenweg,18,,54.5148713,9.31193687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyx,24896,Börm,Buchenweg,19,,54.51508039,9.31266489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyy,24896,Börm,Buchenweg,2,,54.51560362,9.31275702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkyz,24896,Börm,Buchenweg,20,,54.5145816,9.31202957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz0,24896,Börm,Dörpacker,18,,54.51634092,9.31069821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz1,24896,Börm,Dörpacker,19,,54.5161301,9.30966456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz2,24896,Börm,Dörpacker,2,,54.51619731,9.31287225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz3,24896,Börm,Dörpacker,20,,54.51634971,9.31042219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz4,24896,Börm,Dörpacker,21,,54.51614718,9.30934352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz5,24896,Börm,Dörpacker,22,,54.5163524,9.31028939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz6,24896,Börm,Dörpacker,23,,54.51616241,9.30906657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz7,24896,Börm,Dörpacker,24,,54.51636782,9.31000512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz8,24896,Börm,Dörpacker,25,,54.51623428,9.30856686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkz9,24896,Börm,Dörpacker,26,,54.51637828,9.30976446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzA,24896,Börm,Gartenstraße,13,,54.51075939,9.30560537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzB,24896,Börm,Gartenstraße,14,,54.51165161,9.30584049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzC,24896,Börm,Gartenstraße,15,,54.51081281,9.30524589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzD,24896,Börm,Gartenstraße,16,,54.51163226,9.30555639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzE,24896,Börm,Gartenstraße,17,,54.51105267,9.30526663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzF,24896,Börm,Gartenstraße,17,a,54.51112002,9.30527192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzG,24896,Börm,Gartenstraße,18,,54.51145267,9.30553682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzH,24896,Börm,Gartenstraße,18,a,54.51138173,9.30553098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzI,24896,Börm,Gartenstraße,19,,54.51118198,9.30490913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzJ,24896,Börm,Gartenstraße,19,a,54.51118482,9.30478723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzK,24896,Börm,Gartenstraße,2,,54.51131347,9.30743675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzL,24896,Börm,Gartenstraße,20,,54.51146058,9.30495952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzM,24896,Börm,Gartenstraße,21,,54.51088825,9.30483285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzN,24896,Börm,Gartenstraße,22,,54.51165557,9.30488429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzO,24896,Börm,Gartenstraße,23,,54.51089789,9.30437898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzP,24896,Börm,Gartenstraße,24,,54.51164554,9.3044273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzQ,24896,Börm,Gartenstraße,25,,54.51107262,9.30445453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzR,24896,Börm,Gartenstraße,26,,54.51148938,9.30449206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzS,24896,Börm,Gartenstraße,27,,54.51127832,9.30447699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzT,24896,Börm,Gartenstraße,3,,54.5109968,9.30711014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzU,24896,Börm,Gartenstraße,4,,54.51128919,9.30715175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzV,24896,Börm,Gartenstraße,5,,54.51099105,9.30676892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzW,24896,Börm,Gartenstraße,6,,54.51126351,9.30685059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzX,24896,Börm,Gartenstraße,7,,54.51098437,9.30641846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzY,24896,Börm,Gartenstraße,8,,54.51121604,9.30640847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkzZ,24896,Börm,Gartenstraße,9,,54.51099353,9.30604595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkza,24896,Börm,Dörpacker,27,,54.51616695,9.30768639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzb,24896,Börm,Dörpacker,28,,54.51640731,9.30948133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzc,24896,Börm,Dörpacker,3,,54.51601207,9.31217122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzd,24896,Börm,Dörpacker,30,,54.5164884,9.30915926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkze,24896,Börm,Dörpacker,32,,54.5166948,9.30920557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzf,24896,Börm,Dörpacker,32,a,54.51668252,9.30955073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzg,24896,Börm,Dörpacker,34,,54.5164495,9.30874074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzi,24896,Börm,Dörpacker,36,,54.51671856,9.30885414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzj,24896,Börm,Dörpacker,38,,54.51655145,9.30817302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzk,24896,Börm,Dörpacker,4,,54.51624164,9.31240071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzl,24896,Börm,Dörpacker,40,,54.51672369,9.30826231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzm,24896,Börm,Dörpacker,42,,54.51651609,9.3078733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzn,24896,Börm,Dörpacker,44,,54.51657727,9.30752151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzo,24896,Börm,Dörpacker,46,,54.51663165,9.30712896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzp,24896,Börm,Dörpacker,5,,54.51608291,9.31199019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzq,24896,Börm,Dörpacker,6,,54.51625196,9.31219857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzr,24896,Börm,Dörpacker,7,,54.51603902,9.31170604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzs,24896,Börm,Dörpacker,8,,54.51626475,9.31196708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzt,24896,Börm,Dörpacker,9,,54.51605645,9.31136049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzu,24896,Börm,Gammellander Weg,2,,54.52508924,9.30864704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzv,24896,Börm,Gammellander Weg,4,,54.52872363,9.30658403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzw,24896,Börm,Gartenstraße,1,,54.51097434,9.30743739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzx,24896,Börm,Gartenstraße,10,,54.51124972,9.3059516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzy,24896,Börm,Gartenstraße,11,,54.51102227,9.30576345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkzz,24896,Börm,Gartenstraße,12,,54.51146828,9.30584492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eETv,24896,Börm,Nordergeilwang,14,,54.53038715,9.30124989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004D43m,24896,Börm,Op de Sicht,6,,54.51654269,9.32695595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004D43o,24896,Börm,Op de Sicht,6,a,54.51648834,9.32707743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004D43v,24896,Börm,Op de Sicht,4,a,54.51634425,9.3269484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004D43w,24896,Börm,Op de Sicht,4,b,54.51632025,9.32708146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004HQNK,24896,Börm,Goosholzer Straße,33,b,54.50651373,9.30827531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IMek,24896,Börm,Goosholzer Straße,15,a,54.51083289,9.30824183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IMeo,24896,Börm,Goosholzer Straße,15,b,54.51059218,9.30804896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IMet,24896,Börm,Goosholzer Straße,17,,54.51040388,9.30808102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZiUT,24896,Börm,Grüner Weg,4,,54.50428018,9.31080183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055kOM,24896,Börm,Heideweg,8,,54.5108507,9.30181588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055kOR,24896,Börm,Heideweg,1,a,54.51043511,9.30202797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBB,24896,Börm,Eichenweg,3,,54.51435431,9.3082155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBF,24896,Börm,Eichenweg,5,,54.51465224,9.30837379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBJ,24896,Börm,Eichenweg,7,,54.51484208,9.30841734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBN,24896,Börm,Eichenweg,9,,54.51504665,9.30838101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBR,24896,Börm,Eichenweg,11,,54.5150204,9.30871555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBV,24896,Börm,Eichenweg,13,,54.51468771,9.30879868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBZ,24896,Börm,Eichenweg,15,,54.51490745,9.30907263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtBw,24896,Börm,Eichenweg,1,,54.51429332,9.30798586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtC2,24896,Börm,Eichenweg,17,,54.51484644,9.30941163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtC7,24896,Börm,Eichenweg,19,,54.51482202,9.30980742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtCF,24896,Börm,Eichenweg,14,,54.51462412,9.30965134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtCb,24896,Börm,Eichenweg,21,,54.51479214,9.31016675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtCf,24896,Börm,Eichenweg,23,,54.51475961,9.31054558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtCj,24896,Börm,Eichenweg,25,,54.5147705,9.31123444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtCn,24896,Börm,Eichenweg,27,,54.51460955,9.31127448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtHC,24896,Börm,Eichenweg,10,,54.51441152,9.30920919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtHG,24896,Börm,Eichenweg,8,,54.51463908,9.30912061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtHy,24896,Börm,Eichenweg,12,,54.51438191,9.30958972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtIQ,24896,Börm,Eichenweg,6,,54.51449784,9.30882437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtIU,24896,Börm,Eichenweg,4,,54.51432584,9.30849832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GtIZ,24896,Börm,Eichenweg,2,,54.51420049,9.30829098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Lbl6,24896,Börm,Eichenweg,3,a,54.51440071,9.3082976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Owhv,24896,Börm,Gromsholm,1,,54.52131931,9.30964154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005R5df,24896,Börm,Eichenweg,16,a,54.51460984,9.31010356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SDUy,24896,Börm,Eichenweg,8,a,54.51465612,9.30924461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SDVk,24896,Börm,Eichenweg,6,a,54.51455759,9.30889021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SDVv,24896,Börm,Eichenweg,4,a,54.51437785,9.30861642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a8xb,24896,Börm,Krim,13,,54.51567789,9.30683755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fs8m,24896,Börm,Am Sportplatz,6,,54.51320443,9.31332903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005o4Ba,24896,Börm,Dörpacker,34,a,54.51646714,9.30857172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060T3D,24896,Börm,Krim,21,,54.51678338,9.30662932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062uCl,24896,Börm,Treenestraße,35,a,54.51426433,9.31940922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062uCm,24896,Börm,Treenestraße,35,b,54.5141987,9.31942301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062uCn,24896,Börm,Treenestraße,35,c,54.51413289,9.31943683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000671Xt,24896,Börm,Eichenweg,16,,54.51461759,9.30995203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682Zk,24896,Börm,Holmer Straße,1,a,54.51480734,9.32254583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682Zp,24896,Börm,Holmer Straße,1,b,54.51482315,9.32294252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682qv,24896,Börm,Goosholzer Straße,33,g,54.50584899,9.30849083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682xS,24896,Börm,Goosholzer Straße,33,c,54.50618859,9.30831611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682xT,24896,Börm,Goosholzer Straße,33,d,54.50621891,9.30847267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682xU,24896,Börm,Goosholzer Straße,33,e,54.50610722,9.30837531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000682xV,24896,Börm,Goosholzer Straße,33,f,54.50613621,9.30852488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006AVul,24896,Börm,Eichenweg,10,a,54.51440568,9.30928647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H5JC,24896,Börm,Holmer Straße,1,c,54.51474074,9.32316661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Hmh6,24896,Börm,Krim,2,,54.51387091,9.30843785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MBJ5,24896,Börm,Zur Treene,2,,54.51209088,9.30845873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SDYS,24896,Börm,Dörpacker,25,a,54.51632735,9.30823505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VK3t,24896,Börm,Grüfter Straße,6,a,54.51639723,9.3230708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VK3u,24896,Börm,Grüfter Straße,6,b,54.51636742,9.32307518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0xS,24896,Börm,Lange Redder,3,,54.50477506,9.30810395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0xW,24896,Börm,Lange Redder,5,,54.50468772,9.30753208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0y0,24896,Börm,Lange Redder,7,,54.50455329,9.30702082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0y4,24896,Börm,Lange Redder,9,,54.50447124,9.30656443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0y9,24896,Börm,Lange Redder,11,,54.50435066,9.30587789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0ya,24896,Börm,Lange Redder,13,,54.50436092,9.30539575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0yg,24896,Börm,Lange Redder,15,,54.50395397,9.30497398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006a9pF,24896,Börm,Gartenstraße,21,a,54.51085144,9.30472786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006eiPC,24896,Börm,Eichenweg,18,,54.51458181,9.31045074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006iYiU,24896,Börm,Meiereistraße,1,,54.51407087,9.31878739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jn3Z,24896,Börm,Meiereistraße,3,,54.51388558,9.31808354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v5pP,24896,Börm,Am Sportplatz,2,,54.51360275,9.31324098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v5pQ,24896,Börm,Am Sportplatz,2,a,54.51358556,9.31310731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v5pR,24896,Börm,Am Sportplatz,2,b,54.51358556,9.31310731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v5pS,24896,Börm,Am Sportplatz,2,c,54.51358556,9.31310731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007C1T3,24896,Börm,Holmer Straße,21,a,54.51192597,9.32349993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007C1T4,24896,Börm,Holmer Straße,21,b,54.51187109,9.32356897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007C1T5,24896,Börm,Holmer Straße,21,c,54.51206432,9.32375632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007C1T6,24896,Börm,Holmer Straße,21,d,54.51175925,9.32409973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007C1Te,24896,Börm,Holmer Straße,21,e,54.51196541,9.32452048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LhAA,24896,Börm,Meiereiweg,11,,54.4055684,9.38105278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LhAK,24896,Börm,Meiereiweg,13,,54.40569668,9.38135323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LhAf,24896,Börm,Meerweg,4,a,54.406013,9.38163905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LhAt,24896,Börm,Meiereiweg,9,,54.40543677,9.38073753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ehha,24896,Börm,Arp-Arens-Straße,10,b,54.51599375,9.32155411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ehhg,24896,Börm,Arp-Arens-Straße,8,b,54.515814,9.3214102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ehhh,24896,Börm,Arp-Arens-Straße,8,c,54.51581406,9.32156152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I0FD,24896,Börm,Blomenwisch,16,a,54.51469688,9.32562939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I0FH,24896,Börm,Blomenwisch,18,a,54.51470516,9.32524947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I0FM,24896,Börm,Blomenwisch,20,a,54.51471573,9.32493395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I0Fv,24896,Börm,Blomenwisch,4,a,54.51390497,9.324778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I0Fz,24896,Börm,Blomenwisch,11,a,54.51403075,9.32595132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD1X,24896,Börm,Blomenwisch,22,,54.5147439,9.32456975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2D,24896,Börm,Blomenwisch,18,,54.51470324,9.3253626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2G,24896,Börm,Blomenwisch,16,,54.51469614,9.32573124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2J,24896,Börm,Blomenwisch,14,,54.51469638,9.32595955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2N,24896,Börm,Blomenwisch,1,,54.51448193,9.32465356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2Q,24896,Börm,Blomenwisch,11,,54.51403002,9.32587312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2T,24896,Börm,Blomenwisch,19,,54.51460695,9.32510784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2W,24896,Börm,Blomenwisch,2,,54.51397539,9.32440927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2Z,24896,Börm,Blomenwisch,17,,54.51459681,9.32543105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD2z,24896,Börm,Blomenwisch,20,,54.5147122,9.32506692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD32,24896,Börm,Blomenwisch,4,,54.51390509,9.3246484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD35,24896,Börm,Blomenwisch,15,,54.5145917,9.32572694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD38,24896,Börm,Blomenwisch,6,,54.51391354,9.32503241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3b,24896,Börm,Blomenwisch,13,,54.51459363,9.32605281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3e,24896,Börm,Blomenwisch,8,,54.51392145,9.32537137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3h,24896,Börm,Blomenwisch,3,,54.51401121,9.32476722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3k,24896,Börm,Blomenwisch,10,,54.51392799,9.32579372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3n,24896,Börm,Blomenwisch,5,,54.51401706,9.32501836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3q,24896,Börm,Blomenwisch,12,,54.51392793,9.32612282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3t,24896,Börm,Blomenwisch,7,,54.5140247,9.32534544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mD3z,24896,Börm,Blomenwisch,9,,54.51403086,9.32567095

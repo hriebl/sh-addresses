@@ -1,0 +1,611 @@
+# Amtliche Adressen für die Postleitzahl 24894
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkUY,24894,Twedt,Alte Landstraße,1,,54.59627122,9.67538005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkUZ,24894,Twedt,Alte Landstraße,10,,54.59693618,9.67666622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV0,24894,Twedt,Alte Landstraße,12,,54.59737876,9.67685589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV1,24894,Twedt,Alte Landstraße,14,,54.5979036,9.67719952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV2,24894,Twedt,Alte Landstraße,16,,54.59808036,9.67716597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV3,24894,Twedt,Alte Landstraße,2,,54.59599109,9.67544778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV4,24894,Twedt,Alte Landstraße,3,,54.59632415,9.67569225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV5,24894,Twedt,Alte Landstraße,4,,54.59612579,9.67593553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV6,24894,Twedt,Alte Landstraße,5,,54.59641234,9.67620042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV7,24894,Twedt,Alte Landstraße,6,,54.59613849,9.67633481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV8,24894,Twedt,Alte Landstraße,7,,54.59667522,9.67596749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkV9,24894,Twedt,Alte Landstraße,8,,54.59666558,9.67692771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVA,24894,Twedt,Buschau,26,,54.61594396,9.68198746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVB,24894,Twedt,Buschau,28,,54.61797688,9.67980629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVC,24894,Twedt,Buschau,3,,54.62135693,9.67748278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVD,24894,Twedt,Buschau,30,,54.62145801,9.67885082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVE,24894,Twedt,Buschau,32,,54.62161475,9.67748879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVF,24894,Twedt,Buschau,34,,54.62180124,9.67554597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVG,24894,Twedt,Buschau,36,,54.62177331,9.67509838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVH,24894,Twedt,Buschau,38,,54.62350171,9.66970663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVI,24894,Twedt,Buschau,4,,54.6147615,9.67904003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVJ,24894,Twedt,Buschau,40,,54.62368515,9.66928599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVK,24894,Twedt,Buschau,42,,54.62321035,9.66949468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVL,24894,Twedt,Buschau,5,,54.62231421,9.67104789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVM,24894,Twedt,Buschau,6,,54.61605034,9.68986837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVN,24894,Twedt,Buschau,7,,54.62291153,9.66981612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVO,24894,Twedt,Buschau,8,,54.61807739,9.69012276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVP,24894,Twedt,Dorfstraße,1,,54.59256884,9.67055744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVQ,24894,Twedt,Dorfstraße,10,,54.59367881,9.67571822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVR,24894,Twedt,Dorfstraße,11,,54.59365064,9.67425642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVS,24894,Twedt,Dorfstraße,11,a,54.59384312,9.67475616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVT,24894,Twedt,Dorfstraße,11,b,54.5946376,9.67587058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVU,24894,Twedt,Dorfstraße,12,,54.59412491,9.67628298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVV,24894,Twedt,Dorfstraße,13,,54.59498664,9.67668301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVW,24894,Twedt,Dorfstraße,14,,54.5942683,9.67670575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVX,24894,Twedt,Dorfstraße,14,a,54.5951986,9.67715269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVY,24894,Twedt,Dorfstraße,14,b,54.59497533,9.67709681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVZ,24894,Twedt,Dorfstraße,14,c,54.59475607,9.67698966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVa,24894,Twedt,Alte Landstraße,9,,54.59689704,9.67642917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVb,24894,Twedt,Boholzau,1,,54.62053502,9.66416777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVc,24894,Twedt,Boholzau,11,,54.62248541,9.66463214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVd,24894,Twedt,Boholzau,13,,54.62292807,9.66427867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVe,24894,Twedt,Boholzau,15,,54.62351864,9.66458381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVf,24894,Twedt,Boholzau,17,,54.6235754,9.66512689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVg,24894,Twedt,Boholzau,19,,54.62359254,9.66567397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVh,24894,Twedt,Boholzau,2,,54.61568811,9.663575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVi,24894,Twedt,Boholzau,21,,54.62360551,9.66663917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVj,24894,Twedt,Boholzau,3,,54.62169315,9.66458231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVk,24894,Twedt,Boholzau,4,,54.61736137,9.66453112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVl,24894,Twedt,Boholzau,5,,54.62190599,9.66472421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVm,24894,Twedt,Boholzau,6,,54.62072397,9.66477514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVn,24894,Twedt,Boholzau,7,,54.6222019,9.66470349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVo,24894,Twedt,Boholzau,8,,54.62236614,9.66512865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVp,24894,Twedt,Boholzau,9,,54.62235673,9.66468463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVq,24894,Twedt,Buschau,1,,54.61703972,9.67931954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVr,24894,Twedt,Buschau,10,,54.6216053,9.68941779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVs,24894,Twedt,Buschau,12,,54.62731849,9.68973775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVt,24894,Twedt,Buschau,14,,54.62317368,9.68943225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVu,24894,Twedt,Buschau,16,,54.61621151,9.68739599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVv,24894,Twedt,Buschau,18,,54.61621695,9.68526049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVw,24894,Twedt,Buschau,2,,54.61443739,9.67900016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVx,24894,Twedt,Buschau,20,,54.61613656,9.68494187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVy,24894,Twedt,Buschau,22,,54.61605943,9.68391894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkVz,24894,Twedt,Buschau,24,,54.61606081,9.68316568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW0,24894,Twedt,Dorfstraße,15,,54.59550189,9.67650956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW1,24894,Twedt,Dorfstraße,16,,54.59555343,9.67701055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW2,24894,Twedt,Dorfstraße,17,,54.595792,9.67646792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW3,24894,Twedt,Dorfstraße,18,,54.59616788,9.67690051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW4,24894,Twedt,Dorfstraße,2,,54.59240272,9.67061377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW5,24894,Twedt,Dorfstraße,3,,54.59267037,9.67090517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW6,24894,Twedt,Dorfstraße,4,,54.59251656,9.67292925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW7,24894,Twedt,Dorfstraße,5,,54.59274916,9.67120328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW8,24894,Twedt,Dorfstraße,6,,54.59244946,9.67360885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkW9,24894,Twedt,Dorfstraße,7,,54.59276349,9.67390761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWA,24894,Twedt,Grumby,25,,54.58880375,9.66616512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWB,24894,Twedt,Grumby,27,,54.58900933,9.66587212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWC,24894,Twedt,Grumby,29,,54.5886891,9.66693526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWD,24894,Twedt,Grumby,3,,54.5846478,9.66672556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWE,24894,Twedt,Grumby,31,,54.58817421,9.66717755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWF,24894,Twedt,Grumby,31,a,54.5879052,9.66723656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWG,24894,Twedt,Grumby,33,,54.58849614,9.66747064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWH,24894,Twedt,Grumby,35,,54.5908515,9.66851298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWI,24894,Twedt,Grumby,37,,54.59104828,9.66831147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWJ,24894,Twedt,Grumby,39,,54.59122258,9.66826706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWK,24894,Twedt,Grumby,4,,54.58149873,9.66973732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWL,24894,Twedt,Grumby,41,,54.59142672,9.66859617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWM,24894,Twedt,Grumby,41,a,54.59159922,9.66868222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWN,24894,Twedt,Grumby,43,,54.59213317,9.66920966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWO,24894,Twedt,Grumby,5,,54.5850257,9.6664878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWP,24894,Twedt,Grumby,6,,54.57715044,9.66761671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWQ,24894,Twedt,Grumby,7,,54.58566796,9.66639806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWR,24894,Twedt,Grumby,8,,54.58165438,9.67006932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWS,24894,Twedt,Grumby,9,,54.58634655,9.66644695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWT,24894,Twedt,Hoffnungstal,1,,54.60354199,9.68565438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWU,24894,Twedt,Hoffnungstal,2,,54.60311536,9.68586203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWV,24894,Twedt,Hoffnungstal,3,,54.60356632,9.68617085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWW,24894,Twedt,Hörneck,1,,54.5941056,9.67836439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWX,24894,Twedt,Hörneck,2,,54.59365927,9.67676714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWZ,24894,Twedt,Kappelner Straße,1,,54.59369116,9.67099529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWa,24894,Twedt,Dorfstraße,7,a,54.59301581,9.67420938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWb,24894,Twedt,Dorfstraße,8,,54.5924276,9.67405902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWc,24894,Twedt,Dorfstraße,8,a,54.59253973,9.67439272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWd,24894,Twedt,Dorfstraße,9,,54.59324667,9.67441562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWe,24894,Twedt,Dornhöh,1,,54.60395395,9.67574206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWf,24894,Twedt,Dornhöh,2,,54.60304438,9.67470583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWg,24894,Twedt,Dornhöh,3,,54.60548915,9.67360686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWh,24894,Twedt,Dornhöh,5,,54.60662935,9.67371506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWi,24894,Twedt,Eichtal,1,,54.61023159,9.68429543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWj,24894,Twedt,Eichtal,2,,54.60438769,9.6831572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWk,24894,Twedt,Grumby,1,,54.58430761,9.6651571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWl,24894,Twedt,Grumby,10,,54.58220541,9.66949132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWm,24894,Twedt,Grumby,11,,54.58674243,9.66646451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWn,24894,Twedt,Grumby,12,,54.58317234,9.66842292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWo,24894,Twedt,Grumby,13,,54.58689004,9.66689802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWp,24894,Twedt,Grumby,14,,54.58510694,9.66726224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWq,24894,Twedt,Grumby,15,,54.58703598,9.66670643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWr,24894,Twedt,Grumby,16,,54.58588348,9.66730881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWs,24894,Twedt,Grumby,17,,54.58713479,9.66706255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWt,24894,Twedt,Grumby,18,,54.58659821,9.66718727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWu,24894,Twedt,Grumby,19,,54.58729607,9.66704688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWv,24894,Twedt,Grumby,2,,54.58380877,9.66690094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWw,24894,Twedt,Grumby,20,,54.5871907,9.66743544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWx,24894,Twedt,Grumby,21,,54.58749608,9.66708662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWy,24894,Twedt,Grumby,22,,54.58749476,9.66759802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkWz,24894,Twedt,Grumby,23,,54.58857513,9.66634449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX0,24894,Twedt,Kappelner Straße,11,,54.59911458,9.67698302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX1,24894,Twedt,Kappelner Straße,13,,54.59938542,9.67713851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX2,24894,Twedt,Kappelner Straße,15,,54.60012033,9.67776776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX3,24894,Twedt,Kappelner Straße,2,,54.59322829,9.67105131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX4,24894,Twedt,Kappelner Straße,3,,54.59390763,9.6708789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX5,24894,Twedt,Kappelner Straße,4,,54.5982946,9.67721375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX6,24894,Twedt,Kappelner Straße,5,,54.59420352,9.67131078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX7,24894,Twedt,Kappelner Straße,6,,54.59872373,9.68056039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX8,24894,Twedt,Kappelner Straße,7,,54.59864682,9.67677196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkX9,24894,Twedt,Kappelner Straße,8,,54.60015635,9.6787176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXA,24894,Twedt,Unter den Linden,7,,54.59677847,9.67779039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXB,24894,Twedt,Unter den Linden,8,,54.59660194,9.67768053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXC,24894,Twedt,Unter den Linden,9,,54.59640828,9.67749871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXD,24894,Twedt,Voerberg,1,,54.59505239,9.66765954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXE,24894,Twedt,Voerberg,2,,54.59542078,9.67221935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXF,24894,Twedt,Voerberg,3,,54.5949932,9.66710235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXG,24894,Twedt,Voerberg,4,,54.59537503,9.66814622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXH,24894,Twedt,Voerberg,6,,54.59507117,9.66696472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXa,24894,Twedt,Kappelner Straße,9,,54.59886983,9.67687505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXb,24894,Twedt,Kastanienallee,1,,54.5927701,9.67558659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXc,24894,Twedt,Kastanienallee,2,,54.59291286,9.6749978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXd,24894,Twedt,Kastanienallee,4,,54.59274759,9.67528151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXe,24894,Twedt,Kastanienallee,6,,54.59254077,9.67527677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXf,24894,Twedt,Margarethenweg,1,,54.59591517,9.67730959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXg,24894,Twedt,Schmiedestraße,1,,54.59764333,9.67691148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXh,24894,Twedt,Schmiedestraße,10,,54.59811973,9.67840036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXi,24894,Twedt,Schmiedestraße,11,,54.59805789,9.6780928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXj,24894,Twedt,Schmiedestraße,12,,54.59784054,9.67792026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXk,24894,Twedt,Schmiedestraße,2,,54.59767084,9.6775189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXl,24894,Twedt,Schmiedestraße,3,,54.59768027,9.67789037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXm,24894,Twedt,Schmiedestraße,4,,54.59767721,9.67819371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXn,24894,Twedt,Schmiedestraße,6,,54.59769138,9.67870001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXo,24894,Twedt,Schmiedestraße,7,,54.59785434,9.67889479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXp,24894,Twedt,Schmiedestraße,8,,54.59802478,9.67892095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXq,24894,Twedt,Schmiedestraße,9,,54.5980909,9.67867627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXr,24894,Twedt,Tolkschubyer Straße,20,,54.60161496,9.64815921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXs,24894,Twedt,Unter den Linden,1,,54.59699614,9.67762078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXt,24894,Twedt,Unter den Linden,2,,54.59717291,9.67779776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXu,24894,Twedt,Unter den Linden,3,,54.59730228,9.67788363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXv,24894,Twedt,Unter den Linden,3,a,54.59736843,9.67787093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXw,24894,Twedt,Unter den Linden,4,,54.59735644,9.67835967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXx,24894,Twedt,Unter den Linden,4,a,54.59736485,9.67852778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXy,24894,Twedt,Unter den Linden,5,,54.59718096,9.6781763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkXz,24894,Twedt,Unter den Linden,6,,54.59700867,9.67802231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkrZ,24894,Twedt,Alte Dorfstraße,1,,54.57774655,9.63913156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks0,24894,Twedt,Alte Dorfstraße,10,,54.57956627,9.63971417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks1,24894,Twedt,Alte Dorfstraße,11,,54.57952834,9.63906096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks2,24894,Twedt,Alte Dorfstraße,12,,54.57983205,9.63931229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks3,24894,Twedt,Alte Dorfstraße,13,,54.57950758,9.63849831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks4,24894,Twedt,Alte Dorfstraße,14,,54.57975228,9.63889287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks5,24894,Twedt,Alte Dorfstraße,15,,54.57965132,9.63812964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks6,24894,Twedt,Alte Dorfstraße,16,,54.58027486,9.63837907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks7,24894,Twedt,Alte Dorfstraße,17,,54.57971954,9.6374221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks8,24894,Twedt,Alte Dorfstraße,18,,54.58017982,9.63761358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nks9,24894,Twedt,Alte Dorfstraße,19,,54.57961189,9.6364388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksA,24894,Twedt,Alte Dorfstraße,5,,54.57837291,9.63862959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksB,24894,Twedt,Alte Dorfstraße,6,,54.57875962,9.63984073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksC,24894,Twedt,Alte Dorfstraße,7,,54.57866817,9.63921291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksD,24894,Twedt,Alte Dorfstraße,8,,54.5789432,9.63981029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksE,24894,Twedt,Alte Dorfstraße,9,,54.57910116,9.63952721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksF,24894,Twedt,An der Schule,1,,54.57706764,9.64407273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksG,24894,Twedt,An der Schule,10,,54.57727948,9.64510613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksH,24894,Twedt,An der Schule,11,,54.57727201,9.64415114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksI,24894,Twedt,An der Schule,12,,54.57723215,9.6447967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksJ,24894,Twedt,An der Schule,14,,54.57721425,9.64447368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksK,24894,Twedt,An der Schule,16,,54.57761229,9.64461338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksL,24894,Twedt,An der Schule,2,,54.57701934,9.64443677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksM,24894,Twedt,An der Schule,3,,54.57717027,9.64372323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksN,24894,Twedt,An der Schule,4,,54.57705243,9.64478495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksO,24894,Twedt,An der Schule,5,,54.57724331,9.64338489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksP,24894,Twedt,An der Schule,6,,54.57706715,9.64508805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksQ,24894,Twedt,An der Schule,7,,54.57722332,9.64301699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksR,24894,Twedt,An der Schule,8,,54.57705036,9.6453655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksS,24894,Twedt,An der Schule,9,,54.57733948,9.64383574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksT,24894,Twedt,Auwiese,1,,54.59380436,9.62683403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksU,24894,Twedt,Blasberg,1,,54.59133158,9.63891699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksV,24894,Twedt,Blasberg,2,,54.59592053,9.63366475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksW,24894,Twedt,Blasberg,4,,54.59775901,9.63232033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksX,24894,Twedt,Bökwatt,1,,54.57981734,9.63967832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksY,24894,Twedt,Bökwatt,11,,54.58107809,9.64076728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NksZ,24894,Twedt,Bökwatt,13,,54.58123071,9.64081955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksa,24894,Twedt,Alte Dorfstraße,2,,54.57803484,9.63953638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksb,24894,Twedt,Alte Dorfstraße,20,,54.5801305,9.63668374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksc,24894,Twedt,Alte Dorfstraße,21,,54.57971965,9.63587374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksd,24894,Twedt,Alte Dorfstraße,22,,54.58008434,9.63620306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkse,24894,Twedt,Alte Dorfstraße,22,a,54.58031564,9.63632055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksf,24894,Twedt,Alte Dorfstraße,23,,54.57998573,9.63531938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksg,24894,Twedt,Alte Dorfstraße,24,,54.58017965,9.63602672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksh,24894,Twedt,Alte Dorfstraße,24,a,54.58021249,9.63595667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksi,24894,Twedt,Alte Dorfstraße,25,,54.58038034,9.63518316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksj,24894,Twedt,Alte Dorfstraße,26,,54.58024354,9.63588627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksk,24894,Twedt,Alte Dorfstraße,26,a,54.5802774,9.63581444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksl,24894,Twedt,Alte Dorfstraße,27,,54.58047277,9.63483247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksm,24894,Twedt,Alte Dorfstraße,28,,54.58053639,9.6355098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksn,24894,Twedt,Alte Dorfstraße,29,,54.58134174,9.63392878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkso,24894,Twedt,Alte Dorfstraße,3,,54.57797764,9.63902437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksp,24894,Twedt,Alte Dorfstraße,30,,54.58092034,9.6352932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksq,24894,Twedt,Alte Dorfstraße,31,,54.58207318,9.63292698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksr,24894,Twedt,Alte Dorfstraße,32,,54.58115774,9.63474971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkss,24894,Twedt,Alte Dorfstraße,33,,54.58282473,9.63289869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkst,24894,Twedt,Alte Dorfstraße,34,,54.58130281,9.63450933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksu,24894,Twedt,Alte Dorfstraße,35,,54.58302976,9.6329436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksv,24894,Twedt,Alte Dorfstraße,36,,54.58135742,9.6344668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksw,24894,Twedt,Alte Dorfstraße,38,,54.58169214,9.63465508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksx,24894,Twedt,Alte Dorfstraße,4,,54.57855191,9.63973881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksy,24894,Twedt,Alte Dorfstraße,40,,54.58236478,9.63349823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nksz,24894,Twedt,Alte Dorfstraße,42,,54.58304104,9.63458106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt0,24894,Twedt,Bökwatt,13,a,54.58146464,9.64104191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt1,24894,Twedt,Bökwatt,13,b,54.58166673,9.64124887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt2,24894,Twedt,Bökwatt,13,c,54.58173149,9.64123121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt3,24894,Twedt,Bökwatt,15,,54.58208033,9.64166524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt4,24894,Twedt,Bökwatt,15,a,54.58222223,9.64137533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt5,24894,Twedt,Bökwatt,17,,54.58297462,9.64337228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt6,24894,Twedt,Bökwatt,19,,54.5827438,9.64395382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt7,24894,Twedt,Bökwatt,2,,54.57975101,9.64071531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt8,24894,Twedt,Bökwatt,21,,54.58267028,9.64408791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkt9,24894,Twedt,Bökwatt,21,a,54.58263698,9.64414711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktA,24894,Twedt,Eckernförder Straße,16,,54.57637354,9.64335675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktB,24894,Twedt,Eckernförder Straße,17,,54.57672595,9.64304646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktC,24894,Twedt,Eckernförder Straße,18,,54.57621468,9.64433849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktD,24894,Twedt,Eckernförder Straße,19,,54.57666825,9.64331385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktE,24894,Twedt,Eckernförder Straße,2,,54.57739627,9.63926568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktF,24894,Twedt,Eckernförder Straße,21,,54.57659055,9.6435863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktG,24894,Twedt,Eckernförder Straße,23,,54.57654453,9.64390296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktH,24894,Twedt,Eckernförder Straße,25,,54.57651255,9.64424051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktI,24894,Twedt,Eckernförder Straße,27,,54.5764959,9.6446142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktJ,24894,Twedt,Eckernförder Straße,29,,54.57647502,9.64482614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktK,24894,Twedt,Eckernförder Straße,3,,54.57734825,9.64041768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktL,24894,Twedt,Eckernförder Straße,31,,54.57644807,9.64514396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktM,24894,Twedt,Eckernförder Straße,33,,54.57642997,9.64537917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktN,24894,Twedt,Eckernförder Straße,35,,54.57639963,9.6456814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktO,24894,Twedt,Eckernförder Straße,37,,54.57696338,9.64613214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktP,24894,Twedt,Eckernförder Straße,39,,54.57637478,9.64712383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktQ,24894,Twedt,Eckernförder Straße,4,,54.57725291,9.63972533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktR,24894,Twedt,Eckernförder Straße,4,a,54.57703236,9.6400774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktS,24894,Twedt,Eckernförder Straße,5,,54.57728168,9.64067659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktT,24894,Twedt,Eckernförder Straße,6,,54.57695346,9.640673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktU,24894,Twedt,Eckernförder Straße,7,,54.57720718,9.64113544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktV,24894,Twedt,Eckernförder Straße,8,,54.57682593,9.64180139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktW,24894,Twedt,Eckernförder Straße,9,,54.5770378,9.64203802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktX,24894,Twedt,Eckernförder Straße,9,a,54.57753703,9.64262575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktY,24894,Twedt,Flensburger Straße,1,,54.58326665,9.63288261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NktZ,24894,Twedt,Flensburger Straße,10,,54.58378676,9.63139287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkta,24894,Twedt,Bökwatt,23,,54.58290402,9.64490283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktb,24894,Twedt,Bökwatt,25,,54.58341219,9.64485959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktc,24894,Twedt,Bökwatt,27,,54.58360797,9.64486273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktd,24894,Twedt,Bökwatt,29,,54.5926985,9.64380044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkte,24894,Twedt,Bökwatt,3,,54.57984288,9.63992163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktf,24894,Twedt,Bökwatt,4,,54.57967195,9.64086025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktg,24894,Twedt,Bökwatt,5,,54.57996826,9.64033524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkth,24894,Twedt,Bökwatt,6,,54.58015394,9.64090802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkti,24894,Twedt,Bökwatt,7,,54.58015898,9.64046536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktj,24894,Twedt,Bökwatt,8,,54.58905413,9.64496818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktk,24894,Twedt,Bökwatt,9,,54.5803776,9.64058829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktm,24894,Twedt,Bundesstraße,2,,54.57242268,9.64594803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktn,24894,Twedt,Dallacker Weg,1,,54.57755759,9.63876652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkto,24894,Twedt,Dallacker Weg,2,,54.57763976,9.63814784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktp,24894,Twedt,Dallacker Weg,3,,54.5774304,9.63805004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktq,24894,Twedt,Dallacker Weg,4,,54.57760489,9.63759181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktr,24894,Twedt,Dallacker Weg,5,,54.57741118,9.6378984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkts,24894,Twedt,Dallacker Weg,7,,54.57739261,9.63774624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktt,24894,Twedt,Eckernförder Straße,1,,54.57750888,9.63998243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktu,24894,Twedt,Eckernförder Straße,10,,54.57671482,9.64215864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktv,24894,Twedt,Eckernförder Straße,11,,54.5769383,9.64231685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktw,24894,Twedt,Eckernförder Straße,12,,54.57661753,9.64259872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktx,24894,Twedt,Eckernförder Straße,13,,54.57685337,9.64260705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkty,24894,Twedt,Eckernförder Straße,14,,54.57650049,9.64294484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nktz,24894,Twedt,Eckernförder Straße,15,,54.57682089,9.64275231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku0,24894,Twedt,Flensburger Straße,11,,54.58469405,9.62559162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku1,24894,Twedt,Flensburger Straße,12,,54.58384995,9.63105014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku2,24894,Twedt,Flensburger Straße,13,,54.58482728,9.62531225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku3,24894,Twedt,Flensburger Straße,14,,54.58387783,9.63073297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku4,24894,Twedt,Flensburger Straße,15,,54.58579384,9.622436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku5,24894,Twedt,Flensburger Straße,16,,54.58391766,9.62847756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku6,24894,Twedt,Flensburger Straße,17,,54.5868126,9.61762929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku7,24894,Twedt,Flensburger Straße,18,,54.58428036,9.62735677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku8,24894,Twedt,Flensburger Straße,2,,54.58343032,9.63303273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nku9,24894,Twedt,Flensburger Straße,20,,54.58438682,9.62690659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuA,24894,Twedt,Kirchmoor,6,,54.57508689,9.63814981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuB,24894,Twedt,Nordacker Weg,1,,54.57618375,9.64289108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuC,24894,Twedt,Nordacker Weg,10,,54.57600463,9.64247899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuD,24894,Twedt,Nordacker Weg,12,,54.57574101,9.64263109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuE,24894,Twedt,Nordacker Weg,14,,54.57541137,9.64262595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuF,24894,Twedt,Nordacker Weg,16,,54.57518982,9.64286641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuG,24894,Twedt,Nordacker Weg,2,,54.57683615,9.64107872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuH,24894,Twedt,Nordacker Weg,4,,54.57670642,9.64141926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuI,24894,Twedt,Nordacker Weg,6,,54.57648852,9.64169835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuJ,24894,Twedt,Nordacker Weg,8,,54.57631239,9.64203107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuK,24894,Twedt,Pastoratsweg,1,,54.57938686,9.64137031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuL,24894,Twedt,Pastoratsweg,2,,54.57922294,9.6399257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuM,24894,Twedt,Pastoratsweg,3,,54.57923383,9.64172908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuN,24894,Twedt,Pastoratsweg,4,,54.57923291,9.64009041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuO,24894,Twedt,Pastoratsweg,6,,54.57936721,9.64055355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuP,24894,Twedt,Tolkschubyer Straße,1,,54.58396926,9.63328856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuQ,24894,Twedt,Tolkschubyer Straße,10,,54.59746859,9.64617086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuR,24894,Twedt,Tolkschubyer Straße,11,,54.59448667,9.64366059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuS,24894,Twedt,Tolkschubyer Straße,12,,54.59800188,9.64674189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuT,24894,Twedt,Tolkschubyer Straße,13,,54.59498118,9.64385186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuU,24894,Twedt,Tolkschubyer Straße,14,,54.59810748,9.64685529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuV,24894,Twedt,Tolkschubyer Straße,15,,54.59520755,9.64324207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuW,24894,Twedt,Tolkschubyer Straße,16,,54.59820318,9.64681627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuX,24894,Twedt,Tolkschubyer Straße,17,,54.59525212,9.64383792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuY,24894,Twedt,Tolkschubyer Straße,18,,54.59903604,9.64747692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkuZ,24894,Twedt,Tolkschubyer Straße,19,,54.59539208,9.64386605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkua,24894,Twedt,Flensburger Straße,22,,54.58477057,9.62621534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkub,24894,Twedt,Flensburger Straße,24,,54.58507043,9.6255134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuc,24894,Twedt,Flensburger Straße,24,a,54.58504802,9.62557715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkud,24894,Twedt,Flensburger Straße,26,,54.58517662,9.62523721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkue,24894,Twedt,Flensburger Straße,28,,54.58534907,9.6246997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuf,24894,Twedt,Flensburger Straße,3,,54.58337143,9.63203445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkug,24894,Twedt,Flensburger Straße,30,,54.58651949,9.62160212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkui,24894,Twedt,Flensburger Straße,5,,54.58342807,9.63177304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuj,24894,Twedt,Flensburger Straße,6,,54.58363002,9.6322072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuk,24894,Twedt,Flensburger Straße,7,,54.58347053,9.63142029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkul,24894,Twedt,Flensburger Straße,7,a,54.58351922,9.63113447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkum,24894,Twedt,Flensburger Straße,8,,54.58366142,9.63175743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkun,24894,Twedt,Flensburger Straße,9,,54.58458286,9.62586591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuo,24894,Twedt,Gräberg,2,,54.59009287,9.63695069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkup,24894,Twedt,Gräberg,4,,54.5904065,9.63619648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuq,24894,Twedt,Grunewald,1,,54.58912236,9.62411787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkur,24894,Twedt,Hoböck,1,,54.58492615,9.62050988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkus,24894,Twedt,Hoböck,2,,54.5847555,9.62085439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkut,24894,Twedt,Hoböck,3,,54.58498688,9.62082406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuu,24894,Twedt,Hoböck,4,,54.58482093,9.62126044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuv,24894,Twedt,Hoböck,5,,54.58502933,9.62126739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuw,24894,Twedt,Hoböck,6,,54.58483523,9.62167546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkux,24894,Twedt,Hoböck,7,,54.58503293,9.62164551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuy,24894,Twedt,Kirchmoor,2,,54.57488744,9.64005158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkuz,24894,Twedt,Kirchmoor,4,,54.57503344,9.63948759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv0,24894,Twedt,Tolkschubyer Straße,2,,54.59157745,9.63991583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv1,24894,Twedt,Tolkschubyer Straße,21,,54.59743616,9.64548758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv2,24894,Twedt,Tolkschubyer Straße,23,,54.59764155,9.64588528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv3,24894,Twedt,Tolkschubyer Straße,25,,54.59826301,9.64663559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv4,24894,Twedt,Tolkschubyer Straße,27,,54.59854078,9.64673888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv5,24894,Twedt,Tolkschubyer Straße,3,,54.58643714,9.63495182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv6,24894,Twedt,Tolkschubyer Straße,5,,54.59161583,9.63925253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv7,24894,Twedt,Tolkschubyer Straße,6,,54.59320692,9.64399161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv8,24894,Twedt,Tolkschubyer Straße,7,,54.59241013,9.64165695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkv9,24894,Twedt,Tolkschubyer Straße,8,,54.59366418,9.64402986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvA,24894,Twedt,Am Finkmoor,2,,54.57732316,9.62563013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvB,24894,Twedt,Am Finkmoor,3,,54.57493906,9.62089402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvC,24894,Twedt,Am Finkmoor,4,,54.57615676,9.62498629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvD,24894,Twedt,Am Finkmoor,6,,54.57577397,9.62419977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvE,24894,Twedt,Am Finkmoor,6,a,54.5753271,9.62193899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvF,24894,Twedt,Am Finkmoor,8,,54.57517041,9.62134295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvG,24894,Twedt,Am Finkmoor,8,a,54.57522707,9.62151542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvH,24894,Twedt,Birkengrund,1,,54.58186201,9.61513852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvI,24894,Twedt,Birkengrund,1,a,54.58247395,9.61559489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvJ,24894,Twedt,Grüner Weg,1,,54.58423604,9.61658563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvK,24894,Twedt,Grüner Weg,2,,54.58428944,9.61772723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvL,24894,Twedt,Lange Straße,10,,54.58048162,9.62346195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvM,24894,Twedt,Lange Straße,11,,54.58254134,9.62058003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvN,24894,Twedt,Lange Straße,13,,54.58289437,9.62025874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvO,24894,Twedt,Lange Straße,15,,54.58322121,9.61995764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvP,24894,Twedt,Lange Straße,17,,54.58325961,9.61982276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvQ,24894,Twedt,Lange Straße,2,,54.57965753,9.6250903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvR,24894,Twedt,Lange Straße,3,,54.58040496,9.62304572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvS,24894,Twedt,Lange Straße,4,,54.57979216,9.62455331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvT,24894,Twedt,Lange Straße,5,,54.58109225,9.6219785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvU,24894,Twedt,Lange Straße,5,a,54.58173341,9.62096087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvV,24894,Twedt,Lange Straße,5,b,54.58173732,9.62064507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvW,24894,Twedt,Lange Straße,5,c,54.58179217,9.62053354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvX,24894,Twedt,Lange Straße,6,,54.57996226,9.62432425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvY,24894,Twedt,Lange Straße,7,,54.581983,9.62102986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkvZ,24894,Twedt,Lange Straße,8,,54.58040674,9.62357389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkva,24894,Twedt,Tolkschubyer Straße,9,,54.59250051,9.64257917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvb,24894,Twedt,Tolkschubyer Straße,9,a,54.59258839,9.64220833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvc,24894,Twedt,Zum Seeberg,1,,54.57930817,9.63432757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvd,24894,Twedt,Zum Seeberg,2,,54.58080938,9.63379855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkve,24894,Twedt,Zum Seeberg,4,,54.58026678,9.63412123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvf,24894,Twedt,Zum Seeberg,4,a,54.58000351,9.63415622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvg,24894,Twedt,Zum Seeberg,6,,54.57981909,9.63420217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvh,24894,Twedt,Zum Seeberg,8,,54.57965146,9.63410423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvi,24894,Twedt,Nordertoft,1,,54.58067283,9.640463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvj,24894,Twedt,Nordertoft,11,,54.58137242,9.63963087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvk,24894,Twedt,Nordertoft,2,,54.58086261,9.64052864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvl,24894,Twedt,Nordertoft,3,,54.58057901,9.63989953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvm,24894,Twedt,Nordertoft,3,a,54.58028558,9.63970633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvn,24894,Twedt,Nordertoft,4,,54.58089259,9.64013485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvo,24894,Twedt,Nordertoft,5,,54.58040775,9.63942196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvp,24894,Twedt,Nordertoft,6,,54.58114979,9.63984083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvq,24894,Twedt,Nordertoft,7,,54.58069925,9.63951294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvr,24894,Twedt,Nordertoft,8,,54.5813405,9.63999377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvs,24894,Twedt,Nordertoft,9,,54.58101169,9.63955215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvt,24894,Twedt,Feldstraße,1,,54.58688859,9.63445317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvu,24894,Twedt,Feldstraße,2,,54.58896402,9.63363102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvv,24894,Twedt,Feldstraße,3,,54.58820041,9.63358814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvw,24894,Twedt,Feldstraße,4,,54.59023025,9.63284993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvx,24894,Twedt,Feldstraße,5,,54.59127488,9.63171715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvy,24894,Twedt,Feldstraße,6,,54.59337321,9.63114095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkvz,24894,Twedt,Am Finkmoor,1,,54.57653834,9.62549625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw0,24894,Twedt,Lange Straße,9,,54.5822112,9.62088353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw1,24894,Twedt,Lobacker,1,,54.58389542,9.62459293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw2,24894,Twedt,Lobacker,10,,54.58309581,9.61816536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw3,24894,Twedt,Lobacker,11,,54.58362524,9.62253102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw4,24894,Twedt,Lobacker,12,,54.58322064,9.6177291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw5,24894,Twedt,Lobacker,13,,54.58362217,9.62220904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw6,24894,Twedt,Lobacker,14,,54.58289067,9.61695056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw7,24894,Twedt,Lobacker,15,,54.58363588,9.62184374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw8,24894,Twedt,Lobacker,16,,54.58291027,9.61660002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkw9,24894,Twedt,Lobacker,17,,54.58358413,9.62155338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwA,24894,Twedt,Lobacker,9,,54.58368674,9.62297115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwB,24894,Twedt,Seekoppel,1,,54.58294351,9.61834999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwC,24894,Twedt,Seekoppel,10,,54.5814337,9.61667392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwD,24894,Twedt,Seekoppel,2,,54.58252784,9.61766482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwE,24894,Twedt,Seekoppel,3,,54.58243141,9.61800313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwF,24894,Twedt,Seekoppel,3,a,54.58226513,9.61779116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwG,24894,Twedt,Seekoppel,4,,54.58220497,9.61734057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwH,24894,Twedt,Seekoppel,4,a,54.5823816,9.61749537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwI,24894,Twedt,Seekoppel,5,,54.58186395,9.61743348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwJ,24894,Twedt,Seekoppel,6,,54.58187994,9.61703958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwK,24894,Twedt,Seekoppel,7,,54.58145618,9.61711027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwL,24894,Twedt,Seekoppel,8,,54.58172859,9.61683469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwM,24894,Twedt,Seekoppel,9,,54.58123306,9.61700232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwN,24894,Twedt,Spielkoppel,1,,54.58251769,9.61997845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwO,24894,Twedt,Spielkoppel,10,,54.5824222,9.61926895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwP,24894,Twedt,Spielkoppel,12,,54.58225218,9.61913251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwQ,24894,Twedt,Spielkoppel,12,a,54.5822094,9.61891578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwR,24894,Twedt,Spielkoppel,14,,54.58197205,9.61908645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwS,24894,Twedt,Spielkoppel,16,,54.5820237,9.61890255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwT,24894,Twedt,Spielkoppel,18,,54.58170179,9.61882021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwU,24894,Twedt,Spielkoppel,2,,54.58294688,9.61979442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwV,24894,Twedt,Spielkoppel,20,,54.58173938,9.61869502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwW,24894,Twedt,Spielkoppel,22,,54.58143369,9.61859856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwX,24894,Twedt,Spielkoppel,24,,54.58146102,9.61846555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwY,24894,Twedt,Spielkoppel,26,,54.58116336,9.61838526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkwZ,24894,Twedt,Spielkoppel,28,,54.58119629,9.61826785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwa,24894,Twedt,Lobacker,18,,54.5829744,9.61617697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwb,24894,Twedt,Lobacker,19,,54.5835294,9.62118507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwc,24894,Twedt,Lobacker,2,,54.58428008,9.62533105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwd,24894,Twedt,Lobacker,2,a,54.58425364,9.62499405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwe,24894,Twedt,Lobacker,20,,54.58297517,9.61540377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwf,24894,Twedt,Lobacker,21,,54.58350019,9.62085912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwg,24894,Twedt,Lobacker,22,,54.58302401,9.61467641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwh,24894,Twedt,Lobacker,23,,54.58346798,9.62056337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwi,24894,Twedt,Lobacker,25,,54.58342188,9.62032151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwj,24894,Twedt,Lobacker,27,,54.58317151,9.6193762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwk,24894,Twedt,Lobacker,29,,54.58271728,9.61888449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwl,24894,Twedt,Lobacker,3,,54.58392561,9.62418063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwm,24894,Twedt,Lobacker,31,,54.58299069,9.61869745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwn,24894,Twedt,Lobacker,33,,54.58266376,9.61699459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwo,24894,Twedt,Lobacker,33,a,54.5824296,9.61657355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwp,24894,Twedt,Lobacker,35,,54.58268669,9.61619108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwq,24894,Twedt,Lobacker,37,,54.5827467,9.61576051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwr,24894,Twedt,Lobacker,39,,54.58277677,9.61531166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkws,24894,Twedt,Lobacker,4,,54.58416986,9.62380165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwt,24894,Twedt,Lobacker,4,a,54.58397762,9.62298336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwu,24894,Twedt,Lobacker,5,,54.58383472,9.62365793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwv,24894,Twedt,Lobacker,6,,54.58389072,9.6226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkww,24894,Twedt,Lobacker,6,a,54.58389137,9.62224174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwx,24894,Twedt,Lobacker,7,,54.58371654,9.62315876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwy,24894,Twedt,Lobacker,8,,54.5839228,9.62176137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkwz,24894,Twedt,Lobacker,8,a,54.58391211,9.62140195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx0,24894,Twedt,Spielkoppel,4,,54.58298462,9.61966887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx1,24894,Twedt,Spielkoppel,6,,54.58268355,9.61956065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx2,24894,Twedt,Spielkoppel,8,,54.58271669,9.61944452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx3,24894,Twedt,Wiesenstraße,12,,54.58227966,9.6250696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx4,24894,Twedt,Wiesenstraße,2,,54.5839123,9.62490216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx5,24894,Twedt,Wiesenstraße,4,,54.58375492,9.62507095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx6,24894,Twedt,Wiesenstraße,6,,54.58343733,9.62495369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx7,24894,Twedt,Wiesenstraße,8,,54.58298751,9.62484182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx8,24894,Twedt,Lindenweg,1,,54.57387397,9.62024629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkx9,24894,Twedt,Moorweg,1,,54.57412384,9.62400752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxA,24894,Twedt,Grasteen,2,,54.5838207,9.620894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxB,24894,Twedt,Grasteen,20,,54.58603051,9.62011246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxC,24894,Twedt,Grasteen,21,,54.58498953,9.61916609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxD,24894,Twedt,Grasteen,23,,54.58531594,9.61909834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxE,24894,Twedt,Grasteen,25,,54.58532756,9.61972471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxF,24894,Twedt,Grasteen,27,,54.58557457,9.6195956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxG,24894,Twedt,Grasteen,29,,54.58554576,9.6191643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxH,24894,Twedt,Grasteen,3,,54.5839738,9.620475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxI,24894,Twedt,Grasteen,3,a,54.58405761,9.62043007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxJ,24894,Twedt,Grasteen,31,,54.58573054,9.61904642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxK,24894,Twedt,Grasteen,33,,54.58577631,9.61947763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxL,24894,Twedt,Grasteen,35,,54.58597819,9.61952244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxM,24894,Twedt,Grasteen,4,,54.58416088,9.62082384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxN,24894,Twedt,Grasteen,5,,54.58425656,9.62032477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxO,24894,Twedt,Grasteen,6,,54.58425064,9.6212668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxP,24894,Twedt,Grasteen,7,,54.58460963,9.61993035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxQ,24894,Twedt,Grasteen,8,,54.58441064,9.62133386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxR,24894,Twedt,Grasteen,9,,54.58448081,9.61969984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkxS,24894,Twedt,Grasteen,9,a,54.5844573,9.61957467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxa,24894,Twedt,Flurstraße,1,,54.59713765,9.64579231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxb,24894,Twedt,Flurstraße,2,,54.59675428,9.64634493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxc,24894,Twedt,Flurstraße,3,,54.59679526,9.64840725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxd,24894,Twedt,Flurstraße,4,,54.59644262,9.64924599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxe,24894,Twedt,Flurstraße,5,,54.59682429,9.64868071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxf,24894,Twedt,Flurstraße,7,,54.59670089,9.64980482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxg,24894,Twedt,Flurstraße,9,,54.59640386,9.65259041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxh,24894,Twedt,Hofstraße,1,,54.59771197,9.64139369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxi,24894,Twedt,Hofstraße,2,,54.59868653,9.64145605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxj,24894,Twedt,Hofstraße,3,,54.60081081,9.63956672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxk,24894,Twedt,Hofstraße,4,,54.6011534,9.6402474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxl,24894,Twedt,Hofstraße,5,,54.60182233,9.63943656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxn,24894,Twedt,Grasteen,1,,54.58377785,9.62056389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxo,24894,Twedt,Grasteen,10,,54.5843837,9.62082562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxp,24894,Twedt,Grasteen,11,,54.58437329,9.61923879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxq,24894,Twedt,Grasteen,12,,54.58464402,9.62039813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxr,24894,Twedt,Grasteen,13,,54.58458888,9.61912576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxs,24894,Twedt,Grasteen,14,,54.58490151,9.6201936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxt,24894,Twedt,Grasteen,15,,54.58468721,9.61946559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxu,24894,Twedt,Grasteen,16,,54.58524273,9.62002509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxv,24894,Twedt,Grasteen,16,a,54.58536459,9.62007098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxw,24894,Twedt,Grasteen,17,,54.58487286,9.61985067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxx,24894,Twedt,Grasteen,18,,54.58559184,9.62003443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxy,24894,Twedt,Grasteen,19,,54.58510683,9.61964361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nkxz,24894,Twedt,Grasteen,19,a,54.58508775,9.61947945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KerA,24894,Twedt,Margarethenweg,8,,54.5959252,9.67779358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KerB,24894,Twedt,Margarethenweg,6,,54.59573128,9.67777058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Keru,24894,Twedt,Margarethenweg,10,,54.59611579,9.67800821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Kerw,24894,Twedt,Margarethenweg,12,,54.59628753,9.67824646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Kes9,24894,Twedt,Margarethenweg,4,,54.59555945,9.67763443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Kesi,24894,Twedt,Margarethenweg,2,,54.59536324,9.67749579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Kesm,24894,Twedt,Margarethenweg,3,,54.59663714,9.67819177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WYKK,24894,Twedt,Alt-Tolkschuby,29,,54.60744888,9.65126717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WYLh,24894,Twedt,Alt-Tolkschuby,31,,54.60754593,9.65157654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XE5S,24894,Twedt,Dorfstraße,17,a,54.59573812,9.67606835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XeP0,24894,Twedt,Lammershagen,2,,54.60353834,9.67809853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jweh,24894,Twedt,Seekoppel,1,a,54.58262485,9.61811646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GGS,24894,Twedt,Westerfeld,1,,54.5856158,9.6204981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GGY,24894,Twedt,Westerfeld,3,,54.58562659,9.62082232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GH4,24894,Twedt,Westerfeld,5,,54.58583105,9.62116232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GHg,24894,Twedt,Westerfeld,4,,54.5854303,9.62085651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GHj,24894,Twedt,Westerfeld,2,,54.585422,9.62047405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GI9,24894,Twedt,Westerfeld,7,,54.58566713,9.62156067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GIQ,24894,Twedt,Westerfeld,10,,54.58548507,9.62195581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GIe,24894,Twedt,Westerfeld,9,,54.58567686,9.62184746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063GIi,24894,Twedt,Westerfeld,8,,54.58544803,9.62161165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GCGE,24894,Twedt,Margarethenweg,4,a,54.59553399,9.67775258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GCGW,24894,Twedt,Margarethenweg,6,a,54.59570692,9.67788491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GCGx,24894,Twedt,Margarethenweg,2,a,54.59533008,9.67765036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KWqq,24894,Twedt,Hoböck,12,,54.58449986,9.62235555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OALo,24894,Twedt,Hoböck,3,a,54.58499745,9.62091362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QhYl,24894,Twedt,Kappelner Straße,17,,54.60379169,9.68324116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006b87p,24894,Twedt,Hoböck,1,a,54.58494048,9.62059609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006keHd,24894,Twedt,Bökwatt,15,c,54.58307633,9.64294961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006keHh,24894,Twedt,Bökwatt,15,b,54.58235342,9.64155084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s71P,24894,Twedt,Hoböck,13,,54.58516985,9.62278841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s71V,24894,Twedt,Hoböck,15,,54.58478218,9.62266472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s721,24894,Twedt,Hoböck,9,,54.58504194,9.62194797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s72E,24894,Twedt,Hoböck,21,,54.58427537,9.62229629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s72Q,24894,Twedt,Hoböck,10,,54.5847687,9.62239098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s72e,24894,Twedt,Hoböck,17,,54.58455386,9.62274026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s72l,24894,Twedt,Hoböck,11,,54.58512309,9.62245269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s72w,24894,Twedt,Hoböck,19,,54.58422923,9.62283076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s737,24894,Twedt,Hoböck,14,,54.58450014,9.62183104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006s738,24894,Twedt,Hoböck,8,,54.58488014,9.62195993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071PTK,24894,Twedt,Flensburger Straße,4,a,54.58353798,9.63275705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071PTL,24894,Twedt,Flensburger Straße,4,b,54.58352312,9.63283503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071QeH,24894,Twedt,Flensburger Straße,4,,54.58345229,9.63291467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071S9t,24894,Twedt,Spielkoppel,6,a,54.58265072,9.61969562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073C55,24894,Twedt,Schleswiger Straße,13,,54.58477098,9.61363197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CDB,24894,Twedt,Kurzer Weg,7,,54.58401547,9.61947762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CDC,24894,Twedt,Kurzer Weg,2,,54.58367647,9.6199421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CDQ,24894,Twedt,Kurzer Weg,1,,54.5835751,9.61969149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CDj,24894,Twedt,Kurzer Weg,6,,54.58413587,9.61972691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CDp,24894,Twedt,Kurzer Weg,4,,54.58397957,9.61990118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CE1,24894,Twedt,Kurzer Weg,3,,54.58373061,9.61957671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074CE8,24894,Twedt,Kurzer Weg,5,,54.58385964,9.6194028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075K1p,24894,Twedt,Eckernförder Straße,2,a,54.5772015,9.63915927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075RGO,24894,Twedt,Alte Dorfstraße,13,a,54.57911709,9.63842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007KG02,24894,Twedt,Blasberg,1,a,54.59118026,9.63884603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007T8zQ,24894,Twedt,Flensburger Straße,24,b,54.58495522,9.62578429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007U2PN,24894,Twedt,Hoböck,9,a,54.58504312,9.62207978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007U2PX,24894,Twedt,Westerfeld,6,a,54.5853936,9.62122677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UFUV,24894,Twedt,Westerfeld,6,,54.58538974,9.62111751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UIP2,24894,Twedt,Hoböck,13,a,54.58506896,9.62279464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dxRO,24894,Twedt,Kurzer Weg,6,a,54.58416398,9.61988757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007e025,24894,Twedt,Hoböck,12,a,54.58449285,9.62221061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nRTp,24894,Twedt,Hoböck,21,a,54.58426928,9.62217002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oAh9,24894,Twedt,Nordacker,1,,54.57348156,9.64670174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008a96y,24894,Twedt,Blasberg,3,,54.59157641,9.63870808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gPCI,24894,Twedt,Hörneck,3,a,54.59400191,9.67824681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gPCJ,24894,Twedt,Hörneck,3,b,54.59397561,9.67813552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008vyaH,24894,Twedt,Bökwatt,17,a,54.58284074,9.6437096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008vyaI,24894,Twedt,Bökwatt,19,a,54.58270824,9.64402122

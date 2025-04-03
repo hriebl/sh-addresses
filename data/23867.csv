@@ -1,0 +1,938 @@
+# Amtliche Adressen für die Postleitzahl 23867
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWG,23867,Tönningstedt,Am alten Alsterkanal,1,,53.80101916,10.2289347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWH,23867,Tönningstedt,Am alten Alsterkanal,10,,53.80026608,10.2281879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWI,23867,Tönningstedt,Am alten Alsterkanal,11,,53.80003685,10.22837822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWJ,23867,Tönningstedt,Am alten Alsterkanal,12,,53.80023731,10.22779896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWK,23867,Tönningstedt,Am alten Alsterkanal,13,,53.79994242,10.2281476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWL,23867,Tönningstedt,Am alten Alsterkanal,14,,53.80010287,10.22796024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWM,23867,Tönningstedt,Am alten Alsterkanal,15,,53.79984198,10.22797003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWN,23867,Tönningstedt,Am alten Alsterkanal,16,,53.8000129,10.22745258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWO,23867,Tönningstedt,Am alten Alsterkanal,17,,53.7997418,10.22774703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWP,23867,Tönningstedt,Am alten Alsterkanal,18,,53.7997923,10.22717425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWQ,23867,Tönningstedt,Am alten Alsterkanal,19,,53.79962935,10.22753015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWR,23867,Tönningstedt,Am alten Alsterkanal,2,,53.80094368,10.22855457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWS,23867,Tönningstedt,Am alten Alsterkanal,20,,53.79964467,10.22687414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWT,23867,Tönningstedt,Am alten Alsterkanal,21,,53.79951982,10.22735536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWU,23867,Tönningstedt,Am alten Alsterkanal,22,,53.79939345,10.22654213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWV,23867,Tönningstedt,Am alten Alsterkanal,23,,53.79907194,10.22818068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWW,23867,Tönningstedt,Am alten Alsterkanal,24,,53.79937472,10.22620343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWX,23867,Tönningstedt,Am alten Alsterkanal,24,a,53.79934212,10.2261132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWY,23867,Tönningstedt,Am alten Alsterkanal,25,,53.79886699,10.22805187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWZ,23867,Tönningstedt,Am alten Alsterkanal,26,,53.79921289,10.22593623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX0,23867,Tönningstedt,Am alten Alsterkanal,27,,53.79892349,10.22780591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX1,23867,Tönningstedt,Am alten Alsterkanal,29,,53.79905361,10.22739741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX2,23867,Tönningstedt,Am alten Alsterkanal,3,,53.80083031,10.22884864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX3,23867,Tönningstedt,Am alten Alsterkanal,31,,53.7992569,10.22711349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX4,23867,Tönningstedt,Am alten Alsterkanal,33,,53.79915575,10.22679276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX5,23867,Tönningstedt,Am alten Alsterkanal,37,,53.79898178,10.22600373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX6,23867,Tönningstedt,Am alten Alsterkanal,39,,53.7990213,10.22563273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX7,23867,Tönningstedt,Am alten Alsterkanal,4,,53.80076594,10.22827464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX8,23867,Tönningstedt,Am alten Alsterkanal,41,,53.79909847,10.22534769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHX9,23867,Tönningstedt,Am alten Alsterkanal,5,,53.80064006,10.2285649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXA,23867,Tönningstedt,Ahornweg,30,,53.80201382,10.22441661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXB,23867,Tönningstedt,Ahornweg,4,,53.8020545,10.22206618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXC,23867,Tönningstedt,Ahornweg,5,,53.8023192,10.22319399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXD,23867,Tönningstedt,Ahornweg,6,,53.80207697,10.22247517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXE,23867,Tönningstedt,Ahornweg,7,,53.80268142,10.2235292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXF,23867,Tönningstedt,Ahornweg,8,,53.80176547,10.222416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXG,23867,Tönningstedt,Ahornweg,8,a,53.80176448,10.22251312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXH,23867,Tönningstedt,Ahornweg,9,,53.80238802,10.22350936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXI,23867,Tönningstedt,Am großen Graben,1,,53.80122173,10.22878337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXJ,23867,Tönningstedt,Am großen Graben,2,,53.80118781,10.22826821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXK,23867,Tönningstedt,Am großen Graben,3,,53.80098906,10.22789362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXL,23867,Tönningstedt,Am großen Graben,4,,53.8006888,10.22776833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXM,23867,Tönningstedt,Am Markt,1,,53.79988142,10.23202702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXN,23867,Tönningstedt,Am Markt,11,,53.80089568,10.23032036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXO,23867,Tönningstedt,Am Markt,13,,53.80108421,10.23017213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXP,23867,Tönningstedt,Am Markt,14,,53.80137262,10.23154388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXQ,23867,Tönningstedt,Am Markt,16,,53.80167358,10.23141772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXR,23867,Tönningstedt,Am Markt,2,,53.80020265,10.23183728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXS,23867,Tönningstedt,Am Markt,20,,53.80135799,10.23057705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXT,23867,Tönningstedt,Am Markt,3,,53.79982123,10.23167546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXU,23867,Tönningstedt,Am Markt,4,,53.80032396,10.231608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXV,23867,Tönningstedt,Am Markt,5,,53.79996817,10.23151618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXW,23867,Tönningstedt,Am Markt,5,a,53.79991411,10.23113645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXX,23867,Tönningstedt,Am Markt,7,,53.80017282,10.23112894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXY,23867,Tönningstedt,Am Markt,8,,53.80057453,10.23146979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXZ,23867,Tönningstedt,Am Markt,9,,53.80054374,10.23069758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXa,23867,Tönningstedt,Am alten Alsterkanal,6,,53.80043924,10.22766684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXb,23867,Tönningstedt,Am alten Alsterkanal,6,a,53.8004855,10.22743747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXc,23867,Tönningstedt,Am alten Alsterkanal,7,,53.80032209,10.22877538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXd,23867,Tönningstedt,Am alten Alsterkanal,8,,53.80049675,10.22812418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXe,23867,Tönningstedt,Am alten Alsterkanal,9,,53.80019633,10.22856458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXf,23867,Tönningstedt,Am Butenschlag,1,,53.79392611,10.26090804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXg,23867,Tönningstedt,Am Dorfplatz,1,a,53.80842423,10.23205362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXh,23867,Tönningstedt,Am Dorfplatz,10,,53.80844042,10.23091399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXi,23867,Tönningstedt,Am Dorfplatz,2,,53.80884389,10.23120369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXj,23867,Tönningstedt,Am Dorfplatz,3,,53.80780372,10.23277813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXk,23867,Tönningstedt,Am Dorfplatz,4,,53.8088286,10.22996519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXl,23867,Tönningstedt,Am Dorfplatz,5,,53.80776839,10.2314773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXm,23867,Tönningstedt,Am Dorfplatz,7,,53.80824403,10.23149091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXn,23867,Tönningstedt,Am Dorfplatz,8,,53.80843868,10.2304464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXo,23867,Tönningstedt,Am Dorfplatz,8,a,53.80849545,10.22954993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXp,23867,Tönningstedt,Ahornweg,10,,53.8017526,10.22284064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXq,23867,Tönningstedt,Ahornweg,12,,53.80211533,10.2228497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXr,23867,Tönningstedt,Ahornweg,14,,53.80207186,10.22317019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXs,23867,Tönningstedt,Ahornweg,16,,53.8017272,10.22320749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXt,23867,Tönningstedt,Ahornweg,18,,53.80174693,10.22348546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXu,23867,Tönningstedt,Ahornweg,19,,53.80222348,10.22447974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXv,23867,Tönningstedt,Ahornweg,20,,53.80206071,10.22351298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXw,23867,Tönningstedt,Ahornweg,22,,53.80205967,10.22379516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXx,23867,Tönningstedt,Ahornweg,24,,53.80174259,10.22379507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXy,23867,Tönningstedt,Ahornweg,26,,53.80173931,10.22409703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHXz,23867,Tönningstedt,Ahornweg,3,,53.80231967,10.22283599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYA,23867,Tönningstedt,An der Bahn,16,,53.79741063,10.2359828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYB,23867,Tönningstedt,An der Bahn,17,,53.79767237,10.23685181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYC,23867,Tönningstedt,An der Bahn,18,,53.79739569,10.23631824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYD,23867,Tönningstedt,An der Bahn,19,,53.79780529,10.23691938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYE,23867,Tönningstedt,An der Bahn,2,,53.79768372,10.23394842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYF,23867,Tönningstedt,An der Bahn,20,,53.79735948,10.23666859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYG,23867,Tönningstedt,An der Bahn,21,,53.79761623,10.23737476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYH,23867,Tönningstedt,An der Bahn,22,,53.79730069,10.23694226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYI,23867,Tönningstedt,An der Bahn,23,,53.79776069,10.23744185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYJ,23867,Tönningstedt,An der Bahn,24,,53.79735563,10.23724882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYK,23867,Tönningstedt,An der Bahn,25,,53.79795898,10.23750532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYL,23867,Tönningstedt,An der Bahn,26,,53.79739306,10.23748377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYM,23867,Tönningstedt,An der Bahn,27,,53.79818241,10.23764021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYN,23867,Tönningstedt,An der Bahn,28,,53.79737019,10.23777484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYO,23867,Tönningstedt,An der Bahn,29,,53.79841267,10.23782857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYQ,23867,Tönningstedt,An der Bahn,30,a,53.7972699,10.23819095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYR,23867,Tönningstedt,An der Bahn,30,b,53.79728948,10.23837851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYS,23867,Tönningstedt,An der Bahn,31,,53.79826627,10.23820857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYT,23867,Tönningstedt,An der Bahn,32,,53.79703043,10.23857082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYU,23867,Tönningstedt,An der Bahn,33,,53.79811577,10.23809972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYV,23867,Tönningstedt,An der Bahn,34,,53.79683266,10.23846746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYW,23867,Tönningstedt,An der Bahn,35,,53.79795896,10.23793926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYX,23867,Tönningstedt,An der Bahn,36,,53.79660343,10.23854427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYY,23867,Tönningstedt,An der Bahn,37,,53.79774431,10.23783244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYZ,23867,Tönningstedt,An der Bahn,38,,53.79642178,10.23858153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYm,23867,Tönningstedt,Am Stift,1,,53.80060293,10.22961664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYn,23867,Tönningstedt,Am Stift,2,,53.80067068,10.22935618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYs,23867,Tönningstedt,An der Bahn,1,,53.79807836,10.23378601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYt,23867,Tönningstedt,An der Bahn,10,,53.79748806,10.23489118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYv,23867,Tönningstedt,An der Bahn,12,,53.79747711,10.23534216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYx,23867,Tönningstedt,An der Bahn,14,,53.79743659,10.23566449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYy,23867,Tönningstedt,An der Bahn,14,a,53.79734806,10.23563972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHYz,23867,Tönningstedt,An der Bahn,15,,53.79767235,10.23607492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ0,23867,Tönningstedt,An der Bahn,39,,53.797559,10.23778176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ1,23867,Tönningstedt,An der Bahn,40,,53.79553266,10.23874422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ2,23867,Tönningstedt,An der Bahn,41,a,53.79751417,10.23845069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ3,23867,Tönningstedt,An der Bahn,41,b,53.79758487,10.23846445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ4,23867,Tönningstedt,An der Bahn,43,,53.79766547,10.23844209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ5,23867,Tönningstedt,An der Bahn,45,,53.79788221,10.23838996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ6,23867,Tönningstedt,An der Bahn,47,,53.79751198,10.23892892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ7,23867,Tönningstedt,An der Bahn,49,,53.79767883,10.23903663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZ9,23867,Tönningstedt,An der Bahn,51,,53.79788681,10.23929942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZA,23867,Tönningstedt,Auf dem Kamp,13,,53.81071205,10.23604092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZB,23867,Tönningstedt,Auf dem Kamp,13,a,53.81079574,10.23563143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZC,23867,Tönningstedt,Auf dem Kamp,14,a,53.81035137,10.23638461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZD,23867,Tönningstedt,Auf dem Kamp,14,b,53.8104121,10.23642711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZE,23867,Tönningstedt,Auf dem Kamp,16,,53.81072523,10.23651526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZF,23867,Tönningstedt,Auf dem Kamp,2,,53.80865269,10.23522423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZG,23867,Tönningstedt,Auf dem Kamp,3,,53.80917892,10.23509154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZH,23867,Tönningstedt,Auf dem Kamp,4,,53.80891387,10.23534739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZI,23867,Tönningstedt,Auf dem Kamp,4,a,53.80912897,10.23560484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZJ,23867,Tönningstedt,Auf dem Kamp,4,b,53.80929058,10.23572644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZK,23867,Tönningstedt,Auf dem Kamp,5,,53.80957426,10.23545368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZL,23867,Tönningstedt,Auf dem Kamp,6,,53.8094534,10.23567614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZM,23867,Tönningstedt,Auf dem Kamp,7,,53.80970389,10.23505384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZN,23867,Tönningstedt,Auf dem Kamp,7,a,53.809864,10.23537616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZO,23867,Tönningstedt,Auf dem Kamp,8,,53.80962507,10.23581967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZP,23867,Tönningstedt,Auf dem Kamp,9,,53.81021854,10.23573987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZQ,23867,Tönningstedt,Auf dem Kamp,9,a,53.8104259,10.23538834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZR,23867,Tönningstedt,Bahnhofstraße,1,,53.79911731,10.23663683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZS,23867,Tönningstedt,Bahnhofstraße,1,a,53.79899309,10.23703302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZT,23867,Tönningstedt,Bahnhofstraße,2,,53.79892359,10.23624887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZU,23867,Tönningstedt,Bahnhofstraße,3,,53.79885715,10.23659723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZV,23867,Tönningstedt,Bahnhofstraße,3,a,53.79860658,10.23664819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZW,23867,Tönningstedt,Bahnhofstraße,4,,53.79872046,10.23616326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZX,23867,Tönningstedt,Bahnhofstraße,4,a,53.79880914,10.23560697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZY,23867,Tönningstedt,Bahnhofstraße,5,,53.79834499,10.23656037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZZ,23867,Tönningstedt,Bahnhofstraße,6,,53.79838438,10.23609343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZa,23867,Tönningstedt,An der Bahn,53,,53.79776656,10.23961419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZb,23867,Tönningstedt,An der Bahn,55,,53.79756183,10.23925642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZc,23867,Tönningstedt,An der Bahn,57,,53.79731144,10.23894521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZd,23867,Tönningstedt,An der Bahn,59,,53.7971194,10.2388184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZe,23867,Tönningstedt,An der Bahn,6,,53.79762331,10.23432714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZf,23867,Tönningstedt,An der Bahn,61,,53.79686704,10.23907944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZg,23867,Tönningstedt,An der Bahn,63,,53.79669148,10.2391879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZh,23867,Tönningstedt,An der Bahn,65,,53.79646792,10.23889698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZj,23867,Tönningstedt,An der Bahn,8,,53.79755939,10.2345892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZk,23867,Tönningstedt,An der Bahn,8,a,53.79752657,10.23466815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZw,23867,Tönningstedt,Auf dem Kamp,10,,53.80999112,10.23610768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZx,23867,Tönningstedt,Auf dem Kamp,11,,53.81053787,10.23601836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZy,23867,Tönningstedt,Auf dem Kamp,11,a,53.81057852,10.23554059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHZz,23867,Tönningstedt,Auf dem Kamp,12,,53.81016081,10.23624969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI00,23867,Tönningstedt,Bahnhofstraße,6,a,53.79851338,10.23578124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI01,23867,Tönningstedt,Bahnhofstraße,6,b,53.79837009,10.23578377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI02,23867,Tönningstedt,Bahnhofstraße,7,,53.79814577,10.23639156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI03,23867,Tönningstedt,Bahnhofstraße,8,,53.79810543,10.23602294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI04,23867,Tönningstedt,Bahnhofstraße,9,,53.79781666,10.23641299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI05,23867,Tönningstedt,Bestehöhe,1,,53.79986589,10.23570919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI06,23867,Tönningstedt,Bestehöhe,10,,53.79939403,10.23719926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI07,23867,Tönningstedt,Bestehöhe,11,,53.79992535,10.23689985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI08,23867,Tönningstedt,Bestehöhe,12,,53.79928151,10.23752885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI09,23867,Tönningstedt,Bestehöhe,13,,53.79977461,10.23717897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0A,23867,Tönningstedt,Buchenweg,6,,53.8028019,10.219282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0B,23867,Tönningstedt,Buchenweg,7,,53.80316051,10.21929247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0C,23867,Tönningstedt,Buchenweg,8,,53.80279497,10.21957035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0D,23867,Tönningstedt,Buchenweg,9,,53.80314928,10.2196125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0E,23867,Tönningstedt,Eichenweg,1,,53.80405335,10.21892254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0F,23867,Tönningstedt,Eichenweg,2,,53.80372042,10.21839656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0G,23867,Tönningstedt,Eichenweg,3,,53.80392936,10.21926067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0H,23867,Tönningstedt,Eichenweg,3,b,53.80375394,10.21916314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0I,23867,Tönningstedt,Eichenweg,4,,53.80357235,10.21885032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0J,23867,Tönningstedt,Eichenweg,6,,53.80347463,10.21949302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0K,23867,Tönningstedt,Eschenweg,1,,53.80101919,10.21983709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0L,23867,Tönningstedt,Eschenweg,2,,53.80115961,10.2205023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0M,23867,Tönningstedt,Eschenweg,2,a,53.80123258,10.22058711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0N,23867,Tönningstedt,Eschenweg,3,,53.80125591,10.21990841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0O,23867,Tönningstedt,Eschenweg,4,,53.801498,10.22049404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0P,23867,Tönningstedt,Eschenweg,5,,53.80146044,10.21980107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0Q,23867,Tönningstedt,Eschenweg,6,,53.80155951,10.22013459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0R,23867,Tönningstedt,Elmenhorster Chaussee,1,,53.79942444,10.23235588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0S,23867,Tönningstedt,Elmenhorster Chaussee,1,a,53.79947574,10.23289965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0T,23867,Tönningstedt,Elmenhorster Chaussee,10,,53.79815532,10.23234448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0U,23867,Tönningstedt,Elmenhorster Chaussee,11,,53.79836664,10.23264296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0V,23867,Tönningstedt,Elmenhorster Chaussee,12,,53.79784411,10.23232246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0W,23867,Tönningstedt,Elmenhorster Chaussee,13,,53.79814952,10.23261583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0X,23867,Tönningstedt,Elmenhorster Chaussee,14,,53.79764225,10.23232578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0Y,23867,Tönningstedt,Elmenhorster Chaussee,15,,53.79781144,10.23258659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0Z,23867,Tönningstedt,Elmenhorster Chaussee,16,,53.7975084,10.23232197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0a,23867,Tönningstedt,Bestehöhe,14,,53.79913747,10.23785602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0b,23867,Tönningstedt,Bestehöhe,15,,53.79959669,10.23741036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0c,23867,Tönningstedt,Bestehöhe,16,,53.79901354,10.2384074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0d,23867,Tönningstedt,Bestehöhe,17,,53.79947143,10.23777696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0e,23867,Tönningstedt,Bestehöhe,19,,53.79937519,10.23813257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0f,23867,Tönningstedt,Bestehöhe,2,,53.79974046,10.23605434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0g,23867,Tönningstedt,Bestehöhe,3,,53.80005293,10.23589222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0h,23867,Tönningstedt,Bestehöhe,4,,53.79981594,10.23649588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0i,23867,Tönningstedt,Bestehöhe,5,,53.80039746,10.23615686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0j,23867,Tönningstedt,Bestehöhe,6,,53.79966952,10.23672372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0k,23867,Tönningstedt,Bestehöhe,7,,53.80026951,10.23634217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0l,23867,Tönningstedt,Bestehöhe,8,,53.79948222,10.23698611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0m,23867,Tönningstedt,Bestehöhe,9,,53.80006831,10.23664265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0n,23867,Tönningstedt,Birkenweg,1,,53.7869662,10.25442315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0o,23867,Tönningstedt,Birkenweg,3,,53.78678907,10.25428452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0p,23867,Tönningstedt,Buchenweg,1,,53.80317214,10.21833898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0q,23867,Tönningstedt,Buchenweg,10,,53.8027943,10.21989946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0r,23867,Tönningstedt,Buchenweg,11,,53.80328501,10.21993006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0s,23867,Tönningstedt,Buchenweg,12,,53.80279319,10.22019662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0t,23867,Tönningstedt,Buchenweg,13,,53.80323421,10.22028688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0u,23867,Tönningstedt,Buchenweg,14,,53.80279692,10.22046069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0v,23867,Tönningstedt,Buchenweg,15,,53.80322772,10.22055477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0w,23867,Tönningstedt,Buchenweg,2,,53.80280026,10.21870523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0x,23867,Tönningstedt,Buchenweg,3,,53.80312057,10.21872073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0y,23867,Tönningstedt,Buchenweg,4,,53.80280981,10.21899179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI0z,23867,Tönningstedt,Buchenweg,5,,53.80316966,10.21899215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI10,23867,Tönningstedt,Elmenhorster Chaussee,17,,53.79742276,10.23256308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI11,23867,Tönningstedt,Elmenhorster Chaussee,18,,53.79715618,10.2322572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI12,23867,Tönningstedt,Elmenhorster Chaussee,19,,53.79727771,10.23259727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI13,23867,Tönningstedt,Elmenhorster Chaussee,2,,53.79928239,10.23172979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI14,23867,Tönningstedt,Elmenhorster Chaussee,20,,53.79657041,10.2320949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI15,23867,Tönningstedt,Elmenhorster Chaussee,21,,53.79712445,10.23272266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI16,23867,Tönningstedt,Elmenhorster Chaussee,22,,53.79619837,10.23207049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI17,23867,Tönningstedt,Elmenhorster Chaussee,22,a,53.79603603,10.23212502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI18,23867,Tönningstedt,Elmenhorster Chaussee,23,,53.7969638,10.23270368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI19,23867,Tönningstedt,Elmenhorster Chaussee,24,,53.79581786,10.23217216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1A,23867,Tönningstedt,Elmenhorster Chaussee,63,,53.79191453,10.23393767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1B,23867,Tönningstedt,Elmenhorster Chaussee,7,,53.79877091,10.23285018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1C,23867,Tönningstedt,Elmenhorster Chaussee,7,a,53.79861024,10.23306914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1D,23867,Tönningstedt,Elmenhorster Chaussee,8,,53.79848333,10.23225712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1E,23867,Tönningstedt,Elmenhorster Chaussee,9,,53.79852488,10.23265508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1F,23867,Tönningstedt,Fürkiek,1,,53.78732848,10.24951718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1G,23867,Tönningstedt,Fürkiek,3,,53.78671742,10.24949645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1H,23867,Tönningstedt,Im Winkel,1,,53.7977694,10.23309785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1I,23867,Tönningstedt,Im Winkel,2,,53.79757783,10.2332641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1J,23867,Tönningstedt,Im Winkel,4,,53.79761472,10.23353976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1a,23867,Tönningstedt,Elmenhorster Chaussee,25,,53.79673048,10.23257777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1b,23867,Tönningstedt,Elmenhorster Chaussee,26,,53.7956435,10.23212873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1d,23867,Tönningstedt,Elmenhorster Chaussee,27,b,53.7964719,10.23272279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1e,23867,Tönningstedt,Elmenhorster Chaussee,28,,53.79547452,10.23197235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1f,23867,Tönningstedt,Elmenhorster Chaussee,29,,53.79630143,10.23270334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1g,23867,Tönningstedt,Elmenhorster Chaussee,3,,53.79910384,10.23254103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1h,23867,Tönningstedt,Elmenhorster Chaussee,30,,53.79537674,10.2317792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1i,23867,Tönningstedt,Elmenhorster Chaussee,32,,53.79505364,10.23200739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1j,23867,Tönningstedt,Elmenhorster Chaussee,33,,53.7959404,10.23265142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1k,23867,Tönningstedt,Elmenhorster Chaussee,34,,53.79478444,10.23203776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1l,23867,Tönningstedt,Elmenhorster Chaussee,35,,53.79574714,10.23255973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1m,23867,Tönningstedt,Elmenhorster Chaussee,37,,53.79557954,10.23252898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1n,23867,Tönningstedt,Elmenhorster Chaussee,39,,53.795441,10.23267595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1o,23867,Tönningstedt,Elmenhorster Chaussee,4,,53.79915668,10.23214144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1p,23867,Tönningstedt,Elmenhorster Chaussee,41,,53.79529085,10.23252705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1q,23867,Tönningstedt,Elmenhorster Chaussee,43,,53.79513033,10.2341177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1r,23867,Tönningstedt,Elmenhorster Chaussee,45,,53.79509173,10.23256436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1s,23867,Tönningstedt,Elmenhorster Chaussee,45,b,53.79516764,10.23323215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1t,23867,Tönningstedt,Elmenhorster Chaussee,45,c,53.79517124,10.23369503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1u,23867,Tönningstedt,Elmenhorster Chaussee,5,,53.79896349,10.23259124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1v,23867,Tönningstedt,Elmenhorster Chaussee,55,,53.79441226,10.23296701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1w,23867,Tönningstedt,Elmenhorster Chaussee,57,,53.79447745,10.23393368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1x,23867,Tönningstedt,Elmenhorster Chaussee,59,,53.79422242,10.23338748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1y,23867,Tönningstedt,Elmenhorster Chaussee,6,,53.79891875,10.23229306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI1z,23867,Tönningstedt,Elmenhorster Chaussee,61,,53.79424639,10.23307194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2A,23867,Tönningstedt,Hasenkrog,15,,53.81372465,10.22999861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2B,23867,Tönningstedt,Hasenkrog,15,a,53.81364995,10.22964912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2C,23867,Tönningstedt,Hasenkrog,16,a,53.81231113,10.23082336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2D,23867,Tönningstedt,Hasenkrog,18,,53.81256645,10.23075961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2E,23867,Tönningstedt,Hasenkrog,2,,53.80999065,10.23163668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2F,23867,Tönningstedt,Hasenkrog,20,,53.81324447,10.23035464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2G,23867,Tönningstedt,Hasenkrog,3,,53.81177129,10.23052907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2H,23867,Tönningstedt,Hasenkrog,3,a,53.81186638,10.22993346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2I,23867,Tönningstedt,Hasenkrog,4,,53.81018485,10.23144237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2J,23867,Tönningstedt,Hasenkrog,5,,53.81192928,10.23045601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2K,23867,Tönningstedt,Hasenkrog,5,a,53.81212035,10.23014866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2L,23867,Tönningstedt,Hasenkrog,6,,53.81034761,10.23141667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2M,23867,Tönningstedt,Hasenkrog,7,,53.81234622,10.23024465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2N,23867,Tönningstedt,Hasenkrog,7,a,53.8124727,10.2297479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2O,23867,Tönningstedt,Hasenkrog,8,,53.81051661,10.23141616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2P,23867,Tönningstedt,Hasenkrog,9,,53.81271181,10.2300821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2Q,23867,Tönningstedt,Hasenkrog,9,b,53.81300523,10.22994902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2R,23867,Tönningstedt,Hauptstraße,1,,53.80618012,10.23875807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2S,23867,Tönningstedt,Hauptstraße,1,a,53.80715399,10.23732589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2T,23867,Tönningstedt,Hauptstraße,10,,53.80823227,10.23671225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2U,23867,Tönningstedt,Hauptstraße,10,a,53.80818482,10.23689021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2V,23867,Tönningstedt,Hauptstraße,11,,53.80899392,10.23312466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2W,23867,Tönningstedt,Hauptstraße,15,,53.80887693,10.23251094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2X,23867,Tönningstedt,Hauptstraße,16,,53.80904657,10.23374349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2Y,23867,Tönningstedt,Hauptstraße,16,a,53.80895836,10.23421925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2Z,23867,Tönningstedt,Hauptstraße,17,,53.8092804,10.23209984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2t,23867,Tönningstedt,Hasenkrog,1,,53.81123107,10.23072683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2u,23867,Tönningstedt,Hasenkrog,1,a,53.81153904,10.23037204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2v,23867,Tönningstedt,Hasenkrog,10,,53.81125314,10.23122896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2w,23867,Tönningstedt,Hasenkrog,11,,53.81314774,10.22989379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2x,23867,Tönningstedt,Hasenkrog,12,,53.81148439,10.23118288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2y,23867,Tönningstedt,Hasenkrog,13,,53.81347425,10.22988845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI2z,23867,Tönningstedt,Hasenkrog,14,,53.81170698,10.2311045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI30,23867,Tönningstedt,Hauptstraße,18,,53.8090994,10.23329288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI31,23867,Tönningstedt,Hauptstraße,18,a,53.80925152,10.23300557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI32,23867,Tönningstedt,Hauptstraße,19,,53.80953112,10.23166408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI33,23867,Tönningstedt,Hauptstraße,19,a,53.80958999,10.2315439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI34,23867,Tönningstedt,Hauptstraße,19,b,53.80963528,10.23145055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI35,23867,Tönningstedt,Hauptstraße,2,,53.80707129,10.23852933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI36,23867,Tönningstedt,Hauptstraße,20,,53.80940053,10.23275327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI37,23867,Tönningstedt,Hauptstraße,21,,53.80976456,10.23108769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI38,23867,Tönningstedt,Hauptstraße,22,,53.81000971,10.23315069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI39,23867,Tönningstedt,Hauptstraße,23,,53.80991697,10.23081476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3A,23867,Tönningstedt,Hauptstraße,9,,53.80887678,10.23382765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3B,23867,Tönningstedt,Hauptstraße,9,a,53.80887338,10.23355167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3C,23867,Tönningstedt,Heesberg,1,,53.80871289,10.22940208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3D,23867,Tönningstedt,Heesberg,2,,53.80920959,10.23022993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3E,23867,Tönningstedt,Heesberg,3,,53.80925037,10.22945923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3F,23867,Tönningstedt,Heesberg,3,a,53.80954427,10.22953225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3G,23867,Tönningstedt,Heesberg,5,,53.80973139,10.22956376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3H,23867,Tönningstedt,Heesberg,8,,53.80946167,10.23081055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3I,23867,Tönningstedt,Hörn,1,,53.80730055,10.23316849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3J,23867,Tönningstedt,Hörn,1,a,53.80761006,10.23301729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3K,23867,Tönningstedt,Hörn,10,,53.80711314,10.23288205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3L,23867,Tönningstedt,Hörn,11,,53.80799683,10.23364935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3M,23867,Tönningstedt,Hörn,12,a,53.80700139,10.23306233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3N,23867,Tönningstedt,Hörn,12,b,53.80686069,10.23334046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3O,23867,Tönningstedt,Hörn,12,d,53.8065385,10.23376781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3P,23867,Tönningstedt,Hörn,12,e,53.80649826,10.23393027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3Q,23867,Tönningstedt,Hörn,12,f,53.80661218,10.23453725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3R,23867,Tönningstedt,Hörn,12,g,53.80667578,10.23437507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3S,23867,Tönningstedt,Hörn,13,,53.80819584,10.23312091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3T,23867,Tönningstedt,Hörn,14,a,53.80699925,10.2340049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3U,23867,Tönningstedt,Hörn,14,b,53.8072539,10.23352313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3V,23867,Tönningstedt,Hörn,15,,53.8083398,10.23336254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3W,23867,Tönningstedt,Hörn,16,,53.80743954,10.23384381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3X,23867,Tönningstedt,Hörn,17,,53.80813929,10.23385887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3Y,23867,Tönningstedt,Hörn,18,,53.80763632,10.23400365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3Z,23867,Tönningstedt,Hörn,18,a,53.80753718,10.23428788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3a,23867,Tönningstedt,Hauptstraße,24,,53.8097635,10.23275486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3b,23867,Tönningstedt,Hauptstraße,25,,53.8123866,10.22379814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3c,23867,Tönningstedt,Hauptstraße,26,,53.80963681,10.23221868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3d,23867,Tönningstedt,Hauptstraße,28,,53.80971943,10.23190865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3e,23867,Tönningstedt,Hauptstraße,3,,53.8074699,10.23703025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3f,23867,Tönningstedt,Hauptstraße,3,a,53.80751892,10.23662267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3g,23867,Tönningstedt,Hauptstraße,3,b,53.80759902,10.23643241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3h,23867,Tönningstedt,Hauptstraße,3,c,53.80768239,10.2362257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3i,23867,Tönningstedt,Hauptstraße,3,d,53.80777489,10.23598569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3j,23867,Tönningstedt,Hauptstraße,3,e,53.80790241,10.23575957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3k,23867,Tönningstedt,Hauptstraße,3,f,53.80799958,10.23545498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3l,23867,Tönningstedt,Hauptstraße,3,g,53.80807287,10.23523684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3m,23867,Tönningstedt,Hauptstraße,4,,53.80736561,10.2379958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3n,23867,Tönningstedt,Hauptstraße,4,a,53.80741489,10.23838465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3o,23867,Tönningstedt,Hauptstraße,40,,53.81598276,10.22260185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3p,23867,Tönningstedt,Hauptstraße,5,,53.8081326,10.23491832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3q,23867,Tönningstedt,Hauptstraße,5,a,53.80820466,10.23472583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3r,23867,Tönningstedt,Hauptstraße,6,,53.8077192,10.23723828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3s,23867,Tönningstedt,Hauptstraße,6,a,53.80788051,10.23693726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3t,23867,Tönningstedt,Hauptstraße,6,b,53.80798021,10.23671358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3u,23867,Tönningstedt,Hauptstraße,6,c,53.80816516,10.23629447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3v,23867,Tönningstedt,Hauptstraße,6,d,53.8083038,10.2360448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3w,23867,Tönningstedt,Hauptstraße,6,e,53.80839949,10.23580748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3x,23867,Tönningstedt,Hauptstraße,6,f,53.80850096,10.23554856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI3z,23867,Tönningstedt,Hauptstraße,8,,53.80811183,10.23716656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI40,23867,Tönningstedt,Hörn,2,,53.80767369,10.2321762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI41,23867,Tönningstedt,Hörn,2,a,53.8072861,10.23183395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI42,23867,Tönningstedt,Hörn,20,,53.8078824,10.23427923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI44,23867,Tönningstedt,Hörn,3,,53.80745906,10.23337415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI45,23867,Tönningstedt,Hörn,4,,53.80751047,10.23240772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI46,23867,Tönningstedt,Hörn,4,a,53.80741154,10.23229377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI47,23867,Tönningstedt,Hörn,5,,53.80749704,10.23343003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI48,23867,Tönningstedt,Hörn,6,,53.80741895,10.23255397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI49,23867,Tönningstedt,Hörn,7,,53.80771252,10.23371098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4A,23867,Tönningstedt,In der Ecke,3,,53.80210102,10.22999526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4B,23867,Tönningstedt,In der Ecke,3,a,53.8022937,10.23011545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4C,23867,Tönningstedt,In der Ecke,3,b,53.80211864,10.22942543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4D,23867,Tönningstedt,In der Ecke,4,a,53.80268475,10.23067653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4E,23867,Tönningstedt,In der Ecke,4,b,53.80263496,10.2309842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4F,23867,Tönningstedt,In der Ecke,4,c,53.80283609,10.23103015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4G,23867,Tönningstedt,In der Ecke,4,d,53.80293995,10.23080446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4H,23867,Tönningstedt,In der Ecke,5,,53.802548,10.22999996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4I,23867,Tönningstedt,In der Ecke,6,,53.80289017,10.23006665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4J,23867,Tönningstedt,In der Ecke,7,,53.80266913,10.22961532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4K,23867,Tönningstedt,In der Ecke,8,,53.80298997,10.22980522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4L,23867,Tönningstedt,In der Ecke,9,,53.80269383,10.22936254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4M,23867,Tönningstedt,Kassburg,1,,53.79890253,10.2440767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4N,23867,Tönningstedt,Kassburg,1,a,53.79895667,10.24213302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4O,23867,Tönningstedt,Kassburg,1,b,53.79891541,10.24239893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4P,23867,Tönningstedt,Kassburg,1,d,53.79893366,10.24308564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4Q,23867,Tönningstedt,Kassburg,1,e,53.79900118,10.24351221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4R,23867,Tönningstedt,Kassburg,10,,53.7986753,10.24651053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4S,23867,Tönningstedt,Kassburg,11,,53.79914917,10.246095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4T,23867,Tönningstedt,Kassburg,11,a,53.7991866,10.24638047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4U,23867,Tönningstedt,Kassburg,12,,53.79869975,10.24675338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4V,23867,Tönningstedt,Kassburg,13,,53.79887261,10.24664167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4W,23867,Tönningstedt,Kassburg,15,,53.79892874,10.24707356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4X,23867,Tönningstedt,Kassburg,16,,53.79862047,10.24731966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4Y,23867,Tönningstedt,Kassburg,17,,53.79892185,10.24749485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4Z,23867,Tönningstedt,Kassburg,18,,53.7986732,10.24769939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4a,23867,Tönningstedt,Hörn,8,,53.80727875,10.23271318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4b,23867,Tönningstedt,Hörn,9,,53.80779213,10.23340121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4p,23867,Tönningstedt,In der Ecke,1,,53.80176786,10.22983551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4q,23867,Tönningstedt,In der Ecke,10,,53.80302139,10.2294573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4r,23867,Tönningstedt,In der Ecke,11,,53.80258377,10.22912877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4s,23867,Tönningstedt,In der Ecke,12,,53.80309314,10.22918101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4t,23867,Tönningstedt,In der Ecke,13,,53.8025614,10.22883914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4u,23867,Tönningstedt,In der Ecke,14,,53.80310255,10.22887837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4v,23867,Tönningstedt,In der Ecke,15,,53.80260099,10.22855464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4w,23867,Tönningstedt,In der Ecke,16,,53.80318152,10.22856364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4x,23867,Tönningstedt,In der Ecke,17,,53.80281064,10.22864013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4y,23867,Tönningstedt,In der Ecke,2,,53.80226726,10.23040939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI4z,23867,Tönningstedt,In der Ecke,2,a,53.80168735,10.23021415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI50,23867,Tönningstedt,Kassburg,19,,53.79906152,10.24755062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI51,23867,Tönningstedt,Kassburg,19,a,53.79907024,10.24771031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI52,23867,Tönningstedt,Kassburg,2,,53.79856328,10.2428514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI53,23867,Tönningstedt,Kassburg,2,a,53.79867255,10.24207956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI54,23867,Tönningstedt,Kassburg,2,b,53.79862816,10.24241318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI55,23867,Tönningstedt,Kassburg,20,a,53.79869272,10.24803434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI56,23867,Tönningstedt,Kassburg,20,b,53.79869756,10.24813517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI58,23867,Tönningstedt,Kassburg,20,d,53.7988404,10.24862444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI59,23867,Tönningstedt,Kassburg,21,,53.79895983,10.24819733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5A,23867,Tönningstedt,Lindenweg,17,,53.800578,10.22536391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5B,23867,Tönningstedt,Lindenweg,18,,53.80108473,10.22450161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5C,23867,Tönningstedt,Lindenweg,19,,53.80050792,10.22507344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5D,23867,Tönningstedt,Lindenweg,20,,53.80112216,10.22504192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5E,23867,Tönningstedt,Lindenweg,21,,53.80025646,10.22501818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5F,23867,Tönningstedt,Lindenweg,22,,53.80084134,10.22500133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5G,23867,Tönningstedt,Lindenweg,22,a,53.80091348,10.22503107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5H,23867,Tönningstedt,Lindenweg,23,a,53.80033211,10.22549425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5I,23867,Tönningstedt,Lindenweg,23,b,53.80032531,10.2253846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5J,23867,Tönningstedt,Lindenweg,24,,53.80086142,10.22460635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5K,23867,Tönningstedt,Lindenweg,25,,53.80011387,10.2254024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5L,23867,Tönningstedt,Lindenweg,26,a,53.8006561,10.22463696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5M,23867,Tönningstedt,Lindenweg,26,b,53.80062826,10.22453137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5N,23867,Tönningstedt,Lindenweg,27,,53.79989346,10.22533297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5O,23867,Tönningstedt,Lindenweg,27,a,53.79989389,10.22541736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5P,23867,Tönningstedt,Lindenweg,28,,53.80055973,10.22424991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5Q,23867,Tönningstedt,Lindenweg,29,,53.79983501,10.22491638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5R,23867,Tönningstedt,Lindenweg,3,,53.80205203,10.22543594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5S,23867,Tönningstedt,Lindenweg,30,,53.80053395,10.22368587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5T,23867,Tönningstedt,Lindenweg,31,,53.79997243,10.22483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5U,23867,Tönningstedt,Lindenweg,32,,53.80073965,10.22359401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5V,23867,Tönningstedt,Lindenweg,33,,53.80016016,10.22473371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5W,23867,Tönningstedt,Lindenweg,34,,53.80078981,10.2240691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5X,23867,Tönningstedt,Lindenweg,35,,53.80034767,10.22460181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5Y,23867,Tönningstedt,Lindenweg,36,,53.80096183,10.22401162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5Z,23867,Tönningstedt,Lindenweg,37,,53.80033374,10.22416749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5a,23867,Tönningstedt,Kassburg,22,,53.79883201,10.24885338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5b,23867,Tönningstedt,Kassburg,22,a,53.79878276,10.24913441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5c,23867,Tönningstedt,Kassburg,22,b,53.79873834,10.24925735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5d,23867,Tönningstedt,Kassburg,22,e,53.79875711,10.25012016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5e,23867,Tönningstedt,Kassburg,23,,53.79895814,10.24835941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5f,23867,Tönningstedt,Kassburg,24,,53.79870559,10.25040125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5g,23867,Tönningstedt,Kassburg,25,,53.79903375,10.24901118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5h,23867,Tönningstedt,Kassburg,26,,53.79862074,10.25110025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5i,23867,Tönningstedt,Kassburg,27,,53.7974721,10.25600779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5j,23867,Tönningstedt,Kassburg,28,,53.79772881,10.25449032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5k,23867,Tönningstedt,Kassburg,3,,53.79890336,10.24460156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5l,23867,Tönningstedt,Kassburg,30,,53.79671359,10.25760133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5m,23867,Tönningstedt,Kassburg,4,,53.79874045,10.24386094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5n,23867,Tönningstedt,Kassburg,5,,53.79919053,10.24523413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5o,23867,Tönningstedt,Kassburg,7,,53.79899099,10.24544922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5p,23867,Tönningstedt,Kassburg,8,,53.79838828,10.24605675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5q,23867,Tönningstedt,Kassburg,9,,53.79896407,10.24580623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5r,23867,Tönningstedt,Lindenweg,10,,53.80148683,10.22448054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5s,23867,Tönningstedt,Lindenweg,10,a,53.80150164,10.22458848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5t,23867,Tönningstedt,Lindenweg,11,,53.80117283,10.22538142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5u,23867,Tönningstedt,Lindenweg,12,,53.80152383,10.22506567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5v,23867,Tönningstedt,Lindenweg,13,a,53.80099352,10.22539379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5w,23867,Tönningstedt,Lindenweg,13,b,53.80100607,10.22549562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5x,23867,Tönningstedt,Lindenweg,14,,53.80135286,10.22505961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5y,23867,Tönningstedt,Lindenweg,15,,53.80075445,10.22534713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI5z,23867,Tönningstedt,Lindenweg,16,,53.80126261,10.22456048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI60,23867,Tönningstedt,Lindenweg,38,,53.80097188,10.22372338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI61,23867,Tönningstedt,Lindenweg,39,,53.80024125,10.22383102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI62,23867,Tönningstedt,Lindenweg,4,a,53.80198703,10.22479014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI63,23867,Tönningstedt,Lindenweg,4,b,53.80201248,10.2250808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI64,23867,Tönningstedt,Lindenweg,40,,53.80119551,10.22365542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI65,23867,Tönningstedt,Lindenweg,41,,53.80000527,10.22409556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI66,23867,Tönningstedt,Lindenweg,42,,53.80119811,10.22400608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI67,23867,Tönningstedt,Lindenweg,43,,53.8000891,10.22433943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI68,23867,Tönningstedt,Lindenweg,44,,53.8014209,10.22406432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI69,23867,Tönningstedt,Lindenweg,45,,53.79980694,10.22446776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6a,23867,Tönningstedt,Lindenweg,46,,53.80138627,10.22363839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6b,23867,Tönningstedt,Lindenweg,47,,53.79972284,10.2241725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6c,23867,Tönningstedt,Lindenweg,48,,53.80137,10.22327396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6d,23867,Tönningstedt,Lindenweg,49,,53.79960404,10.22397718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6e,23867,Tönningstedt,Lindenweg,50,,53.80140404,10.22283811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6f,23867,Tönningstedt,Lindenweg,51,,53.79962947,10.22360587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6g,23867,Tönningstedt,Lindenweg,52,,53.80135409,10.2225072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6h,23867,Tönningstedt,Lindenweg,53,a,53.79974758,10.2234805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6i,23867,Tönningstedt,Lindenweg,53,b,53.79981591,10.22347152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6j,23867,Tönningstedt,Lindenweg,54,,53.80118047,10.22253965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6k,23867,Tönningstedt,Lindenweg,55,a,53.79998891,10.22342134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6l,23867,Tönningstedt,Lindenweg,55,b,53.79992864,10.22342873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6m,23867,Tönningstedt,Lindenweg,56,,53.80115894,10.22288435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6n,23867,Tönningstedt,Lindenweg,57,a,53.80016561,10.22336892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6o,23867,Tönningstedt,Lindenweg,57,b,53.80010447,10.22337691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6p,23867,Tönningstedt,Lindenweg,58,,53.80095138,10.22313898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6q,23867,Tönningstedt,Lindenweg,6,,53.80176434,10.22500909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6r,23867,Tönningstedt,Lindenweg,60,,53.8009177,10.22261508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6s,23867,Tönningstedt,Lindenweg,62,,53.80076095,10.22267715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6t,23867,Tönningstedt,Lindenweg,64,,53.80077789,10.22314922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6u,23867,Tönningstedt,Lindenweg,66,,53.80057467,10.22324615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6v,23867,Tönningstedt,Lindenweg,7,,53.80163522,10.22544846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6w,23867,Tönningstedt,Lindenweg,8,,53.80167128,10.22457532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI6x,23867,Tönningstedt,Lindenweg,9,,53.8013507,10.2253836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI74,23867,Tönningstedt,Kastanienweg,1,,53.80234895,10.22234425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI75,23867,Tönningstedt,Kastanienweg,12,,53.80290205,10.22249463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI76,23867,Tönningstedt,Kastanienweg,3,,53.80252846,10.22224884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI77,23867,Tönningstedt,Kastanienweg,4,,53.80257785,10.22276829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI78,23867,Tönningstedt,Kastanienweg,5,,53.80268593,10.22223488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI79,23867,Tönningstedt,Kastanienweg,6,,53.80258055,10.22313717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7A,23867,Tönningstedt,Maschkoppel,6,,53.7947325,10.23357613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7N,23867,Tönningstedt,Neritzer Weg,1,,53.78937982,10.24823936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7O,23867,Tönningstedt,Neritzer Weg,1,a,53.78853909,10.25561402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7P,23867,Tönningstedt,Neritzer Weg,2,,53.79008067,10.24279182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7Q,23867,Tönningstedt,Neritzer Weg,2,a,53.79009071,10.24309808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7R,23867,Tönningstedt,Neritzer Weg,3,,53.78752683,10.25932235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7S,23867,Tönningstedt,Neritzer Weg,5,,53.78721164,10.26078207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7T,23867,Tönningstedt,Neritzer Weg,6,,53.78822575,10.24987089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7U,23867,Tönningstedt,Nienwohlder Straße,1,,53.79520674,10.22407565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7V,23867,Tönningstedt,Nienwohlder Straße,2,,53.79543198,10.22415578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7W,23867,Tönningstedt,Neuer Weg,1,,53.80120186,10.22970391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7X,23867,Tönningstedt,Neuer Weg,10,,53.80181405,10.22850572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7Y,23867,Tönningstedt,Neuer Weg,11,,53.80189532,10.22752953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7a,23867,Tönningstedt,Kastanienweg,7,,53.8028813,10.22215308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7b,23867,Tönningstedt,Kastanienweg,8,,53.80285416,10.22317332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7c,23867,Tönningstedt,Kastanienweg,9,,53.80307412,10.22211412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7d,23867,Tönningstedt,Lohkoppel,1,,53.80129125,10.22640169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7e,23867,Tönningstedt,Lohkoppel,10,,53.80119744,10.22610143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7f,23867,Tönningstedt,Lohkoppel,11,,53.8003653,10.22633815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7g,23867,Tönningstedt,Lohkoppel,12,,53.80088096,10.22601657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7h,23867,Tönningstedt,Lohkoppel,13,,53.80007408,10.22628519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7i,23867,Tönningstedt,Lohkoppel,14,,53.80056493,10.22598602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7j,23867,Tönningstedt,Lohkoppel,14,a,53.80030492,10.22596145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7k,23867,Tönningstedt,Lohkoppel,16,,53.80015473,10.22593561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7l,23867,Tönningstedt,Lohkoppel,2,,53.80216006,10.22628089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7m,23867,Tönningstedt,Lohkoppel,2,a,53.80199486,10.22622573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7n,23867,Tönningstedt,Lohkoppel,3,,53.80114525,10.22636657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7o,23867,Tönningstedt,Lohkoppel,4,,53.8018167,10.22619627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7p,23867,Tönningstedt,Lohkoppel,5,,53.80091352,10.22636778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7q,23867,Tönningstedt,Lohkoppel,6,,53.80161503,10.22613791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7r,23867,Tönningstedt,Lohkoppel,7,,53.80071979,10.22634708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7s,23867,Tönningstedt,Lohkoppel,8,,53.80139252,10.22613204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7t,23867,Tönningstedt,Lohkoppel,9,,53.80054068,10.22634298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7u,23867,Tönningstedt,Maschkoppel,1,,53.79488102,10.23274823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7v,23867,Tönningstedt,Maschkoppel,2,,53.79465189,10.23285711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7w,23867,Tönningstedt,Maschkoppel,3,,53.79494756,10.2331467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7x,23867,Tönningstedt,Maschkoppel,4,a,53.79468198,10.23315231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7y,23867,Tönningstedt,Maschkoppel,4,b,53.79466772,10.23326679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI7z,23867,Tönningstedt,Maschkoppel,5,,53.79498283,10.23363261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI80,23867,Tönningstedt,Neuer Weg,13,,53.80203038,10.22708975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI81,23867,Tönningstedt,Neuer Weg,14,,53.80335084,10.2258691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI82,23867,Tönningstedt,Neuer Weg,15,,53.8019904,10.22675289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI83,23867,Tönningstedt,Neuer Weg,16,,53.80287771,10.22524468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI84,23867,Tönningstedt,Neuer Weg,17,,53.80241482,10.22585209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI85,23867,Tönningstedt,Neuer Weg,18,,53.80305972,10.22478478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI86,23867,Tönningstedt,Neuer Weg,19,,53.80250582,10.22547728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI87,23867,Tönningstedt,Neuer Weg,2,,53.80129539,10.23022315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI88,23867,Tönningstedt,Neuer Weg,20,,53.80320222,10.22455087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI89,23867,Tönningstedt,Neuer Weg,20,a,53.80346125,10.22475167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8A,23867,Tönningstedt,Neuer Weg,38,,53.80480748,10.21873455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8B,23867,Tönningstedt,Neuer Weg,39,,53.80364473,10.22170562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8C,23867,Tönningstedt,Neuer Weg,4,,53.80140492,10.22985644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8D,23867,Tönningstedt,Neuer Weg,40,,53.80504899,10.21819093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8E,23867,Tönningstedt,Neuer Weg,41,,53.80376187,10.2211336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8F,23867,Tönningstedt,Neuer Weg,43,a,53.80374494,10.22054492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8G,23867,Tönningstedt,Neuer Weg,43,b,53.803672,10.2205664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8H,23867,Tönningstedt,Neuer Weg,43,c,53.80360666,10.22056387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8I,23867,Tönningstedt,Neuer Weg,43,d,53.803543,10.22056262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8J,23867,Tönningstedt,Neuer Weg,43,e,53.80348183,10.22056018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8K,23867,Tönningstedt,Neuer Weg,45,,53.80395499,10.22036465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8L,23867,Tönningstedt,Neuer Weg,45,a,53.80391436,10.22014954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8M,23867,Tönningstedt,Neuer Weg,47,,53.80407642,10.21984336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8N,23867,Tönningstedt,Neuer Weg,49,,53.80425458,10.21938318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8O,23867,Tönningstedt,Neuer Weg,49,a,53.80439212,10.2189546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8P,23867,Tönningstedt,Neuer Weg,5,a,53.80153296,10.22874858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8Q,23867,Tönningstedt,Neuer Weg,5,b,53.80155928,10.22865922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8R,23867,Tönningstedt,Neuer Weg,5,c,53.80158693,10.22856827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8S,23867,Tönningstedt,Neuer Weg,50,,53.80531803,10.21708349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8T,23867,Tönningstedt,Neuer Weg,51,,53.80466711,10.21770922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8U,23867,Tönningstedt,Neuer Weg,53,,53.80522338,10.21583852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8V,23867,Tönningstedt,Neuer Weg,55,,53.80552697,10.21479842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8W,23867,Tönningstedt,Neuer Weg,55,a,53.80555952,10.21460653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8X,23867,Tönningstedt,Neuer Weg,6,,53.80166943,10.22901921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8Y,23867,Tönningstedt,Neuer Weg,7,,53.80160429,10.22812629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8Z,23867,Tönningstedt,Neuer Weg,8,,53.80175423,10.22873086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8a,23867,Tönningstedt,Neuer Weg,21,,53.80267857,10.22502057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8b,23867,Tönningstedt,Neuer Weg,21,a,53.80243601,10.22502876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8c,23867,Tönningstedt,Neuer Weg,22,,53.8032135,10.22414983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8d,23867,Tönningstedt,Neuer Weg,23,,53.80280429,10.22458055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8e,23867,Tönningstedt,Neuer Weg,24,,53.80323932,10.22386631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8f,23867,Tönningstedt,Neuer Weg,25,,53.80288155,10.22435232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8g,23867,Tönningstedt,Neuer Weg,26,,53.80331016,10.223623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8h,23867,Tönningstedt,Neuer Weg,27,,53.80299457,10.22398558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8i,23867,Tönningstedt,Neuer Weg,28,,53.80347922,10.22328599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8j,23867,Tönningstedt,Neuer Weg,29,,53.80308941,10.22353342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8k,23867,Tönningstedt,Neuer Weg,30,,53.80353889,10.22302437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8l,23867,Tönningstedt,Neuer Weg,30,a,53.80390439,10.22358632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8m,23867,Tönningstedt,Neuer Weg,31,,53.80319126,10.2231874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8n,23867,Tönningstedt,Neuer Weg,32,,53.8037417,10.22270068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8o,23867,Tönningstedt,Neuer Weg,33,,53.80328172,10.22287198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8p,23867,Tönningstedt,Neuer Weg,34,,53.80382691,10.22253269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8q,23867,Tönningstedt,Neuer Weg,34,a,53.80399214,10.22187547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8r,23867,Tönningstedt,Neuer Weg,34,b,53.80415585,10.22165466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8s,23867,Tönningstedt,Neuer Weg,34,c,53.80425394,10.22139666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8t,23867,Tönningstedt,Neuer Weg,35,,53.80341158,10.22248928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8u,23867,Tönningstedt,Neuer Weg,36,,53.80452663,10.22011627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8v,23867,Tönningstedt,Neuer Weg,36,a,53.80462722,10.21967698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8w,23867,Tönningstedt,Neuer Weg,36,c,53.80475154,10.21899175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8y,23867,Tönningstedt,Neuer Weg,37,,53.80354184,10.22210327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI8z,23867,Tönningstedt,Neuer Weg,37,a,53.80332626,10.22208962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI90,23867,Tönningstedt,Neuer Weg,9,,53.80179875,10.22785945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9b,23867,Tönningstedt,Oldesloer Straße,10,,53.79984284,10.23428157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9c,23867,Tönningstedt,Oldesloer Straße,11,,53.80012981,10.23496063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9d,23867,Tönningstedt,Oldesloer Straße,12,,53.7997675,10.23479657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9e,23867,Tönningstedt,Oldesloer Straße,13,,53.79951683,10.23641974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9f,23867,Tönningstedt,Oldesloer Straße,14,,53.79969207,10.23503591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9g,23867,Tönningstedt,Oldesloer Straße,18,,53.79960338,10.23529371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9h,23867,Tönningstedt,Oldesloer Straße,2,,53.79984221,10.23332559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9i,23867,Tönningstedt,Oldesloer Straße,20,,53.79945531,10.23547981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9j,23867,Tönningstedt,Oldesloer Straße,20,b,53.79911231,10.23510275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9k,23867,Tönningstedt,Oldesloer Straße,22,,53.79940824,10.23580274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9l,23867,Tönningstedt,Oldesloer Straße,22,a,53.79901915,10.23533723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9m,23867,Tönningstedt,Oldesloer Straße,24,,53.79935204,10.23600731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9n,23867,Tönningstedt,Oldesloer Straße,26,,53.79926698,10.23626422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9o,23867,Tönningstedt,Oldesloer Straße,28,,53.79882485,10.23755819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9p,23867,Tönningstedt,Oldesloer Straße,3,,53.80027747,10.23257357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9q,23867,Tönningstedt,Oldesloer Straße,30,,53.79861713,10.23838211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9r,23867,Tönningstedt,Oldesloer Straße,4,,53.80012054,10.23311419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9s,23867,Tönningstedt,Oldesloer Straße,5,,53.80059812,10.23325211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9t,23867,Tönningstedt,Oldesloer Straße,6,,53.80001867,10.23347409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9v,23867,Tönningstedt,Oldesloer Straße,8,,53.79975024,10.23370332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9w,23867,Tönningstedt,Oldesloer Straße,9,,53.8003538,10.23407765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cI9x,23867,Tönningstedt,Oldesloer Straße,9,a,53.80142681,10.2348341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaA,23867,Tönningstedt,Petersfelde,10,,53.78248807,10.23986174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaB,23867,Tönningstedt,Petersfelde,12,,53.78211012,10.24028325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaC,23867,Tönningstedt,Petersfelde,2,,53.78765344,10.23585581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaD,23867,Tönningstedt,Petersfelde,3,,53.7853328,10.23949094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaE,23867,Tönningstedt,Petersfelde,4,,53.78724176,10.23653636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaF,23867,Tönningstedt,Petersfelde,4,a,53.78613435,10.23711008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaG,23867,Tönningstedt,Petersfelde,5,,53.78296378,10.24007649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaH,23867,Tönningstedt,Petersfelde,6,,53.78402399,10.23938161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaI,23867,Tönningstedt,Petersfelde,7,,53.78258741,10.24035395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaJ,23867,Tönningstedt,Petersfelde,8,,53.78285812,10.23971847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaK,23867,Tönningstedt,Petersfelde,9,,53.78206863,10.24075358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaL,23867,Tönningstedt,Postweg,1,,53.80952278,10.23357424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaM,23867,Tönningstedt,Postweg,1,a,53.80965042,10.23359715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaN,23867,Tönningstedt,Postweg,1,b,53.80963758,10.23368263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaO,23867,Tönningstedt,Postweg,2,,53.80950044,10.23383086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaP,23867,Tönningstedt,Postweg,2,a,53.80961712,10.23404029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaQ,23867,Tönningstedt,Postweg,4,,53.8097808,10.23401028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIaz,23867,Tönningstedt,Petersfelde,1,,53.78713563,10.2374333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbA,23867,Tönningstedt,Schützenstraße,10,b,53.79939656,10.22914627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbB,23867,Tönningstedt,Schützenstraße,10,c,53.79942377,10.22906916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbC,23867,Tönningstedt,Schützenstraße,10,d,53.79945105,10.22899141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbD,23867,Tönningstedt,Schützenstraße,10,e,53.7994786,10.22891313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbE,23867,Tönningstedt,Schützenstraße,10,f,53.7995079,10.22882696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbF,23867,Tönningstedt,Schützenstraße,12,,53.79925875,10.22876919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbG,23867,Tönningstedt,Schützenstraße,14,,53.79954765,10.22847281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbH,23867,Tönningstedt,Schützenstraße,16,,53.79933906,10.22841533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbI,23867,Tönningstedt,Schützenstraße,18,,53.79892016,10.22904283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbJ,23867,Tönningstedt,Schützenstraße,20,,53.79874134,10.22884075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbK,23867,Tönningstedt,Schützenstraße,22,,53.79850704,10.22874612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbL,23867,Tönningstedt,Schützenstraße,4,,53.79979906,10.22961475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbN,23867,Tönningstedt,Schützenstraße,6,,53.79962687,10.22948251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbO,23867,Tönningstedt,Schützenstraße,8,,53.7994715,10.22937792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbP,23867,Tönningstedt,Steindamm,1,,53.79902478,10.23123097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbQ,23867,Tönningstedt,Steindamm,10,,53.79883187,10.22993818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbR,23867,Tönningstedt,Steindamm,11,,53.79840861,10.22926281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbS,23867,Tönningstedt,Steindamm,12,,53.79876213,10.22946126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbT,23867,Tönningstedt,Steindamm,13,,53.79829583,10.22903362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbU,23867,Tönningstedt,Steindamm,15,,53.79820719,10.22875951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbV,23867,Tönningstedt,Steindamm,2,,53.7995599,10.23154375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbW,23867,Tönningstedt,Steindamm,3,,53.7989278,10.2309133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbX,23867,Tönningstedt,Steindamm,4,,53.79934774,10.23142285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbY,23867,Tönningstedt,Steindamm,5,,53.79873661,10.23029386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbZ,23867,Tönningstedt,Steindamm,6,,53.79903843,10.2306007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIba,23867,Tönningstedt,Sülfelder Brücke,1,,53.79878973,10.239249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbb,23867,Tönningstedt,Sülfelder Brücke,1,a,53.79880261,10.2390035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbc,23867,Tönningstedt,Sülfelder Brücke,2,,53.79851837,10.23946666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbd,23867,Tönningstedt,Sülfelder Brücke,2,a,53.79818677,10.23893372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbe,23867,Tönningstedt,Sülfelder Brücke,3,,53.79871794,10.23948495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbf,23867,Tönningstedt,Sülfelder Brücke,4,,53.7986829,10.24070754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbg,23867,Tönningstedt,Sülfelder Brücke,5,,53.79880158,10.23999642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbh,23867,Tönningstedt,Sülfelder Brücke,6,,53.79878638,10.24128039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbi,23867,Tönningstedt,Sülfelder Brücke,6,a,53.79868684,10.24104288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbj,23867,Tönningstedt,Sülfelder Brücke,6,b,53.79885537,10.24159848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbk,23867,Tönningstedt,Sülfelder Brücke,7,,53.79890444,10.24060227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbl,23867,Tönningstedt,Sülfelder Brücke,8,,53.79902869,10.24176054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbm,23867,Tönningstedt,Sülfelder Brücke,9,,53.79897057,10.24107703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbn,23867,Tönningstedt,Sülfelder Kamp,1,,53.80479498,10.22245624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbo,23867,Tönningstedt,Sülfelder Kamp,3,,53.80496241,10.22260235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbp,23867,Tönningstedt,Sülfelder Tannen,1,,53.79012668,10.25160764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbq,23867,Tönningstedt,Sülfelder Tannen,11,,53.78617444,10.25106952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbr,23867,Tönningstedt,Sülfelder Tannen,2,,53.78740163,10.251481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbs,23867,Tönningstedt,Sülfelder Tannen,2,a,53.78737774,10.25123565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbt,23867,Tönningstedt,Sülfelder Tannen,3,,53.78866281,10.25301587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbu,23867,Tönningstedt,Sülfelder Tannen,4,,53.78681746,10.250519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbv,23867,Tönningstedt,Sülfelder Tannen,5,,53.7869042,10.25242905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbw,23867,Tönningstedt,Sülfelder Tannen,7,,53.78677704,10.251813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbx,23867,Tönningstedt,Sülfelder Tannen,9,,53.78658046,10.25133696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIby,23867,Tönningstedt,Schützenstraße,1,,53.7990323,10.22948216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIbz,23867,Tönningstedt,Schützenstraße,10,a,53.79911913,10.22917701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc0,23867,Tönningstedt,Steindamm,6,a,53.79906779,10.2304498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc1,23867,Tönningstedt,Steindamm,7,,53.79870795,10.23021566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc2,23867,Tönningstedt,Steindamm,8,,53.79895035,10.23028738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc3,23867,Tönningstedt,Steindamm,9,,53.79854242,10.2297051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc4,23867,Tönningstedt,Steindamm,9,a,53.79841392,10.23009808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc5,23867,Tönningstedt,Stoltenkamp,1,,53.81174778,10.23163711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc6,23867,Tönningstedt,Stoltenkamp,10,,53.81144459,10.23183148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc7,23867,Tönningstedt,Stoltenkamp,11,,53.81282826,10.230584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc8,23867,Tönningstedt,Stoltenkamp,12,,53.81162466,10.23195134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIc9,23867,Tönningstedt,Stoltenkamp,13,,53.81184865,10.23210118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcA,23867,Tönningstedt,Torfredder,1,a,53.79825795,10.22800855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcB,23867,Tönningstedt,Torfredder,1,b,53.7983056,10.22808891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcC,23867,Tönningstedt,Torfredder,11,,53.79862148,10.22659384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcD,23867,Tönningstedt,Torfredder,13,,53.79891988,10.22635706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcE,23867,Tönningstedt,Torfredder,15,,53.79916246,10.22458541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcF,23867,Tönningstedt,Torfredder,15,a,53.79922497,10.22507675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcG,23867,Tönningstedt,Torfredder,17,,53.79585081,10.20725779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcH,23867,Tönningstedt,Torfredder,3,,53.79852885,10.22758014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcI,23867,Tönningstedt,Torfredder,5,,53.79858805,10.22739121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcJ,23867,Tönningstedt,Torfredder,7,,53.79853128,10.22701736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcK,23867,Tönningstedt,Torfredder,9,,53.79859443,10.22681424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcL,23867,Tönningstedt,Ulmenweg,1,,53.8023881,10.21899013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcM,23867,Tönningstedt,Ulmenweg,10,,53.80189465,10.22013695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcN,23867,Tönningstedt,Ulmenweg,11,,53.80243889,10.22048295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcO,23867,Tönningstedt,Ulmenweg,12,,53.80188308,10.22043568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcP,23867,Tönningstedt,Ulmenweg,2,,53.80197409,10.21896703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcQ,23867,Tönningstedt,Ulmenweg,3,,53.80239214,10.21926196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcR,23867,Tönningstedt,Ulmenweg,4,,53.80202683,10.21926495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcS,23867,Tönningstedt,Ulmenweg,5,,53.80238778,10.21956079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcT,23867,Tönningstedt,Ulmenweg,6,,53.80202741,10.21953835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcU,23867,Tönningstedt,Ulmenweg,7,,53.80232917,10.21979133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcV,23867,Tönningstedt,Ulmenweg,8,,53.80199041,10.21980591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcW,23867,Tönningstedt,Ulmenweg,9,,53.80236661,10.2201536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcX,23867,Tönningstedt,Vierthof,1,,53.80691211,10.20943814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcY,23867,Tönningstedt,Vierthof,2,,53.80737651,10.20958034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcZ,23867,Tönningstedt,Vierthof,3,,53.80688308,10.20917924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIca,23867,Tönningstedt,Stoltenkamp,14,,53.81212558,10.23217344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcb,23867,Tönningstedt,Stoltenkamp,15,,53.81237433,10.23210144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcc,23867,Tönningstedt,Stoltenkamp,16,,53.81267288,10.23208716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcd,23867,Tönningstedt,Stoltenkamp,17,,53.81289335,10.23197474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIce,23867,Tönningstedt,Stoltenkamp,18,,53.81293072,10.23144422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcf,23867,Tönningstedt,Stoltenkamp,18,a,53.81300998,10.23099366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcg,23867,Tönningstedt,Stoltenkamp,2,,53.81072011,10.23148528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIch,23867,Tönningstedt,Stoltenkamp,20,,53.81306371,10.2307601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIci,23867,Tönningstedt,Stoltenkamp,22,,53.81319113,10.23047175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcj,23867,Tönningstedt,Stoltenkamp,3,,53.81205865,10.23163533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIck,23867,Tönningstedt,Stoltenkamp,4,,53.81088434,10.23156576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcl,23867,Tönningstedt,Stoltenkamp,5,,53.81233621,10.23164979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcm,23867,Tönningstedt,Stoltenkamp,6,,53.81105718,10.23162441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcn,23867,Tönningstedt,Stoltenkamp,7,,53.81261884,10.23142482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIco,23867,Tönningstedt,Stoltenkamp,8,,53.81126818,10.23173814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcp,23867,Tönningstedt,Stoltenkamp,9,,53.81280272,10.230932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcq,23867,Tönningstedt,Stoltenweg,1,,53.79980854,10.2307905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcr,23867,Tönningstedt,Stoltenweg,1,a,53.79964709,10.23055017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcs,23867,Tönningstedt,Stoltenweg,2,,53.80002009,10.23093135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIct,23867,Tönningstedt,Stoltenweg,3,,53.79954057,10.23030622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcu,23867,Tönningstedt,Stoltenweg,5,,53.79937265,10.2299636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcv,23867,Tönningstedt,Stoltenweg,7,,53.79928589,10.22975042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIcz,23867,Tönningstedt,Torfredder,1,,53.79836644,10.22787478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cId0,23867,Tönningstedt,Vierthof,5,,53.80633072,10.20858601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cId1,23867,Tönningstedt,Vierthof,7,,53.80555662,10.20702682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cId2,23867,Tönningstedt,Vierthof,9,,53.80538652,10.20474568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdA,23867,Tönningstedt,Wittenkamp,23,,53.80087545,10.22197494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdB,23867,Tönningstedt,Wittenkamp,24,,53.80115284,10.22095133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdC,23867,Tönningstedt,Wittenkamp,25,,53.80086121,10.22160719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdD,23867,Tönningstedt,Wittenkamp,26,,53.80106641,10.2212401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdE,23867,Tönningstedt,Wittenkamp,27,,53.80062274,10.22164838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdF,23867,Tönningstedt,Wittenkamp,28,,53.80077409,10.22122885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdG,23867,Tönningstedt,Wittenkamp,3,,53.80313509,10.22138057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdH,23867,Tönningstedt,Wittenkamp,4,,53.80326224,10.22107279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdI,23867,Tönningstedt,Wittenkamp,4,a,53.80318292,10.2210457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdJ,23867,Tönningstedt,Wittenkamp,4,b,53.80329717,10.22092647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdK,23867,Tönningstedt,Wittenkamp,5,,53.80294234,10.22135103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdL,23867,Tönningstedt,Wittenkamp,6,,53.8030179,10.22098156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdM,23867,Tönningstedt,Wittenkamp,6,a,53.8029238,10.2209707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdN,23867,Tönningstedt,Wittenkamp,7,,53.8027452,10.22135745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdO,23867,Tönningstedt,Wittenkamp,8,,53.80277324,10.22098657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdP,23867,Tönningstedt,Wittenkamp,9,,53.80256292,10.22137566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdh,23867,Tönningstedt,Wittenkamp,1,,53.80339899,10.22152026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdi,23867,Tönningstedt,Wittenkamp,10,,53.80249894,10.22100352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdj,23867,Tönningstedt,Wittenkamp,10,a,53.80242492,10.22102153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdk,23867,Tönningstedt,Wittenkamp,11,,53.80236412,10.22155403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdl,23867,Tönningstedt,Wittenkamp,12,,53.80224758,10.22110146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdm,23867,Tönningstedt,Wittenkamp,12,a,53.80225976,10.22084045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdn,23867,Tönningstedt,Wittenkamp,14,,53.80207868,10.22124611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdo,23867,Tönningstedt,Wittenkamp,14,a,53.80207303,10.22109611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdp,23867,Tönningstedt,Wittenkamp,15,,53.80165676,10.22166325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdq,23867,Tönningstedt,Wittenkamp,15,a,53.801735,10.22208986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdr,23867,Tönningstedt,Wittenkamp,16,,53.8019192,10.22124355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIds,23867,Tönningstedt,Wittenkamp,17,,53.80142108,10.22166288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdt,23867,Tönningstedt,Wittenkamp,17,a,53.80145953,10.22197554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdu,23867,Tönningstedt,Wittenkamp,18,,53.80175602,10.22124576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdv,23867,Tönningstedt,Wittenkamp,19,,53.80113781,10.22199372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdw,23867,Tönningstedt,Wittenkamp,2,,53.80347386,10.22115047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdx,23867,Tönningstedt,Wittenkamp,20,,53.8015871,10.22125155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdy,23867,Tönningstedt,Wittenkamp,21,,53.8011443,10.22159875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIdz,23867,Tönningstedt,Wittenkamp,22,,53.80135902,10.22114054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeA,23867,Tönningstedt,Zuckerhut,28,,53.80086152,10.21860865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeB,23867,Tönningstedt,Zuckerhut,29,,53.80054965,10.22265595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeC,23867,Tönningstedt,Zuckerhut,3,,53.80419167,10.21833426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeD,23867,Tönningstedt,Zuckerhut,30,,53.8007702,10.21899139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeE,23867,Tönningstedt,Zuckerhut,32,,53.80066804,10.21945279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeF,23867,Tönningstedt,Zuckerhut,34,,53.8005917,10.21975698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeG,23867,Tönningstedt,Zuckerhut,36,,53.80058291,10.22001801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeH,23867,Tönningstedt,Zuckerhut,38,,53.80041566,10.22032756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeI,23867,Tönningstedt,Zuckerhut,4,,53.8026152,10.21829411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeJ,23867,Tönningstedt,Zuckerhut,40,,53.80045382,10.22056367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeK,23867,Tönningstedt,Zuckerhut,42,,53.80037946,10.22089537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeL,23867,Tönningstedt,Zuckerhut,44,,53.80035271,10.2211803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeM,23867,Tönningstedt,Zuckerhut,46,,53.80026946,10.22145544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeN,23867,Tönningstedt,Zuckerhut,48,,53.80021938,10.22178781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeO,23867,Tönningstedt,Zuckerhut,5,,53.8039962,10.21832833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeP,23867,Tönningstedt,Zuckerhut,50,,53.8001836,10.22207517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeQ,23867,Tönningstedt,Zuckerhut,52,,53.80011812,10.22242416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeR,23867,Tönningstedt,Zuckerhut,54,,53.79984714,10.22249435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeS,23867,Tönningstedt,Zuckerhut,56,,53.79980756,10.22289035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeT,23867,Tönningstedt,Zuckerhut,58,,53.80015219,10.22279376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeU,23867,Tönningstedt,Zuckerhut,6,,53.80243544,10.21811561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeV,23867,Tönningstedt,Zuckerhut,7,,53.80348606,10.21822703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeW,23867,Tönningstedt,Zuckerhut,8,,53.80234382,10.21840181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeX,23867,Tönningstedt,Zuckerhut,9,a,53.80168555,10.21939423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeY,23867,Tönningstedt,Zuckerhut,9,b,53.80168344,10.21950197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeh,23867,Tönningstedt,Zuckerhut,1,,53.80442547,10.21854091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIei,23867,Tönningstedt,Zuckerhut,10,,53.80213596,10.21811043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIej,23867,Tönningstedt,Zuckerhut,11,,53.80165929,10.21897565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIek,23867,Tönningstedt,Zuckerhut,12,,53.80202371,10.2184495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIel,23867,Tönningstedt,Zuckerhut,13,,53.80138674,10.21939886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIem,23867,Tönningstedt,Zuckerhut,14,,53.80184006,10.21808368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIen,23867,Tönningstedt,Zuckerhut,15,,53.80139522,10.21903918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeo,23867,Tönningstedt,Zuckerhut,16,,53.80173158,10.21844182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIep,23867,Tönningstedt,Zuckerhut,17,,53.80116229,10.2190195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeq,23867,Tönningstedt,Zuckerhut,18,,53.80154634,10.2180593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIer,23867,Tönningstedt,Zuckerhut,19,,53.80105814,10.21949477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIes,23867,Tönningstedt,Zuckerhut,2,,53.80280921,10.21809937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIet,23867,Tönningstedt,Zuckerhut,20,,53.80143229,10.21843867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIeu,23867,Tönningstedt,Zuckerhut,21,,53.80083387,10.2204796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIev,23867,Tönningstedt,Zuckerhut,22,,53.80128314,10.2180464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIew,23867,Tönningstedt,Zuckerhut,23,,53.80081558,10.22082448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIex,23867,Tönningstedt,Zuckerhut,24,,53.80115385,10.21846815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIey,23867,Tönningstedt,Zuckerhut,26,,53.8008864,10.21818015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIez,23867,Tönningstedt,Zuckerhut,27,,53.80056228,10.22213648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PLVX,23867,Tönningstedt,Elmenhorster Chaussee,27,a,53.79655605,10.23272195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PM5D,23867,Tönningstedt,Oldesloer Straße,2,a,53.80009254,10.23240337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PM5E,23867,Tönningstedt,Oldesloer Straße,2,b,53.80008021,10.2325917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PM5F,23867,Tönningstedt,Oldesloer Straße,2,c,53.80011653,10.23276486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PM5u,23867,Tönningstedt,Oldesloer Straße,1,a,53.80056313,10.23217221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PM5v,23867,Tönningstedt,Oldesloer Straße,1,b,53.80055318,10.23223191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PMjk,23867,Tönningstedt,Schützenstraße,2,b,53.80030997,10.23011058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PNG3,23867,Tönningstedt,Neuer Weg,36,d,53.80488094,10.21912521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PNhK,23867,Tönningstedt,Eichenweg,3,a,53.80377854,10.21907495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ucza,23867,Tönningstedt,Lindenweg,1,,53.80223775,10.22541269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XCAt,23867,Tönningstedt,Heesberg,4,,53.80964328,10.23022166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053zTe,23867,Tönningstedt,An der Bahn,1,a,53.79810814,10.23316456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IoKT,23867,Tönningstedt,Stoltenkamp,5,a,53.81238816,10.23120614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005We69,23867,Tönningstedt,Schützenstraße,2,a,53.80026821,10.23019271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005We6a,23867,Tönningstedt,Schützenstraße,2,c,53.80040018,10.22991317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005We6b,23867,Tönningstedt,Schützenstraße,2,d,53.80044446,10.22983312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005We6d,23867,Tönningstedt,Schützenstraße,2,e,53.8005367,10.23014409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005We7d,23867,Tönningstedt,Schützenstraße,4,a,53.80001423,10.22933904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Wq9T,23867,Tönningstedt,Zuckerhut,26,a,53.80098656,10.21799617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WqJ8,23867,Tönningstedt,Am Markt,9,a,53.80072693,10.23050318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Yy9V,23867,Tönningstedt,Lindenweg,5,,53.8018203,10.22538041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cAvn,23867,Tönningstedt,Hörn,12,c,53.80668851,10.23352302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fp5I,23867,Tönningstedt,Oldesloer Straße,8,a,53.79997283,10.23414503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fp5N,23867,Tönningstedt,Oldesloer Straße,10,a,53.79966577,10.2339938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qtfD,23867,Tönningstedt,Oldesloer Straße,6,b,53.79994388,10.23391358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qtfF,23867,Tönningstedt,Oldesloer Straße,6,a,53.7999746,10.23381117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005t6Bi,23867,Tönningstedt,Kassburg,22,c,53.79880679,10.24942594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yWqw,23867,Tönningstedt,Hasenkrog,16,,53.81206018,10.23094488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064CdY,23867,Tönningstedt,Lohkoppel,1,a,53.80180233,10.22654584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064npq,23867,Tönningstedt,Hasenkrog,13,a,53.81349475,10.22964327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBC,23867,Tönningstedt,Huuskoppel,5,,53.79716224,10.23155277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBF,23867,Tönningstedt,Huuskoppel,7,,53.7970161,10.23142934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBH,23867,Tönningstedt,Huuskoppel,15,,53.79615068,10.23144084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBM,23867,Tönningstedt,Huuskoppel,18,,53.79659245,10.23024871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBQ,23867,Tönningstedt,Huuskoppel,11,,53.79660335,10.23110945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBT,23867,Tönningstedt,Huuskoppel,10,,53.79686278,10.23094061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBh,23867,Tönningstedt,Huuskoppel,22,,53.79636388,10.23027922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBk,23867,Tönningstedt,Huuskoppel,13,,53.79632552,10.23129524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBn,23867,Tönningstedt,Huuskoppel,14,,53.79679525,10.23036809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBq,23867,Tönningstedt,Huuskoppel,6,,53.79714345,10.23056948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBt,23867,Tönningstedt,Huuskoppel,19,,53.79627537,10.23079346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBw,23867,Tönningstedt,Huuskoppel,20,,53.79649171,10.23014124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cBz,23867,Tönningstedt,Huuskoppel,4,,53.79736211,10.23060189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cC8,23867,Tönningstedt,Huuskoppel,12,,53.79699125,10.23048334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCh,23867,Tönningstedt,Huuskoppel,17,,53.79618892,10.2310405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCk,23867,Tönningstedt,Huuskoppel,2,,53.79722157,10.23101984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCn,23867,Tönningstedt,Huuskoppel,16,,53.79664226,10.23094956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCr,23867,Tönningstedt,Huuskoppel,3,,53.79732333,10.23160559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCu,23867,Tönningstedt,Huuskoppel,1,,53.79749244,10.23162923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067cCx,23867,Tönningstedt,Huuskoppel,8,,53.79703544,10.23096917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068Rlg,23867,Tönningstedt,Neuer Weg,22,a,53.80347231,10.22433634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GM4M,23867,Tönningstedt,Postweg,3,,53.80989649,10.23378752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PMsF,23867,Tönningstedt,Am Markt,12,a,53.80167203,10.23389147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PMsK,23867,Tönningstedt,Am Markt,12,,53.80121131,10.23300465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QzLz,23867,Tönningstedt,Hörn,20,a,53.8077685,10.23449534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TjVC,23867,Tönningstedt,Neuer Weg,8,b,53.80220267,10.22878762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TjVw,23867,Tönningstedt,Neuer Weg,8,a,53.80206363,10.22882744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006noJG,23867,Tönningstedt,Hauptstraße,1,c,53.80731948,10.23727461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v9dq,23867,Tönningstedt,Huuskoppel,9,a,53.79681154,10.23129712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v9oH,23867,Tönningstedt,Huuskoppel,9,b,53.79675709,10.2312895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077BR6,23867,Tönningstedt,Am Dorfplatz,8,b,53.80801694,10.23007401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007BMgp,23867,Tönningstedt,Elmenhorster Chaussee,31,a,53.79614044,10.2326962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007BMgq,23867,Tönningstedt,Elmenhorster Chaussee,31,b,53.79607759,10.23269355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007E7TB,23867,Tönningstedt,Am alten Alsterkanal,21,b,53.79952337,10.22813171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBB,23867,Tönningstedt,Hauptstraße,7,c,53.80849261,10.23392596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBG,23867,Tönningstedt,Hauptstraße,7,d,53.80856876,10.23353063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBK,23867,Tönningstedt,Hörn,15,a,53.8083987,10.23293442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBP,23867,Tönningstedt,Hörn,13,a,53.80833768,10.23284905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBb,23867,Tönningstedt,Hauptstraße,7,b,53.80874356,10.23402204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBl,23867,Tönningstedt,Hauptstraße,7,a,53.80867176,10.23427963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBp,23867,Tönningstedt,Hauptstraße,7,,53.8085292,10.23457816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JpBw,23867,Tönningstedt,Hörn,19,,53.8083412,10.23424249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PuqJ,23867,Tönningstedt,Bahnhofstraße,7,b,53.79805909,10.23699571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Puqv,23867,Tönningstedt,Bahnhofstraße,7,a,53.79811271,10.23667748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ttql,23867,Tönningstedt,Ahornweg,13,,53.80259325,10.22376137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081E1j,23867,Tönningstedt,Alter Schulweg,2,a,53.82376638,10.19542748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081E1n,23867,Tönningstedt,Alter Schulweg,2,,53.82383266,10.19532567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Kw7s,23867,Tönningstedt,An der Bahn,29,a,53.79853951,10.23751087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008LcYU,23867,Tönningstedt,An der Bahn,1,c,53.79833475,10.23367501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jF3C,23867,Tönningstedt,An der Bahn,1,b,53.79850284,10.23339613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008quOX,23867,Tönningstedt,Ahornweg,17,,53.80231122,10.22412167

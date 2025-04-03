@@ -1,0 +1,618 @@
+# Amtliche Adressen für die Postleitzahl 23827
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA1W,23827,Travenhorst,Eutiner Landstraße,1,,53.99855658,10.3489292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA1X,23827,Travenhorst,Eutiner Landstraße,11,,54.00492112,10.36416367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA1Y,23827,Travenhorst,Eutiner Landstraße,11,a,54.00492112,10.36416367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA1Z,23827,Travenhorst,Eutiner Landstraße,12,,54.00536587,10.36395047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA20,23827,Travenhorst,Eutiner Landstraße,13,,54.0060284,10.36352856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA21,23827,Travenhorst,Eutiner Landstraße,14,,54.00604528,10.36403884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA22,23827,Travenhorst,Eutiner Landstraße,14,a,54.00511647,10.36449795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA23,23827,Travenhorst,Eutiner Landstraße,15,,54.00433916,10.36559958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA24,23827,Travenhorst,Eutiner Landstraße,16,,54.00745304,10.37361907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA25,23827,Travenhorst,Eutiner Landstraße,2,,53.99872493,10.34956175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA26,23827,Travenhorst,Eutiner Landstraße,3,,53.99993422,10.35115033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA27,23827,Travenhorst,Eutiner Landstraße,4,,54.00057786,10.35114415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA28,23827,Travenhorst,Eutiner Landstraße,5,,53.9998639,10.35264941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA29,23827,Travenhorst,Fehrenwohld,1,,53.98879374,10.33292896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2A,23827,Travenhorst,Dorfstraße,11,f,53.98897945,10.35549488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2B,23827,Travenhorst,Dorfstraße,12,,53.98768029,10.35511663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2C,23827,Travenhorst,Dorfstraße,13,,53.98850981,10.35538552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2D,23827,Travenhorst,Dorfstraße,13,a,53.98849235,10.35583387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2E,23827,Travenhorst,Dorfstraße,14,,53.9874281,10.35512391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2F,23827,Travenhorst,Dorfstraße,15,,53.98817563,10.35586649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2G,23827,Travenhorst,Dorfstraße,18,,53.98691822,10.35511487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2H,23827,Travenhorst,Dorfstraße,19,,53.98755783,10.35560733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2I,23827,Travenhorst,Dorfstraße,2,,53.99153473,10.35150942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2J,23827,Travenhorst,Dorfstraße,20,,53.98629947,10.35559892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2K,23827,Travenhorst,Dorfstraße,21,,53.98686288,10.35580227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2L,23827,Travenhorst,Dorfstraße,22,,53.98605799,10.35597236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2M,23827,Travenhorst,Dorfstraße,24,,53.98595088,10.35629887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2N,23827,Travenhorst,Dorfstraße,24,a,53.98593227,10.35639869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2O,23827,Travenhorst,Dorfstraße,26,,53.98588452,10.35665479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2P,23827,Travenhorst,Dorfstraße,26,a,53.98586524,10.35675931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2Q,23827,Travenhorst,Dorfstraße,28,,53.98581703,10.35700342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2R,23827,Travenhorst,Dorfstraße,28,a,53.98579757,10.35710781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2S,23827,Travenhorst,Dorfstraße,3,,53.99111041,10.3523918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2T,23827,Travenhorst,Dorfstraße,36,,53.98541002,10.35792275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2U,23827,Travenhorst,Dorfstraße,4,,53.98944459,10.35315534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2V,23827,Travenhorst,Dorfstraße,4,b,53.98925876,10.35380733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2W,23827,Travenhorst,Dorfstraße,4,d,53.98896143,10.35421454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2X,23827,Travenhorst,Dorfstraße,4,e,53.98880302,10.35433172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2Y,23827,Travenhorst,Dorfstraße,5,,53.99064759,10.35253777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2Z,23827,Travenhorst,Dorfstraße,5,a,53.99008693,10.35302232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2a,23827,Travenhorst,Fehrenwohld,1,a,53.9888319,10.33257392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2b,23827,Travenhorst,Fehrenwohld,2,,53.98918891,10.32950547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2c,23827,Travenhorst,Gölser Dorfstraße,1,,53.99078126,10.36285759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2d,23827,Travenhorst,Gölser Dorfstraße,10,,53.99188723,10.3666488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2e,23827,Travenhorst,Gölser Dorfstraße,12,,53.99181588,10.36795901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2f,23827,Travenhorst,Gölser Dorfstraße,2,,53.99192775,10.36439249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2g,23827,Travenhorst,Gölser Dorfstraße,2,a,53.9918503,10.36465977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2h,23827,Travenhorst,Gölser Dorfstraße,3,,53.99213861,10.36512575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2i,23827,Travenhorst,Gölser Dorfstraße,4,,53.99190969,10.36499525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2j,23827,Travenhorst,Gölser Dorfstraße,4,a,53.99192171,10.36546548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2k,23827,Travenhorst,Gölser Dorfstraße,5,,53.9921468,10.36612894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2l,23827,Travenhorst,Gölser Dorfstraße,6,,53.99196985,10.3659824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2m,23827,Travenhorst,Gölser Dorfstraße,7,,53.99212965,10.36632801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2n,23827,Travenhorst,Gölser Dorfstraße,8,,53.99194962,10.36619525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2o,23827,Travenhorst,Gölser Dorfstraße,9,,53.99236136,10.36643611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2p,23827,Travenhorst,Hunsahl,1,,53.98635526,10.35511949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2q,23827,Travenhorst,Hunsahl,3,,53.98631573,10.35404886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2r,23827,Travenhorst,Hunsahl,4,,53.98658648,10.35415806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2s,23827,Travenhorst,Hunsahl,6,,53.9865111,10.35355405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2t,23827,Travenhorst,Dorfstraße,1,,53.99131479,10.35244629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2u,23827,Travenhorst,Dorfstraße,10,,53.98795787,10.3549339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2v,23827,Travenhorst,Dorfstraße,11,a,53.98884287,10.35567387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2w,23827,Travenhorst,Dorfstraße,11,b,53.98897945,10.35549488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2x,23827,Travenhorst,Dorfstraße,11,c,53.98897945,10.35549488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2y,23827,Travenhorst,Dorfstraße,11,d,53.98897945,10.35549488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA2z,23827,Travenhorst,Dorfstraße,11,e,53.98897945,10.35549488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA30,23827,Travenhorst,Dorfstraße,5,b,53.99008693,10.35302232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA31,23827,Travenhorst,Dorfstraße,5,c,53.99008693,10.35302232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA32,23827,Travenhorst,Dorfstraße,6,,53.98845109,10.35478982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA33,23827,Travenhorst,Dorfstraße,6,a,53.98817601,10.35481844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA34,23827,Travenhorst,Dorfstraße,7,,53.98992391,10.35314535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA35,23827,Travenhorst,Dorfstraße,7,a,53.98970755,10.35393809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA36,23827,Travenhorst,Dorfstraße,7,b,53.98963251,10.35404047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA37,23827,Travenhorst,Dorfstraße,7,c,53.98955863,10.35424799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA38,23827,Travenhorst,Dorfstraße,7,d,53.98949331,10.35433508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA39,23827,Travenhorst,Dorfstraße,8,,53.9883068,10.35517141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3A,23827,Travenhorst,Segeberger Straße,3,,53.98143626,10.33914409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3B,23827,Travenhorst,Segeberger Straße,4,,53.98361513,10.34206452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3C,23827,Travenhorst,Segeberger Straße,5,,53.98330348,10.34110094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3D,23827,Travenhorst,Segeberger Straße,6,,53.98366682,10.34213368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3E,23827,Travenhorst,Segeberger Straße,7,,53.98388008,10.34191704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3F,23827,Travenhorst,Segeberger Straße,8,,53.98769805,10.34289631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3G,23827,Travenhorst,Segeberger Straße,9,,53.98469131,10.34261903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3H,23827,Travenhorst,Untersöhren,1,,53.99298435,10.33473955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3I,23827,Travenhorst,Untersöhren,2,,53.99384913,10.33344623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3J,23827,Travenhorst,Untersöhren,3,,53.9951822,10.33174342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3K,23827,Travenhorst,Warderbrück,1,,53.98223192,10.36716828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3L,23827,Travenhorst,Warderbrück,10,,53.98179014,10.36705557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3M,23827,Travenhorst,Warderbrück,12,,53.98132387,10.3671561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3N,23827,Travenhorst,Warderbrück,14,,53.98013263,10.36735225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3O,23827,Travenhorst,Warderbrück,2,,53.98232539,10.36673652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3P,23827,Travenhorst,Warderbrück,3,,53.98164307,10.36747018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3Q,23827,Travenhorst,Warderbrück,6,,53.98191447,10.36671399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3R,23827,Travenhorst,Warderbrück,8,,53.98186618,10.36702074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3S,23827,Travenhorst,Wegekaten,1,,53.99541358,10.38805235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3T,23827,Travenhorst,Wegekaten,2,,53.99543272,10.38823619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3U,23827,Travenhorst,Wegekaten,3,,53.99550094,10.38900275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3V,23827,Travenhorst,Wegekaten,4,,53.99552239,10.38919405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3W,23827,Travenhorst,Wegekaten,5,,53.99557445,10.39023909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3X,23827,Travenhorst,Fehrenwohlder Weg,1,,53.98947847,10.3406612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3Y,23827,Travenhorst,Fehrenwohlder Weg,2,,53.99160884,10.33507713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3Z,23827,Travenhorst,Fehrenwohlder Weg,3,,53.99170483,10.33472248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3a,23827,Travenhorst,Dorfstraße,9,,53.98938225,10.35454013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3b,23827,Travenhorst,Dorfstraße,9,a,53.98911893,10.35490091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3c,23827,Travenhorst,Am Lohhof,1,,53.98906176,10.35102932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3d,23827,Travenhorst,Müssen,1,,53.99227348,10.37221201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3e,23827,Travenhorst,Müssen,10,,53.99185106,10.37904328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3f,23827,Travenhorst,Müssen,2,,53.99271821,10.37353301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3g,23827,Travenhorst,Müssen,2,a,53.99289464,10.37331059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3h,23827,Travenhorst,Müssen,2,b,53.99289464,10.37331059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3i,23827,Travenhorst,Müssen,2,c,53.99289464,10.37331059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3j,23827,Travenhorst,Müssen,3,,53.99315169,10.37239674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3k,23827,Travenhorst,Müssen,4,,53.99273968,10.37379092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3l,23827,Travenhorst,Müssen,5,,53.99297655,10.37394391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3m,23827,Travenhorst,Müssen,6,,53.99337542,10.37609092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3n,23827,Travenhorst,Müssen,7,,53.99337679,10.37618029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3o,23827,Travenhorst,Müssen,8,,53.99337984,10.3762714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3p,23827,Travenhorst,Müssen,9,,53.99256934,10.37672971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3q,23827,Travenhorst,Segeberger Straße,1,,53.98004934,10.33838662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3r,23827,Travenhorst,Segeberger Straße,11,,53.98663304,10.34286408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3s,23827,Travenhorst,Segeberger Straße,13,,53.98933957,10.34160521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3t,23827,Travenhorst,Segeberger Straße,15,,53.98975833,10.34156181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3u,23827,Travenhorst,Segeberger Straße,17,,53.9905729,10.34201606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3v,23827,Travenhorst,Segeberger Straße,19,,53.99114074,10.3423264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3w,23827,Travenhorst,Segeberger Straße,2,,53.98014236,10.33891984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3x,23827,Travenhorst,Segeberger Straße,21,,53.99496466,10.34169316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3y,23827,Travenhorst,Segeberger Straße,23,,53.99508145,10.3413953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA3z,23827,Travenhorst,Segeberger Straße,25,,53.99666765,10.33873547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA40,23827,Travenhorst,Fehrenwohlder Weg,4,,53.99308015,10.32805657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA41,23827,Travenhorst,Fehrenwohlder Weg,5,,53.99323714,10.32674115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA42,23827,Travenhorst,Twiete,10,,53.98448369,10.35482122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA43,23827,Travenhorst,Twiete,11,,53.98470503,10.35498248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA44,23827,Travenhorst,Twiete,2,,53.9855956,10.35566391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA45,23827,Travenhorst,Twiete,2,a,53.98576944,10.35520213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA46,23827,Travenhorst,Twiete,3,,53.98554156,10.35605115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA47,23827,Travenhorst,Twiete,4,,53.98546912,10.3551485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA48,23827,Travenhorst,Twiete,4,a,53.9853571,10.35468148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA49,23827,Travenhorst,Twiete,5,,53.9852892,10.35558392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4a,23827,Travenhorst,Twiete,6,,53.98513211,10.3546974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4b,23827,Travenhorst,Twiete,8,,53.98483751,10.35476619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4c,23827,Travenhorst,Twiete,9,,53.98510222,10.35507671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4d,23827,Travenhorst,Lammerhorst,10,,53.98506511,10.35701083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4e,23827,Travenhorst,Lammerhorst,12,,53.9849913,10.357018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4f,23827,Travenhorst,Lammerhorst,2,,53.98554635,10.357156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4g,23827,Travenhorst,Lammerhorst,3,,53.98523179,10.35762101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4h,23827,Travenhorst,Lammerhorst,4,,53.98547099,10.35714847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4i,23827,Travenhorst,Lammerhorst,6,,53.98532107,10.35713313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cA4j,23827,Travenhorst,Lammerhorst,8,,53.98524926,10.35712645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKA,23827,Travenhorst,Kamp,1,,54.02630004,10.41570969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKB,23827,Travenhorst,Kamp,12,,54.02502765,10.41581803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKC,23827,Travenhorst,Kamp,14,,54.02462065,10.41520703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKD,23827,Travenhorst,Kamp,16,,54.02438446,10.41483588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKE,23827,Travenhorst,Kamp,18,,54.02409375,10.41449419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKF,23827,Travenhorst,Kamp,2,,54.02553388,10.42124005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKG,23827,Travenhorst,Kamp,4,,54.02563606,10.41983142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKH,23827,Travenhorst,Kamp,6,,54.02559174,10.41967796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKI,23827,Travenhorst,Kamp,8,,54.02548708,10.41931171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKJ,23827,Travenhorst,Petersruh,1,,54.02084107,10.44150809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKK,23827,Travenhorst,Petersruh,2,,54.02078496,10.43728624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKL,23827,Travenhorst,Petersruh,3,,54.0208506,10.44117024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKM,23827,Travenhorst,Steenkrütz,1,,54.01515233,10.47925663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKN,23827,Travenhorst,Steenkrütz,1,a,54.01542599,10.48022156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKO,23827,Travenhorst,Steenkrütz,3,,54.01437924,10.47857149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKP,23827,Travenhorst,Steenkrütz,4,,54.01435453,10.47676029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKQ,23827,Travenhorst,Steenkrütz,6,,54.01513802,10.47500809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKR,23827,Travenhorst,Tewskoppel,1,,54.01495871,10.47204286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKS,23827,Travenhorst,Tewskoppel,3,,54.01492309,10.47177013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKT,23827,Travenhorst,Dorfstraße,1,,54.01878524,10.46025178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKU,23827,Travenhorst,Dorfstraße,10,,54.01851375,10.4621915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKV,23827,Travenhorst,Dorfstraße,11,,54.01968026,10.4576317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKW,23827,Travenhorst,Dorfstraße,11,a,54.01982722,10.45723144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKX,23827,Travenhorst,Dorfstraße,12,,54.01851034,10.46193132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKY,23827,Travenhorst,Dorfstraße,13,,54.01936329,10.45572907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIKZ,23827,Travenhorst,Dorfstraße,14,,54.01850781,10.46166843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL0,23827,Travenhorst,Dorfstraße,14,a,54.01846935,10.46145531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL1,23827,Travenhorst,Dorfstraße,16,,54.0185849,10.4612166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL2,23827,Travenhorst,Dorfstraße,17,,54.01914205,10.45391188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL3,23827,Travenhorst,Dorfstraße,18,,54.01859427,10.46110848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL4,23827,Travenhorst,Dorfstraße,19,,54.01909655,10.453421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL5,23827,Travenhorst,Dorfstraße,2,,54.01845485,10.46364308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL6,23827,Travenhorst,Dorfstraße,20,,54.01862488,10.46075032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL7,23827,Travenhorst,Dorfstraße,21,,54.01917989,10.45291431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL8,23827,Travenhorst,Dorfstraße,22,,54.01866735,10.46025266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cIL9,23827,Travenhorst,Dorfstraße,22,a,54.01856104,10.45988612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILA,23827,Travenhorst,Dorfstraße,7,,54.01944162,10.45838241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILB,23827,Travenhorst,Dorfstraße,8,,54.01853062,10.46257057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILC,23827,Travenhorst,Dorfstraße,9,,54.01964565,10.45776008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILD,23827,Travenhorst,Travenort,1,,54.0110677,10.46255305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILE,23827,Travenhorst,Travenort,10,,54.01122647,10.46371793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILF,23827,Travenhorst,Travenort,12,,54.01122647,10.46371793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILG,23827,Travenhorst,Travenort,14,,54.01122647,10.46371793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILH,23827,Travenhorst,Travenort,16,,54.01108134,10.46329512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILI,23827,Travenhorst,Travenort,18,,54.0110435,10.46318348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILJ,23827,Travenhorst,Travenort,2,,54.01137004,10.46413833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILK,23827,Travenhorst,Travenort,20,,54.01100233,10.46306208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILL,23827,Travenhorst,Travenort,22,,54.01096044,10.46293823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILM,23827,Travenhorst,Travenort,26,,54.01049008,10.46357687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILN,23827,Travenhorst,Travenort,28,,54.01006965,10.46366891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILO,23827,Travenhorst,Travenort,3,,54.01110191,10.46265165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILP,23827,Travenhorst,Travenort,30,,54.0096537,10.46331429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILQ,23827,Travenhorst,Travenort,4,,54.01137004,10.46413833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILR,23827,Travenhorst,Travenort,6,,54.01137004,10.46413833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILS,23827,Travenhorst,Travenort,8,,54.01137004,10.46413833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILT,23827,Travenhorst,Bornbrook,1,,54.01818212,10.46713882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILU,23827,Travenhorst,Bornbrook,2,,54.01788032,10.46735144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILV,23827,Travenhorst,Birkenhof,1,,54.02092279,10.44432585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILW,23827,Travenhorst,Birkenhof,2,,54.0210043,10.44353992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILX,23827,Travenhorst,Viehkate,9,a,54.00250395,10.44803218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILa,23827,Travenhorst,Dorfstraße,25,,54.0191738,10.4518428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILb,23827,Travenhorst,Dorfstraße,25,a,54.01924409,10.45184696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILc,23827,Travenhorst,Dorfstraße,26,,54.01892113,10.45903218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILd,23827,Travenhorst,Dorfstraße,27,,54.01918863,10.45141774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILe,23827,Travenhorst,Dorfstraße,28,,54.01894759,10.45894909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILf,23827,Travenhorst,Dorfstraße,29,,54.01925241,10.4510293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILg,23827,Travenhorst,Dorfstraße,29,a,54.01932695,10.45103935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILh,23827,Travenhorst,Dorfstraße,30,,54.01904208,10.45852933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILi,23827,Travenhorst,Dorfstraße,36,,54.01893754,10.45521427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILj,23827,Travenhorst,Dorfstraße,37,,54.01949956,10.4489131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILk,23827,Travenhorst,Dorfstraße,38,,54.01875364,10.45401279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILl,23827,Travenhorst,Dorfstraße,38,a,54.01840975,10.45361896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILm,23827,Travenhorst,Dorfstraße,4,,54.01847926,10.46328727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILn,23827,Travenhorst,Dorfstraße,40,,54.01871129,10.45285851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILo,23827,Travenhorst,Dorfstraße,42,,54.01870956,10.45266652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILp,23827,Travenhorst,Dorfstraße,44,,54.01871431,10.45248822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILq,23827,Travenhorst,Dorfstraße,46,,54.0188759,10.45209097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILr,23827,Travenhorst,Dorfstraße,48,,54.01892224,10.45157135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILs,23827,Travenhorst,Dorfstraße,5,,54.01926074,10.45903304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILt,23827,Travenhorst,Dorfstraße,52,,54.01905343,10.45086821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILu,23827,Travenhorst,Dorfstraße,52,a,54.01908833,10.44985274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILv,23827,Travenhorst,Dorfstraße,54,,54.0191748,10.44932799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILw,23827,Travenhorst,Dorfstraße,54,a,54.01922693,10.44889583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILx,23827,Travenhorst,Dorfstraße,56,,54.01967736,10.44733381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILy,23827,Travenhorst,Dorfstraße,58,,54.01976885,10.44691782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cILz,23827,Travenhorst,Dorfstraße,6,,54.01848263,10.46292284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQA,23827,Travenhorst,Blangen Diek,11,,54.00014182,10.4142947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQB,23827,Travenhorst,Blangen Diek,15,,54.00015108,10.4136493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQC,23827,Travenhorst,Blangen Diek,2,,53.99977622,10.41529238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQD,23827,Travenhorst,Blangen Diek,2,a,53.99975083,10.41546692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQE,23827,Travenhorst,Blangen Diek,3,,53.9999815,10.41528588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQF,23827,Travenhorst,Blangen Diek,3,a,53.99997182,10.41536358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQG,23827,Travenhorst,Blangen Diek,4,,53.99992735,10.41428958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQH,23827,Travenhorst,Blangen Diek,4,a,53.99981157,10.41486972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQI,23827,Travenhorst,Blangen Diek,5,,54.00014344,10.41509931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQJ,23827,Travenhorst,Blangen Diek,6,,53.99992468,10.41404957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQK,23827,Travenhorst,Blangen Diek,7,,54.00013441,10.41482442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQL,23827,Travenhorst,Blangen Diek,9,,54.00015038,10.41455817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQM,23827,Travenhorst,Kirchweg,1,,53.99906854,10.41594743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQN,23827,Travenhorst,Kirchweg,10,,53.99773516,10.41593456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQO,23827,Travenhorst,Kirchweg,11,,53.99816785,10.41555672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQP,23827,Travenhorst,Kirchweg,12,,53.99754505,10.41593528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQQ,23827,Travenhorst,Kirchweg,13,,53.9978828,10.41559718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQR,23827,Travenhorst,Kirchweg,14,,53.99724482,10.41597098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQS,23827,Travenhorst,Kirchweg,15,,53.9976209,10.41558829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQT,23827,Travenhorst,Kirchweg,16,,53.99702063,10.41599858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQU,23827,Travenhorst,Kirchweg,17,,53.99733711,10.41565221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQV,23827,Travenhorst,Kirchweg,18,,53.99677727,10.41603817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQW,23827,Travenhorst,Kirchweg,19,,53.99703894,10.41564043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQX,23827,Travenhorst,Kirchweg,2,,53.99877975,10.41609144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQY,23827,Travenhorst,Kirchweg,21,,53.99682414,10.41561378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQZ,23827,Travenhorst,Kirchweg,23,,53.99660751,10.41556776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQn,23827,Travenhorst,Alten Redder,1,,54.00589046,10.40808681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQo,23827,Travenhorst,Alten Redder,2,,54.00554488,10.41267546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQp,23827,Travenhorst,Alten Redder,3,,54.0060708,10.40527665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQq,23827,Travenhorst,Am Sportplatz,1,,53.99660978,10.41681335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQr,23827,Travenhorst,Am Sportplatz,11,,53.99722529,10.41965641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQs,23827,Travenhorst,Am Sportplatz,3,,53.99668445,10.41725292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQt,23827,Travenhorst,Am Sportplatz,4,,53.99733918,10.41933957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQu,23827,Travenhorst,Am Sportplatz,5,,53.99677523,10.41781295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQv,23827,Travenhorst,Am Sportplatz,7,,53.99691792,10.41838238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQw,23827,Travenhorst,Am Sportplatz,9,,53.99698052,10.4188354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQx,23827,Travenhorst,Am Sportplatz,9,a,53.99705746,10.41895904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQy,23827,Travenhorst,Blangen Diek,1,,53.99990221,10.41615663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJQz,23827,Travenhorst,Blangen Diek,1,a,53.99997684,10.41574775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR0,23827,Travenhorst,Kirchweg,3,,53.99891417,10.4158117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR1,23827,Travenhorst,Kirchweg,4,,53.99853351,10.41605388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR2,23827,Travenhorst,Kirchweg,5,,53.99875074,10.41572427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR3,23827,Travenhorst,Kirchweg,6,,53.99830205,10.41600801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR4,23827,Travenhorst,Kirchweg,7,,53.99858018,10.41563639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR5,23827,Travenhorst,Kirchweg,8,,53.99802777,10.41603429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR6,23827,Travenhorst,Kirchweg,9,,53.99836773,10.41560089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR7,23827,Travenhorst,Eckrade,1,,54.01418657,10.40125866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR8,23827,Travenhorst,Eckrade,2,,54.01404246,10.40212515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJR9,23827,Travenhorst,Eckrade,4,,54.01365667,10.40355166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRA,23827,Travenhorst,Feldscheide,4,,53.9911087,10.41037879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRB,23827,Travenhorst,Feldscheide,5,,53.99115745,10.41029784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRC,23827,Travenhorst,Feldscheide,6,,53.99169606,10.41021808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRD,23827,Travenhorst,Hüls,1,,53.99830313,10.43886447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRE,23827,Travenhorst,Im Glin,1,,53.99942159,10.41703176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRF,23827,Travenhorst,Im Glin,10,,53.99886607,10.41983519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRG,23827,Travenhorst,Im Glin,11,,53.9994561,10.41824228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRH,23827,Travenhorst,Im Glin,12,,53.9987588,10.42001616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRI,23827,Travenhorst,Im Glin,13,,53.9994459,10.41842187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRJ,23827,Travenhorst,Im Glin,15,,53.99932502,10.41845803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRK,23827,Travenhorst,Im Glin,16,,53.99809877,10.41972097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRL,23827,Travenhorst,Im Glin,17,,53.99922278,10.41890083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRM,23827,Travenhorst,Im Glin,18,,53.99779882,10.42001288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRN,23827,Travenhorst,Im Glin,19,,53.99915643,10.41890855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRO,23827,Travenhorst,Im Glin,2,,53.99958176,10.41895174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRP,23827,Travenhorst,Im Glin,2,a,53.99977173,10.418754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRQ,23827,Travenhorst,Im Glin,2,b,53.99982413,10.4191454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRR,23827,Travenhorst,Im Glin,2,c,53.99985845,10.41725908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRS,23827,Travenhorst,Im Glin,20,,53.99791252,10.42062526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRT,23827,Travenhorst,Im Glin,22,,53.99807722,10.42041783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRU,23827,Travenhorst,Im Glin,23,,53.99899777,10.41912881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRV,23827,Travenhorst,Im Glin,24,,53.99825202,10.42022125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRW,23827,Travenhorst,Im Glin,25,,53.99884874,10.41928562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRX,23827,Travenhorst,Im Glin,27,,53.99868256,10.41944928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRY,23827,Travenhorst,Im Glin,29,,53.99853897,10.41964674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRZ,23827,Travenhorst,Im Glin,29,a,53.99836812,10.41942595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRa,23827,Travenhorst,Eckrade,5,,54.01335365,10.40320179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRb,23827,Travenhorst,Eichenweg,1,,54.00215244,10.42292781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRc,23827,Travenhorst,Eichenweg,10,,54.00265436,10.4190848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRd,23827,Travenhorst,Eichenweg,11,,54.00267373,10.42163241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRe,23827,Travenhorst,Eichenweg,13,,54.0029188,10.42153073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRf,23827,Travenhorst,Eichenweg,14,,54.0029393,10.41781001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRg,23827,Travenhorst,Eichenweg,15,,54.00312334,10.42134429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRh,23827,Travenhorst,Eichenweg,16,,54.00348732,10.41686556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRi,23827,Travenhorst,Eichenweg,17,,54.00325882,10.421167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRj,23827,Travenhorst,Eichenweg,18,,54.00336165,10.41631757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRk,23827,Travenhorst,Eichenweg,19,,54.0034203,10.42091793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRl,23827,Travenhorst,Eichenweg,2,,54.00198928,10.42239766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRm,23827,Travenhorst,Eichenweg,20,,54.00352542,10.41639894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRn,23827,Travenhorst,Eichenweg,22,,54.00366675,10.41615114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRo,23827,Travenhorst,Eichenweg,3,,54.00223256,10.42253811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRp,23827,Travenhorst,Eichenweg,4,,54.00264494,10.4212882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRq,23827,Travenhorst,Eichenweg,5,,54.00233589,10.42230878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRr,23827,Travenhorst,Eichenweg,6,,54.00286682,10.42093139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRs,23827,Travenhorst,Eichenweg,7,,54.00248502,10.4220944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRt,23827,Travenhorst,Eichenweg,8,,54.00298807,10.42036883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRu,23827,Travenhorst,Eichenweg,8,a,54.00255557,10.41955565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRv,23827,Travenhorst,Eichenweg,9,,54.00272972,10.42203037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRw,23827,Travenhorst,Fährkate,1,,53.97630839,10.39034386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRx,23827,Travenhorst,Feldscheide,1,,53.99052167,10.41041063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRy,23827,Travenhorst,Feldscheide,2,,53.99048722,10.41086688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJRz,23827,Travenhorst,Feldscheide,3,,53.99058004,10.41230363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS0,23827,Travenhorst,Im Glin,3,,53.99946972,10.41734306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS1,23827,Travenhorst,Im Glin,31,,53.99820817,10.41942008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS2,23827,Travenhorst,Im Glin,33,,53.99799957,10.41947785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS3,23827,Travenhorst,Im Glin,35,,53.99783247,10.41968696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS4,23827,Travenhorst,Im Glin,37,,53.99775678,10.41972992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS5,23827,Travenhorst,Im Glin,39,,53.99744873,10.41976571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS6,23827,Travenhorst,Im Glin,4,,53.99942071,10.4194552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS7,23827,Travenhorst,Im Glin,41,,53.99739459,10.42011778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS8,23827,Travenhorst,Im Glin,43,,53.99756852,10.42033877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJS9,23827,Travenhorst,Im Glin,43,a,53.99749007,10.42065393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSA,23827,Travenhorst,Lindenstraße,3,,53.99605607,10.41503873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSB,23827,Travenhorst,Lindenstraße,4,,53.99565352,10.41378798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSC,23827,Travenhorst,Lindenstraße,5,,53.99601073,10.4145809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSD,23827,Travenhorst,Lindenstraße,6,,53.99561827,10.4133733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSE,23827,Travenhorst,Lindenstraße,6,a,53.99550559,10.41297402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSF,23827,Travenhorst,Lindenstraße,7,,53.99597797,10.41404641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSG,23827,Travenhorst,Lindenstraße,8,,53.995538,10.41273572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSH,23827,Travenhorst,Lindenstraße,9,,53.99592537,10.41309616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSI,23827,Travenhorst,Lindenstraße,9,a,53.99596008,10.41335202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSJ,23827,Travenhorst,Mühlenberg,1,,54.0013328,10.41844597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSK,23827,Travenhorst,Mühlenberg,1,a,54.00164699,10.41833718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSL,23827,Travenhorst,Mühlenberg,10,,54.00232568,10.41723462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSM,23827,Travenhorst,Mühlenberg,11,,54.00263829,10.41817878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSN,23827,Travenhorst,Mühlenberg,12,,54.00249202,10.41710638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSO,23827,Travenhorst,Mühlenberg,13,,54.00248943,10.41747615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSP,23827,Travenhorst,Mühlenberg,14,,54.00260505,10.41647035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSQ,23827,Travenhorst,Mühlenberg,14,a,54.0028071,10.41631477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSR,23827,Travenhorst,Mühlenberg,15,,54.0028018,10.41725902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSS,23827,Travenhorst,Mühlenberg,16,,54.00295217,10.41595015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJST,23827,Travenhorst,Mühlenberg,17,,54.00300578,10.41654969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSU,23827,Travenhorst,Mühlenberg,18,,54.00303082,10.41569723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSV,23827,Travenhorst,Mühlenberg,19,,54.00330335,10.41559419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSW,23827,Travenhorst,Mühlenberg,19,a,54.00372498,10.41551617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSX,23827,Travenhorst,Mühlenberg,2,,54.00153939,10.41787366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSY,23827,Travenhorst,Mühlenberg,20,,54.00308029,10.41531164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSZ,23827,Travenhorst,Mühlenberg,21,,54.00332622,10.4154586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSa,23827,Travenhorst,Im Glin,45,,53.9976458,10.4209098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSb,23827,Travenhorst,Im Glin,45,a,53.99786549,10.4213933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSc,23827,Travenhorst,Im Glin,47,,53.99816121,10.42109789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSd,23827,Travenhorst,Im Glin,49,,53.99833811,10.42058952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSe,23827,Travenhorst,Im Glin,5,,53.99950198,10.41751035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSf,23827,Travenhorst,Im Glin,51,,53.99853865,10.42037012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSg,23827,Travenhorst,Im Glin,53,,53.99858999,10.42028497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSh,23827,Travenhorst,Im Glin,6,,53.99906756,10.41962171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSi,23827,Travenhorst,Im Glin,7,,53.99947286,10.41781769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSj,23827,Travenhorst,Im Glin,8,,53.99899371,10.4197308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSk,23827,Travenhorst,Im Glin,9,,53.99946598,10.41793485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSl,23827,Travenhorst,Lindenstraße,10,,53.99552561,10.41240459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSm,23827,Travenhorst,Lindenstraße,10,a,53.99542649,10.41188958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSn,23827,Travenhorst,Lindenstraße,11,,53.9957861,10.41190291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSo,23827,Travenhorst,Lindenstraße,12,,53.99522082,10.41051007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSp,23827,Travenhorst,Lindenstraße,12,a,53.99536065,10.41133976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSq,23827,Travenhorst,Lindenstraße,12,c,53.9953248,10.41091602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSr,23827,Travenhorst,Lindenstraße,12,d,53.99531283,10.41081789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSs,23827,Travenhorst,Lindenstraße,13,,53.99564404,10.41081544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSt,23827,Travenhorst,Lindenstraße,13,a,53.9955873,10.41049917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSu,23827,Travenhorst,Lindenstraße,14,,53.99459616,10.41019002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSv,23827,Travenhorst,Lindenstraße,15,,53.99545847,10.41023092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSw,23827,Travenhorst,Lindenstraße,16,,53.99520422,10.41001988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSx,23827,Travenhorst,Lindenstraße,17,,53.99540643,10.40978421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSy,23827,Travenhorst,Lindenstraße,18,,53.99512329,10.40969172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJSz,23827,Travenhorst,Lindenstraße,19,,53.99540826,10.40948382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT0,23827,Travenhorst,Mühlenberg,22,,54.00316282,10.41506182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT1,23827,Travenhorst,Mühlenberg,23,,54.003377,10.41517937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT2,23827,Travenhorst,Mühlenberg,24,,54.00331312,10.41465748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT3,23827,Travenhorst,Mühlenberg,24,a,54.00313442,10.41473415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT4,23827,Travenhorst,Mühlenberg,25,,54.00339871,10.4150063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT5,23827,Travenhorst,Mühlenberg,26,,54.0033526,10.41456394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT6,23827,Travenhorst,Mühlenberg,27,,54.00371068,10.41463672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT7,23827,Travenhorst,Mühlenberg,29,,54.00399935,10.41452647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT8,23827,Travenhorst,Mühlenberg,3,,54.00183867,10.41804984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJT9,23827,Travenhorst,Mühlenberg,30,,54.00339176,10.41417653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTA,23827,Travenhorst,Mühlenberg,52,,54.00612629,10.41292708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTB,23827,Travenhorst,Mühlenberg,53,,54.00750433,10.41258786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTC,23827,Travenhorst,Mühlenberg,55,,54.00823239,10.41314078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTD,23827,Travenhorst,Mühlenberg,55,a,54.00801375,10.41352851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTE,23827,Travenhorst,Mühlenberg,55,b,54.00773218,10.41360698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTF,23827,Travenhorst,Mühlenberg,6,,54.00196284,10.41748927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTG,23827,Travenhorst,Mühlenberg,61,,54.00788703,10.41270376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTH,23827,Travenhorst,Mühlenberg,63,,54.00805949,10.41255909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTI,23827,Travenhorst,Mühlenberg,65,,54.0083249,10.41252465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTJ,23827,Travenhorst,Mühlenberg,7,,54.00229223,10.41770698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTK,23827,Travenhorst,Mühlenberg,8,,54.0021265,10.41735016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTL,23827,Travenhorst,Mühlenberg,9,,54.0025178,10.41790998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTM,23827,Travenhorst,Passopp,1,,54.02065281,10.42029023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTO,23827,Travenhorst,Passopp,4,,54.02073515,10.42143962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTP,23827,Travenhorst,Rote Kate,1,,53.9929709,10.44831265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTQ,23827,Travenhorst,Segeberger Straße,1,,53.99800305,10.41692328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTR,23827,Travenhorst,Segeberger Straße,10,,53.99997554,10.41656831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTS,23827,Travenhorst,Segeberger Straße,11,,54.00098137,10.41801271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTT,23827,Travenhorst,Segeberger Straße,11,a,54.00092323,10.4181068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTU,23827,Travenhorst,Segeberger Straße,13,,54.00104691,10.41810406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTV,23827,Travenhorst,Segeberger Straße,13,a,54.00113568,10.41844338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTW,23827,Travenhorst,Segeberger Straße,15,,54.00118982,10.41874114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTX,23827,Travenhorst,Segeberger Straße,16,,54.00086342,10.41766544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTY,23827,Travenhorst,Segeberger Straße,16,a,54.00098385,10.41746631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTZ,23827,Travenhorst,Segeberger Straße,17,,54.00121391,10.41910822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTa,23827,Travenhorst,Mühlenberg,31,,54.00425652,10.4147494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTb,23827,Travenhorst,Mühlenberg,32,,54.00362124,10.41413004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTc,23827,Travenhorst,Mühlenberg,32,a,54.00337629,10.41371017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTd,23827,Travenhorst,Mühlenberg,33,,54.00445089,10.41469013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTe,23827,Travenhorst,Mühlenberg,34,,54.00344643,10.41331525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTg,23827,Travenhorst,Mühlenberg,37,,54.00500215,10.41427908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTh,23827,Travenhorst,Mühlenberg,38,,54.00433099,10.41378126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTi,23827,Travenhorst,Mühlenberg,38,a,54.0042455,10.41321935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTj,23827,Travenhorst,Mühlenberg,39,,54.005612,10.41384389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTk,23827,Travenhorst,Mühlenberg,39,a,54.00537076,10.41395931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTl,23827,Travenhorst,Mühlenberg,39,b,54.00538935,10.41405238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTm,23827,Travenhorst,Mühlenberg,4,,54.00172804,10.41763901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTn,23827,Travenhorst,Mühlenberg,40,,54.00457515,10.41372462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTo,23827,Travenhorst,Mühlenberg,41,,54.00579441,10.41350195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTp,23827,Travenhorst,Mühlenberg,42,,54.00478271,10.41343573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTq,23827,Travenhorst,Mühlenberg,43,,54.00609829,10.41384382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTr,23827,Travenhorst,Mühlenberg,44,,54.00492554,10.41343334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTs,23827,Travenhorst,Mühlenberg,45,,54.00625999,10.41350662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTt,23827,Travenhorst,Mühlenberg,46,,54.00514634,10.41346768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTu,23827,Travenhorst,Mühlenberg,47,,54.00651153,10.4134051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTv,23827,Travenhorst,Mühlenberg,48,,54.00534481,10.41309909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTw,23827,Travenhorst,Mühlenberg,5,,54.00202863,10.41787627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTx,23827,Travenhorst,Mühlenberg,50,,54.00578897,10.41274822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTy,23827,Travenhorst,Mühlenberg,51,,54.00718618,10.41275174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJTz,23827,Travenhorst,Mühlenberg,51,a,54.00744856,10.41363253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU0,23827,Travenhorst,Segeberger Straße,17,a,54.00104186,10.41911468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU1,23827,Travenhorst,Segeberger Straße,18,,54.00093781,10.41774124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU2,23827,Travenhorst,Segeberger Straße,19,,54.00122598,10.41929015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU3,23827,Travenhorst,Segeberger Straße,2,,53.9992543,10.41625001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU4,23827,Travenhorst,Segeberger Straße,20,,54.00135385,10.41757361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU5,23827,Travenhorst,Segeberger Straße,21,,54.00118222,10.41963992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU6,23827,Travenhorst,Segeberger Straße,22,,54.00124775,10.4180497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU7,23827,Travenhorst,Segeberger Straße,23,,54.00128301,10.42000955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU8,23827,Travenhorst,Segeberger Straße,23,a,54.00109545,10.42006491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJU9,23827,Travenhorst,Segeberger Straße,25,,54.00130034,10.42018366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUA,23827,Travenhorst,Taterborn,3,,54.0173257,10.41602802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUB,23827,Travenhorst,Gut Wensin,1,,53.97875371,10.40881021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUC,23827,Travenhorst,Gut Wensin,2,,53.97910806,10.4086789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUD,23827,Travenhorst,Gut Wensin,3,,53.97919654,10.40859089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUE,23827,Travenhorst,Gut Wensin,4,,53.97928412,10.40850426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUF,23827,Travenhorst,Gut Wensin,5,,53.97984915,10.40759056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUG,23827,Travenhorst,Gut Wensin,6,,53.9800247,10.40753581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUH,23827,Travenhorst,Gut Wensin,7,,53.98019463,10.40747859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUI,23827,Travenhorst,Gut Wensin,8,,53.98041191,10.40741293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUJ,23827,Travenhorst,Stifter Berg,1,,54.00199622,10.4197162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUK,23827,Travenhorst,Stifter Berg,1,a,54.00181188,10.4197066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUL,23827,Travenhorst,Stifter Berg,10,,54.00220518,10.41946111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUM,23827,Travenhorst,Stifter Berg,2,,54.00195537,10.41904275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUN,23827,Travenhorst,Stifter Berg,3,,54.00260302,10.420157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUO,23827,Travenhorst,Stifter Berg,4,,54.00202097,10.41871168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUP,23827,Travenhorst,Stifter Berg,6,,54.0022635,10.41828579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUQ,23827,Travenhorst,Stifter Berg,8,,54.00216857,10.41885701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUR,23827,Travenhorst,Sophienberg,1,,54.00345878,10.43016443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUS,23827,Travenhorst,Sophienberg,2,,54.00384816,10.42917312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUT,23827,Travenhorst,Sophienberg,3,,54.0034692,10.43030076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUU,23827,Travenhorst,Sophienberg,4,,54.00400854,10.42953221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUV,23827,Travenhorst,Sophienberg,6,,54.00455735,10.43093493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUW,23827,Travenhorst,Sophienberg,6,a,54.00428605,10.43050514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUX,23827,Travenhorst,Sophienberg,8,,54.00398662,10.43170334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUY,23827,Travenhorst,Drosselweg,1,,54.00676914,10.41349585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUZ,23827,Travenhorst,Drosselweg,2,,54.00681217,10.41382513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUa,23827,Travenhorst,Segeberger Straße,26,,54.0013613,10.4192581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUb,23827,Travenhorst,Segeberger Straße,27,,54.00133322,10.42065839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUc,23827,Travenhorst,Segeberger Straße,27,a,54.0013499,10.42077589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUd,23827,Travenhorst,Segeberger Straße,28,,54.00137006,10.41976273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUe,23827,Travenhorst,Segeberger Straße,29,,54.00118928,10.42152747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUg,23827,Travenhorst,Segeberger Straße,3,,53.99843417,10.41713601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUh,23827,Travenhorst,Segeberger Straße,30,,54.00139946,10.42007648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUi,23827,Travenhorst,Segeberger Straße,31,,54.00145873,10.42173694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUj,23827,Travenhorst,Segeberger Straße,32,,54.00157871,10.42033403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUk,23827,Travenhorst,Segeberger Straße,33,,54.0016002,10.42216769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUl,23827,Travenhorst,Segeberger Straße,34,,54.0016527,10.4207335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUm,23827,Travenhorst,Segeberger Straße,35,,54.00163261,10.42231817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUn,23827,Travenhorst,Segeberger Straße,35,a,54.00165202,10.42301704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUo,23827,Travenhorst,Segeberger Straße,37,,54.00267485,10.42709216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUp,23827,Travenhorst,Segeberger Straße,38,,54.00159875,10.4214587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUq,23827,Travenhorst,Segeberger Straße,4,,53.99938786,10.41629233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUr,23827,Travenhorst,Segeberger Straße,40,,54.00178108,10.42198411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUs,23827,Travenhorst,Segeberger Straße,40,a,54.00175875,10.42188148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUt,23827,Travenhorst,Segeberger Straße,5,,53.99883681,10.41696899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUu,23827,Travenhorst,Segeberger Straße,6,,53.99963485,10.41637036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUv,23827,Travenhorst,Segeberger Straße,7,,53.9990362,10.41669733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUw,23827,Travenhorst,Segeberger Straße,8,,53.99990362,10.41650559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUx,23827,Travenhorst,Segeberger Straße,9,,53.9994154,10.41683124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUy,23827,Travenhorst,Taterborn,1,,54.01590335,10.41351437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJUz,23827,Travenhorst,Taterborn,2,,54.01662199,10.41203211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV0,23827,Travenhorst,Drosselweg,3,,54.00699988,10.41382571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV1,23827,Travenhorst,Drosselweg,4,,54.00717495,10.41371191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV2,23827,Travenhorst,Drosselweg,5,,54.00710466,10.41308213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV3,23827,Travenhorst,Drosselweg,6,,54.00685888,10.4133497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV4,23827,Travenhorst,Thiergarten,1,,53.97891407,10.40406874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV5,23827,Travenhorst,Thiergarten,2,,53.97888915,10.40380607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV6,23827,Travenhorst,Thiergarten,3,,53.97880973,10.40334609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV7,23827,Travenhorst,Thiergarten,4,,53.9786745,10.40284178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV8,23827,Travenhorst,Am See,1,,53.98054422,10.4078448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJV9,23827,Travenhorst,Am See,10,,53.98224372,10.41036967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVa,23827,Travenhorst,Am See,11,,53.98245037,10.41105542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVb,23827,Travenhorst,Am See,12,,53.98234482,10.41143966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVc,23827,Travenhorst,Am See,12,a,53.98242019,10.41155509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVd,23827,Travenhorst,Am See,13,,53.98243575,10.41186209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVe,23827,Travenhorst,Am See,14,,53.98243575,10.41186209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVf,23827,Travenhorst,Am See,15,,53.98243575,10.41186209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVg,23827,Travenhorst,Am See,16,,53.98202501,10.41274193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVh,23827,Travenhorst,Am See,17,,53.98203911,10.41286215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVi,23827,Travenhorst,Am See,18,,53.98206928,10.41312173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVj,23827,Travenhorst,Am See,19,,53.98208191,10.41324695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVk,23827,Travenhorst,Am See,2,,53.98120349,10.40929544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVl,23827,Travenhorst,Am See,20,,53.98296296,10.41267088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVm,23827,Travenhorst,Am See,21,,53.98299786,10.41279497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVn,23827,Travenhorst,Am See,22,,53.98207796,10.41358301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVo,23827,Travenhorst,Am See,3,,53.98136152,10.40931789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVp,23827,Travenhorst,Am See,4,,53.98129217,10.40955444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVq,23827,Travenhorst,Am See,5,,53.9813748,10.40944645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVr,23827,Travenhorst,Am See,6,,53.98158537,10.40986395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVs,23827,Travenhorst,Am See,7,,53.98163596,10.4097721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVt,23827,Travenhorst,Am See,8,,53.98173255,10.40979583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVu,23827,Travenhorst,Am See,9,,53.98173749,10.40998525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVv,23827,Travenhorst,Altdorf,1,,53.99036959,10.38087091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cJVw,23827,Travenhorst,Altdorf,2,,53.99030021,10.3808335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003RSwP,23827,Travenhorst,Lammerhorst,5,,53.98491786,10.35756689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004BV97,23827,Travenhorst,Ortsteil Steenkrütz,999,,54.01424879,10.47942268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004InJi,23827,Travenhorst,Lindenstraße,7,a,53.99594919,10.41372683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004P3MA,23827,Travenhorst,Stifter Berg,1,c,54.00211236,10.41978744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Sv07,23827,Travenhorst,Mühlenberg,55,c,54.00841417,10.41319821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fkAM,23827,Travenhorst,Travenort,5,,54.010035,10.46080217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hn2N,23827,Travenhorst,Dorfstraße,15,,54.01925304,10.45500942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005viZt,23827,Travenhorst,Feldscheide,7,,53.99176046,10.41017442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00064LdA,23827,Travenhorst,Elisenberg,1,,54.00370879,10.41334918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RVZj,23827,Travenhorst,Dorfstraße,11,b,54.01981309,10.4575131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UlDb,23827,Travenhorst,Petersruh,5,,54.02085452,10.44101687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvmQ,23827,Travenhorst,Seepark Warderbrück,1,,53.98267567,10.367657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvne,23827,Travenhorst,Seepark Warderbrück,2,,53.98261804,10.36795554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvnh,23827,Travenhorst,Seepark Warderbrück,3,,53.98280086,10.36808889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvnm,23827,Travenhorst,Seepark Warderbrück,4,,53.98287754,10.36777833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvpg,23827,Travenhorst,Seepark Warderbrück,5,,53.98294727,10.36743032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvpk,23827,Travenhorst,Seepark Warderbrück,6,,53.98301183,10.36716837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvpo,23827,Travenhorst,Seepark Warderbrück,7,,53.98307572,10.36689682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvps,23827,Travenhorst,Seepark Warderbrück,8,,53.98318926,10.36663987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvrb,23827,Travenhorst,Seepark Warderbrück,9,,53.98329919,10.36672256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvrj,23827,Travenhorst,Seepark Warderbrück,10,,53.9832228,10.36705338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvsJ,23827,Travenhorst,Seepark Warderbrück,11,,53.983146,10.36736365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvsN,23827,Travenhorst,Seepark Warderbrück,12,,53.98308242,10.36762253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvsR,23827,Travenhorst,Seepark Warderbrück,13,,53.98301629,10.36789002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvsV,23827,Travenhorst,Seepark Warderbrück,14,,53.98293843,10.36820764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvsZ,23827,Travenhorst,Seepark Warderbrück,15,,53.9828601,10.36849098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvt4,23827,Travenhorst,Seepark Warderbrück,16,,53.98279329,10.36879883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvtT,23827,Travenhorst,Seepark Warderbrück,17,,53.98266829,10.36852153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvtX,23827,Travenhorst,Seepark Warderbrück,18,,53.98256167,10.36829576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvuC,23827,Travenhorst,Seepark Warderbrück,21,,53.98220617,10.36869819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvuG,23827,Travenhorst,Seepark Warderbrück,22,,53.9822414,10.36837678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvub,23827,Travenhorst,Seepark Warderbrück,19,,53.98252951,10.36879398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvuy,23827,Travenhorst,Seepark Warderbrück,20,,53.98238086,10.36876063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvv0,23827,Travenhorst,Seepark Warderbrück,23,,53.98202347,10.36833967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvv4,23827,Travenhorst,Seepark Warderbrück,24,,53.98197292,10.36869045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvv8,23827,Travenhorst,Seepark Warderbrück,25,,53.98174563,10.36860101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvvZ,23827,Travenhorst,Seepark Warderbrück,27,,53.98155032,10.36846434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvvc,23827,Travenhorst,Seepark Warderbrück,26,,53.98177309,10.36831804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvw3,23827,Travenhorst,Seepark Warderbrück,28,,53.98139757,10.36854027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvw7,23827,Travenhorst,Seepark Warderbrück,29,,53.98145041,10.36816267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YvwX,23827,Travenhorst,Seepark Warderbrück,32,,53.98227875,10.36806493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvwq,23827,Travenhorst,Seepark Warderbrück,30,,53.98189173,10.36805828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yvwu,23827,Travenhorst,Seepark Warderbrück,31,,53.98207799,10.36809102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rZ4x,23827,Travenhorst,Dorfstraße,23,,54.01939353,10.45165185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tuNm,23827,Travenhorst,Twiete,13,,53.98472833,10.35566723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ugMK,23827,Travenhorst,Passopp,2,,54.02049627,10.42080506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007J3mZ,23827,Travenhorst,Lammerhorst,1,b,53.98544501,10.35754873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Tlv0,23827,Travenhorst,Lindenstraße,1,,53.99618192,10.41577784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fKVC,23827,Travenhorst,Stifter Berg,2,a,54.00170169,10.41889102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kz41,23827,Travenhorst,Eichenweg,2,a,54.00229088,10.42160611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lVvN,23827,Travenhorst,Gölser Dorfstraße,2,b,53.99184115,10.36450807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nM6H,23827,Travenhorst,Gölser Dorfstraße,2,c,53.99165156,10.36395201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080COI,23827,Travenhorst,Dorfstraße,30,,53.98583443,10.3575212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080COK,23827,Travenhorst,Dorfstraße,30,a,53.98581838,10.35762426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082g6H,23827,Travenhorst,Dorfstraße,32,,53.98573824,10.35807345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082g6S,23827,Travenhorst,Dorfstraße,38,,53.98559348,10.35843013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008n6Hn,23827,Travenhorst,Mühlenberg,53,a,54.00757003,10.41299137

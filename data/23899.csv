@@ -1,0 +1,796 @@
+# Amtliche Adressen für die Postleitzahl 23899
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLA,23899,Besenthal,Dorfstraße,10,,53.52808195,10.73974294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLB,23899,Besenthal,Dorfstraße,11,,53.52870493,10.73943916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLC,23899,Besenthal,Dorfstraße,12,,53.52804071,10.73929077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLD,23899,Besenthal,Dorfstraße,15,,53.52789545,10.73794518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLE,23899,Besenthal,Dorfstraße,2,,53.52954205,10.74147655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLF,23899,Besenthal,Dorfstraße,3,,53.5303609,10.74160898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLG,23899,Besenthal,Dorfstraße,4,,53.52927926,10.74054152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLH,23899,Besenthal,Dorfstraße,4,a,53.52905082,10.74021636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLI,23899,Besenthal,Dorfstraße,5,,53.530112,10.74112664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLJ,23899,Besenthal,Dorfstraße,6,,53.52882698,10.73993913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLK,23899,Besenthal,Dorfstraße,7,,53.5297526,10.74058225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLL,23899,Besenthal,Dorfstraße,8,,53.52840261,10.73999873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLM,23899,Besenthal,Dorfstraße,9,,53.52957726,10.74029279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLN,23899,Besenthal,Dorfstraße,9,a,53.52927171,10.73993977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLO,23899,Besenthal,Dorfstraße,9,b,53.52922205,10.7398817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLP,23899,Besenthal,Langenlehstener Straße,1,,53.53234507,10.74186429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLQ,23899,Besenthal,Langenlehstener Straße,11,,53.52928853,10.74303919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLR,23899,Besenthal,Langenlehstener Straße,3,,53.53164693,10.74213644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLS,23899,Besenthal,Gudower Mühle,1,,53.55584018,10.73153293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLT,23899,Besenthal,Gudower Mühle,2,,53.55543064,10.73192067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLU,23899,Besenthal,Alter Mühlenweg,1,,53.54374256,10.73687735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLV,23899,Besenthal,Alter Mühlenweg,2,,53.54412525,10.73609913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLW,23899,Besenthal,Alter Frachtweg,1,,53.54448147,10.7381467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLX,23899,Besenthal,Büchener Landstraße,1,,53.54550979,10.74264491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLY,23899,Besenthal,Büchener Landstraße,2,,53.54329846,10.74091756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLZ,23899,Besenthal,Wasserkrüger Weg,1,,53.55110042,10.73323465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLw,23899,Besenthal,Am Brink,1,,53.53006784,10.74250062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLx,23899,Besenthal,Am Brink,2,,53.52985783,10.74307943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZLz,23899,Besenthal,Dorfstraße,1,,53.53083234,10.74195053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZM0,23899,Besenthal,Wasserkrüger Weg,5,,53.55045409,10.73371582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KZM1,23899,Besenthal,Wasserkrüger Weg,6,,53.54297609,10.73765322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A0,23899,Besenthal,Schulstraße,13,a,53.55806636,10.77178945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A1,23899,Besenthal,Schulstraße,14,,53.55727006,10.77236556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A2,23899,Besenthal,Schulstraße,15,,53.55830766,10.77185469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A3,23899,Besenthal,Schulstraße,16,,53.5577633,10.77220328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A4,23899,Besenthal,Schulstraße,17,,53.55855625,10.77178978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A5,23899,Besenthal,Schulstraße,18,,53.55810774,10.77226078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A6,23899,Besenthal,Schulstraße,18,a,53.55824281,10.77219024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A7,23899,Besenthal,Schulstraße,19,,53.55873822,10.77178656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A8,23899,Besenthal,Schulstraße,2,,53.55574884,10.77242332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4A9,23899,Besenthal,Schulstraße,20,,53.55839015,10.77218355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AA,23899,Besenthal,Schulstraße,6,,53.55624992,10.77231441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AB,23899,Besenthal,Schulstraße,8,,53.5564876,10.772264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AC,23899,Besenthal,Schulstraße,9,,53.55724878,10.77187559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AD,23899,Besenthal,Schulstraße,9,a,53.55746261,10.77185734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AE,23899,Besenthal,Tannenweg,2,,53.55665727,10.76532642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AF,23899,Besenthal,Tannenweg,3,a,53.55635092,10.76553987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AG,23899,Besenthal,Tannenweg,3,b,53.55635151,10.7654272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AH,23899,Besenthal,Tannenweg,3,c,53.55635767,10.7651594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AI,23899,Besenthal,Tannenweg,4,,53.55653843,10.76506551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AJ,23899,Besenthal,Tannenweg,6,,53.55660418,10.76503132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AK,23899,Besenthal,Zarrentiner Straße,19,,53.55991868,10.78281332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AL,23899,Besenthal,Zarrentiner Straße,2,,53.5585338,10.77968892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AM,23899,Besenthal,Zarrentiner Straße,21,,53.56011725,10.78302397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AN,23899,Besenthal,Zarrentiner Straße,3,,53.55908451,10.78051807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AO,23899,Besenthal,Zarrentiner Straße,5,,53.5594074,10.78123712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AP,23899,Besenthal,Zarrentiner Straße,7,,53.55955299,10.78170736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AQ,23899,Besenthal,Zarrentiner Straße,9,,53.55981041,10.7820996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AR,23899,Besenthal,Ziegeleiweg,10,,53.55815144,10.76758096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AS,23899,Besenthal,Ziegeleiweg,12,,53.55817098,10.76771723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AT,23899,Besenthal,Ziegeleiweg,13,,53.55854043,10.76855602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AU,23899,Besenthal,Ziegeleiweg,14,,53.55815846,10.76796283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AV,23899,Besenthal,Ziegeleiweg,16,,53.55814917,10.76829089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AW,23899,Besenthal,Ziegeleiweg,2,,53.55805334,10.76586715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AX,23899,Besenthal,Ziegeleiweg,4,,53.55809464,10.76664733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AY,23899,Besenthal,Ziegeleiweg,6,,53.5581368,10.76710279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4AZ,23899,Besenthal,Ziegeleiweg,7,,53.55873999,10.76731755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Aa,23899,Besenthal,Schulstraße,21,a,53.55884762,10.77178488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ab,23899,Besenthal,Schulstraße,22,,53.55852058,10.77217664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ac,23899,Besenthal,Schulstraße,23,,53.55908612,10.77180771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ad,23899,Besenthal,Schulstraße,24,,53.55864061,10.77219496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ae,23899,Besenthal,Schulstraße,25,,53.55935181,10.77179157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Af,23899,Besenthal,Schulstraße,26,,53.55890509,10.77217846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ag,23899,Besenthal,Schulstraße,27,,53.55956956,10.77175205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ah,23899,Besenthal,Schulstraße,28,,53.55911636,10.77232929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ai,23899,Besenthal,Schulstraße,3,,53.556394,10.77192119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Aj,23899,Besenthal,Schulstraße,30,,53.5593597,10.77214033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ak,23899,Besenthal,Schulstraße,31,,53.55986175,10.77133604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Al,23899,Besenthal,Schulstraße,31,a,53.55995981,10.77133124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Am,23899,Besenthal,Schulstraße,32,,53.55958387,10.77219873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4An,23899,Besenthal,Schulstraße,33,,53.55984639,10.77183248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ao,23899,Besenthal,Schulstraße,34,,53.55989982,10.77209356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ap,23899,Besenthal,Schulstraße,35,,53.56023142,10.77135984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Aq,23899,Besenthal,Schulstraße,36,,53.56019719,10.77209098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ar,23899,Besenthal,Schulstraße,38,,53.56050187,10.77210774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4As,23899,Besenthal,Schulstraße,40,,53.56066137,10.77215704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4At,23899,Besenthal,Schulstraße,41,,53.56069232,10.7717735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Au,23899,Besenthal,Schulstraße,42,,53.56086275,10.77242694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Av,23899,Besenthal,Schulstraße,42,a,53.5608665,10.77229171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Aw,23899,Besenthal,Schulstraße,43,,53.56084947,10.77176823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ax,23899,Besenthal,Schulstraße,44,,53.56102137,10.77236694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ay,23899,Besenthal,Schulstraße,45,,53.56107949,10.77175937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Az,23899,Besenthal,Schulstraße,5,,53.55661881,10.77197032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B0,23899,Besenthal,Ziegeleiweg,8,,53.55768349,10.76713504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B1,23899,Besenthal,Ziegeleiweg,8,a,53.55768894,10.76762578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B2,23899,Besenthal,Ziegeleiweg,8,b,53.55785782,10.76792552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B3,23899,Besenthal,Zollstraße,1,,53.55489871,10.76103994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B4,23899,Besenthal,Zollstraße,2,,53.55459223,10.76130803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B5,23899,Besenthal,Zollstraße,3,,53.55427994,10.7615761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B6,23899,Besenthal,Zollstraße,4,,53.55406119,10.76196803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B7,23899,Besenthal,Zollstraße,5,,53.55436719,10.76181787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B8,23899,Besenthal,Zollstraße,5,b,53.55456846,10.76180298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4B9,23899,Besenthal,Zollstraße,6,,53.55467483,10.76151304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BA,23899,Besenthal,Grotn Felln,9,,53.57943379,10.80205745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BB,23899,Besenthal,Im Schlingen,1,,53.5767393,10.78374259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BC,23899,Besenthal,Im Schlingen,11,,53.57827747,10.78034656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BD,23899,Besenthal,Im Schlingen,2,,53.57708429,10.78398004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BE,23899,Besenthal,Im Schlingen,3,,53.5775369,10.78220005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BF,23899,Besenthal,Im Schlingen,4,,53.57754805,10.78315917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BG,23899,Besenthal,Im Schlingen,5,,53.57759003,10.78210108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BH,23899,Besenthal,Im Schlingen,6,,53.57790245,10.7824035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BI,23899,Besenthal,Im Schlingen,7,,53.57811563,10.78109116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BJ,23899,Besenthal,Im Schlingen,7,a,53.57832273,10.78077568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BK,23899,Besenthal,Im Schlingen,8,,53.5784951,10.78127263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BL,23899,Besenthal,Im Schlingen,9,,53.57819154,10.78094866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BM,23899,Besenthal,Im Südweiler,1,,53.57821264,10.78694199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BN,23899,Besenthal,Im Südweiler,10,,53.5767357,10.7863233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BO,23899,Besenthal,Im Südweiler,12,,53.57745951,10.78679751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BP,23899,Besenthal,Im Südweiler,2,,53.57349262,10.7861804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BQ,23899,Besenthal,Im Südweiler,3,,53.57826332,10.78703351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BR,23899,Besenthal,Im Südweiler,4,,53.57420751,10.78592455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BS,23899,Besenthal,Im Südweiler,5,,53.57853153,10.78750251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BT,23899,Besenthal,Im Südweiler,6,,53.57508454,10.78602518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BU,23899,Besenthal,Im Südweiler,7,,53.57857903,10.7875858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BV,23899,Besenthal,Im Südweiler,8,,53.57574948,10.7861139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BW,23899,Besenthal,Im Südweiler,9,,53.57871399,10.78782444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BX,23899,Besenthal,Kastanienallee,1,,53.58349498,10.78854903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BY,23899,Besenthal,Kastanienallee,1,a,53.58334513,10.78853536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4BZ,23899,Besenthal,Kastanienallee,10,,53.58578774,10.78850331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ba,23899,Besenthal,Zollstraße,6,a,53.55473534,10.76146263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bb,23899,Besenthal,Am Burgwall,1,,53.58381479,10.78821242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bc,23899,Besenthal,Am Burgwall,10,,53.58399108,10.78650523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bd,23899,Besenthal,Am Burgwall,10,b,53.58443665,10.78625912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Be,23899,Besenthal,Am Burgwall,11,,53.58366351,10.78636848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bf,23899,Besenthal,Am Burgwall,12,,53.58463826,10.78618964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bg,23899,Besenthal,Am Burgwall,12,a,53.58483321,10.78618035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bh,23899,Besenthal,Am Burgwall,19,,53.58961953,10.78391567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bi,23899,Besenthal,Am Burgwall,19,a,53.59052147,10.78324955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bj,23899,Besenthal,Am Burgwall,2,,53.5841319,10.787983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bk,23899,Besenthal,Am Burgwall,20,,53.5872513,10.78679022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bl,23899,Besenthal,Am Burgwall,21,,53.59090724,10.78267613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bm,23899,Besenthal,Am Burgwall,22,,53.59100977,10.78369682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bn,23899,Besenthal,Am Burgwall,4,,53.58411218,10.78763558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bo,23899,Besenthal,Am Burgwall,5,,53.58375929,10.7876808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bp,23899,Besenthal,Am Burgwall,5,a,53.58348227,10.78820319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bq,23899,Besenthal,Am Burgwall,5,b,53.58346834,10.78808198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Br,23899,Besenthal,Am Burgwall,6,,53.58402941,10.78727706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bs,23899,Besenthal,Am Burgwall,7,,53.58371624,10.78728903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bt,23899,Besenthal,Am Burgwall,8,,53.58409327,10.78717078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bu,23899,Besenthal,Am Burgwall,9,,53.58344906,10.78673596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bv,23899,Besenthal,Grotn Felln,11,,53.57906451,10.80347467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bw,23899,Besenthal,Grotn Felln,3,,53.58391765,10.78906021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bx,23899,Besenthal,Grotn Felln,5,,53.58385698,10.78918669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4By,23899,Besenthal,Grotn Felln,6,,53.57921286,10.80071792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Bz,23899,Besenthal,Grotn Felln,7,,53.57968203,10.80098104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C0,23899,Besenthal,Kastanienallee,13,,53.58412249,10.78829035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C1,23899,Besenthal,Kastanienallee,15,,53.58419143,10.78826856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C2,23899,Besenthal,Kastanienallee,16,,53.58667619,10.78974466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C3,23899,Besenthal,Kastanienallee,16,a,53.5861307,10.7917809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C4,23899,Besenthal,Kastanienallee,17,,53.58448652,10.78795596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C5,23899,Besenthal,Kastanienallee,19,,53.5845123,10.78818124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C6,23899,Besenthal,Kastanienallee,2,,53.58403092,10.78881578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C7,23899,Besenthal,Kastanienallee,20,,53.58723841,10.79049534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C8,23899,Besenthal,Kastanienallee,22,,53.58892911,10.79489381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4C9,23899,Besenthal,Kastanienallee,24,,53.58950008,10.79540779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CA,23899,Besenthal,Rosengartenweg,2,,53.53980666,10.79216302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CD,23899,Besenthal,Am Sandbrink,1,,53.55853394,10.80423644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CE,23899,Besenthal,Am Sandbrink,10,,53.5593632,10.80519184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CF,23899,Besenthal,Am Sandbrink,11,,53.55942738,10.80461328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CG,23899,Besenthal,Am Sandbrink,12,,53.55943258,10.80521267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CH,23899,Besenthal,Am Sandbrink,13,,53.55979516,10.80482944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CI,23899,Besenthal,Am Sandbrink,14,,53.5597788,10.80521393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CJ,23899,Besenthal,Am Sandbrink,15,,53.55984196,10.80484372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CK,23899,Besenthal,Am Sandbrink,16,,53.55987167,10.80525333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CL,23899,Besenthal,Am Sandbrink,17,,53.56021871,10.804958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CM,23899,Besenthal,Am Sandbrink,18,,53.56023057,10.80535386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CN,23899,Besenthal,Am Sandbrink,19,,53.56028724,10.80497839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CO,23899,Besenthal,Am Sandbrink,2,,53.55849707,10.80503686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CP,23899,Besenthal,Am Sandbrink,20,,53.56028652,10.80537133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CQ,23899,Besenthal,Am Sandbrink,21,,53.56059386,10.80506954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CR,23899,Besenthal,Am Sandbrink,21,a,53.56100301,10.80520036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CS,23899,Besenthal,Am Sandbrink,22,,53.56090661,10.80554112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CT,23899,Besenthal,Am Sandbrink,23,,53.56142562,10.80532311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CU,23899,Besenthal,Am Sandbrink,23,a,53.56121262,10.80524857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CV,23899,Besenthal,Am Sandbrink,24,,53.56133285,10.80571189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CW,23899,Besenthal,Am Sandbrink,25,,53.56151217,10.80534957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CX,23899,Besenthal,Am Sandbrink,3,,53.55859082,10.80425542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CY,23899,Besenthal,Am Sandbrink,4,,53.5585599,10.80505691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4CZ,23899,Besenthal,Am Sandbrink,5,,53.55895226,10.80446873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ca,23899,Besenthal,Kastanienallee,25,,53.5863821,10.78870275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cb,23899,Besenthal,Kastanienallee,26,,53.5902762,10.79833697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cc,23899,Besenthal,Kastanienallee,27,,53.5870132,10.78963511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cd,23899,Besenthal,Kastanienallee,29,,53.58743011,10.79003908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ce,23899,Besenthal,Kastanienallee,31,,53.5876652,10.78933134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cf,23899,Besenthal,Kastanienallee,33,,53.58774025,10.79062248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cg,23899,Besenthal,Kastanienallee,35,,53.58900687,10.79344097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ch,23899,Besenthal,Kastanienallee,4,,53.58492561,10.78840862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ci,23899,Besenthal,Kastanienallee,6,,53.58534448,10.78831097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cj,23899,Besenthal,Schmiedeberg,1,,53.58513026,10.78663905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ck,23899,Besenthal,Schmiedeberg,2,,53.58546579,10.78605113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cl,23899,Besenthal,Schmiedeberg,3,,53.58554434,10.78700245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cm,23899,Besenthal,Schmiedeberg,4,,53.58551096,10.78645685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cn,23899,Besenthal,Teichweg,1,,53.58650357,10.78723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Co,23899,Besenthal,Teichweg,3,,53.58698311,10.78732037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cp,23899,Besenthal,Teichweg,6,,53.58711557,10.78742455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cq,23899,Besenthal,Berg-Wiesen-Weg,1,,53.54121868,10.79426484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cr,23899,Besenthal,Berg-Wiesen-Weg,2,,53.54045008,10.79258273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cs,23899,Besenthal,Berg-Wiesen-Weg,4,,53.54089039,10.79286671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ct,23899,Besenthal,Berg-Wiesen-Weg,8,,53.54089768,10.79489119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cu,23899,Besenthal,Hofweg,1,,53.5413795,10.79316195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cv,23899,Besenthal,Hofweg,2,,53.54240123,10.79231245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cw,23899,Besenthal,Hofweg,4,,53.54269189,10.79250115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Cx,23899,Besenthal,Rosengartenweg,1,,53.53598874,10.78790089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D0,23899,Besenthal,Am Sandbrink,6,,53.55894116,10.80507446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D1,23899,Besenthal,Am Sandbrink,7,,53.55900284,10.80448469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D2,23899,Besenthal,Am Sandbrink,8,,53.55899252,10.8050914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D3,23899,Besenthal,Am Sandbrink,9,,53.55937686,10.80459683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D4,23899,Besenthal,An der Kiesbahn,1,,53.56192813,10.80622269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D5,23899,Besenthal,An der Kiesbahn,3,,53.56177899,10.80698111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D6,23899,Besenthal,An der Kiesbahn,5,,53.56164685,10.80788221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D7,23899,Besenthal,Dorfstraße,1,,53.5621141,10.8055435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D8,23899,Besenthal,Dorfstraße,10,,53.56542485,10.80790618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4D9,23899,Besenthal,Dorfstraße,11,,53.5654297,10.80708461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4DA,23899,Besenthal,A 24 -Landesgrenze,5,,53.52123967,10.80496166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4DC,23899,Besenthal,A 24 -Landesgrenze,7,,53.52050131,10.80407179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4DD,23899,Besenthal,A 24 -Landesgrenze,8,,53.51997821,10.81025536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Da,23899,Besenthal,Dorfstraße,12,,53.56651272,10.80856261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Db,23899,Besenthal,Dorfstraße,13,,53.56677206,10.80799499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dc,23899,Besenthal,Dorfstraße,14,,53.56804618,10.80838824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dd,23899,Besenthal,Dorfstraße,15,,53.56826667,10.80657299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4De,23899,Besenthal,Dorfstraße,2,,53.56203267,10.80620981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Df,23899,Besenthal,Dorfstraße,3,,53.56239575,10.80565635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dh,23899,Besenthal,Dorfstraße,7,,53.56313509,10.8059601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Di,23899,Besenthal,Dorfstraße,8,,53.56299373,10.80654434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dj,23899,Besenthal,Dorfstraße,9,,53.56430485,10.80644267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dk,23899,Besenthal,Im Heller,3,,53.56128605,10.80595763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dl,23899,Besenthal,Im Heller,4,,53.560889,10.80590111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dm,23899,Besenthal,Im Heller,5,,53.56127326,10.80607316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dn,23899,Besenthal,Im Heller,6,,53.56095835,10.80637906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Do,23899,Besenthal,Im Heller,7,,53.56109948,10.80642453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dp,23899,Besenthal,Ringstraße,1,,53.56246145,10.80444503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dq,23899,Besenthal,Ringstraße,1,a,53.56262441,10.80451092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dr,23899,Besenthal,Ringstraße,2,,53.56208626,10.8049139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Ds,23899,Besenthal,Ringstraße,3,,53.5628837,10.80448283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dt,23899,Besenthal,Ringstraße,4,,53.56249777,10.8049887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Du,23899,Besenthal,Wendfeld,1,,53.56778055,10.80930801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dv,23899,Besenthal,Wendfeld,2,,53.56734353,10.80926351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dw,23899,Besenthal,Wendfeld,4,,53.56756458,10.80971455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dx,23899,Besenthal,L 205 -Bergbreite,1,,53.55615526,10.81355364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dy,23899,Besenthal,A 24 -Landesgrenze,10,,53.51851089,10.80800442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4Dz,23899,Besenthal,A 24 -Landesgrenze,11,,53.51650175,10.82290241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4sZ,23899,Besenthal,Alte Trift,1,,53.5571829,10.77075412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t0,23899,Besenthal,Alte Trift,3,,53.55751555,10.77129253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t1,23899,Besenthal,Am Alten See,12,,53.55797586,10.76440003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t2,23899,Besenthal,Am Alten See,13,,53.55686842,10.76371662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t3,23899,Besenthal,Am Alten See,14,,53.55795098,10.76384399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t4,23899,Besenthal,Am Alten See,15,,53.5567731,10.76328794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t5,23899,Besenthal,Am Alten See,16,,53.55783513,10.76369015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t6,23899,Besenthal,Am Alten See,18,,53.55765657,10.76384529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t7,23899,Besenthal,Am Alten See,19,,53.5569195,10.76275128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t8,23899,Besenthal,Am Alten See,20,,53.55751261,10.76399473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4t9,23899,Besenthal,Am Alten See,21,,53.5572783,10.76252664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tA,23899,Besenthal,Am Alten See,54,,53.55739932,10.76022825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tB,23899,Besenthal,Am Alten See,56,,53.55737552,10.75997417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tC,23899,Besenthal,Am Alten See,58,,53.55738456,10.75964268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tD,23899,Besenthal,Am Alten See,6,,53.55729249,10.76464998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tE,23899,Besenthal,Am Alten See,60,,53.55634524,10.76031315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tF,23899,Besenthal,Am Alten See,7,,53.55693898,10.76465468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tG,23899,Besenthal,Am Alten See,8,,53.55755654,10.76470682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tH,23899,Besenthal,Am Alten See,9,,53.55682876,10.76443634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tI,23899,Besenthal,Am Blöcken,1,,53.55847013,10.77858569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tJ,23899,Besenthal,Am Blöcken,3,,53.55853261,10.77794487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tK,23899,Besenthal,Am Blöcken,6,,53.55955967,10.77687028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tL,23899,Besenthal,Am Blöcken,7,,53.55947119,10.7764145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tM,23899,Besenthal,Am Brüchfeld,1,,53.55720551,10.76716143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tN,23899,Besenthal,Am Brüchfeld,1,a,53.55702735,10.76626168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tO,23899,Besenthal,Am Brüchfeld,1,b,53.55713044,10.76683996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tP,23899,Besenthal,Am Brüchfeld,2,,53.55687651,10.76691678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tQ,23899,Besenthal,Am Brüchfeld,3,,53.55742521,10.76803513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tR,23899,Besenthal,Am Knick,3,,53.55864752,10.76573009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tS,23899,Besenthal,Am Köppenberg,1,,53.55610069,10.77757012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tT,23899,Besenthal,Am Köppenberg,10,,53.5563899,10.77890966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tU,23899,Besenthal,Am Köppenberg,11,,53.55671091,10.77908778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tV,23899,Besenthal,Am Köppenberg,12,,53.55647819,10.77908849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tW,23899,Besenthal,Am Köppenberg,13,,53.55681431,10.77933385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tX,23899,Besenthal,Am Köppenberg,14,,53.55658452,10.77938153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tY,23899,Besenthal,Am Köppenberg,15,,53.55691515,10.77959388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tZ,23899,Besenthal,Am Köppenberg,16,,53.55664037,10.7796726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ta,23899,Besenthal,Am Alten See,22,,53.5571949,10.76414348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tb,23899,Besenthal,Am Alten See,23,,53.55731305,10.76237419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tc,23899,Besenthal,Am Alten See,24,,53.55719336,10.76389586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4td,23899,Besenthal,Am Alten See,26,,53.55718601,10.76361989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4te,23899,Besenthal,Am Alten See,27,,53.5572424,10.76164531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tf,23899,Besenthal,Am Alten See,28,,53.55720119,10.76313066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tg,23899,Besenthal,Am Alten See,29,,53.55722638,10.76153396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4th,23899,Besenthal,Am Alten See,3,,53.55706558,10.7651564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ti,23899,Besenthal,Am Alten See,31,,53.5568545,10.76190006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tj,23899,Besenthal,Am Alten See,33,,53.55657905,10.76187524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tk,23899,Besenthal,Am Alten See,35,,53.55718423,10.76119581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tl,23899,Besenthal,Am Alten See,35,a,53.55691358,10.7613533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tm,23899,Besenthal,Am Alten See,35,b,53.55664017,10.7614475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tn,23899,Besenthal,Am Alten See,37,,53.55718753,10.76088493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4to,23899,Besenthal,Am Alten See,38,,53.55788447,10.76288699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tp,23899,Besenthal,Am Alten See,38,a,53.55761657,10.76296598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tq,23899,Besenthal,Am Alten See,39,,53.55718482,10.76058923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tr,23899,Besenthal,Am Alten See,4,,53.5573518,10.76497432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ts,23899,Besenthal,Am Alten See,40,,53.55767208,10.76242859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tt,23899,Besenthal,Am Alten See,41,,53.55717636,10.76015961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tu,23899,Besenthal,Am Alten See,43,,53.55677898,10.76056497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tv,23899,Besenthal,Am Alten See,44,,53.55755927,10.76158932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tw,23899,Besenthal,Am Alten See,48,,53.55743196,10.76112523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tx,23899,Besenthal,Am Alten See,5,,53.55703016,10.76494965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ty,23899,Besenthal,Am Alten See,50,,53.55741658,10.76083289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4tz,23899,Besenthal,Am Alten See,52,,53.55740761,10.76053396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u0,23899,Besenthal,Am Köppenberg,17,,53.55703774,10.77989507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u1,23899,Besenthal,Am Köppenberg,18,,53.55676187,10.77986989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u2,23899,Besenthal,Am Köppenberg,20,,53.55686792,10.78009939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u3,23899,Besenthal,Am Köppenberg,20,a,53.55680897,10.78018058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u4,23899,Besenthal,Am Köppenberg,22,,53.55696722,10.78035269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u5,23899,Besenthal,Am Köppenberg,24,,53.55699588,10.78062347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u6,23899,Besenthal,Am Köppenberg,3,,53.55624854,10.77787427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u7,23899,Besenthal,Am Köppenberg,4,,53.55607913,10.77813925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u8,23899,Besenthal,Am Köppenberg,5,,53.55637682,10.77823287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4u9,23899,Besenthal,Am Köppenberg,6,,53.55618219,10.77840217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uA,23899,Besenthal,Am Segelhafen,31,,53.55457532,10.76859169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uB,23899,Besenthal,Am Segelhafen,32,,53.55446705,10.7685686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uC,23899,Besenthal,Am Segelhafen,33,,53.5543576,10.76853552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uD,23899,Besenthal,Am Segelhafen,34,,53.55424719,10.76851488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uE,23899,Besenthal,Am Segelhafen,35,,53.55412696,10.76847359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uF,23899,Besenthal,Am Segelhafen,36,,53.55406016,10.76827851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uG,23899,Besenthal,Am Segelhafen,37,,53.55402508,10.76812469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uH,23899,Besenthal,Am Segelhafen,38,,53.5539844,10.76796831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uI,23899,Besenthal,Am Segelhafen,39,,53.5538947,10.76783725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uJ,23899,Besenthal,Am Segelhafen,4,,53.55522758,10.76496503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uK,23899,Besenthal,Am Segelhafen,40,,53.55440386,10.76880925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uL,23899,Besenthal,Am Segelhafen,41,,53.55450195,10.76889351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uM,23899,Besenthal,Am Segelhafen,42,,53.55463237,10.76892542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uN,23899,Besenthal,Am Segelhafen,43,,53.55474908,10.7689625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uO,23899,Besenthal,Am Segelhafen,44,,53.55485305,10.76901482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uP,23899,Besenthal,Am Segelhafen,45,,53.55494886,10.76909067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uQ,23899,Besenthal,Am Segelhafen,46,,53.55507768,10.76932922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uR,23899,Besenthal,Am Segelhafen,47,,53.55511965,10.76913653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uS,23899,Besenthal,Am Segelhafen,48,,53.55513894,10.7688557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uT,23899,Besenthal,Am Segelhafen,49,,53.55521974,10.76870092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uU,23899,Besenthal,Am Segelhafen,49,a,53.55533964,10.76901918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uV,23899,Besenthal,Am Segelhafen,5,,53.55522612,10.76515551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uW,23899,Besenthal,Am Segelhafen,50,,53.55523917,10.76839823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uX,23899,Besenthal,Am Segelhafen,53,,53.55542313,10.76595597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uY,23899,Besenthal,Am Segelhafen,54,,53.55542166,10.76572736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uZ,23899,Besenthal,Am Segelhafen,55,,53.5554216,10.76544297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ua,23899,Besenthal,Am Köppenberg,7,,53.55651541,10.77857842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ub,23899,Besenthal,Am Köppenberg,8,,53.55626982,10.7786165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uc,23899,Besenthal,Am Köppenberg,9,,53.55660698,10.77881555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ud,23899,Besenthal,Am Segelhafen,1,,53.55519199,10.76443335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ue,23899,Besenthal,Am Segelhafen,10,,53.55422951,10.76634676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uf,23899,Besenthal,Am Segelhafen,11,,53.55434912,10.76631814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ug,23899,Besenthal,Am Segelhafen,12,,53.55447439,10.76628101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uh,23899,Besenthal,Am Segelhafen,13,,53.5545763,10.76623835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ui,23899,Besenthal,Am Segelhafen,14,,53.55471549,10.76619435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uj,23899,Besenthal,Am Segelhafen,15,,53.55481662,10.76616933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uk,23899,Besenthal,Am Segelhafen,16,,53.55494509,10.76614376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ul,23899,Besenthal,Am Segelhafen,17,,53.55501836,10.76632033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4um,23899,Besenthal,Am Segelhafen,18,,53.55504039,10.76655952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4un,23899,Besenthal,Am Segelhafen,19,,53.55504741,10.76678122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uo,23899,Besenthal,Am Segelhafen,2,,53.55521382,10.76461124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4up,23899,Besenthal,Am Segelhafen,20,,53.55507011,10.76698709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uq,23899,Besenthal,Am Segelhafen,21,,53.55507308,10.76717882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ur,23899,Besenthal,Am Segelhafen,22,,53.5550741,10.76738331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4us,23899,Besenthal,Am Segelhafen,23,,53.55509584,10.76758691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ut,23899,Besenthal,Am Segelhafen,24,,53.55493328,10.76772546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uu,23899,Besenthal,Am Segelhafen,25,,53.55505703,10.7681973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uv,23899,Besenthal,Am Segelhafen,26,,53.55503983,10.76836605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uw,23899,Besenthal,Am Segelhafen,27,,53.55501071,10.76855236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ux,23899,Besenthal,Am Segelhafen,28,,53.55491998,10.76874251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uy,23899,Besenthal,Am Segelhafen,29,,53.55478987,10.7687063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4uz,23899,Besenthal,Am Segelhafen,30,,53.55468513,10.76864554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v0,23899,Besenthal,Am Segelhafen,56,,53.55544629,10.7651607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v1,23899,Besenthal,Am Segelhafen,57,,53.55543019,10.76487609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v2,23899,Besenthal,Am Segelhafen,6,,53.5552467,10.76535387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v3,23899,Besenthal,Am Segelhafen,7,,53.55524651,10.76554002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v4,23899,Besenthal,Am Segelhafen,8,,53.55524703,10.76575351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v5,23899,Besenthal,Am Segelhafen,9,,53.5541217,10.76638862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v6,23899,Besenthal,Am Sportplatz,1,,53.5511185,10.77979873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v7,23899,Besenthal,Am Sportplatz,3,,53.55111925,10.78023799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v8,23899,Besenthal,Am Sportplatz,5,,53.55125695,10.78044895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4v9,23899,Besenthal,Am Sportplatz,5,a,53.5512703,10.78056355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vA,23899,Besenthal,Breite Koppel,20,,53.55853185,10.76313773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vB,23899,Besenthal,Breite Koppel,21,,53.55828229,10.76164624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vC,23899,Besenthal,Breite Koppel,22,,53.55850314,10.76284053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vD,23899,Besenthal,Breite Koppel,23,,53.558204,10.76135781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vE,23899,Besenthal,Breite Koppel,24,,53.55877179,10.76280113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vF,23899,Besenthal,Breite Koppel,25,,53.55819058,10.76097107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vG,23899,Besenthal,Breite Koppel,26,,53.55882499,10.76250589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vH,23899,Besenthal,Breite Koppel,27,,53.55824933,10.76063108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vI,23899,Besenthal,Breite Koppel,28,,53.55856468,10.76253399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vJ,23899,Besenthal,Breite Koppel,3,,53.55831713,10.76438711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vK,23899,Besenthal,Breite Koppel,30,,53.55858173,10.76224399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vL,23899,Besenthal,Breite Koppel,32,,53.55875952,10.7622041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vM,23899,Besenthal,Breite Koppel,34,,53.55881185,10.76191383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vN,23899,Besenthal,Breite Koppel,36,,53.55853331,10.76191948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vO,23899,Besenthal,Breite Koppel,38,,53.55854387,10.76160779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vP,23899,Besenthal,Breite Koppel,4,,53.55881846,10.76462668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vQ,23899,Besenthal,Breite Koppel,40,,53.558635,10.76130035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vR,23899,Besenthal,Breite Koppel,42,,53.55882459,10.76155006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vS,23899,Besenthal,Breite Koppel,44,,53.55883613,10.76123803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vT,23899,Besenthal,Breite Koppel,46,,53.55917664,10.76127523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vU,23899,Besenthal,Breite Koppel,48,,53.5592535,10.76151893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vV,23899,Besenthal,Breite Koppel,5,,53.55829766,10.76408846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vW,23899,Besenthal,Breite Koppel,50,,53.55920052,10.76175985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vX,23899,Besenthal,Breite Koppel,6,,53.55859374,10.76443036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vY,23899,Besenthal,Breite Koppel,7,,53.55829528,10.76378532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vZ,23899,Besenthal,Breite Koppel,8,,53.55852473,10.76410894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4va,23899,Besenthal,Am Sportplatz,7,,53.55130443,10.78079429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vb,23899,Besenthal,Am Sportplatz,9,,53.55128514,10.78119514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vc,23899,Besenthal,Bannauer Moor,1,,53.57382776,10.76602498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vd,23899,Besenthal,Bergstraße,1,,53.55513389,10.77784318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ve,23899,Besenthal,Bergstraße,11,,53.55578669,10.77941286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vf,23899,Besenthal,Bergstraße,13,,53.55588343,10.779667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vg,23899,Besenthal,Bergstraße,2,,53.55492816,10.77801578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vh,23899,Besenthal,Bergstraße,3,,53.55533264,10.77823519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vi,23899,Besenthal,Bergstraße,4,,53.55500351,10.7783275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vj,23899,Besenthal,Bergstraße,5,,53.55549003,10.77864139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vk,23899,Besenthal,Bergstraße,6,,53.55505772,10.77853279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vl,23899,Besenthal,Bergstraße,7,,53.55557315,10.77890582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vm,23899,Besenthal,Bergstraße,7,a,53.55563284,10.77879574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vn,23899,Besenthal,Bergstraße,9,,53.55568094,10.77916368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vo,23899,Besenthal,Breite Koppel,1,,53.55832029,10.76473331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vp,23899,Besenthal,Breite Koppel,10,,53.55871465,10.76400208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vq,23899,Besenthal,Breite Koppel,11,,53.55827459,10.76318919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vr,23899,Besenthal,Breite Koppel,12,,53.55889878,10.76412475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vs,23899,Besenthal,Breite Koppel,13,,53.55825563,10.76292584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vt,23899,Besenthal,Breite Koppel,14,,53.55888324,10.76339948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vu,23899,Besenthal,Breite Koppel,15,,53.55829354,10.76258388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vv,23899,Besenthal,Breite Koppel,16,,53.55871365,10.76346139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vw,23899,Besenthal,Breite Koppel,17,,53.55829148,10.7622924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vx,23899,Besenthal,Breite Koppel,18,,53.55854138,10.76347375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vy,23899,Besenthal,Breite Koppel,19,,53.55831093,10.76194982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4vz,23899,Besenthal,Breite Koppel,2,,53.55854802,10.7647621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w0,23899,Besenthal,Breite Koppel,9,,53.55828454,10.76346534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w1,23899,Besenthal,Eichenallee,1,,53.55359589,10.77794304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w2,23899,Besenthal,Eichenallee,3,,53.55360131,10.77785308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w3,23899,Besenthal,Eickhoop,1,,53.56216104,10.77900622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w4,23899,Besenthal,Eickhoop,2,,53.56285798,10.77752234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w5,23899,Besenthal,Eickhoop,3,,53.56216327,10.77887633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w6,23899,Besenthal,Hauptstraße,1,,53.55598327,10.76695848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w7,23899,Besenthal,Hauptstraße,1,a,53.55608689,10.76739513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w8,23899,Besenthal,Hauptstraße,10,,53.55574146,10.76878534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4w9,23899,Besenthal,Hauptstraße,11,,53.55603067,10.76852626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wA,23899,Besenthal,Hauptstraße,42,,53.55697079,10.77721047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wB,23899,Besenthal,Hauptstraße,43,,53.55560692,10.77405813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wC,23899,Besenthal,Hauptstraße,43,a,53.55569651,10.77422632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wD,23899,Besenthal,Hauptstraße,44,,53.5570301,10.77731576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wE,23899,Besenthal,Hauptstraße,45,,53.5558976,10.77458765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wF,23899,Besenthal,Hauptstraße,46,,53.55723346,10.77767214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wG,23899,Besenthal,Hauptstraße,47,,53.55596381,10.77470035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wH,23899,Besenthal,Hauptstraße,48,,53.55731098,10.7777953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wI,23899,Besenthal,Hauptstraße,5,,53.55605323,10.76789666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wJ,23899,Besenthal,Hauptstraße,50,,53.55773384,10.77823494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wK,23899,Besenthal,Hauptstraße,52,,53.5577801,10.77831526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wL,23899,Besenthal,Hauptstraße,53,,53.55646471,10.77555174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wM,23899,Besenthal,Hauptstraße,54,,53.55782575,10.77839357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wN,23899,Besenthal,Hauptstraße,55,,53.55676813,10.77612252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wO,23899,Besenthal,Hauptstraße,56,,53.55787104,10.77847164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wP,23899,Besenthal,Hauptstraße,57,,53.55681604,10.77621145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wQ,23899,Besenthal,Hauptstraße,58,,53.55791505,10.77854754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wR,23899,Besenthal,Hauptstraße,59,,53.55703664,10.77663972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wS,23899,Besenthal,Hauptstraße,59,a,53.55733068,10.77667576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wT,23899,Besenthal,Hauptstraße,6,,53.55569443,10.76803058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wU,23899,Besenthal,Hauptstraße,60,,53.55795925,10.77862397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wV,23899,Besenthal,Hauptstraße,61,,53.55741264,10.77727101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wW,23899,Besenthal,Hauptstraße,63,,53.5577731,10.77763853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wX,23899,Besenthal,Hauptstraße,65,,53.55794533,10.77789515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wY,23899,Besenthal,Hauptstraße,67,,53.55818634,10.77824381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wZ,23899,Besenthal,Hauptstraße,8,,53.55575195,10.76872103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wa,23899,Besenthal,Hauptstraße,12,,53.55573067,10.76885202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wb,23899,Besenthal,Hauptstraße,13,,53.55589498,10.76917595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wc,23899,Besenthal,Hauptstraße,13,a,53.555906,10.76942723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wd,23899,Besenthal,Hauptstraße,14,,53.5556319,10.76921472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4we,23899,Besenthal,Hauptstraße,15,,53.55581586,10.76969404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wf,23899,Besenthal,Hauptstraße,16,,53.55559428,10.76961397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wg,23899,Besenthal,Hauptstraße,19,,53.55605989,10.77033402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wh,23899,Besenthal,Hauptstraße,2,,53.55573007,10.76671641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wi,23899,Besenthal,Hauptstraße,20,,53.55516347,10.77039679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wj,23899,Besenthal,Hauptstraße,21,,53.55572393,10.77053189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wk,23899,Besenthal,Hauptstraße,22,,53.55510924,10.77170985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wl,23899,Besenthal,Hauptstraße,23,,53.55560887,10.77086948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wm,23899,Besenthal,Hauptstraße,24,,53.55515365,10.77270882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wn,23899,Besenthal,Hauptstraße,26,,53.55540397,10.77417064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wo,23899,Besenthal,Hauptstraße,27,,53.55551013,10.77153089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wp,23899,Besenthal,Hauptstraße,29,,53.55548529,10.77166849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wq,23899,Besenthal,Hauptstraße,3,,53.55606295,10.76762492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wr,23899,Besenthal,Hauptstraße,31,,53.55544803,10.77185769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ws,23899,Besenthal,Hauptstraße,32,,53.55595901,10.77547417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wt,23899,Besenthal,Hauptstraße,33,,53.55544031,10.7722603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wu,23899,Besenthal,Hauptstraße,34,,53.55626796,10.77575733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wv,23899,Besenthal,Hauptstraße,36,,53.55651168,10.77615425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ww,23899,Besenthal,Hauptstraße,38,,53.55660648,10.77642198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wx,23899,Besenthal,Hauptstraße,39,,53.55533901,10.77315101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wy,23899,Besenthal,Hauptstraße,4,,53.55571323,10.76726785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4wz,23899,Besenthal,Hauptstraße,41,,53.5553658,10.77335859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x0,23899,Besenthal,Hauptstraße,9,,53.55603568,10.76843349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x1,23899,Besenthal,Hohe Luft,1,,53.55857492,10.77873886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x2,23899,Besenthal,Hohe Luft,10,,53.55980737,10.77981551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x3,23899,Besenthal,Hohe Luft,11,,53.55944541,10.77915599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x4,23899,Besenthal,Hohe Luft,12,,53.55988079,10.77982581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x5,23899,Besenthal,Hohe Luft,13,,53.55961926,10.77925413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x6,23899,Besenthal,Hohe Luft,14,,53.55979775,10.77993175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x7,23899,Besenthal,Hohe Luft,14,a,53.5598847,10.78025592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x8,23899,Besenthal,Hohe Luft,14,b,53.55988462,10.78036789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4x9,23899,Besenthal,Hohe Luft,15,,53.55985354,10.77924094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xA,23899,Besenthal,Hohe Luft,8,b,53.55958073,10.77983421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xB,23899,Besenthal,Hohe Luft,8,c,53.55962589,10.78024191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xC,23899,Besenthal,Hohe Luft,8,d,53.5596382,10.78052032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xD,23899,Besenthal,Hohe Luft,8,e,53.55959171,10.78080346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xE,23899,Besenthal,Hohe Luft,8,f,53.55944642,10.7805755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xF,23899,Besenthal,Hohe Luft,9,,53.55940695,10.77878863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xG,23899,Besenthal,In der Sandgrube,2,,53.55400312,10.77870721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xH,23899,Besenthal,In der Sandgrube,2,a,53.55420735,10.77900579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xI,23899,Besenthal,In der Sandgrube,3,,53.55453188,10.77847125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xJ,23899,Besenthal,In der Sandgrube,5,,53.55468479,10.7787593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xK,23899,Besenthal,In der Sandgrube,7,,53.55445661,10.77901145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xL,23899,Besenthal,Kaiserberg,1,,53.55577526,10.76551399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xM,23899,Besenthal,Kaiserberg,1,a,53.55577601,10.76634711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xN,23899,Besenthal,Kaiserberg,10,,53.55622175,10.76370417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xO,23899,Besenthal,Kaiserberg,11,,53.55574013,10.76295336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xP,23899,Besenthal,Kaiserberg,11,a,53.55579136,10.76318295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xQ,23899,Besenthal,Kaiserberg,12,,53.55613273,10.76303702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xR,23899,Besenthal,Kaiserberg,13,,53.55566421,10.76268479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xS,23899,Besenthal,Kaiserberg,15,,53.55556138,10.7624259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xT,23899,Besenthal,Kaiserberg,17,,53.55542957,10.76218842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xU,23899,Besenthal,Kaiserberg,18,,53.55570059,10.76174943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xV,23899,Besenthal,Kaiserberg,18,a,53.55573602,10.76186747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xW,23899,Besenthal,Kaiserberg,19,,53.55514811,10.76153392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xX,23899,Besenthal,Kaiserberg,19,a,53.55485544,10.76178151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xY,23899,Besenthal,Kaiserberg,2,,53.55611868,10.76566002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xZ,23899,Besenthal,Kaiserberg,20,,53.55560192,10.76119433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xa,23899,Besenthal,Hohe Luft,16,,53.56020294,10.77982563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xb,23899,Besenthal,Hohe Luft,16,a,53.5600429,10.78205269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xc,23899,Besenthal,Hohe Luft,16,b,53.56004405,10.78221635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xd,23899,Besenthal,Hohe Luft,16,c,53.56012353,10.78255344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xe,23899,Besenthal,Hohe Luft,16,d,53.56022436,10.78255353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xf,23899,Besenthal,Hohe Luft,17,,53.56011957,10.77935081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xg,23899,Besenthal,Hohe Luft,18,,53.56038306,10.78003529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xh,23899,Besenthal,Hohe Luft,19,,53.56031232,10.77934286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xi,23899,Besenthal,Hohe Luft,2,,53.55877032,10.77918226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xj,23899,Besenthal,Hohe Luft,21,,53.56056056,10.77934513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xk,23899,Besenthal,Hohe Luft,22,,53.5613599,10.77959369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xl,23899,Besenthal,Hohe Luft,23,,53.56067544,10.7793148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xm,23899,Besenthal,Hohe Luft,24,,53.56171399,10.77966157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xn,23899,Besenthal,Hohe Luft,25,,53.5608353,10.77927472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xo,23899,Besenthal,Hohe Luft,27,,53.56100439,10.77925921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xp,23899,Besenthal,Hohe Luft,29,,53.5611907,10.77928835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xq,23899,Besenthal,Hohe Luft,31,,53.56143736,10.77917488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xr,23899,Besenthal,Hohe Luft,33,,53.56173274,10.77906036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xs,23899,Besenthal,Hohe Luft,4,,53.55917579,10.77939226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xt,23899,Besenthal,Hohe Luft,5,,53.5587967,10.77873152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xu,23899,Besenthal,Hohe Luft,6,,53.55917579,10.77939226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xv,23899,Besenthal,Hohe Luft,6,a,53.55940378,10.77959078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xw,23899,Besenthal,Hohe Luft,7,,53.55898242,10.77883502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xx,23899,Besenthal,Hohe Luft,7,a,53.55923715,10.77866745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xy,23899,Besenthal,Hohe Luft,8,,53.55942068,10.78010223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4xz,23899,Besenthal,Hohe Luft,8,a,53.55964189,10.77983455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y0,23899,Besenthal,Kaiserberg,21,,53.55506605,10.76124066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y1,23899,Besenthal,Kaiserberg,22,,53.55550658,10.76082804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y2,23899,Besenthal,Kaiserberg,23,,53.55457636,10.76065167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y3,23899,Besenthal,Kaiserberg,25,,53.55477387,10.76033791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y4,23899,Besenthal,Kaiserberg,4,,53.55611431,10.76512469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y5,23899,Besenthal,Kaiserberg,5,,53.55568555,10.76366651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y6,23899,Besenthal,Kaiserberg,6,,53.55613387,10.7645509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y7,23899,Besenthal,Kaiserberg,7,,53.55568275,10.76356976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y8,23899,Besenthal,Kaiserberg,7,a,53.55557107,10.76366563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4y9,23899,Besenthal,Kaiserberg,8,,53.55625231,10.76393464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yC,23899,Besenthal,Neuland,19,,53.55550121,10.78454111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yD,23899,Besenthal,Neuland,4,,53.55732309,10.77926345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yE,23899,Besenthal,Ostenkoppel,1,,53.5576685,10.77285848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yF,23899,Besenthal,Ostenkoppel,1,a,53.55776309,10.77261172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yG,23899,Besenthal,Ostenkoppel,10,,53.55811235,10.77358517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yH,23899,Besenthal,Ostenkoppel,11,,53.55888578,10.77317241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yI,23899,Besenthal,Ostenkoppel,12,,53.5581541,10.77385602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yJ,23899,Besenthal,Ostenkoppel,13,,53.5591471,10.77310671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yK,23899,Besenthal,Ostenkoppel,14,,53.55827358,10.77375403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yL,23899,Besenthal,Ostenkoppel,15,,53.55938176,10.77310996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yM,23899,Besenthal,Ostenkoppel,16,,53.55833113,10.7736055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yN,23899,Besenthal,Ostenkoppel,17,,53.5596022,10.77308796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yO,23899,Besenthal,Ostenkoppel,18,,53.5585627,10.77355097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yP,23899,Besenthal,Ostenkoppel,19,,53.55961526,10.77262894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yQ,23899,Besenthal,Ostenkoppel,2,,53.55748999,10.77239598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yR,23899,Besenthal,Ostenkoppel,20,,53.55880982,10.77350616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yS,23899,Besenthal,Ostenkoppel,21,,53.55988126,10.77275685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yT,23899,Besenthal,Ostenkoppel,22,,53.55880982,10.77350616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yU,23899,Besenthal,Ostenkoppel,23,,53.56015738,10.77296771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yV,23899,Besenthal,Ostenkoppel,24,,53.55910742,10.77351705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yW,23899,Besenthal,Ostenkoppel,25,,53.56031643,10.77279675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yX,23899,Besenthal,Ostenkoppel,26,,53.55929315,10.77368372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yY,23899,Besenthal,Ostenkoppel,27,,53.56044192,10.77267623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yZ,23899,Besenthal,Ostenkoppel,28,,53.55944741,10.77358874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ya,23899,Besenthal,Kaiserberg,9,,53.5555063,10.76335928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yb,23899,Besenthal,Kaiserberg,9,a,53.55548967,10.76326607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yc,23899,Besenthal,Kaiserberg,9,b,53.55544692,10.7631887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yd,23899,Besenthal,Kaiserberg,9,c,53.5554299,10.76309149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ye,23899,Besenthal,Lehmrader Straße,10,,53.55724456,10.76637387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yf,23899,Besenthal,Lehmrader Straße,11,,53.55803321,10.76521093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yg,23899,Besenthal,Lehmrader Straße,12,,53.55737831,10.76602663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yh,23899,Besenthal,Lehmrader Straße,14,,53.55746603,10.76656121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yi,23899,Besenthal,Lehmrader Straße,16,,53.55765638,10.76610235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yj,23899,Besenthal,Lehmrader Straße,18,,53.5578864,10.76586378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yk,23899,Besenthal,Lehmrader Straße,3,,53.55659004,10.76597401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yl,23899,Besenthal,Lehmrader Straße,5,,53.5565453,10.76575187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ym,23899,Besenthal,Lehmrader Straße,5,a,53.55700323,10.765534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yn,23899,Besenthal,Lehmrader Straße,7,,53.55750916,10.76535941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yo,23899,Besenthal,Lehmrader Straße,9,,53.55780671,10.76530064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yp,23899,Besenthal,Mühlenweg,1,,53.55595979,10.76243286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yq,23899,Besenthal,Mühlenweg,10,,53.55627065,10.76073161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yr,23899,Besenthal,Mühlenweg,2,,53.55615229,10.76244456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ys,23899,Besenthal,Mühlenweg,2,a,53.55630103,10.76278869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yt,23899,Besenthal,Mühlenweg,3,,53.55599281,10.76160179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yu,23899,Besenthal,Mühlenweg,5,,53.55598188,10.76128091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yv,23899,Besenthal,Mühlenweg,6,,53.55630013,10.76158283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yw,23899,Besenthal,Mühlenweg,7,,53.55591612,10.76082205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yx,23899,Besenthal,Mühlenweg,7,a,53.55601237,10.76052081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yy,23899,Besenthal,Mühlenweg,8,,53.5562391,10.76138223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4yz,23899,Besenthal,Mühlenweg,9,,53.55582924,10.76013472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z0,23899,Besenthal,Ostenkoppel,3,,53.55812531,10.7730865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z1,23899,Besenthal,Ostenkoppel,30,,53.55967061,10.77354134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z2,23899,Besenthal,Ostenkoppel,32,,53.55983752,10.77323234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z3,23899,Besenthal,Ostenkoppel,34,,53.56008096,10.77320086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z4,23899,Besenthal,Ostenkoppel,36,,53.56051678,10.77300697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z5,23899,Besenthal,Ostenkoppel,4,,53.55748147,10.77278973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z6,23899,Besenthal,Ostenkoppel,5,,53.55835155,10.77308801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z7,23899,Besenthal,Ostenkoppel,6,,53.55747414,10.77310364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z8,23899,Besenthal,Ostenkoppel,6,a,53.55744555,10.77360047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4z9,23899,Besenthal,Ostenkoppel,8,,53.55770929,10.7734489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zA,23899,Besenthal,Parkstraße,39,,53.55163609,10.77990417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zB,23899,Besenthal,Parkstraße,4,,53.55581319,10.77657452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zC,23899,Besenthal,Parkstraße,41,,53.55175796,10.78038285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zD,23899,Besenthal,Parkstraße,43,,53.5515364,10.78020362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zE,23899,Besenthal,Parkstraße,45,,53.5514484,10.78034745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zF,23899,Besenthal,Parkstraße,47,,53.55114208,10.77931444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zG,23899,Besenthal,Parkstraße,47,a,53.55097078,10.77931157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zH,23899,Besenthal,Parkstraße,49,,53.55073611,10.77918261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zI,23899,Besenthal,Parkstraße,51,,53.55061086,10.77924877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zJ,23899,Besenthal,Parkstraße,51,a,53.55068085,10.77981749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zK,23899,Besenthal,Parkstraße,6,,53.55566412,10.77681777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zL,23899,Besenthal,Parkstraße,7,,53.55564589,10.77744084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zM,23899,Besenthal,Parkstraße,8,,53.55547066,10.77713737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zN,23899,Besenthal,Promenade,1,,53.55537273,10.76215874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zO,23899,Besenthal,Promenade,2,,53.555259,10.76184743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zP,23899,Besenthal,Promenade,3,,53.5550491,10.76243954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zQ,23899,Besenthal,Promenade,4,,53.55501182,10.76210262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zS,23899,Besenthal,Promenade,6,,53.5549601,10.76215206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zT,23899,Besenthal,Alter Seestieg,2,,53.55654882,10.7641559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zU,23899,Besenthal,Seestraße,1,,53.55499611,10.76424408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zV,23899,Besenthal,Schulstraße,1,,53.55615182,10.77165031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zW,23899,Besenthal,Schulstraße,10,,53.55682543,10.77226601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zX,23899,Besenthal,Schulstraße,11,,53.55779834,10.77181978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zY,23899,Besenthal,Schulstraße,12,,53.55707031,10.77238562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zZ,23899,Besenthal,Schulstraße,13,,53.55785962,10.77100249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4za,23899,Besenthal,Ostenkoppel,9,,53.55867221,10.77309035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zb,23899,Besenthal,Parkstraße,10,,53.55519379,10.77729952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zc,23899,Besenthal,Parkstraße,11,,53.55445779,10.77814573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zd,23899,Besenthal,Parkstraße,11,a,53.55425262,10.77835226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4ze,23899,Besenthal,Parkstraße,12,,53.55503098,10.77745662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zf,23899,Besenthal,Parkstraße,14,,53.55495485,10.77749766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zg,23899,Besenthal,Parkstraße,15,,53.55371699,10.7787577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zh,23899,Besenthal,Parkstraße,15,a,53.55401876,10.77940673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zi,23899,Besenthal,Parkstraße,16,,53.55473369,10.77756444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zj,23899,Besenthal,Parkstraße,17,,53.55363477,10.7788121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zk,23899,Besenthal,Parkstraße,18,,53.55446617,10.77775994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zl,23899,Besenthal,Parkstraße,19,,53.55350505,10.77891271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zm,23899,Besenthal,Parkstraße,19,a,53.55346559,10.77893845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zn,23899,Besenthal,Parkstraße,2,,53.55601986,10.77627558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zo,23899,Besenthal,Parkstraße,21,,53.55379352,10.7794353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zp,23899,Besenthal,Parkstraße,22,,53.55386708,10.77828923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zq,23899,Besenthal,Parkstraße,23,,53.553453,10.77984306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zr,23899,Besenthal,Parkstraße,25,,53.55318938,10.77911177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zs,23899,Besenthal,Parkstraße,27,,53.55303015,10.77931205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zt,23899,Besenthal,Parkstraße,29,,53.55270841,10.7791634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zu,23899,Besenthal,Parkstraße,3,,53.55616188,10.77646107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zv,23899,Besenthal,Parkstraße,31,,53.55222209,10.77921667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zw,23899,Besenthal,Parkstraße,33,,53.5518146,10.77929546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zx,23899,Besenthal,Parkstraße,35,,53.5518355,10.77974901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zy,23899,Besenthal,Parkstraße,37,,53.5514882,10.77930097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L4zz,23899,Besenthal,Parkstraße,37,a,53.55155961,10.77972331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CGVA,23899,Besenthal,Rosengartenweg,8,,53.53333968,10.78581164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CGVE,23899,Besenthal,Rosengartenweg,10,,53.53278362,10.78705105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CGVu,23899,Besenthal,Rosengartenweg,4,,53.53914889,10.79164063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004CGVw,23899,Besenthal,Rosengartenweg,6,,53.53892139,10.79143975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004J1F1,23899,Besenthal,Wendfeld,6,,53.56720272,10.81016109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JtXh,23899,Besenthal,Langenlehstener Straße,2,,53.53000197,10.74340214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004LFL7,23899,Besenthal,Ziegeleiweg,13,a,53.55840022,10.76853888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004M7WR,23899,Besenthal,Hauptstraße,16,b,53.55533965,10.76945441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ORXv,23899,Besenthal,Hohe Luft,13,a,53.55962885,10.77892174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TjMz,23899,Besenthal,Am Sportplatz,10,,53.5510402,10.7819967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XKUE,23899,Besenthal,Kastanienallee,4,a,53.58469398,10.78861737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00050d7Q,23899,Besenthal,Seestraße,4,,53.55394026,10.76305102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053NOb,23899,Besenthal,Im Heller,1,,53.56130046,10.80584157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053NOd,23899,Besenthal,Im Heller,2,,53.56091163,10.80570507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055q4p,23899,Besenthal,A 24 -Schäferei Rosengarten,4,,53.52358618,10.78169511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059hjS,23899,Besenthal,Hohe Luft,14,c,53.55990325,10.78075854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PbIu,23899,Besenthal,Am Köppenberg,2,,53.55599244,10.77786072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ty76,23899,Besenthal,Schulstraße,33,a,53.56018778,10.77183289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rxeK,23899,Besenthal,Gutsdamm,1,a,53.55371606,10.77084349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rxig,23899,Besenthal,Gutsallee,1,,53.55413881,10.77221712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rxih,23899,Besenthal,Gutsallee,2,,53.55448297,10.77352818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rxii,23899,Besenthal,Gutsallee,3,,53.55426573,10.77362525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000602IA,23899,Besenthal,Am Brink,3,,53.53037756,10.74225785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062e3V,23899,Besenthal,Schulstraße,39,,53.5604839,10.77178875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068Q0G,23899,Besenthal,Kastanienallee,3,,53.58353082,10.78838163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069s3R,23899,Besenthal,Hauptstraße,35,,53.55538874,10.77246048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069s3S,23899,Besenthal,Hauptstraße,37,,53.55535864,10.77264494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069s3T,23899,Besenthal,Hauptstraße,17,,53.55572493,10.77001579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069s84,23899,Besenthal,Am Alten See,17,,53.55672453,10.76304895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069syy,23899,Besenthal,Ringstraße,5,,53.56277149,10.8055284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BkBc,23899,Besenthal,Hauptstraße,28,,53.55530174,10.7746794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006D7WL,23899,Besenthal,Kiebitzberg,1,,53.55908112,10.75593345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NphH,23899,Besenthal,Am Knick,5,,53.55882977,10.7659445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Ol9V,23899,Besenthal,Seestraße,2,,53.55459802,10.76351612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Ola0,23899,Besenthal,Seestraße,2,a,53.55437947,10.76345287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Ola6,23899,Besenthal,Seestraße,2,b,53.55423669,10.76317918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gJbW,23899,Besenthal,Dorfstraße,6,,53.56260993,10.80640569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rPWw,23899,Besenthal,Dorfstraße,13,,53.52805495,10.7381162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xVxe,23899,Besenthal,Wasserkrüger Weg,8,,53.5427457,10.73802222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xzCX,23899,Besenthal,Wendfeld,8,,53.56689329,10.81056081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073meX,23899,Besenthal,Promenade,5,a,53.5545235,10.7625503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073meY,23899,Besenthal,Promenade,5,b,53.5546262,10.76279819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078biU,23899,Besenthal,Schulstraße,1,a,53.55612758,10.77184109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANd2,23899,Besenthal,Breite Koppel,33,,53.55881482,10.76089659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANd7,23899,Besenthal,Breite Koppel,31,,53.55862797,10.76095977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANdc,23899,Besenthal,Breite Koppel,29,,53.55846923,10.7608587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANdo,23899,Besenthal,Breite Koppel,35,,53.55904457,10.76099732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeA,23899,Besenthal,Breite Koppel,43,,53.55944582,10.76135274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeE,23899,Besenthal,Breite Koppel,45,,53.55941123,10.76161729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeI,23899,Besenthal,Breite Koppel,47,,53.55941777,10.76191737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeM,23899,Besenthal,Breite Koppel,49,,53.55945641,10.76224863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeQ,23899,Besenthal,Breite Koppel,51,,53.5594351,10.76249885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeU,23899,Besenthal,Breite Koppel,52,,53.55926467,10.76203167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeY,23899,Besenthal,Breite Koppel,54,,53.55919976,10.76225199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANeo,23899,Besenthal,Breite Koppel,37,,53.55921673,10.76098673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANet,23899,Besenthal,Breite Koppel,39,,53.55952799,10.7607823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANew,23899,Besenthal,Breite Koppel,41,,53.55942937,10.76103512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANf2,23899,Besenthal,Breite Koppel,56,,53.55924038,10.76256287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANf6,23899,Besenthal,Breite Koppel,58,,53.55922741,10.76280257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfC,23899,Besenthal,Breite Koppel,66,,53.55933209,10.76388477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfH,23899,Besenthal,Breite Koppel,64,,53.55911664,10.76384132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfL,23899,Besenthal,Breite Koppel,68,,53.55933922,10.76421477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfP,23899,Besenthal,Breite Koppel,63,,53.55949008,10.76420539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfT,23899,Besenthal,Breite Koppel,65,,53.559471,10.7644668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfY,23899,Besenthal,Breite Koppel,67,,53.5592696,10.76448011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfa,23899,Besenthal,Breite Koppel,60,,53.55928701,10.76305715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfe,23899,Besenthal,Breite Koppel,62,,53.55921524,10.76336968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfi,23899,Besenthal,Breite Koppel,55,,53.559412,10.76309873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfm,23899,Besenthal,Breite Koppel,53,,53.5594057,10.76280894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfp,23899,Besenthal,Breite Koppel,57,,53.55941832,10.76338903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfu,23899,Besenthal,Breite Koppel,59,,53.55955054,10.76367668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ANfy,23899,Besenthal,Breite Koppel,61,,53.55943035,10.76394136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Rcem,23899,Besenthal,Hauptstraße,51,,53.55625123,10.77526354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aUyk,23899,Besenthal,Am Alten See,25,,53.55724373,10.76202524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dNYJ,23899,Besenthal,Lehmrader Straße,3,a,53.55696329,10.76582818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ibET,23899,Besenthal,Hauptstraße,7,,53.55608168,10.76813089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ipZv,23899,Besenthal,Neuland,6,,53.55724537,10.77966867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jALE,23899,Besenthal,Ostenkoppel,7,,53.55854199,10.77309501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yP0U,23899,Besenthal,Am Segelhafen,58,,53.55542791,10.7647858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yPCP,23899,Besenthal,Mühlenweg,4,,53.55615583,10.76232703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yR5h,23899,Besenthal,Alter Seestieg,1,,53.55655524,10.76385657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yR5l,23899,Besenthal,Alter Seestieg,4,,53.55649807,10.76416487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yRd2,23899,Besenthal,Ostenkoppel,12,a,53.55815265,10.7742835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008C133,23899,Besenthal,Ringstraße,2,a,53.56270612,10.80286188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008HUY6,23899,Besenthal,Parkstraße,1,,53.55634762,10.77628237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bFpV,23899,Besenthal,Seestraße,2,c,53.55420296,10.76335206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008eCGP,23899,Besenthal,Am Alten See,10,,53.55783394,10.76431029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFB6,23899,Besenthal,Am Knick,1,,53.55829631,10.76590415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBD,23899,Besenthal,Am Knick,6,,53.55878461,10.76622602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBH,23899,Besenthal,Am Knick,7,,53.55888945,10.76676775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBM,23899,Besenthal,Am Knick,8,,53.5586815,10.76656488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBQ,23899,Besenthal,Am Knick,9,,53.55852653,10.76639837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBk,23899,Besenthal,Am Knick,2,,53.55848251,10.76588115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFBy,23899,Besenthal,Am Knick,4,,53.55884994,10.76558048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fFC2,23899,Besenthal,Am Knick,10,,53.55835971,10.76632373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008pUbT,23899,Besenthal,An der Kiesbahn,3,a,53.56173521,10.80731629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008q73D,23899,Besenthal,Kaiserberg,2,b,53.55609108,10.76618407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008q73H,23899,Besenthal,Kaiserberg,2,a,53.55609516,10.76606334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008q73v,23899,Besenthal,Tannenweg,1,b,53.55636704,10.76594138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008q73z,23899,Besenthal,Tannenweg,1,a,53.5563663,10.76606226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rbLN,23899,Besenthal,Kastanienallee,6,a,53.58510846,10.78852536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rw3a,23899,Besenthal,Berg-Wiesen-Weg,6,,53.54093304,10.79431512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rw3b,23899,Besenthal,Berg-Wiesen-Weg,6,a,53.54092871,10.79438797

@@ -1,0 +1,348 @@
+# Amtliche Adressen für die Postleitzahl 25729
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APC5,25729,Windbergen,Bahnhofstraße,1,,54.0404456,9.09244365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APC6,25729,Windbergen,Bahnhofstraße,11,,54.04331927,9.11021981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APC7,25729,Windbergen,Bahnhofstraße,13,,54.04470751,9.11661759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APC8,25729,Windbergen,Bahnhofstraße,14,,54.04295988,9.10811207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APC9,25729,Windbergen,Bahnhofstraße,15,,54.04500129,9.11713149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCA,25729,Windbergen,Gudendorfer Landweg,1,a,54.04311858,9.11730127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCB,25729,Windbergen,Gudendorfer Landweg,3,,54.04312524,9.11642488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCC,25729,Windbergen,Gudendorfer Landweg,3,a,54.04284421,9.11669336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCD,25729,Windbergen,Gudendorfer Landweg,5,,54.04271521,9.11592273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCE,25729,Windbergen,Gudendorfer Landweg,7,,54.0431505,9.11611799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCF,25729,Windbergen,Gudendorfer Landweg,9,,54.04020955,9.11514628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCG,25729,Windbergen,Hinter der Heese,2,,54.03055877,9.15178406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCH,25729,Windbergen,Hinter der Heese,3,,54.0252394,9.1514942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCI,25729,Windbergen,Hinter der Heese,4,,54.02895159,9.15253474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCJ,25729,Windbergen,Hinter der Heese,5,,54.02816904,9.15020435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCK,25729,Windbergen,Hinter der Heese,6,,54.0285901,9.1477349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCL,25729,Windbergen,Hinter der Heese,7,,54.02770387,9.14591157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCM,25729,Windbergen,Kirchstraße,1,,54.04634757,9.11633426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCN,25729,Windbergen,Kirchstraße,11,,54.04562434,9.11459535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCO,25729,Windbergen,Kirchstraße,13,,54.04569446,9.11404364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCP,25729,Windbergen,Kirchstraße,2,,54.04615925,9.11513942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCQ,25729,Windbergen,Kirchstraße,3,,54.0458231,9.11595916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCR,25729,Windbergen,Kirchstraße,4,,54.04577257,9.11442174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCS,25729,Windbergen,Kirchstraße,5,,54.04586277,9.1152177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCT,25729,Windbergen,Kirchstraße,7,,54.04552857,9.11512519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCU,25729,Windbergen,Kirchstraße,9,,54.04562514,9.11480649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCV,25729,Windbergen,Landstraße,1,,54.04154554,9.09166621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCW,25729,Windbergen,Landstraße,10,,54.04135321,9.09119867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCX,25729,Windbergen,Landstraße,12,,54.03951742,9.09215006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCY,25729,Windbergen,Landstraße,14,,54.03936913,9.09218667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCZ,25729,Windbergen,Landstraße,2,,54.04450566,9.08822214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCa,25729,Windbergen,Bahnhofstraße,16,,54.04287541,9.11104926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCb,25729,Windbergen,Bahnhofstraße,17,,54.04501099,9.11754853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCc,25729,Windbergen,Bahnhofstraße,17,a,54.04522863,9.11791728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCd,25729,Windbergen,Bahnhofstraße,18,,54.04295118,9.11174396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCe,25729,Windbergen,Bahnhofstraße,19,,54.04543189,9.11836609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCf,25729,Windbergen,Bahnhofstraße,2,,54.04003493,9.09272477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCg,25729,Windbergen,Bahnhofstraße,20,,54.04371544,9.11618261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCh,25729,Windbergen,Bahnhofstraße,22,,54.04492945,9.11796839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCi,25729,Windbergen,Bahnhofstraße,24,,54.04506471,9.11821111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCj,25729,Windbergen,Bahnhofstraße,3,,54.0410786,9.0943027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCk,25729,Windbergen,Bahnhofstraße,4,,54.03979632,9.09283185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCl,25729,Windbergen,Bahnhofstraße,5,,54.04330316,9.10750787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCm,25729,Windbergen,Bahnhofstraße,6,,54.04012593,9.09308437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCn,25729,Windbergen,Bahnhofstraße,7,,54.04334346,9.10820056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCo,25729,Windbergen,Bahnhofstraße,8,,54.04292761,9.10559122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCp,25729,Windbergen,Bahnhofstraße,9,,54.04601984,9.09493117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCq,25729,Windbergen,Erste Siedlung,1,,54.0415869,9.13014137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCr,25729,Windbergen,Erste Siedlung,1,a,54.04135608,9.12989084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCs,25729,Windbergen,Erste Siedlung,2,,54.04143409,9.13034025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCt,25729,Windbergen,Erste Siedlung,3,,54.04178416,9.13034382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCu,25729,Windbergen,Erste Siedlung,4,,54.04159695,9.13051453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCv,25729,Windbergen,Erste Siedlung,5,,54.04194792,9.13057255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCw,25729,Windbergen,Erste Siedlung,6,,54.04170649,9.13083701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCx,25729,Windbergen,Erste Siedlung,7,,54.04190022,9.13072208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCy,25729,Windbergen,Erste Siedlung,8,,54.04182124,9.13096939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APCz,25729,Windbergen,Gudendorfer Landweg,1,,54.0433846,9.11702214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD0,25729,Windbergen,Landstraße,3,,54.04124177,9.09188468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD1,25729,Windbergen,Landstraße,4,,54.04154137,9.09085411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD2,25729,Windbergen,Landstraße,6,,54.04152042,9.090753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD3,25729,Windbergen,Landstraße,8,,54.04126293,9.09095926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD4,25729,Windbergen,Lindenstraße,1,,54.04712903,9.1195591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD5,25729,Windbergen,Lindenstraße,10,,54.04727888,9.12000246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD6,25729,Windbergen,Lindenstraße,11,,54.0481023,9.11825486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD7,25729,Windbergen,Lindenstraße,12,,54.04770781,9.12013745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD8,25729,Windbergen,Lindenstraße,13,,54.04821228,9.11795346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APD9,25729,Windbergen,Lindenstraße,14,,54.04769801,9.1204732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDA,25729,Windbergen,Mittelstraße,12,,54.04685945,9.12188228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDB,25729,Windbergen,Mittelstraße,13,,54.0487344,9.12550502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDC,25729,Windbergen,Mittelstraße,14,,54.0467829,9.12199821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDE,25729,Windbergen,Mittelstraße,18,,54.04710029,9.12323658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDF,25729,Windbergen,Mittelstraße,2,,54.0461169,9.12132315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDG,25729,Windbergen,Mittelstraße,20,,54.04723548,9.12361425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDH,25729,Windbergen,Mittelstraße,22,,54.04743675,9.12244419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDI,25729,Windbergen,Mittelstraße,3,,54.04660468,9.12129647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDJ,25729,Windbergen,Mittelstraße,4,,54.04609328,9.12163727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDK,25729,Windbergen,Mittelstraße,6,,54.04632829,9.12142419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDL,25729,Windbergen,Mittelstraße,7,,54.04758947,9.12191837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDM,25729,Windbergen,Mittelstraße,8,,54.04650961,9.12170178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDN,25729,Windbergen,Mittelstraße,9,,54.04791785,9.12191984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDO,25729,Windbergen,Norderstraße,1,,54.04823387,9.11658413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDP,25729,Windbergen,Norderstraße,1,a,54.04810302,9.11642764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDQ,25729,Windbergen,Norderstraße,1,b,54.04796249,9.11625967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDR,25729,Windbergen,Norderstraße,10,,54.04786503,9.11696662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDS,25729,Windbergen,Norderstraße,11,,54.04883441,9.11719634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDT,25729,Windbergen,Norderstraße,12,,54.04798979,9.11696054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDU,25729,Windbergen,Norderstraße,14,,54.04793927,9.11658717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDV,25729,Windbergen,Norderstraße,16,,54.04825761,9.11702602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDW,25729,Windbergen,Norderstraße,18,,54.04846588,9.11722264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDX,25729,Windbergen,Norderstraße,19,,54.04998469,9.11750636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDY,25729,Windbergen,Norderstraße,2,,54.04730218,9.11587643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDZ,25729,Windbergen,Norderstraße,20,,54.04924288,9.11775955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDa,25729,Windbergen,Lindenstraße,15,,54.04850907,9.11798165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDb,25729,Windbergen,Lindenstraße,16,,54.04767313,9.12118879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDc,25729,Windbergen,Lindenstraße,17,,54.04880135,9.11758985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDd,25729,Windbergen,Lindenstraße,17,a,54.04871979,9.11770606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDe,25729,Windbergen,Lindenstraße,18,,54.04787729,9.12062474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDf,25729,Windbergen,Lindenstraße,2,,54.0465801,9.11988569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDg,25729,Windbergen,Lindenstraße,20,,54.04790423,9.12029762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDh,25729,Windbergen,Lindenstraße,22,,54.04805868,9.1200563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDi,25729,Windbergen,Lindenstraße,24,,54.04818633,9.11955697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDj,25729,Windbergen,Lindenstraße,26,,54.04814579,9.11913125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDk,25729,Windbergen,Lindenstraße,28,,54.04821623,9.11884652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDl,25729,Windbergen,Lindenstraße,3,,54.04750401,9.11976641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDm,25729,Windbergen,Lindenstraße,30,,54.04839565,9.11870717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDn,25729,Windbergen,Lindenstraße,30,a,54.04843118,9.11862122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDo,25729,Windbergen,Lindenstraße,32,,54.04855073,9.11844961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDp,25729,Windbergen,Lindenstraße,34,,54.04874627,9.11830037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDq,25729,Windbergen,Lindenstraße,36,,54.04901075,9.11772266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDr,25729,Windbergen,Lindenstraße,4,,54.04684845,9.12017778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDs,25729,Windbergen,Lindenstraße,5,,54.04773239,9.11976015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDt,25729,Windbergen,Lindenstraße,6,,54.04692343,9.12001237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDu,25729,Windbergen,Lindenstraße,7,,54.04786993,9.11900179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDv,25729,Windbergen,Lindenstraße,8,,54.04699073,9.11993578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDw,25729,Windbergen,Lindenstraße,9,,54.04799261,9.11853134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDx,25729,Windbergen,Mittelstraße,1,,54.04637963,9.12113585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDy,25729,Windbergen,Mittelstraße,10,,54.04669536,9.12177416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APDz,25729,Windbergen,Mittelstraße,11,,54.04860483,9.12272795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE0,25729,Windbergen,Norderstraße,22,,54.04949775,9.11792356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE1,25729,Windbergen,Norderstraße,3,,54.04834254,9.11671398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE2,25729,Windbergen,Norderstraße,4,,54.04743058,9.11604045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE3,25729,Windbergen,Norderstraße,5,,54.04844943,9.11684377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE4,25729,Windbergen,Norderstraße,7,,54.04856363,9.11698087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE5,25729,Windbergen,Norderstraße,8,,54.04771832,9.11646131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE6,25729,Windbergen,Norderstraße,9,,54.04871889,9.1170548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE7,25729,Windbergen,Österstraße,1,,54.04556105,9.1225611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE8,25729,Windbergen,Österstraße,11,,54.04687655,9.12365714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APE9,25729,Windbergen,Österstraße,2,,54.04517094,9.12255531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEA,25729,Windbergen,Ringstraße,6,,54.0459155,9.11968258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEB,25729,Windbergen,Ringstraße,7,,54.04654581,9.11749904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEC,25729,Windbergen,Ringstraße,8,,54.04562412,9.1204097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APED,25729,Windbergen,Ringstraße,8,a,54.04568154,9.120261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEE,25729,Windbergen,Ringstraße,9,,54.04680219,9.11815429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEG,25729,Windbergen,Schmalbeck,2,,54.04536799,9.15027431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEH,25729,Windbergen,Schmalbeck,4,,54.04474303,9.15189825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEI,25729,Windbergen,Schmalbeck,5,,54.04555498,9.15058635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEJ,25729,Windbergen,Schmalbeck,6,,54.04465858,9.15429056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEK,25729,Windbergen,Spersdick,1,,54.03292854,9.15080415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEL,25729,Windbergen,Spersdick,2,,54.0321589,9.15941907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEM,25729,Windbergen,Spersdick,3,,54.03297914,9.15365073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEN,25729,Windbergen,Spersdick,4,,54.03260896,9.16035585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEO,25729,Windbergen,Spersdick,5,,54.03278361,9.15911798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEP,25729,Windbergen,Süderstraße,1,,54.0447479,9.11826349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEQ,25729,Windbergen,Süderstraße,10,,54.04378358,9.12101416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APER,25729,Windbergen,Süderstraße,2,,54.04473948,9.11768333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APES,25729,Windbergen,Süderstraße,3,,54.04467056,9.11847568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APET,25729,Windbergen,Süderstraße,4,,54.04429414,9.11865322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEU,25729,Windbergen,Süderstraße,4,a,54.04413077,9.11901449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEV,25729,Windbergen,Süderstraße,4,b,54.04432503,9.1189847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEW,25729,Windbergen,Süderstraße,5,,54.04438592,9.11935995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEX,25729,Windbergen,Süderstraße,6,,54.043535,9.12013584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEY,25729,Windbergen,Süderstraße,6,a,54.04312419,9.1201813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEZ,25729,Windbergen,Süderstraße,8,,54.0428646,9.1201709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEa,25729,Windbergen,Österstraße,3,,54.04567495,9.12284599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEb,25729,Windbergen,Österstraße,4,,54.04570608,9.12326909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEc,25729,Windbergen,Österstraße,5,,54.0460248,9.12302479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEd,25729,Windbergen,Österstraße,6,,54.04592577,9.12339631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEe,25729,Windbergen,Österstraße,7,,54.04645015,9.12350384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEf,25729,Windbergen,Österstraße,9,,54.04664294,9.12363751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEg,25729,Windbergen,Ringstraße,1,,54.04532691,9.11684138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEh,25729,Windbergen,Ringstraße,10,,54.04549741,9.12071799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEi,25729,Windbergen,Ringstraße,11,,54.04650585,9.11899653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEj,25729,Windbergen,Ringstraße,12,,54.04538291,9.12108605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEk,25729,Windbergen,Ringstraße,13,,54.04625041,9.11956002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEl,25729,Windbergen,Ringstraße,14,,54.04514755,9.12149063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEm,25729,Windbergen,Ringstraße,15,,54.04601391,9.12014296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEn,25729,Windbergen,Ringstraße,16,,54.04480424,9.12183123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEo,25729,Windbergen,Ringstraße,17,,54.04583946,9.12045757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEp,25729,Windbergen,Ringstraße,18,,54.04459784,9.12199544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEq,25729,Windbergen,Ringstraße,19,,54.04581419,9.12085869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEr,25729,Windbergen,Ringstraße,2,,54.04637603,9.11828418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEs,25729,Windbergen,Ringstraße,20,,54.04426957,9.12195291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEt,25729,Windbergen,Ringstraße,22,,54.04377395,9.12224391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEu,25729,Windbergen,Ringstraße,23,,54.04524651,9.12213716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEv,25729,Windbergen,Ringstraße,24,,54.04337601,9.12223682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEw,25729,Windbergen,Ringstraße,25,,54.04454037,9.12231104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEx,25729,Windbergen,Ringstraße,3,,54.04548448,9.11681232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APEz,25729,Windbergen,Ringstraße,5,,54.04563176,9.11688399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF0,25729,Windbergen,Süderstraße,9,,54.04415337,9.12005242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF1,25729,Windbergen,Westerstraße,1,,54.05150073,9.10944149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF2,25729,Windbergen,Westerstraße,10,,54.0474058,9.11479292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF3,25729,Windbergen,Westerstraße,11,,54.046938,9.11618268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF4,25729,Windbergen,Westerstraße,12,,54.04625363,9.11674314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF5,25729,Windbergen,Westerstraße,14,,54.0461825,9.11692159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF6,25729,Windbergen,Westerstraße,15,,54.04654701,9.11681073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF7,25729,Windbergen,Westerstraße,16,,54.04607014,9.11714267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF8,25729,Windbergen,Westerstraße,17,,54.04620773,9.11764734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APF9,25729,Windbergen,Westerstraße,19,,54.04594239,9.11796322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFA,25729,Windbergen,Wodansberger Straße,23,,54.0416608,9.12842829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFB,25729,Windbergen,Wodansberger Straße,24,,54.04239872,9.12578404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFC,25729,Windbergen,Wodansberger Straße,25,,54.04156612,9.12875335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFD,25729,Windbergen,Wodansberger Straße,25,b,54.04126774,9.12941699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFE,25729,Windbergen,Wodansberger Straße,27,,54.04117513,9.12966922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFF,25729,Windbergen,Wodansberger Straße,28,,54.04209992,9.12654109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFG,25729,Windbergen,Wodansberger Straße,29,,54.04104493,9.13001499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFH,25729,Windbergen,Wodansberger Straße,3,,54.04481685,9.1204075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFI,25729,Windbergen,Wodansberger Straße,30,,54.04199565,9.12680507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFJ,25729,Windbergen,Wodansberger Straße,31,,54.04094624,9.13028523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFK,25729,Windbergen,Wodansberger Straße,33,,54.04085461,9.13053242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFL,25729,Windbergen,Wodansberger Straße,34,,54.04177338,9.1273196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFM,25729,Windbergen,Wodansberger Straße,35,,54.04076495,9.1307744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFN,25729,Windbergen,Wodansberger Straße,36,,54.04163137,9.12772699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFO,25729,Windbergen,Wodansberger Straße,36,a,54.04142761,9.12795389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFP,25729,Windbergen,Wodansberger Straße,36,b,54.04132969,9.12846591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFQ,25729,Windbergen,Wodansberger Straße,37,,54.04063184,9.13113152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFR,25729,Windbergen,Wodansberger Straße,38,,54.04112114,9.12901967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFS,25729,Windbergen,Wodansberger Straße,39,,54.04057619,9.13142046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFT,25729,Windbergen,Wodansberger Straße,4,,54.04517341,9.11891041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFU,25729,Windbergen,Wodansberger Straße,40,,54.040972,9.12940737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFV,25729,Windbergen,Wodansberger Straße,41,,54.04040263,9.13236886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFW,25729,Windbergen,Wodansberger Straße,42,,54.04082325,9.12979151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFX,25729,Windbergen,Wodansberger Straße,43,,54.03983656,9.13309791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFY,25729,Windbergen,Wodansberger Straße,44,,54.04058069,9.13042245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFZ,25729,Windbergen,Wodansberger Straße,44,a,54.04045979,9.13071701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFa,25729,Windbergen,Westerstraße,2,,54.04946763,9.11140697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFb,25729,Windbergen,Westerstraße,2,a,54.04918952,9.11180436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFc,25729,Windbergen,Westerstraße,20,,54.04571467,9.11797585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFd,25729,Windbergen,Westerstraße,21,,54.04566189,9.11869593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFe,25729,Windbergen,Westerstraße,23,,54.04586997,9.11878337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFg,25729,Windbergen,Westerstraße,3,,54.04945203,9.11208178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFh,25729,Windbergen,Westerstraße,4,,54.04893444,9.11209143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFi,25729,Windbergen,Westerstraße,4,a,54.04866135,9.11237509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFj,25729,Windbergen,Westerstraße,6,,54.04852576,9.11276621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFk,25729,Windbergen,Westerstraße,7,,54.04710272,9.11583346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFl,25729,Windbergen,Westerstraße,8,,54.04800283,9.11375765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFm,25729,Windbergen,Westerstraße,8,a,54.04833732,9.11297388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFn,25729,Windbergen,Westerstraße,9,,54.04702986,9.11598585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFo,25729,Windbergen,Wodansberger Straße,1,,54.04551759,9.11945809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFp,25729,Windbergen,Wodansberger Straße,11,,54.04401455,9.12320644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFq,25729,Windbergen,Wodansberger Straße,11,a,54.04352505,9.12438829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFr,25729,Windbergen,Wodansberger Straße,12,,54.04460683,9.12013107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFs,25729,Windbergen,Wodansberger Straße,13,,54.04315984,9.12484318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFt,25729,Windbergen,Wodansberger Straße,14,,54.04444349,9.12071415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFu,25729,Windbergen,Wodansberger Straße,15,,54.04259933,9.12643638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFv,25729,Windbergen,Wodansberger Straße,16,,54.04438185,9.12091512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFw,25729,Windbergen,Wodansberger Straße,2,,54.04526544,9.1185898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFx,25729,Windbergen,Wodansberger Straße,20,,54.04401174,9.12216619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFy,25729,Windbergen,Wodansberger Straße,21,,54.04184071,9.12798771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APFz,25729,Windbergen,Wodansberger Straße,22,,54.0434331,9.12329338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG0,25729,Windbergen,Wodansberger Straße,46,,54.04028711,9.13115271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG1,25729,Windbergen,Wodansberger Straße,47,,54.03937983,9.13416239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG2,25729,Windbergen,Wodansberger Straße,48,,54.04011648,9.13157612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG3,25729,Windbergen,Wodansberger Straße,5,,54.04459476,9.12089375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG4,25729,Windbergen,Wodansberger Straße,50,,54.04001704,9.1318314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG5,25729,Windbergen,Wodansberger Straße,52,,54.03988465,9.13216989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG6,25729,Windbergen,Wodansberger Straße,54,,54.03969327,9.13265727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG7,25729,Windbergen,Wodansberger Straße,58,,54.036957,9.13797523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG8,25729,Windbergen,Wodansberger Straße,6,,54.045072,9.11908001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APG9,25729,Windbergen,Wodansberger Straße,60,,54.0368833,9.13838235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGA,25729,Windbergen,Alten Eesch,10,,54.04097702,9.12592394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGB,25729,Windbergen,Alten Eesch,11,,54.04096739,9.12702602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGC,25729,Windbergen,Alten Eesch,12,,54.04071947,9.12576673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGD,25729,Windbergen,Alten Eesch,13,,54.04070685,9.12697813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGE,25729,Windbergen,Alten Eesch,14,,54.04051256,9.12582002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGF,25729,Windbergen,Alten Eesch,15,,54.04084324,9.1264178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGG,25729,Windbergen,Alten Eesch,17,,54.04065526,9.12639693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGH,25729,Windbergen,Alten Eesch,19,,54.0405364,9.12679734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGI,25729,Windbergen,Alten Eesch,2,,54.04181459,9.12642229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGJ,25729,Windbergen,Alten Eesch,21,,54.04035669,9.12656944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGK,25729,Windbergen,Alten Eesch,23,,54.04041409,9.12625308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGL,25729,Windbergen,Alten Eesch,4,,54.0415082,9.1264546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGM,25729,Windbergen,Alten Eesch,5,,54.04116488,9.12711425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGN,25729,Windbergen,Alten Eesch,6,,54.04131167,9.12619727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGO,25729,Windbergen,Alten Eesch,7,,54.04123998,9.12680045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGP,25729,Windbergen,Alten Eesch,8,,54.04115907,9.12603712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGQ,25729,Windbergen,Alten Eesch,9,,54.04105959,9.12654987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGR,25729,Windbergen,Am Wodansberg,3,,54.04214732,9.14062923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGS,25729,Windbergen,Von-Levern-Ring,1,,54.04921732,9.11731483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGT,25729,Windbergen,Von-Levern-Ring,10,,54.05021745,9.11524218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGU,25729,Windbergen,Von-Levern-Ring,11,,54.04935588,9.11590871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGV,25729,Windbergen,Von-Levern-Ring,12,,54.0499065,9.11539994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGW,25729,Windbergen,Von-Levern-Ring,13,,54.04946821,9.11609004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGX,25729,Windbergen,Von-Levern-Ring,14,,54.04977063,9.11505176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGY,25729,Windbergen,Von-Levern-Ring,15,,54.04970002,9.11635939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGZ,25729,Windbergen,Von-Levern-Ring,16,,54.04961648,9.11486751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGa,25729,Windbergen,Wodansberger Straße,62,,54.03681011,9.13853352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGb,25729,Windbergen,Wodansberger Straße,7,,54.04439967,9.12137925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGc,25729,Windbergen,Wodansberger Straße,8,,54.04484946,9.11898311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGd,25729,Windbergen,Wodansberger Straße,9,,54.04417002,9.12246571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGe,25729,Windbergen,Zweite Siedlung,1,,54.04109509,9.13113768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGf,25729,Windbergen,Zweite Siedlung,2,,54.04103859,9.13142381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGg,25729,Windbergen,Zweite Siedlung,3,,54.04126493,9.13127201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGh,25729,Windbergen,Zweite Siedlung,4,,54.04129144,9.13163099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGi,25729,Windbergen,Zweite Siedlung,5,,54.04144787,9.13141588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGj,25729,Windbergen,Zweite Siedlung,6,,54.04151321,9.13189369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGk,25729,Windbergen,Zweite Siedlung,7,,54.04157212,9.1317248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGl,25729,Windbergen,Rosenstraße,1,,54.04708727,9.11661208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGm,25729,Windbergen,Rosenstraße,10,,54.04759822,9.1178343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGn,25729,Windbergen,Rosenstraße,11,,54.04783151,9.11745686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGo,25729,Windbergen,Rosenstraße,12,,54.04769595,9.11808342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGp,25729,Windbergen,Rosenstraße,4,,54.04700001,9.11700569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGq,25729,Windbergen,Rosenstraße,5,,54.04738113,9.11699299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGr,25729,Windbergen,Rosenstraße,6,,54.04734196,9.11740804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGs,25729,Windbergen,Rosenstraße,7,,54.04752299,9.11714902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGt,25729,Windbergen,Rosenstraße,8,,54.04747375,9.11758895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGu,25729,Windbergen,Rosenstraße,9,,54.04768973,9.11730127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGv,25729,Windbergen,Im Winkel,1,,54.04509573,9.12342563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGw,25729,Windbergen,Im Winkel,2,,54.04484516,9.12405051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGx,25729,Windbergen,Im Winkel,3,,54.04524226,9.12425392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGy,25729,Windbergen,Im Winkel,4,,54.04612681,9.1308735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APGz,25729,Windbergen,Alten Eesch,1,,54.04144082,9.12692898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH0,25729,Windbergen,Von-Levern-Ring,17,,54.04961076,9.11532984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH1,25729,Windbergen,Von-Levern-Ring,18,,54.04941612,9.11470888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH2,25729,Windbergen,Von-Levern-Ring,19,,54.04935672,9.11524481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH3,25729,Windbergen,Von-Levern-Ring,2,,54.04998658,9.1159324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH4,25729,Windbergen,Von-Levern-Ring,20,,54.04909892,9.11470614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH5,25729,Windbergen,Von-Levern-Ring,21,,54.04917991,9.11519407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH6,25729,Windbergen,Von-Levern-Ring,22,,54.04910796,9.11432361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH7,25729,Windbergen,Von-Levern-Ring,23,,54.04896678,9.1152415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH8,25729,Windbergen,Von-Levern-Ring,24,,54.04890762,9.11416944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APH9,25729,Windbergen,Von-Levern-Ring,25,,54.04876272,9.11518549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHa,25729,Windbergen,Von-Levern-Ring,26,,54.04873339,9.11431529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHb,25729,Windbergen,Von-Levern-Ring,28,,54.04876093,9.11465429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHc,25729,Windbergen,Von-Levern-Ring,3,,54.04935968,9.11704972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHd,25729,Windbergen,Von-Levern-Ring,30,,54.04811084,9.11443391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHe,25729,Windbergen,Von-Levern-Ring,32,,54.04832413,9.11433105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHf,25729,Windbergen,Von-Levern-Ring,34,,54.04842476,9.11400325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHg,25729,Windbergen,Von-Levern-Ring,36,,54.04854058,9.11378187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHh,25729,Windbergen,Von-Levern-Ring,38,,54.04866764,9.11351575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHi,25729,Windbergen,Von-Levern-Ring,4,,54.05024207,9.1158396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHj,25729,Windbergen,Von-Levern-Ring,5,,54.04952217,9.11671478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHk,25729,Windbergen,Von-Levern-Ring,6,,54.05044377,9.11587691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHl,25729,Windbergen,Von-Levern-Ring,7,,54.04924166,9.11634192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHm,25729,Windbergen,Von-Levern-Ring,8,,54.05040598,9.1154288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003APHn,25729,Windbergen,Von-Levern-Ring,9,,54.04915642,9.11603205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K22V,25729,Windbergen,Von-Levern-Ring,27,,54.04857555,9.1152119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K231,25729,Windbergen,Von-Levern-Ring,29,,54.04839692,9.11522234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K239,25729,Windbergen,Von-Levern-Ring,31,,54.04819563,9.11515808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052TgX,25729,Windbergen,Alten Eesch,3,,54.04131825,9.12733559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ARB2,25729,Windbergen,Lindenstraße,1,a,54.04681089,9.11980275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ARBe,25729,Windbergen,Lindenstraße,1,c,54.04698576,9.11932537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ARBs,25729,Windbergen,Lindenstraße,1,b,54.04687909,9.11953161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ppht,25729,Windbergen,Am Wodansberg,1,,54.04023894,9.13285426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006L9ZI,25729,Windbergen,Norderstraße,1,d,54.04762507,9.11587438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bf7Q,25729,Windbergen,Westerstraße,13,,54.04667308,9.11656854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JgGk,25729,Windbergen,Im Winkel,2,a,54.04514792,9.12544244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tHCq,25729,Windbergen,Ringstraße,4,,54.04598646,9.11922636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tHiE,25729,Windbergen,Ringstraße,2,a,54.0462876,9.11860191

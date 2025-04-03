@@ -1,0 +1,622 @@
+# Amtliche Adressen für die Postleitzahl 24885
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpBW,24885,Sieverstedt,Alte Mühle,1,,54.64244998,9.45704277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpBX,24885,Sieverstedt,Alte Mühle,3,,54.64271306,9.4582694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpBY,24885,Sieverstedt,Alte Mühle,5,,54.64263269,9.4583095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpBZ,24885,Sieverstedt,Alte Mühle,7,,54.64280999,9.458513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC0,24885,Sieverstedt,Alte Schulstraße,1,,54.66156131,9.45135324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC1,24885,Sieverstedt,Alte Schulstraße,2,,54.66126646,9.45130062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC2,24885,Sieverstedt,Alte Schulstraße,3,,54.6614463,9.45193897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC3,24885,Sieverstedt,Alte Schulstraße,4,,54.66132059,9.45215205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC4,24885,Sieverstedt,Alte Schulstraße,6,,54.66127185,9.45269038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC5,24885,Sieverstedt,Alte Schulstraße,6,a,54.66127185,9.45269038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC6,24885,Sieverstedt,Alte Schulstraße,6,b,54.66127185,9.45269038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC7,24885,Sieverstedt,Alte Schulstraße,6,c,54.66127185,9.45269038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC8,24885,Sieverstedt,Am Karpfenteich,1,,54.66805894,9.4442575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpC9,24885,Sieverstedt,Am Karpfenteich,2,,54.66551989,9.44863922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCA,24885,Sieverstedt,Angelboweg,3,,54.6391311,9.45867233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCB,24885,Sieverstedt,Angelboweg,3,a,54.63881126,9.45909424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCC,24885,Sieverstedt,Angelboweg,4,,54.63940726,9.45849431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCD,24885,Sieverstedt,Angelboweg,5,,54.63901456,9.45827579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCE,24885,Sieverstedt,Angelboweg,6,,54.63931185,9.45803469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCF,24885,Sieverstedt,Angelboweg,6,a,54.63944746,9.45737523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCG,24885,Sieverstedt,Angelboweg,7,,54.63892079,9.45793568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCH,24885,Sieverstedt,Angelboweg,8,,54.63920514,9.4574836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCI,24885,Sieverstedt,Angelboweg,8,a,54.63912457,9.45703699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCJ,24885,Sieverstedt,Angelboweg,9,,54.63880373,9.45751905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCK,24885,Sieverstedt,Ballbek,10,,54.67363052,9.44029164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCL,24885,Sieverstedt,Ballbek,2,,54.67200109,9.45230921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCM,24885,Sieverstedt,Ballbek,4,a,54.67339683,9.45034231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCN,24885,Sieverstedt,Ballbek,6,,54.6735217,9.45016505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCO,24885,Sieverstedt,Ballbek,8,,54.67364439,9.44596529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCP,24885,Sieverstedt,Bööck,2,,54.64197255,9.47360649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCQ,24885,Sieverstedt,Bööck,3,,54.64190352,9.47404276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCR,24885,Sieverstedt,Bööck,5,,54.64200791,9.47444967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCS,24885,Sieverstedt,Bööck,7,,54.64154179,9.47433537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCT,24885,Sieverstedt,Brandsholm,1,,54.6428834,9.45576132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCU,24885,Sieverstedt,Brandsholm,3,,54.64324586,9.45644344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCV,24885,Sieverstedt,Brandsholm,5,,54.64375466,9.45770424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCW,24885,Sieverstedt,Dweracker,1,,54.64276336,9.4707869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCX,24885,Sieverstedt,Dweracker,10,,54.64316718,9.46943026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCY,24885,Sieverstedt,Dweracker,11,a,54.64238433,9.46897164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCa,24885,Sieverstedt,Am Karpfenteich,3,,54.66653011,9.44602985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCb,24885,Sieverstedt,Am Schwimmbad,1,,54.64381908,9.47909916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCc,24885,Sieverstedt,Am Schwimmbad,2,,54.64269254,9.47961586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCd,24885,Sieverstedt,Am Schwimmbad,2,a,54.64272836,9.47943465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCe,24885,Sieverstedt,Am Schwimmbad,3,,54.64359835,9.47931427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCf,24885,Sieverstedt,Am Schwimmbad,5,,54.64246217,9.48075744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCg,24885,Sieverstedt,Am Schwimmbad,7,,54.64225996,9.48133169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCh,24885,Sieverstedt,Angelboweg,1,,54.63925645,9.45933164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCi,24885,Sieverstedt,Angelboweg,1,a,54.63923079,9.45920733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCj,24885,Sieverstedt,Angelboweg,1,b,54.63905242,9.45954204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCk,24885,Sieverstedt,Angelboweg,10,,54.63900517,9.45633524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCl,24885,Sieverstedt,Angelboweg,10,a,54.63912875,9.45630773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCm,24885,Sieverstedt,Angelboweg,10,b,54.63885254,9.45603946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCn,24885,Sieverstedt,Angelboweg,11,,54.63876203,9.45722483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCo,24885,Sieverstedt,Angelboweg,12,,54.63885243,9.45563906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCp,24885,Sieverstedt,Angelboweg,13,,54.63872787,9.45692065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCq,24885,Sieverstedt,Angelboweg,14,,54.63821637,9.45100902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCr,24885,Sieverstedt,Angelboweg,15,,54.63869024,9.45658255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCs,24885,Sieverstedt,Angelboweg,16,,54.6378914,9.4495673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCt,24885,Sieverstedt,Angelboweg,17,,54.63864481,9.45623659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCu,24885,Sieverstedt,Angelboweg,18,,54.63762384,9.44772228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCv,24885,Sieverstedt,Angelboweg,19,,54.63857346,9.45589077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCw,24885,Sieverstedt,Angelboweg,2,,54.63949444,9.45899898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCx,24885,Sieverstedt,Angelboweg,20,,54.63739532,9.44600455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCy,24885,Sieverstedt,Angelboweg,21,,54.63825132,9.45368228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpCz,24885,Sieverstedt,Angelboweg,23,,54.63722867,9.44741896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD0,24885,Sieverstedt,Dweracker,12,,54.64294802,9.46960557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD1,24885,Sieverstedt,Dweracker,13,,54.64217209,9.46897677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD2,24885,Sieverstedt,Dweracker,14,,54.64274162,9.4698088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD3,24885,Sieverstedt,Dweracker,15,,54.64201387,9.46902781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD4,24885,Sieverstedt,Dweracker,16,,54.64263678,9.46925105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD5,24885,Sieverstedt,Dweracker,17,,54.64192947,9.46870969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD6,24885,Sieverstedt,Dweracker,18,,54.64279677,9.46871808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD7,24885,Sieverstedt,Dweracker,19,,54.64223633,9.46859616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD8,24885,Sieverstedt,Dweracker,2,,54.64299093,9.47064226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpD9,24885,Sieverstedt,Dweracker,20,,54.64302013,9.46876217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDA,24885,Sieverstedt,Flensburger Straße,13,,54.66188373,9.45041959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDB,24885,Sieverstedt,Flensburger Straße,14,,54.66083131,9.45112109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDC,24885,Sieverstedt,Flensburger Straße,16,,54.66190305,9.45099894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDD,24885,Sieverstedt,Flensburger Straße,18,,54.66244988,9.45098086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDE,24885,Sieverstedt,Flensburger Straße,18,a,54.66228567,9.4509083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDF,24885,Sieverstedt,Flensburger Straße,19,,54.66274891,9.45027655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDG,24885,Sieverstedt,Flensburger Straße,2,,54.65695258,9.45236017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDH,24885,Sieverstedt,Flensburger Straße,20,,54.66287612,9.4509296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDI,24885,Sieverstedt,Flensburger Straße,21,,54.66300431,9.44964553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDJ,24885,Sieverstedt,Flensburger Straße,3,,54.66002527,9.45079954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDK,24885,Sieverstedt,Flensburger Straße,4,,54.65715584,9.4514893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDL,24885,Sieverstedt,Flensburger Straße,5,,54.66058529,9.45068199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDM,24885,Sieverstedt,Flensburger Straße,6,,54.65904164,9.45144374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDN,24885,Sieverstedt,Flensburger Straße,6,a,54.65921915,9.45218122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDO,24885,Sieverstedt,Flensburger Straße,7,,54.66099116,9.45061094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDP,24885,Sieverstedt,Flensburger Straße,8,,54.65943745,9.45125349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDQ,24885,Sieverstedt,Flensburger Straße,9,,54.6613359,9.45050661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDR,24885,Sieverstedt,Friesenhof,1,,54.62830104,9.50645148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDS,24885,Sieverstedt,Grönshoy,1,,54.6362359,9.49100734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDT,24885,Sieverstedt,Grönshoy,1,a,54.63618459,9.49065096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDU,24885,Sieverstedt,Grönshoy,1,b,54.63619294,9.49018289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDV,24885,Sieverstedt,Grönshoy,10,,54.63655239,9.48825999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDW,24885,Sieverstedt,Grönshoy,12,,54.63656397,9.48786673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDX,24885,Sieverstedt,Grönshoy,2,,54.63642505,9.48968018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDY,24885,Sieverstedt,Grönshoy,2,a,54.63641303,9.49061389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDZ,24885,Sieverstedt,Grönshoy,3,,54.63604405,9.4898014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDa,24885,Sieverstedt,Dweracker,21,,54.64245121,9.46852368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDb,24885,Sieverstedt,Dweracker,22,,54.64289465,9.46837226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDc,24885,Sieverstedt,Dweracker,24,,54.64271663,9.46843309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDd,24885,Sieverstedt,Dweracker,3,a,54.64266992,9.4705302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDe,24885,Sieverstedt,Dweracker,3,b,54.64263359,9.47042899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDf,24885,Sieverstedt,Dweracker,4,a,54.64282247,9.47017366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDg,24885,Sieverstedt,Dweracker,4,b,54.64285334,9.47028568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDh,24885,Sieverstedt,Dweracker,5,,54.64254823,9.4701972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDi,24885,Sieverstedt,Dweracker,5,a,54.64251084,9.47009307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDj,24885,Sieverstedt,Dweracker,6,,54.64303107,9.46996446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDk,24885,Sieverstedt,Dweracker,7,,54.64242746,9.46982559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDl,24885,Sieverstedt,Dweracker,8,,54.64321339,9.46974634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDm,24885,Sieverstedt,Dweracker,9,,54.64233482,9.46953425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDn,24885,Sieverstedt,Englück,10,,54.63805985,9.46516186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDo,24885,Sieverstedt,Englück,12,,54.6383718,9.46510645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDp,24885,Sieverstedt,Englück,4,,54.63839243,9.46310485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDq,24885,Sieverstedt,Englück,4,a,54.6384186,9.46341977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDr,24885,Sieverstedt,Englück,6,,54.63845287,9.46381685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDs,24885,Sieverstedt,Englück,8,,54.63843125,9.46440571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDt,24885,Sieverstedt,Feldstraße,1,,54.64599023,9.47628692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDu,24885,Sieverstedt,Feldstraße,3,,54.64669773,9.47876947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDv,24885,Sieverstedt,Feldstraße,3,a,54.64712317,9.47922832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDw,24885,Sieverstedt,Feldstraße,5,,54.64722419,9.47959599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDx,24885,Sieverstedt,Flensburger Straße,1,,54.65961118,9.45078488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDy,24885,Sieverstedt,Flensburger Straße,11,,54.66162497,9.45038844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpDz,24885,Sieverstedt,Flensburger Straße,12,,54.66066254,9.4511514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE0,24885,Sieverstedt,Grönshoy,4,,54.63642655,9.48931304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE1,24885,Sieverstedt,Grönshoy,6,,54.63643967,9.48894313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE2,24885,Sieverstedt,Grönshoy,8,,54.63651246,9.48862958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE3,24885,Sieverstedt,Großsolter Straße,1,,54.66962437,9.47570108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE4,24885,Sieverstedt,Großsolter Straße,10,,54.66425687,9.45624567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE5,24885,Sieverstedt,Großsolter Straße,12,,54.66425045,9.45655211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE6,24885,Sieverstedt,Großsolter Straße,14,,54.66424301,9.45688973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE7,24885,Sieverstedt,Großsolter Straße,16,,54.66424344,9.45723369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE8,24885,Sieverstedt,Großsolter Straße,18,,54.66424434,9.45751124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpE9,24885,Sieverstedt,Großsolter Straße,18,a,54.66385079,9.45755236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEA,24885,Sieverstedt,Jalm,12,,54.6308182,9.43304153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEB,24885,Sieverstedt,Jalm,13,,54.63788452,9.42591244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEC,24885,Sieverstedt,Jalm,14,,54.63696736,9.42402182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpED,24885,Sieverstedt,Jalm,2,,54.63576049,9.4345519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEE,24885,Sieverstedt,Jalm,3,,54.6366067,9.43722484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEF,24885,Sieverstedt,Jalm,3,a,54.63630485,9.43632403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEG,24885,Sieverstedt,Jalm,4,,54.63566632,9.43389183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEH,24885,Sieverstedt,Jalm,5,,54.63594274,9.4365833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEI,24885,Sieverstedt,Jalm,5,a,54.63595596,9.43676564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEJ,24885,Sieverstedt,Jalm,6,,54.6357147,9.43353279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEK,24885,Sieverstedt,Jalm,7,,54.63564428,9.43545508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEL,24885,Sieverstedt,Jalm,8,,54.63558184,9.43247696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEM,24885,Sieverstedt,Jalm,9,,54.63527119,9.43453085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEN,24885,Sieverstedt,Kirchenweg,1,,54.64364144,9.4801061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEO,24885,Sieverstedt,Kirchenweg,2,,54.6432975,9.47986888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEP,24885,Sieverstedt,Krittenburg,1,,54.65789887,9.45905151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEQ,24885,Sieverstedt,Krittenburg,2,,54.65550309,9.46188387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpER,24885,Sieverstedt,Krittenburg,3,,54.65688945,9.46187939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpES,24885,Sieverstedt,Krittenburg,3,a,54.65684917,9.46164937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpET,24885,Sieverstedt,Krittenburg,4,,54.65610872,9.46119482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEU,24885,Sieverstedt,Krittenburg,5,,54.65723837,9.463343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEV,24885,Sieverstedt,Krittenburg,6,,54.65636595,9.46096516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEW,24885,Sieverstedt,Krittenburg,8,,54.65678946,9.46259384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEX,24885,Sieverstedt,Langstreng,1,,54.6381331,9.46191337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEY,24885,Sieverstedt,Langstreng,10,,54.63670446,9.46060709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEZ,24885,Sieverstedt,Langstreng,12,,54.63275901,9.45841283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEa,24885,Sieverstedt,Großsolter Straße,18,b,54.66353686,9.45755479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEb,24885,Sieverstedt,Großsolter Straße,18,c,54.6634664,9.45789919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEc,24885,Sieverstedt,Großsolter Straße,18,d,54.66363687,9.45792426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEd,24885,Sieverstedt,Großsolter Straße,2,,54.66431155,9.45464103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEe,24885,Sieverstedt,Großsolter Straße,20,,54.66422013,9.45789924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEf,24885,Sieverstedt,Großsolter Straße,22,,54.66518326,9.47079298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEg,24885,Sieverstedt,Großsolter Straße,24,,54.66718595,9.47551687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEh,24885,Sieverstedt,Großsolter Straße,3,,54.66930088,9.47793001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEi,24885,Sieverstedt,Großsolter Straße,4,,54.6642764,9.45522132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEj,24885,Sieverstedt,Großsolter Straße,6,,54.66427177,9.4555609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEk,24885,Sieverstedt,Großsolter Straße,8,,54.66426999,9.45588928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEl,24885,Sieverstedt,Grüner Weg,1,,54.64238053,9.47109602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEm,24885,Sieverstedt,Grüner Weg,13,,54.6457432,9.46423242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEn,24885,Sieverstedt,Grüner Weg,15,,54.64540353,9.46303742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEo,24885,Sieverstedt,Grüner Weg,2,,54.64204387,9.47200074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEp,24885,Sieverstedt,Grüner Weg,3,,54.64328059,9.47042942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEq,24885,Sieverstedt,Grüner Weg,4,,54.64258826,9.47173152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEr,24885,Sieverstedt,Grüner Weg,6,,54.6428172,9.47152441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEs,24885,Sieverstedt,Grüner Weg,6,a,54.64295861,9.47188965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEt,24885,Sieverstedt,Hörupkjer,1,,54.65087636,9.44033509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEu,24885,Sieverstedt,Hörupkjer,2,,54.65218699,9.43793358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEv,24885,Sieverstedt,Hörupkjer,3,,54.65219969,9.43610873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEw,24885,Sieverstedt,Hoshoy,2,,54.64434962,9.47866804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEx,24885,Sieverstedt,Hoshoy,4,,54.6446213,9.47867844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEy,24885,Sieverstedt,Jalm,1,,54.63712741,9.43708304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpEz,24885,Sieverstedt,Jalm,10,,54.63518615,9.43215225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF0,24885,Sieverstedt,Langstreng,16,,54.63044586,9.46364559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF1,24885,Sieverstedt,Langstreng,2,,54.63828648,9.46132681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF2,24885,Sieverstedt,Langstreng,3,,54.63805834,9.46147904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF3,24885,Sieverstedt,Langstreng,4,,54.63779278,9.46093326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF4,24885,Sieverstedt,Langstreng,6,,54.63745799,9.46089955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF5,24885,Sieverstedt,Langstreng,8,,54.63717512,9.46075853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF6,24885,Sieverstedt,Lehmland,10,,54.63774774,9.50391116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF7,24885,Sieverstedt,Lehmland,2,,54.63840091,9.49270331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF8,24885,Sieverstedt,Lehmland,4,,54.63831014,9.49257334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpF9,24885,Sieverstedt,Lehmland,6,,54.63862449,9.49324387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFA,24885,Sieverstedt,Oberdorf,10,,54.63588949,9.49143604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFB,24885,Sieverstedt,Oberdorf,11,,54.63514787,9.49237842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFC,24885,Sieverstedt,Oberdorf,12,,54.63565508,9.49161676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFD,24885,Sieverstedt,Oberdorf,13,,54.63465637,9.49260176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFE,24885,Sieverstedt,Oberdorf,14,,54.63537688,9.4917901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFF,24885,Sieverstedt,Oberdorf,16,,54.63506301,9.49189485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFG,24885,Sieverstedt,Oberdorf,18,,54.63476018,9.4921049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFH,24885,Sieverstedt,Oberdorf,2,,54.63735409,9.49063092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFI,24885,Sieverstedt,Oberdorf,20,,54.63349448,9.49242214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFJ,24885,Sieverstedt,Oberdorf,20,a,54.63330823,9.49251787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFK,24885,Sieverstedt,Oberdorf,3,,54.63714015,9.49180967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFL,24885,Sieverstedt,Oberdorf,4,,54.63713513,9.49076241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFM,24885,Sieverstedt,Oberdorf,5,,54.63655126,9.49175708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFN,24885,Sieverstedt,Oberdorf,6,,54.63667597,9.49009997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFO,24885,Sieverstedt,Oberdorf,7,,54.63612588,9.49226069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFP,24885,Sieverstedt,Oberdorf,8,,54.63650591,9.49115162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFQ,24885,Sieverstedt,Oberdorf,9,,54.63570645,9.49196429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFR,24885,Sieverstedt,Osterkjer,1,,54.63278359,9.50336088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFS,24885,Sieverstedt,Poppholz,1,,54.61669902,9.47327964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFT,24885,Sieverstedt,Poppholz,10,,54.61111353,9.47342059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFV,24885,Sieverstedt,Poppholz,12,,54.6164197,9.47261233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFW,24885,Sieverstedt,Poppholz,14,,54.61577731,9.47660017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFX,24885,Sieverstedt,Poppholz,16,,54.61589848,9.4776009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFZ,24885,Sieverstedt,Poppholz,2,,54.61867428,9.47004633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFa,24885,Sieverstedt,Lehmland,8,,54.63630286,9.50375869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFb,24885,Sieverstedt,Mittelweg,1,,54.66080249,9.4524915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFc,24885,Sieverstedt,Mittelweg,1,a,54.66050087,9.45239134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFd,24885,Sieverstedt,Mittelweg,1,b,54.6603256,9.45275158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFe,24885,Sieverstedt,Mittelweg,1,c,54.66014801,9.45285057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFf,24885,Sieverstedt,Mittelweg,2,,54.6606401,9.45311236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFg,24885,Sieverstedt,Mittelweg,3,,54.6609999,9.45242099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFh,24885,Sieverstedt,Mittelweg,5,,54.66114836,9.45214352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFi,24885,Sieverstedt,Mittelweg,6,,54.66219058,9.45246633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFj,24885,Sieverstedt,Moorweg,1,,54.64625977,9.48050775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFk,24885,Sieverstedt,Norderholz,1,,54.66749098,9.44150644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFl,24885,Sieverstedt,Norderholz,2,,54.66535198,9.43967142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFm,24885,Sieverstedt,Norderholz,3,,54.66500111,9.43898351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFn,24885,Sieverstedt,Norderholz,4,,54.66485583,9.43692022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFo,24885,Sieverstedt,Norderholz,5,,54.66449952,9.43774732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFp,24885,Sieverstedt,Nordermoorweg,1,,54.66613801,9.46326371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFq,24885,Sieverstedt,Norderstraße,1,,54.66400576,9.45087884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFr,24885,Sieverstedt,Norderstraße,2,,54.66281208,9.45209011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFs,24885,Sieverstedt,Norderstraße,3,,54.66314641,9.45128221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFt,24885,Sieverstedt,Norderstraße,4,,54.66295612,9.45261274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFu,24885,Sieverstedt,Norderstraße,5,,54.66307372,9.45195809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFv,24885,Sieverstedt,Norderstraße,5,a,54.6631065,9.45161783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFw,24885,Sieverstedt,Norderstraße,7,,54.66321436,9.45220945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFx,24885,Sieverstedt,Norderstraße,9,,54.66323234,9.45250063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFy,24885,Sieverstedt,Nordhöhe,4,,54.66236888,9.44978841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpFz,24885,Sieverstedt,Oberdorf,1,,54.63772978,9.49130392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG0,24885,Sieverstedt,Poppholz,3,,54.61639165,9.47650527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG1,24885,Sieverstedt,Poppholz,4,,54.61835657,9.47032725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG2,24885,Sieverstedt,Poppholz,6,,54.61626013,9.47083404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG3,24885,Sieverstedt,Poppholz,6,a,54.61608119,9.47051521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG4,24885,Sieverstedt,Poppholz,8,,54.61577814,9.47131379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG5,24885,Sieverstedt,Raiffeisenstraße,1,,54.63978821,9.46019685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG6,24885,Sieverstedt,Raiffeisenstraße,10,,54.63964462,9.46293242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG7,24885,Sieverstedt,Raiffeisenstraße,12,,54.63966084,9.46320314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG8,24885,Sieverstedt,Raiffeisenstraße,14,,54.63969167,9.46353687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpG9,24885,Sieverstedt,Raiffeisenstraße,16,,54.63967761,9.46398602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGA,24885,Sieverstedt,Reeshoe,9,,54.65785402,9.45237131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGB,24885,Sieverstedt,Ruiweg,1,,54.67250418,9.43967787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGC,24885,Sieverstedt,Sandberg,1,,54.63766637,9.46149931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGD,24885,Sieverstedt,Sandberg,10,,54.63721492,9.46242213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGE,24885,Sieverstedt,Sandberg,2,,54.63748229,9.46136755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGF,24885,Sieverstedt,Sandberg,3,,54.63764242,9.46177695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGG,24885,Sieverstedt,Sandberg,4,,54.63739204,9.46159831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGH,24885,Sieverstedt,Sandberg,5,,54.63755127,9.46200903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGI,24885,Sieverstedt,Sandberg,6,,54.63736182,9.46190974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGJ,24885,Sieverstedt,Sandberg,7,,54.6375219,9.46230682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGK,24885,Sieverstedt,Sandberg,8,,54.6372289,9.46215602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGL,24885,Sieverstedt,Sandberg,9,,54.63743078,9.46253746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGM,24885,Sieverstedt,Schleswiger Straße,1,,54.63931634,9.46122446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGN,24885,Sieverstedt,Schleswiger Straße,1,a,54.63932116,9.46154816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGO,24885,Sieverstedt,Schleswiger Straße,10,,54.63928336,9.46001336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGP,24885,Sieverstedt,Schleswiger Straße,11,,54.63401743,9.46800308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGQ,24885,Sieverstedt,Schleswiger Straße,12,,54.63907225,9.46036811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGR,24885,Sieverstedt,Schleswiger Straße,12,a,54.63879642,9.4596698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGS,24885,Sieverstedt,Schleswiger Straße,14,,54.63892708,9.46058545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGT,24885,Sieverstedt,Schleswiger Straße,16,,54.63437756,9.46649922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGU,24885,Sieverstedt,Schleswiger Straße,2,,54.64060207,9.45781912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGV,24885,Sieverstedt,Schleswiger Straße,3,,54.6385388,9.46212289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGW,24885,Sieverstedt,Schleswiger Straße,4,,54.64026901,9.45853842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGX,24885,Sieverstedt,Schleswiger Straße,4,a,54.64009648,9.45814907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGY,24885,Sieverstedt,Schleswiger Straße,5,,54.63828418,9.46251205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGZ,24885,Sieverstedt,Schleswiger Straße,6,,54.63989665,9.45925842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGa,24885,Sieverstedt,Raiffeisenstraße,18,,54.63992607,9.46569893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGb,24885,Sieverstedt,Raiffeisenstraße,2,,54.63951501,9.46074557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGc,24885,Sieverstedt,Raiffeisenstraße,20,,54.64001063,9.46607746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGd,24885,Sieverstedt,Raiffeisenstraße,22,,54.64012384,9.46662526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGe,24885,Sieverstedt,Raiffeisenstraße,24,,54.64021212,9.46698218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGf,24885,Sieverstedt,Raiffeisenstraße,3,,54.63976514,9.46073061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGg,24885,Sieverstedt,Raiffeisenstraße,4,,54.63960257,9.46116944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGh,24885,Sieverstedt,Raiffeisenstraße,5,,54.63989665,9.46163038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGi,24885,Sieverstedt,Raiffeisenstraße,6,,54.63962591,9.46165334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGj,24885,Sieverstedt,Raiffeisenstraße,6,a,54.63963794,9.46201859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGk,24885,Sieverstedt,Raiffeisenstraße,7,,54.63989134,9.46230079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGl,24885,Sieverstedt,Raiffeisenstraße,8,,54.63960716,9.46249556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGm,24885,Sieverstedt,Raiffeisenstraße,9,,54.63994191,9.46299267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGn,24885,Sieverstedt,Reeshoe,1,,54.65857191,9.45228851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGo,24885,Sieverstedt,Reeshoe,10,,54.65788284,9.45196455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGp,24885,Sieverstedt,Reeshoe,11,,54.65768229,9.45240648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGq,24885,Sieverstedt,Reeshoe,12,,54.65769888,9.45188977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGr,24885,Sieverstedt,Reeshoe,13,,54.65751333,9.45242449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGs,24885,Sieverstedt,Reeshoe,14,,54.65752569,9.45185315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGt,24885,Sieverstedt,Reeshoe,2,,54.65858454,9.45183125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGu,24885,Sieverstedt,Reeshoe,3,,54.65840401,9.45233636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGv,24885,Sieverstedt,Reeshoe,4,,54.65842296,9.45185325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGw,24885,Sieverstedt,Reeshoe,5,,54.65821631,9.45237619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGx,24885,Sieverstedt,Reeshoe,6,,54.65821874,9.45193418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGy,24885,Sieverstedt,Reeshoe,7,,54.65805148,9.45239657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpGz,24885,Sieverstedt,Reeshoe,8,,54.6580688,9.45194168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH0,24885,Sieverstedt,Schleswiger Straße,6,a,54.6398669,9.45831273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH1,24885,Sieverstedt,Schleswiger Straße,7,,54.63796561,9.46313771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH2,24885,Sieverstedt,Schleswiger Straße,8,,54.63960502,9.45968056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH3,24885,Sieverstedt,Schleswiger Straße,9,,54.63759877,9.4637971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH4,24885,Sieverstedt,Schleswiger Straße,9,a,54.63747726,9.46416631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH5,24885,Sieverstedt,Schmedebyer Straße,1,,54.65788113,9.4567905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH6,24885,Sieverstedt,Schmedebyer Straße,10,,54.65917,9.4542385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH7,24885,Sieverstedt,Schmedebyer Straße,11,,54.65849026,9.45460496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpH9,24885,Sieverstedt,Schmedebyer Straße,12,a,54.65969949,9.45427441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHA,24885,Sieverstedt,Schmedebyer Straße,35,,54.66330119,9.45290864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHB,24885,Sieverstedt,Schmedebyer Straße,35,a,54.66379902,9.45219895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHC,24885,Sieverstedt,Schmedebyer Straße,36,,54.66301321,9.45358658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHD,24885,Sieverstedt,Schmedebyer Straße,37,,54.66388049,9.45273564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHE,24885,Sieverstedt,Schmedebyer Straße,38,,54.66328324,9.45322596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHF,24885,Sieverstedt,Schmedebyer Straße,38,a,54.66334255,9.4536169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHG,24885,Sieverstedt,Schmedebyer Straße,39,,54.66390617,9.45290918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHH,24885,Sieverstedt,Schmedebyer Straße,4,,54.65829864,9.45626922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHI,24885,Sieverstedt,Schmedebyer Straße,40,,54.66361217,9.45342906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHJ,24885,Sieverstedt,Schmedebyer Straße,40,a,54.66387251,9.45364192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHK,24885,Sieverstedt,Schmedebyer Straße,40,b,54.66364522,9.45361913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHL,24885,Sieverstedt,Schmedebyer Straße,41,,54.664124,9.45345617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHM,24885,Sieverstedt,Schmedebyer Straße,42,,54.66402113,9.45397784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHN,24885,Sieverstedt,Schmedebyer Straße,44,,54.66410824,9.45426305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHO,24885,Sieverstedt,Schmedebyer Straße,46,,54.66384559,9.45438055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHP,24885,Sieverstedt,Schmedebyer Straße,5,,54.65799372,9.45574779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHQ,24885,Sieverstedt,Schmedebyer Straße,6,,54.65827702,9.45580213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHR,24885,Sieverstedt,Schmedebyer Straße,6,a,54.65827908,9.45596205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHS,24885,Sieverstedt,Schmedebyer Straße,6,b,54.65830998,9.45539096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHT,24885,Sieverstedt,Schmedebyer Straße,7,,54.65805327,9.45526929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHU,24885,Sieverstedt,Schmedebyer Straße,8,,54.65872559,9.45460803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHV,24885,Sieverstedt,Schmedebyer Straße,8,a,54.65856093,9.45504234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHW,24885,Sieverstedt,Schmedebyer Straße,9,,54.65803035,9.45492833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHX,24885,Sieverstedt,Schmiedeweg,1,,54.63768277,9.48701138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHY,24885,Sieverstedt,Schmiedeweg,1,a,54.63774029,9.48742626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHZ,24885,Sieverstedt,Schmiedeweg,10,,54.63817888,9.49006771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHa,24885,Sieverstedt,Schmedebyer Straße,12,b,54.65975885,9.45426283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHb,24885,Sieverstedt,Schmedebyer Straße,13,,54.65906091,9.45376524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHc,24885,Sieverstedt,Schmedebyer Straße,14,,54.66003435,9.45404767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHd,24885,Sieverstedt,Schmedebyer Straße,14,a,54.66033845,9.45460673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHe,24885,Sieverstedt,Schmedebyer Straße,14,b,54.65992246,9.45464971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHf,24885,Sieverstedt,Schmedebyer Straße,15,,54.65923331,9.45398327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHg,24885,Sieverstedt,Schmedebyer Straße,16,,54.66055028,9.45401666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHh,24885,Sieverstedt,Schmedebyer Straße,18,,54.6608914,9.45392981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHi,24885,Sieverstedt,Schmedebyer Straße,19,,54.66034228,9.45363868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHj,24885,Sieverstedt,Schmedebyer Straße,2,,54.65816819,9.45671188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHk,24885,Sieverstedt,Schmedebyer Straße,20,,54.66118558,9.45409004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHl,24885,Sieverstedt,Schmedebyer Straße,21,,54.6604172,9.45326554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHm,24885,Sieverstedt,Schmedebyer Straße,22,,54.66154776,9.4537522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHn,24885,Sieverstedt,Schmedebyer Straße,23,,54.66089939,9.45362661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHo,24885,Sieverstedt,Schmedebyer Straße,24,,54.66162412,9.45373509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHp,24885,Sieverstedt,Schmedebyer Straße,25,,54.661336,9.45340692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHq,24885,Sieverstedt,Schmedebyer Straße,26,,54.66179436,9.45360001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHr,24885,Sieverstedt,Schmedebyer Straße,27,,54.66163613,9.453263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHs,24885,Sieverstedt,Schmedebyer Straße,28,,54.66197158,9.45424812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHt,24885,Sieverstedt,Schmedebyer Straße,29,,54.66182376,9.45282632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHu,24885,Sieverstedt,Schmedebyer Straße,3,,54.6576792,9.45633818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHv,24885,Sieverstedt,Schmedebyer Straße,30,,54.66246272,9.45353135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHw,24885,Sieverstedt,Schmedebyer Straße,31,,54.66214025,9.45317592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHx,24885,Sieverstedt,Schmedebyer Straße,32,,54.66262907,9.45331919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHy,24885,Sieverstedt,Schmedebyer Straße,33,,54.66230955,9.4530504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpHz,24885,Sieverstedt,Schmedebyer Straße,34,,54.66280259,9.45357109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI0,24885,Sieverstedt,Schmiedeweg,11,,54.63850261,9.48998147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI1,24885,Sieverstedt,Schmiedeweg,12,,54.63824165,9.49074743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI2,24885,Sieverstedt,Schmiedeweg,13,,54.63841253,9.49031915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI3,24885,Sieverstedt,Schmiedeweg,15,,54.63874236,9.49168828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI4,24885,Sieverstedt,Schmiedeweg,2,,54.63807205,9.48831373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI5,24885,Sieverstedt,Schmiedeweg,3,,54.63808059,9.48730942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI6,24885,Sieverstedt,Schmiedeweg,3,a,54.6383547,9.48750166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI7,24885,Sieverstedt,Schmiedeweg,3,b,54.63832208,9.48694882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI8,24885,Sieverstedt,Schmiedeweg,4,,54.63826593,9.48873094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpI9,24885,Sieverstedt,Schmiedeweg,5,,54.63839041,9.48790748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIA,24885,Sieverstedt,Sieverstedter Straße,25,,54.64339531,9.47600033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIB,24885,Sieverstedt,Sieverstedter Straße,25,a,54.64381651,9.4761462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIC,24885,Sieverstedt,Sieverstedter Straße,27,,54.64348217,9.47663199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpID,24885,Sieverstedt,Sieverstedter Straße,29,,54.64359983,9.47706944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIE,24885,Sieverstedt,Sieverstedter Straße,31,,54.6438292,9.47714519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIF,24885,Sieverstedt,Sieverstedter Straße,33,,54.64388603,9.47787723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIG,24885,Sieverstedt,Sieverstedter Straße,35,,54.64441032,9.47925004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIH,24885,Sieverstedt,Sieverstedter Straße,37,,54.64464125,9.47946644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpII,24885,Sieverstedt,Sieverstedter Straße,39,,54.64519766,9.47996938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIJ,24885,Sieverstedt,Sieverstedter Straße,4,,54.64154405,9.47203503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIK,24885,Sieverstedt,Sieverstedter Straße,6,,54.64163448,9.4724315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIL,24885,Sieverstedt,Sieverstedter Straße,8,,54.64174379,9.47278228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIM,24885,Sieverstedt,Sieverstedter Straße,9,,54.64145822,9.46965581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIN,24885,Sieverstedt,Stenbusch,1,,54.636934,9.46125842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIO,24885,Sieverstedt,Stenbusch,10,,54.63645754,9.46225725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIP,24885,Sieverstedt,Stenbusch,2,,54.63674218,9.46118123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIQ,24885,Sieverstedt,Stenbusch,3,,54.6368764,9.46154894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIR,24885,Sieverstedt,Stenbusch,4,,54.63668438,9.46144216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIS,24885,Sieverstedt,Stenbusch,5,,54.63681174,9.46179601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIT,24885,Sieverstedt,Stenbusch,6,,54.63662073,9.46171409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIU,24885,Sieverstedt,Stenbusch,7,,54.63678556,9.46209021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIV,24885,Sieverstedt,Stenbusch,8,,54.63650322,9.46194788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIW,24885,Sieverstedt,Stenbusch,9,,54.63673677,9.46231552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIX,24885,Sieverstedt,Stenderupbusch,1,,54.62955922,9.47266194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIY,24885,Sieverstedt,Stenderupbusch,10,,54.62478862,9.47104457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIZ,24885,Sieverstedt,Stenderupbusch,12,,54.62471507,9.47101133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIa,24885,Sieverstedt,Schmiedeweg,6,,54.63827086,9.48921861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIb,24885,Sieverstedt,Schmiedeweg,7,,54.63846591,9.48898752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIc,24885,Sieverstedt,Schmiedeweg,8,,54.63835141,9.48971717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpId,24885,Sieverstedt,Schmiedeweg,9,,54.63846262,9.48934684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIe,24885,Sieverstedt,Sieverstedter Straße,1,,54.64079981,9.46766185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIf,24885,Sieverstedt,Sieverstedter Straße,10,,54.64185685,9.47312017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIg,24885,Sieverstedt,Sieverstedter Straße,11,,54.64211591,9.4724767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIh,24885,Sieverstedt,Sieverstedter Straße,12,,54.64247394,9.47411704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIi,24885,Sieverstedt,Sieverstedter Straße,13,,54.64238856,9.47268055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIj,24885,Sieverstedt,Sieverstedter Straße,14,,54.64276868,9.47552956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIk,24885,Sieverstedt,Sieverstedter Straße,15,,54.64225606,9.47317427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIl,24885,Sieverstedt,Sieverstedter Straße,16,,54.64314381,9.47657712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIm,24885,Sieverstedt,Sieverstedter Straße,17,,54.64259759,9.47380716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIn,24885,Sieverstedt,Sieverstedter Straße,18,,54.64318587,9.47690059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIo,24885,Sieverstedt,Sieverstedter Straße,19,,54.64285174,9.47436661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIp,24885,Sieverstedt,Sieverstedter Straße,2,,54.64151668,9.47158384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIq,24885,Sieverstedt,Sieverstedter Straße,2,a,54.64119229,9.47072542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIr,24885,Sieverstedt,Sieverstedter Straße,2,b,54.64126588,9.47099731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIs,24885,Sieverstedt,Sieverstedter Straße,2,c,54.64139123,9.4712624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIt,24885,Sieverstedt,Sieverstedter Straße,2,d,54.64130092,9.47145706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIu,24885,Sieverstedt,Sieverstedter Straße,20,,54.64328413,9.47752789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIv,24885,Sieverstedt,Sieverstedter Straße,21,,54.64312812,9.47494712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIw,24885,Sieverstedt,Sieverstedter Straße,22,,54.64407538,9.47946505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIx,24885,Sieverstedt,Sieverstedter Straße,23,,54.64322421,9.47532467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIy,24885,Sieverstedt,Sieverstedter Straße,23,a,54.64331038,9.47565241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpIz,24885,Sieverstedt,Sieverstedter Straße,24,,54.64428612,9.48017657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ0,24885,Sieverstedt,Stenderupbusch,14,,54.62302138,9.47054031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ1,24885,Sieverstedt,Stenderupbusch,16,,54.62220662,9.47029605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ2,24885,Sieverstedt,Stenderupbusch,2,,54.63104622,9.47267711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ3,24885,Sieverstedt,Stenderupbusch,3,,54.62941518,9.47275405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ4,24885,Sieverstedt,Stenderupbusch,4,,54.62974155,9.47173899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ5,24885,Sieverstedt,Stenderupbusch,5,,54.62916968,9.47259696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ6,24885,Sieverstedt,Stenderupbusch,6,,54.62757248,9.47198037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ7,24885,Sieverstedt,Stenderupbusch,7,,54.62900182,9.47278265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ8,24885,Sieverstedt,Stenderupbusch,8,,54.62700959,9.47178196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJ9,24885,Sieverstedt,Stenderupbusch,9,,54.62734312,9.47229742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJA,24885,Sieverstedt,Süderholz,3,,54.65092408,9.449727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJD,24885,Sieverstedt,Süderholz,7,,54.65191578,9.449988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJE,24885,Sieverstedt,Süderholz,7,a,54.65226198,9.44995408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJF,24885,Sieverstedt,Süderstraße,1,,54.6600788,9.4513493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJG,24885,Sieverstedt,Süderstraße,1,a,54.65972669,9.45134584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJH,24885,Sieverstedt,Süderstraße,2,,54.65978909,9.45177344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJI,24885,Sieverstedt,Süderstraße,3,,54.66015118,9.45173426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJJ,24885,Sieverstedt,Süderstraße,4,,54.65980967,9.45209115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJK,24885,Sieverstedt,Süderstraße,5,,54.66007104,9.45211122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJL,24885,Sieverstedt,Süderstraße,6,,54.65984714,9.45249403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJM,24885,Sieverstedt,Süderstraße,8,,54.65988189,9.4528929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJN,24885,Sieverstedt,Sünnerholm,1,,54.64057198,9.45878601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJO,24885,Sieverstedt,Sünnerholm,10,,54.64051529,9.46026244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJP,24885,Sieverstedt,Sünnerholm,11,,54.64087526,9.46034181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJQ,24885,Sieverstedt,Sünnerholm,12,,54.64055302,9.46057529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJR,24885,Sieverstedt,Sünnerholm,14,,54.64072285,9.46065406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJS,24885,Sieverstedt,Sünnerholm,16,,54.64095337,9.46081927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJT,24885,Sieverstedt,Sünnerholm,2,,54.64043374,9.45943648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJU,24885,Sieverstedt,Sünnerholm,3,,54.64062079,9.45912481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJV,24885,Sieverstedt,Sünnerholm,4,,54.64018585,9.4596324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJW,24885,Sieverstedt,Sünnerholm,5,,54.64067728,9.45941885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJX,24885,Sieverstedt,Sünnerholm,6,,54.6401739,9.46004527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJY,24885,Sieverstedt,Sünnerholm,6,a,54.64016377,9.46035559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJZ,24885,Sieverstedt,Sünnerholm,7,,54.64074291,9.45968684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJa,24885,Sieverstedt,Stenderuper Straße,1,,54.63797883,9.4737635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJb,24885,Sieverstedt,Stenderuper Straße,10,,54.64165729,9.4936266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJc,24885,Sieverstedt,Stenderuper Straße,11,,54.64195764,9.49326961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJd,24885,Sieverstedt,Stenderuper Straße,13,,54.64218001,9.49343486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJe,24885,Sieverstedt,Stenderuper Straße,15,,54.64244125,9.49372692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJf,24885,Sieverstedt,Stenderuper Straße,17,,54.64260579,9.49380825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJg,24885,Sieverstedt,Stenderuper Straße,2,,54.63765128,9.47412763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJh,24885,Sieverstedt,Stenderuper Straße,3,,54.63802101,9.47428921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJi,24885,Sieverstedt,Stenderuper Straße,4,,54.63777226,9.47475652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJj,24885,Sieverstedt,Stenderuper Straße,5,,54.63804306,9.47462671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJk,24885,Sieverstedt,Stenderuper Straße,5,a,54.63816218,9.48270089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJl,24885,Sieverstedt,Stenderuper Straße,6,,54.63778202,9.47491366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJm,24885,Sieverstedt,Stenderuper Straße,7,,54.63972496,9.4922348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJn,24885,Sieverstedt,Stenderuper Straße,8,,54.6399743,9.49270978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJo,24885,Sieverstedt,Stenderuper Straße,9,,54.64137743,9.4926013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJp,24885,Sieverstedt,Stenderuper Straße,9,a,54.64164124,9.49274898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJq,24885,Sieverstedt,Stenderupfeld,1,,54.62740248,9.4940976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJr,24885,Sieverstedt,Stenderupfeld,2,,54.62706898,9.49324341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJs,24885,Sieverstedt,Stenderupfeld,3,,54.62706979,9.49428746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJt,24885,Sieverstedt,Stenderupfeld,4,,54.62613897,9.49212897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJu,24885,Sieverstedt,Stenderupfeld,5,,54.62444477,9.50266578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJv,24885,Sieverstedt,Stenderupfeld,6,,54.62464841,9.49908172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJw,24885,Sieverstedt,Süderholz,1,,54.65054815,9.4497424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJx,24885,Sieverstedt,Süderholz,11,,54.65288035,9.45018993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJy,24885,Sieverstedt,Süderholz,13,,54.6533459,9.45033558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpJz,24885,Sieverstedt,Süderholz,2,,54.65218983,9.45054597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK0,24885,Sieverstedt,Sünnerholm,8,,54.64049205,9.45990811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK1,24885,Sieverstedt,Sünnerholm,9,,54.64080505,9.46000528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK2,24885,Sieverstedt,Thorwald,1,,54.64191508,9.49834739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK3,24885,Sieverstedt,Thorwald,3,,54.64196259,9.49865072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK4,24885,Sieverstedt,Thorwald,5,,54.64321213,9.49865008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK5,24885,Sieverstedt,Trollkjer,1,,54.6740182,9.43914109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK6,24885,Sieverstedt,Trollkjer,2,,54.6743033,9.43858506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK7,24885,Sieverstedt,Trollkjer,3,,54.67444525,9.43846076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK8,24885,Sieverstedt,Trollkjer,4,,54.67411375,9.43821893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpK9,24885,Sieverstedt,Trollkjer,5,,54.67417492,9.43707206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKA,24885,Sieverstedt,Zum Kieswerk,2,,54.66708069,9.46100856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKB,24885,Sieverstedt,Zum Kieswerk,3,,54.66841652,9.45877741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKC,24885,Sieverstedt,Zum Kieswerk,5,,54.67659133,9.45344061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKD,24885,Sieverstedt,Zum Kieswerk,7,,54.67814581,9.4541928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKa,24885,Sieverstedt,Ulmenallee,1,,54.64328712,9.47349376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKb,24885,Sieverstedt,Ulmenallee,2,,54.64402166,9.4743336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKc,24885,Sieverstedt,Ulmenallee,2,a,54.64392588,9.47548618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKd,24885,Sieverstedt,Ulmenallee,2,b,54.64368132,9.47481393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKe,24885,Sieverstedt,Ulmenallee,3,,54.64344492,9.47284543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKf,24885,Sieverstedt,Ulmenallee,3,a,54.64314399,9.47288015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKg,24885,Sieverstedt,Ulmenallee,3,b,54.64294564,9.47299766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKh,24885,Sieverstedt,Ulmenallee,3,c,54.64281147,9.47263672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKi,24885,Sieverstedt,Ulmenallee,4,,54.6439376,9.47402117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKj,24885,Sieverstedt,Ulmenallee,5,,54.64341024,9.47234478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKk,24885,Sieverstedt,Westerfeld,1,,54.6595858,9.45027823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKl,24885,Sieverstedt,Westerfeld,2,,54.65981328,9.44966745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKm,24885,Sieverstedt,Westerfeld,4,,54.65981039,9.44913243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKn,24885,Sieverstedt,Westerfeld,5,,54.6595359,9.44958356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKo,24885,Sieverstedt,Westerfeld,7,,54.65945516,9.44923071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKp,24885,Sieverstedt,Westerstenderup,1,,54.62664491,9.46252249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKq,24885,Sieverstedt,Westerstenderup,10,,54.62714073,9.45625183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKr,24885,Sieverstedt,Westerstenderup,12,,54.62787918,9.44803698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKs,24885,Sieverstedt,Westerstenderup,2,,54.62790611,9.46500496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKt,24885,Sieverstedt,Westerstenderup,3,,54.62567897,9.46033948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKu,24885,Sieverstedt,Westerstenderup,4,,54.626947,9.46228171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKv,24885,Sieverstedt,Westerstenderup,5,,54.62414021,9.45704931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKw,24885,Sieverstedt,Westerstenderup,6,,54.62686286,9.4619694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKx,24885,Sieverstedt,Westerstenderup,7,,54.62330432,9.45526423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKy,24885,Sieverstedt,Westerstenderup,8,,54.62611655,9.4593908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NpKz,24885,Sieverstedt,Zum Kieswerk,1,,54.66717114,9.45850941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MbEb,24885,Sieverstedt,Sieverstedter Straße,30,,54.64523971,9.48154333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Q0zu,24885,Sieverstedt,Norderstraße,2,a,54.66238752,9.45160615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TXe8,24885,Sieverstedt,Jalm,2,a,54.63633027,9.43552531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UQTB,24885,Sieverstedt,Oberdorf,13,b,54.63467906,9.49309839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y8xF,24885,Sieverstedt,Ballbek,4,,54.67347541,9.45054083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZsYc,24885,Sieverstedt,Süderstraße,10,,54.65990344,9.45331571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZsYf,24885,Sieverstedt,Schmedebyer Straße,17,a,54.65982689,9.45383494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZsYj,24885,Sieverstedt,Schmedebyer Straße,17,,54.6595495,9.453902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000562ql,24885,Sieverstedt,Großsolter Straße,18,e,54.66369375,9.45791648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056NiH,24885,Sieverstedt,Flensburger Straße,15,,54.66244933,9.45038194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056NiI,24885,Sieverstedt,Flensburger Straße,17,,54.66252024,9.45036006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bcms,24885,Sieverstedt,Ulmenallee,1,a,54.64322707,9.47316168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LZ6P,24885,Sieverstedt,Flensburger Straße,20,a,54.66272129,9.45081578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LeBZ,24885,Sieverstedt,Jalm,2,b,54.63607511,9.43547397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LeC0,24885,Sieverstedt,Jalm,2,c,54.63602268,9.43526822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005M1a9,24885,Sieverstedt,Süderholz,5,,54.6512363,9.44979944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005M1af,24885,Sieverstedt,Süderholz,5,a,54.65107404,9.44961113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9b,24885,Sieverstedt,Schmedebyer Straße,10,a,54.65922779,9.45486549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9c,24885,Sieverstedt,Schmedebyer Straße,10,b,54.65928348,9.4548538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9d,24885,Sieverstedt,Schmedebyer Straße,10,c,54.65934201,9.45484218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9e,24885,Sieverstedt,Schmedebyer Straße,10,d,54.65940059,9.45482067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9f,24885,Sieverstedt,Schmedebyer Straße,10,e,54.65946339,9.45481151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9g,24885,Sieverstedt,Schmedebyer Straße,10,f,54.6595248,9.45479745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Sz9h,24885,Sieverstedt,Schmedebyer Straße,10,g,54.65957477,9.45478815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SzAM,24885,Sieverstedt,Dweracker,11,,54.64238376,9.46911862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z3lh,24885,Sieverstedt,Schmiedeweg,7,a,54.63857252,9.48843367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005e3bm,24885,Sieverstedt,Großsolter Straße,20,a,54.66394773,9.45788583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jvDJ,24885,Sieverstedt,Langstreng,6,a,54.63732969,9.46016466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jvDk,24885,Sieverstedt,Langstreng,10,a,54.63701412,9.46046538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vQwF,24885,Sieverstedt,Ulmenallee,5,a,54.64318385,9.47239907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vwjI,24885,Sieverstedt,Stenderupbusch,11,,54.61992329,9.47052316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060XCU,24885,Sieverstedt,Schmedebyer Straße,11,a,54.65866716,9.45440032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060XCZ,24885,Sieverstedt,Schmedebyer Straße,11,b,54.65880082,9.45398257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H4S7,24885,Sieverstedt,Sieverstedter Straße,41,,54.64540705,9.48090207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H4S8,24885,Sieverstedt,Sieverstedter Straße,41,a,54.64547972,9.48102926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006LJ4O,24885,Sieverstedt,Flensburger Straße,7,a,54.66091232,9.45061766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006LJ4P,24885,Sieverstedt,Flensburger Straße,7,b,54.6610501,9.4502407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006LJ4V,24885,Sieverstedt,Flensburger Straße,7,c,54.66116158,9.45056759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NIkB,24885,Sieverstedt,Grönshoy,11,,54.63632828,9.4876174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NIkG,24885,Sieverstedt,Grönshoy,9,,54.63623289,9.48799463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NIkN,24885,Sieverstedt,Grönshoy,7,,54.63628466,9.48839139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NIkX,24885,Sieverstedt,Grönshoy,5,,54.63619057,9.48873847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W0dz,24885,Sieverstedt,Norderholz,4,a,54.66500138,9.43710281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Xs6i,24885,Sieverstedt,Gardeng,7,,54.66183626,9.46546054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Xs6n,24885,Sieverstedt,Gardeng,4,,54.66162877,9.46560693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ZcIE,24885,Sieverstedt,Englück,6,a,54.63843452,9.46411912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006b14T,24885,Sieverstedt,Stenderupfeld,3,a,54.62608106,9.49519059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pqXP,24885,Sieverstedt,Flensburger Straße,10,,54.66043793,9.45133427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006t2BF,24885,Sieverstedt,Zum Elmholz,5,,54.60995052,9.48916669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006uVEu,24885,Sieverstedt,Mittelweg,4,,54.66091888,9.45280078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000704b8,24885,Sieverstedt,Gardeng,3,,54.66150327,9.4544835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000704b9,24885,Sieverstedt,Gardeng,5,,54.66151285,9.4546529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000704bf,24885,Sieverstedt,Gardeng,2,,54.66103584,9.45445356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070Vs8,24885,Sieverstedt,Westerstenderup,4,a,54.62701709,9.46248309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007268q,24885,Sieverstedt,Mittelweg,8,,54.66285426,9.45247256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077URy,24885,Sieverstedt,Schmedebyer Straße,30,a,54.66248065,9.45422802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000782JL,24885,Sieverstedt,Langstreng,10,b,54.63697588,9.46082667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078xxg,24885,Sieverstedt,Schleswiger Straße,9,b,54.6369293,9.46464023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JJ9C,24885,Sieverstedt,Mittelweg,7,,54.6619096,9.45210205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JJ9H,24885,Sieverstedt,Mittelweg,9,,54.66190334,9.45183788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JJ9M,24885,Sieverstedt,Mittelweg,13,,54.66199895,9.45213027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JJ9R,24885,Sieverstedt,Mittelweg,11,,54.66195025,9.4518246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LWdg,24885,Sieverstedt,Westerstenderup,11,,54.61657362,9.44959603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TMVg,24885,Sieverstedt,Schmedebyer Straße,10,h,54.65955558,9.45417088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TdAW,24885,Sieverstedt,Reeshoe,1,a,54.65874321,9.45198216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TdAX,24885,Sieverstedt,Reeshoe,1,b,54.65871494,9.45205108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Tdlv,24885,Sieverstedt,Sieverstedter Straße,16,a,54.64306784,9.47605291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Tdlw,24885,Sieverstedt,Sieverstedter Straße,16,b,54.64308629,9.47612191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007avZW,24885,Sieverstedt,Jalm,3,b,54.63631176,9.43672048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007efdt,24885,Sieverstedt,Schmedebyer Straße,32,a,54.66262436,9.45373102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ezVA,24885,Sieverstedt,Angelboweg,1,c,54.63901756,9.45942003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ykv8,24885,Sieverstedt,Wester-Heide,1,,54.62496973,9.44850732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ei0K,24885,Sieverstedt,Großsolter Straße,3,a,54.66930167,9.47817616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o1Q8,24885,Sieverstedt,Raiffeisenstraße,10,a,54.63970902,9.46272992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o1Q9,24885,Sieverstedt,Raiffeisenstraße,10,b,54.63971827,9.4628321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o1Qa,24885,Sieverstedt,Raiffeisenstraße,10,c,54.63972681,9.46292812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rl0L,24885,Sieverstedt,Norderstraße,5,b,54.66319323,9.45190943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zGN0,24885,Sieverstedt,Jalm,6,a,54.63574236,9.43364144

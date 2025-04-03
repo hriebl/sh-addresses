@@ -1,0 +1,845 @@
+# Amtliche Adressen für die Postleitzahl 21516
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8XV,21516,Schulendorf,Alte Ziegelei,2,,53.502878,10.56053615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8XW,21516,Schulendorf,Alte Ziegelei,2,a,53.50245272,10.56048494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8XX,21516,Schulendorf,Alte Ziegelei,5,,53.50292534,10.56001906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8XY,21516,Schulendorf,Alte Ziegelei,7,,53.50274357,10.55999829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8XZ,21516,Schulendorf,Alter Gutsweg,1,a,53.49652056,10.55885458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y0,21516,Schulendorf,Alter Gutsweg,2,,53.4961988,10.55758291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y1,21516,Schulendorf,An der Bahn,10,,53.49848331,10.5630944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y2,21516,Schulendorf,An der Bahn,12,,53.49844846,10.56336891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y3,21516,Schulendorf,An der Bahn,14,,53.49835145,10.5636131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y4,21516,Schulendorf,An der Bahn,14,b,53.49828033,10.56385926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y5,21516,Schulendorf,An der Bahn,16,,53.49819342,10.56422248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y6,21516,Schulendorf,An der Bahn,18,,53.4980196,10.56471219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y7,21516,Schulendorf,An der Bahn,2,,53.49889792,10.56159933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y8,21516,Schulendorf,An der Bahn,2,a,53.49881821,10.56192481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Y9,21516,Schulendorf,An der Bahn,20,,53.49794419,10.56511366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YA,21516,Schulendorf,Bergstraße,11,a,53.50028997,10.5612728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YB,21516,Schulendorf,Bergstraße,11,b,53.50036278,10.56127888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YC,21516,Schulendorf,Bergstraße,11,c,53.5005436,10.56130594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YD,21516,Schulendorf,Bergstraße,11,d,53.50070306,10.56140359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YE,21516,Schulendorf,Bergstraße,12,,53.498317,10.56161822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YF,21516,Schulendorf,Bergstraße,13,,53.50094985,10.56134492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YG,21516,Schulendorf,Bergstraße,14,,53.4987661,10.56107332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YH,21516,Schulendorf,Bergstraße,16,,53.49970932,10.56180248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YI,21516,Schulendorf,Bergstraße,2,,53.49587052,10.56000649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YJ,21516,Schulendorf,Bergstraße,20,,53.50008039,10.56195966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YK,21516,Schulendorf,Bergstraße,21,,53.5015737,10.56153472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YL,21516,Schulendorf,Bergstraße,21,c,53.50207794,10.5617499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YM,21516,Schulendorf,Bergstraße,21,d,53.50219595,10.56195749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YN,21516,Schulendorf,Bergstraße,21,e,53.50231389,10.56210712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YO,21516,Schulendorf,Bergstraße,21,f,53.50244325,10.56224413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YP,21516,Schulendorf,Bergstraße,21,g,53.50257955,10.56235742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YQ,21516,Schulendorf,Bergstraße,21,h,53.50271941,10.56252545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YR,21516,Schulendorf,Bergstraße,21,i,53.502887,10.56252615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YS,21516,Schulendorf,Bergstraße,21,j,53.50300873,10.5627096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YT,21516,Schulendorf,Bergstraße,21,k,53.50315395,10.56275321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YU,21516,Schulendorf,Bergstraße,21,l,53.5032959,10.56282851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YV,21516,Schulendorf,Bergstraße,21,m,53.50344749,10.56289481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YW,21516,Schulendorf,Bergstraße,21,n,53.5036067,10.56296828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YX,21516,Schulendorf,Bergstraße,22,,53.50030757,10.56201021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YY,21516,Schulendorf,Bergstraße,23,,53.50696172,10.56586488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8YZ,21516,Schulendorf,Bergstraße,24,,53.50055132,10.56209385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yb,21516,Schulendorf,An der Bahn,24,,53.49769239,10.56593069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yc,21516,Schulendorf,An der Bahn,28,,53.4975837,10.56624769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yd,21516,Schulendorf,An der Bahn,30,,53.49748828,10.56654335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Ye,21516,Schulendorf,An der Bahn,32,,53.4973655,10.56680961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yf,21516,Schulendorf,An der Bahn,34,,53.49725181,10.56715906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yg,21516,Schulendorf,An der Bahn,4,,53.49874575,10.56228959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yh,21516,Schulendorf,An der Bahn,6,,53.49865887,10.5626091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yi,21516,Schulendorf,An der Bahn,8,,53.4985534,10.56284217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yj,21516,Schulendorf,Bahnhofstraße,1,,53.49881763,10.55837233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yk,21516,Schulendorf,Bahnhofstraße,1,a,53.4990794,10.55817755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yl,21516,Schulendorf,Bahnhofstraße,10,,53.49896005,10.55869928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Ym,21516,Schulendorf,Bahnhofstraße,12,,53.49922523,10.55851634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yn,21516,Schulendorf,Bahnhofstraße,14,,53.49958473,10.55828275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yo,21516,Schulendorf,Bahnhofstraße,2,,53.49791979,10.55962336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yp,21516,Schulendorf,Bahnhofstraße,3,,53.49947497,10.55796735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yq,21516,Schulendorf,Bahnhofstraße,4,,53.49823856,10.5592583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yr,21516,Schulendorf,Bahnhofstraße,5,,53.49985187,10.5588243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Ys,21516,Schulendorf,Bahnhofstraße,6,,53.49849904,10.55924919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yt,21516,Schulendorf,Blumenweg,1,,53.4947992,10.57267808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yu,21516,Schulendorf,Blumenweg,2,,53.49485651,10.57309339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yv,21516,Schulendorf,Blumenweg,3,,53.49516698,10.57279096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yw,21516,Schulendorf,Blumenweg,4,,53.49511315,10.57319982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yx,21516,Schulendorf,Bergstraße,1,,53.49598447,10.55946252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yy,21516,Schulendorf,Bergstraße,10,,53.49841349,10.56096922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Yz,21516,Schulendorf,Bergstraße,10,a,53.49848908,10.56132081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z0,21516,Schulendorf,Bergstraße,25,,53.50767993,10.56558445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z1,21516,Schulendorf,Bergstraße,25,a,53.50803457,10.56518454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z2,21516,Schulendorf,Bergstraße,26,,53.50088027,10.5618964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z3,21516,Schulendorf,Bergstraße,27,,53.50740934,10.56595485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z4,21516,Schulendorf,Bergstraße,28,,53.50099959,10.56194214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z5,21516,Schulendorf,Bergstraße,29,,53.50760714,10.56566949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z6,21516,Schulendorf,Bergstraße,3,,53.49817655,10.55975818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z7,21516,Schulendorf,Bergstraße,3,a,53.497883,10.56013075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z8,21516,Schulendorf,Bergstraße,30,,53.50148067,10.56188623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Z9,21516,Schulendorf,Bergstraße,31,,53.50699761,10.56669774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZA,21516,Schulendorf,Bergstraße,7,b,53.49937231,10.56045367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZB,21516,Schulendorf,Bergstraße,8,,53.49824285,10.56068478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZD,21516,Schulendorf,Büchener Straße,1,,53.50108993,10.56242587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZE,21516,Schulendorf,Büchener Straße,2,,53.50083404,10.56247885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZF,21516,Schulendorf,Büchener Straße,3,,53.5009546,10.56325813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZG,21516,Schulendorf,Büchener Straße,4,,53.50063725,10.56296992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZH,21516,Schulendorf,Büchener Straße,5,,53.50017272,10.565003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZI,21516,Schulendorf,Büchener Straße,5,a,53.50004616,10.56534857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZJ,21516,Schulendorf,Büchener Straße,6,,53.49986161,10.56484905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZK,21516,Schulendorf,Büchener Straße,6,a,53.49973696,10.56507992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZL,21516,Schulendorf,Büchener Straße,7,,53.49995136,10.56564967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZM,21516,Schulendorf,Büchener Straße,7,a,53.49991797,10.56602354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZN,21516,Schulendorf,Büchener Straße,8,,53.49971186,10.56539521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZO,21516,Schulendorf,Büchener Straße,9,,53.49967255,10.56620097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZP,21516,Schulendorf,Dorfstraße,1,,53.49554636,10.55970192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZQ,21516,Schulendorf,Dorfstraße,10,a,53.49494294,10.56032266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZR,21516,Schulendorf,Dorfstraße,10,b,53.49452944,10.56002949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZS,21516,Schulendorf,Dorfstraße,11,,53.49409329,10.56336342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZT,21516,Schulendorf,Dorfstraße,12,,53.49480538,10.56064918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZU,21516,Schulendorf,Dorfstraße,13,,53.49385745,10.56393976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZV,21516,Schulendorf,Dorfstraße,14,,53.49451854,10.56167573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZW,21516,Schulendorf,Dorfstraße,15,,53.49354654,10.56461786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZX,21516,Schulendorf,Dorfstraße,16,,53.49424357,10.56164744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZY,21516,Schulendorf,Dorfstraße,17,,53.49340583,10.56512818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8ZZ,21516,Schulendorf,Dorfstraße,17,a,53.49363649,10.56586847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Za,21516,Schulendorf,Bergstraße,32,a,53.50205241,10.56269922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zb,21516,Schulendorf,Bergstraße,32,b,53.50205856,10.56227454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zc,21516,Schulendorf,Bergstraße,33,,53.50707277,10.56687882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zd,21516,Schulendorf,Bergstraße,34,,53.5023759,10.56289433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Ze,21516,Schulendorf,Bergstraße,35,,53.50770937,10.56703098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zf,21516,Schulendorf,Bergstraße,36,,53.5026936,10.56297178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zg,21516,Schulendorf,Bergstraße,36,a,53.50282848,10.56326231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zh,21516,Schulendorf,Bergstraße,38,,53.50298147,10.56313464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zi,21516,Schulendorf,Bergstraße,40,,53.50326307,10.56331633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zj,21516,Schulendorf,Bergstraße,42,,53.5034878,10.56340709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zk,21516,Schulendorf,Bergstraße,44,,53.50616163,10.56631885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zl,21516,Schulendorf,Bergstraße,46,,53.50633225,10.56665585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zm,21516,Schulendorf,Bergstraße,46,a,53.50653417,10.5666968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zn,21516,Schulendorf,Bergstraße,48,,53.50670107,10.56678758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zo,21516,Schulendorf,Bergstraße,5,,53.49857726,10.56020298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zp,21516,Schulendorf,Bergstraße,5,a,53.49875738,10.56053258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zq,21516,Schulendorf,Bergstraße,5,b,53.49891893,10.56041676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zr,21516,Schulendorf,Bergstraße,50,,53.50677062,10.56693362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zs,21516,Schulendorf,Bergstraße,52,,53.50681609,10.56718276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zt,21516,Schulendorf,Bergstraße,54,,53.50687232,10.56739541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zu,21516,Schulendorf,Bergstraße,58,,53.50699358,10.56780336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zv,21516,Schulendorf,Bergstraße,6,,53.49779693,10.56048269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zw,21516,Schulendorf,Bergstraße,62,,53.50721261,10.56817811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zx,21516,Schulendorf,Bergstraße,64,,53.50710157,10.56903357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zy,21516,Schulendorf,Bergstraße,66,,53.507415,10.56926495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L8Zz,21516,Schulendorf,Bergstraße,7,a,53.49905067,10.56061924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L900,21516,Schulendorf,Dorfstraße,18,,53.49436272,10.56199502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L901,21516,Schulendorf,Dorfstraße,18,a,53.49436272,10.56199502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L902,21516,Schulendorf,Dorfstraße,2,,53.49527305,10.55916922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L903,21516,Schulendorf,Dorfstraße,20,a,53.49393574,10.56199648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L904,21516,Schulendorf,Dorfstraße,20,b,53.49392361,10.56190731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L905,21516,Schulendorf,Dorfstraße,22,,53.49387322,10.56145714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L906,21516,Schulendorf,Dorfstraße,26,,53.49389064,10.56305466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L907,21516,Schulendorf,Dorfstraße,26,a,53.49393329,10.56294357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L908,21516,Schulendorf,Dorfstraße,28,,53.49371115,10.56340433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L909,21516,Schulendorf,Dorfstraße,3,,53.49543399,10.56019697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90A,21516,Schulendorf,Lauenburger Straße,10,,53.48415098,10.52559151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90B,21516,Schulendorf,Lauenburger Straße,2,,53.49191653,10.51425776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90C,21516,Schulendorf,Lauenburger Straße,3,,53.4861221,10.52405082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90D,21516,Schulendorf,Lauenburger Straße,4,,53.48522791,10.52418431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90E,21516,Schulendorf,Lauenburger Straße,6,,53.48463478,10.52473667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90R,21516,Schulendorf,Mühlenstraße,1,,53.49321416,10.56538808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90S,21516,Schulendorf,Mühlenstraße,12,a,53.49257154,10.56803721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90T,21516,Schulendorf,Mühlenstraße,12,b,53.49251717,10.56820536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90U,21516,Schulendorf,Mühlenstraße,13,,53.49292633,10.56852966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90V,21516,Schulendorf,Mühlenstraße,14,,53.49252545,10.5689355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90W,21516,Schulendorf,Mühlenstraße,14,a,53.49249044,10.56930964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90X,21516,Schulendorf,Mühlenstraße,15,,53.49285862,10.56894786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90Y,21516,Schulendorf,Mühlenstraße,16,,53.4923762,10.5696516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90Z,21516,Schulendorf,Mühlenstraße,17,a,53.49286145,10.56931548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90a,21516,Schulendorf,Dorfstraße,30,,53.49352548,10.56390807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90b,21516,Schulendorf,Dorfstraße,32,,53.49329059,10.56419468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90c,21516,Schulendorf,Dorfstraße,34,,53.49305973,10.56382026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90d,21516,Schulendorf,Dorfstraße,4,,53.4953341,10.55961073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90e,21516,Schulendorf,Dorfstraße,5,,53.49527114,10.56068989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90f,21516,Schulendorf,Dorfstraße,5,b,53.49543716,10.56120239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90g,21516,Schulendorf,Dorfstraße,6,,53.4949166,10.55993312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90h,21516,Schulendorf,Dorfstraße,7,,53.49524037,10.56143075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90i,21516,Schulendorf,Dorfstraße,7,a,53.4949935,10.56124585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90j,21516,Schulendorf,Dorfstraße,7,b,53.49493178,10.56140475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90k,21516,Schulendorf,Dorfstraße,7,c,53.49514846,10.56174962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90l,21516,Schulendorf,Dorfstraße,8,,53.49509483,10.56015101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90m,21516,Schulendorf,Dorfstraße,9,,53.49464788,10.56211825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90n,21516,Schulendorf,Grabauer Straße,1,,53.50125455,10.56130844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90o,21516,Schulendorf,Grabauer Straße,11,,53.5021321,10.55943775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90p,21516,Schulendorf,Grabauer Straße,13,,53.5022951,10.5590977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90q,21516,Schulendorf,Grabauer Straße,15,,53.5024851,10.55897853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90r,21516,Schulendorf,Grabauer Straße,17,,53.50259306,10.55878169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90s,21516,Schulendorf,Grabauer Straße,19,,53.50196021,10.55690642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90t,21516,Schulendorf,Grabauer Straße,2,,53.50213377,10.56024033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90u,21516,Schulendorf,Grabauer Straße,3,,53.50131075,10.56100521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90v,21516,Schulendorf,Grabauer Straße,4,,53.50243235,10.55969189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90w,21516,Schulendorf,Grabauer Straße,5,,53.50139769,10.56061501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90x,21516,Schulendorf,Grabauer Straße,6,,53.50288211,10.55933027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90y,21516,Schulendorf,Grabauer Straße,7,,53.50168701,10.56035338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L90z,21516,Schulendorf,Lauenburger Straße,1,,53.49222504,10.51571031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L910,21516,Schulendorf,Mühlenstraße,17,b,53.4927787,10.56939462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L911,21516,Schulendorf,Mühlenstraße,18,,53.49231661,10.57033532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L912,21516,Schulendorf,Mühlenstraße,18,a,53.49195136,10.57006512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L913,21516,Schulendorf,Mühlenstraße,19,,53.492757,10.56971812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L914,21516,Schulendorf,Mühlenstraße,19,a,53.49278962,10.57018406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L915,21516,Schulendorf,Mühlenstraße,19,c,53.49369295,10.57136846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L916,21516,Schulendorf,Mühlenstraße,19,d,53.49374068,10.57133982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L917,21516,Schulendorf,Mühlenstraße,2,,53.49285042,10.56562216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L918,21516,Schulendorf,Mühlenstraße,20,,53.49237089,10.57084337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L919,21516,Schulendorf,Mühlenstraße,21,,53.49375468,10.57103103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91A,21516,Schulendorf,Mühlenstraße,8,b,53.49267454,10.56672251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91B,21516,Schulendorf,Mühlenstraße,9,,53.49300572,10.56770859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91C,21516,Schulendorf,Pommernweg,1,,53.49385184,10.57210668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91D,21516,Schulendorf,Pommernweg,10,,53.49356056,10.57325137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91E,21516,Schulendorf,Pommernweg,2,,53.4936557,10.57214077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91F,21516,Schulendorf,Pommernweg,3,,53.49381315,10.57236882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91G,21516,Schulendorf,Pommernweg,4,,53.49357609,10.57243702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91H,21516,Schulendorf,Pommernweg,5,,53.49377181,10.57263229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91I,21516,Schulendorf,Pommernweg,6,,53.49356906,10.57270422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91J,21516,Schulendorf,Pommernweg,7,,53.49378873,10.57291778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91K,21516,Schulendorf,Pommernweg,8,,53.49349877,10.57293997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91L,21516,Schulendorf,Pommernweg,9,,53.49374918,10.57321599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91M,21516,Schulendorf,Postweg,1,,53.49219299,10.56597411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91N,21516,Schulendorf,Postweg,2,,53.49226501,10.56558263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91O,21516,Schulendorf,Postweg,2,a,53.49198173,10.56527535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91P,21516,Schulendorf,Postweg,2,b,53.49191912,10.56520177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91Q,21516,Schulendorf,Postweg,3,,53.49192668,10.56566402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91R,21516,Schulendorf,Postweg,5,,53.49171992,10.56541149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91S,21516,Schulendorf,Postweg,6,,53.49176332,10.5643247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91T,21516,Schulendorf,Postweg,7,,53.49152139,10.56520301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91U,21516,Schulendorf,Raiffeisenstraße,1,,53.49290131,10.56504484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91V,21516,Schulendorf,Raiffeisenstraße,1,a,53.49277609,10.56489123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91W,21516,Schulendorf,Raiffeisenstraße,1,b,53.49273996,10.56485069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91X,21516,Schulendorf,Raiffeisenstraße,10,,53.4920538,10.56362709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91Y,21516,Schulendorf,Raiffeisenstraße,10,a,53.4919845,10.56339942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91Z,21516,Schulendorf,Raiffeisenstraße,12,,53.49173468,10.5632526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91a,21516,Schulendorf,Mühlenstraße,21,a,53.49402617,10.57111887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91b,21516,Schulendorf,Mühlenstraße,21,b,53.4942005,10.57109709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91c,21516,Schulendorf,Mühlenstraße,22,,53.49293574,10.57087525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91d,21516,Schulendorf,Mühlenstraße,22,a,53.49286679,10.57077549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91e,21516,Schulendorf,Mühlenstraße,23,,53.49434838,10.57112163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91f,21516,Schulendorf,Mühlenstraße,24,a,53.49340097,10.57177142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91g,21516,Schulendorf,Mühlenstraße,24,b,53.4935155,10.57183671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91h,21516,Schulendorf,Mühlenstraße,25,,53.49463673,10.57128395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91i,21516,Schulendorf,Mühlenstraße,26,,53.4940341,10.57175676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91j,21516,Schulendorf,Mühlenstraße,27,,53.49500877,10.5714146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91k,21516,Schulendorf,Mühlenstraße,28,,53.49422733,10.57150888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91l,21516,Schulendorf,Mühlenstraße,29,,53.49527363,10.57153024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91m,21516,Schulendorf,Mühlenstraße,3,,53.49301281,10.56572529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91n,21516,Schulendorf,Mühlenstraße,3,a,53.49334395,10.56600074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91o,21516,Schulendorf,Mühlenstraße,30,,53.49442685,10.5716137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91p,21516,Schulendorf,Mühlenstraße,31,,53.49555246,10.57163497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91q,21516,Schulendorf,Mühlenstraße,32,,53.49462744,10.57170692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91r,21516,Schulendorf,Mühlenstraße,34,,53.49491052,10.57184961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91s,21516,Schulendorf,Mühlenstraße,36,,53.49511344,10.57189027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91t,21516,Schulendorf,Mühlenstraße,38,,53.49532478,10.57198601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91u,21516,Schulendorf,Mühlenstraße,4,,53.49279198,10.56598743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91w,21516,Schulendorf,Mühlenstraße,6,,53.49276826,10.56622892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91x,21516,Schulendorf,Mühlenstraße,7,a,53.49299083,10.56685763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91y,21516,Schulendorf,Mühlenstraße,7,b,53.49295794,10.56697283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L91z,21516,Schulendorf,Mühlenstraße,8,a,53.4926731,10.56660793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L920,21516,Schulendorf,Raiffeisenstraße,14,a,53.49153383,10.56303347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L921,21516,Schulendorf,Raiffeisenstraße,14,b,53.49147982,10.56297139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L922,21516,Schulendorf,Raiffeisenstraße,14,c,53.49138192,10.56284262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L923,21516,Schulendorf,Raiffeisenstraße,16,a,53.49127511,10.56269366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L924,21516,Schulendorf,Raiffeisenstraße,16,b,53.49119725,10.56263971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L925,21516,Schulendorf,Raiffeisenstraße,18,,53.49107033,10.5624675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L926,21516,Schulendorf,Raiffeisenstraße,2,,53.49308061,10.56481016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L927,21516,Schulendorf,Raiffeisenstraße,2,a,53.49291717,10.56457416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L928,21516,Schulendorf,Raiffeisenstraße,20,,53.49096962,10.5617601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L929,21516,Schulendorf,Raiffeisenstraße,22,,53.4899495,10.56098817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92A,21516,Schulendorf,Schmiedestraße,9,,53.49773039,10.56224618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92B,21516,Schulendorf,Schwarzenbeker Straße,1,,53.49526988,10.55871239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92C,21516,Schulendorf,Schwarzenbeker Straße,11,,53.49527422,10.55704966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92D,21516,Schulendorf,Schwarzenbeker Straße,13,,53.49520218,10.5567986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92E,21516,Schulendorf,Schwarzenbeker Straße,15,,53.49510007,10.55647222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92F,21516,Schulendorf,Schwarzenbeker Straße,17,,53.49504784,10.5564028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92G,21516,Schulendorf,Schwarzenbeker Straße,19,,53.49468963,10.5560983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92H,21516,Schulendorf,Schwarzenbeker Straße,2,,53.49565998,10.55829712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92I,21516,Schulendorf,Schwarzenbeker Straße,3,,53.49535774,10.55821693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92J,21516,Schulendorf,Schwarzenbeker Straße,4,,53.49565348,10.55763112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92K,21516,Schulendorf,Schwarzenbeker Straße,5,,53.49540232,10.55794512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92L,21516,Schulendorf,Schwarzenbeker Straße,6,,53.49482425,10.55560302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92M,21516,Schulendorf,Schwarzenbeker Straße,7,,53.4953499,10.55759687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92N,21516,Schulendorf,Schwarzenbeker Straße,8,,53.49455542,10.55521945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92O,21516,Schulendorf,Schwarzenbeker Straße,9,,53.4953447,10.55737214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92P,21516,Schulendorf,Tannenweg,1,,53.49482761,10.57235151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92Q,21516,Schulendorf,Tannenweg,10,,53.49439446,10.57346602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92R,21516,Schulendorf,Tannenweg,2,,53.49457916,10.57229506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92S,21516,Schulendorf,Tannenweg,4,,53.49450823,10.57274362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92T,21516,Schulendorf,Tannenweg,6,,53.49447765,10.5729435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92U,21516,Schulendorf,Tannenweg,7,,53.49466428,10.57362707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92V,21516,Schulendorf,Tannenweg,8,,53.49443062,10.57323583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92W,21516,Schulendorf,Zum Sportplatz,1,,53.49375528,10.56260554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92X,21516,Schulendorf,Zum Sportplatz,1,a,53.49356978,10.56253013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92Y,21516,Schulendorf,Zum Sportplatz,2,,53.49353212,10.56198997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92Z,21516,Schulendorf,Zum Sportplatz,3,,53.4932513,10.56236115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92a,21516,Schulendorf,Raiffeisenstraße,24,,53.48949144,10.56020558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92b,21516,Schulendorf,Raiffeisenstraße,3,,53.49260883,10.56463287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92c,21516,Schulendorf,Raiffeisenstraße,4,a,53.49274975,10.56442828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92d,21516,Schulendorf,Raiffeisenstraße,4,b,53.49269578,10.56437197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92e,21516,Schulendorf,Raiffeisenstraße,5,,53.4925026,10.56451743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92f,21516,Schulendorf,Raiffeisenstraße,5,b,53.49232326,10.5644621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92g,21516,Schulendorf,Raiffeisenstraße,5,c,53.49225906,10.56438346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92h,21516,Schulendorf,Raiffeisenstraße,6,a,53.49252383,10.56417538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92i,21516,Schulendorf,Raiffeisenstraße,6,b,53.4924658,10.56410805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92j,21516,Schulendorf,Raiffeisenstraße,7,a,53.49216615,10.56428618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92k,21516,Schulendorf,Raiffeisenstraße,7,b,53.49210456,10.56421506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92l,21516,Schulendorf,Raiffeisenstraße,8,,53.49226514,10.56389056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92m,21516,Schulendorf,Raiffeisenstraße,9,,53.49189547,10.56397593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92n,21516,Schulendorf,Schmiedestraße,1,,53.49798761,10.56108139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92o,21516,Schulendorf,Schmiedestraße,10,,53.49725958,10.56247683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92p,21516,Schulendorf,Schmiedestraße,11,,53.49761295,10.56253531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92q,21516,Schulendorf,Schmiedestraße,12,,53.49723701,10.5629035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92r,21516,Schulendorf,Schmiedestraße,13,,53.49750389,10.56286607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92s,21516,Schulendorf,Schmiedestraße,15,,53.49739311,10.56315746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92t,21516,Schulendorf,Schmiedestraße,17,,53.49729952,10.56343058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92u,21516,Schulendorf,Schmiedestraße,3,,53.49791605,10.56130119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92v,21516,Schulendorf,Schmiedestraße,4,,53.49772297,10.56115548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92w,21516,Schulendorf,Schmiedestraße,5,,53.49787452,10.56155073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92x,21516,Schulendorf,Schmiedestraße,6,,53.49765266,10.56147781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92y,21516,Schulendorf,Schmiedestraße,7,,53.49777562,10.56196731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L92z,21516,Schulendorf,Schmiedestraße,8,,53.49734763,10.56187248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L930,21516,Schulendorf,Zum Sportplatz,4,,53.49333253,10.56137174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L931,21516,Schulendorf,Am Sande,10,,53.49194355,10.56650748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L932,21516,Schulendorf,Am Sande,11,,53.49178484,10.56757198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L933,21516,Schulendorf,Am Sande,12,,53.49174877,10.56631142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L934,21516,Schulendorf,Am Sande,13,,53.49162609,10.56739306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L935,21516,Schulendorf,Am Sande,14,,53.49177853,10.56674438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L936,21516,Schulendorf,Am Sande,15,,53.49143399,10.56722664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L937,21516,Schulendorf,Am Sande,16,,53.49150794,10.56671904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L938,21516,Schulendorf,Am Sande,17,,53.49127987,10.56697452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L939,21516,Schulendorf,Am Sande,18,,53.49134336,10.56656492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93B,21516,Schulendorf,Von-Wachholtz-Weg,17,,53.4925781,10.56000344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93C,21516,Schulendorf,Von-Wachholtz-Weg,18,,53.4936329,10.55932829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93D,21516,Schulendorf,Von-Wachholtz-Weg,8,,53.49433355,10.55997492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93E,21516,Schulendorf,Am Mühlenbach,1,,53.50195167,10.55245895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93F,21516,Schulendorf,Am Mühlenbach,2,,53.50236862,10.54325326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93a,21516,Schulendorf,Am Sande,19,,53.49110386,10.56676973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93b,21516,Schulendorf,Am Sande,2,,53.49256488,10.56714993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93c,21516,Schulendorf,Am Sande,20,,53.4911713,10.56633653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93d,21516,Schulendorf,Am Sande,21,,53.49095054,10.56653785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93e,21516,Schulendorf,Am Sande,22,,53.49126362,10.56600234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93f,21516,Schulendorf,Am Sande,24,,53.49140537,10.56580371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93g,21516,Schulendorf,Am Sande,3,,53.49233074,10.56742449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93h,21516,Schulendorf,Am Sande,4,,53.49240395,10.56700649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93i,21516,Schulendorf,Am Sande,5,,53.49213566,10.56716274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93j,21516,Schulendorf,Am Sande,6,,53.49225932,10.56686666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93k,21516,Schulendorf,Am Sande,7,,53.49189095,10.56722288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93l,21516,Schulendorf,Am Sande,8,,53.49210667,10.56669306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93m,21516,Schulendorf,Am Sande,9,,53.49193968,10.56774618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93n,21516,Schulendorf,Friedrich-Carstens-Stieg,1,,53.49787176,10.56319318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93o,21516,Schulendorf,Friedrich-Carstens-Stieg,2,,53.49777487,10.56347567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93p,21516,Schulendorf,Friedrich-Carstens-Stieg,3,,53.49798859,10.56362556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93q,21516,Schulendorf,Friedrich-Carstens-Stieg,4,,53.49807259,10.56328833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93r,21516,Schulendorf,Friedrich-Carstens-Stieg,5,,53.49804464,10.56266354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93s,21516,Schulendorf,Friedrich-Carstens-Stieg,6,,53.49815259,10.56245932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93t,21516,Schulendorf,Friedrich-Carstens-Stieg,7,,53.49825819,10.56217922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93u,21516,Schulendorf,Friedrich-Carstens-Stieg,8,,53.49803289,10.5621763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93w,21516,Schulendorf,Von-Wachholtz-Weg,10,,53.49420652,10.55983325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93x,21516,Schulendorf,Von-Wachholtz-Weg,12,,53.49407721,10.55967408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93y,21516,Schulendorf,Von-Wachholtz-Weg,14,,53.49391773,10.55956956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L93z,21516,Schulendorf,Von-Wachholtz-Weg,15,,53.49296456,10.55930794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfB,21516,Schulendorf,Am Brink,2,,53.47405518,10.56298369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfC,21516,Schulendorf,Am Ehrenmal,11,,53.47289518,10.55922681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfD,21516,Schulendorf,Am Ehrenmal,13,,53.47272623,10.55837286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfE,21516,Schulendorf,Am Ehrenmal,15,,53.47257616,10.5578912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfF,21516,Schulendorf,Am Ehrenmal,2,,53.47372637,10.55979227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfG,21516,Schulendorf,Am Ehrenmal,4,,53.473427,10.55998727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfH,21516,Schulendorf,Am Ehrenmal,5,,53.47309275,10.55999699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfI,21516,Schulendorf,Am Ehrenmal,6,,53.47334737,10.55971474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfJ,21516,Schulendorf,Am Ehrenmal,7,,53.47301249,10.55974573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfK,21516,Schulendorf,Am Ehrenmal,8,,53.47319593,10.55922673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfL,21516,Schulendorf,Am Ehrenmal,9,a,53.47292756,10.55956741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfM,21516,Schulendorf,Am Ehrenmal,9,b,53.47287036,10.55960224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfN,21516,Schulendorf,Birkenallee,1,,53.47317592,10.56326247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfO,21516,Schulendorf,Birkenallee,1,a,53.47325952,10.56367848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfP,21516,Schulendorf,Birkenallee,10,,53.47450953,10.55769815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfQ,21516,Schulendorf,Birkenallee,14,,53.47568716,10.55351005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfR,21516,Schulendorf,Birkenallee,3,,53.47314843,10.56285705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfS,21516,Schulendorf,Birkenallee,5,,53.47304017,10.56263007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfT,21516,Schulendorf,Birkenallee,6,,53.47356437,10.56487294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfU,21516,Schulendorf,Birkenallee,8,,53.47347539,10.5631204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfV,21516,Schulendorf,Birkenallee,9,,53.47499149,10.55393924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfW,21516,Schulendorf,Langerie,4,,53.4754022,10.56233664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfX,21516,Schulendorf,Müssener Straße,1,,53.47415477,10.56142216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfY,21516,Schulendorf,Müssener Straße,10,,53.47507583,10.5613532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbfZ,21516,Schulendorf,Müssener Straße,3,,53.47414257,10.56070762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg0,21516,Schulendorf,Müssener Straße,4,,53.47448572,10.56225736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg1,21516,Schulendorf,Müssener Straße,6,,53.47454589,10.56160727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg2,21516,Schulendorf,Müssener Straße,8,,53.47482037,10.5614769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg3,21516,Schulendorf,Tatermoor,1,,53.4735407,10.56428176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg4,21516,Schulendorf,Tatermoor,3,,53.47360904,10.56427292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg5,21516,Schulendorf,Tatermoor,4,,53.47376754,10.56478906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg6,21516,Schulendorf,Tatermoor,5,,53.47378501,10.56429701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg7,21516,Schulendorf,Tatermoor,7,,53.47403798,10.56415054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg8,21516,Schulendorf,Triangel,1,,53.47387227,10.55859859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbg9,21516,Schulendorf,Triangel,2,,53.47410443,10.55796963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgA,21516,Schulendorf,Neukoppel,19,,53.47383289,10.55646076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgB,21516,Schulendorf,Neukoppel,2,,53.4730231,10.55812397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgC,21516,Schulendorf,Neukoppel,21,,53.47400384,10.55633291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgD,21516,Schulendorf,Neukoppel,23,,53.47401463,10.55667634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgE,21516,Schulendorf,Neukoppel,25,,53.47417712,10.55621899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgF,21516,Schulendorf,Neukoppel,27,,53.47435082,10.55642621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgG,21516,Schulendorf,Neukoppel,29,,53.47425868,10.5567843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgH,21516,Schulendorf,Neukoppel,3,,53.4730056,10.55740079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgI,21516,Schulendorf,Neukoppel,4,,53.47321612,10.55797835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgJ,21516,Schulendorf,Neukoppel,5,,53.4731416,10.5571021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgK,21516,Schulendorf,Neukoppel,6,,53.47341287,10.55781101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgL,21516,Schulendorf,Neukoppel,7,,53.47323249,10.55754528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgM,21516,Schulendorf,Neukoppel,8,,53.47358452,10.5576649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgN,21516,Schulendorf,Neukoppel,9,,53.47344582,10.5573124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgO,21516,Schulendorf,Blumenweg,1,,53.47605842,10.54606112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgP,21516,Schulendorf,Blumenweg,10,,53.47667251,10.54580655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgQ,21516,Schulendorf,Blumenweg,12,,53.47671857,10.54575081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgR,21516,Schulendorf,Blumenweg,14,,53.47689694,10.54553702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgS,21516,Schulendorf,Blumenweg,16,,53.47694644,10.54547785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgT,21516,Schulendorf,Blumenweg,16,a,53.47690151,10.54570088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgU,21516,Schulendorf,Blumenweg,2,,53.47619563,10.54637777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgV,21516,Schulendorf,Blumenweg,3,,53.47622733,10.54585628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgW,21516,Schulendorf,Blumenweg,4,,53.47626425,10.54629804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgX,21516,Schulendorf,Blumenweg,5,,53.47635456,10.54570506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgY,21516,Schulendorf,Blumenweg,6,,53.47644495,10.54608108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbgZ,21516,Schulendorf,Blumenweg,7,,53.47651638,10.54551412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbga,21516,Schulendorf,Triangel,3,,53.47359066,10.55884388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgb,21516,Schulendorf,Triangel,4,,53.4739125,10.55817952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgc,21516,Schulendorf,Triangel,5,,53.4734644,10.55895101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgd,21516,Schulendorf,Triangel,6,,53.47370865,10.55835176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbge,21516,Schulendorf,Triangel,8,,53.47350847,10.55852431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgf,21516,Schulendorf,Twiet,1,,53.47280867,10.55892364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgg,21516,Schulendorf,Twiet,4,,53.47246641,10.5587362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgh,21516,Schulendorf,Zum Strüken,1,,53.47309891,10.56206597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgi,21516,Schulendorf,Zum Strüken,10,,53.47240424,10.55990354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgj,21516,Schulendorf,Zum Strüken,11,,53.47186046,10.55819589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgk,21516,Schulendorf,Zum Strüken,16,,53.47233731,10.55830449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgl,21516,Schulendorf,Zum Strüken,20,,53.47199903,10.55760923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgm,21516,Schulendorf,Zum Strüken,3,,53.47279684,10.56174521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgn,21516,Schulendorf,Zum Strüken,4,,53.47296685,10.561447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgo,21516,Schulendorf,Zum Strüken,5,,53.47237708,10.56082146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgp,21516,Schulendorf,Zum Strüken,6,,53.47266635,10.56065683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgq,21516,Schulendorf,Zum Strüken,7,,53.47190357,10.56030566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgr,21516,Schulendorf,Zum Strüken,8,,53.47257371,10.56035388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgs,21516,Schulendorf,Zum Strüken,9,,53.47218018,10.5590244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgt,21516,Schulendorf,Neukoppel,10,,53.47379595,10.55759507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgu,21516,Schulendorf,Neukoppel,11,,53.4733498,10.55701463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgv,21516,Schulendorf,Neukoppel,12,,53.47397631,10.55735163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgw,21516,Schulendorf,Neukoppel,13,,53.4735509,10.55676677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgx,21516,Schulendorf,Neukoppel,14,,53.47414964,10.55713417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgy,21516,Schulendorf,Neukoppel,15,,53.4737177,10.55713053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbgz,21516,Schulendorf,Neukoppel,17,,53.47390424,10.55689115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh0,21516,Schulendorf,Blumenweg,8,,53.47649624,10.54601885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh1,21516,Schulendorf,Dorfstraße,1,,53.47618191,10.54236583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh2,21516,Schulendorf,Dorfstraße,12,,53.47813079,10.53975599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh3,21516,Schulendorf,Dorfstraße,14,,53.47829338,10.53940252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh4,21516,Schulendorf,Dorfstraße,16,,53.47850359,10.53879326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh5,21516,Schulendorf,Dorfstraße,18,,53.47873973,10.53831398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh6,21516,Schulendorf,Dorfstraße,2,,53.47635904,10.54257017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh7,21516,Schulendorf,Dorfstraße,3,,53.47629391,10.54210116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh8,21516,Schulendorf,Dorfstraße,4,,53.47686072,10.5418045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbh9,21516,Schulendorf,Dorfstraße,5,,53.4765325,10.54149594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhA,21516,Schulendorf,Alte Salzstraße,15,,53.47048484,10.56737852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhB,21516,Schulendorf,Alte Salzstraße,16,,53.47129935,10.567567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhC,21516,Schulendorf,Alte Salzstraße,17,,53.47020803,10.56724703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhD,21516,Schulendorf,Alte Salzstraße,18,,53.47117889,10.5673672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhE,21516,Schulendorf,Alte Salzstraße,19,,53.47008277,10.5669544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhF,21516,Schulendorf,Alte Salzstraße,2,,53.47348865,10.56934609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhG,21516,Schulendorf,Alte Salzstraße,20,,53.47075318,10.56718353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhH,21516,Schulendorf,Alte Salzstraße,20,a,53.47092279,10.56717376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhI,21516,Schulendorf,Alte Salzstraße,22,,53.47046106,10.56622649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhJ,21516,Schulendorf,Alte Salzstraße,24,,53.47025529,10.56652482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhK,21516,Schulendorf,Alte Salzstraße,3,,53.47258996,10.5691415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhL,21516,Schulendorf,Alte Salzstraße,4,,53.47301542,10.56902428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhM,21516,Schulendorf,Alte Salzstraße,5,,53.47209347,10.56869452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhN,21516,Schulendorf,Alte Salzstraße,5,a,53.47162549,10.5683047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhO,21516,Schulendorf,Alte Salzstraße,5,b,53.47212156,10.56933297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhP,21516,Schulendorf,Alte Salzstraße,6,,53.47280385,10.56888561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhQ,21516,Schulendorf,Alte Salzstraße,7,,53.47132988,10.56806164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhR,21516,Schulendorf,Alte Salzstraße,8,,53.47264535,10.56870341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhS,21516,Schulendorf,Alte Salzstraße,9,,53.47115638,10.56789091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhT,21516,Schulendorf,Am Engelsberg,5,,53.47342941,10.57388009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhV,21516,Schulendorf,Zum Hofgraben,10,,53.47080789,10.57071442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhW,21516,Schulendorf,Zum Hofgraben,11,,53.47080071,10.57139282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhX,21516,Schulendorf,Zum Hofgraben,4,,53.47079369,10.56854146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhY,21516,Schulendorf,Zum Hofgraben,5,,53.47095137,10.56908884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LbhZ,21516,Schulendorf,Zum Hofgraben,6,,53.47078766,10.56885189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbha,21516,Schulendorf,Dorfstraße,6,,53.47707479,10.5410222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhb,21516,Schulendorf,Dorfstraße,7,,53.47674862,10.54093649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhc,21516,Schulendorf,Dorfstraße,8,,53.47626641,10.54031185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhd,21516,Schulendorf,Dorfstraße,9,,53.47718306,10.54031913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhe,21516,Schulendorf,Hörnweg,1,,53.47605198,10.54659193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhf,21516,Schulendorf,Kiebitzstraße,1,,53.47618143,10.5434554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhg,21516,Schulendorf,Kiebitzstraße,2,,53.47623445,10.54402426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhh,21516,Schulendorf,Kiebitzstraße,5,,53.47721722,10.54477972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhi,21516,Schulendorf,Kiebitzstraße,7,,53.47742792,10.54493521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhj,21516,Schulendorf,Kiebitzstraße,8,,53.47678534,10.54484843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhk,21516,Schulendorf,Schwarzenbeker Straße,10,,53.47315108,10.53568836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhl,21516,Schulendorf,Schwarzenbeker Straße,2,,53.47599826,10.54542251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhm,21516,Schulendorf,Schwarzenbeker Straße,2,a,53.47606096,10.54502247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhn,21516,Schulendorf,Schwarzenbeker Straße,2,b,53.47611636,10.54496444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbho,21516,Schulendorf,Schwarzenbeker Straße,6,,53.47593686,10.54237641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhp,21516,Schulendorf,Schwarzenbeker Straße,8,,53.47575506,10.54217347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhq,21516,Schulendorf,Wiesenweg,1,,53.47851639,10.54027424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhr,21516,Schulendorf,Wiesenweg,21,a,53.47847,10.54073361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhs,21516,Schulendorf,Wiesenweg,21,b,53.478535,10.54072239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbht,21516,Schulendorf,Alte Salzstraße,1,,53.47287036,10.56928472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhu,21516,Schulendorf,Alte Salzstraße,10,,53.47237573,10.56830759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhv,21516,Schulendorf,Alte Salzstraße,10,a,53.4725004,10.56844959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhw,21516,Schulendorf,Alte Salzstraße,11,,53.4709464,10.56769012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhx,21516,Schulendorf,Alte Salzstraße,12,,53.47180785,10.56789332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhy,21516,Schulendorf,Alte Salzstraße,13,,53.47058891,10.56757568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbhz,21516,Schulendorf,Alte Salzstraße,14,,53.47150196,10.56750604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi0,21516,Schulendorf,Zum Hofgraben,7,,53.4710373,10.56971643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi1,21516,Schulendorf,Zum Hofgraben,8,,53.47090837,10.57004438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi2,21516,Schulendorf,Zum Hofgraben,9,,53.47086969,10.57041007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi3,21516,Schulendorf,An de Bäk,1,,53.47213758,10.56750747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi4,21516,Schulendorf,An de Bäk,2,,53.47244055,10.56767044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi5,21516,Schulendorf,An de Bäk,3,,53.47217039,10.56707887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi6,21516,Schulendorf,An de Bäk,4,,53.47287331,10.56777148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lbi7,21516,Schulendorf,An de Bäk,6,,53.47254377,10.56682717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFA,21516,Schulendorf,Dorfstraße,10,,53.56374769,10.61320254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFB,21516,Schulendorf,Dorfstraße,11,,53.56444245,10.61235978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFC,21516,Schulendorf,Dorfstraße,12,,53.56333909,10.61342567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFD,21516,Schulendorf,Dorfstraße,12,a,53.56329113,10.61268792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFE,21516,Schulendorf,Dorfstraße,13,,53.56405619,10.61317612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFF,21516,Schulendorf,Dorfstraße,14,,53.5629067,10.61378412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFG,21516,Schulendorf,Dorfstraße,15,,53.56384031,10.61388342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFH,21516,Schulendorf,Dorfstraße,15,a,53.5645727,10.61403445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFI,21516,Schulendorf,Dorfstraße,16,,53.56306204,10.61440872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFJ,21516,Schulendorf,Dorfstraße,17,,53.5637984,10.61473997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFK,21516,Schulendorf,Dorfstraße,18,,53.56271043,10.61478123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFL,21516,Schulendorf,Dorfstraße,19,,53.56395059,10.61526575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFM,21516,Schulendorf,Dorfstraße,2,,53.56443173,10.6104464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFN,21516,Schulendorf,Dorfstraße,2,a,53.56430393,10.61060822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFO,21516,Schulendorf,Dorfstraße,20,,53.56296962,10.61504654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFP,21516,Schulendorf,Dorfstraße,21,,53.56381159,10.61570443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFQ,21516,Schulendorf,Dorfstraße,22,,53.56304173,10.61523399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFR,21516,Schulendorf,Dorfstraße,23,,53.56354362,10.61677078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFS,21516,Schulendorf,Dorfstraße,23,a,53.56347731,10.61732786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFT,21516,Schulendorf,Dorfstraße,23,b,53.56353371,10.61760269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFU,21516,Schulendorf,Dorfstraße,24,,53.5627234,10.61558562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFV,21516,Schulendorf,Dorfstraße,25,,53.56363215,10.61802907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFW,21516,Schulendorf,Dorfstraße,26,,53.56260334,10.61672043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFX,21516,Schulendorf,Dorfstraße,27,,53.56374205,10.61865464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFY,21516,Schulendorf,Dorfstraße,28,,53.5629442,10.61618317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFZ,21516,Schulendorf,Dorfstraße,28,a,53.56315254,10.61609324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFw,21516,Schulendorf,Am Bornredder,1,,53.5677148,10.60437661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFx,21516,Schulendorf,Am Bornredder,2,,53.5678332,10.60421534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFy,21516,Schulendorf,Am Bornredder,3,,53.56705328,10.60352082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcFz,21516,Schulendorf,Dorfstraße,1,,53.56478059,10.60974707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG0,21516,Schulendorf,Dorfstraße,3,,53.5644549,10.61102497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG1,21516,Schulendorf,Dorfstraße,30,,53.5631915,10.61649097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG2,21516,Schulendorf,Dorfstraße,32,,53.56317322,10.61680356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG3,21516,Schulendorf,Dorfstraße,32,a,53.56289601,10.61710412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG4,21516,Schulendorf,Dorfstraße,34,,53.5631347,10.61738644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG5,21516,Schulendorf,Dorfstraße,36,,53.56309206,10.6176877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG6,21516,Schulendorf,Dorfstraße,38,,53.56320506,10.61787093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG7,21516,Schulendorf,Dorfstraße,4,,53.56419308,10.6107426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG8,21516,Schulendorf,Dorfstraße,40,,53.56352992,10.61902731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcG9,21516,Schulendorf,Dorfstraße,42,,53.56369001,10.61936324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGA,21516,Schulendorf,Dreidorfer Weg,26,,53.56545881,10.6077871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGB,21516,Schulendorf,Dreidorfer Weg,28,,53.56529649,10.60793485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGC,21516,Schulendorf,Dreidorfer Weg,3,,53.56805043,10.60439442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGD,21516,Schulendorf,Dreidorfer Weg,30,,53.56518345,10.60827022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGE,21516,Schulendorf,Dreidorfer Weg,32,,53.56497515,10.60843126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGF,21516,Schulendorf,Dreidorfer Weg,34,,53.56460859,10.60916928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGG,21516,Schulendorf,Dreidorfer Weg,4,,53.56745399,10.6048084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGH,21516,Schulendorf,Dreidorfer Weg,5,,53.56800591,10.60489394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGI,21516,Schulendorf,Dreidorfer Weg,6,,53.56735288,10.60501376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGJ,21516,Schulendorf,Dreidorfer Weg,7,,53.56762139,10.60519851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGK,21516,Schulendorf,Dreidorfer Weg,8,,53.5671836,10.60518174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGL,21516,Schulendorf,Dreidorfer Weg,9,,53.56707474,10.60604492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGM,21516,Schulendorf,Hüttenweg,2,,53.56370092,10.61077675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGN,21516,Schulendorf,Kankelauer Weg,2,,53.56403465,10.6087461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGO,21516,Schulendorf,Kankelauer Weg,4,,53.56425199,10.60904476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGP,21516,Schulendorf,Kankelauer Weg,4,a,53.56434819,10.60896303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGQ,21516,Schulendorf,Niendorfer Weg,1,,53.56401519,10.61717519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGR,21516,Schulendorf,Niendorfer Weg,3,,53.56434475,10.61770194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGS,21516,Schulendorf,Niendorfer Weg,3,a,53.56450388,10.61759392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGT,21516,Schulendorf,Niendorfer Weg,5,,53.56473923,10.61740548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGU,21516,Schulendorf,Niendorfer Weg,7,,53.56492906,10.61726783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGV,21516,Schulendorf,Rosenstraße,1,,53.56331717,10.619017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGW,21516,Schulendorf,Rosenstraße,10,,53.56238689,10.61899278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGX,21516,Schulendorf,Rosenstraße,11,,53.56208032,10.61975582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGY,21516,Schulendorf,Rosenstraße,12,,53.56225577,10.61907406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGZ,21516,Schulendorf,Rosenstraße,13,,53.56187065,10.61991651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGa,21516,Schulendorf,Dorfstraße,5,,53.56445267,10.61139338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGb,21516,Schulendorf,Dorfstraße,6,,53.56403544,10.61158189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGc,21516,Schulendorf,Dorfstraße,6,a,53.56396254,10.6121154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGd,21516,Schulendorf,Dorfstraße,8,,53.56388806,10.6127796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGe,21516,Schulendorf,Dorfstraße,9,,53.56444541,10.61200342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGf,21516,Schulendorf,Dreidorfer Weg,1,,53.56881415,10.60362375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGg,21516,Schulendorf,Dreidorfer Weg,10,,53.56705969,10.60539202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGh,21516,Schulendorf,Dreidorfer Weg,11,,53.56685947,10.6068693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGi,21516,Schulendorf,Dreidorfer Weg,11,a,53.56664209,10.60693419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGj,21516,Schulendorf,Dreidorfer Weg,11,b,53.56650463,10.60711896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGk,21516,Schulendorf,Dreidorfer Weg,11,c,53.56645214,10.60719743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGl,21516,Schulendorf,Dreidorfer Weg,11,d,53.56651504,10.60774273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGm,21516,Schulendorf,Dreidorfer Weg,11,f,53.56593537,10.60816767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGn,21516,Schulendorf,Dreidorfer Weg,12,,53.56694992,10.60555833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGo,21516,Schulendorf,Dreidorfer Weg,13,,53.5656495,10.60864301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGq,21516,Schulendorf,Dreidorfer Weg,14,,53.56682239,10.60575953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGr,21516,Schulendorf,Dreidorfer Weg,16,,53.56668718,10.60597348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGs,21516,Schulendorf,Dreidorfer Weg,18,,53.56640543,10.60639943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGt,21516,Schulendorf,Dreidorfer Weg,18,a,53.56645863,10.60631918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGu,21516,Schulendorf,Dreidorfer Weg,2,,53.56759603,10.60469622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGv,21516,Schulendorf,Dreidorfer Weg,20,,53.56636325,10.60662086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGw,21516,Schulendorf,Dreidorfer Weg,22,,53.56596249,10.6069627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGx,21516,Schulendorf,Dreidorfer Weg,22,a,53.56593114,10.60701305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGy,21516,Schulendorf,Dreidorfer Weg,22,b,53.56589781,10.60706812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcGz,21516,Schulendorf,Dreidorfer Weg,24,,53.56563959,10.60754996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH0,21516,Schulendorf,Rosenstraße,14,,53.56213162,10.61914868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH1,21516,Schulendorf,Rosenstraße,15,,53.5617208,10.62001968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH2,21516,Schulendorf,Rosenstraße,16,,53.5620013,10.61922929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH3,21516,Schulendorf,Rosenstraße,17,,53.56153926,10.62000589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH4,21516,Schulendorf,Rosenstraße,18,,53.56186539,10.61927669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH5,21516,Schulendorf,Rosenstraße,19,,53.56137083,10.62011633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH6,21516,Schulendorf,Rosenstraße,2,,53.56309344,10.61852984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH7,21516,Schulendorf,Rosenstraße,20,,53.56175089,10.61938796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH8,21516,Schulendorf,Rosenstraße,21,,53.56120011,10.62020173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcH9,21516,Schulendorf,Rosenstraße,22,,53.56161946,10.61946544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHa,21516,Schulendorf,Rosenstraße,23,,53.56096475,10.62035519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHb,21516,Schulendorf,Rosenstraße,25,,53.56079599,10.62060101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHc,21516,Schulendorf,Rosenstraße,3,,53.56293944,10.61919182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHd,21516,Schulendorf,Rosenstraße,4,,53.56287786,10.61867799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHe,21516,Schulendorf,Rosenstraße,5,,53.56260162,10.61924609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHf,21516,Schulendorf,Rosenstraße,5,a,53.56281469,10.61988446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHg,21516,Schulendorf,Rosenstraße,6,,53.56270727,10.61879686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHh,21516,Schulendorf,Rosenstraße,7,,53.56239584,10.6194818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHi,21516,Schulendorf,Rosenstraße,8,,53.56256096,10.61888643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHj,21516,Schulendorf,Rosenstraße,9,,53.56227401,10.61980219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHk,21516,Schulendorf,Am Steinhöver,1,,53.56310665,10.61914771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHl,21516,Schulendorf,Am Steinhöver,3,,53.563391,10.61949566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHm,21516,Schulendorf,Am Steinhöver,5,,53.56320607,10.61951579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHn,21516,Schulendorf,Am Steinhöver,7,a,53.56304929,10.61981497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LcHo,21516,Schulendorf,Am Steinhöver,7,b,53.56302007,10.61968298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdAN,21516,Schulendorf,Franzhagener Straße,1,,53.46718915,10.56507946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdO5,21516,Schulendorf,Am Windberg,1,,53.56520548,10.64270524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdO6,21516,Schulendorf,Am Windberg,2,,53.56548556,10.6425257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdO7,21516,Schulendorf,Am Windberg,2,a,53.56545469,10.64218432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdO8,21516,Schulendorf,Am Windberg,2,b,53.56543579,10.64209559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdO9,21516,Schulendorf,Am Windberg,2,c,53.56535289,10.64176153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOA,21516,Schulendorf,Kiefernweg,13,,53.5661097,10.64800987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOB,21516,Schulendorf,Kiefernweg,15,,53.5663275,10.64829963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOC,21516,Schulendorf,Kiefernweg,17,,53.56643731,10.64880392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOD,21516,Schulendorf,Kiefernweg,19,,53.56650652,10.64909435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOE,21516,Schulendorf,Kiefernweg,19,a,53.56654872,10.64941614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOF,21516,Schulendorf,Kiefernweg,2,,53.56543772,10.64424455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOG,21516,Schulendorf,Kiefernweg,21,,53.56661671,10.64981822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOH,21516,Schulendorf,Kiefernweg,21,a,53.56668181,10.6501822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOI,21516,Schulendorf,Kiefernweg,23,,53.57004101,10.66730539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOJ,21516,Schulendorf,Kiefernweg,25,,53.56980525,10.66734166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOK,21516,Schulendorf,Kiefernweg,3,,53.56597904,10.6451363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOL,21516,Schulendorf,Kiefernweg,3,a,53.56614395,10.64544762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOM,21516,Schulendorf,Kiefernweg,4,,53.56552148,10.64480651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdON,21516,Schulendorf,Kiefernweg,4,a,53.56510015,10.64503367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOO,21516,Schulendorf,Kiefernweg,5,,53.56612636,10.64596788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOP,21516,Schulendorf,Kiefernweg,6,,53.56559727,10.64540089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOQ,21516,Schulendorf,Kiefernweg,7,,53.56619311,10.64626624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOR,21516,Schulendorf,Kiefernweg,8,,53.56531149,10.64572116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOS,21516,Schulendorf,Kiefernweg,9,,53.56618117,10.64663533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOT,21516,Schulendorf,Meisenweg,1,,53.57504858,10.63507688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOW,21516,Schulendorf,Meisenweg,3,,53.57538969,10.63500069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOY,21516,Schulendorf,Meisenweg,5,,53.57578891,10.63488076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOZ,21516,Schulendorf,Möllner Straße,1,,53.57880826,10.63985767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOa,21516,Schulendorf,Am Windberg,2,d,53.56532649,10.64164929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOb,21516,Schulendorf,Am Windberg,3,,53.56491277,10.64152803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOc,21516,Schulendorf,Am Windberg,4,,53.56522787,10.64133355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOd,21516,Schulendorf,Am Windberg,4,a,53.56510404,10.64078481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOe,21516,Schulendorf,Am Windberg,5,,53.56179934,10.64153985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOf,21516,Schulendorf,Dorfstraße,1,,53.57806903,10.63753387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOg,21516,Schulendorf,Dorfstraße,1,a,53.578154,10.637045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOh,21516,Schulendorf,Dorfstraße,10,,53.57857663,10.636844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOi,21516,Schulendorf,Dorfstraße,12,,53.57867753,10.6364621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOj,21516,Schulendorf,Dorfstraße,14,,53.57892406,10.63586223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOk,21516,Schulendorf,Dorfstraße,16,,53.57906657,10.63508133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOl,21516,Schulendorf,Dorfstraße,18,,53.57923696,10.63424583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOm,21516,Schulendorf,Dorfstraße,2,,53.57823023,10.63894196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOn,21516,Schulendorf,Dorfstraße,3,,53.57815449,10.63667716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOo,21516,Schulendorf,Dorfstraße,4,,53.57817765,10.6385635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOp,21516,Schulendorf,Dorfstraße,5,,53.57808143,10.63607483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOq,21516,Schulendorf,Dorfstraße,6,,53.57825207,10.63801682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOr,21516,Schulendorf,Dorfstraße,7,,53.5784644,10.6353664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOs,21516,Schulendorf,Dorfstraße,8,,53.57837113,10.63732698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOt,21516,Schulendorf,Dorfstraße,9,,53.5780361,10.63355772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOu,21516,Schulendorf,Heideweg,1,,53.5693404,10.64289844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOv,21516,Schulendorf,Heideweg,3,,53.57008419,10.6432792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOw,21516,Schulendorf,Kiefernweg,1,,53.56583388,10.64390621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOx,21516,Schulendorf,Kiefernweg,10,,53.56569278,10.64594475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOy,21516,Schulendorf,Kiefernweg,11,,53.56623172,10.64687752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdOz,21516,Schulendorf,Kiefernweg,12,,53.56577595,10.64643736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP0,21516,Schulendorf,Möllner Straße,10,,53.57636295,10.64040984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP1,21516,Schulendorf,Möllner Straße,11,,53.57221197,10.64280695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP2,21516,Schulendorf,Möllner Straße,11,a,53.57191922,10.64271134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP3,21516,Schulendorf,Möllner Straße,12,,53.57619425,10.64066436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP4,21516,Schulendorf,Möllner Straße,13,,53.57064321,10.64280456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP5,21516,Schulendorf,Möllner Straße,13,a,53.57143871,10.64283957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP6,21516,Schulendorf,Möllner Straße,14,,53.5673552,10.64185371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP7,21516,Schulendorf,Möllner Straße,14,a,53.56608303,10.64221741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP8,21516,Schulendorf,Möllner Straße,15,,53.5678787,10.64240875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdP9,21516,Schulendorf,Möllner Straße,15,a,53.56808141,10.64347724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPA,21516,Schulendorf,Tannenweg,20,,53.56749099,10.64998897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPB,21516,Schulendorf,Tannenweg,22,,53.56713985,10.65019276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPC,21516,Schulendorf,Tannenweg,24,,53.56696078,10.64998177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPD,21516,Schulendorf,Tannenweg,3,,53.56757407,10.64740365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPE,21516,Schulendorf,Tannenweg,4,,53.56702879,10.64721015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPF,21516,Schulendorf,Tannenweg,5,,53.56756204,10.64772627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPG,21516,Schulendorf,Tannenweg,6,,53.56712291,10.64748281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPH,21516,Schulendorf,Tannenweg,7,,53.56812318,10.64833691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPI,21516,Schulendorf,Tannenweg,9,,53.56800483,10.64881852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPJ,21516,Schulendorf,Trammer Straße,1,,53.57567453,10.63777777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPK,21516,Schulendorf,Trammer Straße,2,,53.57675422,10.63929051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPL,21516,Schulendorf,Trammer Straße,4,,53.57590498,10.63700566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPM,21516,Schulendorf,Trammer Straße,6,,53.57112292,10.63261379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPN,21516,Schulendorf,Amselstieg,1,,53.5756313,10.63601094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPO,21516,Schulendorf,Amselstieg,5,,53.57585576,10.63573966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPa,21516,Schulendorf,Möllner Straße,16,,53.56592575,10.64253382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPb,21516,Schulendorf,Möllner Straße,17,,53.56620475,10.64309038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPc,21516,Schulendorf,Möllner Straße,18,,53.56331453,10.64458683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPd,21516,Schulendorf,Möllner Straße,19,,53.56242625,10.64640951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPe,21516,Schulendorf,Möllner Straße,2,,53.57951808,10.63947509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPf,21516,Schulendorf,Möllner Straße,3,,53.57793816,10.63988417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPg,21516,Schulendorf,Möllner Straße,4,,53.57922003,10.63879874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPh,21516,Schulendorf,Möllner Straße,4,a,53.57918897,10.63907512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPj,21516,Schulendorf,Möllner Straße,7,,53.57476069,10.64220478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPk,21516,Schulendorf,Möllner Straße,8,,53.57724939,10.63959166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPl,21516,Schulendorf,Möllner Straße,9,,53.57369998,10.64257098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPm,21516,Schulendorf,Möllner Straße,9,a,53.5733615,10.64285738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPn,21516,Schulendorf,Moorweg,1,,53.57842147,10.64091982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPo,21516,Schulendorf,Moorweg,3,,53.57848797,10.64157243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPp,21516,Schulendorf,Tannenweg,1,,53.56794496,10.64689667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPq,21516,Schulendorf,Tannenweg,1,a,53.56726927,10.64701547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPr,21516,Schulendorf,Tannenweg,1,b,53.56733627,10.6470039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPs,21516,Schulendorf,Tannenweg,10,,53.56718247,10.64799653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPt,21516,Schulendorf,Tannenweg,11,,53.56803118,10.64909139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPu,21516,Schulendorf,Tannenweg,11,a,53.5677911,10.64946707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPv,21516,Schulendorf,Tannenweg,12,,53.56720988,10.6485066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPw,21516,Schulendorf,Tannenweg,13,,53.56809563,10.64987558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPx,21516,Schulendorf,Tannenweg,14,,53.56732648,10.64893696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPy,21516,Schulendorf,Tannenweg,18,,53.56745106,10.64965046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LdPz,21516,Schulendorf,Tannenweg,2,,53.56657911,10.64730457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ERHb,21516,Schulendorf,Dorfstraße,11,a,53.56416652,10.6129664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004EmzT,21516,Schulendorf,Möllner Straße,5,,53.57690384,10.64036748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004GOKw,21516,Schulendorf,Alter Gutsweg,2,a,53.49636979,10.55616481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004HPCN,21516,Schulendorf,Von-Wachholtz-Weg,16,,53.4937832,10.55942762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ijcx,21516,Schulendorf,Dorfstraße,7,,53.56442132,10.61166847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KyzF,21516,Schulendorf,Meisenweg,8,,53.57596981,10.63527103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004LEDb,21516,Schulendorf,Dreidorfer Weg,15,,53.56544705,10.60871549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Tf9g,21516,Schulendorf,Amselstieg,13,,53.57615453,10.63626703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VIIw,21516,Schulendorf,Bergstraße,35,a,53.50741014,10.56766263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Y6xD,21516,Schulendorf,Mühlenstraße,14,b,53.49232766,10.56877289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AqjY,21516,Schulendorf,Dreidorfer Weg,19,,53.56517965,10.6094713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AqkE,21516,Schulendorf,Dorfstraße,1,a,53.5647202,10.6100889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AqkL,21516,Schulendorf,Dorfstraße,1,b,53.56477969,10.61049349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Aqkv,21516,Schulendorf,Dreidorfer Weg,17,,53.56523187,10.60908665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Aqkz,21516,Schulendorf,Dreidorfer Weg,21,,53.56493459,10.60944318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005E8LX,21516,Schulendorf,Schmiedestraße,42,,53.49741844,10.5645697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FxF9,21516,Schulendorf,Zum Hofgraben,6,c,53.47059128,10.56989542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005H9vm,21516,Schulendorf,Birkenallee,8,b,53.47378139,10.56367911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HDyT,21516,Schulendorf,Schmiedestraße,21,,53.49691475,10.56437309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXUP,21516,Schulendorf,Schmiedestraße,37,a,53.49738095,10.5640771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXUv,21516,Schulendorf,Schmiedestraße,37,b,53.49748149,10.56413987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXV9,21516,Schulendorf,Schmiedestraße,44,c,53.49765898,10.56505398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXVg,21516,Schulendorf,Schmiedestraße,44,a,53.49771608,10.5648394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXVr,21516,Schulendorf,Schmiedestraße,44,b,53.49768723,10.56494782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KXVw,21516,Schulendorf,Schmiedestraße,37,c,53.49758066,10.56414794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MTjI,21516,Schulendorf,Schmiedestraße,27,,53.49676894,10.56553452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005N6nm,21516,Schulendorf,Schmiedestraße,40,,53.49733522,10.56487406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PBCQ,21516,Schulendorf,Dreidorfer Weg,7,a,53.56755713,10.60529468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RMZN,21516,Schulendorf,Niendorfer Weg,2,,53.56397635,10.6184016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RMZO,21516,Schulendorf,Niendorfer Weg,2,a,53.5640366,10.61836105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RNix,21516,Schulendorf,Schmiedestraße,33,,53.49711296,10.5649199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SGkB,21516,Schulendorf,Zum Hofgraben,6,a,53.4706705,10.56922493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UrEt,21516,Schulendorf,Am Brink,1,,53.47395696,10.56211037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UrPz,21516,Schulendorf,Schmiedestraße,28,,53.49667114,10.56605485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UuVx,21516,Schulendorf,Schmiedestraße,26,,53.49641413,10.56589661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WRaj,21516,Schulendorf,Meisenweg,7,,53.57588068,10.63485462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WRao,21516,Schulendorf,Meisenweg,11,,53.5762179,10.63475506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WRat,21516,Schulendorf,Meisenweg,9,,53.57615828,10.63477178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZQuq,21516,Schulendorf,Schmiedestraße,38,,53.49726908,10.56533638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005awt3,21516,Schulendorf,Dorfstraße,1,c,53.5647004,10.61079265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005b3rx,21516,Schulendorf,Möllner Straße,4,b,53.57920303,10.63947561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cdql,21516,Schulendorf,Möllner Straße,6,a,53.57885936,10.63951221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gjKs,21516,Schulendorf,Zum Hofgraben,6,b,53.47062538,10.56955237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wQmJ,21516,Schulendorf,Schmiedestraße,39,a,53.49775185,10.56431592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wQmL,21516,Schulendorf,Schmiedestraße,39,b,53.49779092,10.56420501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wQmg,21516,Schulendorf,Schmiedestraße,39,c,53.49784798,10.56411123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wViw,21516,Schulendorf,Tannenweg,14,b,53.56699209,10.64900233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wVrK,21516,Schulendorf,Tannenweg,14,c,53.56687863,10.6490374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wVrP,21516,Schulendorf,Tannenweg,14,a,53.56718878,10.64896128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ykNI,21516,Schulendorf,Tannenweg,1,c,53.56750992,10.64696582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061mwo,21516,Schulendorf,Schmiedestraße,18,,53.49672606,10.56414235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061xeA,21516,Schulendorf,Schmiedestraße,31,,53.49705694,10.56527757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006619e,21516,Schulendorf,Tannenweg,7,a,53.56772023,10.6484718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066bmt,21516,Schulendorf,Möllner Straße,7,a,53.57489622,10.64230567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066bmu,21516,Schulendorf,Möllner Straße,7,b,53.5749602,10.6422803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067eqU,21516,Schulendorf,Schmiedestraße,34,,53.49718672,10.56611182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067poy,21516,Schulendorf,Schmiedestraße,23,,53.49687574,10.56471614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068JnX,21516,Schulendorf,Schmiedestraße,16,,53.49691081,10.56365133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068fk5,21516,Schulendorf,Mühlenstraße,5,b,53.49322259,10.5663948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068fkn,21516,Schulendorf,Mühlenstraße,5,a,53.49327802,10.56629245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068j9g,21516,Schulendorf,Schmiedestraße,14,,53.49699535,10.56329472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ngg,21516,Schulendorf,Alte Salzstraße,26,,53.47017336,10.5663754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006E0Rc,21516,Schulendorf,Meisenweg,2,,53.57524962,10.63548676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006F4sz,21516,Schulendorf,Schmiedestraße,24,,53.49650599,10.56543208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Iaeh,21516,Schulendorf,Bergstraße,35,b,53.50762429,10.56788645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IapB,21516,Schulendorf,Schmiedestraße,35,,53.497191,10.56444972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IcQ2,21516,Schulendorf,Wiesenweg,2,,53.47814996,10.54038369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006J7S4,21516,Schulendorf,Bergstraße,11,,53.50006839,10.56136965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006J7S6,21516,Schulendorf,Bergstraße,9,,53.49991205,10.56106346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Kv0s,21516,Schulendorf,Amselstieg,2,,53.57580823,10.63619786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Of4M,21516,Schulendorf,Amselstieg,3,,53.57549076,10.63576007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RW4M,21516,Schulendorf,Pferdekoppel,1,a,53.50025069,10.56386184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RW4P,21516,Schulendorf,Pferdekoppel,1,b,53.50030106,10.56373076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RW4U,21516,Schulendorf,Pferdekoppel,2,a,53.50044279,10.56336087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RW4V,21516,Schulendorf,Pferdekoppel,2,b,53.50048808,10.56324283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006aM02,21516,Schulendorf,Schmiedestraße,19,,53.49719148,10.56386532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cDrG,21516,Schulendorf,Schmiedestraße,29,,53.496989,10.5656854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006dq1q,21516,Schulendorf,Meisenweg,4,,53.57545822,10.63526752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006g1lE,21516,Schulendorf,Amselstieg,9,,53.57628765,10.63574187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koWX,21516,Schulendorf,Pferdekoppel,13,,53.50013074,10.56422643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXG,21516,Schulendorf,Pferdekoppel,12,,53.49989803,10.56418953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXH,21516,Schulendorf,Pferdekoppel,11,,53.49966227,10.56410373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXQ,21516,Schulendorf,Pferdekoppel,7,,53.49972231,10.56309991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXa,21516,Schulendorf,Pferdekoppel,6,,53.49995572,10.56324711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXb,21516,Schulendorf,Pferdekoppel,3,,53.50018839,10.56328057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXo,21516,Schulendorf,Pferdekoppel,4,,53.50010638,10.56366344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koXp,21516,Schulendorf,Pferdekoppel,5,,53.49986461,10.56370508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koY6,21516,Schulendorf,Pferdekoppel,8,,53.49963488,10.56350152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koYE,21516,Schulendorf,Pferdekoppel,10,,53.49939594,10.56409557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006koYm,21516,Schulendorf,Pferdekoppel,9,,53.49949029,10.56379701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mKRv,21516,Schulendorf,Dreidorfer Weg,21,a,53.56488228,10.60952621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tA47,21516,Schulendorf,Schmiedestraße,36,,53.4972179,10.56579689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tA4h,21516,Schulendorf,Schmiedestraße,25,,53.49682586,10.56514719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vXMx,21516,Schulendorf,Dorfstraße,4,a,53.56402753,10.61095514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006z5SL,21516,Schulendorf,Schmiedestraße,32,,53.49706351,10.56629552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076H9h,21516,Schulendorf,Bergstraße,14,a,53.49901261,10.56115248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DNqR,21516,Schulendorf,An der Bahn,22,a,53.49783584,10.56537752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DNqS,21516,Schulendorf,An der Bahn,22,b,53.49782023,10.56546945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DNqT,21516,Schulendorf,An der Bahn,22,c,53.4978049,10.56556022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DNqU,21516,Schulendorf,An der Bahn,22,d,53.49778945,10.56565201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pbVs,21516,Schulendorf,Büchener Straße,3,a,53.50092349,10.56382232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pbVt,21516,Schulendorf,Büchener Straße,3,b,53.50117788,10.56392175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tTLC,21516,Schulendorf,Möllner Straße,6,c,53.57862984,10.63947852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tTLD,21516,Schulendorf,Möllner Straße,6,d,53.57856094,10.63947048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tTLp,21516,Schulendorf,Möllner Straße,6,e,53.5783925,10.63945366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tTLq,21516,Schulendorf,Möllner Straße,6,f,53.5783242,10.63944911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tTLw,21516,Schulendorf,Möllner Straße,6,b,53.57879672,10.6395028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000876Eq,21516,Schulendorf,Kiefernweg,1,a,53.5657598,10.64451989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AWwC,21516,Schulendorf,Postweg,6,a,53.49167357,10.56478657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AWwI,21516,Schulendorf,Postweg,6,b,53.49163043,10.56474805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AWwQ,21516,Schulendorf,Postweg,4,a,53.49179586,10.56496955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AWwd,21516,Schulendorf,Postweg,4,b,53.49175199,10.56493031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DXgY,21516,Schulendorf,Bergstraße,30,a,53.50186978,10.5624815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GmHS,21516,Schulendorf,Dreidorfer Weg,7,b,53.56742506,10.60546642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Hf44,21516,Schulendorf,Pferdekoppel,19,,53.50100966,10.56454206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gDfp,21516,Schulendorf,Am Sande,26,,53.49161663,10.56574983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gNAm,21516,Schulendorf,Tannenweg,3,,53.49461085,10.57312285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008r8dl,21516,Schulendorf,Bergstraße,56,,53.50695212,10.56758004

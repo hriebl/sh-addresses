@@ -1,0 +1,1001 @@
+# Amtliche Adressen für die Postleitzahl 23869
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LhZW,23869,Elmenhorst,Bargfelder Straße,9,,53.7679004,10.2387057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA0,23869,Elmenhorst,Am Dorfplatz,12,,53.76543917,10.28451759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA1,23869,Elmenhorst,Am Dorfplatz,12,a,53.76540915,10.28500018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA2,23869,Elmenhorst,Am Dorfplatz,12,c,53.76555148,10.28505288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA3,23869,Elmenhorst,Am Dorfplatz,13,,53.7652633,10.28445085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA4,23869,Elmenhorst,Am Dorfplatz,13,a,53.76522982,10.28506355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA5,23869,Elmenhorst,Am Dorfplatz,13,b,53.7651662,10.28505067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA6,23869,Elmenhorst,Am Dorfplatz,13,c,53.76503349,10.28502375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA7,23869,Elmenhorst,Am Dorfplatz,13,d,53.76496896,10.28501084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA8,23869,Elmenhorst,Am Dorfplatz,13,e,53.76481816,10.28503264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkA9,23869,Elmenhorst,Am Dorfplatz,14,,53.76487914,10.2842887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAA,23869,Elmenhorst,Bargteheider Straße,3,b,53.76352924,10.28361266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAB,23869,Elmenhorst,Bargteheider Straße,3,c,53.76340997,10.28385909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAC,23869,Elmenhorst,Bargteheider Straße,4,,53.76404265,10.2837396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAD,23869,Elmenhorst,Bargteheider Straße,5,,53.76340442,10.28323145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAE,23869,Elmenhorst,Bargteheider Straße,6,,53.76382587,10.28359487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAF,23869,Elmenhorst,Bargteheider Straße,7,,53.76334702,10.28284594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAG,23869,Elmenhorst,Bargteheider Straße,8,,53.7637224,10.28313464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAH,23869,Elmenhorst,Bargteheider Straße,9,,53.76323899,10.28252836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAI,23869,Elmenhorst,Dorfstraße,1,,53.76451565,10.2845149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAJ,23869,Elmenhorst,Dorfstraße,10,,53.76375607,10.28708008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAK,23869,Elmenhorst,Dorfstraße,12,,53.76419262,10.28892371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAL,23869,Elmenhorst,Dorfstraße,13,,53.76423848,10.2878881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAM,23869,Elmenhorst,Dorfstraße,14,,53.76428624,10.28908415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAN,23869,Elmenhorst,Dorfstraße,15,,53.76430634,10.28844836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAO,23869,Elmenhorst,Dorfstraße,16,,53.76447553,10.28925604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAP,23869,Elmenhorst,Dorfstraße,17,,53.76445162,10.28863653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAQ,23869,Elmenhorst,Dorfstraße,18,,53.76470643,10.28956513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAR,23869,Elmenhorst,Dorfstraße,2,,53.76413797,10.28461238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAS,23869,Elmenhorst,Dorfstraße,20,,53.76488226,10.28989889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAT,23869,Elmenhorst,Dorfstraße,22,,53.76502217,10.2900355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAU,23869,Elmenhorst,Dorfstraße,24,,53.76527906,10.29017261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAV,23869,Elmenhorst,Dorfstraße,26,,53.76541988,10.29033432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAW,23869,Elmenhorst,Dorfstraße,26,a,53.76546363,10.29038397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAX,23869,Elmenhorst,Dorfstraße,28,,53.76560158,10.2904885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAY,23869,Elmenhorst,Dorfstraße,29,,53.76494834,10.28941393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAZ,23869,Elmenhorst,Dorfstraße,29,a,53.7648181,10.28912012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAa,23869,Elmenhorst,Am Dorfplatz,2,,53.7651641,10.28330019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAb,23869,Elmenhorst,Am Dorfplatz,3,,53.76523834,10.28331412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAc,23869,Elmenhorst,Am Dorfplatz,4,,53.76533985,10.28299558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAd,23869,Elmenhorst,Am Dorfplatz,5,,53.76544223,10.28324673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAe,23869,Elmenhorst,Am Dorfplatz,6,,53.76577199,10.28360766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAf,23869,Elmenhorst,Am Dorfplatz,7,,53.76611652,10.28410994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAg,23869,Elmenhorst,Am Dorfplatz,9,,53.76606804,10.28542234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAh,23869,Elmenhorst,Bargteheider Straße,10,,53.76362726,10.2827255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAi,23869,Elmenhorst,Bargteheider Straße,11,,53.76306886,10.28247099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAj,23869,Elmenhorst,Bargteheider Straße,12,,53.76353264,10.28236086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAk,23869,Elmenhorst,Bargteheider Straße,13,,53.76291559,10.28229732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAl,23869,Elmenhorst,Bargteheider Straße,13,a,53.76285578,10.28226268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAm,23869,Elmenhorst,Bargteheider Straße,14,,53.76365508,10.28204623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAn,23869,Elmenhorst,Bargteheider Straße,15,,53.76268274,10.28214642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAo,23869,Elmenhorst,Bargteheider Straße,16,,53.76329619,10.28214427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAp,23869,Elmenhorst,Bargteheider Straße,17,,53.76242982,10.28209947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAq,23869,Elmenhorst,Bargteheider Straße,18,,53.76314526,10.28200102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAr,23869,Elmenhorst,Bargteheider Straße,18,a,53.76301342,10.28190962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAs,23869,Elmenhorst,Bargteheider Straße,18,b,53.76293317,10.28191715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAt,23869,Elmenhorst,Bargteheider Straße,19,,53.76225075,10.28208449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAu,23869,Elmenhorst,Bargteheider Straße,2,,53.76435701,10.28413483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAv,23869,Elmenhorst,Bargteheider Straße,20,,53.76282354,10.28176324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAw,23869,Elmenhorst,Bargteheider Straße,21,,53.76213392,10.28183238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAx,23869,Elmenhorst,Bargteheider Straße,26,,53.7622778,10.28138328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAy,23869,Elmenhorst,Bargteheider Straße,3,,53.76386991,10.28404972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkAz,23869,Elmenhorst,Bargteheider Straße,3,a,53.76356416,10.28465737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB0,23869,Elmenhorst,Dorfstraße,3,,53.76433875,10.28474865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB1,23869,Elmenhorst,Dorfstraße,30,,53.76579238,10.29094419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB2,23869,Elmenhorst,Dorfstraße,31,,53.76517392,10.28954088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB3,23869,Elmenhorst,Dorfstraße,33,,53.76532609,10.2897014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB4,23869,Elmenhorst,Dorfstraße,34,,53.76572417,10.29213282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB5,23869,Elmenhorst,Dorfstraße,35,,53.7654504,10.28996898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB6,23869,Elmenhorst,Dorfstraße,36,,53.76572879,10.29252878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB7,23869,Elmenhorst,Dorfstraße,37,,53.76570375,10.2899482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB8,23869,Elmenhorst,Dorfstraße,38,,53.76577353,10.29307883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkB9,23869,Elmenhorst,Dorfstraße,39,,53.76618461,10.29102025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBA,23869,Elmenhorst,Elmenhorster Straße,14,,53.76549049,10.28111051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBB,23869,Elmenhorst,Elmenhorster Straße,15,,53.76513325,10.2806103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBC,23869,Elmenhorst,Elmenhorster Straße,16,,53.76553056,10.28079477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBD,23869,Elmenhorst,Elmenhorster Straße,2,,53.76471749,10.28349654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBE,23869,Elmenhorst,Elmenhorster Straße,3,,53.76444418,10.28331557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBF,23869,Elmenhorst,Elmenhorster Straße,4,,53.76474455,10.28313436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBG,23869,Elmenhorst,Elmenhorster Straße,5,,53.76414309,10.28308753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBH,23869,Elmenhorst,Elmenhorster Straße,6,,53.76517519,10.28263212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBI,23869,Elmenhorst,Elmenhorster Straße,7,,53.76450657,10.28276067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBJ,23869,Elmenhorst,Elmenhorster Straße,8,,53.76524314,10.28216492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBK,23869,Elmenhorst,Elmenhorster Straße,9,,53.76485339,10.28209358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBL,23869,Elmenhorst,Krökenhorster Weg,1,,53.76551458,10.29467262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBM,23869,Elmenhorst,Krökenhorster Weg,1,a,53.76542507,10.29496292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBN,23869,Elmenhorst,Krökenhorster Weg,10,,53.76495282,10.29567131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBO,23869,Elmenhorst,Krökenhorster Weg,10,a,53.76486351,10.29593885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBP,23869,Elmenhorst,Krökenhorster Weg,11,,53.76509969,10.29677616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBQ,23869,Elmenhorst,Krökenhorster Weg,12,,53.76485304,10.29618469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBR,23869,Elmenhorst,Krökenhorster Weg,13,,53.76507629,10.29777656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBS,23869,Elmenhorst,Krökenhorster Weg,14,,53.76474846,10.2964424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBT,23869,Elmenhorst,Krökenhorster Weg,16,,53.76466074,10.29676866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBU,23869,Elmenhorst,Krökenhorster Weg,17,,53.76480627,10.2975903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBV,23869,Elmenhorst,Krökenhorster Weg,18,,53.76461755,10.29721711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBW,23869,Elmenhorst,Krökenhorster Weg,19,,53.76463917,10.29791618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBX,23869,Elmenhorst,Krökenhorster Weg,19,a,53.76472738,10.29801077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBY,23869,Elmenhorst,Krökenhorster Weg,19,b,53.76478017,10.29814089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBZ,23869,Elmenhorst,Krökenhorster Weg,2,a,53.7655007,10.29407218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBa,23869,Elmenhorst,Dorfstraße,39,a,53.76618608,10.29111285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBb,23869,Elmenhorst,Dorfstraße,39,b,53.76616643,10.29130474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBc,23869,Elmenhorst,Dorfstraße,39,c,53.76617059,10.29139595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBd,23869,Elmenhorst,Dorfstraße,39,d,53.76619662,10.29164394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBe,23869,Elmenhorst,Dorfstraße,4,,53.76401184,10.28497038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBf,23869,Elmenhorst,Dorfstraße,41,,53.7660733,10.29194803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBg,23869,Elmenhorst,Dorfstraße,42,,53.76572048,10.29373778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBh,23869,Elmenhorst,Dorfstraße,43,,53.76608017,10.29219218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBi,23869,Elmenhorst,Dorfstraße,44,,53.76593204,10.29440167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBj,23869,Elmenhorst,Dorfstraße,45,,53.76610899,10.29253753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBk,23869,Elmenhorst,Dorfstraße,46,,53.7660214,10.2946198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBl,23869,Elmenhorst,Dorfstraße,47,,53.76611921,10.29282654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBm,23869,Elmenhorst,Dorfstraße,49,,53.7661764,10.29308638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBn,23869,Elmenhorst,Dorfstraße,51,,53.76606132,10.29334418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBo,23869,Elmenhorst,Dorfstraße,53,,53.76616648,10.29361106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBp,23869,Elmenhorst,Dorfstraße,55,,53.76614674,10.29393428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBq,23869,Elmenhorst,Dorfstraße,57,,53.76625465,10.29426199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBr,23869,Elmenhorst,Dorfstraße,6,,53.76388515,10.28530546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBs,23869,Elmenhorst,Dorfstraße,7,,53.76415766,10.28554983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBt,23869,Elmenhorst,Elmenhorster Straße,1,a,53.76438818,10.28363565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBu,23869,Elmenhorst,Elmenhorster Straße,1,b,53.76438425,10.28352362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBv,23869,Elmenhorst,Elmenhorster Straße,10,,53.76527013,10.28161973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBw,23869,Elmenhorst,Elmenhorster Straße,11,,53.76508558,10.28181047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBx,23869,Elmenhorst,Elmenhorster Straße,11,a,53.76510096,10.2815455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBy,23869,Elmenhorst,Elmenhorster Straße,12,,53.76534257,10.28132391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkBz,23869,Elmenhorst,Elmenhorster Straße,13,,53.76513692,10.28103459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC0,23869,Elmenhorst,Krökenhorster Weg,2,b,53.76544614,10.2942045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC1,23869,Elmenhorst,Krökenhorster Weg,20,,53.76448047,10.29747421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC2,23869,Elmenhorst,Krökenhorster Weg,21,,53.76461104,10.29823944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC3,23869,Elmenhorst,Krökenhorster Weg,22,,53.76431769,10.29765125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC4,23869,Elmenhorst,Krökenhorster Weg,23,,53.76451182,10.29862143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC5,23869,Elmenhorst,Krökenhorster Weg,24,,53.7643422,10.29793347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC6,23869,Elmenhorst,Krökenhorster Weg,24,a,53.76413358,10.29818754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC7,23869,Elmenhorst,Krökenhorster Weg,24,b,53.76399458,10.2984129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC8,23869,Elmenhorst,Krökenhorster Weg,25,,53.76465414,10.30078694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkC9,23869,Elmenhorst,Krökenhorster Weg,25,a,53.76454086,10.30042269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCA,23869,Elmenhorst,Lohe,3,,53.76321038,10.28727384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCB,23869,Elmenhorst,Lohe,30,,53.76107606,10.28673878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCC,23869,Elmenhorst,Lohe,4,,53.76356102,10.28606996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCD,23869,Elmenhorst,Lohe,5,,53.76290942,10.28760955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCE,23869,Elmenhorst,Lohe,6,,53.76344815,10.28628013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCF,23869,Elmenhorst,Lohe,7,,53.76275475,10.28782269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCG,23869,Elmenhorst,Lohe,8,,53.76332612,10.28666456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCH,23869,Elmenhorst,Lohe,9,,53.7624189,10.28775684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCI,23869,Elmenhorst,Lohe,9,a,53.76224942,10.28780038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCJ,23869,Elmenhorst,Poggenhorst,1,,53.76563778,10.28946763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCK,23869,Elmenhorst,Poggenhorst,1,a,53.76589462,10.29032148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCL,23869,Elmenhorst,Poggenhorst,3,,53.76605989,10.28915108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCM,23869,Elmenhorst,Poggenhorst,5,,53.76636952,10.2890424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCN,23869,Elmenhorst,Poggenhorst,7,,53.76651618,10.28887437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCO,23869,Elmenhorst,Poggenhorst,9,,53.76739814,10.28837555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCP,23869,Elmenhorst,Siedlung,1,,53.76193276,10.2877477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCQ,23869,Elmenhorst,Siedlung,10,,53.76143453,10.28924983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCR,23869,Elmenhorst,Siedlung,11,,53.76165247,10.28964352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCS,23869,Elmenhorst,Siedlung,12,,53.76145895,10.28953489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCT,23869,Elmenhorst,Siedlung,2,,53.76163149,10.28793329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCU,23869,Elmenhorst,Siedlung,3,,53.76193146,10.28812637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCV,23869,Elmenhorst,Siedlung,4,,53.76158344,10.28822893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCW,23869,Elmenhorst,Siedlung,5,,53.76190325,10.28855933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCX,23869,Elmenhorst,Siedlung,6,,53.761519,10.28848865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCY,23869,Elmenhorst,Siedlung,7,,53.76187572,10.28897038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCZ,23869,Elmenhorst,Siedlung,8,,53.76147917,10.28888302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCa,23869,Elmenhorst,Krökenhorster Weg,26,,53.76277812,10.30106714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCb,23869,Elmenhorst,Krökenhorster Weg,27,,53.76429288,10.29877453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCc,23869,Elmenhorst,Krökenhorster Weg,3,,53.76536044,10.29524147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCd,23869,Elmenhorst,Krökenhorster Weg,3,a,53.76541409,10.29533951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCe,23869,Elmenhorst,Krökenhorster Weg,4,,53.76533202,10.29445718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCf,23869,Elmenhorst,Krökenhorster Weg,5,,53.76532349,10.2955394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCg,23869,Elmenhorst,Krökenhorster Weg,5,a,53.76524237,10.29555793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCh,23869,Elmenhorst,Krökenhorster Weg,6,,53.76524719,10.29465989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCi,23869,Elmenhorst,Krökenhorster Weg,7,,53.76519052,10.2958712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCj,23869,Elmenhorst,Krökenhorster Weg,8,,53.76510966,10.29526258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCk,23869,Elmenhorst,Krökenhorster Weg,9,,53.76520443,10.29632297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCl,23869,Elmenhorst,Lohe,1,,53.7635932,10.28664171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCm,23869,Elmenhorst,Lohe,1,a,53.76353284,10.2867722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCn,23869,Elmenhorst,Lohe,10,,53.76315143,10.28685983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCo,23869,Elmenhorst,Lohe,11,,53.76134323,10.28777526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCp,23869,Elmenhorst,Lohe,12,,53.76300473,10.286883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCq,23869,Elmenhorst,Lohe,13,,53.76134968,10.28766778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCr,23869,Elmenhorst,Lohe,14,,53.76285114,10.28681951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCs,23869,Elmenhorst,Lohe,16,,53.76258387,10.28701883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCt,23869,Elmenhorst,Lohe,18,,53.76243202,10.28703353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCu,23869,Elmenhorst,Lohe,2,,53.76373487,10.28572048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCv,23869,Elmenhorst,Lohe,20,,53.76227546,10.28704314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCw,23869,Elmenhorst,Lohe,22,,53.76206117,10.28696536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCx,23869,Elmenhorst,Lohe,24,,53.76176213,10.28702815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCy,23869,Elmenhorst,Lohe,26,,53.76161363,10.28695683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkCz,23869,Elmenhorst,Lohe,28,,53.76131451,10.2867852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD0,23869,Elmenhorst,Siedlung,9,,53.76184965,10.2894124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD1,23869,Elmenhorst,Twiete,1,,53.76388061,10.28831238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD2,23869,Elmenhorst,Twiete,2,,53.76356418,10.28756063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD3,23869,Elmenhorst,Twiete,2,a,53.76367657,10.28774993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD4,23869,Elmenhorst,Twiete,3,,53.76365669,10.28799746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD5,23869,Elmenhorst,Twiete,5,,53.76346939,10.28795954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD6,23869,Elmenhorst,Twiete,7,,53.76330489,10.28777157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD7,23869,Elmenhorst,Twiete,9,,53.76314344,10.28763769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD8,23869,Elmenhorst,Zum Mühlengrund,1,,53.76599234,10.28211494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkD9,23869,Elmenhorst,Zum Mühlengrund,1,a,53.76551811,10.28215268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDa,23869,Elmenhorst,Zum Mühlengrund,11,,53.76704564,10.28142585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDb,23869,Elmenhorst,Zum Mühlengrund,11,a,53.7667908,10.28095467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDc,23869,Elmenhorst,Zum Mühlengrund,2,,53.76574823,10.28274899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDd,23869,Elmenhorst,Zum Mühlengrund,2,a,53.77067987,10.2820859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDe,23869,Elmenhorst,Zum Mühlengrund,3,,53.7661635,10.28198714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDf,23869,Elmenhorst,Zum Mühlengrund,7,,53.76651214,10.28161999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkDg,23869,Elmenhorst,Zum Mühlengrund,9,,53.7666631,10.28151558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq0,23869,Elmenhorst,Am Sanden,1,,53.76800312,10.26397756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq1,23869,Elmenhorst,Am Sanden,10,,53.76859737,10.26286833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq2,23869,Elmenhorst,Am Sanden,11,,53.76841647,10.26248536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq3,23869,Elmenhorst,Am Sanden,12,,53.76883456,10.26265416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq4,23869,Elmenhorst,Am Sanden,13,,53.76812819,10.26249061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq5,23869,Elmenhorst,Am Sanden,14,,53.76885365,10.26258812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq6,23869,Elmenhorst,Am Sanden,15,,53.76854746,10.26203184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq7,23869,Elmenhorst,Am Sanden,16,,53.76887942,10.26205551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq8,23869,Elmenhorst,Am Sanden,17,,53.76832249,10.26208966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkq9,23869,Elmenhorst,Am Sanden,18,,53.7689804,10.26177129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqA,23869,Elmenhorst,Am Sportplatz,21,,53.7570012,10.2563065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqB,23869,Elmenhorst,Am Sportplatz,22,,53.75739216,10.255983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqC,23869,Elmenhorst,Am Sportplatz,23,,53.75708138,10.25600153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqD,23869,Elmenhorst,Am Sportplatz,23,a,53.75705573,10.25609757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqE,23869,Elmenhorst,Am Sportplatz,25,,53.75708311,10.25568306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqF,23869,Elmenhorst,Am Sportplatz,27,,53.75719723,10.25544369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqG,23869,Elmenhorst,Am Sportplatz,29,a,53.75727358,10.25524765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqH,23869,Elmenhorst,Am Sportplatz,29,b,53.75729918,10.255151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqI,23869,Elmenhorst,Am Sportplatz,3,,53.75852495,10.25748961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqJ,23869,Elmenhorst,Am Sportplatz,31,a,53.75732188,10.25496855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqK,23869,Elmenhorst,Am Sportplatz,31,b,53.7572433,10.25484815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqL,23869,Elmenhorst,Am Sportplatz,4,,53.75898077,10.25724194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqM,23869,Elmenhorst,Am Sportplatz,5,,53.75839053,10.25738061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqN,23869,Elmenhorst,Am Sportplatz,6,,53.75878911,10.2571577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqO,23869,Elmenhorst,Am Sportplatz,7,,53.75822277,10.25729985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqP,23869,Elmenhorst,Am Sportplatz,8,,53.75863164,10.25705681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqQ,23869,Elmenhorst,Am Sportplatz,8,a,53.75842547,10.25695401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqR,23869,Elmenhorst,Am Sportplatz,9,,53.75805672,10.25717589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqS,23869,Elmenhorst,Bargfelder Straße,1,,53.76523737,10.26234849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqT,23869,Elmenhorst,Bargfelder Straße,1,a,53.76532465,10.2620165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqU,23869,Elmenhorst,Bargfelder Straße,1,b,53.76542806,10.26100231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqV,23869,Elmenhorst,Bargfelder Straße,10,a,53.76564714,10.26178978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqW,23869,Elmenhorst,Bargfelder Straße,10,b,53.7656582,10.26160902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqX,23869,Elmenhorst,Bargfelder Straße,11,,53.76800633,10.23761088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqY,23869,Elmenhorst,Bargfelder Straße,12,,53.76566371,10.26127465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkqZ,23869,Elmenhorst,Bargfelder Straße,12,a,53.76590939,10.26151747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqa,23869,Elmenhorst,Am Sanden,19,,53.76864192,10.26178151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqb,23869,Elmenhorst,Am Sanden,2,,53.76833524,10.26394179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqc,23869,Elmenhorst,Am Sanden,3,,53.76807369,10.26373985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqd,23869,Elmenhorst,Am Sanden,3,a,53.767947,10.26359333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqe,23869,Elmenhorst,Am Sanden,4,,53.76839975,10.26369861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqf,23869,Elmenhorst,Am Sanden,5,,53.76814805,10.26348798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqg,23869,Elmenhorst,Am Sanden,6,,53.76848894,10.26339805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqh,23869,Elmenhorst,Am Sanden,7,,53.76824182,10.26317906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqi,23869,Elmenhorst,Am Sanden,8,,53.7685671,10.26316512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqj,23869,Elmenhorst,Am Sanden,9,,53.76827503,10.26289949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqk,23869,Elmenhorst,Am Sportplatz,1,,53.75869267,10.25761375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkql,23869,Elmenhorst,Am Sportplatz,10,,53.75825416,10.25676121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqm,23869,Elmenhorst,Am Sportplatz,11,,53.75789254,10.25706016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqn,23869,Elmenhorst,Am Sportplatz,12,,53.75810066,10.25665085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqo,23869,Elmenhorst,Am Sportplatz,13,,53.75769448,10.25692225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqp,23869,Elmenhorst,Am Sportplatz,14,,53.75794483,10.25655089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqq,23869,Elmenhorst,Am Sportplatz,15,,53.75756237,10.25678573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqr,23869,Elmenhorst,Am Sportplatz,16,,53.75779593,10.25643971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqs,23869,Elmenhorst,Am Sportplatz,17,,53.75739764,10.25667414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqt,23869,Elmenhorst,Am Sportplatz,18,,53.75765139,10.25634197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqu,23869,Elmenhorst,Am Sportplatz,19,,53.75723445,10.25661874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqv,23869,Elmenhorst,Am Sportplatz,19,a,53.75668872,10.25708115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqw,23869,Elmenhorst,Am Sportplatz,19,b,53.75675123,10.2568291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqx,23869,Elmenhorst,Am Sportplatz,19,c,53.75690077,10.25656281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqy,23869,Elmenhorst,Am Sportplatz,2,,53.75920358,10.25725993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkqz,23869,Elmenhorst,Am Sportplatz,20,,53.7575107,10.25623113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr0,23869,Elmenhorst,Bargfelder Straße,14,,53.76584555,10.26089967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr1,23869,Elmenhorst,Bargfelder Straße,16,,53.76587759,10.2606306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr2,23869,Elmenhorst,Bargfelder Straße,2,,53.7654932,10.2629092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr3,23869,Elmenhorst,Bargfelder Straße,20,,53.76590354,10.26035834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr4,23869,Elmenhorst,Bargfelder Straße,22,,53.76584791,10.25992409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr5,23869,Elmenhorst,Bargfelder Straße,22,a,53.76601788,10.25969903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr6,23869,Elmenhorst,Bargfelder Straße,24,,53.76602459,10.2594468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr7,23869,Elmenhorst,Bargfelder Straße,26,,53.76606559,10.25905969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkr8,23869,Elmenhorst,Bargfelder Straße,26,a,53.76615245,10.25860571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrA,23869,Elmenhorst,Bargkoppel,38,,53.76814649,10.26018533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrB,23869,Elmenhorst,Bargkoppel,4,,53.76864764,10.26040653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrC,23869,Elmenhorst,Bargkoppel,40,,53.7682121,10.25991892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrD,23869,Elmenhorst,Bargkoppel,42,,53.76831391,10.25967119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrE,23869,Elmenhorst,Bargkoppel,44,,53.76834338,10.25936418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrF,23869,Elmenhorst,Bargkoppel,46,,53.76844014,10.25908882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrG,23869,Elmenhorst,Bargkoppel,48,,53.76847969,10.25878582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrH,23869,Elmenhorst,Bargkoppel,5,,53.76802848,10.26059241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrI,23869,Elmenhorst,Bargkoppel,5,a,53.76798487,10.26055456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrJ,23869,Elmenhorst,Bargkoppel,50,,53.7682805,10.25875824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrK,23869,Elmenhorst,Bargkoppel,52,,53.76807992,10.25888559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrL,23869,Elmenhorst,Bargkoppel,54,,53.76809842,10.25928632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrM,23869,Elmenhorst,Bargkoppel,56,,53.76804134,10.25965572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrN,23869,Elmenhorst,Bargkoppel,58,,53.76796206,10.25997784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrO,23869,Elmenhorst,Bargkoppel,6,,53.76877383,10.26013931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrP,23869,Elmenhorst,Bargkoppel,7,,53.76776415,10.26071958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrQ,23869,Elmenhorst,Bargkoppel,8,,53.76887129,10.25993468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrR,23869,Elmenhorst,Bargkoppel,9,,53.7678491,10.2603826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrS,23869,Elmenhorst,Bargredder,2,,53.766403,10.25899714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrT,23869,Elmenhorst,Bargredder,3,,53.76631894,10.25792713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrU,23869,Elmenhorst,Bargredder,4,,53.76653618,10.25845202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrV,23869,Elmenhorst,Bargredder,6,,53.76667009,10.25893193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrW,23869,Elmenhorst,Bäkmüssen,1,,53.78128505,10.25018926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrX,23869,Elmenhorst,Bäkmüssen,1,a,53.78135442,10.25129401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrY,23869,Elmenhorst,Bäkmüssen,2,,53.78107488,10.25072345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkrZ,23869,Elmenhorst,Bäkmüssen,3,,53.78155443,10.25187415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkra,23869,Elmenhorst,Bargfelder Straße,3,,53.76556552,10.2597944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrb,23869,Elmenhorst,Bargfelder Straße,30,,53.76766416,10.24757326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrc,23869,Elmenhorst,Bargfelder Straße,32,,53.76837343,10.24169319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrd,23869,Elmenhorst,Bargfelder Straße,4,,53.76558087,10.26257657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkre,23869,Elmenhorst,Bargfelder Straße,5,,53.76632694,10.25386197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrf,23869,Elmenhorst,Bargfelder Straße,6,,53.76556766,10.2621146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrg,23869,Elmenhorst,Bargfelder Straße,7,,53.76775717,10.23831263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrh,23869,Elmenhorst,Bargfelder Straße,8,,53.76601333,10.26226286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrj,23869,Elmenhorst,Bargkoppel,10,,53.76896402,10.25970902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrk,23869,Elmenhorst,Bargkoppel,12,,53.76900216,10.2593974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrl,23869,Elmenhorst,Bargkoppel,14,,53.76915751,10.25940678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrm,23869,Elmenhorst,Bargkoppel,16,,53.76932021,10.25923145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrn,23869,Elmenhorst,Bargkoppel,18,,53.76952666,10.25888907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkro,23869,Elmenhorst,Bargkoppel,2,,53.76851615,10.26067502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrp,23869,Elmenhorst,Bargkoppel,20,,53.76936767,10.25894748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrq,23869,Elmenhorst,Bargkoppel,22,,53.76917104,10.25893197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrr,23869,Elmenhorst,Bargkoppel,24,,53.76901583,10.25883065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrs,23869,Elmenhorst,Bargkoppel,26,a,53.76881227,10.25881439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrt,23869,Elmenhorst,Bargkoppel,26,b,53.76877311,10.25887682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkru,23869,Elmenhorst,Bargkoppel,28,,53.76873344,10.25910235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrv,23869,Elmenhorst,Bargkoppel,3,,53.76818478,10.26076039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrw,23869,Elmenhorst,Bargkoppel,30,,53.76873997,10.25946942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrx,23869,Elmenhorst,Bargkoppel,32,,53.76862598,10.25980797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkry,23869,Elmenhorst,Bargkoppel,34,,53.76849333,10.26014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkrz,23869,Elmenhorst,Bargkoppel,36,,53.76837314,10.26036921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks0,23869,Elmenhorst,Bäkmüssen,4,,53.78109803,10.2513767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks1,23869,Elmenhorst,Bäkmüssen,4,a,53.7812363,10.25186857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks2,23869,Elmenhorst,Bäkmüssen,6,,53.78134445,10.252186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks3,23869,Elmenhorst,Bäkmüssen,6,a,53.78130371,10.25234406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks4,23869,Elmenhorst,Bergweg,1,,53.7630288,10.26078023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks5,23869,Elmenhorst,Bergweg,2,,53.76307803,10.26029208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks6,23869,Elmenhorst,Bergweg,3,,53.76296377,10.26049582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks7,23869,Elmenhorst,Bergweg,4,,53.7629763,10.25988968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks8,23869,Elmenhorst,Bergweg,5,,53.762882,10.26017092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lks9,23869,Elmenhorst,Bergweg,7,,53.76278954,10.25986684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksA,23869,Elmenhorst,Bundesstraße,31,,53.76168583,10.26068299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksB,23869,Elmenhorst,Bundesstraße,32,,53.76138758,10.25984852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksC,23869,Elmenhorst,Bundesstraße,33,,53.76157252,10.26060455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksD,23869,Elmenhorst,Bundesstraße,34,,53.76096982,10.2597634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksE,23869,Elmenhorst,Bundesstraße,35,,53.76142289,10.26051264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksF,23869,Elmenhorst,Bundesstraße,39,,53.761264,10.2603911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksG,23869,Elmenhorst,Bundesstraße,4,,53.76794779,10.26541835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksH,23869,Elmenhorst,Bundesstraße,41,,53.76111331,10.26037559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksI,23869,Elmenhorst,Bundesstraße,43,,53.76098045,10.26030398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksJ,23869,Elmenhorst,Bundesstraße,45,,53.7608282,10.26018974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksK,23869,Elmenhorst,Bundesstraße,47,,53.76063413,10.26011044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksL,23869,Elmenhorst,Bundesstraße,49,,53.76048557,10.26007598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksM,23869,Elmenhorst,Bundesstraße,5,,53.76711804,10.26597969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksN,23869,Elmenhorst,Bundesstraße,51,,53.76026668,10.26006756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksO,23869,Elmenhorst,Bundesstraße,57,,53.75979149,10.25999055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksP,23869,Elmenhorst,Bundesstraße,6,,53.76760909,10.2651075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksQ,23869,Elmenhorst,Bundesstraße,7,,53.76676299,10.26539915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksR,23869,Elmenhorst,Bundesstraße,8,,53.7669358,10.26465748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksS,23869,Elmenhorst,Bundesstraße,9,,53.76634855,10.26534021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksT,23869,Elmenhorst,Eichenweg,10,,53.76464237,10.26733858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksU,23869,Elmenhorst,Eichenweg,11,,53.76485911,10.26617227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksV,23869,Elmenhorst,Eichenweg,12,,53.76473821,10.26765424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksW,23869,Elmenhorst,Eichenweg,13,,53.76475643,10.26650532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksX,23869,Elmenhorst,Eichenweg,14,,53.76486013,10.2674945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksY,23869,Elmenhorst,Eichenweg,15,,53.76485135,10.26670657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LksZ,23869,Elmenhorst,Eichenweg,16,,53.76498168,10.26720758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksa,23869,Elmenhorst,Bundesstraße,1,,53.77003173,10.26838796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksb,23869,Elmenhorst,Bundesstraße,1,a,53.76978963,10.26801655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksc,23869,Elmenhorst,Bundesstraße,10,,53.76677021,10.26451987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksd,23869,Elmenhorst,Bundesstraße,11,,53.7660021,10.26470578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkse,23869,Elmenhorst,Bundesstraße,12,,53.7666827,10.26445323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksf,23869,Elmenhorst,Bundesstraße,13,,53.76571392,10.26440373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksg,23869,Elmenhorst,Bundesstraße,14,,53.76649909,10.26429945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksh,23869,Elmenhorst,Bundesstraße,15,,53.76546028,10.26462771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksi,23869,Elmenhorst,Bundesstraße,16,,53.76634558,10.26415671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksj,23869,Elmenhorst,Bundesstraße,18,,53.76609755,10.26398308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksk,23869,Elmenhorst,Bundesstraße,18,a,53.76565114,10.26335434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksl,23869,Elmenhorst,Bundesstraße,18,b,53.76597067,10.263502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksm,23869,Elmenhorst,Bundesstraße,19,,53.76530511,10.26378678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksn,23869,Elmenhorst,Bundesstraße,2,,53.76896128,10.26606409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkso,23869,Elmenhorst,Bundesstraße,20,,53.76514394,10.26286115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksp,23869,Elmenhorst,Bundesstraße,21,,53.76473295,10.26345092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksq,23869,Elmenhorst,Bundesstraße,22,,53.7648649,10.26269443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksr,23869,Elmenhorst,Bundesstraße,23,,53.76228478,10.2612119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkss,23869,Elmenhorst,Bundesstraße,24,,53.76461951,10.26266131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkst,23869,Elmenhorst,Bundesstraße,25,,53.76213812,10.26107108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksu,23869,Elmenhorst,Bundesstraße,26,,53.76242713,10.260829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksv,23869,Elmenhorst,Bundesstraße,26,a,53.7621637,10.26060235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksw,23869,Elmenhorst,Bundesstraße,27,,53.76202243,10.26096914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksx,23869,Elmenhorst,Bundesstraße,28,,53.76195388,10.26028788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lksy,23869,Elmenhorst,Bundesstraße,29,,53.76186148,10.26081418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt0,23869,Elmenhorst,Eichenweg,17,,53.76501023,10.26631823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt1,23869,Elmenhorst,Eichenweg,18,,53.76514414,10.26748879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt2,23869,Elmenhorst,Eichenweg,18,a,53.76511614,10.26756966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt3,23869,Elmenhorst,Eichenweg,19,,53.7651413,10.26635437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt4,23869,Elmenhorst,Eichenweg,2,,53.76421334,10.26646802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt5,23869,Elmenhorst,Eichenweg,20,,53.76498933,10.2679109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt6,23869,Elmenhorst,Eichenweg,20,a,53.76495277,10.26801559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt7,23869,Elmenhorst,Eichenweg,21,,53.76504395,10.26672937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt8,23869,Elmenhorst,Eichenweg,22,,53.7651007,10.2682989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkt9,23869,Elmenhorst,Eichenweg,23,,53.76517437,10.26695509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktA,23869,Elmenhorst,Eichenweg,48,a,53.76576898,10.2687865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktB,23869,Elmenhorst,Eichenweg,50,,53.76570232,10.26904083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktC,23869,Elmenhorst,Eichenweg,6,,53.76449205,10.2668255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktD,23869,Elmenhorst,Eichenweg,7,,53.7646028,10.26634576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktE,23869,Elmenhorst,Eichenweg,8,,53.76473034,10.26710184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktF,23869,Elmenhorst,Eichenweg,9,,53.76473993,10.2660418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktG,23869,Elmenhorst,Finkenweg,1,,53.75930927,10.25767958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktH,23869,Elmenhorst,Finkenweg,2,,53.75899675,10.25779479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktI,23869,Elmenhorst,Finkenweg,3,,53.75933264,10.2579993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktJ,23869,Elmenhorst,Finkenweg,4,,53.75897389,10.2581434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktL,23869,Elmenhorst,Finkenweg,7,,53.7594824,10.25861975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktM,23869,Elmenhorst,Erlenweg,1,,53.76540101,10.26718601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktN,23869,Elmenhorst,Erlenweg,10,,53.76602713,10.26710553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktO,23869,Elmenhorst,Erlenweg,11,,53.76559559,10.26600104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktP,23869,Elmenhorst,Erlenweg,12,,53.76583214,10.26691823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktQ,23869,Elmenhorst,Erlenweg,13,a,53.76544761,10.26594505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktR,23869,Elmenhorst,Erlenweg,13,b,53.7654141,10.2660471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktS,23869,Elmenhorst,Erlenweg,14,,53.76600244,10.26638852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktT,23869,Elmenhorst,Erlenweg,15,,53.76528677,10.26571182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktU,23869,Elmenhorst,Erlenweg,16,,53.76617388,10.26642498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktV,23869,Elmenhorst,Erlenweg,17,,53.76512072,10.2656169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktW,23869,Elmenhorst,Erlenweg,18,,53.76630357,10.26670876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktX,23869,Elmenhorst,Erlenweg,19,a,53.76495251,10.26549491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktY,23869,Elmenhorst,Erlenweg,19,b,53.76490025,10.26542798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LktZ,23869,Elmenhorst,Erlenweg,2,,53.76573989,10.26713277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkta,23869,Elmenhorst,Eichenweg,24,,53.76510585,10.26804311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktb,23869,Elmenhorst,Eichenweg,25,,53.76565717,10.26749551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktc,23869,Elmenhorst,Eichenweg,25,a,53.76569058,10.26740259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktd,23869,Elmenhorst,Eichenweg,26,,53.76520392,10.26779298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkte,23869,Elmenhorst,Eichenweg,27,,53.76579932,10.26768489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktf,23869,Elmenhorst,Eichenweg,28,,53.76527851,10.26755735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktg,23869,Elmenhorst,Eichenweg,29,,53.76595666,10.26783775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkth,23869,Elmenhorst,Eichenweg,29,a,53.76601988,10.26791029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkti,23869,Elmenhorst,Eichenweg,3,,53.76423176,10.2660213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktj,23869,Elmenhorst,Eichenweg,30,,53.76553347,10.26782372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktk,23869,Elmenhorst,Eichenweg,31,,53.76614505,10.26821597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktl,23869,Elmenhorst,Eichenweg,32,,53.7654208,10.26812992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktm,23869,Elmenhorst,Eichenweg,33,,53.76618963,10.26848954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktn,23869,Elmenhorst,Eichenweg,34,,53.76533548,10.26838269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkto,23869,Elmenhorst,Eichenweg,35,,53.76600764,10.26879487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktp,23869,Elmenhorst,Eichenweg,36,,53.76528595,10.26861051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktq,23869,Elmenhorst,Eichenweg,37,,53.76592812,10.26905559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktr,23869,Elmenhorst,Eichenweg,38,,53.76541723,10.26875464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkts,23869,Elmenhorst,Eichenweg,39,,53.7658807,10.2694053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktt,23869,Elmenhorst,Eichenweg,39,a,53.76595207,10.26948552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktu,23869,Elmenhorst,Eichenweg,4,,53.76438069,10.26663357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktv,23869,Elmenhorst,Eichenweg,40,,53.76547193,10.26848743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktw,23869,Elmenhorst,Eichenweg,42,,53.76557953,10.2681924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktx,23869,Elmenhorst,Eichenweg,44,,53.7656842,10.26800775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkty,23869,Elmenhorst,Eichenweg,46,,53.7658467,10.26846276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lktz,23869,Elmenhorst,Eichenweg,48,,53.76580215,10.26868873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku0,23869,Elmenhorst,Erlenweg,20,,53.76647958,10.26683906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku1,23869,Elmenhorst,Erlenweg,20,a,53.76644969,10.26693053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku2,23869,Elmenhorst,Erlenweg,21,,53.76481769,10.2652146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku3,23869,Elmenhorst,Erlenweg,22,,53.76664717,10.26699868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku4,23869,Elmenhorst,Erlenweg,23,,53.76490414,10.26502586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku5,23869,Elmenhorst,Erlenweg,24,,53.76687567,10.26692181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku6,23869,Elmenhorst,Erlenweg,25,,53.76509564,10.26504761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku7,23869,Elmenhorst,Erlenweg,26,a,53.76681877,10.26647012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku8,23869,Elmenhorst,Erlenweg,26,b,53.76676382,10.26659015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lku9,23869,Elmenhorst,Erlenweg,27,a,53.76520158,10.26519444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuA,23869,Elmenhorst,Alte Dorfstraße,11,a,53.7653576,10.26023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuB,23869,Elmenhorst,Alte Dorfstraße,12,,53.7650958,10.26139828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuC,23869,Elmenhorst,Alte Dorfstraße,13,,53.76553101,10.26017129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuD,23869,Elmenhorst,Alte Dorfstraße,14,,53.76551373,10.2605191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuE,23869,Elmenhorst,Alte Dorfstraße,2,,53.76368494,10.26133712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuF,23869,Elmenhorst,Alte Dorfstraße,2,a,53.76394945,10.26158104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuG,23869,Elmenhorst,Alte Dorfstraße,3,,53.7635112,10.26076235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuI,23869,Elmenhorst,Alte Dorfstraße,3,c,53.76361112,10.26018151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuJ,23869,Elmenhorst,Alte Dorfstraße,3,d,53.76369253,10.26014528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuK,23869,Elmenhorst,Alte Dorfstraße,4,,53.76416697,10.26177909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuL,23869,Elmenhorst,Alte Dorfstraße,5,,53.76406501,10.26103673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuO,23869,Elmenhorst,Alte Dorfstraße,6,,53.76432796,10.26211005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuP,23869,Elmenhorst,Alte Dorfstraße,6,a,53.76440957,10.26188008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuQ,23869,Elmenhorst,Alte Dorfstraße,7,,53.76440844,10.26104749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuR,23869,Elmenhorst,Alte Dorfstraße,8,,53.76445211,10.2615696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuS,23869,Elmenhorst,Alte Dorfstraße,9,,53.76457606,10.26101662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuT,23869,Elmenhorst,Oppen Sand,1,,53.77304837,10.26102555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuU,23869,Elmenhorst,Fischbeker Straße,1,,53.76456869,10.26431159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuV,23869,Elmenhorst,Fischbeker Straße,1,a,53.7645729,10.26394495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuW,23869,Elmenhorst,Fischbeker Straße,10,,53.76391374,10.26531732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuX,23869,Elmenhorst,Fischbeker Straße,10,a,53.76363705,10.26567847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuY,23869,Elmenhorst,Fischbeker Straße,10,b,53.76351821,10.2659033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkuZ,23869,Elmenhorst,Fischbeker Straße,11,,53.76395517,10.26761909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkua,23869,Elmenhorst,Erlenweg,27,b,53.76525609,10.2652454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkub,23869,Elmenhorst,Erlenweg,28,,53.76663695,10.26647996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuc,23869,Elmenhorst,Erlenweg,28,a,53.7666755,10.26636184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkud,23869,Elmenhorst,Erlenweg,29,a,53.76535664,10.26534086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkue,23869,Elmenhorst,Erlenweg,29,b,53.76541355,10.26539416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuf,23869,Elmenhorst,Erlenweg,3,,53.76547774,10.26694898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkug,23869,Elmenhorst,Erlenweg,30,,53.76640828,10.26630731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuh,23869,Elmenhorst,Erlenweg,31,a,53.76550904,10.26552221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkui,23869,Elmenhorst,Erlenweg,31,b,53.76555991,10.26557023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuj,23869,Elmenhorst,Erlenweg,32,,53.76620733,10.26611012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuk,23869,Elmenhorst,Erlenweg,33,,53.76571959,10.26566633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkul,23869,Elmenhorst,Erlenweg,34,,53.76605084,10.26596395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkum,23869,Elmenhorst,Erlenweg,35,a,53.7658436,10.2658471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkun,23869,Elmenhorst,Erlenweg,35,b,53.76590518,10.26590453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuo,23869,Elmenhorst,Erlenweg,4,,53.76594257,10.26728759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkup,23869,Elmenhorst,Erlenweg,5,,53.76552137,10.2666723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuq,23869,Elmenhorst,Erlenweg,6,,53.76611737,10.26745774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkur,23869,Elmenhorst,Erlenweg,7,,53.76533639,10.26657577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkus,23869,Elmenhorst,Erlenweg,8,a,53.76622161,10.26726494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkut,23869,Elmenhorst,Erlenweg,8,b,53.76625695,10.26715992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuu,23869,Elmenhorst,Erlenweg,9,,53.76570558,10.26637149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuv,23869,Elmenhorst,Erlenweg,9,a,53.76575254,10.26622848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuw,23869,Elmenhorst,Alte Dorfstraße,1,,53.76322687,10.26131013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkux,23869,Elmenhorst,Alte Dorfstraße,10,,53.76466492,10.2613056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuy,23869,Elmenhorst,Alte Dorfstraße,10,a,53.76485389,10.26122817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkuz,23869,Elmenhorst,Alte Dorfstraße,11,,53.76496497,10.26079744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv0,23869,Elmenhorst,Fischbeker Straße,12,,53.7635476,10.2672609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv1,23869,Elmenhorst,Fischbeker Straße,12,a,53.76334005,10.26791848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv2,23869,Elmenhorst,Fischbeker Straße,13,,53.76402521,10.26782419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv3,23869,Elmenhorst,Fischbeker Straße,14,,53.76363489,10.26748771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv4,23869,Elmenhorst,Fischbeker Straße,15,,53.76410017,10.26802055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv5,23869,Elmenhorst,Fischbeker Straße,16,,53.76374384,10.26781659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv6,23869,Elmenhorst,Fischbeker Straße,17,,53.76416986,10.26821464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv7,23869,Elmenhorst,Fischbeker Straße,18,,53.76386002,10.26818547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv8,23869,Elmenhorst,Fischbeker Straße,19,,53.76420884,10.26832504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkv9,23869,Elmenhorst,Fischbeker Straße,2,,53.76396005,10.2633964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvA,23869,Elmenhorst,Heisch,11,a,53.76735324,10.25913577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvB,23869,Elmenhorst,Heisch,11,b,53.76741453,10.25917079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvC,23869,Elmenhorst,Heisch,12,,53.76663877,10.25977741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvD,23869,Elmenhorst,Heisch,13,,53.76722959,10.2591083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvE,23869,Elmenhorst,Heisch,14,,53.76639965,10.25966831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvF,23869,Elmenhorst,Heisch,15,,53.76705203,10.25967866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvG,23869,Elmenhorst,Heisch,17,,53.76716074,10.25984579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvH,23869,Elmenhorst,Heisch,17,a,53.76720673,10.25989335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvI,23869,Elmenhorst,Heisch,19,,53.76734184,10.25987673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvJ,23869,Elmenhorst,Heisch,2,,53.76701565,10.25844847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvK,23869,Elmenhorst,Heisch,21,,53.76724176,10.2602579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvL,23869,Elmenhorst,Heisch,23,,53.76708317,10.26060663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvM,23869,Elmenhorst,Heisch,25,,53.766957,10.26030804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvN,23869,Elmenhorst,Heisch,25,a,53.76700144,10.26024601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvO,23869,Elmenhorst,Heisch,27,,53.76689782,10.25995154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvP,23869,Elmenhorst,Heisch,29,,53.76662869,10.26033396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvQ,23869,Elmenhorst,Heisch,29,a,53.76668837,10.26027236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvR,23869,Elmenhorst,Heisch,3,,53.76745639,10.25870978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvS,23869,Elmenhorst,Heisch,31,,53.76674074,10.26049901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvT,23869,Elmenhorst,Heisch,31,a,53.76676758,10.26057886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvU,23869,Elmenhorst,Heisch,33,,53.76690688,10.26095445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvV,23869,Elmenhorst,Heisch,35,,53.76676372,10.26096099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvW,23869,Elmenhorst,Heisch,37,,53.76658096,10.26094343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvX,23869,Elmenhorst,Heisch,39,,53.76640587,10.26109765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvY,23869,Elmenhorst,Heisch,4,,53.76703715,10.25880249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkvZ,23869,Elmenhorst,Heisch,41,,53.76643775,10.26067174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkva,23869,Elmenhorst,Fischbeker Straße,2,a,53.7639727,10.26373017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvb,23869,Elmenhorst,Fischbeker Straße,20,,53.76402069,10.26859358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvc,23869,Elmenhorst,Fischbeker Straße,21,,53.76427301,10.26850301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvd,23869,Elmenhorst,Fischbeker Straße,22,,53.76418714,10.26937117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkve,23869,Elmenhorst,Fischbeker Straße,23,,53.76431502,10.26862776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvf,23869,Elmenhorst,Fischbeker Straße,25,,53.76437466,10.26880701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvg,23869,Elmenhorst,Fischbeker Straße,27,,53.76441743,10.26893202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvh,23869,Elmenhorst,Fischbeker Straße,29,,53.76454546,10.26915717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvi,23869,Elmenhorst,Fischbeker Straße,3,,53.7645294,10.26469442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvj,23869,Elmenhorst,Fischbeker Straße,31,,53.76589198,10.27127208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvk,23869,Elmenhorst,Fischbeker Straße,4,,53.76411669,10.26402955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvl,23869,Elmenhorst,Fischbeker Straße,5,,53.76444513,10.26492601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvm,23869,Elmenhorst,Fischbeker Straße,6,,53.76413115,10.26424451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvn,23869,Elmenhorst,Fischbeker Straße,7,,53.76410197,10.26531306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvo,23869,Elmenhorst,Fischbeker Straße,7,a,53.76377836,10.26627723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvp,23869,Elmenhorst,Fischbeker Straße,7,b,53.76382503,10.26667657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvq,23869,Elmenhorst,Fischbeker Straße,7,c,53.76382778,10.26694667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvs,23869,Elmenhorst,Fischbeker Straße,9,,53.76387195,10.26736723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvt,23869,Elmenhorst,Heideweg,2,,53.75404225,10.27933751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvu,23869,Elmenhorst,Heideweg,3,,53.75382062,10.27897038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvv,23869,Elmenhorst,Heideweg,4,,53.75410616,10.27867267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvw,23869,Elmenhorst,Heideweg,6,,53.74909684,10.28058952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvy,23869,Elmenhorst,Heisch,1,,53.76724251,10.25866942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkvz,23869,Elmenhorst,Heisch,10,,53.76656612,10.25951177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw0,23869,Elmenhorst,Heisch,43,,53.7663993,10.26040365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw1,23869,Elmenhorst,Heisch,5,,53.7676842,10.25874016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw2,23869,Elmenhorst,Heisch,6,,53.76694195,10.25904613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw3,23869,Elmenhorst,Heisch,6,a,53.76693334,10.25915655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw4,23869,Elmenhorst,Heisch,7,,53.76759329,10.25899953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw5,23869,Elmenhorst,Heisch,8,,53.76684788,10.25946024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw6,23869,Elmenhorst,Heisch,8,a,53.76681028,10.25953651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw7,23869,Elmenhorst,Heisch,9,,53.76754268,10.25934736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw8,23869,Elmenhorst,Hohenbergen,1,,53.78039763,10.23280017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkw9,23869,Elmenhorst,Hörsten,1,,53.76123211,10.27885966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwA,23869,Elmenhorst,Jersbeker Straße,2,,53.76033259,10.25835247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwB,23869,Elmenhorst,Jersbeker Straße,2,a,53.76074762,10.2592601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwC,23869,Elmenhorst,Jersbeker Straße,21,,53.75955975,10.25661344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwD,23869,Elmenhorst,Jersbeker Straße,22,,53.75898365,10.2555534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwE,23869,Elmenhorst,Jersbeker Straße,23,,53.75935668,10.25637809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwF,23869,Elmenhorst,Jersbeker Straße,24,,53.75878502,10.25540769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwG,23869,Elmenhorst,Jersbeker Straße,25,,53.75920472,10.25626743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwH,23869,Elmenhorst,Jersbeker Straße,26,,53.75864081,10.25530487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwI,23869,Elmenhorst,Jersbeker Straße,27,,53.75905058,10.25616586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwJ,23869,Elmenhorst,Jersbeker Straße,28,,53.75846496,10.25517348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwK,23869,Elmenhorst,Jersbeker Straße,29,,53.75879301,10.25597306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwL,23869,Elmenhorst,Jersbeker Straße,3,,53.76028215,10.25902973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwM,23869,Elmenhorst,Jersbeker Straße,30,,53.75829937,10.25505133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwN,23869,Elmenhorst,Jersbeker Straße,31,,53.75847398,10.25582216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwO,23869,Elmenhorst,Jersbeker Straße,32,,53.7581342,10.2549371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwP,23869,Elmenhorst,Jersbeker Straße,33,,53.75833703,10.25571576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwQ,23869,Elmenhorst,Jersbeker Straße,34,,53.75794887,10.25483587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwR,23869,Elmenhorst,Jersbeker Straße,35,,53.75819285,10.2556086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwS,23869,Elmenhorst,Jersbeker Straße,36,,53.75776845,10.25470832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwT,23869,Elmenhorst,Jersbeker Straße,37,,53.75804028,10.25550369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwU,23869,Elmenhorst,Jersbeker Straße,38,,53.75758546,10.25458027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwV,23869,Elmenhorst,Jersbeker Straße,39,,53.75791429,10.25538178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwW,23869,Elmenhorst,Jersbeker Straße,4,,53.76022713,10.25816395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwX,23869,Elmenhorst,Jersbeker Straße,40,,53.75742982,10.25443375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwY,23869,Elmenhorst,Jersbeker Straße,41,,53.75774877,10.25520656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkwZ,23869,Elmenhorst,Jersbeker Straße,42,,53.7572772,10.25431662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwa,23869,Elmenhorst,Hörsten,2,,53.76389081,10.26910787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwb,23869,Elmenhorst,Hörsten,6,,53.76366197,10.26870952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwc,23869,Elmenhorst,Hörsten,8,,53.76352091,10.26852036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwd,23869,Elmenhorst,Hüls,1,,53.74952267,10.26946114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwe,23869,Elmenhorst,Hüls,2,,53.74926665,10.26815042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwf,23869,Elmenhorst,Hüls,4,,53.7491308,10.2691236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwg,23869,Elmenhorst,Ilker Weg,1,,53.7618533,10.25128739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwh,23869,Elmenhorst,Ilker Weg,2,,53.76170655,10.25122674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwi,23869,Elmenhorst,Ilker Weg,3,,53.76198903,10.25465775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwk,23869,Elmenhorst,Jersbeker Straße,10,,53.75997313,10.25750582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwl,23869,Elmenhorst,Jersbeker Straße,11,,53.75997395,10.25842013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwm,23869,Elmenhorst,Jersbeker Straße,11,a,53.75993779,10.25833669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwn,23869,Elmenhorst,Jersbeker Straße,11,b,53.75989796,10.25826616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwo,23869,Elmenhorst,Jersbeker Straße,11,c,53.7598621,10.25818268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwp,23869,Elmenhorst,Jersbeker Straße,11,d,53.75988162,10.25927688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwq,23869,Elmenhorst,Jersbeker Straße,11,e,53.75983777,10.25919781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwr,23869,Elmenhorst,Jersbeker Straße,11,f,53.7597675,10.25907083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkws,23869,Elmenhorst,Jersbeker Straße,11,g,53.75972236,10.25898945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwt,23869,Elmenhorst,Jersbeker Straße,12,,53.75988461,10.25723369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwu,23869,Elmenhorst,Jersbeker Straße,13,,53.75976888,10.25798619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwv,23869,Elmenhorst,Jersbeker Straße,14,,53.75987497,10.25701829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkww,23869,Elmenhorst,Jersbeker Straße,15,,53.75963855,10.25764441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwx,23869,Elmenhorst,Jersbeker Straße,16,,53.75986323,10.25678709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwy,23869,Elmenhorst,Jersbeker Straße,17,,53.75961024,10.25715457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkwz,23869,Elmenhorst,Jersbeker Straße,19,,53.75957898,10.25690063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx0,23869,Elmenhorst,Jersbeker Straße,43,,53.75761056,10.25511184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx1,23869,Elmenhorst,Jersbeker Straße,44,,53.75710338,10.25419424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx2,23869,Elmenhorst,Jersbeker Straße,45,,53.75501566,10.2520107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx3,23869,Elmenhorst,Jersbeker Straße,46,,53.7569379,10.25406357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx4,23869,Elmenhorst,Jersbeker Straße,48,,53.75677467,10.25399421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx5,23869,Elmenhorst,Jersbeker Straße,5,,53.76016173,10.25882481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx6,23869,Elmenhorst,Jersbeker Straße,50,,53.7566597,10.2538204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx7,23869,Elmenhorst,Jersbeker Straße,6,,53.76013255,10.25800586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx8,23869,Elmenhorst,Jersbeker Straße,7,,53.76005633,10.258607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkx9,23869,Elmenhorst,Jersbeker Straße,8,,53.76003195,10.25781849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxA,23869,Elmenhorst,Mönkenbrook,10,,53.75973244,10.27990125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxB,23869,Elmenhorst,Mönkenbrook,10,a,53.75964934,10.27978941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxC,23869,Elmenhorst,Mönkenbrook,11,,53.75457518,10.27556425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxD,23869,Elmenhorst,Mönkenbrook,12,,53.7582555,10.27841871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxE,23869,Elmenhorst,Mönkenbrook,12,a,53.7578886,10.27835575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxF,23869,Elmenhorst,Mönkenbrook,13,,53.74937465,10.27013538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxG,23869,Elmenhorst,Mönkenbrook,14,,53.75714211,10.27786871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxI,23869,Elmenhorst,Mönkenbrook,15,,53.74919278,10.27003852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxJ,23869,Elmenhorst,Mönkenbrook,17,,53.74912006,10.26995494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxK,23869,Elmenhorst,Mönkenbrook,19,,53.74888348,10.26975266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxL,23869,Elmenhorst,Mönkenbrook,2,,53.76167921,10.28169512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxM,23869,Elmenhorst,Mönkenbrook,2,a,53.76185627,10.28156046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxN,23869,Elmenhorst,Mönkenbrook,21,,53.74868559,10.26939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxO,23869,Elmenhorst,Mönkenbrook,22,,53.75039653,10.27178532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxP,23869,Elmenhorst,Mönkenbrook,22,a,53.75170025,10.27309677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxQ,23869,Elmenhorst,Mönkenbrook,24,,53.7492705,10.27045207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxR,23869,Elmenhorst,Mönkenbrook,26,,53.74882155,10.27006711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxS,23869,Elmenhorst,Mönkenbrook,3,,53.75739919,10.27755408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxT,23869,Elmenhorst,Mönkenbrook,3,a,53.75730047,10.27712815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxU,23869,Elmenhorst,Mönkenbrook,4,,53.76018379,10.28046544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxV,23869,Elmenhorst,Mönkenbrook,4,a,53.76028911,10.28075308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxW,23869,Elmenhorst,Mönkenbrook,5,,53.75699516,10.27724663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxX,23869,Elmenhorst,Mönkenbrook,6,,53.75992935,10.28020104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxY,23869,Elmenhorst,Mönkenbrook,7,,53.75548057,10.27603607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkxZ,23869,Elmenhorst,Mönkenbrook,8,,53.759927,10.28041019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxa,23869,Elmenhorst,Manhagen,1,,53.76741832,10.26350057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxb,23869,Elmenhorst,Manhagen,10,,53.76840862,10.26516392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxc,23869,Elmenhorst,Manhagen,11,,53.76882295,10.26474846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxd,23869,Elmenhorst,Manhagen,12,,53.76884894,10.26517829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxe,23869,Elmenhorst,Manhagen,13,,53.7689897,10.26481571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxf,23869,Elmenhorst,Manhagen,14,,53.76909466,10.26552262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxg,23869,Elmenhorst,Manhagen,14,a,53.76903877,10.26554569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxh,23869,Elmenhorst,Manhagen,14,b,53.76898649,10.26556724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxi,23869,Elmenhorst,Manhagen,14,c,53.76893589,10.26558809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxj,23869,Elmenhorst,Manhagen,14,d,53.76888361,10.26560965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxk,23869,Elmenhorst,Manhagen,15,,53.7691794,10.26490852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxl,23869,Elmenhorst,Manhagen,16,,53.76919842,10.26591256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxm,23869,Elmenhorst,Manhagen,17,,53.76937459,10.26514434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxn,23869,Elmenhorst,Manhagen,18,,53.76934541,10.26577745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxo,23869,Elmenhorst,Manhagen,19,,53.77153029,10.26569785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxp,23869,Elmenhorst,Manhagen,19,a,53.77105144,10.26546481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxq,23869,Elmenhorst,Manhagen,2,,53.76781289,10.26438854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxr,23869,Elmenhorst,Manhagen,2,a,53.76763193,10.26431167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxs,23869,Elmenhorst,Manhagen,3,,53.76758592,10.26359974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxt,23869,Elmenhorst,Manhagen,4,,53.76795157,10.26450925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxu,23869,Elmenhorst,Manhagen,6,,53.7680724,10.26461548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxv,23869,Elmenhorst,Manhagen,7,,53.76826546,10.26427735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxw,23869,Elmenhorst,Manhagen,7,a,53.76840885,10.26440431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxx,23869,Elmenhorst,Manhagen,8,,53.76831948,10.26477033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxy,23869,Elmenhorst,Manhagen,9,,53.7686018,10.26455467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkxz,23869,Elmenhorst,Mönkenbrook,1,,53.76110581,10.28073508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky0,23869,Elmenhorst,Mönkenbrook,9,,53.75491794,10.27575784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky1,23869,Elmenhorst,Nienwohlder Straße,1,,53.7805516,10.24148708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky2,23869,Elmenhorst,Nienwohlder Straße,2,,53.78031632,10.23981515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky3,23869,Elmenhorst,Nienwohlder Straße,2,a,53.78101933,10.24075244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky4,23869,Elmenhorst,Nienwohlder Straße,4,,53.77999333,10.238235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky5,23869,Elmenhorst,Nienwohlder Straße,6,,53.77883324,10.23410668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky6,23869,Elmenhorst,Plantagenweg,1,,53.75538972,10.26165079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky7,23869,Elmenhorst,Plantagenweg,2,,53.75543747,10.26195565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky8,23869,Elmenhorst,Plantagenweg,3,,53.75565687,10.26216097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lky9,23869,Elmenhorst,Rokshorst,1,,53.764835,10.26993436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyA,23869,Elmenhorst,Schulstraße,11,,53.7627194,10.26432235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyB,23869,Elmenhorst,Schulstraße,12,,53.76226159,10.26438037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyC,23869,Elmenhorst,Schulstraße,12,a,53.76231259,10.26475508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyD,23869,Elmenhorst,Schulstraße,12,b,53.76234968,10.26484619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyE,23869,Elmenhorst,Schulstraße,13,,53.76282764,10.2646197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyF,23869,Elmenhorst,Schulstraße,14,,53.76257435,10.26458988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyG,23869,Elmenhorst,Schulstraße,14,a,53.76257095,10.26496763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyI,23869,Elmenhorst,Schulstraße,16,,53.76258293,10.26523613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyJ,23869,Elmenhorst,Schulstraße,16,a,53.76230424,10.26541731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyK,23869,Elmenhorst,Schulstraße,17,,53.76288916,10.26526194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyL,23869,Elmenhorst,Schulstraße,18,,53.76259685,10.26545807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyM,23869,Elmenhorst,Schulstraße,19,,53.76289906,10.26561101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyN,23869,Elmenhorst,Schulstraße,2,,53.76245115,10.26167942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyO,23869,Elmenhorst,Schulstraße,20,,53.76269165,10.26568158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyP,23869,Elmenhorst,Schulstraße,21,,53.76305744,10.26586967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyQ,23869,Elmenhorst,Schulstraße,22,,53.76282436,10.26599355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyR,23869,Elmenhorst,Schulstraße,23,,53.76332239,10.26616117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyS,23869,Elmenhorst,Schulstraße,24,,53.76296236,10.26650554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyT,23869,Elmenhorst,Schulstraße,26,,53.76324525,10.26687266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyU,23869,Elmenhorst,Schulstraße,3,,53.76269265,10.26255237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyV,23869,Elmenhorst,Schulstraße,3,a,53.7632036,10.26336884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyW,23869,Elmenhorst,Schulstraße,5,,53.76268056,10.26327429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyX,23869,Elmenhorst,Schulstraße,6,,53.76240018,10.26267913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyY,23869,Elmenhorst,Schulstraße,7,,53.7626898,10.26358231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkyZ,23869,Elmenhorst,Schulstraße,8,,53.76240486,10.26325127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkya,23869,Elmenhorst,Rokshorst,10,,53.76518292,10.27058747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyb,23869,Elmenhorst,Rokshorst,11,,53.76521766,10.26972591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyc,23869,Elmenhorst,Rokshorst,12,,53.76541591,10.27022775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyd,23869,Elmenhorst,Rokshorst,13,,53.76504638,10.26908146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkye,23869,Elmenhorst,Rokshorst,14,,53.76535139,10.27065493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyf,23869,Elmenhorst,Rokshorst,15,,53.76535953,10.2697103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyg,23869,Elmenhorst,Rokshorst,16,,53.76560036,10.27020388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyh,23869,Elmenhorst,Rokshorst,17,,53.76535017,10.26923301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyi,23869,Elmenhorst,Rokshorst,18,,53.76556377,10.27076803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyj,23869,Elmenhorst,Rokshorst,19,,53.76563596,10.2695734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyk,23869,Elmenhorst,Rokshorst,2,,53.76491127,10.27035253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyl,23869,Elmenhorst,Rokshorst,21,,53.76578562,10.26965789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkym,23869,Elmenhorst,Rokshorst,23,,53.76583065,10.26998521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyn,23869,Elmenhorst,Rokshorst,25,,53.76576352,10.27033787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyo,23869,Elmenhorst,Rokshorst,27,,53.76577865,10.2706598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyp,23869,Elmenhorst,Rokshorst,29,,53.765766,10.27093714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyq,23869,Elmenhorst,Rokshorst,3,,53.76478746,10.26966535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyr,23869,Elmenhorst,Rokshorst,4,,53.76496985,10.27058235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkys,23869,Elmenhorst,Rokshorst,5,,53.76471096,10.26939416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyt,23869,Elmenhorst,Rokshorst,6,,53.76501161,10.27087183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyu,23869,Elmenhorst,Rokshorst,7,,53.76503617,10.26980518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyv,23869,Elmenhorst,Rokshorst,8,,53.76518705,10.27021158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyw,23869,Elmenhorst,Rokshorst,9,,53.76488106,10.26930185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyx,23869,Elmenhorst,Schäferweg,1,,53.75778541,10.28191134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyy,23869,Elmenhorst,Schulstraße,1,,53.76271824,10.26224059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkyz,23869,Elmenhorst,Schulstraße,10,,53.7624806,10.26354622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz0,23869,Elmenhorst,Schulstraße,8,a,53.76206618,10.26353514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz1,23869,Elmenhorst,Schulstraße,9,,53.76273364,10.26394834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz2,23869,Elmenhorst,Schützenstraße,1,,53.76364855,10.26070421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz3,23869,Elmenhorst,Schützenstraße,1,a,53.76370855,10.26067879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz4,23869,Elmenhorst,Schützenstraße,1,b,53.76376484,10.26065462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz5,23869,Elmenhorst,Schützenstraße,1,c,53.7638255,10.26062871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz6,23869,Elmenhorst,Schützenstraße,2,,53.76428577,10.25992111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz7,23869,Elmenhorst,Schützenstraße,3,,53.76398261,10.26045942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz8,23869,Elmenhorst,Schützenstraße,3,a,53.7636616,10.25983292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkz9,23869,Elmenhorst,Schützenstraße,3,b,53.76381437,10.25979238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzA,23869,Elmenhorst,Sülfelder Straße,19,,53.78058702,10.24212946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzB,23869,Elmenhorst,Sülfelder Straße,2,,53.76721139,10.26469843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzC,23869,Elmenhorst,Sülfelder Straße,21,,53.78087098,10.24189278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzD,23869,Elmenhorst,Sülfelder Straße,25,,53.78185728,10.24056966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzE,23869,Elmenhorst,Sülfelder Straße,4,,53.76739678,10.26408593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzF,23869,Elmenhorst,Sülfelder Straße,5,,53.76730458,10.26220614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzG,23869,Elmenhorst,Sülfelder Straße,5,a,53.76732841,10.26207945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzH,23869,Elmenhorst,Sülfelder Straße,6,,53.77480215,10.24746043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzI,23869,Elmenhorst,Sülfelder Straße,6,a,53.77522576,10.24693095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzJ,23869,Elmenhorst,Sülfelder Straße,7,,53.76762429,10.26166052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzK,23869,Elmenhorst,Sülfelder Straße,7,a,53.76795181,10.26187985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzL,23869,Elmenhorst,Sülfelder Straße,8,,53.78066662,10.24262702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzM,23869,Elmenhorst,Sülfelder Straße,9,,53.77318587,10.25017496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzN,23869,Elmenhorst,Waldweg,1,,53.75952222,10.25590758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzO,23869,Elmenhorst,Waldweg,2,,53.76003633,10.25083318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzP,23869,Elmenhorst,Waldweg,3,,53.75949764,10.25565188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzQ,23869,Elmenhorst,Waldweg,3,a,53.75948074,10.25543941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzR,23869,Elmenhorst,Waldweg,4,,53.76051434,10.24777996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzS,23869,Elmenhorst,Waldweg,5,,53.75944751,10.25513427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzT,23869,Elmenhorst,Waldweg,5,a,53.75940272,10.25481667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzU,23869,Elmenhorst,Waldweg,7,,53.75938316,10.25427712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzV,23869,Elmenhorst,Waldweg,9,,53.75986284,10.24966373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzW,23869,Elmenhorst,Achterdiek,1,,53.76148134,10.29463228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzX,23869,Elmenhorst,Am Dorfplatz,1,,53.76501565,10.28335917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzY,23869,Elmenhorst,Am Dorfplatz,10,,53.76598361,10.28495544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LkzZ,23869,Elmenhorst,Am Dorfplatz,11,,53.76564955,10.28472159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkza,23869,Elmenhorst,Schützenstraße,4,,53.764439,10.25973672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzb,23869,Elmenhorst,Schützenstraße,5,,53.76411632,10.25968135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzc,23869,Elmenhorst,Schützenstraße,6,,53.76440728,10.25913939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzd,23869,Elmenhorst,Siebenbergen,1,,53.75407724,10.26194307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkze,23869,Elmenhorst,Siebenbergen,1,a,53.75414583,10.26208782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzf,23869,Elmenhorst,Siebenbergen,10,,53.74979038,10.26304359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzg,23869,Elmenhorst,Siebenbergen,11,,53.75038072,10.26331538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzh,23869,Elmenhorst,Siebenbergen,2,,53.75669999,10.26069073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzi,23869,Elmenhorst,Siebenbergen,3,,53.75377982,10.26202867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzj,23869,Elmenhorst,Siebenbergen,4,,53.75582785,10.26091596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzk,23869,Elmenhorst,Siebenbergen,5,,53.75259562,10.26248612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzl,23869,Elmenhorst,Siebenbergen,6,,53.75491135,10.26121133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzm,23869,Elmenhorst,Siebenbergen,7,,53.75211688,10.26268684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzn,23869,Elmenhorst,Siebenbergen,8,,53.75326802,10.26181441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzo,23869,Elmenhorst,Siebenbergen,9,,53.75047528,10.2632839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzp,23869,Elmenhorst,Steinklinken,2,,53.76827618,10.23861634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzq,23869,Elmenhorst,Steinklinken,3,,53.77137761,10.23691428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzr,23869,Elmenhorst,Steinklinken,4,,53.77161981,10.23846546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzs,23869,Elmenhorst,Steinklinken,4,a,53.7716706,10.23792121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzt,23869,Elmenhorst,Sülfelder Straße,1,,53.76700898,10.26425129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzu,23869,Elmenhorst,Sülfelder Straße,10,,53.7809017,10.24227726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzv,23869,Elmenhorst,Sülfelder Straße,11,,53.77337112,10.24944794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzw,23869,Elmenhorst,Sülfelder Straße,12,,53.78125499,10.24192619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzx,23869,Elmenhorst,Sülfelder Straße,13,,53.7754142,10.24636793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzy,23869,Elmenhorst,Sülfelder Straße,15,,53.77630997,10.24576124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lkzz,23869,Elmenhorst,Sülfelder Straße,17,,53.77638175,10.24554364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Jn7U,23869,Elmenhorst,Eichenweg,5,,53.76441902,10.2662705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KUYG,23869,Elmenhorst,Bargteheider Straße,24,,53.7624892,10.2815268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WrFC,23869,Elmenhorst,Bundesstraße,53,,53.7601089,10.26012271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z0Pc,23869,Elmenhorst,Bargkoppel,1,,53.76830222,10.26077779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004anov,23869,Elmenhorst,Bargredder,8,,53.76680447,10.25835445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052HYG,23869,Elmenhorst,Lohe,14,a,53.76272121,10.28714274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000538NZ,23869,Elmenhorst,Lohe,3,b,53.76338352,10.28709691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000538Np,23869,Elmenhorst,Lohe,3,a,53.76341561,10.28702215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059ELN,23869,Elmenhorst,Bargteheider Straße,7,a,53.76317902,10.28286108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AV8E,23869,Elmenhorst,Bundesstraße,4,a,53.76779124,10.26533344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BPvs,23869,Elmenhorst,Fischbeker Straße,8,,53.76423906,10.26463718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BiBW,23869,Elmenhorst,Fischbeker Straße,8,a,53.76408082,10.26498653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JUzN,23869,Elmenhorst,Bargteheider Straße,22,,53.76267965,10.28167058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JyKg,23869,Elmenhorst,Sülfelder Straße,6,b,53.7756685,10.24657828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Nxdv,23869,Elmenhorst,Fischbeker Straße,8,b,53.76383652,10.26494713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005O5u4,23869,Elmenhorst,Fischbeker Straße,6,a,53.76385744,10.26436484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ObuD,23869,Elmenhorst,Schulstraße,28,,53.76346273,10.26689643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z7Dp,23869,Elmenhorst,Alte Dorfstraße,8,a,53.76462125,10.26181858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bsji,23869,Elmenhorst,Bargteheider Straße,3,e,53.76364697,10.28389048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cnLE,23869,Elmenhorst,Mönkenbrook,24,a,53.74912586,10.27045785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cvXu,23869,Elmenhorst,Jersbeker Straße,29,a,53.75851985,10.25649687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cvXv,23869,Elmenhorst,Jersbeker Straße,29,b,53.75864345,10.25638547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cvXw,23869,Elmenhorst,Jersbeker Straße,29,c,53.75873761,10.25640693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005eRCV,23869,Elmenhorst,Elmenhorster Straße,8,a,53.7652674,10.28207655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005eRCw,23869,Elmenhorst,Poggenhorst,5,a,53.76640361,10.28891882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005g4xh,23869,Elmenhorst,Schulstraße,20,a,53.76226441,10.26600379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005h1VG,23869,Elmenhorst,Heideweg,8,,53.74901504,10.28051876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hzG2,23869,Elmenhorst,Jersbeker Straße,47,,53.75477333,10.251793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iR2I,23869,Elmenhorst,Twiete,4,,53.76339166,10.28749379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lYlT,23869,Elmenhorst,Heideweg,5,,53.74765585,10.28315042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005loPO,23869,Elmenhorst,Jersbeker Straße,2,b,53.76093024,10.25944456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005naoR,23869,Elmenhorst,Eichenweg,22,a,53.76504123,10.2682394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005u072,23869,Elmenhorst,Bundesstraße,12,a,53.76664891,10.26442518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005u073,23869,Elmenhorst,Bundesstraße,12,b,53.76673227,10.26422902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005u078,23869,Elmenhorst,Alte Dorfstraße,3,e,53.76389361,10.2610408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005u07d,23869,Elmenhorst,Alte Dorfstraße,3,b,53.76346194,10.25966662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005u0uL,23869,Elmenhorst,Alte Dorfstraße,3,a,53.76337322,10.25968491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065dXn,23869,Elmenhorst,Schulstraße,15,,53.76281595,10.26496562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BWXQ,23869,Elmenhorst,Ulmenweg,8,,53.7680264,10.26963697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BWYX,23869,Elmenhorst,Buchenweg,18,,53.76709767,10.27096994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BWYm,23869,Elmenhorst,Ulmenweg,12,,53.76778354,10.27003179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006C87y,23869,Elmenhorst,Ulmenweg,22,,53.76768752,10.27091624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CR6L,23869,Elmenhorst,Buchenweg,8,,53.76705716,10.26934985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CtXd,23869,Elmenhorst,Buchenweg,9,,53.76740108,10.26987207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ECds,23869,Elmenhorst,Ulmenweg,21,,53.76821892,10.26999166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ECdt,23869,Elmenhorst,Ulmenweg,21,a,53.76828455,10.26999367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GBhp,23869,Elmenhorst,Buchenweg,14,,53.76710272,10.27037314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006IlVj,23869,Elmenhorst,Ulmenweg,14,,53.76770178,10.27030244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KVSY,23869,Elmenhorst,Ulmenweg,13,,53.76824709,10.26936229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006REnH,23869,Elmenhorst,Buchenweg,3,,53.76764673,10.26951693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SYMN,23869,Elmenhorst,Bargredder,1,,53.76612885,10.25793689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SxJl,23869,Elmenhorst,Finkenweg,5,a,53.75936533,10.25829052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SxJm,23869,Elmenhorst,Finkenweg,5,b,53.75945949,10.25826528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Sxcf,23869,Elmenhorst,Ulmenweg,25,,53.76851228,10.27036548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YTOH,23869,Elmenhorst,Ulmenweg,24,,53.76796251,10.2710233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YkmG,23869,Elmenhorst,Ulmenweg,29,b,53.76830264,10.27079949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Ykn0,23869,Elmenhorst,Ulmenweg,29,a,53.7683048,10.27066146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ftbI,23869,Elmenhorst,Ulmenweg,9,,53.76855016,10.26903519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kLl9,23869,Elmenhorst,Ulmenweg,27,,53.76851756,10.27063696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006lRYA,23869,Elmenhorst,Buchenweg,13,,53.76737573,10.27052166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mFyp,23869,Elmenhorst,Buchenweg,6,,53.76726636,10.26913918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mFyv,23869,Elmenhorst,Ulmenweg,15,,53.7682873,10.26965662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mo9N,23869,Elmenhorst,Schulstraße,15,a,53.76297027,10.26494132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006p9zd,23869,Elmenhorst,Ulmenweg,18,,53.76795319,10.2705856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pa4D,23869,Elmenhorst,Buchenweg,17,,53.76729022,10.27113601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rYPQ,23869,Elmenhorst,Ulmenweg,23,,53.76829516,10.27033049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rZ4Y,23869,Elmenhorst,Buchenweg,7,,53.7674013,10.26951573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rdZl,23869,Elmenhorst,Ahornweg,4,,53.76768908,10.26640603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rfLW,23869,Elmenhorst,Buchenweg,4,,53.76743521,10.26911898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tmiq,23869,Elmenhorst,Buchenweg,15,,53.76736831,10.27078067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006uFdS,23869,Elmenhorst,Schulstraße,4,,53.76242307,10.2623545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006uH93,23869,Elmenhorst,Dorfstraße,32,,53.76564963,10.29175658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006upIs,23869,Elmenhorst,Buchenweg,1,,53.76782234,10.26944134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006uvdz,23869,Elmenhorst,Ulmenweg,20,,53.7677068,10.27053504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006veWh,23869,Elmenhorst,Ahornweg,1,,53.76745976,10.26705191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vf2b,23869,Elmenhorst,Buchenweg,2,,53.76764279,10.26910348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006y6sv,23869,Elmenhorst,Buchenweg,10,,53.76708545,10.2697454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrGU,23869,Elmenhorst,Ulmenweg,5,,53.76826005,10.26867053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrHU,23869,Elmenhorst,Ulmenweg,6,b,53.76798783,10.26865425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrHo,23869,Elmenhorst,Ulmenweg,6,,53.76799078,10.26846105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrHs,23869,Elmenhorst,Ulmenweg,6,a,53.76798929,10.26855861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrI2,23869,Elmenhorst,Ulmenweg,6,c,53.76798636,10.2687499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrIb,23869,Elmenhorst,Ulmenweg,6,d,53.7679849,10.26884555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrJS,23869,Elmenhorst,Ulmenweg,6,e,53.76798344,10.2689412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrK0,23869,Elmenhorst,Ulmenweg,6,f,53.76798198,10.26903687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zrKb,23869,Elmenhorst,Ulmenweg,6,g,53.76798048,10.26913482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071fVu,23869,Elmenhorst,Ulmenweg,17,,53.76847778,10.26970077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071gPk,23869,Elmenhorst,Ulmenweg,4,b,53.76782581,10.26786831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007339G,23869,Elmenhorst,Ulmenweg,19,,53.76857911,10.27002795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073Me3,23869,Elmenhorst,Buchenweg,11,,53.76738738,10.27015951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000742m3,23869,Elmenhorst,Ulmenweg,10,,53.76802117,10.26993127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007438O,23869,Elmenhorst,Buchenweg,5,,53.76759519,10.26988977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074Hwg,23869,Elmenhorst,Dorfstraße,40,,53.76575879,10.29345256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074Hwl,23869,Elmenhorst,Dorfstraße,42,a,53.76569575,10.29403813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075dEf,23869,Elmenhorst,Buchenweg,22,a,53.76702819,10.27161999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075dEg,23869,Elmenhorst,Buchenweg,22,b,53.76702968,10.27152149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007EpcX,23869,Elmenhorst,Buchenweg,20,,53.76706644,10.27127021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K9bA,23869,Elmenhorst,Krökenhorster Weg,29,a,53.76407589,10.29894076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007K9bz,23869,Elmenhorst,Krökenhorster Weg,29,,53.76413006,10.29882359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P1Qm,23869,Elmenhorst,Bargteheider Straße,10,a,53.76378898,10.28271436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZJLT,23869,Elmenhorst,Schulstraße,9,a,53.76273979,10.26401691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZbxU,23869,Elmenhorst,Mönkenbrook,16,,53.75541556,10.2800739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ldH8,23869,Elmenhorst,Ulmenweg,1,b,53.7682218,10.26772082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nV5U,23869,Elmenhorst,Ulmenweg,16,,53.76793906,10.27034664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qTFL,23869,Elmenhorst,Ulmenweg,7,,53.76829819,10.26899463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007sJWN,23869,Elmenhorst,Buchenweg,19,,53.76761973,10.27123084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xUsW,23869,Elmenhorst,Ulmenweg,11,a,53.76855863,10.2692659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xUsX,23869,Elmenhorst,Ulmenweg,11,b,53.76857181,10.26939155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xpBG,23869,Elmenhorst,Buchenweg,16,a,53.76707614,10.27060744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xpBH,23869,Elmenhorst,Buchenweg,16,b,53.76707433,10.27071363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801kM,23869,Elmenhorst,Wiesengrund,8,,53.76560637,10.27271605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801kQ,23869,Elmenhorst,Wiesengrund,11,,53.7655331,10.27306284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801kV,23869,Elmenhorst,Wiesengrund,35,,53.76548237,10.27168441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801kW,23869,Elmenhorst,Wiesengrund,35,a,53.76558092,10.27169075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801ko,23869,Elmenhorst,Wiesengrund,5,,53.76559033,10.273407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801l1,23869,Elmenhorst,Wiesengrund,20,,53.76622583,10.27278124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801l2,23869,Elmenhorst,Wiesengrund,20,a,53.76621163,10.27265574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801l9,23869,Elmenhorst,Wiesengrund,31,,53.76538336,10.27187863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lD,23869,Elmenhorst,Wiesengrund,17,,53.7651883,10.27260406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lE,23869,Elmenhorst,Wiesengrund,17,a,53.76517556,10.27249186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lK,23869,Elmenhorst,Wiesengrund,2,,53.76590866,10.2736384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lg,23869,Elmenhorst,Wiesengrund,13,,53.7654679,10.27281177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lk,23869,Elmenhorst,Wiesengrund,33,,53.76558881,10.27196451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lp,23869,Elmenhorst,Wiesengrund,15,,53.76520985,10.27291288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lq,23869,Elmenhorst,Wiesengrund,15,a,53.76519996,10.27279976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lw,23869,Elmenhorst,Wiesengrund,9,,53.76526342,10.27322474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000801lx,23869,Elmenhorst,Wiesengrund,9,a,53.76525043,10.27310951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838eV,23869,Elmenhorst,Wiesengrund,18,,53.76606213,10.27229806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838eW,23869,Elmenhorst,Wiesengrund,18,a,53.76607751,10.27243398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838f1,23869,Elmenhorst,Wiesengrund,7,,53.76530585,10.27352122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fj,23869,Elmenhorst,Wiesengrund,22,,53.76622031,10.2732516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fk,23869,Elmenhorst,Wiesengrund,22,a,53.76632279,10.27297721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fl,23869,Elmenhorst,Wiesengrund,22,b,53.76632279,10.27297721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fm,23869,Elmenhorst,Wiesengrund,22,c,53.76621948,10.27324428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fn,23869,Elmenhorst,Wiesengrund,24,,53.76626737,10.27366758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fo,23869,Elmenhorst,Wiesengrund,24,a,53.76632279,10.27297721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fp,23869,Elmenhorst,Wiesengrund,24,b,53.76632279,10.27297721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000838fq,23869,Elmenhorst,Wiesengrund,24,c,53.76632279,10.27297721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000839eH,23869,Elmenhorst,Manhagen,6,a,53.76810685,10.26447416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084WgE,23869,Elmenhorst,Ulmenweg,1,,53.76824147,10.26694914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084WgG,23869,Elmenhorst,Ulmenweg,1,a,53.76834302,10.267363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008HO9t,23869,Elmenhorst,Am Dorfplatz,5,a,53.76538631,10.28400662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008flUs,23869,Elmenhorst,Jersbeker Straße,1,b,53.7602768,10.25942092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008flUw,23869,Elmenhorst,Jersbeker Straße,1,a,53.7605808,10.2595515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hX7Q,23869,Elmenhorst,Bundesstraße,38,,53.75929832,10.25969016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hZDf,23869,Elmenhorst,Bundesstraße,36,,53.76000088,10.25954904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01C,23869,Elmenhorst,Bundesstraße,21,a,53.7647289,10.26326149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01D,23869,Elmenhorst,Bundesstraße,21,b,53.76492087,10.26348094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01E,23869,Elmenhorst,Bundesstraße,21,c,53.76488525,10.26359123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01F,23869,Elmenhorst,Bundesstraße,21,d,53.76484801,10.2637178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01G,23869,Elmenhorst,Bundesstraße,21,e,53.76480502,10.26385564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008i01H,23869,Elmenhorst,Bundesstraße,21,f,53.76473511,10.26369664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jZOp,23869,Elmenhorst,Wiesengrund,16,a,53.76601104,10.27272013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jZOt,23869,Elmenhorst,Wiesengrund,16,,53.76599944,10.2726179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lcGq,23869,Elmenhorst,Wiesengrund,27,,53.76507371,10.27141387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lcGr,23869,Elmenhorst,Wiesengrund,27,a,53.76513327,10.27139488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lcQ0,23869,Elmenhorst,Bundesstraße,26,b,53.76211302,10.26061682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mmqg,23869,Elmenhorst,Hüls,2,a,53.74927082,10.26883211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nFOF,23869,Elmenhorst,Sülfelder Straße,3,,53.7670995,10.26360214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TA,23869,Elmenhorst,Wiesengrund,10,a,53.76577507,10.27242858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TF,23869,Elmenhorst,Wiesengrund,23,,53.76516819,10.27189901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TK,23869,Elmenhorst,Wiesengrund,37,,53.76557505,10.27134093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TL,23869,Elmenhorst,Wiesengrund,37,a,53.76549776,10.27133577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TP,23869,Elmenhorst,Wiesengrund,29,,53.76532735,10.27135737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TQ,23869,Elmenhorst,Wiesengrund,29,a,53.76531751,10.27155846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3TY,23869,Elmenhorst,Wiesengrund,25,,53.7651328,10.27158624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3Tn,23869,Elmenhorst,Wiesengrund,14,,53.76609507,10.27289655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3To,23869,Elmenhorst,Wiesengrund,14,a,53.7661088,10.27301792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3Tt,23869,Elmenhorst,Wiesengrund,1,,53.76530406,10.273933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o3Tz,23869,Elmenhorst,Wiesengrund,10,,53.765763,10.27232186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008o4v0,23869,Elmenhorst,Fischbeker Straße,3,a,53.76445376,10.26448505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qbqB,23869,Elmenhorst,Wiesengrund,43,,53.76590942,10.27217225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qbqC,23869,Elmenhorst,Wiesengrund,43,a,53.76591214,10.27205193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008qbqI,23869,Elmenhorst,Wiesengrund,3,,53.76551842,10.27386393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rVSA,23869,Elmenhorst,Zum Lilienberg,16,,53.98102298,10.71703781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rVSv,23869,Elmenhorst,Zum Lilienberg,22,,53.98066214,10.71610169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tygk,23869,Elmenhorst,Kathenkoppel,1,,53.98072882,10.71558115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zxGW,23869,Elmenhorst,Wiesengrund,41,a,53.76579299,10.27203305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008zxH0,23869,Elmenhorst,Wiesengrund,41,,53.76579571,10.27191535

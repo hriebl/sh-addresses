@@ -1,0 +1,955 @@
+# Amtliche Adressen für die Postleitzahl 24860
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKA,24860,Wellspang,Am Sportplatz,7,,54.60439578,9.5910668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKB,24860,Wellspang,Am Sportplatz,9,,54.60429699,9.59110799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKC,24860,Wellspang,Am Südhang,1,,54.60094596,9.58143756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKD,24860,Wellspang,Am Südhang,10,,54.60104556,9.57863249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKE,24860,Wellspang,Am Südhang,11,,54.60085166,9.57865133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKF,24860,Wellspang,Am Südhang,12,,54.60105378,9.57841302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKG,24860,Wellspang,Am Südhang,13,,54.60086641,9.57832608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKH,24860,Wellspang,Am Südhang,2,,54.60129366,9.58147589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKI,24860,Wellspang,Am Südhang,2,a,54.60124544,9.58075805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKJ,24860,Wellspang,Am Südhang,3,a,54.60111309,9.58104191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKK,24860,Wellspang,Am Südhang,3,b,54.60102577,9.58093692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKL,24860,Wellspang,Am Südhang,4,,54.60114943,9.58028508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKM,24860,Wellspang,Am Südhang,5,,54.60096757,9.58057069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKN,24860,Wellspang,Am Südhang,6,,54.60112722,9.579701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKO,24860,Wellspang,Am Südhang,7,,54.60092998,9.58014632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKP,24860,Wellspang,Am Südhang,8,,54.60104345,9.57923598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKQ,24860,Wellspang,Am Südhang,9,,54.60088456,9.57962437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKR,24860,Wellspang,Ammelücken,2,a,54.60240654,9.57878561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKS,24860,Wellspang,Ammelücken,2,b,54.60213973,9.57881054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKT,24860,Wellspang,Ammelücken,2,c,54.60188463,9.57895764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKU,24860,Wellspang,Ammelücken,2,d,54.60167329,9.57903636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKV,24860,Wellspang,Ammelücken,2,e,54.60161029,9.57905714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKW,24860,Wellspang,Ammelücken,3,,54.60190397,9.58005667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKX,24860,Wellspang,Ammelücken,4,a,54.60139421,9.57916463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKY,24860,Wellspang,Ammelücken,5,,54.60169406,9.57995366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKZ,24860,Wellspang,Ammelücken,6,,54.60185328,9.57951836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKv,24860,Wellspang,Am Sportplatz,1,,54.6047441,9.59094842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKw,24860,Wellspang,Am Sportplatz,2,,54.60472313,9.59063044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKx,24860,Wellspang,Am Sportplatz,3,,54.60463341,9.59099654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKy,24860,Wellspang,Am Sportplatz,4,,54.60452381,9.59065972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKz,24860,Wellspang,Am Sportplatz,5,,54.60452312,9.59104335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL0,24860,Wellspang,Ammelücken,7,,54.60145114,9.58003349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL1,24860,Wellspang,Ammelücken,8,,54.60165887,9.57958148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL2,24860,Wellspang,Augustenburger Straße,1,,54.59863347,9.58291629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL3,24860,Wellspang,Augustenburger Straße,10,,54.59949313,9.58317642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL4,24860,Wellspang,Augustenburger Straße,11,,54.59993321,9.58252409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL5,24860,Wellspang,Augustenburger Straße,12,,54.59967736,9.58315096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL6,24860,Wellspang,Augustenburger Straße,13,,54.59988623,9.58203768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL7,24860,Wellspang,Augustenburger Straße,14,,54.5998687,9.58312894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL8,24860,Wellspang,Augustenburger Straße,15,,54.59989888,9.5817375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbL9,24860,Wellspang,Augustenburger Straße,16,,54.60009815,9.58324146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLA,24860,Wellspang,Bergstraße,11,,54.60157106,9.58142913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLB,24860,Wellspang,Bergstraße,12,,54.60245791,9.58111188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLC,24860,Wellspang,Bergstraße,14,a,54.60216161,9.58119501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLD,24860,Wellspang,Bergstraße,14,b,54.60206453,9.58124636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLE,24860,Wellspang,Bergstraße,16,,54.60202071,9.58087854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLF,24860,Wellspang,Bergstraße,18,,54.60186381,9.58066526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLG,24860,Wellspang,Bergstraße,2,a,54.60275967,9.58098743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLH,24860,Wellspang,Bergstraße,2,b,54.60270137,9.58102143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLI,24860,Wellspang,Bergstraße,22,,54.60173499,9.58112754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLJ,24860,Wellspang,Bergstraße,24,,54.60145632,9.58096769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLK,24860,Wellspang,Bergstraße,3,,54.60285542,9.58157123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLL,24860,Wellspang,Bergstraße,4,a,54.6027088,9.58067355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLM,24860,Wellspang,Bergstraße,4,b,54.60263392,9.58066705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLN,24860,Wellspang,Bergstraße,5,,54.6025433,9.58151246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLO,24860,Wellspang,Bergstraße,6,,54.60254606,9.58038406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLP,24860,Wellspang,Bergstraße,7,,54.60234689,9.58159676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLQ,24860,Wellspang,Bergstraße,9,,54.60177542,9.58153986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLR,24860,Wellspang,Böklundfeld,1,,54.61595079,9.55669917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLS,24860,Wellspang,Böklundfeld,2,,54.61745211,9.55528554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLT,24860,Wellspang,Böklundfeld,3,,54.6161732,9.55644803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLU,24860,Wellspang,Böklundfeld,4,,54.61896427,9.5518845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLV,24860,Wellspang,Böklundfeld,5,,54.61385891,9.55476246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLW,24860,Wellspang,Böklundfeld,7,,54.61733937,9.55490016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLX,24860,Wellspang,Böklundfeld,9,,54.61745773,9.55415558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLY,24860,Wellspang,Buchenhain,1,,54.60344583,9.58150174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLZ,24860,Wellspang,Dennholm,2,,54.6167446,9.55646459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLa,24860,Wellspang,Augustenburger Straße,18,,54.60035102,9.58335344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLb,24860,Wellspang,Augustenburger Straße,2,,54.59865513,9.58332984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLc,24860,Wellspang,Augustenburger Straße,20,,54.60027123,9.58301651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLd,24860,Wellspang,Augustenburger Straße,22,,54.60021632,9.58264753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLe,24860,Wellspang,Augustenburger Straße,24,,54.60020756,9.58217397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLf,24860,Wellspang,Augustenburger Straße,26,,54.60025328,9.58196416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLg,24860,Wellspang,Augustenburger Straße,3,,54.5989418,9.58286698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLh,24860,Wellspang,Augustenburger Straße,4,,54.59888612,9.5832659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLi,24860,Wellspang,Augustenburger Straße,5,,54.59923665,9.58281802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLj,24860,Wellspang,Augustenburger Straße,6,,54.59905464,9.58323899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLk,24860,Wellspang,Augustenburger Straße,7,,54.59953062,9.58273826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLl,24860,Wellspang,Augustenburger Straße,8,,54.59929276,9.58321371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLm,24860,Wellspang,Augustenburger Straße,9,,54.59969976,9.58266638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLn,24860,Wellspang,Auwiese,1,,54.60778954,9.5773124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLo,24860,Wellspang,Auwiese,2,,54.60790983,9.57686872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLp,24860,Wellspang,Auwiese,3,,54.60768712,9.57717486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLq,24860,Wellspang,Auwiese,4,,54.60792114,9.57680401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLr,24860,Wellspang,Auwiese,5,,54.60774214,9.57697851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLs,24860,Wellspang,Auwiese,6,,54.60807462,9.57642389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLt,24860,Wellspang,Auwiese,7,,54.60775905,9.57689409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLu,24860,Wellspang,Bahnhofstraße,1,,54.6033779,9.58416412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLv,24860,Wellspang,Bahnhofstraße,4,,54.6027641,9.58478419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLw,24860,Wellspang,Bahnhofstraße,5,,54.60261326,9.58457289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLx,24860,Wellspang,Bahnhofstraße,6,,54.60274944,9.58454204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLy,24860,Wellspang,Bergstraße,1,,54.60280438,9.58136041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbLz,24860,Wellspang,Bergstraße,10,,54.60243913,9.58072944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM0,24860,Wellspang,Dennholm,4,,54.61744835,9.55691509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM1,24860,Wellspang,Flensburger Straße,1,,54.60390664,9.58285042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM2,24860,Wellspang,Flensburger Straße,10,,54.60528645,9.58115449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM3,24860,Wellspang,Flensburger Straße,12,,54.60549724,9.58113342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM4,24860,Wellspang,Flensburger Straße,13,,54.60476555,9.58139721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM5,24860,Wellspang,Flensburger Straße,14,,54.60567964,9.58119676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM6,24860,Wellspang,Flensburger Straße,15,,54.60500776,9.58121836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM7,24860,Wellspang,Flensburger Straße,16,,54.60586055,9.58108386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM8,24860,Wellspang,Flensburger Straße,17,,54.6049777,9.58112611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbM9,24860,Wellspang,Flensburger Straße,18,,54.60605069,9.58098487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMA,24860,Wellspang,Flensburger Straße,47,,54.60876263,9.5676934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMB,24860,Wellspang,Flensburger Straße,49,,54.61202389,9.56483086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMC,24860,Wellspang,Flensburger Straße,5,,54.60446416,9.58205647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMD,24860,Wellspang,Flensburger Straße,6,,54.60483364,9.58197366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbME,24860,Wellspang,Flensburger Straße,7,,54.60460345,9.58154488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMF,24860,Wellspang,Flensburger Straße,8,,54.60519909,9.58143985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMG,24860,Wellspang,Flensburger Straße,9,,54.60468965,9.58129264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMH,24860,Wellspang,Gewerbestraße,1,,54.60179885,9.58835744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMI,24860,Wellspang,Gewerbestraße,2,,54.60141323,9.58928457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMJ,24860,Wellspang,Gewerbestraße,3,,54.60200747,9.5888749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMK,24860,Wellspang,Gewerbestraße,4,,54.60171358,9.5896447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbML,24860,Wellspang,Gewerbestraße,5,,54.6021497,9.58963141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMM,24860,Wellspang,Hans-Christophersen-Allee,1,,54.60018357,9.58589099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMN,24860,Wellspang,Hans-Christophersen-Allee,2,,54.60093759,9.58482813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMO,24860,Wellspang,Hans-Christophersen-Allee,3,,54.6006838,9.58613783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMP,24860,Wellspang,Im Winkel,1,,54.60214919,9.58192468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMQ,24860,Wellspang,Im Winkel,10,,54.60234643,9.58281251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMR,24860,Wellspang,Im Winkel,12,,54.60249672,9.58278441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMS,24860,Wellspang,Im Winkel,14,a,54.60266346,9.58279529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMT,24860,Wellspang,Im Winkel,14,b,54.60269017,9.58302892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMU,24860,Wellspang,Im Winkel,2,,54.60189762,9.58184253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMV,24860,Wellspang,Im Winkel,3,,54.60220519,9.58234727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMW,24860,Wellspang,Im Winkel,4,,54.60194693,9.58226375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMX,24860,Wellspang,Im Winkel,5,,54.60245452,9.58241064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMY,24860,Wellspang,Im Winkel,6,,54.60199858,9.58267013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMZ,24860,Wellspang,Im Winkel,7,,54.60256813,9.58230488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMa,24860,Wellspang,Flensburger Straße,19,,54.60494774,9.58103315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMb,24860,Wellspang,Flensburger Straße,2,,54.60438228,9.58284828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMc,24860,Wellspang,Flensburger Straße,20,,54.60639437,9.5796753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMd,24860,Wellspang,Flensburger Straße,21,,54.60491807,9.58094154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMe,24860,Wellspang,Flensburger Straße,22,,54.60712504,9.5788469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMf,24860,Wellspang,Flensburger Straße,23,,54.60517696,9.58078898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMg,24860,Wellspang,Flensburger Straße,24,,54.60766514,9.57942963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMh,24860,Wellspang,Flensburger Straße,24,a,54.60739619,9.57878304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMi,24860,Wellspang,Flensburger Straße,25,,54.60536142,9.58062047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMj,24860,Wellspang,Flensburger Straße,26,,54.60897319,9.57494493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMk,24860,Wellspang,Flensburger Straße,27,,54.60557043,9.58048278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMl,24860,Wellspang,Flensburger Straße,28,,54.60911036,9.57459401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMm,24860,Wellspang,Flensburger Straße,29,,54.60584402,9.57988447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMn,24860,Wellspang,Flensburger Straße,3,,54.60425945,9.58239744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMo,24860,Wellspang,Flensburger Straße,30,,54.60922061,9.57388888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMp,24860,Wellspang,Flensburger Straße,31,,54.60602842,9.57962154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMq,24860,Wellspang,Flensburger Straße,32,,54.60944955,9.57318895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMr,24860,Wellspang,Flensburger Straße,33,,54.60618634,9.57947972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMs,24860,Wellspang,Flensburger Straße,34,,54.61235576,9.5650203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMt,24860,Wellspang,Flensburger Straße,35,,54.606293,9.57910751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMu,24860,Wellspang,Flensburger Straße,37,,54.6064925,9.5789545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMv,24860,Wellspang,Flensburger Straße,39,,54.60688739,9.57857284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMw,24860,Wellspang,Flensburger Straße,4,,54.60450506,9.58241499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMx,24860,Wellspang,Flensburger Straße,41,,54.60714631,9.57855104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMy,24860,Wellspang,Flensburger Straße,43,,54.60743715,9.57815983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbMz,24860,Wellspang,Flensburger Straße,45,,54.60759855,9.57798827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN0,24860,Wellspang,Im Winkel,8,,54.60217997,9.58288498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN1,24860,Wellspang,Kattbeker Straße,1,,54.60324597,9.5973757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN2,24860,Wellspang,Kattbeker Straße,10,,54.6023868,9.60585363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN3,24860,Wellspang,Kattbeker Straße,12,,54.6038117,9.60641892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN4,24860,Wellspang,Kattbeker Straße,12,a,54.60344187,9.606189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN5,24860,Wellspang,Kattbeker Straße,13,,54.60451928,9.60419713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN6,24860,Wellspang,Kattbeker Straße,14,,54.60437749,9.60685964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN7,24860,Wellspang,Kattbeker Straße,15,,54.60462548,9.60518895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN8,24860,Wellspang,Kattbeker Straße,16,,54.60430206,9.60750272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbN9,24860,Wellspang,Kattbeker Straße,17,,54.60408347,9.60484598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNA,24860,Wellspang,Krokholm,2,,54.59872356,9.58418303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNB,24860,Wellspang,Krokholm,3,,54.59832888,9.5817724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNC,24860,Wellspang,Krokholm,4,,54.59871455,9.58388783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbND,24860,Wellspang,Krokholm,5,,54.59824826,9.581508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNE,24860,Wellspang,Krokholm,5,a,54.59822971,9.58139293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNF,24860,Wellspang,Krokholm,5,b,54.59802324,9.58158695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNG,24860,Wellspang,Krokholm,5,c,54.59801248,9.58146622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNH,24860,Wellspang,Krokholm,6,,54.59858914,9.58255536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNI,24860,Wellspang,Krokholm,7,,54.59773618,9.58156178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNJ,24860,Wellspang,Krokholm,8,,54.59856649,9.58222095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNK,24860,Wellspang,Krokholm,9,,54.59749151,9.58152392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNL,24860,Wellspang,Lindeberg,1,,54.61532377,9.5629817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNM,24860,Wellspang,Lindeberg,11,,54.61713946,9.57301245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNN,24860,Wellspang,Lindeberg,13,,54.61657923,9.57331662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNO,24860,Wellspang,Lindeberg,15,,54.61625336,9.57373649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNP,24860,Wellspang,Lindeberg,17,,54.61526007,9.5744624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNQ,24860,Wellspang,Lindeberg,17,a,54.61526432,9.57473356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNR,24860,Wellspang,Lindeberg,19,,54.61498688,9.57479229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNS,24860,Wellspang,Lindeberg,2,,54.61801851,9.5700638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNT,24860,Wellspang,Lindeberg,2,a,54.61557017,9.56525522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNU,24860,Wellspang,Lindeberg,21,,54.61387909,9.57546041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNV,24860,Wellspang,Lindeberg,3,,54.61577381,9.56454804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNW,24860,Wellspang,Lindeberg,4,,54.61832752,9.57216507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNX,24860,Wellspang,Lindeberg,5,,54.6165422,9.56601734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNY,24860,Wellspang,Lindeberg,6,,54.61662298,9.57303239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNZ,24860,Wellspang,Lindeberg,7,,54.61895535,9.57176306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNa,24860,Wellspang,Kattbeker Straße,18,,54.60624358,9.60671764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNb,24860,Wellspang,Kattbeker Straße,19,,54.60454699,9.60611584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNc,24860,Wellspang,Kattbeker Straße,2,,54.60029992,9.5954073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNd,24860,Wellspang,Kattbeker Straße,20,,54.60647498,9.60697507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNe,24860,Wellspang,Kattbeker Straße,21,,54.60749955,9.60655014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNf,24860,Wellspang,Kattbeker Straße,23,,54.60773358,9.60644642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNg,24860,Wellspang,Kattbeker Straße,3,,54.60418028,9.5992883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNh,24860,Wellspang,Kattbeker Straße,4,,54.59961463,9.59824224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNi,24860,Wellspang,Kattbeker Straße,5,,54.60367326,9.60333231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNj,24860,Wellspang,Kattbeker Straße,6,,54.60333086,9.60124171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNk,24860,Wellspang,Kattbeker Straße,7,,54.60392903,9.60379848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNl,24860,Wellspang,Kattbeker Straße,8,,54.60369837,9.60511962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNm,24860,Wellspang,Kattbeker Straße,9,,54.6040393,9.60406314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNn,24860,Wellspang,Kirchweg,1,,54.6038438,9.58990739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNo,24860,Wellspang,Knickstraße,1,,54.60369284,9.60872386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNp,24860,Wellspang,Knickstraße,2,,54.6034486,9.60897252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNq,24860,Wellspang,Knickstraße,3,,54.60309033,9.61516484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNr,24860,Wellspang,Knickstraße,4,,54.60417306,9.61267641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNs,24860,Wellspang,Knickstraße,6,,54.60366923,9.61411472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNt,24860,Wellspang,Krokholm,1,,54.59834134,9.58200127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNu,24860,Wellspang,Krokholm,10,,54.59854199,9.58188015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNv,24860,Wellspang,Krokholm,11,,54.59749492,9.58203372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNw,24860,Wellspang,Krokholm,12,,54.59851816,9.58159501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNx,24860,Wellspang,Krokholm,13,,54.59811014,9.58074809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNy,24860,Wellspang,Krokholm,14,,54.59828267,9.58058074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbNz,24860,Wellspang,Krokholm,16,,54.59618801,9.57723032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO0,24860,Wellspang,Lindeberg,9,,54.61806648,9.57264435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO1,24860,Wellspang,Meiereistraße,1,,54.60625466,9.5834952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO2,24860,Wellspang,Meiereistraße,2,,54.60656598,9.58267084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO5,24860,Wellspang,Meiereistraße,4,,54.6066114,9.58240222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO6,24860,Wellspang,Meiereistraße,5,,54.60654883,9.58091278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO7,24860,Wellspang,Meiereistraße,6,,54.6066702,9.58204714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO8,24860,Wellspang,Meiereistraße,7,,54.60663353,9.57997156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbO9,24860,Wellspang,Meiereistraße,8,,54.60667941,9.58149084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOA,24860,Wellspang,Obere Teichstraße,3,,54.59865854,9.58102403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOB,24860,Wellspang,Obere Teichstraße,4,,54.59950003,9.58152067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOC,24860,Wellspang,Obere Teichstraße,5,,54.59887309,9.58096599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOD,24860,Wellspang,Obere Teichstraße,6,,54.5996929,9.58166442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOE,24860,Wellspang,Obere Teichstraße,7,,54.5990817,9.58098984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOF,24860,Wellspang,Obere Teichstraße,9,,54.59929612,9.58101545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOG,24860,Wellspang,Pöttacker,12,,54.60044165,9.59206509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOH,24860,Wellspang,Pöttacker,2,,54.60048041,9.58900162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOI,24860,Wellspang,Pöttacker,5,,54.60099893,9.5915704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOJ,24860,Wellspang,Pöttacker,8,,54.60045546,9.59064435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOK,24860,Wellspang,Quinkkjer,1,,54.60221812,9.57547625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOL,24860,Wellspang,Quinkkjer,10,,54.60134326,9.57526513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOM,24860,Wellspang,Quinkkjer,11,,54.60113705,9.57674528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbON,24860,Wellspang,Quinkkjer,12,,54.60122895,9.57554392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOO,24860,Wellspang,Quinkkjer,13,,54.60127133,9.57657713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOP,24860,Wellspang,Quinkkjer,14,,54.60110656,9.57574416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOQ,24860,Wellspang,Quinkkjer,15,,54.60146422,9.57664467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOR,24860,Wellspang,Quinkkjer,16,,54.60099687,9.57604685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOS,24860,Wellspang,Quinkkjer,17,,54.60112937,9.57721409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOT,24860,Wellspang,Quinkkjer,18,,54.60091934,9.57637331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOU,24860,Wellspang,Quinkkjer,19,,54.6012328,9.57758956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOV,24860,Wellspang,Quinkkjer,2,,54.60225329,9.57508296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOW,24860,Wellspang,Quinkkjer,20,,54.60088268,9.57671412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOX,24860,Wellspang,Quinkkjer,21,,54.60167097,9.57774296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOY,24860,Wellspang,Quinkkjer,22,,54.60088271,9.57707322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOZ,24860,Wellspang,Quinkkjer,23,a,54.60162622,9.57749011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOa,24860,Wellspang,Mittelreihe,1,,54.59896341,9.58245968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOb,24860,Wellspang,Mittelreihe,10,,54.59913993,9.58151009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOc,24860,Wellspang,Mittelreihe,2,,54.59916806,9.5824665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOd,24860,Wellspang,Mittelreihe,3,,54.59894207,9.58214077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOe,24860,Wellspang,Mittelreihe,4,,54.59915392,9.58226048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOf,24860,Wellspang,Mittelreihe,5,,54.59891862,9.58178769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOg,24860,Wellspang,Mittelreihe,6,,54.59913999,9.58205156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOh,24860,Wellspang,Mittelreihe,7,,54.59886226,9.58148153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOi,24860,Wellspang,Mittelreihe,8,,54.59912638,9.58184542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOj,24860,Wellspang,Norderau,1,,54.60745988,9.58283366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOk,24860,Wellspang,Norderau,1,a,54.60751309,9.58271614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOl,24860,Wellspang,Norderau,11,,54.61108145,9.57473571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOm,24860,Wellspang,Norderau,2,,54.61146776,9.58151491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOn,24860,Wellspang,Norderau,23,,54.61574354,9.57927742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOo,24860,Wellspang,Norderau,3,,54.60769521,9.58272377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOp,24860,Wellspang,Norderau,4,,54.61469016,9.58177417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOq,24860,Wellspang,Norderau,5,,54.60874987,9.58185445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOr,24860,Wellspang,Norderau,5,a,54.60980055,9.58103538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOs,24860,Wellspang,Norderau,6,,54.61143812,9.58002729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOt,24860,Wellspang,Norderau,7,,54.61109478,9.5798452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOu,24860,Wellspang,Norderau,8,,54.61123784,9.57511574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOv,24860,Wellspang,Norderau,9,,54.61119325,9.57844184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOw,24860,Wellspang,Obere Teichstraße,1,,54.59844376,9.58107743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOx,24860,Wellspang,Obere Teichstraße,11,,54.59949401,9.58107083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOy,24860,Wellspang,Obere Teichstraße,13,,54.59973119,9.58117021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbOz,24860,Wellspang,Obere Teichstraße,15,,54.59989897,9.58122506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP0,24860,Wellspang,Quinkkjer,23,b,54.60162239,9.57739903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP1,24860,Wellspang,Quinkkjer,24,,54.60089922,9.5773495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP2,24860,Wellspang,Quinkkjer,25,,54.60163408,9.57715488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP3,24860,Wellspang,Quinkkjer,26,,54.60094032,9.57768271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP4,24860,Wellspang,Quinkkjer,27,,54.60184769,9.57713809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP5,24860,Wellspang,Quinkkjer,28,,54.60091548,9.57793483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP6,24860,Wellspang,Quinkkjer,29,,54.60187454,9.57742293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP7,24860,Wellspang,Quinkkjer,3,,54.60199742,9.57539911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP8,24860,Wellspang,Quinkkjer,30,,54.60126546,9.57805791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbP9,24860,Wellspang,Quinkkjer,31,,54.60186344,9.57779106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPA,24860,Wellspang,Satruper Straße,22,,54.61713189,9.59202813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPB,24860,Wellspang,Satruper Straße,23,,54.61634975,9.58685273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPC,24860,Wellspang,Satruper Straße,3,,54.60443196,9.58351681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPD,24860,Wellspang,Satruper Straße,4,,54.60504747,9.58403255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPF,24860,Wellspang,Satruper Straße,5,,54.60485484,9.58354015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPG,24860,Wellspang,Satruper Straße,7,,54.6052477,9.58357204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPH,24860,Wellspang,Satruper Straße,9,,54.60544098,9.58356665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPI,24860,Wellspang,Schleswiger Straße,1,,54.60368232,9.58392927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPJ,24860,Wellspang,Schleswiger Straße,10,,54.60283561,9.58375724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPK,24860,Wellspang,Schleswiger Straße,11,,54.60249728,9.58416991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPL,24860,Wellspang,Schleswiger Straße,12,,54.6026313,9.58378036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPM,24860,Wellspang,Schleswiger Straße,13,,54.6021749,9.58418281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPN,24860,Wellspang,Schleswiger Straße,14,,54.60244808,9.58376931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPO,24860,Wellspang,Schleswiger Straße,15,,54.60199405,9.58423942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPP,24860,Wellspang,Schleswiger Straße,16,,54.60221672,9.58383913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPQ,24860,Wellspang,Schleswiger Straße,17,,54.6017865,9.58444945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPR,24860,Wellspang,Schleswiger Straße,19,,54.60148637,9.58438339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPS,24860,Wellspang,Schleswiger Straße,19,a,54.60148709,9.58494099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPT,24860,Wellspang,Schleswiger Straße,2,,54.60383824,9.58350707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPU,24860,Wellspang,Schleswiger Straße,20,,54.60197125,9.58390759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPV,24860,Wellspang,Schleswiger Straße,22,,54.60182078,9.58392907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPW,24860,Wellspang,Schleswiger Straße,24,,54.60123633,9.58386172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPX,24860,Wellspang,Schleswiger Straße,25,a,54.60051941,9.58450644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPY,24860,Wellspang,Schleswiger Straße,26,,54.60047922,9.58386299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPZ,24860,Wellspang,Schleswiger Straße,27,,54.60012362,9.58448695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPa,24860,Wellspang,Quinkkjer,32,,54.60144973,9.57833413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPb,24860,Wellspang,Quinkkjer,34,,54.60163702,9.57832747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPc,24860,Wellspang,Quinkkjer,34,a,54.60162099,9.57846417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPd,24860,Wellspang,Quinkkjer,36,,54.60189505,9.57838571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPe,24860,Wellspang,Quinkkjer,38,,54.60186618,9.5780534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPf,24860,Wellspang,Quinkkjer,4,,54.60203815,9.57504962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPg,24860,Wellspang,Quinkkjer,5,,54.60178765,9.57536374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPh,24860,Wellspang,Quinkkjer,6,,54.60179356,9.57500809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPi,24860,Wellspang,Quinkkjer,7,,54.60160116,9.57545715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPj,24860,Wellspang,Quinkkjer,8,,54.60152678,9.57508637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPk,24860,Wellspang,Quinkkjer,9,,54.60124641,9.57616873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPl,24860,Wellspang,Reesbrück,2,,54.61910774,9.56389265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPm,24860,Wellspang,Satruper Straße,1,,54.60426064,9.58346166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPn,24860,Wellspang,Satruper Straße,10,,54.60589537,9.58411615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPo,24860,Wellspang,Satruper Straße,11,,54.6056025,9.58357874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPp,24860,Wellspang,Satruper Straße,12,,54.60608407,9.58413641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPq,24860,Wellspang,Satruper Straße,13,,54.60583609,9.58359792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPr,24860,Wellspang,Satruper Straße,14,,54.60625884,9.58424663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPs,24860,Wellspang,Satruper Straße,15,,54.60641208,9.58366213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPt,24860,Wellspang,Satruper Straße,16,,54.60831086,9.58560149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPu,24860,Wellspang,Satruper Straße,17,,54.61237229,9.58650584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPv,24860,Wellspang,Satruper Straße,18,,54.6087121,9.5856889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPw,24860,Wellspang,Satruper Straße,19,,54.61251692,9.58686067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPx,24860,Wellspang,Satruper Straße,2,,54.60434217,9.58398726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPy,24860,Wellspang,Satruper Straße,20,,54.61695635,9.59168412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbPz,24860,Wellspang,Satruper Straße,21,,54.61475276,9.58842899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ0,24860,Wellspang,Schleswiger Straße,28,,54.60027755,9.58395612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ1,24860,Wellspang,Schleswiger Straße,29,,54.5998943,9.58454297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ3,24860,Wellspang,Schleswiger Straße,30,,54.60006105,9.58400479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ4,24860,Wellspang,Schleswiger Straße,31,,54.59970893,9.58457431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ5,24860,Wellspang,Schleswiger Straße,32,,54.59986901,9.58403379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ6,24860,Wellspang,Schleswiger Straße,33,,54.59950538,9.58461261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ7,24860,Wellspang,Schleswiger Straße,34,,54.59967451,9.58395949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ8,24860,Wellspang,Schleswiger Straße,35,,54.59929391,9.58470817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQ9,24860,Wellspang,Schleswiger Straße,36,,54.59945023,9.58405539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQB,24860,Wellspang,Schulstraße,14,,54.60439407,9.5878736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQC,24860,Wellspang,Schulstraße,15,,54.6046628,9.58791209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQD,24860,Wellspang,Schulstraße,16,,54.60453768,9.58827065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQE,24860,Wellspang,Schulstraße,17,,54.60531914,9.59336973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQF,24860,Wellspang,Schulstraße,19,,54.60673061,9.59543361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQG,24860,Wellspang,Schulstraße,2,,54.60396673,9.58390405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQH,24860,Wellspang,Schulstraße,20,,54.60490949,9.58972769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQI,24860,Wellspang,Schulstraße,22,,54.60490981,9.59033753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQJ,24860,Wellspang,Schulstraße,24,,54.604942,9.59092465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQK,24860,Wellspang,Schulstraße,3,,54.60421195,9.58538486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQL,24860,Wellspang,Schulstraße,4,,54.60400185,9.58464291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQM,24860,Wellspang,Schulstraße,5,,54.60422218,9.58569786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQN,24860,Wellspang,Schulstraße,5,a,54.60472023,9.58561192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQO,24860,Wellspang,Schulstraße,6,,54.60393872,9.58540579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQP,24860,Wellspang,Schulstraße,7,,54.60432528,9.58612016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQQ,24860,Wellspang,Schulstraße,8,,54.6040589,9.58665157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQR,24860,Wellspang,Siedlung Alter Krug,1,,54.60508175,9.58046081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQS,24860,Wellspang,Siedlung Alter Krug,2,,54.60528769,9.57996823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQT,24860,Wellspang,Siedlung Alter Krug,3,,54.6050257,9.58025766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQU,24860,Wellspang,Siedlung Alter Krug,4,,54.60519713,9.57976855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQV,24860,Wellspang,Siedlung Alter Krug,5,,54.6049436,9.57975614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQW,24860,Wellspang,Siedlung Alter Krug,6,,54.60516008,9.57950475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQX,24860,Wellspang,Siedlung Alter Krug,7,,54.60492473,9.57956239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQY,24860,Wellspang,Siedlung Alter Krug,8,,54.60509401,9.57922293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQZ,24860,Wellspang,Stolker Straße,1,,54.6030386,9.58299587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQa,24860,Wellspang,Schleswiger Straße,37,,54.59913776,9.58486461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQb,24860,Wellspang,Schleswiger Straße,38,,54.59920266,9.58389067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQc,24860,Wellspang,Schleswiger Straße,39,,54.59900991,9.58500438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQd,24860,Wellspang,Schleswiger Straße,4,,54.60369521,9.58360741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQe,24860,Wellspang,Schleswiger Straße,40,,54.5990125,9.5840254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQf,24860,Wellspang,Schleswiger Straße,41,,54.59892476,9.58524376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQg,24860,Wellspang,Schleswiger Straße,42,,54.59905536,9.58448702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQh,24860,Wellspang,Schleswiger Straße,43,,54.59884001,9.58543854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQi,24860,Wellspang,Schleswiger Straße,44,,54.59891555,9.58462411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQj,24860,Wellspang,Schleswiger Straße,45,,54.59875267,9.58565091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQk,24860,Wellspang,Schleswiger Straße,46,,54.59873255,9.58494869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQl,24860,Wellspang,Schleswiger Straße,47,,54.59701753,9.59003583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQm,24860,Wellspang,Schleswiger Straße,48,,54.59868177,9.58509912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQn,24860,Wellspang,Schleswiger Straße,5,,54.60307233,9.5840612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQo,24860,Wellspang,Schleswiger Straße,51,,54.5957855,9.59502136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQp,24860,Wellspang,Schleswiger Straße,53,,54.59563008,9.5955714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQq,24860,Wellspang,Schleswiger Straße,55,,54.59506247,9.59738565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQr,24860,Wellspang,Schleswiger Straße,57,,54.59642133,9.59839356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQs,24860,Wellspang,Schleswiger Straße,6,,54.60343615,9.58366413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQt,24860,Wellspang,Schleswiger Straße,7,,54.6029519,9.58408486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQu,24860,Wellspang,Schleswiger Straße,8,,54.60315537,9.58371638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQv,24860,Wellspang,Schleswiger Straße,9,,54.60274311,9.58427711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQw,24860,Wellspang,Schulstraße,1,,54.6046004,9.58475867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQx,24860,Wellspang,Schulstraße,10,,54.60402718,9.58713262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQy,24860,Wellspang,Schulstraße,11,,54.6044033,9.58689976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbQz,24860,Wellspang,Schulstraße,12,,54.60414357,9.58740541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR0,24860,Wellspang,Stolker Straße,1,a,54.60313394,9.58275128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR1,24860,Wellspang,Stolker Straße,11,,54.60236339,9.57813649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR2,24860,Wellspang,Stolker Straße,13,,54.60235705,9.57760033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR3,24860,Wellspang,Stolker Straße,15,,54.60233567,9.57742128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR4,24860,Wellspang,Stolker Straße,17,,54.60231046,9.57706259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR5,24860,Wellspang,Stolker Straße,2,,54.6032304,9.58206379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR6,24860,Wellspang,Stolker Straße,2,a,54.6036294,9.58224327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR7,24860,Wellspang,Stolker Straße,3,,54.60261024,9.57996641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR8,24860,Wellspang,Stolker Straße,4,,54.60290683,9.57556931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbR9,24860,Wellspang,Stolker Straße,5,,54.60254645,9.57979663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRA,24860,Wellspang,Westend,1,,54.60268673,9.57735875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRB,24860,Wellspang,Westend,10,,54.60276755,9.57811684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRC,24860,Wellspang,Westend,11,,54.6035155,9.57737198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRD,24860,Wellspang,Westend,12,,54.6027781,9.57820209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRE,24860,Wellspang,Westend,13,,54.603664,9.57734631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRF,24860,Wellspang,Westend,14,,54.60288883,9.57845273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRG,24860,Wellspang,Westend,15,,54.60381085,9.57726597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRH,24860,Wellspang,Westend,16,,54.60287671,9.57874428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRI,24860,Wellspang,Westend,17,,54.60397771,9.57682041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRJ,24860,Wellspang,Westend,18,,54.60319327,9.57884857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRK,24860,Wellspang,Westend,19,,54.6040072,9.57707496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRL,24860,Wellspang,Westend,2,,54.60274619,9.57778077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRM,24860,Wellspang,Westend,20,,54.60317604,9.57864957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRN,24860,Wellspang,Westend,21,,54.6040412,9.57749162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRO,24860,Wellspang,Westend,22,,54.60302697,9.57791311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRP,24860,Wellspang,Westend,23,,54.60407219,9.57780298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRQ,24860,Wellspang,Westend,24,,54.60320453,9.57795542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRR,24860,Wellspang,Westend,25,,54.60411378,9.57813618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRS,24860,Wellspang,Westend,26,,54.60339859,9.57775675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRT,24860,Wellspang,Westend,27,,54.60417502,9.57843745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRU,24860,Wellspang,Westend,28,,54.60359528,9.57778878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRV,24860,Wellspang,Westend,29,,54.60419838,9.57871468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRW,24860,Wellspang,Westend,3,,54.60290198,9.57748984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRX,24860,Wellspang,Westend,30,,54.6038501,9.57781275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRY,24860,Wellspang,Westend,31,,54.60422383,9.57901373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRZ,24860,Wellspang,Westend,32,,54.6038769,9.57815236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRa,24860,Wellspang,Stolker Straße,7,,54.60256493,9.57952294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRb,24860,Wellspang,Stolker Straße,9,,54.60244897,9.57925898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRc,24860,Wellspang,Tanneneck,1,,54.60510882,9.58734144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRd,24860,Wellspang,Tanneneck,2,,54.60522503,9.58757627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRe,24860,Wellspang,Tanneneck,3,,54.60534853,9.58725102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRf,24860,Wellspang,Tanneneck,4,,54.60544286,9.58749141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRg,24860,Wellspang,Tanneneck,5,,54.60551944,9.58719114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRh,24860,Wellspang,Tanneneck,6,,54.60568195,9.58741717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRi,24860,Wellspang,Toft,1,,54.60494281,9.58252482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRj,24860,Wellspang,Toft,1,a,54.60481411,9.58325184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRk,24860,Wellspang,Toft,1,b,54.60477568,9.58312755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRl,24860,Wellspang,Toft,1,c,54.60477193,9.58301759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRm,24860,Wellspang,Toft,1,d,54.6048022,9.58289736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRn,24860,Wellspang,Toft,3,,54.60526597,9.58205083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRo,24860,Wellspang,Toft,5,,54.6054328,9.58206914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRp,24860,Wellspang,Toft,7,,54.60583013,9.58190341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRq,24860,Wellspang,Toft,9,,54.6061569,9.58207818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRr,24860,Wellspang,Untere Teichstraße,1,,54.60136877,9.58226059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRs,24860,Wellspang,Untere Teichstraße,2,,54.60107178,9.58200548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRt,24860,Wellspang,Untere Teichstraße,3,,54.60143457,9.58264997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRu,24860,Wellspang,Untere Teichstraße,4,,54.60112428,9.58230149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRv,24860,Wellspang,Untere Teichstraße,5,,54.60146753,9.58304238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRw,24860,Wellspang,Untere Teichstraße,6,,54.6011081,9.58270526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRx,24860,Wellspang,Untere Teichstraße,7,,54.60141556,9.58331803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRy,24860,Wellspang,Untere Teichstraße,8,,54.60104992,9.58320114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbRz,24860,Wellspang,Untere Teichstraße,9,,54.60141818,9.58341714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS0,24860,Wellspang,Westend,33,,54.60423961,9.57929863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS1,24860,Wellspang,Westend,34,,54.6039528,9.57857711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS2,24860,Wellspang,Westend,35,,54.60470279,9.58082753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS3,24860,Wellspang,Westend,36,,54.60374807,9.57876303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS4,24860,Wellspang,Westend,38,,54.60375098,9.5790817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS5,24860,Wellspang,Westend,4,,54.60275584,9.5778675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS6,24860,Wellspang,Westend,40,,54.60400112,9.57911947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS7,24860,Wellspang,Westend,42,,54.6039998,9.57965884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS8,24860,Wellspang,Westend,44,,54.60419088,9.57972628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbS9,24860,Wellspang,Westend,46,,54.60440237,9.58046259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSA,24860,Wellspang,Zum Wald,2,a,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSB,24860,Wellspang,Zum Wald,2,b,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSC,24860,Wellspang,Zum Wald,2,c,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSD,24860,Wellspang,Zum Wald,2,d,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSE,24860,Wellspang,Zum Wald,2,e,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSF,24860,Wellspang,Zum Wald,2,f,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSG,24860,Wellspang,Zum Wald,2,g,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSH,24860,Wellspang,Zum Wald,2,h,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSI,24860,Wellspang,Zum Wald,2,i,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSJ,24860,Wellspang,Zum Wald,2,j,54.60526839,9.58537503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSK,24860,Wellspang,Zum Wald,3,,54.60551837,9.58553236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSL,24860,Wellspang,Zum Wald,4,,54.60518058,9.58581595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSM,24860,Wellspang,Zum Wald,5,,54.60541149,9.58623556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSN,24860,Wellspang,Zum Wald,6,,54.60514636,9.58623601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSa,24860,Wellspang,Westend,5,,54.60308539,9.57744488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSb,24860,Wellspang,Westend,6,,54.60275691,9.57795257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSc,24860,Wellspang,Westend,7,,54.60325002,9.57743423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSd,24860,Wellspang,Westend,8,,54.60276672,9.57803325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSe,24860,Wellspang,Westend,9,,54.60339295,9.57741556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSf,24860,Wellspang,Wilhelmshöh,1,,54.60218785,9.57653214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSg,24860,Wellspang,Wilhelmshöh,10,,54.60207272,9.57591721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSh,24860,Wellspang,Wilhelmshöh,11,,54.60212597,9.57681827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSi,24860,Wellspang,Wilhelmshöh,12,,54.60200201,9.57591937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSj,24860,Wellspang,Wilhelmshöh,13,,54.60207352,9.57678722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSk,24860,Wellspang,Wilhelmshöh,14,,54.60197034,9.57600501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSl,24860,Wellspang,Wilhelmshöh,15,,54.60192764,9.57656275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSm,24860,Wellspang,Wilhelmshöh,16,,54.60197302,9.57612683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSn,24860,Wellspang,Wilhelmshöh,17,,54.60168063,9.57655084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSo,24860,Wellspang,Wilhelmshöh,18,,54.60197578,9.57625311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSp,24860,Wellspang,Wilhelmshöh,2,,54.60222091,9.57623989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSq,24860,Wellspang,Wilhelmshöh,20,,54.60179062,9.57623925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSr,24860,Wellspang,Wilhelmshöh,22,,54.6016011,9.57622599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSs,24860,Wellspang,Wilhelmshöh,3,,54.60221479,9.5765991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSt,24860,Wellspang,Wilhelmshöh,4,,54.60221956,9.57611887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSu,24860,Wellspang,Wilhelmshöh,5,,54.60228301,9.57676013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSv,24860,Wellspang,Wilhelmshöh,6,,54.60221822,9.57599878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSw,24860,Wellspang,Wilhelmshöh,7,,54.60223645,9.57680311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSx,24860,Wellspang,Wilhelmshöh,8,,54.60214378,9.57591504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSy,24860,Wellspang,Wilhelmshöh,9,,54.60218224,9.57681054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbSz,24860,Wellspang,Zum Wald,1,,54.60557139,9.58467756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcE,24860,Wellspang,Alte Meierei,1,,54.62179971,9.53803599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcF,24860,Wellspang,Alte Meierei,10,,54.62230286,9.53720013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcG,24860,Wellspang,Alte Meierei,12,,54.62183048,9.53759338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcH,24860,Wellspang,Alte Meierei,2,,54.62497436,9.53684721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcI,24860,Wellspang,Alte Meierei,4,,54.62283247,9.53685494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcJ,24860,Wellspang,Alte Meierei,6,,54.62265416,9.53697032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcK,24860,Wellspang,Alte Meierei,8,,54.62246143,9.53711529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcL,24860,Wellspang,Am Kratt,1,,54.62206552,9.53295693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcM,24860,Wellspang,Am Kratt,10,,54.62196491,9.53469795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcN,24860,Wellspang,Am Kratt,11,,54.62217375,9.53449807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcO,24860,Wellspang,Am Kratt,2,,54.62189984,9.53300968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcP,24860,Wellspang,Am Kratt,4,,54.62192053,9.53330138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcQ,24860,Wellspang,Am Kratt,5,,54.62213589,9.53360054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcR,24860,Wellspang,Am Kratt,6,,54.62195294,9.53364061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcS,24860,Wellspang,Am Kratt,7,,54.6222465,9.53394425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcT,24860,Wellspang,Am Kratt,8,,54.62193933,9.53408798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcU,24860,Wellspang,Am Kratt,9,,54.62232723,9.53438869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcV,24860,Wellspang,Am Wald,1,,54.63250163,9.51550856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcW,24860,Wellspang,Am Wald,2,,54.62963049,9.51143748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcX,24860,Wellspang,Am Wald,3,,54.62940324,9.51170006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcY,24860,Wellspang,Am Wald,4,,54.62957404,9.51120819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfcZ,24860,Wellspang,Ausselbeeker Weg,2,,54.6230098,9.55065162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd0,24860,Wellspang,Birkenweg,1,,54.62788427,9.51916518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd1,24860,Wellspang,Dorfstraße,1,,54.61861291,9.54137241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd2,24860,Wellspang,Dorfstraße,1,a,54.61876894,9.54130722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd3,24860,Wellspang,Dorfstraße,10,,54.62173614,9.53665334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd4,24860,Wellspang,Dorfstraße,10,a,54.62120894,9.53452892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd5,24860,Wellspang,Dorfstraße,10,b,54.62103586,9.53409267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd6,24860,Wellspang,Dorfstraße,11,,54.62055102,9.53142209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd7,24860,Wellspang,Dorfstraße,13,,54.62050072,9.53099876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd8,24860,Wellspang,Dorfstraße,14,,54.62088887,9.53307929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfd9,24860,Wellspang,Dorfstraße,15,,54.62045161,9.53059403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdA,24860,Wellspang,Dorfstraße,9,e,54.62062652,9.53232137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdB,24860,Wellspang,Dorfstraße,9,f,54.62062102,9.53221921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdC,24860,Wellspang,Dorfstraße,9,g,54.62060499,9.53191855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdD,24860,Wellspang,Dornbusch,1,a,54.62892668,9.52628708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdE,24860,Wellspang,Dornbusch,1,b,54.62894097,9.52644329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdF,24860,Wellspang,Dornbusch,3,,54.62679772,9.52737333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdG,24860,Wellspang,Eckernförder Landstraße,1,,54.62877513,9.53155736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdH,24860,Wellspang,Eckernförder Landstraße,1,a,54.62891514,9.53131836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdI,24860,Wellspang,Eckernförder Landstraße,2,,54.62444835,9.53860744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdJ,24860,Wellspang,Eckernförder Landstraße,3,,54.62567781,9.53684896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdK,24860,Wellspang,Eckernförder Landstraße,3,a,54.62582252,9.53697402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdL,24860,Wellspang,Eckernförder Landstraße,4,,54.62252988,9.5455045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdM,24860,Wellspang,Elmholz,1,,54.60842984,9.50392588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdN,24860,Wellspang,Elmholz,11,,54.61579288,9.51122569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdO,24860,Wellspang,Elmholz,3,,54.61120445,9.49865957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdP,24860,Wellspang,Elmholz,5,,54.61131105,9.49886574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdQ,24860,Wellspang,Elmholz,7,,54.61156851,9.50526398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdR,24860,Wellspang,Elmholz,9,,54.61486063,9.51096284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdS,24860,Wellspang,Fenn,1,,54.63083902,9.53761378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdT,24860,Wellspang,Glasholz,1,,54.62389799,9.50524479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdU,24860,Wellspang,Glasholz,3,,54.62329817,9.50317041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdV,24860,Wellspang,Glasholz,5,,54.6243997,9.50101689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdW,24860,Wellspang,Glasholz,7,,54.62438589,9.50050873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdX,24860,Wellspang,Heidekoppel,1,,54.62706964,9.53907211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdY,24860,Wellspang,Heidekoppel,2,,54.62587233,9.53764636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfdZ,24860,Wellspang,Lammerskjer,1,,54.61845447,9.52491955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfda,24860,Wellspang,Dorfstraße,15,a,54.620419,9.53016536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdb,24860,Wellspang,Dorfstraße,16,,54.62086313,9.53278632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdc,24860,Wellspang,Dorfstraße,17,,54.620405,9.52988469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdd,24860,Wellspang,Dorfstraße,18,,54.62082681,9.53199695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfde,24860,Wellspang,Dorfstraße,2,,54.6191894,9.54180799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdf,24860,Wellspang,Dorfstraße,20,,54.62087956,9.53156407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdg,24860,Wellspang,Dorfstraße,22,,54.62086388,9.53112572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdh,24860,Wellspang,Dorfstraße,24,,54.62080208,9.53075528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdj,24860,Wellspang,Dorfstraße,28,,54.62073433,9.52982625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdk,24860,Wellspang,Dorfstraße,3,,54.61903589,9.54131095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdl,24860,Wellspang,Dorfstraße,30,,54.62069197,9.52955339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdm,24860,Wellspang,Dorfstraße,4,,54.61963123,9.54150542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdn,24860,Wellspang,Dorfstraße,5,,54.62023517,9.54076118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdo,24860,Wellspang,Dorfstraße,6,,54.62018242,9.54230733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdq,24860,Wellspang,Dorfstraße,7,a,54.62122741,9.53923776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdr,24860,Wellspang,Dorfstraße,7,d,54.62138997,9.53715967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfds,24860,Wellspang,Dorfstraße,7,e,54.6212364,9.53635935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdt,24860,Wellspang,Dorfstraße,7,f,54.62118952,9.53583315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdu,24860,Wellspang,Dorfstraße,8,,54.62188524,9.53922295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdv,24860,Wellspang,Dorfstraße,9,,54.62060663,9.53362055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdw,24860,Wellspang,Dorfstraße,9,a,54.62065785,9.53290695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdx,24860,Wellspang,Dorfstraße,9,b,54.62065274,9.53281106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdy,24860,Wellspang,Dorfstraße,9,c,54.62064222,9.53261113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfdz,24860,Wellspang,Dorfstraße,9,d,54.62063702,9.53251354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe0,24860,Wellspang,Lammerskjer,2,,54.61952637,9.52639326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe1,24860,Wellspang,Lammerskjer,2,a,54.61981726,9.52638905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe2,24860,Wellspang,Lammerskjer,3,,54.61815835,9.52427729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe3,24860,Wellspang,Lammerskjer,3,a,54.6181079,9.52400758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe4,24860,Wellspang,Lammerskjer,4,,54.61828815,9.52275661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe5,24860,Wellspang,Lammerskjer,5,,54.61812172,9.52374531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe6,24860,Wellspang,Moorlücke,1,,54.6214961,9.53395829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe7,24860,Wellspang,Moorlücke,3,,54.62157142,9.53432154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe8,24860,Wellspang,Moorweg,1,,54.62315802,9.53250158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfe9,24860,Wellspang,Moorweg,10,,54.62127319,9.53301231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeA,24860,Wellspang,Siedlung Vogelsang,8,,54.62240302,9.53577676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeB,24860,Wellspang,Stenderuper Straße,1,,54.62208465,9.52746184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeC,24860,Wellspang,Stenderuper Straße,10,,54.62170974,9.52752267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeD,24860,Wellspang,Stenderuper Straße,2,,54.62878814,9.51171159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeE,24860,Wellspang,Stenderuper Straße,3,,54.62162712,9.52816026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeF,24860,Wellspang,Stenderuper Straße,4,,54.62571448,9.51633555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeG,24860,Wellspang,Stenderuper Straße,5,,54.6212643,9.52855376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeH,24860,Wellspang,Stenderuper Straße,5,a,54.62100378,9.52889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeI,24860,Wellspang,Stenderuper Straße,6,,54.62525287,9.51742599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeJ,24860,Wellspang,Stenderuper Straße,7,,54.62066043,9.52923058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeK,24860,Wellspang,Stenderuper Straße,8,,54.62354427,9.52110914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeL,24860,Wellspang,Stiller Winkel,1,a,54.62130782,9.53489349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeM,24860,Wellspang,Stiller Winkel,1,b,54.62140692,9.5348408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeN,24860,Wellspang,Stiller Winkel,2,,54.62144644,9.53507596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeO,24860,Wellspang,Stiller Winkel,3,,54.62167173,9.53469004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeP,24860,Wellspang,Stiller Winkel,4,,54.62170059,9.53509131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeQ,24860,Wellspang,Teichstraße,1,,54.62351511,9.51369854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeR,24860,Wellspang,Teichstraße,3,,54.62344154,9.51380416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeS,24860,Wellspang,Tinkenhörn,1,,54.61518835,9.52129521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeT,24860,Wellspang,Westscheider Straße,1,,54.62729182,9.51513681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeU,24860,Wellspang,Westscheider Straße,10,,54.63481254,9.51336083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeV,24860,Wellspang,Westscheider Straße,11,,54.64091354,9.5102013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeW,24860,Wellspang,Westscheider Straße,12,,54.63474445,9.51341076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeX,24860,Wellspang,Westscheider Straße,14,,54.63668831,9.51175172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeY,24860,Wellspang,Westscheider Straße,16,,54.63977403,9.51159019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfeZ,24860,Wellspang,Westscheider Straße,2,,54.63200823,9.52558427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfea,24860,Wellspang,Moorweg,11,,54.62136426,9.53347737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeb,24860,Wellspang,Moorweg,13,,54.62117529,9.53372856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfec,24860,Wellspang,Moorweg,2,,54.62702611,9.53499293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfed,24860,Wellspang,Moorweg,4,,54.62558682,9.53293239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfee,24860,Wellspang,Moorweg,6,,54.62361466,9.53217017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfef,24860,Wellspang,Moorweg,8,,54.62142464,9.53287331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeg,24860,Wellspang,Moorweg,9,,54.62154119,9.53329036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeh,24860,Wellspang,Norderholz,2,,54.62899497,9.53851725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfei,24860,Wellspang,Norderholz,4,,54.63075291,9.54292999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfej,24860,Wellspang,Roggenberg,1,,54.62166961,9.54376397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfek,24860,Wellspang,Roggenberg,2,,54.62267117,9.54495331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfel,24860,Wellspang,Roggenberg,4,,54.62248731,9.54473507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfem,24860,Wellspang,Sandweg,1,,54.62291054,9.52065847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfen,24860,Wellspang,Sandweg,3,,54.62173124,9.51851701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeo,24860,Wellspang,Seeblick,1,,54.63381845,9.52066606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfep,24860,Wellspang,Seeblick,2,,54.63476013,9.52058966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeq,24860,Wellspang,Seeblick,3,,54.63837331,9.51728713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfer,24860,Wellspang,Seeblick,4,,54.64017011,9.51737292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfes,24860,Wellspang,Seeblick,5,,54.63949055,9.51549486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfet,24860,Wellspang,Siedlung Vogelsang,1,,54.6214828,9.53572489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfeu,24860,Wellspang,Siedlung Vogelsang,2,,54.62154722,9.53609653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfev,24860,Wellspang,Siedlung Vogelsang,3,,54.62181654,9.53563171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfew,24860,Wellspang,Siedlung Vogelsang,4,,54.62186045,9.53594877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfex,24860,Wellspang,Siedlung Vogelsang,5,,54.62210724,9.53551825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfey,24860,Wellspang,Siedlung Vogelsang,6,,54.6221306,9.53583057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nfez,24860,Wellspang,Siedlung Vogelsang,7,,54.62236342,9.53533485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff0,24860,Wellspang,Westscheider Straße,3,,54.63263206,9.51194514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff1,24860,Wellspang,Westscheider Straße,4,,54.63073532,9.52223427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff2,24860,Wellspang,Westscheider Straße,5,a,54.63352072,9.51164326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff3,24860,Wellspang,Westscheider Straße,5,b,54.63363398,9.51176346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff4,24860,Wellspang,Westscheider Straße,6,,54.62985186,9.51697897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff5,24860,Wellspang,Westscheider Straße,6,a,54.62974312,9.51769973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff6,24860,Wellspang,Westscheider Straße,7,,54.63433447,9.51093375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff7,24860,Wellspang,Westscheider Straße,8,,54.63281559,9.51399454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nff8,24860,Wellspang,Westscheider Straße,9,,54.63626927,9.51081051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nffb,24860,Wellspang,Zum Hof,3,,54.61924325,9.53860245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nffc,24860,Wellspang,Zum Hof,4,,54.62067914,9.53859439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nffd,24860,Wellspang,Zum Hof,5,,54.62094787,9.53885269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nffe,24860,Wellspang,Zur Schulkoppel,2,,54.61785899,9.53062366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjzW,24860,Wellspang,Böklundfeld,5,a,54.61361022,9.55444743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7A,24860,Wellspang,Op de Schanz,4,,54.58733125,9.61230779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7B,24860,Wellspang,Op de Schanz,5,,54.58744606,9.61213505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7C,24860,Wellspang,Op de Schanz,6,,54.58716936,9.61209477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7D,24860,Wellspang,Op de Schanz,7,,54.58697554,9.61125905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7E,24860,Wellspang,Op de Schanz,8,,54.5866596,9.61147583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7F,24860,Wellspang,Op de Schanz,9,,54.58674421,9.61167737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7L,24860,Wellspang,Schleswiger Straße,1,,54.5941594,9.59768216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7M,24860,Wellspang,Schleswiger Straße,10,,54.58737485,9.61069836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7N,24860,Wellspang,Schleswiger Straße,11,,54.58758109,9.61144872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7O,24860,Wellspang,Schleswiger Straße,12,,54.58399401,9.61263187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7P,24860,Wellspang,Schleswiger Straße,2,,54.59166192,9.59911871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7Q,24860,Wellspang,Schleswiger Straße,3,,54.5896478,9.60699863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7R,24860,Wellspang,Schleswiger Straße,4,,54.58856586,9.60922986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7S,24860,Wellspang,Schleswiger Straße,5,,54.58847534,9.61050455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7T,24860,Wellspang,Schleswiger Straße,6,,54.58815082,9.61006363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7U,24860,Wellspang,Schleswiger Straße,7,,54.5884718,9.61084629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7V,24860,Wellspang,Schleswiger Straße,9,,54.58867314,9.61271337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7d,24860,Wellspang,Mühlenstraße,4,,54.5892783,9.60471502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7e,24860,Wellspang,Mühlenstraße,6,,54.58905462,9.60572323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7v,24860,Wellspang,Op de Schanz,1,,54.58702614,9.61251472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7w,24860,Wellspang,Op de Schanz,10,,54.58686655,9.61198111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7x,24860,Wellspang,Op de Schanz,11,,54.58688474,9.61227135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7y,24860,Wellspang,Op de Schanz,2,,54.58711663,9.61282711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk7z,24860,Wellspang,Op de Schanz,3,,54.58726576,9.61256344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk8p,24860,Wellspang,Tolker Straße,1,,54.58783646,9.61176324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk8q,24860,Wellspang,Tolker Straße,1,a,54.58770402,9.61255706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk8r,24860,Wellspang,Tolker Straße,1,b,54.58762758,9.61294174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nk8s,24860,Wellspang,Tolker Straße,3,,54.58742738,9.6139339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHA,24860,Wellspang,Alte Landstraße,5,,54.64029952,9.58567034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHB,24860,Wellspang,Alte Landstraße,7,,54.64107372,9.5870494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHC,24860,Wellspang,Alter Schulhof,1,,54.62998236,9.59532126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHD,24860,Wellspang,Alter Schulhof,2,,54.63004382,9.59571553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHE,24860,Wellspang,Alter Schulhof,3,,54.6303725,9.59548616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHF,24860,Wellspang,Alter Schulhof,4,,54.63032476,9.59580964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHG,24860,Wellspang,Alter Schulhof,5,,54.63062482,9.59540461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHH,24860,Wellspang,Alter Schulhof,6,,54.63067065,9.59587966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHI,24860,Wellspang,An de Beek,1,,54.63232207,9.59348629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHJ,24860,Wellspang,An de Beek,2,,54.63243364,9.59381239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHK,24860,Wellspang,An de Beek,5,,54.63205333,9.5938007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHL,24860,Wellspang,Auhof,1,,54.63474974,9.60438564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHM,24860,Wellspang,Ausselbeker Weg,2,,54.62925727,9.5788685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHO,24860,Wellspang,Böklunder Straße,1,,54.63112105,9.59720533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHP,24860,Wellspang,Böklunder Straße,3,,54.62702726,9.5970539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHQ,24860,Wellspang,Buchenweg,1,,54.64366598,9.58790789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHR,24860,Wellspang,Buchenweg,2,,54.6443756,9.58249494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHS,24860,Wellspang,Buchenweg,3,,54.64425506,9.58286926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHT,24860,Wellspang,Dammstedt,1,,54.63626471,9.57863051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHU,24860,Wellspang,Dammstedt,1,a,54.63631352,9.5784667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHW,24860,Wellspang,Dammstedt,3,,54.63654579,9.57657163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHX,24860,Wellspang,Dammstedt,5,,54.63656413,9.57627925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHY,24860,Wellspang,Dorfstraße,1,,54.63236918,9.59213583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHZ,24860,Wellspang,Dorfstraße,10,,54.63152493,9.59866937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHv,24860,Wellspang,Alte Landstraße,1,,54.635961,9.58593494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHw,24860,Wellspang,Alte Landstraße,2,,54.63506214,9.58975783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHx,24860,Wellspang,Alte Landstraße,3,,54.63881712,9.58370661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHy,24860,Wellspang,Alte Landstraße,4,,54.63523371,9.58894659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkHz,24860,Wellspang,Alte Landstraße,4,a,54.63528004,9.58882714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI0,24860,Wellspang,Dorfstraße,11,,54.63157688,9.59381794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI1,24860,Wellspang,Dorfstraße,12,,54.63136645,9.60218208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI2,24860,Wellspang,Dorfstraße,14,,54.63183052,9.60281358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI3,24860,Wellspang,Dorfstraße,15,,54.63159822,9.59521747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI4,24860,Wellspang,Dorfstraße,16,,54.63203596,9.60323269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI5,24860,Wellspang,Dorfstraße,16,a,54.63200858,9.60377644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI6,24860,Wellspang,Dorfstraße,17,,54.63156253,9.59633716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI7,24860,Wellspang,Dorfstraße,18,,54.63214321,9.60422586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI8,24860,Wellspang,Dorfstraße,19,,54.63173056,9.59760762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkI9,24860,Wellspang,Dorfstraße,2,,54.63135557,9.59359545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIJ,24860,Wellspang,Eulenweg,1,,54.63704041,9.57663829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIK,24860,Wellspang,Heidestraße,2,,54.63811273,9.56831476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIL,24860,Wellspang,Heidestraße,4,,54.63842788,9.56754681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIM,24860,Wellspang,Heidestraße,6,,54.63886233,9.56521905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIN,24860,Wellspang,Heidestraße,8,,54.6386668,9.56104293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIO,24860,Wellspang,Heidestraße,8,a,54.63857903,9.56061037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIP,24860,Wellspang,Jordberg,1,,54.63411645,9.56902575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIQ,24860,Wellspang,Jordberg,11,,54.6326055,9.56060176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIR,24860,Wellspang,Jordberg,13,,54.63398917,9.55664166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIS,24860,Wellspang,Jordberg,2,,54.63273168,9.56241436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIT,24860,Wellspang,Jordberg,2,a,54.63281205,9.56152245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIU,24860,Wellspang,Jordberg,3,,54.63404178,9.5671149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIV,24860,Wellspang,Jordberg,4,,54.63289985,9.56063782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIW,24860,Wellspang,Jordberg,5,,54.63398262,9.56698617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIX,24860,Wellspang,Jordberg,7,,54.63331999,9.56566848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIY,24860,Wellspang,Jordberg,9,,54.63280579,9.56471043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIZ,24860,Wellspang,Kirchweg,1,,54.63342756,9.59140853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIa,24860,Wellspang,Dorfstraße,21,,54.63184389,9.59881594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIb,24860,Wellspang,Dorfstraße,23,,54.63183465,9.599199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIc,24860,Wellspang,Dorfstraße,25,,54.6321304,9.60276412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkId,24860,Wellspang,Dorfstraße,27,,54.6322378,9.60337451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIe,24860,Wellspang,Dorfstraße,29,,54.63276163,9.60395658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIf,24860,Wellspang,Dorfstraße,3,,54.63227053,9.59238148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIg,24860,Wellspang,Dorfstraße,4,,54.63110768,9.59514015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIh,24860,Wellspang,Dorfstraße,5,,54.63211432,9.59256133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIi,24860,Wellspang,Dorfstraße,6,,54.63110836,9.5954866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIj,24860,Wellspang,Dorfstraße,7,,54.63196543,9.59280195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIk,24860,Wellspang,Dorfstraße,8,,54.63109666,9.59604198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkIl,24860,Wellspang,Dorfstraße,9,,54.63161433,9.59353989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ0,24860,Wellspang,Kirchweg,11,,54.63359241,9.59353512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ1,24860,Wellspang,Kirchweg,3,,54.63348497,9.59196969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ3,24860,Wellspang,Kirchweg,7,,54.63337053,9.59254265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ4,24860,Wellspang,Kirchweg,9,,54.63354883,9.59309161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ5,24860,Wellspang,Kompanie,1,,54.62978252,9.57393766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ6,24860,Wellspang,Kompanie,1,a,54.62954461,9.5736263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ7,24860,Wellspang,Kompanie,2,,54.63052005,9.5767731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJ9,24860,Wellspang,Mühlenstraße,1,,54.6419447,9.58767371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJA,24860,Wellspang,Quastruper Straße,4,,54.62609142,9.58805348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJB,24860,Wellspang,Quastruper Straße,6,,54.62604384,9.58748959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJC,24860,Wellspang,Quastruper Straße,8,,54.62539952,9.58621803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJD,24860,Wellspang,Stader Weg,2,,54.62716695,9.60541555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJE,24860,Wellspang,Stader Weg,4,,54.62692844,9.60521747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJF,24860,Wellspang,Stader Weg,6,,54.6259719,9.60707053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJG,24860,Wellspang,Süderstraße,1,,54.62957002,9.60036696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJH,24860,Wellspang,Süderstraße,10,,54.62528979,9.60025618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJI,24860,Wellspang,Süderstraße,2,,54.63083449,9.60022109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJJ,24860,Wellspang,Süderstraße,4,,54.63007959,9.60009102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJK,24860,Wellspang,Süderstraße,6,,54.62612329,9.6004139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJL,24860,Wellspang,Süderstraße,8,,54.62577244,9.60020214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJM,24860,Wellspang,Thomasberger Weg,1,,54.6315417,9.57511925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJN,24860,Wellspang,Thomasberger Weg,11,,54.63768462,9.57185085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJO,24860,Wellspang,Thomasberger Weg,2,,54.63541436,9.57392922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJP,24860,Wellspang,Thomasberger Weg,3,,54.63216309,9.5741432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJQ,24860,Wellspang,Thomasberger Weg,4,,54.637413,9.57260095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJR,24860,Wellspang,Thomasberger Weg,5,,54.63232358,9.57433768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJS,24860,Wellspang,Thomasberger Weg,6,,54.63780063,9.57244705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJT,24860,Wellspang,Thomasberger Weg,7,,54.63218501,9.57363314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJU,24860,Wellspang,Thomasberger Weg,8,,54.64173468,9.57001703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJV,24860,Wellspang,Thomasberger Weg,9,,54.63520125,9.57353893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJW,24860,Wellspang,Uelsbyfeld,2,,54.63026807,9.61165341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJX,24860,Wellspang,Uelsbyfeld,2,a,54.6300503,9.6119897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJY,24860,Wellspang,Uelsbyfeld,4,,54.6297768,9.61247905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJZ,24860,Wellspang,Uelsbyfeld,6,,54.62808915,9.62066496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJa,24860,Wellspang,Mühlenstraße,10,,54.64729518,9.59120057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJb,24860,Wellspang,Mühlenstraße,12,,54.64736855,9.5916947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJc,24860,Wellspang,Mühlenstraße,14,,54.64752792,9.59108344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJd,24860,Wellspang,Mühlenstraße,2,,54.64332271,9.58824564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJe,24860,Wellspang,Mühlenstraße,3,,54.64259727,9.58761935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJf,24860,Wellspang,Mühlenstraße,4,,54.64443121,9.58967667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJg,24860,Wellspang,Mühlenstraße,5,,54.64319801,9.58769384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJh,24860,Wellspang,Mühlenstraße,6,,54.64462635,9.58985716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJi,24860,Wellspang,Mühlenstraße,7,,54.64401953,9.58798021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJj,24860,Wellspang,Mühlenstraße,8,,54.64621477,9.59063469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJk,24860,Wellspang,Mühlenstraße,9,,54.64644413,9.59029908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJl,24860,Wellspang,Norderstraße,1,,54.63192299,9.60067061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJm,24860,Wellspang,Norderstraße,10,,54.63737457,9.5999145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJn,24860,Wellspang,Norderstraße,12,,54.63776751,9.60027489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJo,24860,Wellspang,Norderstraße,2,,54.63196014,9.6010464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJp,24860,Wellspang,Norderstraße,3,,54.63203988,9.60018067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJq,24860,Wellspang,Norderstraße,4,,54.63259113,9.6008425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJr,24860,Wellspang,Norderstraße,5,,54.632286,9.60072501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJs,24860,Wellspang,Norderstraße,6,,54.63386741,9.60002451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJt,24860,Wellspang,Norderstraße,7,,54.63249609,9.60057042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJu,24860,Wellspang,Norderstraße,8,,54.63724435,9.59984946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJv,24860,Wellspang,Quastruper Straße,1,,54.62967577,9.59532561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJw,24860,Wellspang,Quastruper Straße,10,,54.62501278,9.5857452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJx,24860,Wellspang,Quastruper Straße,10,a,54.62505323,9.58564003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJy,24860,Wellspang,Quastruper Straße,2,,54.62975682,9.59495067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkJz,24860,Wellspang,Quastruper Straße,2,a,54.62960349,9.59475055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkK0,24860,Wellspang,Waldweg,1,,54.64190288,9.57960228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkK1,24860,Wellspang,Waldweg,2,,54.6383291,9.58216082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkK2,24860,Wellspang,Weißes Roß,1,,54.65023474,9.59176703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkK3,24860,Wellspang,Weißes Roß,2,,54.64980526,9.59244002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TDjL,24860,Wellspang,Dorfstraße,7,c,54.62146527,9.53799644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TDjX,24860,Wellspang,Dorfstraße,7,b,54.62146471,9.53840724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055lxF,24860,Wellspang,Seeblick,7,,54.64008077,9.51647602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000567Zm,24860,Wellspang,Toft,10,,54.60586477,9.58296473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ARFH,24860,Wellspang,Lindeberg,2,b,54.61543432,9.56458687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LNdO,24860,Wellspang,Karrüh,4,b,54.60330796,9.58027124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LNe6,24860,Wellspang,Karrüh,2,,54.6030693,9.58027952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LNeg,24860,Wellspang,Karrüh,4,a,54.60321371,9.58028956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LzAI,24860,Wellspang,Glasholz,3,a,54.62345145,9.50277729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005M7AS,24860,Wellspang,Elmholz,2,,54.61510082,9.51158977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005M8II,24860,Wellspang,Westscheider Straße,8,a,54.63297982,9.51413768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NIhw,24860,Wellspang,Alte Meierei,2,a,54.6251402,9.53686522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NvVI,24860,Wellspang,Dorfstraße,3,a,54.61903465,9.54108146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Nw3y,24860,Wellspang,Zum Hof,2,,54.62064999,9.53913021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PJ8j,24860,Wellspang,Dennholm,1,,54.6195759,9.55601592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RhJW,24860,Wellspang,Westend,36,a,54.60350626,9.57873692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SRxD,24860,Wellspang,Schulstraße,9,,54.60438723,9.58679976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SRxM,24860,Wellspang,Bahnhofstraße,3,,54.60347801,9.58491507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SRxs,24860,Wellspang,Satruper Straße,2,a,54.60470461,9.58421569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T871,24860,Wellspang,Meiereistraße,5,a,54.60635933,9.58048253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Tb3y,24860,Wellspang,Lindeberg,11,a,54.61717996,9.57334473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Te5O,24860,Wellspang,Dammstedt,2,a,54.63667697,9.57820723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Te5P,24860,Wellspang,Dammstedt,2,b,54.63665822,9.57840128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005V3as,24860,Wellspang,Dorfstraße,2,a,54.63139324,9.59337486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005V3be,24860,Wellspang,Dorfstraße,19,a,54.63164013,9.59712315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Wdd0,24860,Wellspang,Karrüh,8,a,54.6029967,9.57955669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Wdd5,24860,Wellspang,Karrüh,8,b,54.60311542,9.5795316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005j49Q,24860,Wellspang,Schulstraße,13,a,54.60451968,9.58757036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005j49R,24860,Wellspang,Schulstraße,13,b,54.60451851,9.5875683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005j49S,24860,Wellspang,Schulstraße,13,c,54.60451851,9.5875683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005j49T,24860,Wellspang,Schulstraße,13,d,54.60451851,9.5875683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lN01,24860,Wellspang,Pöttacker,1,,54.60084986,9.58971719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lN0v,24860,Wellspang,Pöttacker,3,,54.60063123,9.59031828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sPTj,24860,Wellspang,Karrüh,3,,54.6034217,9.5799057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uLuc,24860,Wellspang,Alte Meierei,3,,54.62207368,9.53802725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060ruQ,24860,Wellspang,Kuhdamm,2,,54.62061077,9.53768383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063zH0,24860,Wellspang,Karrüh,1,a,54.60306014,9.57998739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063zH1,24860,Wellspang,Karrüh,1,b,54.60316195,9.57996628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066Z5J,24860,Wellspang,Westend,36,b,54.60349411,9.5785994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067APV,24860,Wellspang,Karrüh,5,a,54.60290488,9.57929863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067AQ1,24860,Wellspang,Karrüh,5,b,54.60298617,9.57928134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSA,24860,Wellspang,Ammelücken,1,h,54.60210817,9.58008733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSt,24860,Wellspang,Ammelücken,1,a,54.60227453,9.57933624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSu,24860,Wellspang,Ammelücken,1,b,54.60230222,9.57947234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSv,24860,Wellspang,Ammelücken,1,c,54.60224775,9.5797579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSw,24860,Wellspang,Ammelücken,1,d,54.60226162,9.57989914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSx,24860,Wellspang,Ammelücken,1,e,54.60227637,9.5800343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSy,24860,Wellspang,Ammelücken,1,f,54.60207777,9.57981121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068bSz,24860,Wellspang,Ammelücken,1,g,54.60209074,9.57995573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006J7lj,24860,Wellspang,Karrüh,6,a,54.60345869,9.58019847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006J7lk,24860,Wellspang,Karrüh,6,b,54.60360096,9.58016521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NVa0,24860,Wellspang,Satruper Straße,6,,54.60530367,9.58413398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QxVm,24860,Wellspang,Norderau,7,a,54.61104891,9.57988313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XJ1i,24860,Wellspang,Ekeberger Straße,11,a,54.62741176,9.62201956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006f1Bl,24860,Wellspang,Karrüh,10,a,54.60335279,9.57947122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006f1Bm,24860,Wellspang,Karrüh,10,b,54.60343158,9.57945425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jbuV,24860,Wellspang,Pöttacker,4,,54.60012946,9.5895981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jbv2,24860,Wellspang,Pöttacker,6,,54.60041258,9.58984299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5wa,24860,Wellspang,Schulstraße,11,a,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5wb,24860,Wellspang,Schulstraße,11,b,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5wc,24860,Wellspang,Schulstraße,11,c,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5wd,24860,Wellspang,Schulstraße,11,d,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5we,24860,Wellspang,Schulstraße,11,e,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l5wf,24860,Wellspang,Schulstraße,11,f,54.6044069,9.58722536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l80f,24860,Wellspang,Tanneneck,1,a,54.60490037,9.58714504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l80g,24860,Wellspang,Tanneneck,1,b,54.60490037,9.58714504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l80h,24860,Wellspang,Tanneneck,1,c,54.60490037,9.58714504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l80i,24860,Wellspang,Tanneneck,1,d,54.60490037,9.58714504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006l80j,24860,Wellspang,Tanneneck,1,e,54.60490037,9.58714504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Djnf,24860,Wellspang,Birkenweg,1,a,54.62788235,9.51935101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Gok2,24860,Wellspang,Schulstraße,3,a,54.60441583,9.58534973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Gok3,24860,Wellspang,Schulstraße,3,b,54.60441824,9.58541634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4CZ,24860,Wellspang,Schulstraße,1,a,54.60412812,9.58457752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Q0fj,24860,Wellspang,Flensburger Straße,20,b,54.60692958,9.57932464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ad3l,24860,Wellspang,Stolker Straße,1,c,54.6029307,9.58191047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cEGg,24860,Wellspang,Kompanie,5,,54.62909965,9.56630307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cEGh,24860,Wellspang,Kompanie,7,,54.62919121,9.56615064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dceg,24860,Wellspang,Pöttacker,10,,54.60061281,9.59115756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dcek,24860,Wellspang,Pöttacker,2,a,54.60045961,9.58851574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dcet,24860,Wellspang,Pöttacker,1,a,54.60070044,9.58975918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dcez,24860,Wellspang,Pöttacker,3,a,54.60093141,9.59110979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dzyW,24860,Wellspang,Flensburger Straße,20,a,54.60691015,9.57916538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hYcD,24860,Wellspang,Dorfstraße,7,h,54.62096204,9.53510609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hYcJ,24860,Wellspang,Dorfstraße,7,g,54.62105516,9.5354833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hYcQ,24860,Wellspang,Dorfstraße,7,i,54.6209602,9.53456774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tv7p,24860,Wellspang,Dorfstraße,26,a,54.62076222,9.53027521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tv7q,24860,Wellspang,Dorfstraße,26,b,54.6207789,9.53041657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007uoGC,24860,Wellspang,Alte Meierei,4,a,54.62314424,9.53690365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084u9I,24860,Wellspang,Dorfstraße,7,j,54.62090066,9.53444345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00088TR4,24860,Wellspang,Zum Hof,1,,54.6208797,9.53954657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CucB,24860,Wellspang,Meiereistraße,3,i,54.60646781,9.58157229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CucE,24860,Wellspang,Meiereistraße,3,h,54.60632331,9.58291335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TA,24860,Wellspang,Westertoft,2,,54.62188652,9.53243577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TE,24860,Wellspang,Westertoft,4,,54.62182533,9.53208802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TI,24860,Wellspang,Westertoft,6,,54.62176013,9.53171749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TM,24860,Wellspang,Westertoft,8,,54.62170166,9.53138523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TQ,24860,Wellspang,Westertoft,10,,54.62169438,9.5309474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TU,24860,Wellspang,Westertoft,12,,54.62156513,9.53083543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2TY,24860,Wellspang,Westertoft,11,,54.62148765,9.53095333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2U1,24860,Wellspang,Westertoft,9,,54.62150404,9.53114033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2U7,24860,Wellspang,Westertoft,7,,54.62164854,9.53161119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2U8,24860,Wellspang,Westertoft,7,a,54.62162632,9.53147321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2Ud,24860,Wellspang,Westertoft,5,,54.62169461,9.53186814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2Uh,24860,Wellspang,Westertoft,3,,54.62175457,9.53220889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I2Um,24860,Wellspang,Westertoft,1,,54.62180879,9.53251704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f8QO,24860,Wellspang,Schulstraße,1,b,54.6041325,9.58465787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f8QP,24860,Wellspang,Schulstraße,1,c,54.60413767,9.58476936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f8QQ,24860,Wellspang,Schulstraße,1,d,54.60414298,9.58485134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gOup,24860,Wellspang,Schulstraße,1,e,54.60422247,9.58514478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uuRN,24860,Wellspang,Schulstraße,22,a,54.60499879,9.59054529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBB,24860,Wellspang,Meiereistraße,3,b,54.60628497,9.58322004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBC,24860,Wellspang,Meiereistraße,3,c,54.60630672,9.58317507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBD,24860,Wellspang,Meiereistraße,3,d,54.60629772,9.58311595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBE,24860,Wellspang,Meiereistraße,3,e,54.60631935,9.58306855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBF,24860,Wellspang,Meiereistraße,3,f,54.60631309,9.58301049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBG,24860,Wellspang,Meiereistraße,3,g,54.60633127,9.58296448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xQBr,24860,Wellspang,Meiereistraße,3,a,54.60629531,9.58326934

@@ -1,0 +1,944 @@
+# Amtliche Adressen für die Postleitzahl 24641
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001Bv5I,24641,Sievershütten,Holstenstraße,22,a,53.84288147,10.10251238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA0,24641,Sievershütten,Brüchhorststraße,10,d,53.84119412,10.09992302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA1,24641,Sievershütten,Brüchhorststraße,10,e,53.84113023,10.10046317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA2,24641,Sievershütten,Brüchhorststraße,12,,53.8410898,10.09966676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA3,24641,Sievershütten,Brüchhorststraße,12,a,53.84094632,10.09921134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA4,24641,Sievershütten,Brüchhorststraße,12,b,53.84072496,10.0989295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA5,24641,Sievershütten,Brüchhorststraße,13,,53.84112039,10.10077947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA6,24641,Sievershütten,Brüchhorststraße,13,a,53.84092982,10.10077699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA7,24641,Sievershütten,Brüchhorststraße,14,,53.84066388,10.09996297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA8,24641,Sievershütten,Brüchhorststraße,15,,53.84080591,10.10054319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHA9,24641,Sievershütten,Brüchhorststraße,16,,53.8405218,10.09981145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAA,24641,Sievershütten,Brüchhorststraße,36,,53.83853538,10.09754166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAB,24641,Sievershütten,Brüchhorststraße,38,,53.8383303,10.09715336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAC,24641,Sievershütten,Brüchhorststraße,39,,53.83805624,10.097547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAD,24641,Sievershütten,Brüchhorststraße,4,,53.84222886,10.10117837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAE,24641,Sievershütten,Brüchhorststraße,40,,53.83815228,10.09699897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAF,24641,Sievershütten,Brüchhorststraße,42,,53.83800206,10.09678025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAG,24641,Sievershütten,Brüchhorststraße,43,,53.8373558,10.09716279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAH,24641,Sievershütten,Brüchhorststraße,45,,53.83696359,10.09702259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAI,24641,Sievershütten,Brüchhorststraße,5,,53.84183906,10.10146441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAJ,24641,Sievershütten,Brüchhorststraße,6,,53.84194881,10.10106881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAK,24641,Sievershütten,Brüchhorststraße,6,a,53.84180356,10.10066998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAL,24641,Sievershütten,Brüchhorststraße,8,,53.84170869,10.100855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAM,24641,Sievershütten,Brüchhorststraße,8,a,53.84168905,10.10052845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAN,24641,Sievershütten,Buschkoppel,1,,53.84557523,10.11076031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAO,24641,Sievershütten,Buschkoppel,10,,53.84675798,10.11056582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAP,24641,Sievershütten,Buschkoppel,11,,53.84626083,10.11047409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAQ,24641,Sievershütten,Buschkoppel,12,a,53.84691546,10.11079533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAR,24641,Sievershütten,Buschkoppel,12,b,53.84690517,10.11090305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAS,24641,Sievershütten,Buschkoppel,13,,53.84644271,10.11030524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAT,24641,Sievershütten,Buschkoppel,14,,53.84677291,10.11114279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAU,24641,Sievershütten,Buschkoppel,15,,53.84636614,10.10993615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAV,24641,Sievershütten,Buschkoppel,16,,53.84662581,10.11134838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAW,24641,Sievershütten,Buschkoppel,17,,53.84665215,10.10999041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAX,24641,Sievershütten,Buschkoppel,18,,53.84646203,10.111556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAY,24641,Sievershütten,Buschkoppel,19,,53.84684439,10.11014814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAa,24641,Sievershütten,Brüchhorststraße,17,,53.84062006,10.10041833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAb,24641,Sievershütten,Brüchhorststraße,18,,53.84040052,10.09968344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAc,24641,Sievershütten,Brüchhorststraße,19,,53.8404134,10.10024524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAd,24641,Sievershütten,Brüchhorststraße,2,,53.8423271,10.10142568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAe,24641,Sievershütten,Brüchhorststraße,20,,53.84022033,10.09954406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAf,24641,Sievershütten,Brüchhorststraße,20,a,53.84004141,10.09951588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAg,24641,Sievershütten,Brüchhorststraße,20,b,53.83983206,10.09935014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAh,24641,Sievershütten,Brüchhorststraße,21,,53.84023685,10.1001512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAi,24641,Sievershütten,Brüchhorststraße,22,,53.8396916,10.09869688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAj,24641,Sievershütten,Brüchhorststraße,22,a,53.83966352,10.09827234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAk,24641,Sievershütten,Brüchhorststraße,23,,53.83988364,10.09981512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAl,24641,Sievershütten,Brüchhorststraße,23,a,53.84003853,10.10003028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAm,24641,Sievershütten,Brüchhorststraße,24,,53.83949865,10.09818365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAn,24641,Sievershütten,Brüchhorststraße,25,,53.83980381,10.09974038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAo,24641,Sievershütten,Brüchhorststraße,25,b,53.8394509,10.09950728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAp,24641,Sievershütten,Brüchhorststraße,26,,53.83932806,10.09813159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAq,24641,Sievershütten,Brüchhorststraße,27,,53.83937569,10.09917727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAr,24641,Sievershütten,Brüchhorststraße,28,,53.83914964,10.09810734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAs,24641,Sievershütten,Brüchhorststraße,29,,53.83942399,10.09894792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAt,24641,Sievershütten,Brüchhorststraße,3,,53.8421063,10.10170864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAu,24641,Sievershütten,Brüchhorststraße,30,,53.83902268,10.09784113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAv,24641,Sievershütten,Brüchhorststraße,31,,53.83925571,10.09865636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAw,24641,Sievershütten,Brüchhorststraße,32,,53.83885838,10.09772364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAx,24641,Sievershütten,Brüchhorststraße,33,,53.83906302,10.09838841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAy,24641,Sievershütten,Brüchhorststraße,34,,53.83868003,10.0976549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHAz,24641,Sievershütten,Brüchhorststraße,35,,53.83880472,10.09821832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB0,24641,Sievershütten,Buschkoppel,2,a,53.8460238,10.11133321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB1,24641,Sievershütten,Buschkoppel,20,,53.84629858,10.11164172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB2,24641,Sievershütten,Buschkoppel,21,,53.84695183,10.11032795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB3,24641,Sievershütten,Buschkoppel,22,,53.84623459,10.11171868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB4,24641,Sievershütten,Buschkoppel,23,,53.8471001,10.1106761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB5,24641,Sievershütten,Buschkoppel,25,,53.84714834,10.11116365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB6,24641,Sievershütten,Buschkoppel,27,,53.8470062,10.11129046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB7,24641,Sievershütten,Buschkoppel,29,,53.846879,10.11153037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB8,24641,Sievershütten,Buschkoppel,3,,53.84581825,10.11093155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHB9,24641,Sievershütten,Buschkoppel,31,,53.84675282,10.1116698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBA,24641,Sievershütten,Hasenhörn,2,,53.8453224,10.11091835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBB,24641,Sievershütten,Hasenhörn,3,,53.84719818,10.10645744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBC,24641,Sievershütten,Holstenstraße,1,,53.84146773,10.10548743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBD,24641,Sievershütten,Holstenstraße,1,a,53.84170788,10.10480321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBE,24641,Sievershütten,Holstenstraße,10,,53.84198613,10.10495112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBF,24641,Sievershütten,Holstenstraße,12,,53.84211177,10.10469266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBG,24641,Sievershütten,Holstenstraße,14,,53.84232104,10.10425463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBH,24641,Sievershütten,Holstenstraße,16,,53.84236751,10.10398047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBI,24641,Sievershütten,Holstenstraße,18,,53.84263383,10.10364191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBJ,24641,Sievershütten,Holstenstraße,2,,53.84150815,10.10629491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBK,24641,Sievershütten,Holstenstraße,22,,53.84275944,10.10276735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBL,24641,Sievershütten,Holstenstraße,24,,53.84299942,10.10219027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBM,24641,Sievershütten,Holstenstraße,3,,53.84181298,10.10443062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBN,24641,Sievershütten,Holstenstraße,3,a,53.84183636,10.10385962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBO,24641,Sievershütten,Holstenstraße,3,b,53.84192368,10.10394235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBP,24641,Sievershütten,Holstenstraße,4,,53.84166612,10.10607162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBQ,24641,Sievershütten,Holstenstraße,5,,53.8420808,10.10359307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBR,24641,Sievershütten,Holstenstraße,5,a,53.84201771,10.1031975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBS,24641,Sievershütten,Holstenstraße,5,b,53.84223223,10.10335386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBT,24641,Sievershütten,Holstenstraße,6,,53.84170694,10.10557276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBU,24641,Sievershütten,Holstenstraße,7,,53.84233048,10.10294167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBV,24641,Sievershütten,Holstenstraße,8,,53.84183513,10.10527985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBW,24641,Sievershütten,Im Busch,1,,53.83289296,10.09596816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBX,24641,Sievershütten,Im Busch,1,a,53.83298637,10.09580849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBY,24641,Sievershütten,Kalte Weide,1,,53.84483928,10.11160912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBZ,24641,Sievershütten,Kalte Weide,10,,53.84627405,10.11518148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBa,24641,Sievershütten,Buschkoppel,33,,53.84660722,10.11188943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBb,24641,Sievershütten,Buschkoppel,35,,53.84647121,10.11208027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBc,24641,Sievershütten,Buschkoppel,37,,53.84632624,10.11244227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBd,24641,Sievershütten,Buschkoppel,39,,53.84620166,10.11224487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBe,24641,Sievershütten,Buschkoppel,4,,53.84618687,10.11101125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBf,24641,Sievershütten,Buschkoppel,41,,53.84603121,10.11197642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBg,24641,Sievershütten,Buschkoppel,43,,53.84592416,10.1117378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBh,24641,Sievershütten,Buschkoppel,45,,53.84581121,10.11150851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBi,24641,Sievershütten,Buschkoppel,47,,53.84566771,10.11131678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBj,24641,Sievershütten,Buschkoppel,5,,53.84608318,10.11064568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBk,24641,Sievershütten,Buschkoppel,6,,53.8463856,10.1108824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBl,24641,Sievershütten,Buschkoppel,7,,53.8458949,10.11036247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBm,24641,Sievershütten,Buschkoppel,8,,53.84653835,10.11073246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBn,24641,Sievershütten,Buschkoppel,9,,53.84605774,10.11018477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBo,24641,Sievershütten,Dänisch-Müssen,1,,53.85182563,10.09866682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBp,24641,Sievershütten,Grevensberg,2,,53.83515412,10.10849303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBq,24641,Sievershütten,Grevensberg,4,,53.83514225,10.1067116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBr,24641,Sievershütten,Heide,1,,53.82858394,10.10626171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBs,24641,Sievershütten,Heide,11,,53.82606523,10.10019366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBt,24641,Sievershütten,Heide,2,,53.82901698,10.10649593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBu,24641,Sievershütten,Heide,2,a,53.82902629,10.10651748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBv,24641,Sievershütten,Heide,3,,53.82793934,10.1039833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBw,24641,Sievershütten,Heide,5,,53.82744573,10.10282586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBx,24641,Sievershütten,Heide,7,,53.82631452,10.10148668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBy,24641,Sievershütten,Heide,9,,53.82647251,10.10083694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHBz,24641,Sievershütten,Hasenhörn,1,,53.84676358,10.10703934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC0,24641,Sievershütten,Kalte Weide,11,,53.84594586,10.11360949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC1,24641,Sievershütten,Kalte Weide,11,a,53.84616354,10.11334808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC2,24641,Sievershütten,Kalte Weide,11,b,53.84635088,10.1136482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC3,24641,Sievershütten,Kalte Weide,12,,53.84630079,10.11547656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC4,24641,Sievershütten,Kalte Weide,13,,53.84623053,10.11434187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC5,24641,Sievershütten,Kalte Weide,13,a,53.84651754,10.11395262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC6,24641,Sievershütten,Kalte Weide,14,,53.84648142,10.11562236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC7,24641,Sievershütten,Kalte Weide,15,,53.84642164,10.11475946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC8,24641,Sievershütten,Kalte Weide,15,a,53.84654081,10.11460872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHC9,24641,Sievershütten,Kalte Weide,15,b,53.84674632,10.11437284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCA,24641,Sievershütten,Kalte Weide,3,a,53.84518817,10.11153871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCB,24641,Sievershütten,Kalte Weide,4,,53.84585934,10.11455902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCC,24641,Sievershütten,Kalte Weide,6,,53.84601513,10.11460126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCD,24641,Sievershütten,Kalte Weide,7,,53.84528307,10.1123697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCE,24641,Sievershütten,Kalte Weide,7,a,53.84556399,10.11213865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCF,24641,Sievershütten,Kalte Weide,7,b,53.8457158,10.11238278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCG,24641,Sievershütten,Kalte Weide,7,c,53.84547914,10.11273078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCH,24641,Sievershütten,Kalte Weide,8,,53.84611635,10.11482791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCI,24641,Sievershütten,Kalte Weide,9,,53.84562026,10.11299217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCJ,24641,Sievershütten,Kalte Weide,9,a,53.84587326,10.11269688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCK,24641,Sievershütten,Kalte Weide,9,b,53.84598613,10.11300596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCL,24641,Sievershütten,Kalte Weide,9,c,53.84584507,10.11331184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCM,24641,Sievershütten,Kaltenkirchener Straße,1,,53.84257456,10.10049267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCN,24641,Sievershütten,Kaltenkirchener Straße,1,c,53.84134437,10.09961274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCO,24641,Sievershütten,Kaltenkirchener Straße,10,,53.84068499,10.09282541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCP,24641,Sievershütten,Kaltenkirchener Straße,2,,53.84298675,10.10089517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCQ,24641,Sievershütten,Kaltenkirchener Straße,3,,53.84027492,10.09317335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCR,24641,Sievershütten,Kaltenkirchener Straße,4,,53.84290839,10.10059525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCS,24641,Sievershütten,Kaltenkirchener Straße,5,,53.84029808,10.09286152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCU,24641,Sievershütten,Kaltenkirchener Straße,8,a,53.84072421,10.09311548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCV,24641,Sievershütten,Kaltenkirchener Straße,8,b,53.84081539,10.09313963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCW,24641,Sievershütten,Kaltenkirchener Straße,8,c,53.84080607,10.09336966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCX,24641,Sievershütten,Kaltenkirchener Straße,8,d,53.84078916,10.0935241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCY,24641,Sievershütten,Kaltenkirchener Straße,8,e,53.84076508,10.09374543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCZ,24641,Sievershütten,Kaltenkirchener Straße,8,f,53.84074859,10.09389799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCa,24641,Sievershütten,Kalte Weide,16,,53.84662097,10.11583093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCb,24641,Sievershütten,Kalte Weide,17,,53.84657897,10.1150321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCc,24641,Sievershütten,Kalte Weide,18,,53.84691692,10.11639131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCd,24641,Sievershütten,Kalte Weide,18,a,53.84680869,10.11684649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCe,24641,Sievershütten,Kalte Weide,19,,53.84673562,10.11535364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCf,24641,Sievershütten,Kalte Weide,19,a,53.84667606,10.11521823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCg,24641,Sievershütten,Kalte Weide,2,a,53.84560636,10.11492282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCh,24641,Sievershütten,Kalte Weide,2,b,53.84555321,10.11501778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCi,24641,Sievershütten,Kalte Weide,2,c,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCj,24641,Sievershütten,Kalte Weide,2,d,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCk,24641,Sievershütten,Kalte Weide,2,e,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCl,24641,Sievershütten,Kalte Weide,2,f,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCm,24641,Sievershütten,Kalte Weide,2,g,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCn,24641,Sievershütten,Kalte Weide,2,h,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCo,24641,Sievershütten,Kalte Weide,2,i,53.84546645,10.11448285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCp,24641,Sievershütten,Kalte Weide,20,,53.84718134,10.11698002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCq,24641,Sievershütten,Kalte Weide,21,,53.84707362,10.11597317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCr,24641,Sievershütten,Kalte Weide,22,,53.84732039,10.11724903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCs,24641,Sievershütten,Kalte Weide,22,a,53.84714685,10.11750805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCt,24641,Sievershütten,Kalte Weide,23,,53.84707362,10.11597317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCu,24641,Sievershütten,Kalte Weide,24,,53.84730304,10.11772469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCv,24641,Sievershütten,Kalte Weide,25,,53.84707362,10.11597317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCw,24641,Sievershütten,Kalte Weide,27,a,53.84738004,10.11661651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCx,24641,Sievershütten,Kalte Weide,27,b,53.84742898,10.11667401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCy,24641,Sievershütten,Kalte Weide,27,c,53.84746395,10.11674377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHCz,24641,Sievershütten,Kalte Weide,3,,53.84500085,10.11179762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD0,24641,Sievershütten,Kirchstraße,1,,53.8409556,10.10678548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD1,24641,Sievershütten,Kirchstraße,10,,53.83984681,10.10823907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD2,24641,Sievershütten,Kirchstraße,11,,53.84027649,10.10826771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD3,24641,Sievershütten,Kirchstraße,11,a,53.84006207,10.10853862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD4,24641,Sievershütten,Kirchstraße,12,,53.83966332,10.10801227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD5,24641,Sievershütten,Kirchstraße,13,,53.83983857,10.10872831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD6,24641,Sievershütten,Kirchstraße,13,a,53.83997484,10.10895908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD7,24641,Sievershütten,Kirchstraße,13,b,53.84017687,10.10917334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD8,24641,Sievershütten,Kirchstraße,14,,53.83954615,10.10847734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHD9,24641,Sievershütten,Kirchstraße,15,,53.8396237,10.10887703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDA,24641,Sievershütten,Kirchstraße,4,,53.84059983,10.10667184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDB,24641,Sievershütten,Kirchstraße,5,,53.84070027,10.10739756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDC,24641,Sievershütten,Kirchstraße,6,,53.84042948,10.10690736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDD,24641,Sievershütten,Kirchstraße,7,,53.84055913,10.10757388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDE,24641,Sievershütten,Kirchstraße,8,,53.83979585,10.10640355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDF,24641,Sievershütten,Kirchstraße,8,a,53.83948263,10.10676235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDG,24641,Sievershütten,Kisdorfer Straße,10,,53.83721869,10.09062641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDH,24641,Sievershütten,Kisdorfer Straße,12,,53.83660911,10.09025502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDI,24641,Sievershütten,Kisdorfer Straße,14,,53.83628474,10.08996384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDJ,24641,Sievershütten,Kisdorfer Straße,16,,53.83580358,10.08928756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDK,24641,Sievershütten,Kisdorfer Straße,2,,53.84000914,10.09345845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDL,24641,Sievershütten,Kisdorfer Straße,4,,53.83979225,10.09330358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDM,24641,Sievershütten,Kisdorfer Straße,6,,53.83969547,10.09319288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDN,24641,Sievershütten,Kisdorfer Straße,8,,53.83931763,10.09254527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDO,24641,Sievershütten,Lohe,1,,53.84041727,10.08241769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDP,24641,Sievershütten,Mühlenstraße,1,a,53.84181679,10.10633504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDQ,24641,Sievershütten,Mühlenstraße,1,b,53.84192168,10.10653431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDR,24641,Sievershütten,Mühlenstraße,1,c,53.84208152,10.10672978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDS,24641,Sievershütten,Mühlenstraße,11,,53.8443193,10.11056893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDT,24641,Sievershütten,Mühlenstraße,11,a,53.84440855,10.11075156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDU,24641,Sievershütten,Mühlenstraße,2,a,53.84125069,10.10667303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDV,24641,Sievershütten,Mühlenstraße,2,b,53.84140553,10.1067918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDW,24641,Sievershütten,Mühlenstraße,2,c,53.84148134,10.10699104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDX,24641,Sievershütten,Mühlenstraße,2,d,53.84121275,10.10709512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDY,24641,Sievershütten,Mühlenstraße,3,,53.84367733,10.10861902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDa,24641,Sievershütten,Kirchstraße,15,a,53.83982317,10.10951569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDb,24641,Sievershütten,Kirchstraße,15,b,53.83959617,10.1095505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDc,24641,Sievershütten,Kirchstraße,16,,53.83935948,10.10853908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDd,24641,Sievershütten,Kirchstraße,17,a,53.83919495,10.10966962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDe,24641,Sievershütten,Kirchstraße,17,b,53.83923561,10.10995699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDf,24641,Sievershütten,Kirchstraße,18,,53.83923904,10.10803654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDg,24641,Sievershütten,Kirchstraße,19,,53.83900783,10.10918156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDh,24641,Sievershütten,Kirchstraße,2,,53.84076955,10.10635423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDi,24641,Sievershütten,Kirchstraße,20,,53.83907658,10.10810458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDj,24641,Sievershütten,Kirchstraße,21,,53.83859609,10.10968932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDk,24641,Sievershütten,Kirchstraße,22,,53.8391344,10.10862933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDl,24641,Sievershütten,Kirchstraße,22,a,53.83879776,10.10804748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDm,24641,Sievershütten,Kirchstraße,23,,53.83594213,10.11093192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDn,24641,Sievershütten,Kirchstraße,24,,53.83880222,10.10868072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDo,24641,Sievershütten,Kirchstraße,24,a,53.83857902,10.1080862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDp,24641,Sievershütten,Kirchstraße,24,b,53.83852576,10.1081121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDq,24641,Sievershütten,Kirchstraße,24,c,53.83836529,10.10809749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDr,24641,Sievershütten,Kirchstraße,24,d,53.83830557,10.10812855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDs,24641,Sievershütten,Kirchstraße,25,,53.83521234,10.11265979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDt,24641,Sievershütten,Kirchstraße,26,,53.8384177,10.10869114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDu,24641,Sievershütten,Kirchstraße,27,,53.83492094,10.11301045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDv,24641,Sievershütten,Kirchstraße,29,,53.83472713,10.11335229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDx,24641,Sievershütten,Kirchstraße,30,a,53.83802479,10.10858886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDy,24641,Sievershütten,Kirchstraße,30,b,53.8379984,10.108498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHDz,24641,Sievershütten,Kirchstraße,31,,53.8322581,10.11567539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE1,24641,Sievershütten,Mühlenstraße,4,,53.84167226,10.1073085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE2,24641,Sievershütten,Mühlenstraße,5,,53.8438526,10.10918138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE3,24641,Sievershütten,Mühlenstraße,6,,53.84345355,10.10932513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE4,24641,Sievershütten,Mühlenstraße,7,,53.84391357,10.10955803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE5,24641,Sievershütten,Mühlenstraße,9,,53.84420741,10.11030603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE6,24641,Sievershütten,Peerhagen,1,,53.84301608,10.11294063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE7,24641,Sievershütten,Peerhagen,11,,53.84225249,10.11406848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE8,24641,Sievershütten,Peerhagen,2,,53.84255446,10.11281973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHE9,24641,Sievershütten,Peerhagen,3,,53.84287654,10.11321444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEA,24641,Sievershütten,Struvenhüttener Straße,9,,53.84364874,10.09965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEB,24641,Sievershütten,Ulmenweg,1,,53.8404509,10.10797419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEC,24641,Sievershütten,Ulmenweg,2,,53.8403645,10.10888374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHED,24641,Sievershütten,Ulmenweg,3,,53.84060276,10.10809857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEE,24641,Sievershütten,Ulmenweg,4,,53.84066779,10.10850858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEF,24641,Sievershütten,Ulmenweg,5,,53.84088128,10.10811237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEG,24641,Sievershütten,Ulmenweg,6,,53.84179081,10.11110196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEH,24641,Sievershütten,Ulmenweg,7,,53.84118578,10.10900949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEI,24641,Sievershütten,Waldring,1,,53.84430365,10.11221019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEJ,24641,Sievershütten,Waldring,1,a,53.84423292,10.11247996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEK,24641,Sievershütten,Waldring,10,,53.84360256,10.11349245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEL,24641,Sievershütten,Waldring,11,,53.84354452,10.1141381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEM,24641,Sievershütten,Waldring,12,,53.84338746,10.11382417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEN,24641,Sievershütten,Waldring,13,,53.84334581,10.11437651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEO,24641,Sievershütten,Waldring,14,,53.84321929,10.11404563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEP,24641,Sievershütten,Waldring,15,,53.84330893,10.11484721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEQ,24641,Sievershütten,Waldring,16,,53.84305069,10.11422751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHER,24641,Sievershütten,Waldring,17,,53.84302267,10.11491538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHES,24641,Sievershütten,Waldring,18,,53.84291034,10.11443744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHET,24641,Sievershütten,Waldring,19,,53.84287778,10.11506279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEU,24641,Sievershütten,Waldring,2,,53.84429123,10.11151969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEV,24641,Sievershütten,Waldring,20,,53.84274896,10.11465391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEW,24641,Sievershütten,Waldring,21,,53.84281963,10.11553844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEX,24641,Sievershütten,Waldring,22,,53.84261158,10.11484344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEY,24641,Sievershütten,Waldring,23,,53.84260461,10.11565357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEZ,24641,Sievershütten,Waldring,23,a,53.84246138,10.11582811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEa,24641,Sievershütten,Peerhagen,4,,53.84239027,10.11312994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEb,24641,Sievershütten,Peerhagen,5,,53.84270476,10.11334683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEc,24641,Sievershütten,Peerhagen,6,,53.84222296,10.11335647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEd,24641,Sievershütten,Peerhagen,7,,53.84256555,10.11362285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEe,24641,Sievershütten,Peerhagen,8,,53.84207854,10.11353192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEf,24641,Sievershütten,Peerhagen,9,,53.84240259,10.11385413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEg,24641,Sievershütten,Schulsteig,1,,53.83867155,10.09846902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEh,24641,Sievershütten,Schulsteig,2,,53.83840759,10.0980144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEi,24641,Sievershütten,Schulsteig,3,,53.83872139,10.09893689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEj,24641,Sievershütten,Schulsteig,4,,53.83845801,10.09862972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEk,24641,Sievershütten,Struvenhüttener Straße,1,,53.84307455,10.10116614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEl,24641,Sievershütten,Struvenhüttener Straße,11,,53.84380581,10.09932003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEm,24641,Sievershütten,Struvenhüttener Straße,13,,53.84396998,10.09893578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEn,24641,Sievershütten,Struvenhüttener Straße,13,a,53.84404129,10.09862184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEo,24641,Sievershütten,Struvenhüttener Straße,15,,53.84422046,10.09833459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEp,24641,Sievershütten,Struvenhüttener Straße,17,,53.84430837,10.09782631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEq,24641,Sievershütten,Struvenhüttener Straße,2,,53.84322556,10.10130332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEr,24641,Sievershütten,Struvenhüttener Straße,21,,53.84461245,10.09716444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEs,24641,Sievershütten,Struvenhüttener Straße,3,,53.84321879,10.10074841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEt,24641,Sievershütten,Struvenhüttener Straße,3,a,53.84332037,10.10051559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEu,24641,Sievershütten,Struvenhüttener Straße,4,,53.8435764,10.10076144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEv,24641,Sievershütten,Struvenhüttener Straße,5,,53.84343234,10.10017787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEw,24641,Sievershütten,Struvenhüttener Straße,6,,53.84366672,10.10060552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEx,24641,Sievershütten,Struvenhüttener Straße,7,,53.84354435,10.09992093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEy,24641,Sievershütten,Struvenhüttener Straße,8,,53.84382454,10.1003532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHEz,24641,Sievershütten,Struvenhüttener Straße,8,a,53.84393527,10.10038308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF0,24641,Sievershütten,Waldring,23,b,53.84234145,10.11623477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF1,24641,Sievershütten,Waldring,23,c,53.84207302,10.11569521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF2,24641,Sievershütten,Waldring,23,d,53.84218433,10.115417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF3,24641,Sievershütten,Waldring,24,,53.84239806,10.11496689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF4,24641,Sievershütten,Waldring,25,,53.8420461,10.11494428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF5,24641,Sievershütten,Waldring,25,a,53.84189847,10.11523248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF6,24641,Sievershütten,Waldring,26,,53.84215161,10.11442851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF7,24641,Sievershütten,Waldring,27,,53.84186915,10.11447396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF8,24641,Sievershütten,Waldring,27,a,53.84174149,10.1147978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHF9,24641,Sievershütten,Waldring,28,,53.84189512,10.11377203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFA,24641,Sievershütten,Waldring,8,,53.84377176,10.11300679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFB,24641,Sievershütten,Waldring,9,,53.84370024,10.11392054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFC,24641,Sievershütten,Waldweg,1,,53.8411547,10.11345163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFD,24641,Sievershütten,Waldweg,2,,53.841162,10.11266301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFE,24641,Sievershütten,Waldweg,4,,53.84097761,10.11280704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFF,24641,Sievershütten,Wiesengrund,1,,53.84361061,10.11197072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFG,24641,Sievershütten,Wiesengrund,10,,53.84336673,10.11009144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFH,24641,Sievershütten,Wiesengrund,11,,53.84290472,10.11083585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFI,24641,Sievershütten,Wiesengrund,11,a,53.84295743,10.11159412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFJ,24641,Sievershütten,Wiesengrund,12,,53.84322017,10.10998395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFK,24641,Sievershütten,Wiesengrund,13,,53.84264564,10.11112485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFL,24641,Sievershütten,Wiesengrund,14,,53.84302819,10.10972018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFM,24641,Sievershütten,Wiesengrund,15,,53.84246148,10.11122424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFN,24641,Sievershütten,Wiesengrund,16,,53.84283042,10.10995599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFO,24641,Sievershütten,Wiesengrund,17,,53.84225773,10.1113905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFP,24641,Sievershütten,Wiesengrund,18,,53.84269829,10.11014577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFQ,24641,Sievershütten,Wiesengrund,2,,53.84388822,10.11118598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFR,24641,Sievershütten,Wiesengrund,20,,53.84250399,10.11034988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFS,24641,Sievershütten,Wiesengrund,22,,53.84230908,10.11068635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFT,24641,Sievershütten,Wiesengrund,24,,53.84208293,10.11083359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFU,24641,Sievershütten,Wiesengrund,28,,53.84190033,10.11154719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFV,24641,Sievershütten,Wiesengrund,3,,53.84348975,10.11164844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFW,24641,Sievershütten,Wiesengrund,30,,53.84191416,10.11190859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFX,24641,Sievershütten,Wiesengrund,4,,53.84380746,10.1108332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFY,24641,Sievershütten,Wiesengrund,5,,53.84337585,10.11133482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFZ,24641,Sievershütten,Wiesengrund,6,,53.84372923,10.11048573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFa,24641,Sievershütten,Waldring,29,,53.84167293,10.11403204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFb,24641,Sievershütten,Waldring,29,a,53.84154509,10.11434173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFc,24641,Sievershütten,Waldring,3,,53.84405171,10.11278843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFd,24641,Sievershütten,Waldring,30,,53.84164479,10.11326264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFe,24641,Sievershütten,Waldring,31,,53.84151182,10.11355756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFf,24641,Sievershütten,Waldring,31,a,53.84141507,10.11359411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFg,24641,Sievershütten,Waldring,31,b,53.84134646,10.11396109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFh,24641,Sievershütten,Waldring,32,,53.84184159,10.11295519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFi,24641,Sievershütten,Waldring,33,,53.84134501,10.11317424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFj,24641,Sievershütten,Waldring,34,,53.84197517,10.11265864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFk,24641,Sievershütten,Waldring,35,,53.8413845,10.11249529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFl,24641,Sievershütten,Waldring,36,,53.84218419,10.11256036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFm,24641,Sievershütten,Waldring,37,,53.84156803,10.11235817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFn,24641,Sievershütten,Waldring,38,,53.84327481,10.11268354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFo,24641,Sievershütten,Waldring,39,,53.84173914,10.11222879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFp,24641,Sievershütten,Waldring,4,,53.84404173,10.11183128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFq,24641,Sievershütten,Waldring,41,,53.84216668,10.11205162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFr,24641,Sievershütten,Waldring,43,,53.84235487,10.11210851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFs,24641,Sievershütten,Waldring,45,,53.84253421,10.1121297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFt,24641,Sievershütten,Waldring,45,a,53.84260249,10.11213114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFu,24641,Sievershütten,Waldring,47,,53.84275137,10.11215951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFv,24641,Sievershütten,Waldring,49,,53.84297356,10.11222286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFw,24641,Sievershütten,Waldring,5,,53.84399896,10.11330652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFx,24641,Sievershütten,Waldring,51,,53.84315949,10.11221514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFy,24641,Sievershütten,Waldring,6,,53.84373744,10.11260276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHFz,24641,Sievershütten,Waldring,7,,53.84388688,10.11365202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHG0,24641,Sievershütten,Wiesengrund,7,,53.84326969,10.11102914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHG1,24641,Sievershütten,Wiesengrund,8,,53.84352862,10.11033131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHG2,24641,Sievershütten,Wiesengrund,9,,53.84311403,10.11063756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHG3,24641,Sievershütten,Zum Zuschlag,1,,53.84434551,10.11476171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHG4,24641,Sievershütten,Zum Zuschlag,2,,53.8422197,10.11823188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRA,24641,Sievershütten,Am Kamp,14,,53.85238738,10.11580753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRB,24641,Sievershütten,Am Kamp,16,,53.85247084,10.11546127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRC,24641,Sievershütten,Am Kamp,2,,53.85190097,10.11752995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRD,24641,Sievershütten,Am Kamp,3,,53.85189074,10.11659055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRE,24641,Sievershütten,Am Kamp,4,,53.85193812,10.11727701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRF,24641,Sievershütten,Am Kamp,5,,53.85193477,10.11626233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRG,24641,Sievershütten,Am Kamp,6,,53.85204985,10.11701729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRH,24641,Sievershütten,Am Kamp,7,,53.85198923,10.1159675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRI,24641,Sievershütten,Am Kamp,8,,53.85214729,10.11669812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRJ,24641,Sievershütten,Am Kamp,9,,53.85206662,10.11563215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRK,24641,Sievershütten,Am Sportfeld,1,,53.84883588,10.12020636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRL,24641,Sievershütten,Am Sportfeld,10,,53.84797813,10.12134668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRM,24641,Sievershütten,Am Sportfeld,11,,53.84838583,10.12152856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRN,24641,Sievershütten,Am Sportfeld,12,,53.84773259,10.12144082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRO,24641,Sievershütten,Am Sportfeld,13,,53.84822384,10.12164326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRP,24641,Sievershütten,Am Sportfeld,14,,53.8476549,10.12145247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRQ,24641,Sievershütten,Am Sportfeld,15,,53.84804206,10.12179561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRR,24641,Sievershütten,Am Sportfeld,16,,53.84745603,10.12136381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRS,24641,Sievershütten,Am Sportfeld,17,,53.84786762,10.12192546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRT,24641,Sievershütten,Am Sportfeld,18,,53.84725231,10.12115698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRU,24641,Sievershütten,Am Sportfeld,19,,53.84763138,10.122066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRV,24641,Sievershütten,Am Sportfeld,2,,53.84850969,10.12020321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRW,24641,Sievershütten,Am Sportfeld,20,,53.84709753,10.12097433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRX,24641,Sievershütten,Am Sportfeld,21,,53.8474995,10.12184511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRY,24641,Sievershütten,Am Sportfeld,22,,53.84689294,10.12077197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRZ,24641,Sievershütten,Am Sportfeld,23,,53.84729802,10.12175548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRp,24641,Sievershütten,Am Dorfplatz,1,,53.85166655,10.12618737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRq,24641,Sievershütten,Am Dorfplatz,3,,53.85114073,10.12629928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRr,24641,Sievershütten,Am Dorfplatz,5,,53.85077156,10.1273968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRs,24641,Sievershütten,Am Dorfplatz,7,,53.85106896,10.1253893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRt,24641,Sievershütten,Am Dorfplatz,7,a,53.85080018,10.12531279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRu,24641,Sievershütten,Am Dorfplatz,9,,53.85120165,10.12447215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRv,24641,Sievershütten,Am Kamp,1,,53.85181415,10.11693735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRw,24641,Sievershütten,Am Kamp,10,,53.85216274,10.11634247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRx,24641,Sievershütten,Am Kamp,11,,53.85209834,10.1153366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRy,24641,Sievershütten,Am Kamp,12,,53.8522204,10.11601535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHRz,24641,Sievershütten,Am Kamp,13,,53.85230309,10.11545381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS0,24641,Sievershütten,Am Sportfeld,24,,53.84668226,10.12056848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS1,24641,Sievershütten,Am Sportfeld,25,,53.84709953,10.12156031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS2,24641,Sievershütten,Am Sportfeld,26,,53.84681896,10.12023921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS3,24641,Sievershütten,Am Sportfeld,27,,53.84688843,10.1213433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS4,24641,Sievershütten,Am Sportfeld,28,,53.84687919,10.11987724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS5,24641,Sievershütten,Am Sportfeld,29,,53.84669615,10.12121758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS6,24641,Sievershütten,Am Sportfeld,3,,53.84884418,10.12057774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS7,24641,Sievershütten,Am Sportfeld,30,,53.8470122,10.1196673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS8,24641,Sievershütten,Am Sportfeld,31,,53.84652261,10.12100457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHS9,24641,Sievershütten,Am Sportfeld,32,,53.84707592,10.11927761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSA,24641,Sievershütten,Brook,9,a,53.86500904,10.13068086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSB,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,1,,53.8481165,10.12058179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSC,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,10,,53.84764716,10.11931224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSD,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,11,,53.84759513,10.12063747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSE,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,12,,53.84782639,10.11919341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSF,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,13,,53.84766627,10.1198815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSG,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,14,,53.8474703,10.1190248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSH,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,15,,53.84753641,10.12014103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSI,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,16,,53.84759685,10.11874415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSJ,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,17,,53.84737121,10.12044191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSK,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,18,,53.84738828,10.11850064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSL,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,19,,53.84745707,10.11944594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSM,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,2,,53.84811131,10.12012587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSN,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,20,,53.84742413,10.11844084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSO,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,21,,53.84734034,10.11977865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSP,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,22,,53.84746153,10.1183643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSQ,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,23,,53.84718981,10.1201201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSR,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,24,,53.8474999,10.11830031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSS,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,25,,53.847197,10.119004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHST,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,3,,53.84795133,10.12080027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSU,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,4,,53.84825445,10.11992598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSV,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,5,,53.84779404,10.12090088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSW,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,6,,53.84788316,10.11968419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSX,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,6,a,53.84788316,10.11968419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSY,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,7,,53.84787824,10.12027727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSZ,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,8,,53.84804573,10.11957773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSa,24641,Sievershütten,Am Sportfeld,4,,53.84841354,10.12046656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSb,24641,Sievershütten,Am Sportfeld,5,,53.84878124,10.12087034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSc,24641,Sievershütten,Am Sportfeld,6,,53.84826502,10.12092134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSd,24641,Sievershütten,Am Sportfeld,7,,53.84872085,10.12112461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSe,24641,Sievershütten,Am Sportfeld,8,,53.84816318,10.12117315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSf,24641,Sievershütten,Am Sportfeld,9,,53.84861841,10.12145146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSg,24641,Sievershütten,Alter Schulweg,1,,53.85213766,10.12486262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSh,24641,Sievershütten,Alter Schulweg,2,,53.85234908,10.12458056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSi,24641,Sievershütten,Alter Schulweg,4,,53.8521176,10.1246412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSj,24641,Sievershütten,Brook,1,,53.85716806,10.13204274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSk,24641,Sievershütten,Brook,10,,53.86173426,10.13445263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSl,24641,Sievershütten,Brook,11,,53.86459887,10.13010673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSm,24641,Sievershütten,Brook,12,,53.86274389,10.1342831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSn,24641,Sievershütten,Brook,13,,53.86723167,10.12590735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSo,24641,Sievershütten,Brook,14,,53.86276864,10.13492106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSp,24641,Sievershütten,Brook,17,,53.86756678,10.12557812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSq,24641,Sievershütten,Brook,18,,53.86406962,10.13585402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSr,24641,Sievershütten,Brook,19,,53.8675755,10.12619881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSs,24641,Sievershütten,Brook,2,,53.85561724,10.13095611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSt,24641,Sievershütten,Brook,20,,53.8642832,10.1348155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSu,24641,Sievershütten,Brook,3,,53.86261141,10.13371979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSv,24641,Sievershütten,Brook,4,,53.85999132,10.13404056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSw,24641,Sievershütten,Brook,5,,53.8648192,10.1341059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSx,24641,Sievershütten,Brook,6,,53.86116877,10.13450364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSy,24641,Sievershütten,Brook,7,,53.86521,10.13122281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHSz,24641,Sievershütten,Brook,9,,53.86494568,10.13055306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT0,24641,Sievershütten,Bürgermeister-Pohlmann-Straße,9,,53.84772282,10.12044905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT1,24641,Sievershütten,Bollweg,1,,53.85146778,10.11701378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT2,24641,Sievershütten,Beek,1,,53.85408604,10.12897367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT3,24641,Sievershütten,Beek,2,,53.85386809,10.12867042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT4,24641,Sievershütten,Beek,3,,53.8542104,10.12939371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT5,24641,Sievershütten,Beek,4,,53.85377029,10.12896278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT6,24641,Sievershütten,Beek,5,,53.85414061,10.12983322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT7,24641,Sievershütten,Beek,6,,53.85375194,10.12933971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT8,24641,Sievershütten,Beek,7,,53.85397456,10.13007443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHT9,24641,Sievershütten,Beek,8,,53.853765,10.1297623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTA,24641,Sievershütten,Hauptstraße,24,,53.8516682,10.1268639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTB,24641,Sievershütten,Hauptstraße,25,,53.85174439,10.12149009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTC,24641,Sievershütten,Hauptstraße,26,,53.85161993,10.12740332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTD,24641,Sievershütten,Hauptstraße,27,,53.85147114,10.1223112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTE,24641,Sievershütten,Hauptstraße,28,,53.85155733,10.12781678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTF,24641,Sievershütten,Hauptstraße,29,,53.85161158,10.12348842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTG,24641,Sievershütten,Hauptstraße,29,a,53.85220317,10.12334949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTH,24641,Sievershütten,Hauptstraße,3,,53.85231374,10.11770619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTI,24641,Sievershütten,Hauptstraße,31,,53.85161951,10.12370755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTJ,24641,Sievershütten,Hauptstraße,33,,53.85150406,10.12405335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTK,24641,Sievershütten,Hauptstraße,35,,53.85184602,10.12403128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTL,24641,Sievershütten,Hauptstraße,37,,53.8516501,10.12449969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTM,24641,Sievershütten,Hauptstraße,39,,53.85181606,10.12450253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTN,24641,Sievershütten,Hauptstraße,4,,53.8517151,10.11868717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTO,24641,Sievershütten,Hauptstraße,41,,53.85176176,10.1251181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTP,24641,Sievershütten,Hauptstraße,43,,53.8518704,10.12483001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTQ,24641,Sievershütten,Hauptstraße,45,,53.85200809,10.1253653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTR,24641,Sievershütten,Hauptstraße,45,a,53.85214009,10.12537135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTS,24641,Sievershütten,Hauptstraße,47,,53.85197985,10.12639877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTT,24641,Sievershütten,Hauptstraße,5,,53.85210257,10.11824024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTU,24641,Sievershütten,Hauptstraße,50,,53.85105134,10.13060724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTV,24641,Sievershütten,Hauptstraße,52,,53.85073839,10.13122248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTW,24641,Sievershütten,Hauptstraße,57,,53.85154337,10.12927552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTX,24641,Sievershütten,Hauptstraße,59,,53.85150053,10.12958672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTY,24641,Sievershütten,Hauptstraße,6,,53.85160792,10.11905991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTZ,24641,Sievershütten,Hauptstraße,6,a,53.85141056,10.1186716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTa,24641,Sievershütten,Eibenweg,1,,53.85282569,10.11730178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTb,24641,Sievershütten,Hampfhof,1,,53.85533769,10.12869001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTc,24641,Sievershütten,Hampfhof,2,,53.85555194,10.12844599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTd,24641,Sievershütten,Hampfhof,3,,53.85511332,10.12850882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTe,24641,Sievershütten,Hampfhof,3,a,53.85475879,10.12890624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTf,24641,Sievershütten,Hampfhof,4,,53.85533515,10.12827664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTg,24641,Sievershütten,Hampfhof,5,,53.85492918,10.12835104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTh,24641,Sievershütten,Hampfhof,5,a,53.85467542,10.12858711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTi,24641,Sievershütten,Hampfhof,6,,53.85514816,10.12803637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTj,24641,Sievershütten,Hampfhof,7,,53.85471366,10.12800109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTk,24641,Sievershütten,Hampfhof,8,,53.85498862,10.12785218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTl,24641,Sievershütten,Hauptstraße,1,,53.85254541,10.11735759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTm,24641,Sievershütten,Hauptstraße,11,,53.8522967,10.11944049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTn,24641,Sievershütten,Hauptstraße,12,,53.8514117,10.12030234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTo,24641,Sievershütten,Hauptstraße,12,a,53.85123917,10.12238521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTp,24641,Sievershütten,Hauptstraße,13,,53.85228776,10.11981269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTq,24641,Sievershütten,Hauptstraße,14,,53.85120349,10.12263826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTr,24641,Sievershütten,Hauptstraße,15,,53.85179002,10.11982933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTs,24641,Sievershütten,Hauptstraße,16,,53.85117517,10.12290011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTt,24641,Sievershütten,Hauptstraße,17,,53.85180901,10.1202442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTu,24641,Sievershütten,Hauptstraße,18,,53.85087885,10.12266489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTv,24641,Sievershütten,Hauptstraße,19,,53.85176693,10.12056391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTw,24641,Sievershütten,Hauptstraße,2,,53.85176617,10.11820993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTx,24641,Sievershütten,Hauptstraße,20,,53.85118194,10.12332439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTy,24641,Sievershütten,Hauptstraße,21,,53.85172999,10.1208508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHTz,24641,Sievershütten,Hauptstraße,22,,53.85178059,10.12650429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU0,24641,Sievershütten,Hauptstraße,61,,53.85144481,10.12994734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU1,24641,Sievershütten,Hauptstraße,65,,53.85139575,10.1303075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU2,24641,Sievershütten,Hauptstraße,9,,53.85184997,10.11921391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU3,24641,Sievershütten,Hauptstraße,9,a,53.85206038,10.11935647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU4,24641,Sievershütten,Heidberg,1,,53.85296181,10.13288067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU5,24641,Sievershütten,Heidberg,10,,53.8525858,10.13243714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU6,24641,Sievershütten,Heidberg,11,,53.85217173,10.13338877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU7,24641,Sievershütten,Heidberg,12,,53.85263475,10.13274316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU8,24641,Sievershütten,Heidberg,12,a,53.85236165,10.13296077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHU9,24641,Sievershütten,Heidberg,13,,53.85218663,10.13350021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUA,24641,Sievershütten,Heidberg,5,,53.85270425,10.13358352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUB,24641,Sievershütten,Heidberg,6,,53.85249397,10.13186334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUC,24641,Sievershütten,Heidberg,7,,53.85264445,10.13326195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUD,24641,Sievershütten,Heidberg,8,,53.85254,10.13214714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUE,24641,Sievershütten,Heidberg,9,,53.85234777,10.13329753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUF,24641,Sievershütten,Im Kahlen,1,,53.85363247,10.13251128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUG,24641,Sievershütten,Im Kahlen,10,,53.85438629,10.13290808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUH,24641,Sievershütten,Im Kahlen,11,,53.85446767,10.1322129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUI,24641,Sievershütten,Im Kahlen,12,,53.85455114,10.13300878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUJ,24641,Sievershütten,Im Kahlen,13,,53.8546387,10.13234605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUK,24641,Sievershütten,Im Kahlen,15,,53.85478141,10.13264621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUL,24641,Sievershütten,Im Kahlen,2,,53.85375681,10.13274944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUM,24641,Sievershütten,Im Kahlen,3,,53.85379621,10.13219525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUN,24641,Sievershütten,Im Kahlen,4,,53.8539072,10.13253784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUO,24641,Sievershütten,Im Kahlen,5,,53.85396865,10.13188554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUP,24641,Sievershütten,Im Kahlen,6,,53.85407617,10.13226588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUQ,24641,Sievershütten,Im Kahlen,7,,53.85409699,10.13148615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUR,24641,Sievershütten,Im Kahlen,8,,53.85427204,10.13262493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUS,24641,Sievershütten,Im Kahlen,9,,53.85439638,10.13162138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUT,24641,Sievershütten,Kalte Weide,1,,53.85107465,10.12188166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUU,24641,Sievershütten,Kalte Weide,11,,53.84835071,10.11916521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUV,24641,Sievershütten,Kalte Weide,12,,53.84918262,10.11955734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUW,24641,Sievershütten,Kalte Weide,13,,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUX,24641,Sievershütten,Kalte Weide,13,a,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUY,24641,Sievershütten,Kalte Weide,13,b,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUZ,24641,Sievershütten,Kalte Weide,13,c,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUa,24641,Sievershütten,Heidberg,14,,53.85220518,10.13304963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUb,24641,Sievershütten,Heidberg,15,,53.8518565,10.13361857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUc,24641,Sievershütten,Heidberg,16,,53.85177333,10.13314321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUd,24641,Sievershütten,Heidberg,17,,53.85199592,10.13408518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUe,24641,Sievershütten,Heidberg,18,,53.85174724,10.13286035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUf,24641,Sievershütten,Heidberg,19,,53.85211413,10.13448339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUg,24641,Sievershütten,Heidberg,2,,53.85239788,10.1312591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUh,24641,Sievershütten,Heidberg,20,,53.85166623,10.13258053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUi,24641,Sievershütten,Heidberg,22,,53.85163397,10.13228923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUj,24641,Sievershütten,Heidberg,24,,53.85154689,10.13200515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUk,24641,Sievershütten,Heidberg,26,,53.85151828,10.13171594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUl,24641,Sievershütten,Heidberg,28,,53.85148905,10.1314102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUm,24641,Sievershütten,Heidberg,3,,53.85294422,10.13340899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUn,24641,Sievershütten,Heidberg,30,,53.85146073,10.13111815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUo,24641,Sievershütten,Heidberg,31,,53.85143826,10.13303322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUp,24641,Sievershütten,Heidberg,32,,53.8517918,10.13096834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUq,24641,Sievershütten,Heidberg,33,,53.85139975,10.13271712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUr,24641,Sievershütten,Heidberg,34,,53.85189742,10.13167051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUs,24641,Sievershütten,Heidberg,35,,53.85134264,10.13243326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUt,24641,Sievershütten,Heidberg,36,,53.85206557,10.13090795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUu,24641,Sievershütten,Heidberg,37,,53.85129803,10.13217244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUv,24641,Sievershütten,Heidberg,39,,53.85124419,10.13187638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUw,24641,Sievershütten,Heidberg,4,,53.85244176,10.13156511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUx,24641,Sievershütten,Heidberg,41,,53.85118925,10.13162987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUy,24641,Sievershütten,Heidberg,41,a,53.85117079,10.1315409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHUz,24641,Sievershütten,Heidberg,43,,53.85128183,10.13093307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV0,24641,Sievershütten,Kalte Weide,13,d,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV1,24641,Sievershütten,Kalte Weide,13,e,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV2,24641,Sievershütten,Kalte Weide,13,f,53.84816974,10.11888462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV3,24641,Sievershütten,Kalte Weide,14,,53.84894066,10.11931196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV4,24641,Sievershütten,Kalte Weide,15,,53.84802972,10.11858189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV5,24641,Sievershütten,Kalte Weide,16,,53.84872266,10.11925478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV6,24641,Sievershütten,Kalte Weide,17,,53.84780278,10.11859595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV7,24641,Sievershütten,Kalte Weide,18,,53.8484483,10.11861645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV8,24641,Sievershütten,Kalte Weide,19,,53.8479014,10.11830719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHV9,24641,Sievershütten,Kalte Weide,2,,53.85138627,10.12091036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVA,24641,Sievershütten,Rolandsweg,29,,53.85260515,10.11868914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVB,24641,Sievershütten,Rolandsweg,3,,53.85236995,10.12516404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVC,24641,Sievershütten,Rolandsweg,31,,53.85255138,10.1186661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVD,24641,Sievershütten,Rolandsweg,33,,53.85222846,10.11872452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVE,24641,Sievershütten,Rolandsweg,33,a,53.85238438,10.11886923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVF,24641,Sievershütten,Rolandsweg,35,,53.85194844,10.11885646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVG,24641,Sievershütten,Rolandsweg,38,,53.85276515,10.11825413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVH,24641,Sievershütten,Rolandsweg,4,,53.85303806,10.12487731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVI,24641,Sievershütten,Rolandsweg,40,,53.8524621,10.11835669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVJ,24641,Sievershütten,Rolandsweg,5,,53.85246162,10.12496291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVK,24641,Sievershütten,Rolandsweg,6,a,53.85304346,10.12417594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVL,24641,Sievershütten,Rolandsweg,7,,53.85260064,10.12458673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVM,24641,Sievershütten,Rolandsweg,9,,53.85273468,10.12411371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVN,24641,Sievershütten,Ruhloweg,1,,53.85244613,10.12767203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVO,24641,Sievershütten,Ruhloweg,10,,53.85214923,10.13024524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVP,24641,Sievershütten,Ruhloweg,12,,53.8523324,10.13084213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVQ,24641,Sievershütten,Ruhloweg,13,,53.85401511,10.13300977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVR,24641,Sievershütten,Ruhloweg,14,a,53.85288702,10.13201833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVS,24641,Sievershütten,Ruhloweg,14,b,53.85288702,10.13201833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVT,24641,Sievershütten,Ruhloweg,14,c,53.85288702,10.13201833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVU,24641,Sievershütten,Ruhloweg,15,,53.85425602,10.13380704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVV,24641,Sievershütten,Ruhloweg,16,a,53.85297668,10.1323528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVW,24641,Sievershütten,Ruhloweg,16,b,53.85297668,10.1323528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVX,24641,Sievershütten,Ruhloweg,16,c,53.85297668,10.1323528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVY,24641,Sievershütten,Ruhloweg,16,d,53.85297668,10.1323528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVZ,24641,Sievershütten,Ruhloweg,16,e,53.85297668,10.1323528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVa,24641,Sievershütten,Kalte Weide,20,,53.84820497,10.11817368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVb,24641,Sievershütten,Kalte Weide,21,,53.84768897,10.11800476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVc,24641,Sievershütten,Kalte Weide,22,,53.8483071,10.11652121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVd,24641,Sievershütten,Kalte Weide,23,,53.84765021,10.11793075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVe,24641,Sievershütten,Kalte Weide,4,,53.85100698,10.12053306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVf,24641,Sievershütten,Kalte Weide,7,,53.84855248,10.11959839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVg,24641,Sievershütten,Kalte Weide,9,,53.8484429,10.11941083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVh,24641,Sievershütten,Lohe,1,,53.85301159,10.13143453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVi,24641,Sievershütten,Lohe,10,,53.85357343,10.13108481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVj,24641,Sievershütten,Lohe,12,,53.85383193,10.13098968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVk,24641,Sievershütten,Lohe,14,,53.85381955,10.13065041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVl,24641,Sievershütten,Lohe,2,,53.8532476,10.13180933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVm,24641,Sievershütten,Lohe,3,,53.85316194,10.13117717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVn,24641,Sievershütten,Lohe,4,,53.85339796,10.13178301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVo,24641,Sievershütten,Lohe,5,,53.85330466,10.13093152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVp,24641,Sievershütten,Lohe,6,,53.85337015,10.13150269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVq,24641,Sievershütten,Lohe,7,,53.85342614,10.13063709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVr,24641,Sievershütten,Lohe,8,,53.85361397,10.13148753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVs,24641,Sievershütten,Lohe,9,,53.85358922,10.13038694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVt,24641,Sievershütten,Rolandsweg,1,,53.8522369,10.12548609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVu,24641,Sievershütten,Rolandsweg,10,,53.85318591,10.12352066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVv,24641,Sievershütten,Rolandsweg,12,,53.85336995,10.12305361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVw,24641,Sievershütten,Rolandsweg,14,,53.85347034,10.12247102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVx,24641,Sievershütten,Rolandsweg,16,,53.85356726,10.1215518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVy,24641,Sievershütten,Rolandsweg,2,,53.8525733,10.12533583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHVz,24641,Sievershütten,Rolandsweg,27,,53.85282356,10.11917944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW0,24641,Sievershütten,Ruhloweg,17,,53.85383929,10.13711168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW1,24641,Sievershütten,Ruhloweg,18,,53.85320346,10.13250969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW2,24641,Sievershütten,Ruhloweg,19,,53.85688748,10.14303305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW3,24641,Sievershütten,Ruhloweg,2,,53.85227264,10.1270531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW4,24641,Sievershütten,Ruhloweg,20,,53.8532922,10.13283585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW5,24641,Sievershütten,Ruhloweg,21,,53.85756581,10.14283817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW6,24641,Sievershütten,Ruhloweg,22,,53.85350382,10.13286703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW7,24641,Sievershütten,Ruhloweg,3,,53.85256876,10.12877419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW8,24641,Sievershütten,Ruhloweg,5,,53.8524566,10.12940575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHW9,24641,Sievershütten,Ruhloweg,7,,53.85256813,10.13025671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWa,24641,Sievershütten,Ruhloweg,9,,53.85298829,10.13056516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWb,24641,Sievershütten,Segeberger Straße,1,,53.85263525,10.12597529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWc,24641,Sievershütten,Segeberger Straße,4,,53.85227847,10.12618134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWd,24641,Sievershütten,Segeberger Straße,6,,53.85279408,10.12712033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWe,24641,Sievershütten,Segeberger Straße,7,,53.85363479,10.12759454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWf,24641,Sievershütten,Sether Weg,14,,53.85066025,10.13029346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWg,24641,Sievershütten,Sether Weg,2,,53.85065886,10.1257562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWh,24641,Sievershütten,Sether Weg,4,,53.85040333,10.12654935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWi,24641,Sievershütten,Sether Weg,6,,53.85031031,10.12749519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWj,24641,Sievershütten,Zu den Eichen,1,,53.85513673,10.12954723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWk,24641,Sievershütten,Zu den Eichen,11,,53.85618733,10.12876548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWl,24641,Sievershütten,Zu den Eichen,12,,53.85884273,10.12649671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWm,24641,Sievershütten,Zu den Eichen,2,,53.85540338,10.12984017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWn,24641,Sievershütten,Zu den Eichen,2,a,53.85547543,10.12979858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWo,24641,Sievershütten,Zu den Eichen,3,,53.85533426,10.12938756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWp,24641,Sievershütten,Zu den Eichen,3,a,53.85527981,10.12942558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWq,24641,Sievershütten,Zu den Eichen,4,,53.85598248,10.12943999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWr,24641,Sievershütten,Zu den Eichen,5,,53.85553497,10.12922341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWs,24641,Sievershütten,Zu den Eichen,6,,53.85623555,10.12923546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWt,24641,Sievershütten,Zu den Eichen,7,,53.85584401,10.12900933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWu,24641,Sievershütten,Zu den Eichen,8,,53.85638565,10.12921299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHWv,24641,Sievershütten,Zu den Eichen,9,,53.85601627,10.12888129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzB,24641,Sievershütten,Am Bullenhof,1,,53.8446747,10.1119933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzC,24641,Sievershütten,Am Bullenhof,10,,53.84524936,10.11330387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzD,24641,Sievershütten,Am Bullenhof,11,a,53.84546496,10.1136266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzE,24641,Sievershütten,Am Bullenhof,11,b,53.84541257,10.11373112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzF,24641,Sievershütten,Am Bullenhof,12,,53.84527823,10.11377316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzG,24641,Sievershütten,Am Bullenhof,13,,53.84504386,10.11437026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzH,24641,Sievershütten,Am Bullenhof,2,,53.84470223,10.11237157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzI,24641,Sievershütten,Am Bullenhof,3,a,53.84489701,10.11251634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzJ,24641,Sievershütten,Am Bullenhof,3,b,53.84481184,10.11261752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzK,24641,Sievershütten,Am Bullenhof,4,,53.84472722,10.11276387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzL,24641,Sievershütten,Am Bullenhof,5,,53.84485496,10.11305615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzM,24641,Sievershütten,Am Bullenhof,6,,53.84498537,10.11281223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzN,24641,Sievershütten,Am Bullenhof,7,a,53.84517,10.1130625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzO,24641,Sievershütten,Am Bullenhof,7,b,53.84509926,10.11316467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzP,24641,Sievershütten,Am Bullenhof,8,,53.84496408,10.11327072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzQ,24641,Sievershütten,Am Bullenhof,9,,53.84511382,10.11356534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzR,24641,Sievershütten,Am Sportfeld,1,,53.84700571,10.11790149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzS,24641,Sievershütten,Am Sportfeld,3,,53.8468744,10.11858017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzT,24641,Sievershütten,Am Sportfeld,5,,53.8466471,10.11754844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzU,24641,Sievershütten,Am Sportfeld,7,,53.84652983,10.11930961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzV,24641,Sievershütten,Brüchhorststraße,1,,53.84232314,10.10197817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzW,24641,Sievershütten,Brüchhorststraße,10,,53.84147526,10.10063335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzX,24641,Sievershütten,Brüchhorststraße,10,a,53.84162224,10.10022815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHzY,24641,Sievershütten,Brüchhorststraße,10,b,53.84148768,10.1001113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNA,24641,Sievershütten,Alte Schulstraße,15,b,53.84096659,10.07053182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNB,24641,Sievershütten,Alte Schulstraße,16,,53.84215626,10.07137635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNC,24641,Sievershütten,Alte Schulstraße,17,,53.84092593,10.07031299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxND,24641,Sievershütten,Alte Schulstraße,18,,53.84199388,10.07077419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNE,24641,Sievershütten,Alte Schulstraße,19,,53.84075991,10.07005962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNF,24641,Sievershütten,Alte Schulstraße,2,,53.84236551,10.07348855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNG,24641,Sievershütten,Alte Schulstraße,21,,53.8406367,10.06977964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNH,24641,Sievershütten,Alte Schulstraße,23,,53.84055591,10.06918221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNI,24641,Sievershütten,Alte Schulstraße,24,,53.84126204,10.07054234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNJ,24641,Sievershütten,Alte Schulstraße,25,,53.84033464,10.06866819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNK,24641,Sievershütten,Alte Schulstraße,26,,53.84123084,10.07000997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNL,24641,Sievershütten,Alte Schulstraße,27,,53.84018461,10.0683635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNM,24641,Sievershütten,Alte Schulstraße,28,,53.84109476,10.06966658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNN,24641,Sievershütten,Alte Schulstraße,29,,53.84002248,10.06809552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNO,24641,Sievershütten,Alte Schulstraße,3,,53.84181546,10.07312707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNP,24641,Sievershütten,Alte Schulstraße,30,,53.84104934,10.06925569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNQ,24641,Sievershütten,Alte Schulstraße,31,,53.83991165,10.06785225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNR,24641,Sievershütten,Alte Schulstraße,32,,53.84100862,10.06883675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNS,24641,Sievershütten,Alte Schulstraße,33,,53.83984598,10.06756227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNT,24641,Sievershütten,Alte Schulstraße,34,,53.84049558,10.06847483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNU,24641,Sievershütten,Alte Schulstraße,34,a,53.84041528,10.06817136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNV,24641,Sievershütten,Alte Schulstraße,35,,53.83976333,10.06732636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNW,24641,Sievershütten,Alte Schulstraße,36,,53.84042378,10.06787162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNX,24641,Sievershütten,Alte Schulstraße,37,,53.83973497,10.06705461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNY,24641,Sievershütten,Alte Schulstraße,38,,53.84065608,10.06778873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNZ,24641,Sievershütten,Alte Schulstraße,39,,53.83982566,10.06661921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNt,24641,Sievershütten,Alte Schulstraße,1,,53.8417667,10.07354527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNu,24641,Sievershütten,Alte Schulstraße,10,,53.84244537,10.07251747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNv,24641,Sievershütten,Alte Schulstraße,11,,53.84167377,10.07156867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNw,24641,Sievershütten,Alte Schulstraße,12,,53.84221912,10.07222676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNx,24641,Sievershütten,Alte Schulstraße,13,,53.84117603,10.07102642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNy,24641,Sievershütten,Alte Schulstraße,14,,53.84211563,10.07191386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxNz,24641,Sievershütten,Alte Schulstraße,15,a,53.8409887,10.0706475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO0,24641,Sievershütten,Alte Schulstraße,40,,53.84072121,10.06740319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO1,24641,Sievershütten,Alte Schulstraße,41,,53.83972455,10.06625368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO4,24641,Sievershütten,Alte Schulstraße,44,a,53.8402708,10.06768618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO5,24641,Sievershütten,Alte Schulstraße,44,b,53.84036425,10.06752919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO6,24641,Sievershütten,Alte Schulstraße,46,,53.84011661,10.06745658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO7,24641,Sievershütten,Alte Schulstraße,48,,53.84009485,10.06705134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO8,24641,Sievershütten,Alte Schulstraße,5,,53.8418283,10.07280075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxO9,24641,Sievershütten,Alte Schulstraße,50,,53.8401085,10.06666179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOA,24641,Sievershütten,Dorfstraße,6,,53.83954211,10.07417532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOB,24641,Sievershütten,Dorfstraße,7,,53.83938802,10.07573786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOC,24641,Sievershütten,Dorfstraße,8,,53.83949399,10.07468893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOD,24641,Sievershütten,Dorfstraße,9,,53.83928776,10.07595812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOE,24641,Sievershütten,Hökerbarg,1,,53.83983926,10.07202326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOF,24641,Sievershütten,Hökerbarg,10,,53.84064312,10.07171159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOG,24641,Sievershütten,Hökerbarg,12,,53.84085601,10.07145634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOH,24641,Sievershütten,Hökerbarg,2,,53.84004137,10.07258915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOI,24641,Sievershütten,Hökerbarg,3,,53.83999488,10.07160717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOJ,24641,Sievershütten,Hökerbarg,4,,53.84016029,10.07240268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOK,24641,Sievershütten,Hökerbarg,5,,53.84021794,10.07140017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOL,24641,Sievershütten,Hökerbarg,6,,53.84028292,10.07216842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOM,24641,Sievershütten,Hökerbarg,7,,53.84036197,10.07114797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxON,24641,Sievershütten,Hökerbarg,7,a,53.84064361,10.07104503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOO,24641,Sievershütten,Hökerbarg,7,b,53.84060031,10.07109356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOP,24641,Sievershütten,Hökerbarg,8,,53.84044116,10.07188738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOQ,24641,Sievershütten,Hökerbarg,9,,53.84078135,10.0708749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOT,24641,Sievershütten,Hüttmannsweg,11,,53.83633283,10.07543121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOU,24641,Sievershütten,Hüttmannsweg,13,,53.83623045,10.07505361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOa,24641,Sievershütten,Alte Schulstraße,6,,53.84217033,10.07294247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOb,24641,Sievershütten,Alte Schulstraße,7,,53.84179995,10.07239146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOc,24641,Sievershütten,Alte Schulstraße,8,,53.84220366,10.07265746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOd,24641,Sievershütten,Alte Schulstraße,9,,53.84178315,10.07197455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOe,24641,Sievershütten,Dorfstraße,1,,53.84001178,10.07384714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOf,24641,Sievershütten,Dorfstraße,1,a,53.84026485,10.07365054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOg,24641,Sievershütten,Dorfstraße,10,,53.83918428,10.07532027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOh,24641,Sievershütten,Dorfstraße,11,,53.83910709,10.0761831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOi,24641,Sievershütten,Dorfstraße,12,,53.83902815,10.07552368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOj,24641,Sievershütten,Dorfstraße,14,,53.83892241,10.07575229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOk,24641,Sievershütten,Dorfstraße,16,,53.8386019,10.0756107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOl,24641,Sievershütten,Dorfstraße,17,,53.83639394,10.07827774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOm,24641,Sievershütten,Dorfstraße,18,,53.83874217,10.07605847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOn,24641,Sievershütten,Dorfstraße,19,,53.83598095,10.07833638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOo,24641,Sievershütten,Dorfstraße,2,a,53.83990713,10.07339578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOp,24641,Sievershütten,Dorfstraße,2,b,53.83986166,10.07329091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOq,24641,Sievershütten,Dorfstraße,20,,53.83859966,10.07623655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOr,24641,Sievershütten,Dorfstraße,22,,53.83839651,10.07618982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOs,24641,Sievershütten,Dorfstraße,23,,53.83469815,10.08428839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOt,24641,Sievershütten,Dorfstraße,23,a,53.83497446,10.0841498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOu,24641,Sievershütten,Dorfstraße,24,,53.83811059,10.07616218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOv,24641,Sievershütten,Dorfstraße,24,a,53.83645073,10.07758007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOw,24641,Sievershütten,Dorfstraße,26,,53.83485968,10.0831625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOx,24641,Sievershütten,Dorfstraße,3,,53.83965871,10.07480984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOy,24641,Sievershütten,Dorfstraße,4,,53.83966561,10.07387053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxOz,24641,Sievershütten,Dorfstraße,5,,53.8395216,10.07538135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPA,24641,Sievershütten,Kaltenkirchener Straße,2,,53.84345248,10.07378826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPB,24641,Sievershütten,Kaltenkirchener Straße,4,,53.84316201,10.07404345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPC,24641,Sievershütten,Kaltenkirchener Straße,6,,53.84254958,10.07391853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPD,24641,Sievershütten,Kisdorfer Straße,1,a,53.83946263,10.07322328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPE,24641,Sievershütten,Kisdorfer Straße,11,,53.83713411,10.06683144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPF,24641,Sievershütten,Kisdorfer Straße,12,,53.83972121,10.07164516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPG,24641,Sievershütten,Kisdorfer Straße,2,,53.84122939,10.07341463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPH,24641,Sievershütten,Kisdorfer Straße,3,,53.83954789,10.07260491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPI,24641,Sievershütten,Kisdorfer Straße,4,,53.84103052,10.07334744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPJ,24641,Sievershütten,Kisdorfer Straße,5,,53.83937751,10.07224676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPK,24641,Sievershütten,Kisdorfer Straße,7,,53.83928105,10.07192248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPL,24641,Sievershütten,Kisdorfer Straße,9,,53.83914025,10.07157423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPM,24641,Sievershütten,Poolweg,1,,53.83528307,10.0688928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPa,24641,Sievershütten,Hüttmannsweg,9,,53.83643457,10.07569898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPc,24641,Sievershütten,Im Busch,1,,53.83359685,10.07706943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPd,24641,Sievershütten,Im Busch,10,,53.83341307,10.07417324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPe,24641,Sievershütten,Im Busch,10,a,53.83326488,10.07360345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPf,24641,Sievershütten,Im Busch,11,,53.83331637,10.07469707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPg,24641,Sievershütten,Im Busch,12,,53.83305313,10.07314742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPh,24641,Sievershütten,Im Busch,12,a,53.83304859,10.072986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPi,24641,Sievershütten,Im Busch,13,,53.83330947,10.07462856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPj,24641,Sievershütten,Im Busch,14,,53.83339498,10.07310739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPk,24641,Sievershütten,Im Busch,15,,53.8332249,10.07407951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPl,24641,Sievershütten,Im Busch,16,,53.83364662,10.07317423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPm,24641,Sievershütten,Im Busch,17,,53.83306184,10.07254212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPn,24641,Sievershütten,Im Busch,18,,53.83456768,10.07373367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPo,24641,Sievershütten,Im Busch,2,,53.83544113,10.07803975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPp,24641,Sievershütten,Im Busch,3,,53.83354114,10.07665335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPq,24641,Sievershütten,Im Busch,4,,53.8338,10.07686663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPr,24641,Sievershütten,Im Busch,4,a,53.83374579,10.07649511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPs,24641,Sievershütten,Im Busch,5,,53.83350569,10.07620309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPt,24641,Sievershütten,Im Busch,6,,53.83372089,10.07612553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPu,24641,Sievershütten,Im Busch,7,,53.83338154,10.07559213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPv,24641,Sievershütten,Im Busch,8,,53.83377369,10.07549438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPw,24641,Sievershütten,Im Busch,8,a,53.83362534,10.07528305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPx,24641,Sievershütten,Im Busch,8,b,53.83366335,10.07489511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPy,24641,Sievershütten,Im Busch,9,,53.83328095,10.07517829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cxPz,24641,Sievershütten,Kaltenkirchener Straße,1,,53.84389058,10.06944599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001czoY,24641,Sievershütten,Sievershüttener Straße,38,,53.84420825,10.07183976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003wgJH,24641,Sievershütten,Rolandsweg,2,b,53.85349317,10.12497786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFAj,24641,Sievershütten,Alte Schulstraße,52,,53.84077507,10.06680146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFAk,24641,Sievershütten,Alte Schulstraße,54,,53.84072821,10.06691887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004XEUe,24641,Sievershütten,Am Sportfeld,34,,53.84754456,10.11799599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00051avd,24641,Sievershütten,Bollweg,3,,53.85169416,10.11768717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EW1O,24641,Sievershütten,Heidberg,6,a,53.85239181,10.13190104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZD5a,24641,Sievershütten,Rolandsweg,25,,53.85288006,10.11925976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aAL4,24641,Sievershütten,Möschen,3,,53.84294694,10.07317361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aAL7,24641,Sievershütten,Möschen,9,,53.8435745,10.07259665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aALa,24641,Sievershütten,Möschen,1,,53.84287268,10.07281409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aALd,24641,Sievershütten,Möschen,7,,53.84344674,10.07291264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aALj,24641,Sievershütten,Möschen,5,,53.84322787,10.07310474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fkbV,24641,Sievershütten,Im Kahlen,9,a,53.85428805,10.13185652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tXz4,24641,Sievershütten,Kisdorfer Straße,9,a,53.83914688,10.07123138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BlfI,24641,Sievershütten,Segeberger Straße,5,,53.85338307,10.12736818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006R3Xh,24641,Sievershütten,Hampfhof,3,b,53.85491028,10.12872926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sAWf,24641,Sievershütten,Ruhloweg,5,b,53.85247305,10.12983561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074NFV,24641,Sievershütten,Buschkoppel,2,b,53.84606645,10.11127051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074NFZ,24641,Sievershütten,Buschkoppel,1,a,53.84566363,10.11065093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074NG4,24641,Sievershütten,Buschkoppel,19,a,53.84692741,10.11008832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074PbP,24641,Sievershütten,Brüchhorststraße,35,a,53.83872208,10.09812509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074Q56,24641,Sievershütten,Kirchstraße,28,,53.83815259,10.10894345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007746L,24641,Sievershütten,Kirchstraße,22,b,53.83872247,10.10808213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007D8MX,24641,Sievershütten,Kaltenkirchener Straße,6,a,53.84055944,10.09348282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007D8MY,24641,Sievershütten,Kaltenkirchener Straße,6,b,53.84057298,10.09335386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007HdyF,24641,Sievershütten,Ruhloweg,8,,53.85224941,10.12916678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007PGpj,24641,Sievershütten,Brüchhorststraße,25,a,53.83961914,10.09964636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Rf0w,24641,Sievershütten,Sether Weg,12,,53.85059235,10.12987505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007XUCa,24641,Sievershütten,Struvenhüttener Straße,2,f,53.84365321,10.10155766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gd5W,24641,Sievershütten,Im Busch,20,,53.83502465,10.07312558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jUwK,24641,Sievershütten,Kalte Weide,8,a,53.84597777,10.11523059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMA,24641,Sievershütten,Hüttmannsweg,25,,53.83554627,10.07342446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMG,24641,Sievershütten,Hüttmannsweg,29,,53.83467266,10.07255331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMM,24641,Sievershütten,Hüttmannsweg,31,,53.83475698,10.07019054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMV,24641,Sievershütten,Hüttmannsweg,33,,53.83483215,10.06909373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMW,24641,Sievershütten,Hüttmannsweg,35,,53.83475525,10.06907609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnMX,24641,Sievershütten,Hüttmannsweg,37,,53.8347089,10.06900845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnN1,24641,Sievershütten,Hüttmannsweg,39,,53.83423366,10.06747692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnN5,24641,Sievershütten,Hüttmannsweg,41,,53.83385613,10.06545788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnN9,24641,Sievershütten,Hüttmannsweg,28,,53.83554175,10.07287009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNA,24641,Sievershütten,Hüttmannsweg,18,,53.83637585,10.07408575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNE,24641,Sievershütten,Hüttmannsweg,16,,53.83659142,10.07445794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNI,24641,Sievershütten,Hüttmannsweg,14,,53.8365935,10.07477932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNO,24641,Sievershütten,Hüttmannsweg,12,,53.83666766,10.07509323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNS,24641,Sievershütten,Hüttmannsweg,27,,53.83531486,10.07313718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNW,24641,Sievershütten,Hüttmannsweg,23,,53.83574052,10.07359367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNe,24641,Sievershütten,Hüttmannsweg,30,,53.83548912,10.07273639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNk,24641,Sievershütten,Hüttmannsweg,26,,53.83592473,10.07292368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNo,24641,Sievershütten,Hüttmannsweg,24,,53.83607136,10.07316694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNs,24641,Sievershütten,Hüttmannsweg,22,,53.83618364,10.07342444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnNw,24641,Sievershütten,Hüttmannsweg,20,,53.83629182,10.07370199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnO0,24641,Sievershütten,Hüttmannsweg,21,,53.8358403,10.07381437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nnO5,24641,Sievershütten,Hüttmannsweg,19,,53.83600406,10.07404267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007noaX,24641,Sievershütten,Hüttmannsweg,17,,53.83613203,10.07435253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nob1,24641,Sievershütten,Hüttmannsweg,15,,53.83616058,10.07478719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nob5,24641,Sievershütten,Hüttmannsweg,7,,53.83671262,10.0759603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nob9,24641,Sievershütten,Hüttmannsweg,5,,53.83679089,10.07631913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nobd,24641,Sievershütten,Hüttmannsweg,3,,53.83702021,10.07657654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nobh,24641,Sievershütten,Hüttmannsweg,1,,53.83710984,10.07691477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nobl,24641,Sievershütten,Hüttmannsweg,8,,53.83679728,10.07581651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nobp,24641,Sievershütten,Hüttmannsweg,6,,53.83695792,10.07611313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nobt,24641,Sievershütten,Hüttmannsweg,4,,53.83716913,10.07638298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007noby,24641,Sievershütten,Hüttmannsweg,10,,53.8367627,10.0754188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nofB,24641,Sievershütten,Hüttmannsweg,2,,53.83728607,10.07674764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080A5o,24641,Sievershütten,Brüchhorststraße,10,c,53.84131906,10.10003775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080ztr,24641,Sievershütten,Brüchhorststraße,10,f,53.84103093,10.10022272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080ztt,24641,Sievershütten,Brüchhorststraße,10,g,53.84087616,10.10007972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084IcR,24641,Sievershütten,Ruhlohwiese,7,,53.85367116,10.13469137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Ica,24641,Sievershütten,Ruhloweg,24,,53.85388665,10.13355144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Ice,24641,Sievershütten,Ruhlohwiese,2,,53.85356452,10.13343003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Ici,24641,Sievershütten,Ruhlohwiese,4,,53.85338706,10.13373786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Icm,24641,Sievershütten,Ruhlohwiese,6,,53.85324125,10.13399078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Icq,24641,Sievershütten,Ruhloweg,26,,53.85401032,10.13438107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Icu,24641,Sievershütten,Ruhloweg,28,,53.85399957,10.13467895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Icy,24641,Sievershütten,Ruhlohwiese,1,,53.85357491,10.13372331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Id1,24641,Sievershütten,Ruhlohwiese,5,,53.8535575,10.13440282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Id5,24641,Sievershütten,Ruhlohwiese,3,,53.85342989,10.13397485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Id9,24641,Sievershütten,Heidberg,3,b,53.85286159,10.13381275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idd,24641,Sievershütten,Ruhlohwiese,8,,53.85316061,10.13424846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idh,24641,Sievershütten,Ruhlohwiese,10,,53.85327113,10.13440584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idl,24641,Sievershütten,Ruhlohwiese,12,,53.85344569,10.13465439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idp,24641,Sievershütten,Ruhlohwiese,14,,53.85362025,10.13490296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idt,24641,Sievershütten,Ruhlohwiese,16,,53.85381944,10.1351866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00084Idz,24641,Sievershütten,Ruhloweg,50,,53.85463723,10.13986965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EL7A,24641,Sievershütten,Brook,14,a,53.86271241,10.13509757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Hrd6,24641,Sievershütten,Kirchstraße,15,e,53.8395483,10.10891761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Hrd7,24641,Sievershütten,Kirchstraße,15,f,53.83949275,10.10894654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Hrd8,24641,Sievershütten,Kirchstraße,15,g,53.83943451,10.10897129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Hrd9,24641,Sievershütten,Kirchstraße,15,h,53.83938885,10.1089907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Jsvu,24641,Sievershütten,Brüchhorststraße,41,,53.83750656,10.09783581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gqlT,24641,Sievershütten,Kaltenkirchener Straße,1,a,53.84381287,10.06945799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gqlU,24641,Sievershütten,Kaltenkirchener Straße,1,b,53.84391698,10.06954617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008hI9O,24641,Sievershütten,Kalte Weide,2,,53.84564793,10.11406485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iGhH,24641,Sievershütten,Mühlenstraße,4,d,53.84210752,10.10767165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008kAAk,24641,Sievershütten,Kalte Weide,5,,53.84541146,10.11177047

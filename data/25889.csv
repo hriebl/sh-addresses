@@ -1,0 +1,683 @@
+# Amtliche Adressen für die Postleitzahl 25889
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eKOA,25889,Koldenbüttel,Büttel,7,,54.39652134,9.03306053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eKOy,25889,Koldenbüttel,Büttel,5,,54.39545254,9.03647352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eKOz,25889,Koldenbüttel,Büttel,6,,54.39623232,9.03498753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOIw,25889,Koldenbüttel,Moordeich,1,,54.39461849,8.92861399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eRLE,25889,Koldenbüttel,Platenhörn,33,,54.43036674,9.05284675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA0,25889,Koldenbüttel,Porrendeich,15,,54.42206582,8.94278309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA1,25889,Koldenbüttel,Porrendeich,16,,54.42200575,8.94333731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA2,25889,Koldenbüttel,Porrendeich,17,,54.4221526,8.94536539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA5,25889,Koldenbüttel,Porrendeich,2,,54.42180768,8.93702334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA7,25889,Koldenbüttel,Porrendeich,21,,54.42316438,8.94770412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA8,25889,Koldenbüttel,Porrendeich,22,,54.42325223,8.94906147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSA9,25889,Koldenbüttel,Porrendeich,23,,54.42223925,8.94934982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAA,25889,Koldenbüttel,Uelvesbüllerkoog,5,,54.42315516,8.92696011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAB,25889,Koldenbüttel,Uelvesbüllerkoog,6,,54.42427845,8.92850963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAC,25889,Koldenbüttel,Uelvesbüllerkoog,7,,54.42602368,8.93063348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAD,25889,Koldenbüttel,Uelvesbüllerkoog,8,,54.42732554,8.93234483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAa,25889,Koldenbüttel,Porrendeich,24,,54.42276319,8.94953087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAb,25889,Koldenbüttel,Porrendeich,25,,54.42342749,8.9510686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAc,25889,Koldenbüttel,Porrendeich,26,,54.42222224,8.95148448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAd,25889,Koldenbüttel,Porrendeich,27,,54.42254355,8.95209432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAe,25889,Koldenbüttel,Porrendeich,28,,54.42170911,8.95234253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAf,25889,Koldenbüttel,Porrendeich,29,,54.42050915,8.95374641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAg,25889,Koldenbüttel,Porrendeich,3,,54.42182091,8.93728241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAh,25889,Koldenbüttel,Porrendeich,30,,54.42023627,8.95805628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAi,25889,Koldenbüttel,Porrendeich,31,,54.42025705,8.95871362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAj,25889,Koldenbüttel,Porrendeich,32,,54.42026651,8.95886621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAk,25889,Koldenbüttel,Porrendeich,4,,54.42183507,8.93752083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAl,25889,Koldenbüttel,Porrendeich,5,,54.42185223,8.93778451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAm,25889,Koldenbüttel,Porrendeich,6,,54.42186519,8.93807461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAn,25889,Koldenbüttel,Porrendeich,7,,54.42188789,8.93838867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAo,25889,Koldenbüttel,Porrendeich,8,a,54.42190289,8.93876353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAp,25889,Koldenbüttel,Porrendeich,8,b,54.42191298,8.93897115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAq,25889,Koldenbüttel,Porrendeich,9,,54.42192973,8.93948268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAr,25889,Koldenbüttel,Schoolspäting,10,,54.4161374,8.92301489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAs,25889,Koldenbüttel,Schoolspäting,11,,54.41607803,8.9236638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAt,25889,Koldenbüttel,Schoolspäting,8,,54.415774,8.92360556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAu,25889,Koldenbüttel,Schoolspäting,9,,54.41583101,8.92292305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAv,25889,Koldenbüttel,Uelvesbüllerkoog,1,,54.41871265,8.92118333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAw,25889,Koldenbüttel,Uelvesbüllerkoog,2,,54.41858389,8.92229038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAx,25889,Koldenbüttel,Uelvesbüllerkoog,3,,54.41965724,8.92215455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAy,25889,Koldenbüttel,Uelvesbüllerkoog,4,,54.4228438,8.92644383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSAz,25889,Koldenbüttel,Uelvesbüllerkoog,4,a,54.42412595,8.92395451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyA,25889,Koldenbüttel,Achter de Diek,5,,54.41557209,8.92050036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyB,25889,Koldenbüttel,Achter de Diek,6,,54.41543328,8.92037312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyC,25889,Koldenbüttel,Achter de Diek,7,,54.41567096,8.91996775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyD,25889,Koldenbüttel,Achter de Diek,8,,54.41542783,8.91998672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyE,25889,Koldenbüttel,Achter de Diek,9,,54.41516126,8.92028416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyF,25889,Koldenbüttel,Am Sand,1,,54.41986226,8.96511803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyG,25889,Koldenbüttel,Am Sand,2,,54.4161356,8.96963324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyH,25889,Koldenbüttel,Am Sand,3,,54.41408334,8.97245651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyI,25889,Koldenbüttel,Barneckemoor,2,,54.40491652,8.92419456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyJ,25889,Koldenbüttel,Barneckemoor,3,,54.40111884,8.92326738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyK,25889,Koldenbüttel,Barneckemoor,4,,54.39981597,8.92289974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyL,25889,Koldenbüttel,Barneckemoor,5,,54.39844603,8.92273041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyM,25889,Koldenbüttel,Barneckemoor,6,,54.40391373,8.91650016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyN,25889,Koldenbüttel,Barneckemoor,7,,54.40718825,8.91660789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyO,25889,Koldenbüttel,Barneckemoor,8,,54.40901965,8.91619984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyP,25889,Koldenbüttel,Barneckemoor,9,,54.40624707,8.92260108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyQ,25889,Koldenbüttel,Bueerweg,1,,54.41765819,8.9497602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyR,25889,Koldenbüttel,Bueerweg,10,,54.4212212,8.94623104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyS,25889,Koldenbüttel,Bueerweg,10,a,54.42118208,8.94577259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyT,25889,Koldenbüttel,Bueerweg,12,,54.42190331,8.94445559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyU,25889,Koldenbüttel,Bueerweg,12,a,54.42161562,8.94557681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyV,25889,Koldenbüttel,Bueerweg,14,,54.42166943,8.94762602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyW,25889,Koldenbüttel,Bueerweg,16,,54.42226656,8.94773431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyX,25889,Koldenbüttel,Bueerweg,18,,54.42264717,8.94788871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyY,25889,Koldenbüttel,Bueerweg,2,,54.41951493,8.94854828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyZ,25889,Koldenbüttel,Bueerweg,3,,54.42110347,8.94841042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyu,25889,Koldenbüttel,Achter de Diek,1,,54.41608539,8.92072547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyv,25889,Koldenbüttel,Achter de Diek,10,,54.415028,8.91986094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyw,25889,Koldenbüttel,Achter de Diek,11,,54.41521482,8.91993181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyx,25889,Koldenbüttel,Achter de Diek,2,,54.41584235,8.92055373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyy,25889,Koldenbüttel,Achter de Diek,3,,54.41608902,8.92011239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSyz,25889,Koldenbüttel,Achter de Diek,4,,54.4159133,8.92007016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz0,25889,Koldenbüttel,Bueerweg,4,,54.4211661,8.94777077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz1,25889,Koldenbüttel,Bueerweg,5,,54.42153244,8.94817707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz2,25889,Koldenbüttel,Bueerweg,6,,54.42127027,8.94736869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz3,25889,Koldenbüttel,Bueerweg,8,,54.42125996,8.94695724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz4,25889,Koldenbüttel,Kirchspielplatz,1,,54.41682679,8.92067654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz5,25889,Koldenbüttel,Kirchspielplatz,2,,54.4167484,8.92117431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz6,25889,Koldenbüttel,Kirchspielplatz,3,,54.41653496,8.9214957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz7,25889,Koldenbüttel,Kirchspielplatz,4,,54.4166525,8.9220216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz8,25889,Koldenbüttel,Kirchspielplatz,5,,54.41622788,8.92171901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSz9,25889,Koldenbüttel,Kirchspielplatz,6,,54.41639218,8.92068904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzA,25889,Koldenbüttel,Kirchspielweg,32,,54.4178953,8.95939369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzB,25889,Koldenbüttel,Kirchspielweg,33,,54.41560408,8.96392876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzC,25889,Koldenbüttel,Kirchspielweg,4,,54.41565222,8.92602287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzD,25889,Koldenbüttel,Kirchspielweg,5,,54.41641724,8.92693326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzE,25889,Koldenbüttel,Kirchspielweg,6,,54.41624798,8.9310587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzF,25889,Koldenbüttel,Kirchspielweg,7,,54.41583833,8.93222346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzG,25889,Koldenbüttel,Kirchspielweg,8,,54.41574319,8.93470336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzH,25889,Koldenbüttel,Kirchspielweg,9,,54.4156808,8.93607736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzI,25889,Koldenbüttel,Moordeich,2,,54.40120371,8.94219629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzJ,25889,Koldenbüttel,Moordeich,3,,54.41248761,8.9734014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzK,25889,Koldenbüttel,Munleyweg-Schiedhörn,1,,54.39671093,8.91481939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzL,25889,Koldenbüttel,Munleyweg-Schiedhörn,2,,54.39615988,8.9155795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzM,25889,Koldenbüttel,Munleyweg-Schiedhörn,3,,54.39583556,8.91567393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzN,25889,Koldenbüttel,Op de Bloek,1,,54.4151095,8.92106921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzO,25889,Koldenbüttel,Op de Bloek,2,,54.41517985,8.92150284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzP,25889,Koldenbüttel,Op de Bloek,3,,54.41525965,8.92182382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzQ,25889,Koldenbüttel,Op de Bloek,4,,54.41549321,8.92191994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzR,25889,Koldenbüttel,Op de Bloek,5,,54.4156745,8.92185488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzS,25889,Koldenbüttel,Op de Bloek,7,,54.4153222,8.92116029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzT,25889,Koldenbüttel,Porrendeich,1,,54.42173971,8.93677969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzU,25889,Koldenbüttel,Porrendeich,10,,54.42202423,8.94059401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzV,25889,Koldenbüttel,Porrendeich,11,,54.42200473,8.94121107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzW,25889,Koldenbüttel,Porrendeich,11,a,54.42200272,8.94092623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzX,25889,Koldenbüttel,Porrendeich,12,,54.42202504,8.94182466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzY,25889,Koldenbüttel,Porrendeich,13,,54.42203617,8.94240734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzZ,25889,Koldenbüttel,Porrendeich,14,,54.42204909,8.94260961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSza,25889,Koldenbüttel,Kirchspielplatz,7,,54.41639183,8.92035887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzb,25889,Koldenbüttel,Kirchspielweg,1,,54.41549523,8.9246391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzc,25889,Koldenbüttel,Kirchspielweg,10,,54.41539924,8.93666314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzd,25889,Koldenbüttel,Kirchspielweg,11,,54.4148242,8.93710726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSze,25889,Koldenbüttel,Kirchspielweg,12,,54.41479731,8.93754387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzf,25889,Koldenbüttel,Kirchspielweg,13,,54.41477717,8.93793565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzg,25889,Koldenbüttel,Kirchspielweg,14,,54.41534146,8.93836133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzh,25889,Koldenbüttel,Kirchspielweg,15,,54.41527216,8.93862167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzi,25889,Koldenbüttel,Kirchspielweg,16,,54.41520515,8.93953393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzj,25889,Koldenbüttel,Kirchspielweg,17,,54.41408856,8.94100605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzk,25889,Koldenbüttel,Kirchspielweg,18,,54.41461282,8.94138604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzl,25889,Koldenbüttel,Kirchspielweg,19,,54.41434545,8.94344275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzm,25889,Koldenbüttel,Kirchspielweg,2,,54.41565807,8.92530599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzn,25889,Koldenbüttel,Kirchspielweg,20,,54.41239397,8.94304024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzo,25889,Koldenbüttel,Kirchspielweg,21,,54.41219865,8.94425758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzp,25889,Koldenbüttel,Kirchspielweg,22,,54.41385937,8.94514063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzq,25889,Koldenbüttel,Kirchspielweg,23,,54.41391268,8.94566572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzr,25889,Koldenbüttel,Kirchspielweg,24,,54.41358767,8.94669236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzs,25889,Koldenbüttel,Kirchspielweg,25,,54.41351702,8.94728523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzt,25889,Koldenbüttel,Kirchspielweg,26,,54.41359979,8.94872772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzu,25889,Koldenbüttel,Kirchspielweg,27,,54.41420275,8.9496819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzv,25889,Koldenbüttel,Kirchspielweg,28,,54.41464269,8.95228184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzw,25889,Koldenbüttel,Kirchspielweg,29,,54.41467044,8.95380965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzx,25889,Koldenbüttel,Kirchspielweg,3,,54.41569174,8.92557649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzy,25889,Koldenbüttel,Kirchspielweg,30,,54.41479165,8.95490215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eSzz,25889,Koldenbüttel,Kirchspielweg,31,,54.41628615,8.95882352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPT,25889,Koldenbüttel,Dorfstraße,1,,54.39898077,8.98464831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPU,25889,Koldenbüttel,Dorfstraße,10,,54.40026627,8.98502934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPV,25889,Koldenbüttel,Dorfstraße,11,,54.40057623,8.98477007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPW,25889,Koldenbüttel,Dorfstraße,12,,54.40040845,8.98513696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPX,25889,Koldenbüttel,Dorfstraße,13,,54.40069942,8.98497296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPY,25889,Koldenbüttel,Dorfstraße,14,,54.40049005,8.9851782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTPZ,25889,Koldenbüttel,Dorfstraße,15,,54.40081708,8.98507912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ0,25889,Koldenbüttel,Dorfstraße,16,,54.40056517,8.98520813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ1,25889,Koldenbüttel,Dorfstraße,17,,54.40096727,8.98508247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ3,25889,Koldenbüttel,Dorfstraße,19,,54.40105326,8.98507229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ4,25889,Koldenbüttel,Dorfstraße,2,,54.39836304,8.98523768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ6,25889,Koldenbüttel,Dorfstraße,21,,54.40118427,8.98496371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ7,25889,Koldenbüttel,Dorfstraße,22,,54.40077278,8.9852608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ8,25889,Koldenbüttel,Dorfstraße,22,a,54.40084737,8.98526492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQ9,25889,Koldenbüttel,Dorfstraße,23,,54.40126034,8.9848776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQA,25889,Koldenbüttel,Dorfstraße,5,,54.39959791,8.9840632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQB,25889,Koldenbüttel,Dorfstraße,50,,54.40485777,8.98150768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQC,25889,Koldenbüttel,Dorfstraße,52,,54.40509905,8.98079064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQD,25889,Koldenbüttel,Dorfstraße,54,,54.40569235,8.98011474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQE,25889,Koldenbüttel,Dorfstraße,6,,54.39880983,8.98481886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQF,25889,Koldenbüttel,Dorfstraße,6,a,54.39967067,8.98483145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQG,25889,Koldenbüttel,Dorfstraße,7,,54.40026361,8.98477661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQH,25889,Koldenbüttel,Dorfstraße,8,,54.4000909,8.98491426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQI,25889,Koldenbüttel,Dorfstraße,8,a,54.40013681,8.98493857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQJ,25889,Koldenbüttel,Dorfstraße,9,,54.4004468,8.98496968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQK,25889,Koldenbüttel,Adzenweg,1,,54.39717629,8.9863659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQL,25889,Koldenbüttel,Adzenweg,2,,54.39728459,8.98589279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQM,25889,Koldenbüttel,Adzenweg,3,,54.39698479,8.98630316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQN,25889,Koldenbüttel,Adzenweg,4,,54.39708416,8.98581769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQO,25889,Koldenbüttel,Babensweg,1,,54.39697152,8.98736339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQP,25889,Koldenbüttel,Babensweg,2,,54.39705465,8.98702664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQQ,25889,Koldenbüttel,Babensweg,3,,54.39677006,8.98719033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQR,25889,Koldenbüttel,Babensweg,4,,54.39687288,8.98705904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQS,25889,Koldenbüttel,Büttel,1,,54.39158604,9.01289379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQT,25889,Koldenbüttel,Büttel,2,,54.39187963,9.01547632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQU,25889,Koldenbüttel,Büttel,3,,54.39394867,9.02187072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQV,25889,Koldenbüttel,Büttel,4,,54.39819033,9.02736038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQW,25889,Koldenbüttel,Büttel,5,,54.39856726,9.0281456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQX,25889,Koldenbüttel,Büttel,6,,54.40135258,9.02989869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQY,25889,Koldenbüttel,Büttel,7,,54.39440109,9.025468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQZ,25889,Koldenbüttel,Flöhdorfer Weg,1,,54.39580278,9.00587932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQa,25889,Koldenbüttel,Dorfstraße,24,,54.40096871,8.9852649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQb,25889,Koldenbüttel,Dorfstraße,25,,54.40134688,8.98477016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQc,25889,Koldenbüttel,Dorfstraße,26,,54.40109237,8.98526478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQd,25889,Koldenbüttel,Dorfstraße,27,,54.40141223,8.98468958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQe,25889,Koldenbüttel,Dorfstraße,28,,54.40121062,8.98514956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQf,25889,Koldenbüttel,Dorfstraße,29,,54.40152016,8.98453917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQg,25889,Koldenbüttel,Dorfstraße,3,,54.39915937,8.98466085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQh,25889,Koldenbüttel,Dorfstraße,30,,54.40127044,8.9850884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQi,25889,Koldenbüttel,Dorfstraße,31,,54.40160157,8.98434047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQk,25889,Koldenbüttel,Dorfstraße,32,,54.40135637,8.98499715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQl,25889,Koldenbüttel,Dorfstraße,33,,54.40172609,8.98389445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQm,25889,Koldenbüttel,Dorfstraße,34,,54.40163205,8.98466602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQn,25889,Koldenbüttel,Dorfstraße,35,,54.40379911,8.98176074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQo,25889,Koldenbüttel,Dorfstraße,36,,54.40170626,8.98445012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQp,25889,Koldenbüttel,Dorfstraße,37,,54.40396791,8.98163024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQq,25889,Koldenbüttel,Dorfstraße,38,,54.40177566,8.9842456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQr,25889,Koldenbüttel,Dorfstraße,39,,54.40469699,8.98097414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQs,25889,Koldenbüttel,Dorfstraße,4,,54.39860609,8.98473206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQt,25889,Koldenbüttel,Dorfstraße,40,,54.40218928,8.9840119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQu,25889,Koldenbüttel,Dorfstraße,42,,54.40300983,8.98345195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQv,25889,Koldenbüttel,Dorfstraße,44,,54.40331778,8.98330773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQw,25889,Koldenbüttel,Dorfstraße,44,a,54.40316678,8.98371155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQx,25889,Koldenbüttel,Dorfstraße,46,,54.40405542,8.98215156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQy,25889,Koldenbüttel,Dorfstraße,46,a,54.40449653,8.98194706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTQz,25889,Koldenbüttel,Dorfstraße,48,,54.40471967,8.98167638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR0,25889,Koldenbüttel,Flöhdorfer Weg,2,,54.39607337,9.00612196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR1,25889,Koldenbüttel,Flöhdorfer Weg,3,,54.39672003,9.00700006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR2,25889,Koldenbüttel,Flöhdorfer Weg,4,,54.39858817,9.00796004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR3,25889,Koldenbüttel,Flöhdorfer Weg,5,,54.40057161,9.01085109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR4,25889,Koldenbüttel,Flöhdorfer Weg,6,,54.40113506,9.01201622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR5,25889,Koldenbüttel,Geschwister Lorenzen-Weg,1,,54.39753224,8.99174164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR6,25889,Koldenbüttel,Geschwister Lorenzen-Weg,10,,54.39662829,8.99031496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR7,25889,Koldenbüttel,Geschwister Lorenzen-Weg,11,,54.39652541,8.99134015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR8,25889,Koldenbüttel,Geschwister Lorenzen-Weg,12,,54.39672487,8.98987119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTR9,25889,Koldenbüttel,Geschwister Lorenzen-Weg,13,,54.39637477,8.99104224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRA,25889,Koldenbüttel,Gertzweg,6,,54.39566803,8.99227248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRB,25889,Koldenbüttel,Gertzweg,8,,54.39561276,8.9922395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRC,25889,Koldenbüttel,Glockensteg,1,,54.40035988,8.98331676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRD,25889,Koldenbüttel,Glockensteg,10,,54.40097678,8.98674968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRE,25889,Koldenbüttel,Glockensteg,2,,54.40032832,8.98442239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRF,25889,Koldenbüttel,Glockensteg,2,a,54.40037174,8.98431712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRG,25889,Koldenbüttel,Glockensteg,3,,54.40028886,8.98452563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRH,25889,Koldenbüttel,Glockensteg,4,,54.39987247,8.98594044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRI,25889,Koldenbüttel,Glockensteg,5,,54.39985311,8.98623107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRJ,25889,Koldenbüttel,Glockensteg,6,,54.39971797,8.98590733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRK,25889,Koldenbüttel,Glockensteg,8,,54.40047176,8.98640183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRL,25889,Koldenbüttel,Harderweg,1,,54.39760291,8.98529279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRM,25889,Koldenbüttel,Harderweg,2,,54.39744026,8.98519566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRN,25889,Koldenbüttel,Harderweg,3,,54.39720468,8.98505171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRO,25889,Koldenbüttel,Harderweg,4,,54.39732905,8.98476257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRP,25889,Koldenbüttel,Ingeborg Andresen-Weg,1,,54.39774885,8.9907651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRQ,25889,Koldenbüttel,Ingeborg Andresen-Weg,2,,54.39781452,8.9904075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRR,25889,Koldenbüttel,Ingeborg Andresen-Weg,3,,54.39748457,8.99069057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRS,25889,Koldenbüttel,Ingeborg Andresen-Weg,4,,54.39759363,8.99026999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRT,25889,Koldenbüttel,Ingeborg Andresen-Weg,5,,54.39728271,8.99046446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRU,25889,Koldenbüttel,Ingeborg Andresen-Weg,6,,54.39733614,8.99012258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRV,25889,Koldenbüttel,Kirchenweg,1,,54.39939442,8.9858045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRW,25889,Koldenbüttel,Kirchenweg,10,,54.39855796,8.98844793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRX,25889,Koldenbüttel,Kirchenweg,11,,54.39874881,8.98928173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRY,25889,Koldenbüttel,Kirchenweg,12,,54.39846381,8.98884351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRZ,25889,Koldenbüttel,Kirchenweg,13,,54.39856097,8.98984867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRa,25889,Koldenbüttel,Geschwister Lorenzen-Weg,2,,54.39759218,8.99136485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRb,25889,Koldenbüttel,Geschwister Lorenzen-Weg,3,,54.39724005,8.9917561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRc,25889,Koldenbüttel,Geschwister Lorenzen-Weg,4,,54.39737999,8.99120543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRd,25889,Koldenbüttel,Geschwister Lorenzen-Weg,5,,54.39721032,8.99205358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRe,25889,Koldenbüttel,Geschwister Lorenzen-Weg,5,a,54.39699435,8.99193893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRf,25889,Koldenbüttel,Geschwister Lorenzen-Weg,5,b,54.39693393,8.99227347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRg,25889,Koldenbüttel,Geschwister Lorenzen-Weg,6,,54.39712053,8.99113401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRh,25889,Koldenbüttel,Geschwister Lorenzen-Weg,7,,54.39703067,8.99144954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRi,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,,54.39658035,8.99073747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRj,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,a,54.39665169,8.99078052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRk,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,b,54.39673158,8.99082861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRl,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,c,54.39696338,8.99030111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRm,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,d,54.3969425,8.99040138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRn,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,e,54.39691993,8.99050982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRo,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,f,54.39689441,8.99063262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRp,25889,Koldenbüttel,Geschwister Lorenzen-Weg,8,g,54.39687451,8.9907284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRq,25889,Koldenbüttel,Geschwister Lorenzen-Weg,9,,54.39678707,8.99137493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRr,25889,Koldenbüttel,Gertzweg,1,,54.39609815,8.99144263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRs,25889,Koldenbüttel,Gertzweg,10,,54.39552773,8.992221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRt,25889,Koldenbüttel,Gertzweg,12,,54.39547416,8.9921888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRu,25889,Koldenbüttel,Gertzweg,14,,54.39585341,8.99198572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRv,25889,Koldenbüttel,Gertzweg,16,,54.3956641,8.99168028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRw,25889,Koldenbüttel,Gertzweg,2,,54.39578922,8.99237767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRx,25889,Koldenbüttel,Gertzweg,3,,54.39589346,8.99141666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRy,25889,Koldenbüttel,Gertzweg,4,,54.39574134,8.99234887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTRz,25889,Koldenbüttel,Gertzweg,5,,54.39572423,8.99131011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS0,25889,Koldenbüttel,Kirchenweg,14,,54.39824985,8.98973191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS1,25889,Koldenbüttel,Kirchenweg,14,a,54.39823304,8.98984904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS2,25889,Koldenbüttel,Kirchenweg,14,b,54.39820014,8.98994644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS3,25889,Koldenbüttel,Kirchenweg,14,c,54.39809791,8.99002417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS4,25889,Koldenbüttel,Kirchenweg,14,d,54.39803153,8.98999663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS5,25889,Koldenbüttel,Kirchenweg,14,e,54.39796475,8.98993319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS6,25889,Koldenbüttel,Kirchenweg,15,,54.39853364,8.98996852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS7,25889,Koldenbüttel,Kirchenweg,16,,54.39808049,8.99048311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS8,25889,Koldenbüttel,Kirchenweg,17,,54.39848703,8.99019296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTS9,25889,Koldenbüttel,Kirchenweg,18,,54.39795292,8.99100838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSA,25889,Koldenbüttel,Kirchenweg,9,,54.39893302,8.9886841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSB,25889,Koldenbüttel,Kirchspielplatz,2,,54.3989708,8.98538711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSC,25889,Koldenbüttel,Kirchspielplatz,3,,54.39917022,8.98545147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSD,25889,Koldenbüttel,Ludwig-Oesau-Weg,1,,54.39993158,8.99304206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSE,25889,Koldenbüttel,Ludwig-Oesau-Weg,2,,54.400038,8.99259755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSF,25889,Koldenbüttel,Ludwig-Oesau-Weg,3,,54.39993158,8.99304206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSG,25889,Koldenbüttel,Ludwig-Oesau-Weg,4,,54.40035676,8.99265666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSH,25889,Koldenbüttel,Ludwig-Oesau-Weg,4,a,54.40043485,8.99271424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSI,25889,Koldenbüttel,Ludwig-Oesau-Weg,5,,54.40015306,8.99298529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSJ,25889,Koldenbüttel,Ludwig-Oesau-Weg,7,,54.40036625,8.99317511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSK,25889,Koldenbüttel,Margarete-Peters-Weg,1,,54.3978019,8.98950407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSL,25889,Koldenbüttel,Margarete-Peters-Weg,1,a,54.39779727,8.98968868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSM,25889,Koldenbüttel,Margarete-Peters-Weg,10,,54.39726473,8.98855358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSN,25889,Koldenbüttel,Margarete-Peters-Weg,11,,54.39701289,8.98786729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSO,25889,Koldenbüttel,Margarete-Peters-Weg,12,,54.39734795,8.9881518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSP,25889,Koldenbüttel,Margarete-Peters-Weg,13,,54.39717151,8.98761969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSQ,25889,Koldenbüttel,Margarete-Peters-Weg,14,,54.39741183,8.98789156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSR,25889,Koldenbüttel,Margarete-Peters-Weg,14,a,54.39743748,8.98776506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSS,25889,Koldenbüttel,Margarete-Peters-Weg,15,,54.39727736,8.98710831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTST,25889,Koldenbüttel,Margarete-Peters-Weg,16,,54.39752648,8.98744031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSU,25889,Koldenbüttel,Margarete-Peters-Weg,17,,54.39738783,8.9865679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSV,25889,Koldenbüttel,Margarete-Peters-Weg,18,,54.39758132,8.98702924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSW,25889,Koldenbüttel,Margarete-Peters-Weg,19,,54.39752858,8.98586266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSX,25889,Koldenbüttel,Margarete-Peters-Weg,2,,54.39818791,8.98924417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSY,25889,Koldenbüttel,Margarete-Peters-Weg,2,a,54.39823402,8.98929491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSZ,25889,Koldenbüttel,Margarete-Peters-Weg,2,b,54.39830624,8.98932501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSa,25889,Koldenbüttel,Kirchenweg,19,,54.39842742,8.99043799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSb,25889,Koldenbüttel,Kirchenweg,2,,54.39901685,8.9866274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSc,25889,Koldenbüttel,Kirchenweg,2,a,54.3986262,8.98595804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSd,25889,Koldenbüttel,Kirchenweg,20,,54.39785196,8.99145627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSe,25889,Koldenbüttel,Kirchenweg,21,,54.3983508,8.99077561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSf,25889,Koldenbüttel,Kirchenweg,22,,54.39778205,8.9919426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSg,25889,Koldenbüttel,Kirchenweg,23,,54.39829543,8.99108501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSh,25889,Koldenbüttel,Kirchenweg,24,,54.39771068,8.99241859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSi,25889,Koldenbüttel,Kirchenweg,25,,54.39819805,8.99145781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSj,25889,Koldenbüttel,Kirchenweg,26,,54.39750605,8.99273377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSk,25889,Koldenbüttel,Kirchenweg,27,,54.39811681,8.99182062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSl,25889,Koldenbüttel,Kirchenweg,29,,54.39803467,8.99215956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSm,25889,Koldenbüttel,Kirchenweg,3,,54.39933437,8.98644927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSn,25889,Koldenbüttel,Kirchenweg,3,a,54.39935477,8.98668217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSo,25889,Koldenbüttel,Kirchenweg,31,,54.3979705,8.99248266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSp,25889,Koldenbüttel,Kirchenweg,33,,54.39789534,8.99280172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSq,25889,Koldenbüttel,Kirchenweg,34,,54.39483263,9.00565066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSr,25889,Koldenbüttel,Kirchenweg,35,,54.39110395,9.00730089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSs,25889,Koldenbüttel,Kirchenweg,36,,54.39094301,9.00655806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSt,25889,Koldenbüttel,Kirchenweg,37,,54.39066932,9.00729487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSu,25889,Koldenbüttel,Kirchenweg,39,,54.39037498,9.00757296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSv,25889,Koldenbüttel,Kirchenweg,4,,54.39887621,8.9871723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSw,25889,Koldenbüttel,Kirchenweg,5,,54.39919885,8.98697977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSx,25889,Koldenbüttel,Kirchenweg,6,,54.39879736,8.98761568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSy,25889,Koldenbüttel,Kirchenweg,7,a,54.39917156,8.9874205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTSz,25889,Koldenbüttel,Kirchenweg,8,,54.39867087,8.987982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT0,25889,Koldenbüttel,Margarete-Peters-Weg,2,c,54.39815133,8.98890034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT1,25889,Koldenbüttel,Margarete-Peters-Weg,2,d,54.39813242,8.98901587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT2,25889,Koldenbüttel,Margarete-Peters-Weg,2,e,54.39810085,8.98916657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT3,25889,Koldenbüttel,Margarete-Peters-Weg,20,,54.39767111,8.98666896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT4,25889,Koldenbüttel,Margarete-Peters-Weg,22,,54.39774268,8.98631278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT5,25889,Koldenbüttel,Margarete-Peters-Weg,24,,54.39781905,8.98591115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT6,25889,Koldenbüttel,Margarete-Peters-Weg,26,,54.39792367,8.98552359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT7,25889,Koldenbüttel,Margarete-Peters-Weg,28,,54.39801244,8.98510312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT8,25889,Koldenbüttel,Margarete-Peters-Weg,3,,54.39764406,8.9892988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTT9,25889,Koldenbüttel,Margarete-Peters-Weg,4,,54.39790929,8.98902794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTA,25889,Koldenbüttel,Parkweg,10,,54.40184252,8.98351114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTB,25889,Koldenbüttel,Parkweg,2,,54.40189728,8.98212791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTC,25889,Koldenbüttel,Parkweg,3,,54.40034832,8.98267456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTD,25889,Koldenbüttel,Parkweg,3,a,54.40030878,8.98281991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTE,25889,Koldenbüttel,Parkweg,3,b,54.40038845,8.98239538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTF,25889,Koldenbüttel,Parkweg,4,,54.40213598,8.98224487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTG,25889,Koldenbüttel,Parkweg,5,,54.40045054,8.98206687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTH,25889,Koldenbüttel,Parkweg,7,,54.4005194,8.98179245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTI,25889,Koldenbüttel,Parkweg,8,,54.4019324,8.98311224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTJ,25889,Koldenbüttel,Platenhoern,1,,54.43098005,9.05265957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTK,25889,Koldenbüttel,Reimersbude,1,,54.38425177,9.00320845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTL,25889,Koldenbüttel,Reimersbude,1,a,54.37702357,9.00017435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTM,25889,Koldenbüttel,Reimersbude,1,b,54.37695634,8.99964804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTN,25889,Koldenbüttel,Reimersbude,12,,54.38129295,9.00689714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTO,25889,Koldenbüttel,Reimersbude,13,,54.3819775,9.00699038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTP,25889,Koldenbüttel,Reimersbude,14,,54.38209401,9.0076646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTQ,25889,Koldenbüttel,Reimersbude,15,,54.38151698,9.00746919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTR,25889,Koldenbüttel,Reimersbude,16,,54.38052243,9.00777364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTS,25889,Koldenbüttel,Reimersbude,17,,54.37981234,9.00636162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTT,25889,Koldenbüttel,Reimersbude,18,,54.37948068,9.00558673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTU,25889,Koldenbüttel,Reimersbude,19,,54.38081018,9.00802957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTV,25889,Koldenbüttel,Reimersbude,2,,54.38880137,9.00673735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTW,25889,Koldenbüttel,Reimersbude,3,,54.38854974,9.00669412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTX,25889,Koldenbüttel,Reimersbude,4,,54.38836212,9.00662782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTY,25889,Koldenbüttel,Reimersbude,5,,54.38878822,9.0057334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTZ,25889,Koldenbüttel,Reimersbude,6,,54.38790134,9.00759676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTa,25889,Koldenbüttel,Margarete-Peters-Weg,5,,54.39744328,8.98912697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTb,25889,Koldenbüttel,Margarete-Peters-Weg,6,,54.3977846,8.98881456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTc,25889,Koldenbüttel,Margarete-Peters-Weg,7,,54.39720535,8.98903474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTd,25889,Koldenbüttel,Margarete-Peters-Weg,8,,54.39756521,8.98866268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTe,25889,Koldenbüttel,Margarete-Peters-Weg,9,,54.39693521,8.98896736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTf,25889,Koldenbüttel,Lenschweg,1,,54.39874091,8.98530634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTg,25889,Koldenbüttel,Lenschweg,2,,54.39867105,8.98489382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTh,25889,Koldenbüttel,Lenschweg,3,,54.39870974,8.9854743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTi,25889,Koldenbüttel,Mewes-Ovens-Weg,1,,54.39623326,8.99072454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTj,25889,Koldenbüttel,Mewes-Ovens-Weg,2,,54.39629567,8.99033524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTk,25889,Koldenbüttel,Mewes-Ovens-Weg,3,,54.39602896,8.99054416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTl,25889,Koldenbüttel,Mewes-Ovens-Weg,4,,54.39609337,8.9902105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTm,25889,Koldenbüttel,Mewes-Ovens-Weg,5,,54.39585098,8.99053762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTn,25889,Koldenbüttel,Mewes-Ovens-Weg,6,,54.395949,8.99009353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTo,25889,Koldenbüttel,Moordeich,1,,54.41004458,8.9688907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTp,25889,Koldenbüttel,Moordeich,2,,54.40804684,8.96274299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTq,25889,Koldenbüttel,Nordenderweg,1,,54.40439281,8.98239789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTr,25889,Koldenbüttel,Nordenderweg,10,,54.40682548,8.98605529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTs,25889,Koldenbüttel,Nordenderweg,2,,54.40382101,8.98285663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTt,25889,Koldenbüttel,Nordenderweg,2,a,54.40417776,8.98333361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTu,25889,Koldenbüttel,Nordenderweg,3,,54.40448609,8.98287332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTv,25889,Koldenbüttel,Nordenderweg,4,,54.40454408,8.98387221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTw,25889,Koldenbüttel,Nordenderweg,6,,54.40508281,8.98434792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTx,25889,Koldenbüttel,Nordenderweg,6,a,54.40600173,8.98515495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTy,25889,Koldenbüttel,Nordenderweg,8,,54.40650422,8.98569404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTTz,25889,Koldenbüttel,Parkweg,1,,54.40018345,8.98320678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU0,25889,Koldenbüttel,Reimersbude,7,,54.38684062,9.00622781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU1,25889,Koldenbüttel,Reimersbude,8,,54.38663903,9.00448704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU2,25889,Koldenbüttel,Reimersbude,9,,54.38504376,9.00429392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU3,25889,Koldenbüttel,Rosenmarkt,1,,54.4014524,8.98491689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU4,25889,Koldenbüttel,Rosenmarkt,2,,54.40151046,8.98499671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU5,25889,Koldenbüttel,Rosenmarkt,3,,54.40156921,8.98507623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU6,25889,Koldenbüttel,Rosenmarkt,4,,54.40163205,8.9850945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU7,25889,Koldenbüttel,Rosenmarkt,5,,54.40165912,8.98493423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU8,25889,Koldenbüttel,Weidenallee,1,,54.39871379,8.98428148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTU9,25889,Koldenbüttel,Weidenallee,10,,54.39941195,8.98243495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUA,25889,Koldenbüttel,Büttelweg,1,,54.39719359,9.03046984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUB,25889,Koldenbüttel,Dingbülldeich,1,,54.41439829,9.03214117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUC,25889,Koldenbüttel,Dingbülldeich,10,,54.41386785,9.04318088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUD,25889,Koldenbüttel,Dingbülldeich,2,,54.41390665,9.0409778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUE,25889,Koldenbüttel,Dingbülldeich,3,,54.41323984,9.04249532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUF,25889,Koldenbüttel,Dingbülldeich,8,,54.41310741,9.04370795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUG,25889,Koldenbüttel,Haimoordeich,1,,54.42157457,8.9717087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUH,25889,Koldenbüttel,Haimoordeich,2,,54.4205963,8.98027292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUI,25889,Koldenbüttel,Haimoordeich,3,,54.41991306,8.98379149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUJ,25889,Koldenbüttel,Haimoordeich,4,,54.41775565,8.99447488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUK,25889,Koldenbüttel,Haimoordeich,5,,54.42104108,8.99600441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUL,25889,Koldenbüttel,Haimoordeich,6,,54.41586357,9.00103289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUM,25889,Koldenbüttel,Haimoordeich,7,,54.41538062,9.00253974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUN,25889,Koldenbüttel,Alte Festwiese,1,,54.39648369,8.98871697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUO,25889,Koldenbüttel,Alte Festwiese,2,,54.3968353,8.98853016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUP,25889,Koldenbüttel,Alte Festwiese,3,,54.3965471,8.9883756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUQ,25889,Koldenbüttel,Alte Festwiese,4,,54.3966661,8.98792261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUR,25889,Koldenbüttel,Alte Festwiese,5,,54.39654921,8.98785731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUS,25889,Koldenbüttel,Haimoorweg,1,,54.4128412,8.97493336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUT,25889,Koldenbüttel,Haimoorweg,2,,54.41327453,8.97769789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUU,25889,Koldenbüttel,Haimoorweg,3,,54.41331151,8.9778406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUV,25889,Koldenbüttel,Stockenstieg,1,,54.39935381,8.98836464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUW,25889,Koldenbüttel,Stockenstieg,10,,54.39940607,8.98951727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUX,25889,Koldenbüttel,Stockenstieg,11,,54.39987383,8.99007055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUY,25889,Koldenbüttel,Stockenstieg,12,,54.39916985,8.98939923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUZ,25889,Koldenbüttel,Stockenstieg,13,,54.39984965,8.99037085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUa,25889,Koldenbüttel,Weidenallee,2,,54.39896541,8.98428392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUb,25889,Koldenbüttel,Weidenallee,3,,54.39899636,8.98255985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUc,25889,Koldenbüttel,Weidenallee,4,,54.39931518,8.983698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUd,25889,Koldenbüttel,Weidenallee,8,,54.39939139,8.98257174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUe,25889,Koldenbüttel,Westerdeich,1,,54.41684122,9.0042053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUf,25889,Koldenbüttel,Westerdeich,2,,54.41722681,9.00488334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUg,25889,Koldenbüttel,Westerdeich,3,,54.41819847,9.0068969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUh,25889,Koldenbüttel,Westerdeich,4,,54.4200085,9.01088249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUi,25889,Koldenbüttel,Westerdeich,5,,54.42133297,9.01431346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUj,25889,Koldenbüttel,Westerdeich,6,,54.42335266,9.01793486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUk,25889,Koldenbüttel,Westerdeich,7,,54.42636787,9.01809621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUl,25889,Koldenbüttel,Westerdeich,9,,54.42768975,9.01772686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUm,25889,Koldenbüttel,Sand,1,,54.41137088,8.97392928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUn,25889,Koldenbüttel,Sand,2,,54.41204602,8.97374447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUo,25889,Koldenbüttel,Sand,4,,54.41510341,8.97225062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUp,25889,Koldenbüttel,Sand,5,,54.42498698,8.96691975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUq,25889,Koldenbüttel,Springerallee,1,,54.3968248,8.98949108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUr,25889,Koldenbüttel,Springerallee,2,,54.39705577,8.98991682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUs,25889,Koldenbüttel,Springerallee,3,,54.3970846,8.98966785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUu,25889,Koldenbüttel,Thomas-Jensen-Weg,2,,54.39654261,8.98929928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUw,25889,Koldenbüttel,Thomas-Jensen-Weg,4,,54.39629692,8.98915178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUx,25889,Koldenbüttel,Ahlsenhofweg,1,,54.38525547,9.02554377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUy,25889,Koldenbüttel,Behmweg,1,,54.39202458,9.02048595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTUz,25889,Koldenbüttel,Behmweg,2,,54.39171168,9.02873509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV0,25889,Koldenbüttel,Stockenstieg,14,,54.39909284,8.98978281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV1,25889,Koldenbüttel,Stockenstieg,15,,54.39969727,8.99075741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV2,25889,Koldenbüttel,Stockenstieg,16,,54.39937283,8.98999512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV3,25889,Koldenbüttel,Stockenstieg,17,,54.3995485,8.99106348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV4,25889,Koldenbüttel,Stockenstieg,18,,54.39927366,8.99038915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV5,25889,Koldenbüttel,Stockenstieg,19,,54.39945156,8.99131121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV6,25889,Koldenbüttel,Stockenstieg,20,,54.39963106,8.99028192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV7,25889,Koldenbüttel,Stockenstieg,21,,54.39940615,8.99159307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV8,25889,Koldenbüttel,Stockenstieg,22,,54.39945183,8.99065258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTV9,25889,Koldenbüttel,Stockenstieg,23,,54.39933484,8.99188698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVA,25889,Koldenbüttel,Leglichkeit,2,,54.42421287,9.02880695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVF,25889,Koldenbüttel,Mühlendeich,1,,54.42472334,8.97247071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVH,25889,Koldenbüttel,Mühlendeich,4,,54.42045298,8.96564356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVI,25889,Koldenbüttel,Norddeich,19,,54.41856647,9.05774823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVJ,25889,Koldenbüttel,Norddeich,20,,54.41936456,9.05569446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVK,25889,Koldenbüttel,Norddeich,21,,54.41956094,9.05521578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVL,25889,Koldenbüttel,Norddeich,22,,54.42044,9.05313258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVM,25889,Koldenbüttel,Niederweg,1,,54.38417141,8.99415182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVN,25889,Koldenbüttel,Obbenskoogweg,1,,54.42712747,8.98302407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVO,25889,Koldenbüttel,Obbenskoogweg,2,,54.42668188,8.9869359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVP,25889,Koldenbüttel,Platenhörner Deich,1,,54.41503958,9.03193158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVQ,25889,Koldenbüttel,Platenhörner Deich,2,,54.41566815,9.0324051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVR,25889,Koldenbüttel,Platenhörner Deich,3,,54.4193438,9.03483967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVS,25889,Koldenbüttel,Platenhörner Deich,4,,54.42302091,9.04099861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVT,25889,Koldenbüttel,Platenhörner Deich,5,,54.42913374,9.05147433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVU,25889,Koldenbüttel,Riesbülldeich,1,,54.40129822,9.01277121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVV,25889,Koldenbüttel,Riesbülldeich,2,,54.40225346,9.01617063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVW,25889,Koldenbüttel,Riesbülldeich,3,,54.40166267,9.02539152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVX,25889,Koldenbüttel,Riesbülldeich,4,,54.40439529,9.02728936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVY,25889,Koldenbüttel,Riesbülldeich,5,,54.40155725,9.02719249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVZ,25889,Koldenbüttel,Riesbülldeich,6,,54.40257573,9.03057174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVa,25889,Koldenbüttel,Stockenstieg,24,,54.39927404,8.99088032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVb,25889,Koldenbüttel,Stockenstieg,26,,54.39922048,8.99118382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVc,25889,Koldenbüttel,Stockenstieg,27,,54.39927479,8.99256054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVd,25889,Koldenbüttel,Stockenstieg,28,,54.39916802,8.99150633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVe,25889,Koldenbüttel,Stockenstieg,29,,54.39925897,8.99287529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVf,25889,Koldenbüttel,Stockenstieg,3,,54.39968351,8.98865669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVg,25889,Koldenbüttel,Stockenstieg,30,,54.39908278,8.99182616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVh,25889,Koldenbüttel,Stockenstieg,31,,54.399109,8.99289158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVi,25889,Koldenbüttel,Stockenstieg,32,,54.39896463,8.99209873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVj,25889,Koldenbüttel,Stockenstieg,33,,54.39891478,8.99286229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVk,25889,Koldenbüttel,Stockenstieg,34,,54.398863,8.99248406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVl,25889,Koldenbüttel,Stockenstieg,35,,54.39870538,8.9928379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVm,25889,Koldenbüttel,Stockenstieg,4,,54.39956809,8.98904173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVn,25889,Koldenbüttel,Stockenstieg,5,,54.39990204,8.98873973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVo,25889,Koldenbüttel,Stockenstieg,6,,54.3997909,8.98938253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVp,25889,Koldenbüttel,Stockenstieg,7,,54.40006619,8.98900656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVq,25889,Koldenbüttel,Stockenstieg,8,,54.39960553,8.98976822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVr,25889,Koldenbüttel,Stockenstieg,9,,54.40002771,8.98945708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVs,25889,Koldenbüttel,Ingwershörner Deich,1,,54.4143158,9.00541342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVt,25889,Koldenbüttel,Ingwershörner Deich,2,,54.41251358,9.01319587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVu,25889,Koldenbüttel,Ingwershörner Deich,3,,54.41335121,9.02058712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVv,25889,Koldenbüttel,Ingwershörner Deich,4,,54.41406932,9.02739315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVw,25889,Koldenbüttel,Ingwershörner Deich,5,,54.41432378,9.03100909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVx,25889,Koldenbüttel,Ingwershörner Deich,5,a,54.41430459,9.03081507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVy,25889,Koldenbüttel,Katersweg,1,,54.42489829,9.02076374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTVz,25889,Koldenbüttel,Leglichkeit,1,,54.4193994,9.025875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW0,25889,Koldenbüttel,Riesbülldeich,7,,54.40124439,9.0309067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW1,25889,Koldenbüttel,Walldeich,1,,54.40624841,9.00493797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW2,25889,Koldenbüttel,Walldeich,2,,54.40641384,9.00592515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW3,25889,Koldenbüttel,Walldeich,3,,54.40591325,9.00801509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW4,25889,Koldenbüttel,Walldeich,4,,54.40490973,9.00864184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW5,25889,Koldenbüttel,Siethwende,10,,54.40337398,8.95334745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW6,25889,Koldenbüttel,Siethwende,11,,54.40356175,8.95242471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW7,25889,Koldenbüttel,Siethwende,2,,54.38501353,9.00105461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW8,25889,Koldenbüttel,Siethwende,3,,54.38610173,8.99914232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTW9,25889,Koldenbüttel,Siethwende,4,,54.3869126,8.99682494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWA,25889,Koldenbüttel,Süderohlfelderweg,1,c,54.39618546,8.99276675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWB,25889,Koldenbüttel,Süderohlfelderweg,2,,54.39540423,8.99280631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWC,25889,Koldenbüttel,Süderohlfelderweg,3,,54.3913228,8.99346376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWD,25889,Koldenbüttel,Taterbergweg,1,,54.39573571,9.00766741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWE,25889,Koldenbüttel,Taterbergweg,2,,54.39310116,9.01040115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWF,25889,Koldenbüttel,Am Rodelberg,1,,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWG,25889,Koldenbüttel,Am Rodelberg,1,a,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWH,25889,Koldenbüttel,Am Rodelberg,1,b,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWI,25889,Koldenbüttel,Am Rodelberg,1,c,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWJ,25889,Koldenbüttel,Am Rodelberg,1,d,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWK,25889,Koldenbüttel,Am Rodelberg,1,e,54.40063384,8.98985244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWL,25889,Koldenbüttel,Am Rodelberg,10,,54.40061786,8.98910952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWM,25889,Koldenbüttel,Am Rodelberg,12,,54.40099717,8.98942072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWN,25889,Koldenbüttel,Am Rodelberg,2,,54.40039723,8.98983724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWO,25889,Koldenbüttel,Am Rodelberg,6,,54.40047146,8.98951207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWP,25889,Koldenbüttel,Am Rodelberg,8,,54.40049323,8.98941947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWQ,25889,Koldenbüttel,Eiderstedter Straße,1,,54.40024847,8.99034296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWR,25889,Koldenbüttel,Eiderstedter Straße,11,,54.39981436,8.99231241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWS,25889,Koldenbüttel,Eiderstedter Straße,13,,54.39968912,8.99276508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWT,25889,Koldenbüttel,Eiderstedter Straße,15,,54.39958166,8.99306452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWU,25889,Koldenbüttel,Eiderstedter Straße,2,,54.40048691,8.99056943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWV,25889,Koldenbüttel,Eiderstedter Straße,3,,54.40021048,8.99059414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWW,25889,Koldenbüttel,Eiderstedter Straße,4,,54.40037687,8.99104311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWX,25889,Koldenbüttel,Eiderstedter Straße,5,,54.40007611,8.99114116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWY,25889,Koldenbüttel,Eiderstedter Straße,6,,54.40010418,8.99209652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWZ,25889,Koldenbüttel,Eiderstedter Straße,7,,54.39997731,8.9916444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWa,25889,Koldenbüttel,Siethwende,5,,54.38794844,8.9953525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWb,25889,Koldenbüttel,Siethwende,6,,54.39178629,8.98344958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWc,25889,Koldenbüttel,Siethwende,7,,54.39281561,8.98054448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWd,25889,Koldenbüttel,Siethwende,8,,54.40280572,8.95343658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWe,25889,Koldenbüttel,Süden,1,,54.39769618,8.98469754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWf,25889,Koldenbüttel,Süden,10,,54.39400782,8.98471293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWg,25889,Koldenbüttel,Süden,11,,54.39319451,8.98245826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWh,25889,Koldenbüttel,Süden,12,,54.39243847,8.98393688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWi,25889,Koldenbüttel,Süden,13,,54.39250453,8.98185983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWj,25889,Koldenbüttel,Süden,14,,54.39127868,8.98283988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWk,25889,Koldenbüttel,Süden,15,,54.39159111,8.98105209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWl,25889,Koldenbüttel,Süden,16,,54.39136223,8.97990234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWm,25889,Koldenbüttel,Süden,17,,54.39015841,8.98109975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWn,25889,Koldenbüttel,Süden,18,,54.38887537,8.98087143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWo,25889,Koldenbüttel,Süden,19,,54.38820271,8.9787751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWp,25889,Koldenbüttel,Süden,2,,54.39811144,8.98279263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWq,25889,Koldenbüttel,Süden,20,,54.38829543,8.97650838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWr,25889,Koldenbüttel,Süden,3,,54.39754286,8.98323762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWs,25889,Koldenbüttel,Süden,4,,54.39662064,8.98383381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWt,25889,Koldenbüttel,Süden,5,,54.39698653,8.9817105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWu,25889,Koldenbüttel,Süden,7,,54.39520406,8.9836034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWv,25889,Koldenbüttel,Süden,8,,54.39506498,8.98459946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWw,25889,Koldenbüttel,Süden,9,,54.39468926,8.98402281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWx,25889,Koldenbüttel,Süderohlfelderweg,1,,54.39682406,8.99268879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWy,25889,Koldenbüttel,Süderohlfelderweg,1,a,54.39652494,8.99280376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTWz,25889,Koldenbüttel,Süderohlfelderweg,1,b,54.39703512,8.99295266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX0,25889,Koldenbüttel,Eiderstedter Straße,9,,54.39989422,8.99203678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX1,25889,Koldenbüttel,Pastor-Eggers-Weg,2,,54.4009074,8.99034792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX2,25889,Koldenbüttel,Pastor-Eggers-Weg,3,,54.40090813,8.99111899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX3,25889,Koldenbüttel,Pastor-Eggers-Weg,4,,54.40101947,8.98989968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX4,25889,Koldenbüttel,Pastor-Eggers-Weg,5,,54.40103572,8.99063385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX5,25889,Koldenbüttel,Pastor-Eggers-Weg,7,,54.40111195,8.99022708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX6,25889,Koldenbüttel,Pastor-Eggers-Weg,9,,54.40128432,8.98961259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX7,25889,Koldenbüttel,Hans-Knutz-Weg,1,,54.4002001,8.99186206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX8,25889,Koldenbüttel,Hans-Knutz-Weg,2,,54.40030544,8.99147894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTX9,25889,Koldenbüttel,Hans-Knutz-Weg,3,,54.40044028,8.9919469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTXa,25889,Koldenbüttel,Hans-Knutz-Weg,4,,54.40058053,8.99159729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTXb,25889,Koldenbüttel,Hans-Knutz-Weg,5,,54.4006585,8.99206397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eTXc,25889,Koldenbüttel,Hans-Knutz-Weg,6,,54.4007476,8.99161031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DU0A,25889,Koldenbüttel,Am Rodelberg,18,,54.40143094,8.9882053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DU0H,25889,Koldenbüttel,Am Rodelberg,16,,54.40138092,8.98837316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IfSD,25889,Koldenbüttel,Süden,6,,54.39706738,8.98042544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IgtD,25889,Koldenbüttel,Schoolspäting,1,,54.4161396,8.92251045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KkPm,25889,Koldenbüttel,Dingbülldeich,4,,54.4130202,9.04458003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MkX4,25889,Koldenbüttel,Am Rodelberg,28,,54.40195634,8.98622385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004PsYs,25889,Koldenbüttel,Barneckemoor,5,a,54.3979924,8.92235337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SADf,25889,Koldenbüttel,Bueerweg,20,,54.42293549,8.94796881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SADk,25889,Koldenbüttel,Bueerweg,19,,54.42274912,8.9475656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SEOA,25889,Koldenbüttel,Weidenallee,6,,54.39934394,8.98354294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SEON,25889,Koldenbüttel,Dorfstraße,33,a,54.40152876,8.98380973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Tn9w,25889,Koldenbüttel,Katersweg,1,a,54.42501485,9.02085827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z6Ue,25889,Koldenbüttel,Dorfstraße,18,,54.40063329,8.98534494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z6Ul,25889,Koldenbüttel,Dorfstraße,20,,54.40064156,8.98522391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056Leu,25889,Koldenbüttel,Schoolspäting,7,,54.41556549,8.92354061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ENI1,25889,Koldenbüttel,Kirchspielplatz,2,a,54.41704343,8.92151872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EqFA,25889,Koldenbüttel,Porrendeich,20,,54.42410093,8.94738085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EqOL,25889,Koldenbüttel,Porrendeich,19,,54.42256321,8.94572052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Erwz,25889,Koldenbüttel,Porrendeich,18,,54.42234117,8.94562717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RNn4,25889,Koldenbüttel,Am Rodelberg,20,a,54.40152945,8.987751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Yfva,25889,Koldenbüttel,Sand,6,,54.42172016,8.96956807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lXBT,25889,Koldenbüttel,Parkweg,6,,54.40208024,8.98262397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lXE2,25889,Koldenbüttel,Parkweg,6,b,54.40199875,8.98256266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lXEd,25889,Koldenbüttel,Parkweg,6,a,54.40195595,8.98280687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mVIh,25889,Koldenbüttel,Am Rodelberg,24,,54.40177469,8.98699759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mVIq,25889,Koldenbüttel,Am Rodelberg,17,,54.40182135,8.98771383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005osG9,25889,Koldenbüttel,Gertzweg,1,a,54.39619576,8.99205256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYG,25889,Koldenbüttel,Am Rodelberg,15,,54.40168949,8.98812888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYJ,25889,Koldenbüttel,Am Rodelberg,25,,54.40222312,8.98595043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYO,25889,Koldenbüttel,Am Rodelberg,30,,54.40208863,8.98579577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYR,25889,Koldenbüttel,Am Rodelberg,19,,54.40189711,8.98723806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYT,25889,Koldenbüttel,Am Rodelberg,22,,54.40162166,8.98743102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYX,25889,Koldenbüttel,Am Rodelberg,14,,54.40126004,8.98882057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhYy,25889,Koldenbüttel,Am Rodelberg,26,,54.4018582,8.98662872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZ3,25889,Koldenbüttel,Am Rodelberg,13,,54.40153477,8.98861451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZ6,25889,Koldenbüttel,Am Rodelberg,27,,54.4023544,8.98552262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZ9,25889,Koldenbüttel,Am Rodelberg,23,,54.40213432,8.98633145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZc,25889,Koldenbüttel,Am Rodelberg,11,,54.40144234,8.98905425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZf,25889,Koldenbüttel,Am Rodelberg,32,,54.40221158,8.98527204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZi,25889,Koldenbüttel,Am Rodelberg,21,,54.40199694,8.98685774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZl,25889,Koldenbüttel,Am Rodelberg,31,,54.40250114,8.98457377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZo,25889,Koldenbüttel,Am Rodelberg,29,,54.40242107,8.98503216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yhZv,25889,Koldenbüttel,Am Rodelberg,20,,54.40149911,8.98786933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063ndL,25889,Koldenbüttel,Schoolspäting,6,,54.41544235,8.92320692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000652VO,25889,Koldenbüttel,Kirchenweg,7,,54.39892891,8.98798606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ISTY,25889,Koldenbüttel,Schoolspäting,5,,54.415438,8.9228393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q38C,25889,Koldenbüttel,Schoolspäting,3,,54.41555928,8.92247439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q38w,25889,Koldenbüttel,Schoolspäting,2,,54.41587444,8.9225702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rrss,25889,Koldenbüttel,Kirchspielplatz,5,a,54.41601369,8.9210707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TpPG,25889,Koldenbüttel,Geschwister Lorenzen-Weg,15,,54.39647778,8.98973533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006TpRo,25889,Koldenbüttel,Thomas-Jensen-Weg,1,,54.39621058,8.98942123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WARZ,25889,Koldenbüttel,Am Rodelberg,14,a,54.40128603,8.98872752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WjNT,25889,Koldenbüttel,Pastor-Eggers-Weg,1,,54.40071702,8.99093745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WjNU,25889,Koldenbüttel,Pastor-Eggers-Weg,1,a,54.40069288,8.99103165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cBp5,25889,Koldenbüttel,Kirchenweg,7,b,54.39906809,8.98803364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006hOvt,25889,Koldenbüttel,Bueerweg,10,b,54.4212208,8.9465587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745IB,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,9,,54.39535756,8.99132182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745IE,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,7,,54.39533585,8.99174613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745IJ,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,11,,54.39545032,8.99105907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745IM,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,1,,54.39505876,8.99282093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745IR,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,3,,54.39521901,8.99249102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745Is,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,13,,54.3955222,8.99075433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745Iv,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,5,,54.395246,8.99214962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000745Iy,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,15,,54.39559975,8.99047954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078UYN,25889,Koldenbüttel,Roggenweg,35,a,54.77886979,8.83497236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Buhj,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,15,a,54.39562584,8.9903543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CSKO,25889,Koldenbüttel,Norddeich,25,,54.42067848,9.04371309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CSKR,25889,Koldenbüttel,Norddeich,26,,54.42065271,9.03822143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CSKU,25889,Koldenbüttel,Norddeich,24,,54.4208031,9.04781934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CSL1,25889,Koldenbüttel,Norddeich,23,,54.42044101,9.04929387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FNFm,25889,Koldenbüttel,Uhlebüller Straße,30,a,54.79390305,8.83037542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FNnU,25889,Koldenbüttel,Hungerfennenweg,7,a,54.79011146,8.82521525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FNnV,25889,Koldenbüttel,Hungerfennenweg,7,b,54.79011146,8.82521525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MahD,25889,Koldenbüttel,Am Rodelberg,34,a,54.40227626,8.9850539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MahE,25889,Koldenbüttel,Am Rodelberg,34,b,54.40230829,8.98493048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007SiFs,25889,Koldenbüttel,Norddeich,21,a,54.41962062,9.05506656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mvn6,25889,Koldenbüttel,Schoolspäting,4,,54.41532346,8.92244201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mvn8,25889,Koldenbüttel,Schoolspäting,4,a,54.41532505,8.92229624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089v7T,25889,Koldenbüttel,Hauptstraße,78,a,54.79329045,8.91043798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CFNy,25889,Koldenbüttel,Büttel,6,a,54.39627904,9.03476924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F7ui,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,25,a,54.39614889,8.98852401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F7up,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,27,a,54.39636759,8.98785564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F7uq,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,27,b,54.39640328,8.98767336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F7ur,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,27,c,54.39644262,8.98747251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F7uy,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,29,,54.39638211,8.98729149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Iq9i,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,9,a,54.39533047,8.99145202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008f5Xm,25889,Koldenbüttel,Porrendeich,22,a,54.42309819,8.9499884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiFF,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,23,,54.39603226,8.98877947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiFP,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,25,,54.39616195,8.98837488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiFX,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,17,,54.3957571,8.98990613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiG2,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,19,,54.39579224,8.98955269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fiG7,25889,Koldenbüttel,Bürgermeister-Berendt-Weg,21,,54.39591389,8.98915317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008tr2X,25889,Koldenbüttel,Norddeich,24,a,54.4208099,9.04736952

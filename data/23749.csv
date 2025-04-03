@@ -1,0 +1,458 @@
+# Amtliche Adressen für die Postleitzahl 23749
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C08X,23749,Grube,Bürgermeister-Höppner-Straße,1,,54.22426711,11.03528692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C08Y,23749,Grube,Bürgermeister-Höppner-Straße,3,,54.22401443,11.03650085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C08Z,23749,Grube,Fährkamp,1,,54.23600269,11.03462826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C090,23749,Grube,Fährkamp,2,,54.23745744,11.03638067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C091,23749,Grube,Fährkamp,2,a,54.23767216,11.03754868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C092,23749,Grube,Fährkamp,3,,54.23753981,11.03501387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C093,23749,Grube,Fährkamp,4,,54.23771452,11.03590063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C094,23749,Grube,Fährkamp,4,a,54.23772781,11.03612066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C095,23749,Grube,Fährkamp,5,,54.23814033,11.03465923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C096,23749,Grube,Fährkamp,6,,54.24071268,11.03392702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C097,23749,Grube,Fährkamp,7,,54.23911379,11.03390613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C098,23749,Grube,Fährkamp,9,,54.23934089,11.03372128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C099,23749,Grube,Flachsweg,1,,54.22878823,11.03372229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09A,23749,Grube,Hauptstraße,14,,54.23496093,11.03613644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09B,23749,Grube,Hauptstraße,15,,54.23438385,11.03574398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09C,23749,Grube,Hauptstraße,16,,54.23463445,11.03608248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09D,23749,Grube,Hauptstraße,17,,54.23427804,11.03576806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09E,23749,Grube,Hauptstraße,18,,54.23440953,11.03594418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09F,23749,Grube,Hauptstraße,19,,54.23412184,11.03566103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09G,23749,Grube,Hauptstraße,20,,54.23423873,11.03598687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09H,23749,Grube,Hauptstraße,21,,54.23381274,11.03586053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09I,23749,Grube,Hauptstraße,22,,54.23417518,11.03602184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09J,23749,Grube,Hauptstraße,23,,54.23362782,11.03589116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09K,23749,Grube,Hauptstraße,24,,54.23402677,11.03603959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09L,23749,Grube,Hauptstraße,26,,54.23371068,11.03608503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09M,23749,Grube,Hauptstraße,27,,54.23301575,11.03595748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09N,23749,Grube,Hauptstraße,28,,54.2335066,11.0361157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09O,23749,Grube,Hauptstraße,29,,54.23281938,11.03588238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09P,23749,Grube,Hauptstraße,3,,54.23529263,11.03471705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09Q,23749,Grube,Hauptstraße,30,,54.23334419,11.03613516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09R,23749,Grube,Hauptstraße,31,,54.23263405,11.03592728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09S,23749,Grube,Hauptstraße,32,,54.23318752,11.03615739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09T,23749,Grube,Hauptstraße,33,,54.23248166,11.03599297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09U,23749,Grube,Hauptstraße,34,,54.23300193,11.03617607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09V,23749,Grube,Hauptstraße,35,,54.23233686,11.03593832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09W,23749,Grube,Hauptstraße,36,,54.23282157,11.03619149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09X,23749,Grube,Hauptstraße,37,,54.23211259,11.03590693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09Y,23749,Grube,Hauptstraße,38,,54.23256345,11.03633043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09Z,23749,Grube,Hauptstraße,39,,54.23191097,11.03600357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09a,23749,Grube,Flachsweg,10,,54.22859332,11.03492547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09b,23749,Grube,Flachsweg,12,,54.22875726,11.03502631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09c,23749,Grube,Flachsweg,14,,54.2289541,11.03479238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09d,23749,Grube,Flachsweg,16,,54.229104,11.03502906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09e,23749,Grube,Flachsweg,2,,54.22857784,11.03391423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09f,23749,Grube,Flachsweg,3,,54.22892701,11.03399335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09g,23749,Grube,Flachsweg,4,,54.2286632,11.03414295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09h,23749,Grube,Flachsweg,5,,54.22900554,11.03427055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09i,23749,Grube,Flachsweg,6,,54.22875875,11.03439829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09j,23749,Grube,Flachsweg,7,,54.22911404,11.034495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09k,23749,Grube,Flachsweg,8,,54.22857244,11.03460965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09l,23749,Grube,Flachsweg,9,,54.22944538,11.03517896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09m,23749,Grube,Ortsteil Gruberdieken,999,,54.23134256,11.04743203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09n,23749,Grube,Gruberdieken,1,,54.23029331,11.05001912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09o,23749,Grube,Gruberdieken,1,a,54.23020699,11.05088039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09p,23749,Grube,Gruberdieken,2,,54.23088679,11.0453448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09q,23749,Grube,Gruberdieken,3,,54.23017692,11.05121049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09r,23749,Grube,Gruberdieken,4,,54.23039507,11.04655735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09s,23749,Grube,Gruberdieken,5,,54.23003957,11.05154296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09t,23749,Grube,Gruberdieken,7,,54.23001206,11.05173844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09u,23749,Grube,Gruberdieken,8,,54.22974374,11.05204767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09w,23749,Grube,Hauptstraße,10,,54.23514584,11.03576974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09x,23749,Grube,Hauptstraße,11,,54.2347657,11.03563445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09y,23749,Grube,Hauptstraße,12,,54.23506023,11.0359187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C09z,23749,Grube,Hauptstraße,13,,54.23452714,11.03568322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a0,23749,Grube,Hauptstraße,4,,54.23548903,11.03508296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a1,23749,Grube,Hauptstraße,40,,54.23220125,11.03624114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a2,23749,Grube,Hauptstraße,41,,54.23178699,11.03594111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a3,23749,Grube,Hauptstraße,42,,54.23202417,11.03622748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a4,23749,Grube,Hauptstraße,43,,54.23164298,11.03594022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a5,23749,Grube,Hauptstraße,44,,54.23188739,11.03621316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a6,23749,Grube,Hauptstraße,45,,54.23152463,11.03595394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a7,23749,Grube,Hauptstraße,46,,54.23170132,11.03619507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a8,23749,Grube,Hauptstraße,47,,54.23135886,11.0359028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0a9,23749,Grube,Hauptstraße,48,,54.23152507,11.03627693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aA,23749,Grube,Hauptstraße,8,a,54.23528788,11.03567872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aB,23749,Grube,Hauptstraße,81,,54.22675342,11.03448365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aC,23749,Grube,Hauptstraße,83,,54.22654837,11.03437202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aD,23749,Grube,Hauptstraße,85,,54.22628467,11.03422519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aE,23749,Grube,Hauptstraße,87,,54.22602956,11.03411812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aF,23749,Grube,Hauptstraße,9,,54.23492363,11.03562232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aG,23749,Grube,Bei der Kirche,1,,54.23554055,11.03445989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aH,23749,Grube,Bei der Kirche,11,,54.23545314,11.03324137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aI,23749,Grube,Bei der Kirche,13,,54.23547387,11.0326633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aJ,23749,Grube,Bei der Kirche,15,,54.23553556,11.0324453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aK,23749,Grube,Bei der Kirche,16,,54.23529638,11.03193084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aL,23749,Grube,Bei der Kirche,17,,54.23558425,11.03222167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aM,23749,Grube,Bei der Kirche,18,,54.23574182,11.0316111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aN,23749,Grube,Bei der Kirche,18,a,54.23580251,11.03120325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aO,23749,Grube,Bei der Kirche,18,b,54.23581743,11.03110037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aP,23749,Grube,Bei der Kirche,19,,54.23514954,11.03097527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aQ,23749,Grube,Bei der Kirche,19,a,54.2349806,11.0310898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aR,23749,Grube,Bei der Kirche,2,,54.23530368,11.0338945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aS,23749,Grube,Bei der Kirche,20,,54.23479167,11.03153248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aT,23749,Grube,Bei der Kirche,23,,54.23475055,11.03198842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aU,23749,Grube,Bei der Kirche,23,a,54.23467142,11.03185009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aV,23749,Grube,Bei der Kirche,3,,54.23552837,11.03409729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aW,23749,Grube,Bei der Kirche,4,,54.23526425,11.03355019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aX,23749,Grube,Bei der Kirche,5,,54.23551111,11.03386206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aY,23749,Grube,Bei der Kirche,6,,54.23480941,11.03327022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aZ,23749,Grube,Bei der Kirche,7,,54.23548937,11.03368674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aa,23749,Grube,Hauptstraße,5,,54.23526011,11.03506129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ab,23749,Grube,Hauptstraße,50,,54.23132288,11.03615112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ac,23749,Grube,Hauptstraße,52,,54.23118075,11.03613528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ad,23749,Grube,Hauptstraße,53,,54.23070128,11.03591728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ae,23749,Grube,Hauptstraße,54,,54.23074096,11.03613185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0af,23749,Grube,Hauptstraße,54,a,54.23045065,11.03622951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ag,23749,Grube,Hauptstraße,55,,54.23013971,11.03599546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ah,23749,Grube,Hauptstraße,56,,54.22998002,11.03644921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ai,23749,Grube,Hauptstraße,57,,54.22988343,11.03607368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aj,23749,Grube,Hauptstraße,58,,54.22884865,11.03613371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ak,23749,Grube,Hauptstraße,59,,54.22946494,11.03599524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0al,23749,Grube,Hauptstraße,6,,54.23541956,11.03528434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0am,23749,Grube,Hauptstraße,60,,54.22850378,11.03618128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0an,23749,Grube,Hauptstraße,61,,54.22927721,11.03597089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ao,23749,Grube,Hauptstraße,62,,54.22833382,11.03624572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ap,23749,Grube,Hauptstraße,63,,54.22908021,11.03591249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aq,23749,Grube,Hauptstraße,65,,54.22889516,11.03585804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ar,23749,Grube,Hauptstraße,67,,54.22861512,11.03577687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0as,23749,Grube,Hauptstraße,69,,54.22840372,11.0357236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0at,23749,Grube,Hauptstraße,7,,54.23520802,11.0352762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0au,23749,Grube,Hauptstraße,71,,54.22820328,11.03569199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0av,23749,Grube,Hauptstraße,73,,54.22800159,11.035593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0aw,23749,Grube,Hauptstraße,75,,54.22782324,11.03550209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ax,23749,Grube,Hauptstraße,77,,54.22737353,11.03518195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ay,23749,Grube,Hauptstraße,79,,54.22695698,11.03459543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0az,23749,Grube,Hauptstraße,8,,54.23536307,11.03546492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b0,23749,Grube,Bei der Kirche,8,,54.23517879,11.03317798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b1,23749,Grube,Bei der Kirche,9,,54.23546898,11.03349691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b3,23749,Grube,Johannes-Stricker-Ring,10,,54.23001289,11.03902653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b4,23749,Grube,Johannes-Stricker-Ring,11,,54.23063439,11.03795541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b5,23749,Grube,Johannes-Stricker-Ring,12,,54.23021754,11.03900037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b6,23749,Grube,Johannes-Stricker-Ring,13,,54.23065985,11.03784856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b7,23749,Grube,Johannes-Stricker-Ring,14,,54.23010486,11.03928557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b8,23749,Grube,Johannes-Stricker-Ring,15,,54.23072076,11.03820201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0b9,23749,Grube,Johannes-Stricker-Ring,16,,54.23019093,11.03967797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bA,23749,Grube,Konzerberg,17,,54.22571996,11.03745787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bB,23749,Grube,Konzerberg,18,,54.22587595,11.0354415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bC,23749,Grube,Konzerberg,19,,54.22578738,11.03782428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bD,23749,Grube,Konzerberg,2,,54.22576728,11.03488824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bE,23749,Grube,Konzerberg,20,,54.22571897,11.03547385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bF,23749,Grube,Konzerberg,21,,54.22584338,11.03820289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bG,23749,Grube,Konzerberg,22,,54.22572153,11.03606977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bH,23749,Grube,Konzerberg,24,,54.22576337,11.03635886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bI,23749,Grube,Konzerberg,26,,54.22585888,11.03664805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bJ,23749,Grube,Konzerberg,28,,54.22585577,11.03695059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bK,23749,Grube,Konzerberg,3,,54.22544049,11.03487685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bL,23749,Grube,Konzerberg,30,,54.22596671,11.03719551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bM,23749,Grube,Konzerberg,32,,54.22601501,11.03754568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bN,23749,Grube,Konzerberg,34,,54.22603122,11.03789455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bO,23749,Grube,Konzerberg,36,,54.22606389,11.03821282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bP,23749,Grube,Konzerberg,4,,54.22580685,11.03488903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bQ,23749,Grube,Konzerberg,5,,54.22544141,11.03497653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bR,23749,Grube,Konzerberg,6,,54.22598626,11.03485782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bS,23749,Grube,Konzerberg,7,,54.22545861,11.03543816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bT,23749,Grube,Konzerberg,8,,54.22615451,11.0348838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bU,23749,Grube,Konzerberg,9,,54.22548649,11.03586382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bV,23749,Grube,Leinenweg,1,,54.2282557,11.03396776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bW,23749,Grube,Leinenweg,2,,54.22801621,11.03393592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bX,23749,Grube,Leinenweg,3,,54.22827667,11.03445025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bY,23749,Grube,Leinenweg,4,,54.22801194,11.03419957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bZ,23749,Grube,Leinenweg,5,,54.22828164,11.0347705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ba,23749,Grube,Johannes-Stricker-Ring,17,,54.23060331,11.03860439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bb,23749,Grube,Johannes-Stricker-Ring,18,,54.23033417,11.03925181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bc,23749,Grube,Johannes-Stricker-Ring,19,,54.23078472,11.03859047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bd,23749,Grube,Johannes-Stricker-Ring,2,,54.22995616,11.03807604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0be,23749,Grube,Johannes-Stricker-Ring,20,,54.23035429,11.03973021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bf,23749,Grube,Johannes-Stricker-Ring,21,,54.23081531,11.03897786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bg,23749,Grube,Johannes-Stricker-Ring,22,,54.2305316,11.03963329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bh,23749,Grube,Johannes-Stricker-Ring,23,,54.23060584,11.0389988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bi,23749,Grube,Johannes-Stricker-Ring,24,,54.23050196,11.03924405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bj,23749,Grube,Johannes-Stricker-Ring,25,,54.23075132,11.0392782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bk,23749,Grube,Johannes-Stricker-Ring,26,,54.23068831,11.03955108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bl,23749,Grube,Johannes-Stricker-Ring,3,,54.23029553,11.03791892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bm,23749,Grube,Johannes-Stricker-Ring,4,,54.23002248,11.03826057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bn,23749,Grube,Johannes-Stricker-Ring,5,,54.2302898,11.03780358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bo,23749,Grube,Johannes-Stricker-Ring,6,,54.23020589,11.03867439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bp,23749,Grube,Johannes-Stricker-Ring,7,,54.23045363,11.03795501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bq,23749,Grube,Johannes-Stricker-Ring,8,,54.23000222,11.03867653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0br,23749,Grube,Johannes-Stricker-Ring,9,,54.2305,11.0383438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bs,23749,Grube,Konzerberg,1,,54.22502684,11.03476369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bt,23749,Grube,Konzerberg,10,,54.22625602,11.03497557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bu,23749,Grube,Konzerberg,11,,54.22552616,11.03624688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bv,23749,Grube,Konzerberg,12,,54.22626229,11.03526515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bw,23749,Grube,Konzerberg,13,,54.22557762,11.03665916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bx,23749,Grube,Konzerberg,14,,54.22616264,11.03535834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0by,23749,Grube,Konzerberg,15,,54.22564436,11.03704415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0bz,23749,Grube,Konzerberg,16,,54.22606103,11.0353647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c0,23749,Grube,Leinenweg,6,,54.22796133,11.03453342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c1,23749,Grube,Leinenweg,8,,54.22804583,11.03478274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c2,23749,Grube,Muchelsdorf,1,,54.24712131,11.0314356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c3,23749,Grube,Muchelsdorf,3,,54.24714845,11.03178643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c4,23749,Grube,Muchelsdorf,5,,54.24711184,11.03214914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c5,23749,Grube,Muchelsdorf,7,,54.2471053,11.03251286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c6,23749,Grube,Muchelsdorf,9,,54.24708334,11.03288775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c7,23749,Grube,Ortsteil Gut Rosenfelde,999,,54.26543779,11.05972945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c8,23749,Grube,Rosenfelde,1,,54.26479347,11.07102542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0c9,23749,Grube,Rosenfelde,10,,54.26591386,11.05607446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cA,23749,Grube,Rosenhof,3,,54.25392198,11.03029203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cB,23749,Grube,Rosenhof,4,,54.25327807,11.03126997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cC,23749,Grube,Rosenhof,5,,54.25395835,11.0301865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cD,23749,Grube,Rosenhof,6,,54.2535574,11.03079209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cE,23749,Grube,Rosenhof,7,,54.25402523,11.03000244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cF,23749,Grube,Rosenhof,8,,54.25360827,11.03064824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cG,23749,Grube,Rosenhof,9,,54.2540664,11.02986937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cH,23749,Grube,Ortsteil Siggeneben,999,,54.25764429,11.05123489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cI,23749,Grube,Siggeneben,1,,54.25735477,11.04170142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cJ,23749,Grube,Siggeneben,1,a,54.25740701,11.04182848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cK,23749,Grube,Siggeneben,10,,54.25732144,11.05207644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cL,23749,Grube,Siggeneben,11,,54.25701678,11.05025978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cM,23749,Grube,Siggeneben,12,,54.25771257,11.05252663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cN,23749,Grube,Siggeneben,13,,54.25701106,11.0514523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cO,23749,Grube,Siggeneben,15,,54.25792735,11.05223178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cP,23749,Grube,Siggeneben,2,,54.2565285,11.04945062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cQ,23749,Grube,Siggeneben,3,,54.25769679,11.04919117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cR,23749,Grube,Siggeneben,4,,54.25646936,11.05040903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cS,23749,Grube,Siggeneben,5,,54.2574799,11.04927895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cT,23749,Grube,Siggeneben,5,a,54.25744876,11.04945531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cU,23749,Grube,Siggeneben,6,,54.25651875,11.05108075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cV,23749,Grube,Siggeneben,7,,54.25677607,11.04962742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cW,23749,Grube,Siggeneben,8,,54.25725872,11.05203813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cX,23749,Grube,Siggeneben,9,,54.2567179,11.05013231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cY,23749,Grube,Singelkamp,1,,54.23397191,11.03760604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cZ,23749,Grube,Singelkamp,10,,54.23322938,11.03780956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ca,23749,Grube,Rosenfelde,11,,54.26503917,11.06944152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cb,23749,Grube,Rosenfelde,13,,54.26487218,11.06198928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cc,23749,Grube,Rosenfelde,15,,54.26495097,11.06073059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cd,23749,Grube,Rosenfelde,2,,54.26533749,11.06922976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ce,23749,Grube,Rosenfelde,3,,54.26490272,11.07052544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cf,23749,Grube,Rosenfelde,4,,54.26532944,11.06910385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cg,23749,Grube,Rosenfelde,5,,54.26519949,11.07000686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ch,23749,Grube,Rosenfelde,6,,54.26589222,11.05663753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ci,23749,Grube,Rosenfelde,7,,54.26518932,11.0698747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cj,23749,Grube,Rosenfelde,8,,54.26589866,11.05637534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ck,23749,Grube,Rosenfelde,9,,54.26513413,11.06941392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cl,23749,Grube,Ortsteil Rosenfelder Strand,999,,54.26512015,11.07703079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cm,23749,Grube,Rosenfelder Strand,1,,54.26511795,11.07762735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cn,23749,Grube,Rosenfelder Strand,2,,54.25567385,11.07743583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0co,23749,Grube,Rosenfelder Strand,3,,54.26609243,11.08129474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cp,23749,Grube,Rosenfelder Strand,4,,54.25245304,11.07760834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cq,23749,Grube,Ortsteil Rosenhof,999,,54.25303914,11.03072486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cr,23749,Grube,Rosenhof,1,,54.25191336,11.03555015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cs,23749,Grube,Rosenhof,10,,54.25376121,11.03021524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ct,23749,Grube,Rosenhof,11,,54.25417887,11.02954102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cu,23749,Grube,Rosenhof,13,,54.25421733,11.02942679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cv,23749,Grube,Rosenhof,15,,54.25427034,11.02926936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cw,23749,Grube,Rosenhof,17,,54.25436018,11.02900134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cx,23749,Grube,Rosenhof,19,,54.2544335,11.0287931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cy,23749,Grube,Rosenhof,2,,54.25284353,11.02917908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0cz,23749,Grube,Rosenhof,2,a,54.25286655,11.02928273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d0,23749,Grube,Singelkamp,11,,54.23327441,11.03741181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d1,23749,Grube,Singelkamp,12,,54.23288741,11.03907986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d2,23749,Grube,Singelkamp,13,,54.2331192,11.0374141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d3,23749,Grube,Singelkamp,13,a,54.23295307,11.0374146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d4,23749,Grube,Singelkamp,14,,54.23285203,11.03773112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d5,23749,Grube,Singelkamp,15,,54.23277499,11.03739785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d6,23749,Grube,Singelkamp,16,,54.23260907,11.03773842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d7,23749,Grube,Singelkamp,17,,54.23268619,11.03707864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d8,23749,Grube,Singelkamp,18,,54.23241269,11.03776086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0d9,23749,Grube,Singelkamp,19,,54.23256683,11.03678307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dA,23749,Grube,Singelkamp,8,,54.23349751,11.03787054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dB,23749,Grube,Singelkamp,9,,54.23342117,11.03738467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dC,23749,Grube,Weberkamp,10,,54.22802412,11.03338168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dD,23749,Grube,Weberkamp,11,,54.22596465,11.03350506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dE,23749,Grube,Weberkamp,12,,54.22784056,11.03334483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dF,23749,Grube,Weberkamp,13,,54.22574156,11.03382463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dG,23749,Grube,Weberkamp,14,a,54.22763615,11.03332582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dH,23749,Grube,Weberkamp,14,b,54.2277082,11.03333801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dI,23749,Grube,Weberkamp,16,,54.22751275,11.03320789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dJ,23749,Grube,Weberkamp,18,,54.22731988,11.03324678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dK,23749,Grube,Weberkamp,2,,54.22870917,11.0330779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dL,23749,Grube,Weberkamp,20,,54.22710903,11.03317982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dM,23749,Grube,Weberkamp,22,,54.22695771,11.03312192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dN,23749,Grube,Weberkamp,24,,54.226794,11.03301386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dO,23749,Grube,Weberkamp,26,,54.22639553,11.03295371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dP,23749,Grube,Weberkamp,28,,54.22621599,11.03297735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dQ,23749,Grube,Weberkamp,30,,54.22602209,11.03297042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dR,23749,Grube,Weberkamp,32,,54.22586373,11.03306275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dS,23749,Grube,Weberkamp,34,,54.22570054,11.03312672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dT,23749,Grube,Weberkamp,36,,54.22555409,11.03362414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dU,23749,Grube,Weberkamp,4,,54.22856054,11.03307618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dV,23749,Grube,Weberkamp,6,,54.22840101,11.03318247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dW,23749,Grube,Weberkamp,8,,54.22831859,11.03345018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dX,23749,Grube,Weberkamp,9,,54.22622619,11.03340853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dY,23749,Grube,Wenddorf,1,,54.23453295,11.03654871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dZ,23749,Grube,Wenddorf,10,,54.23462866,11.0384404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0da,23749,Grube,Singelkamp,2,,54.23400635,11.03803481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0db,23749,Grube,Singelkamp,20,,54.23219071,11.03778279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dc,23749,Grube,Singelkamp,21,,54.23238225,11.03712148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dd,23749,Grube,Singelkamp,21,a,54.23234422,11.03681568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0de,23749,Grube,Singelkamp,22,,54.23197072,11.03781047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0df,23749,Grube,Singelkamp,23,,54.2323884,11.03728704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dg,23749,Grube,Singelkamp,23,a,54.23221101,11.03737471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dh,23749,Grube,Singelkamp,24,,54.2317388,11.03781795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0di,23749,Grube,Singelkamp,25,,54.23206015,11.03745244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dj,23749,Grube,Singelkamp,26,,54.23150498,11.03780126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dk,23749,Grube,Singelkamp,27,,54.2319829,11.03745785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dl,23749,Grube,Singelkamp,28,,54.23128557,11.03778469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dm,23749,Grube,Singelkamp,29,,54.23183721,11.03745117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dn,23749,Grube,Singelkamp,3,,54.23384639,11.0375239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0do,23749,Grube,Singelkamp,30,,54.23106165,11.03776021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dp,23749,Grube,Singelkamp,31,,54.23178079,11.03745405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dq,23749,Grube,Singelkamp,33,,54.23161282,11.0374381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dr,23749,Grube,Singelkamp,35,,54.23155984,11.0374384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ds,23749,Grube,Singelkamp,37,,54.23139657,11.03744076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dt,23749,Grube,Singelkamp,39,,54.23134264,11.03743933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0du,23749,Grube,Singelkamp,4,,54.23385443,11.03798823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dv,23749,Grube,Singelkamp,41,,54.23120047,11.03713825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dw,23749,Grube,Singelkamp,43,,54.23095737,11.03722556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dx,23749,Grube,Singelkamp,5,,54.23370035,11.03746856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dy,23749,Grube,Singelkamp,6,,54.23367239,11.03790502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0dz,23749,Grube,Singelkamp,7,,54.23355776,11.03742161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e0,23749,Grube,Wenddorf,11,,54.23457602,11.03769866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e1,23749,Grube,Wenddorf,12,,54.23458209,11.03873478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e2,23749,Grube,Wenddorf,13,,54.23453697,11.03791402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e3,23749,Grube,Wenddorf,14,,54.23451904,11.03905417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e4,23749,Grube,Wenddorf,15,,54.23433171,11.0383558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e5,23749,Grube,Wenddorf,16,,54.23445411,11.03938196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e6,23749,Grube,Wenddorf,17,,54.23419795,11.03940006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e7,23749,Grube,Wenddorf,18,,54.23438352,11.03968114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e8,23749,Grube,Wenddorf,19,,54.23386012,11.04014732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0e9,23749,Grube,Wenddorf,2,,54.23485918,11.03649574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eA,23749,Grube,Wicheldorf,21,,54.22937192,11.03305231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eB,23749,Grube,Wicheldorf,22,,54.22893293,11.03193661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eC,23749,Grube,Wicheldorf,23,,54.2293909,11.03279008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eD,23749,Grube,Wicheldorf,25,,54.22941699,11.0321821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eE,23749,Grube,Wicheldorf,3,,54.23032379,11.03550041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eF,23749,Grube,Wicheldorf,4,,54.23014712,11.03544615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eG,23749,Grube,Wicheldorf,5,,54.23023439,11.03530486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eH,23749,Grube,Wicheldorf,6,,54.23003442,11.03520315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eI,23749,Grube,Wicheldorf,7,,54.23014689,11.03512325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eJ,23749,Grube,Wicheldorf,8,,54.2298895,11.03491715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eK,23749,Grube,Wicheldorf,9,,54.23010677,11.03490901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eL,23749,Grube,Gelenker Weg,1,,54.22964887,11.03836392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eM,23749,Grube,Gelenker Weg,1,a,54.22962041,11.03785004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eN,23749,Grube,Gelenker Weg,10,,54.22798973,11.03720356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eO,23749,Grube,Gelenker Weg,11,,54.22900526,11.03809061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eP,23749,Grube,Gelenker Weg,12,,54.22778823,11.03729504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eQ,23749,Grube,Gelenker Weg,13,,54.22885471,11.03790705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eR,23749,Grube,Gelenker Weg,14,,54.22781715,11.0376487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eS,23749,Grube,Gelenker Weg,15,,54.22876373,11.03810697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eT,23749,Grube,Gelenker Weg,16,,54.22802876,11.03770145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eU,23749,Grube,Gelenker Weg,17,,54.22864956,11.03807919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eV,23749,Grube,Gelenker Weg,18,,54.22744547,11.03789587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eW,23749,Grube,Gelenker Weg,19,,54.22853115,11.03812431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eX,23749,Grube,Gelenker Weg,2,,54.2283168,11.03763118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eY,23749,Grube,Gelenker Weg,20,,54.22760634,11.03781406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eZ,23749,Grube,Gelenker Weg,21,,54.22841397,11.0382078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ea,23749,Grube,Wenddorf,20,a,54.23430462,11.03998125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eb,23749,Grube,Wenddorf,20,b,54.23424449,11.04023092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ec,23749,Grube,Wenddorf,21,,54.23385091,11.0411845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ed,23749,Grube,Wenddorf,22,,54.23422698,11.04057679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ee,23749,Grube,Wenddorf,23,,54.23258579,11.04769613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ef,23749,Grube,Wenddorf,25,,54.23193946,11.04979931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eg,23749,Grube,Wenddorf,3,,54.23469888,11.03674775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eh,23749,Grube,Wenddorf,4,,54.23477542,11.03740301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ei,23749,Grube,Wenddorf,5,,54.2346666,11.03691996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ej,23749,Grube,Wenddorf,5,a,54.23460848,11.03718101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ek,23749,Grube,Wenddorf,6,,54.23471202,11.03769755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0el,23749,Grube,Wenddorf,7,,54.2346213,11.03744587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0em,23749,Grube,Wenddorf,8,,54.23464763,11.03836488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0en,23749,Grube,Wenddorf,9,,54.23459164,11.03761169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eo,23749,Grube,Wicheldorf,1,,54.23041767,11.03570593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ep,23749,Grube,Wicheldorf,10,,54.22956155,11.03442889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eq,23749,Grube,Wicheldorf,11,,54.22997617,11.03473373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0er,23749,Grube,Wicheldorf,12,,54.2295277,11.03435144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0es,23749,Grube,Wicheldorf,13,,54.2297597,11.03435243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0et,23749,Grube,Wicheldorf,14,,54.22945032,11.03418145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0eu,23749,Grube,Wicheldorf,15,,54.2295856,11.03393714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ev,23749,Grube,Wicheldorf,16,,54.22931389,11.03364833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ew,23749,Grube,Wicheldorf,17,,54.22945275,11.03350818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ex,23749,Grube,Wicheldorf,18,,54.22923963,11.03335335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ey,23749,Grube,Wicheldorf,19,,54.22937365,11.03315773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ez,23749,Grube,Wicheldorf,20,,54.22920436,11.03299917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f0,23749,Grube,Gelenker Weg,22,,54.22759302,11.03736872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f1,23749,Grube,Gelenker Weg,23,,54.22829434,11.03817381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f2,23749,Grube,Gelenker Weg,24,,54.22734777,11.03737035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f3,23749,Grube,Gelenker Weg,25,,54.22808349,11.03820151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f4,23749,Grube,Gelenker Weg,26,,54.22709582,11.03745789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f5,23749,Grube,Gelenker Weg,27,,54.22813301,11.03863571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f6,23749,Grube,Gelenker Weg,28,,54.2271582,11.03788465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f7,23749,Grube,Gelenker Weg,29,,54.22784374,11.03870056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f8,23749,Grube,Gelenker Weg,3,,54.22950271,11.03804837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0f9,23749,Grube,Gelenker Weg,31,,54.22778496,11.03822971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fA,23749,Grube,Gelenker Weg,8,,54.22823805,11.03713638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fB,23749,Grube,Gelenker Weg,9,,54.22913487,11.03800247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fa,23749,Grube,Gelenker Weg,33,,54.22757452,11.03834761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fb,23749,Grube,Gelenker Weg,35,,54.22739502,11.03843908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fc,23749,Grube,Gelenker Weg,37,,54.22749265,11.0387646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fd,23749,Grube,Gelenker Weg,39,,54.2270699,11.03846447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fe,23749,Grube,Gelenker Weg,4,,54.22852591,11.03759945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ff,23749,Grube,Gelenker Weg,4,a,54.22869825,11.03758027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fg,23749,Grube,Gelenker Weg,4,b,54.22886865,11.03756486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fh,23749,Grube,Gelenker Weg,4,c,54.22904119,11.03753899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fi,23749,Grube,Gelenker Weg,41,,54.22709026,11.03886035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fj,23749,Grube,Gelenker Weg,43,,54.22682807,11.03894616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fk,23749,Grube,Gelenker Weg,45,,54.22678665,11.0384828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fl,23749,Grube,Gelenker Weg,47,,54.22659412,11.03867305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fm,23749,Grube,Gelenker Weg,49,,54.22635913,11.03868573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fn,23749,Grube,Gelenker Weg,5,,54.22937075,11.03795191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fo,23749,Grube,Gelenker Weg,51,,54.22642328,11.03913853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fp,23749,Grube,Gelenker Weg,53,,54.22611945,11.03913373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fq,23749,Grube,Gelenker Weg,55,,54.22609439,11.03874649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fr,23749,Grube,Gelenker Weg,57,,54.22586834,11.03882869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fs,23749,Grube,Gelenker Weg,59,,54.22567429,11.03885962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0ft,23749,Grube,Gelenker Weg,6,,54.22847954,11.03710973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fu,23749,Grube,Gelenker Weg,61,,54.22546799,11.03884461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fv,23749,Grube,Gelenker Weg,63,,54.22531552,11.03879182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fw,23749,Grube,Gelenker Weg,65,,54.22516974,11.03876262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fx,23749,Grube,Gelenker Weg,67,,54.22503435,11.03876587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fy,23749,Grube,Gelenker Weg,69,,54.22488737,11.03872794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C0fz,23749,Grube,Gelenker Weg,7,,54.22925604,11.03809442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004C1iX,23749,Grube,Ortsteil Stranddorf Augustenhof,999,,54.24958864,11.07690566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Tyio,23749,Grube,Johannes-Stricker-Ring,1,,54.23030203,11.03830696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005DTS1,23749,Grube,Bürgermeister-Höppner-Straße,4,,54.22348065,11.03653441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GxEf,23749,Grube,Bürgermeister-Höppner-Straße,2,,54.22352043,11.03553874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RmBS,23749,Grube,Hauptstraße,23,a,54.23344461,11.03554277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SKBu,23749,Grube,Hauptstraße,49,,54.23123296,11.03577192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZDYx,23749,Grube,Hauptstraße,64,,54.22805516,11.03614566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a8ry,23749,Grube,Gelenker Weg,30,,54.22697013,11.03802369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HbuU,23749,Grube,Gruberfelde,1,,54.22523591,11.03250782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOhX,23749,Grube,Bi de Karkwisch,1,,54.22664918,11.03804616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOi1,23749,Grube,Bi de Karkwisch,3,,54.22661414,11.03771399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOi5,23749,Grube,Bi de Karkwisch,5,,54.22654111,11.03735479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjF,23749,Grube,Bi de Karkwisch,4,,54.22686973,11.03755587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjL,23749,Grube,Bi de Karkwisch,6,,54.22686088,11.03728092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjS,23749,Grube,Bi de Karkwisch,8,,54.22676368,11.03697125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjh,23749,Grube,Bi de Karkwisch,7,,54.22651644,11.03698742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjl,23749,Grube,Bi de Karkwisch,9,,54.22647388,11.03667358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjp,23749,Grube,Bi de Karkwisch,11,,54.22635408,11.03647098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjt,23749,Grube,Bi de Karkwisch,13,,54.22637752,11.03602988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOjw,23749,Grube,Bi de Karkwisch,15,,54.22636536,11.03579225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006JOk0,23749,Grube,Bi de Karkwisch,10,,54.22672452,11.03665875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Xqn5,23749,Grube,Koppelbergskamp,1,,54.26601301,11.05553317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006uoSd,23749,Grube,Weberkamp,5,,54.22694727,11.03354493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072p4H,23749,Grube,Bei der Kirche,2,a,54.23530761,11.03431473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YAAx,23749,Grube,Hauptstraße,52,a,54.23087264,11.03619918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Yjq0,23749,Grube,Bürgermeister-Höppner-Straße,5,,54.22410821,11.03720567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZiiU,23749,Grube,Gruberhagen,1,,54.20715273,11.04007031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007faur,23749,Grube,Bürgermeister-Höppner-Straße,8,,54.22349916,11.03712659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gWrK,23749,Grube,Bürgermeister-Höppner-Straße,10,,54.22341361,11.03753522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kCVp,23749,Grube,Bürgermeister-Höppner-Straße,8,a,54.22330211,11.03708027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kZIY,23749,Grube,Hauptstraße,60,a,54.22845698,11.03665483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xzz6,23749,Grube,Koppelbergskamp,1,a,54.26605593,11.05578647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zCm7,23749,Grube,Singelkamp,7,a,54.23353078,11.037095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080gVc,23749,Grube,Am Tennisplatz,1,,54.2314372,11.03916715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082Xsq,23749,Grube,Bürgermeister-Höppner-Straße,7,,54.22380782,11.03805267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008do69,23749,Grube,Bi de Karkwisch,13,a,54.22639131,11.03613338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ii3B,23749,Grube,Bei der Kirche,17,a,54.23581332,11.03201146

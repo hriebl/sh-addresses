@@ -1,0 +1,37 @@
+# Amtliche Adressen für die Postleitzahl 21763
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LNPA,21763,Neuenkirchen,Achter de Kark,19,,54.23795887,8.98950216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CA,21763,Neuenkirchen,Wollgrasweg,34,,54.2375574,8.99174591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CB,21763,Neuenkirchen,Wollgrasweg,30,,54.23776449,8.99227326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CC,21763,Neuenkirchen,Wollgrasweg,32,,54.23766831,8.99161846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CD,21763,Neuenkirchen,Wollgrasweg,28,,54.23801561,8.99223005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CE,21763,Neuenkirchen,Wollgrasweg,28,a,54.23788198,8.99150471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8CF,21763,Neuenkirchen,Wollgrasweg,23,,54.23764725,8.99269919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cs,21763,Neuenkirchen,Wollgrasweg,26,a,54.23805062,8.99168801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Ct,21763,Neuenkirchen,Wollgrasweg,11,,54.23824674,8.99316506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cu,21763,Neuenkirchen,Wollgrasweg,24,,54.23840086,8.99314977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cw,21763,Neuenkirchen,Wollgrasweg,27,,54.23821546,8.99287345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cx,21763,Neuenkirchen,Wollgrasweg,29,,54.2380875,8.99259962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cy,21763,Neuenkirchen,Wollgrasweg,26,,54.23834828,8.99281397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P8Cz,21763,Neuenkirchen,Wollgrasweg,36,,54.23755657,8.99226329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Rlo3,21763,Neuenkirchen,Wollgrasweg,25,,54.23761151,8.9929499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUA,21763,Neuenkirchen,Wollgrasweg,22,,54.23845425,8.99349091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUC,21763,Neuenkirchen,Wollgrasweg,20,,54.23855881,8.99371721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUE,21763,Neuenkirchen,Wollgrasweg,18,,54.23848193,8.99392925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUG,21763,Neuenkirchen,Wollgrasweg,16,,54.23824697,8.99394121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUI,21763,Neuenkirchen,Wollgrasweg,14,,54.2380696,8.99399843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUK,21763,Neuenkirchen,Wollgrasweg,12,,54.23794267,8.99405636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUM,21763,Neuenkirchen,Wollgrasweg,10,,54.23780495,8.99411911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUO,21763,Neuenkirchen,Wollgrasweg,13,,54.23830858,8.99360545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUQ,21763,Neuenkirchen,Wollgrasweg,9,,54.23786114,8.99349855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUS,21763,Neuenkirchen,Wollgrasweg,7,,54.23792879,8.99376322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUW,21763,Neuenkirchen,Wollgrasweg,8,,54.23757948,8.99424711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZRUx,21763,Neuenkirchen,Wollgrasweg,5,,54.23756977,8.99401072

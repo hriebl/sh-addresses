@@ -1,0 +1,894 @@
+# Amtliche Adressen für die Postleitzahl 23823
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbT,23823,Seedorf,Am Markt,1,,54.03888498,10.39432438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbU,23823,Seedorf,Am Markt,10,,54.03877065,10.39200846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbV,23823,Seedorf,Am Markt,11,,54.03968267,10.39274528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbW,23823,Seedorf,Am Markt,12,,54.03877162,10.39184122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbX,23823,Seedorf,Am Markt,15,,54.0390509,10.39184798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbY,23823,Seedorf,Am Markt,2,,54.03864507,10.394011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHbZ,23823,Seedorf,Am Markt,3,,54.03906832,10.39362255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc0,23823,Seedorf,Am Markt,3,a,54.03928673,10.39393848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc1,23823,Seedorf,Am Markt,3,b,54.03948741,10.39414527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc2,23823,Seedorf,Am Markt,3,c,54.03941596,10.3943515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc3,23823,Seedorf,Am Markt,4,,54.03867061,10.39346435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc4,23823,Seedorf,Am Markt,5,,54.03952244,10.39376251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc5,23823,Seedorf,Am Markt,6,,54.03868277,10.39333572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc6,23823,Seedorf,Am Markt,7,,54.03953844,10.39316207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc7,23823,Seedorf,Am Markt,8,,54.03846565,10.39268143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc8,23823,Seedorf,Am Markt,8,a,54.03812891,10.39291714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHc9,23823,Seedorf,Am Markt,9,,54.03925399,10.39311725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcA,23823,Seedorf,Ringstraße,7,,54.03850772,10.38793829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcB,23823,Seedorf,Ringstraße,8,,54.03822813,10.38794305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcC,23823,Seedorf,Ringstraße,9,,54.03855705,10.38746882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcD,23823,Seedorf,Bornhöveder Straße,1,,54.04875041,10.36725437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcE,23823,Seedorf,Bornhöveder Straße,10,,54.04877384,10.36431734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcF,23823,Seedorf,Bornhöveder Straße,11,,54.05121127,10.36128945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcG,23823,Seedorf,Bornhöveder Straße,12,,54.05023171,10.36142272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcH,23823,Seedorf,Bornhöveder Straße,13,,54.05152161,10.36110327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcI,23823,Seedorf,Bornhöveder Straße,14,,54.0522706,10.34936917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcJ,23823,Seedorf,Bornhöveder Straße,15,,54.05203355,10.36035844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcK,23823,Seedorf,Bornhöveder Straße,16,,54.0522706,10.34936917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcL,23823,Seedorf,Bornhöveder Straße,17,,54.05292009,10.35886076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcM,23823,Seedorf,Bornhöveder Straße,17,a,54.05307333,10.35913542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcN,23823,Seedorf,Bornhöveder Straße,17,b,54.05307333,10.35913542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcO,23823,Seedorf,Bornhöveder Straße,17,c,54.05307333,10.35913542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcP,23823,Seedorf,Bornhöveder Straße,18,,54.0522706,10.34936917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcQ,23823,Seedorf,Bornhöveder Straße,19,,54.05445659,10.34389589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcR,23823,Seedorf,Bornhöveder Straße,2,,54.04748671,10.36815607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcS,23823,Seedorf,Bornhöveder Straße,23,,54.05727981,10.33307731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcU,23823,Seedorf,Bornhöveder Straße,4,,54.04786259,10.36679865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcV,23823,Seedorf,Bornhöveder Straße,5,,54.04985165,10.36703647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcW,23823,Seedorf,Bornhöveder Straße,6,,54.04800205,10.36624191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcX,23823,Seedorf,Bornhöveder Straße,7,,54.04900889,10.36593213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcY,23823,Seedorf,Bornhöveder Straße,8,,54.04825559,10.3654428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcZ,23823,Seedorf,Bornhöveder Straße,9,,54.05008592,10.36315656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcb,23823,Seedorf,Ringstraße,1,,54.03815246,10.38913599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcc,23823,Seedorf,Ringstraße,10,,54.03830304,10.38769448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcd,23823,Seedorf,Ringstraße,10,a,54.03795642,10.38751661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHce,23823,Seedorf,Ringstraße,11,,54.03834413,10.38717909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcf,23823,Seedorf,Ringstraße,12,,54.03781553,10.387214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcg,23823,Seedorf,Ringstraße,13,,54.03800631,10.38692424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHch,23823,Seedorf,Ringstraße,14,,54.03770815,10.38716009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHci,23823,Seedorf,Ringstraße,15,,54.0376179,10.38677541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcj,23823,Seedorf,Ringstraße,16,,54.03750961,10.38733105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHck,23823,Seedorf,Ringstraße,17,,54.03738408,10.38622385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcl,23823,Seedorf,Ringstraße,18,,54.03726108,10.38795478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcm,23823,Seedorf,Ringstraße,19,,54.03732088,10.38649306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcn,23823,Seedorf,Ringstraße,2,,54.0379807,10.38885844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHco,23823,Seedorf,Ringstraße,2,a,54.03788042,10.38923203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcp,23823,Seedorf,Ringstraße,20,,54.03722055,10.3884641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcq,23823,Seedorf,Ringstraße,21,,54.03725185,10.38679677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcr,23823,Seedorf,Ringstraße,23,,54.0371613,10.38708882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcs,23823,Seedorf,Ringstraße,25,,54.03704728,10.38753873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHct,23823,Seedorf,Ringstraße,25,a,54.03702322,10.38737192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcu,23823,Seedorf,Ringstraße,27,,54.03700914,10.38797846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcv,23823,Seedorf,Ringstraße,29,,54.03694029,10.38870777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcw,23823,Seedorf,Ringstraße,3,,54.03821477,10.38885542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcx,23823,Seedorf,Ringstraße,4,,54.03808321,10.38851085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcy,23823,Seedorf,Ringstraße,5,,54.03844987,10.38819823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHcz,23823,Seedorf,Ringstraße,6,,54.03817229,10.38816618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd0,23823,Seedorf,Berliner Straße,1,,54.03858673,10.39451888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd1,23823,Seedorf,Berliner Straße,10,,54.0389732,10.39575204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd2,23823,Seedorf,Berliner Straße,10,a,54.03943958,10.39571747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd3,23823,Seedorf,Berliner Straße,11,,54.03907889,10.39694554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd4,23823,Seedorf,Berliner Straße,12,,54.03910357,10.39610468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd5,23823,Seedorf,Berliner Straße,12,a,54.03922705,10.39653187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd6,23823,Seedorf,Berliner Straße,12,b,54.0392872,10.39649218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd7,23823,Seedorf,Berliner Straße,13,,54.03911753,10.39709724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd8,23823,Seedorf,Berliner Straße,14,,54.03939455,10.3973506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHd9,23823,Seedorf,Berliner Straße,14,a,54.03984305,10.39716218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdA,23823,Seedorf,Berliner Straße,30,a,54.03996841,10.39959457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdB,23823,Seedorf,Berliner Straße,31,,54.03893797,10.40286707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdC,23823,Seedorf,Berliner Straße,32,,54.0397816,10.4000715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdD,23823,Seedorf,Berliner Straße,34,,54.03983958,10.40049647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdE,23823,Seedorf,Berliner Straße,36,,54.03965852,10.40110957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdF,23823,Seedorf,Berliner Straße,38,,54.03955503,10.40149448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdG,23823,Seedorf,Berliner Straße,4,,54.03885459,10.39497396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdH,23823,Seedorf,Berliner Straße,40,,54.03953239,10.40162983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdI,23823,Seedorf,Berliner Straße,42,,54.03948402,10.40194325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdJ,23823,Seedorf,Berliner Straße,42,a,54.03982337,10.40214045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdK,23823,Seedorf,Berliner Straße,44,,54.03942167,10.40225793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdL,23823,Seedorf,Berliner Straße,44,a,54.03974923,10.40244023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdM,23823,Seedorf,Berliner Straße,46,,54.03935856,10.40262214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdN,23823,Seedorf,Berliner Straße,5,,54.03816064,10.39485838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdO,23823,Seedorf,Berliner Straße,6,,54.03883603,10.39510038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdP,23823,Seedorf,Berliner Straße,7,,54.03839149,10.39548189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdQ,23823,Seedorf,Berliner Straße,7,a,54.03814852,10.39534778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdR,23823,Seedorf,Berliner Straße,7,b,54.0381388,10.39522266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdS,23823,Seedorf,Berliner Straße,8,,54.03893285,10.3955933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdT,23823,Seedorf,Berliner Straße,9,,54.03880397,10.39605024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdU,23823,Seedorf,Segeberger Straße,1,,54.03858279,10.39070314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdV,23823,Seedorf,Segeberger Straße,1,a,54.03870306,10.39109297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdW,23823,Seedorf,Segeberger Straße,10,,54.03793353,10.39027836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdX,23823,Seedorf,Segeberger Straße,11,,54.03772019,10.38973306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdY,23823,Seedorf,Segeberger Straße,12,,54.03782488,10.39020537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdZ,23823,Seedorf,Segeberger Straße,13,,54.03755219,10.38961982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHda,23823,Seedorf,Berliner Straße,14,d,54.0396724,10.39728776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdb,23823,Seedorf,Berliner Straße,15,,54.03920958,10.39746748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdc,23823,Seedorf,Berliner Straße,16,,54.03949381,10.39777135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdd,23823,Seedorf,Berliner Straße,16,a,54.0397624,10.39763256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHde,23823,Seedorf,Berliner Straße,17,,54.03923897,10.39758928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdf,23823,Seedorf,Berliner Straße,17,a,54.03895229,10.39798024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdg,23823,Seedorf,Berliner Straße,18,,54.03952542,10.3979068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdh,23823,Seedorf,Berliner Straße,18,a,54.03987141,10.39781592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdi,23823,Seedorf,Berliner Straße,19,,54.03925598,10.3980419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdj,23823,Seedorf,Berliner Straße,2,,54.03886186,10.39468001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdk,23823,Seedorf,Berliner Straße,21,,54.03930505,10.3983078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdl,23823,Seedorf,Berliner Straße,22,,54.03960901,10.39827219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdm,23823,Seedorf,Berliner Straße,22,a,54.03998075,10.39818379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdn,23823,Seedorf,Berliner Straße,22,b,54.03981967,10.39818261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdo,23823,Seedorf,Berliner Straße,22,c,54.03985319,10.39836716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdp,23823,Seedorf,Berliner Straße,22,e,54.04020139,10.39788021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdq,23823,Seedorf,Berliner Straße,23,,54.03940331,10.39857449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdr,23823,Seedorf,Berliner Straße,24,,54.03963709,10.39841959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHds,23823,Seedorf,Berliner Straße,25,,54.03937253,10.39906608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdt,23823,Seedorf,Berliner Straße,25,a,54.03911915,10.40153624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdu,23823,Seedorf,Berliner Straße,26,,54.03969808,10.39883082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdv,23823,Seedorf,Berliner Straße,27,,54.03907282,10.40238467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdw,23823,Seedorf,Berliner Straße,28,,54.03971334,10.39900835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdx,23823,Seedorf,Berliner Straße,29,,54.03906113,10.40251404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdy,23823,Seedorf,Berliner Straße,3,,54.03857019,10.39470613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHdz,23823,Seedorf,Berliner Straße,30,,54.039885,10.39934462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe0,23823,Seedorf,Segeberger Straße,14,,54.03744653,10.39092991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe1,23823,Seedorf,Segeberger Straße,14,a,54.0374278,10.39075555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe2,23823,Seedorf,Segeberger Straße,14,b,54.03740282,10.39043006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe3,23823,Seedorf,Segeberger Straße,15,,54.03730971,10.38944509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe4,23823,Seedorf,Segeberger Straße,16,,54.03742382,10.38997238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe5,23823,Seedorf,Segeberger Straße,17,,54.03716358,10.38905041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe6,23823,Seedorf,Segeberger Straße,19,,54.03450527,10.38684084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe7,23823,Seedorf,Segeberger Straße,21,,54.03172135,10.3852029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe8,23823,Seedorf,Segeberger Straße,22,,54.03702184,10.38966527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHe9,23823,Seedorf,Segeberger Straße,23,,54.03067129,10.38314941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeA,23823,Seedorf,Hornsdorfer Weg,5,,54.04415569,10.384597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeB,23823,Seedorf,Hornsdorfer Weg,5,a,54.04431748,10.38461115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeC,23823,Seedorf,Hornsdorfer Weg,5,b,54.04445802,10.38457669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeD,23823,Seedorf,Hornsdorfer Weg,6,,54.04465738,10.38451511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeE,23823,Seedorf,Hornsdorfer Weg,7,,54.04841309,10.38313118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeF,23823,Seedorf,Hornsdorfer Weg,8,,54.04917597,10.38347662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeG,23823,Seedorf,Hornsdorfer Weg,8,a,54.04877154,10.3835647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeH,23823,Seedorf,Wiesengrund,1,,54.03999576,10.39326508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeI,23823,Seedorf,Wiesengrund,10,,54.04080777,10.39317005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeJ,23823,Seedorf,Wiesengrund,10,a,54.04091362,10.39280891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeK,23823,Seedorf,Wiesengrund,10,b,54.04116734,10.3929811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeL,23823,Seedorf,Wiesengrund,10,c,54.04109351,10.39337121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeM,23823,Seedorf,Wiesengrund,12,,54.04137759,10.39355506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeN,23823,Seedorf,Wiesengrund,12,a,54.0414276,10.39318935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeO,23823,Seedorf,Wiesengrund,12,b,54.04171339,10.39333715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeP,23823,Seedorf,Wiesengrund,12,c,54.04165131,10.39373814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeQ,23823,Seedorf,Wiesengrund,14,,54.04192798,10.39390373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeR,23823,Seedorf,Wiesengrund,14,a,54.04202226,10.39356093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeS,23823,Seedorf,Wiesengrund,14,b,54.04222491,10.39370335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeT,23823,Seedorf,Wiesengrund,14,c,54.04225266,10.39408044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeU,23823,Seedorf,Wiesengrund,16,,54.04254769,10.39425608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeV,23823,Seedorf,Wiesengrund,16,a,54.04260391,10.39383039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeX,23823,Seedorf,Wiesengrund,17,,54.04247165,10.39479339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeY,23823,Seedorf,Wiesengrund,18,,54.04275837,10.39435616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeZ,23823,Seedorf,Wiesengrund,2,,54.03996648,10.39306672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHea,23823,Seedorf,Segeberger Straße,25,,54.03024971,10.38192361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeb,23823,Seedorf,Segeberger Straße,3,,54.03844491,10.39034428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHec,23823,Seedorf,Segeberger Straße,3,a,54.03865261,10.38984569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHed,23823,Seedorf,Segeberger Straße,3,b,54.03852321,10.3896548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHee,23823,Seedorf,Segeberger Straße,4,,54.03827407,10.39076322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHef,23823,Seedorf,Segeberger Straße,5,,54.03813123,10.39009088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeg,23823,Seedorf,Segeberger Straße,6,,54.03821671,10.39065781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeh,23823,Seedorf,Segeberger Straße,7,,54.0383828,10.38964662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHei,23823,Seedorf,Segeberger Straße,8,,54.03802361,10.39033698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHej,23823,Seedorf,Segeberger Straße,8,a,54.0380144,10.39043994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHek,23823,Seedorf,Segeberger Straße,9,,54.03804739,10.39003605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHel,23823,Seedorf,Rövkamp,1,,54.03887693,10.39657345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHem,23823,Seedorf,Rövkamp,11,,54.03796447,10.39723138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHen,23823,Seedorf,Rövkamp,12,,54.03716919,10.39696663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeo,23823,Seedorf,Rövkamp,13,,54.03769231,10.39699749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHep,23823,Seedorf,Rövkamp,2,,54.03882597,10.39699842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeq,23823,Seedorf,Rövkamp,3,,54.03867171,10.39670706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHer,23823,Seedorf,Rövkamp,4,,54.03863739,10.39722069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHes,23823,Seedorf,Rövkamp,6,,54.03829241,10.39759141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHet,23823,Seedorf,Rövkamp,7,,54.03838993,10.39708429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHeu,23823,Seedorf,Rövkamp,9,,54.03810475,10.39722162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHev,23823,Seedorf,Hornsdorfer Weg,1,,54.04322589,10.38514571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHew,23823,Seedorf,Hornsdorfer Weg,2,,54.04343439,10.38474845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHex,23823,Seedorf,Hornsdorfer Weg,2,a,54.04360244,10.3847469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHey,23823,Seedorf,Hornsdorfer Weg,3,,54.04372756,10.38473192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHez,23823,Seedorf,Hornsdorfer Weg,4,,54.04394237,10.38480133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf0,23823,Seedorf,Wiesengrund,2,a,54.0403005,10.39307244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf1,23823,Seedorf,Wiesengrund,20,,54.0432085,10.39443577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf2,23823,Seedorf,Wiesengrund,22,,54.0435342,10.39487623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf3,23823,Seedorf,Wiesengrund,3,,54.04024487,10.39331723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf4,23823,Seedorf,Wiesengrund,4,,54.04016031,10.39228406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf5,23823,Seedorf,Wiesengrund,4,a,54.04035154,10.39239533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf6,23823,Seedorf,Wiesengrund,5,,54.04042156,10.39350854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf7,23823,Seedorf,Wiesengrund,5,a,54.04065104,10.39364519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf8,23823,Seedorf,Wiesengrund,5,b,54.04079783,10.39369534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHf9,23823,Seedorf,Wiesengrund,5,c,54.04086309,10.39373614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfA,23823,Seedorf,Mühlenweg,9,,54.0747564,10.36466553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfB,23823,Seedorf,Am Sandberg,2,,54.06730935,10.36783075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfC,23823,Seedorf,Am Sandberg,3,,54.06719949,10.3679148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfD,23823,Seedorf,Am Sandberg,4,,54.06684335,10.36817665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfE,23823,Seedorf,Osterkamp,1,,54.07304929,10.36511084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfF,23823,Seedorf,Osterkamp,10,,54.07402118,10.3657757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfG,23823,Seedorf,Osterkamp,11,,54.07305755,10.37103496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfH,23823,Seedorf,Osterkamp,12,,54.07438338,10.36590412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfI,23823,Seedorf,Osterkamp,3,,54.07306582,10.36552659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfJ,23823,Seedorf,Osterkamp,4,,54.07327691,10.36527333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfK,23823,Seedorf,Osterkamp,5,,54.07309304,10.36580441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfL,23823,Seedorf,Osterkamp,6,,54.07328968,10.36545063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfM,23823,Seedorf,Osterkamp,7,,54.07301221,10.36632272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfN,23823,Seedorf,Osterkamp,8,,54.07329649,10.36554518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfO,23823,Seedorf,Osterkamp,8,a,54.07350982,10.36579928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfP,23823,Seedorf,Osterkamp,9,,54.07262745,10.3662442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfQ,23823,Seedorf,Papiermühle,1,,54.07728108,10.3667692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfR,23823,Seedorf,Papiermühle,2,,54.07741195,10.36854628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfS,23823,Seedorf,Moorkathen,1,,54.05996732,10.37806078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfT,23823,Seedorf,Moorkathen,10,,54.05863347,10.37408631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfU,23823,Seedorf,Moorkathen,12,,54.0586606,10.3738337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfV,23823,Seedorf,Moorkathen,14,,54.05869344,10.37243958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfW,23823,Seedorf,Moorkathen,2,,54.05955556,10.37854424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfX,23823,Seedorf,Moorkathen,3,,54.05899937,10.37210914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfY,23823,Seedorf,Moorkathen,4,,54.05939518,10.37746243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfZ,23823,Seedorf,Moorkathen,5,,54.0590159,10.3718032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfa,23823,Seedorf,Wiesengrund,6,,54.04047616,10.39267854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfb,23823,Seedorf,Wiesengrund,7,,54.04106936,10.39379016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfc,23823,Seedorf,Wiesengrund,8,,54.0406422,10.39282699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfd,23823,Seedorf,Neuenrade,1,,54.05222969,10.35825816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfe,23823,Seedorf,Neuenrade,3,,54.05194983,10.35776654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHff,23823,Seedorf,Neuenrade,4,,54.0514085,10.356273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfg,23823,Seedorf,Aukamp,1,,54.05877613,10.3356764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfh,23823,Seedorf,Aukamp,2,,54.0590237,10.33584235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfi,23823,Seedorf,Aukamp,3,,54.06005864,10.34301538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfj,23823,Seedorf,Aukamp,4,,54.06032176,10.34361526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfk,23823,Seedorf,Aukamp,5,,54.06221596,10.34706588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfl,23823,Seedorf,Aukamp,6,,54.0638228,10.35481759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfm,23823,Seedorf,Mühlenweg,11,,54.07495383,10.36365734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfn,23823,Seedorf,Mühlenweg,13,,54.07525323,10.36231207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfo,23823,Seedorf,Mühlenweg,15,,54.07536051,10.36237495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfp,23823,Seedorf,Mühlenweg,15,a,54.07576631,10.36199895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfq,23823,Seedorf,Mühlenweg,17,,54.07704765,10.36227119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfr,23823,Seedorf,Mühlenweg,19,,54.07693077,10.36249441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfs,23823,Seedorf,Mühlenweg,2,,54.07387201,10.36358986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHft,23823,Seedorf,Mühlenweg,4,,54.07380631,10.36434826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfu,23823,Seedorf,Mühlenweg,5,,54.07399715,10.3649301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfv,23823,Seedorf,Mühlenweg,5,a,54.07406959,10.36495712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfw,23823,Seedorf,Mühlenweg,5,b,54.07414638,10.36498082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfx,23823,Seedorf,Mühlenweg,6,,54.07393137,10.36433662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfy,23823,Seedorf,Mühlenweg,7,,54.07440368,10.36481851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHfz,23823,Seedorf,Mühlenweg,8,,54.07419099,10.36408072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg0,23823,Seedorf,Moorkathen,6,,54.05853407,10.37499457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg1,23823,Seedorf,Moorkathen,6,a,54.05836779,10.37495639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg2,23823,Seedorf,Moorkathen,8,,54.05855905,10.37476114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg3,23823,Seedorf,Asheide,2,,54.05991134,10.38011827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg4,23823,Seedorf,Asheide,3,,54.06280549,10.37887376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg5,23823,Seedorf,Asheide,4,,54.06548231,10.38310672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg6,23823,Seedorf,Asheide,5,,54.06616101,10.380138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg7,23823,Seedorf,Asheide,6,,54.06811872,10.37640237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg8,23823,Seedorf,An der Au,1,,54.0732449,10.36422647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHg9,23823,Seedorf,An der Au,1,a,54.07347153,10.36428987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgA,23823,Seedorf,Am Burggraben,16,,54.052054,10.40866684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgB,23823,Seedorf,Am Burggraben,20,,54.05227358,10.40932522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgC,23823,Seedorf,Am Burggraben,22,,54.05193542,10.4096072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgD,23823,Seedorf,Am Burggraben,24,,54.05166858,10.40951712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgE,23823,Seedorf,Am Burggraben,26,,54.05151088,10.41039327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgF,23823,Seedorf,Am Burggraben,3,,54.0503052,10.40916613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgG,23823,Seedorf,Am Burggraben,4,,54.05026531,10.408142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgH,23823,Seedorf,Am Burggraben,6,,54.0508236,10.40903202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgI,23823,Seedorf,Am Burggraben,7,,54.0512324,10.40922307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgJ,23823,Seedorf,Am Burggraben,8,,54.05088952,10.40871195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgK,23823,Seedorf,Jepsenstraße,1,,54.0408694,10.41344326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgL,23823,Seedorf,Jepsenstraße,10,,54.04043276,10.41569729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgM,23823,Seedorf,Jepsenstraße,13,,54.03977504,10.41499126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgN,23823,Seedorf,Jepsenstraße,14,,54.03984055,10.41575392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgO,23823,Seedorf,Jepsenstraße,15,,54.0396632,10.41528982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgP,23823,Seedorf,Jepsenstraße,2,a,54.04126293,10.4113606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgQ,23823,Seedorf,Jepsenstraße,2,b,54.04126453,10.41171648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgR,23823,Seedorf,Jepsenstraße,2,d,54.04128896,10.41224319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgS,23823,Seedorf,Jepsenstraße,2,e,54.04128896,10.41224319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgT,23823,Seedorf,Jepsenstraße,2,f,54.04128896,10.41224319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgU,23823,Seedorf,Jepsenstraße,2,g,54.04128896,10.41224319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgV,23823,Seedorf,Jepsenstraße,2,h,54.04125137,10.41284484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgW,23823,Seedorf,Jepsenstraße,2,i,54.04157824,10.4126549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgX,23823,Seedorf,Jepsenstraße,3,,54.04086326,10.41398347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgY,23823,Seedorf,Jepsenstraße,4,,54.04132394,10.41367343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgZ,23823,Seedorf,Jepsenstraße,4,a,54.04113224,10.41328315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHga,23823,Seedorf,An der Au,10,,54.07162216,10.36422631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgb,23823,Seedorf,An der Au,11,,54.07315817,10.36419423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgc,23823,Seedorf,An der Au,15,,54.07270793,10.36411441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgd,23823,Seedorf,An der Au,3,,54.07360172,10.36360781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHge,23823,Seedorf,An der Au,4,,54.07234638,10.3643789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgf,23823,Seedorf,An der Au,5,,54.07361522,10.36333357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgg,23823,Seedorf,An der Au,6,,54.07226926,10.36436038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgh,23823,Seedorf,An der Au,7,,54.07337874,10.36329495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgi,23823,Seedorf,An der Au,8,,54.0723445,10.36542632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgj,23823,Seedorf,An der Au,8,a,54.07259858,10.36538815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgk,23823,Seedorf,An der Au,9,,54.07341681,10.36358274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgl,23823,Seedorf,Hornsdorfer Hof,2,,54.05853153,10.38375091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgm,23823,Seedorf,Hornsdorfer Hof,2,a,54.05855154,10.38391005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgn,23823,Seedorf,Hornsdorfer Hof,3,,54.05858909,10.38418004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgo,23823,Seedorf,Hornsdorfer Hof,4,,54.05875711,10.38519504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgp,23823,Seedorf,Hornsdorfer Hof,5,,54.05901411,10.385848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgq,23823,Seedorf,Hornsdorfer Hof,6,,54.05923735,10.3852356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgr,23823,Seedorf,Seekathen,1,,54.06045468,10.38053116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgs,23823,Seedorf,Seekathen,2,,54.06107489,10.38114111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgt,23823,Seedorf,Seekathen,4,,54.06112023,10.38257726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgu,23823,Seedorf,Seekathen,6,,54.06112023,10.38257726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgv,23823,Seedorf,Am Burggraben,1,,54.04997854,10.40926004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgw,23823,Seedorf,Am Burggraben,10,,54.05103271,10.40835757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgx,23823,Seedorf,Am Burggraben,12,,54.05165113,10.4081786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgy,23823,Seedorf,Am Burggraben,14,,54.05246402,10.40795935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHgz,23823,Seedorf,Am Burggraben,15,,54.05036298,10.41045866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh0,23823,Seedorf,Jepsenstraße,5,,54.04085225,10.41431013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh1,23823,Seedorf,Jepsenstraße,6,,54.04114554,10.41426498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh2,23823,Seedorf,Jepsenstraße,7,,54.04085582,10.41444603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh3,23823,Seedorf,Jepsenstraße,8,,54.04124519,10.41508329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh4,23823,Seedorf,Jepsenstraße,9,,54.04087465,10.41484622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh7,23823,Seedorf,Himmelsallee,1,d,54.04392131,10.40916476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh8,23823,Seedorf,Himmelsallee,10,,54.04237978,10.41077106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHh9,23823,Seedorf,Himmelsallee,10,a,54.04225872,10.41049253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhA,23823,Seedorf,Am Seedorfer See,13,a,54.04972235,10.41259537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhB,23823,Seedorf,Am Seedorfer See,14,,54.05006957,10.41231128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhC,23823,Seedorf,Am Seedorfer See,15,,54.0497357,10.41305666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhD,23823,Seedorf,Am Seedorfer See,16,,54.05011827,10.41272334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhE,23823,Seedorf,Am Seedorfer See,17,,54.04976686,10.41341163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhF,23823,Seedorf,Am Seedorfer See,18,,54.05010225,10.41299355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhG,23823,Seedorf,Am Seedorfer See,19,,54.04979315,10.41392845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhH,23823,Seedorf,Am Seedorfer See,2,,54.0498317,10.40986449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhI,23823,Seedorf,Am Seedorfer See,20,,54.05012075,10.41338763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhJ,23823,Seedorf,Am Seedorfer See,21,,54.04980636,10.41418893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhK,23823,Seedorf,Am Seedorfer See,22,,54.05015701,10.41348485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhL,23823,Seedorf,Am Seedorfer See,23,,54.04983073,10.41463548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhM,23823,Seedorf,Am Seedorfer See,24,,54.0501885,10.4135611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhN,23823,Seedorf,Am Seedorfer See,26,,54.05021068,10.41404407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhO,23823,Seedorf,Am Seedorfer See,3,,54.0497085,10.41022547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhP,23823,Seedorf,Am Seedorfer See,3,a,54.04972261,10.41054974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhQ,23823,Seedorf,Am Seedorfer See,4,,54.04985726,10.41021562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhR,23823,Seedorf,Am Seedorfer See,5,,54.04967657,10.41096876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhS,23823,Seedorf,Am Seedorfer See,6,,54.04986145,10.41031207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhT,23823,Seedorf,Am Seedorfer See,7,,54.04968264,10.41112031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhU,23823,Seedorf,Am Seedorfer See,9,,54.04969292,10.41150005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhV,23823,Seedorf,Am Thiergarten,1,,54.04941497,10.40792945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhW,23823,Seedorf,Am Thiergarten,1,a,54.04956753,10.40839061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhX,23823,Seedorf,Am Thiergarten,2,,54.0477242,10.40430843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhY,23823,Seedorf,Am Thiergarten,3,,54.04767282,10.40421918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhZ,23823,Seedorf,Am Thiergarten,4,,54.04762864,10.40414243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHha,23823,Seedorf,Himmelsallee,11,,54.0407041,10.41014915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhb,23823,Seedorf,Himmelsallee,12,,54.04183861,10.41084661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhc,23823,Seedorf,Himmelsallee,13,,54.04069031,10.40977377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhd,23823,Seedorf,Himmelsallee,14,,54.04131788,10.41084261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhe,23823,Seedorf,Himmelsallee,16,,54.04074777,10.41061901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhf,23823,Seedorf,Himmelsallee,2,,54.04952143,10.40940184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhg,23823,Seedorf,Himmelsallee,2,a,54.04913631,10.40945195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhh,23823,Seedorf,Himmelsallee,3,,54.04230773,10.40977311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhi,23823,Seedorf,Himmelsallee,4,,54.04388345,10.41021974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhj,23823,Seedorf,Himmelsallee,5,,54.04173444,10.40970978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhk,23823,Seedorf,Himmelsallee,6,,54.04349773,10.41026652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhl,23823,Seedorf,Himmelsallee,6,a,54.04368109,10.41036904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhm,23823,Seedorf,Himmelsallee,6,b,54.04355268,10.41061737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhn,23823,Seedorf,Himmelsallee,7,,54.04124395,10.40985583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHho,23823,Seedorf,Himmelsallee,7,a,54.041459,10.40951904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhp,23823,Seedorf,Himmelsallee,8,,54.04296474,10.41061403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhq,23823,Seedorf,Himmelsallee,8,a,54.04324447,10.41028712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhr,23823,Seedorf,Himmelsallee,9,,54.04094181,10.41002951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHht,23823,Seedorf,Am Seedorfer See,1,,54.04962299,10.40942833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhu,23823,Seedorf,Am Seedorfer See,10,,54.04996463,10.41123899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhv,23823,Seedorf,Am Seedorfer See,11,,54.04969631,10.4118181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhw,23823,Seedorf,Am Seedorfer See,11,a,54.04969964,10.41191584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhx,23823,Seedorf,Am Seedorfer See,11,b,54.0497149,10.4121646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhy,23823,Seedorf,Am Seedorfer See,12,,54.0499729,10.41138659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHhz,23823,Seedorf,Am Seedorfer See,13,,54.04971485,10.41247053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi0,23823,Seedorf,An den Quellen,1,,54.07043317,10.42499103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi1,23823,Seedorf,An den Quellen,10,,54.07239609,10.42594331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi2,23823,Seedorf,An den Quellen,11,,54.07160744,10.42732821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi3,23823,Seedorf,An den Quellen,11,a,54.0722633,10.42756579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi4,23823,Seedorf,An den Quellen,12,,54.07284282,10.42614546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi5,23823,Seedorf,An den Quellen,12,a,54.07269262,10.42618296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi6,23823,Seedorf,An den Quellen,13,,54.07274758,10.42649403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi7,23823,Seedorf,An den Quellen,14,,54.07326355,10.42598358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi8,23823,Seedorf,An den Quellen,16,,54.07326609,10.42585364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHi9,23823,Seedorf,An den Quellen,18,,54.07328759,10.42494085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiA,23823,Seedorf,Bosauer Straße,28,,54.07027695,10.42390136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiB,23823,Seedorf,Bosauer Straße,3,,54.05492203,10.42898337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiC,23823,Seedorf,Bosauer Straße,30,,54.07163478,10.42321917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiD,23823,Seedorf,Bosauer Straße,32,,54.072115,10.42239265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiE,23823,Seedorf,Bosauer Straße,34,,54.08182857,10.41729464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiF,23823,Seedorf,Bosauer Straße,4,,54.05680461,10.4283792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiG,23823,Seedorf,Bosauer Straße,5,,54.05501928,10.42896321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiH,23823,Seedorf,Bosauer Straße,6,,54.0569407,10.42836505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiI,23823,Seedorf,Bosauer Straße,7,,54.05544323,10.42890255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiJ,23823,Seedorf,Bosauer Straße,8,,54.05729601,10.42832653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiK,23823,Seedorf,Bosauer Straße,9,,54.06180129,10.42861016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiL,23823,Seedorf,Bosauer Straße,9,a,54.06201308,10.4281535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiM,23823,Seedorf,An den Tannen,1,,54.05977288,10.44569699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiN,23823,Seedorf,An den Tannen,10,,54.06239606,10.44279907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiO,23823,Seedorf,An den Tannen,11,,54.06249957,10.44330787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiP,23823,Seedorf,An den Tannen,12,,54.06256734,10.44270069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiQ,23823,Seedorf,An den Tannen,13,,54.06287493,10.44348887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiR,23823,Seedorf,An den Tannen,14,,54.06264885,10.44205415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiS,23823,Seedorf,An den Tannen,16,,54.0669483,10.42881705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiT,23823,Seedorf,An den Tannen,2,,54.05509487,10.43423448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiU,23823,Seedorf,An den Tannen,25,,54.0636098,10.44287516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiV,23823,Seedorf,An den Tannen,27,,54.06397622,10.44286842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiW,23823,Seedorf,An den Tannen,27,a,54.06424542,10.44272757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiX,23823,Seedorf,An den Tannen,29,,54.06453921,10.44244687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiY,23823,Seedorf,An den Tannen,31,,54.0647727,10.44225214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiZ,23823,Seedorf,An den Tannen,33,,54.06514225,10.44149964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHia,23823,Seedorf,An den Quellen,3,,54.07056022,10.42520869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHib,23823,Seedorf,An den Quellen,4,,54.07107026,10.42566737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHic,23823,Seedorf,An den Quellen,5,,54.0706071,10.42535832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHid,23823,Seedorf,An den Quellen,6,,54.07135441,10.42600889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHie,23823,Seedorf,An den Quellen,7,,54.07084593,10.42603557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHif,23823,Seedorf,An den Quellen,8,,54.07178104,10.426377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHig,23823,Seedorf,Bosauer Straße,1,,54.05329754,10.4290257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHih,23823,Seedorf,Bosauer Straße,10,,54.05737486,10.4283203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHii,23823,Seedorf,Bosauer Straße,11,,54.06627228,10.42661691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHij,23823,Seedorf,Bosauer Straße,12,a,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHik,23823,Seedorf,Bosauer Straße,12,b,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHil,23823,Seedorf,Bosauer Straße,12,c,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHim,23823,Seedorf,Bosauer Straße,12,d,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHin,23823,Seedorf,Bosauer Straße,12,e,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHio,23823,Seedorf,Bosauer Straße,12,f,54.05835556,10.42819027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHip,23823,Seedorf,Bosauer Straße,13,,54.06949519,10.4244423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiq,23823,Seedorf,Bosauer Straße,14,,54.05989119,10.42801009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHir,23823,Seedorf,Bosauer Straße,14,a,54.05941716,10.4279861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHis,23823,Seedorf,Bosauer Straße,16,,54.05997046,10.42799911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHit,23823,Seedorf,Bosauer Straße,18,,54.06124786,10.42778842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiu,23823,Seedorf,Bosauer Straße,18,a,54.06185292,10.42761463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiv,23823,Seedorf,Bosauer Straße,2,,54.05344454,10.42859665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiw,23823,Seedorf,Bosauer Straße,20,,54.06713453,10.42537693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHix,23823,Seedorf,Bosauer Straße,22,,54.06746683,10.42509993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiy,23823,Seedorf,Bosauer Straße,24,,54.06929871,10.42388005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHiz,23823,Seedorf,Bosauer Straße,26,,54.06916751,10.42373403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj0,23823,Seedorf,An den Tannen,4,,54.06141624,10.44362431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj1,23823,Seedorf,An den Tannen,6,,54.06183467,10.44417311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj2,23823,Seedorf,An den Tannen,7,,54.06219411,10.44435947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj3,23823,Seedorf,An den Tannen,8,,54.06191654,10.44412758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj4,23823,Seedorf,Kieferkamp,1,,54.06183173,10.44275923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj5,23823,Seedorf,Kieferkamp,2,,54.06166427,10.44221665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj6,23823,Seedorf,Kieferkamp,3,,54.061474,10.44227698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj7,23823,Seedorf,Kieferkamp,4,,54.06157017,10.44264365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj8,23823,Seedorf,Am Liethberg,1,,54.06058429,10.44554241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHj9,23823,Seedorf,Am Liethberg,10,,54.06113613,10.4467056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjA,23823,Seedorf,Eutiner Straße,28,,54.05012086,10.45959108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjB,23823,Seedorf,Eutiner Straße,29,,54.05809542,10.46336814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjC,23823,Seedorf,Eutiner Straße,3,,54.04011068,10.45588878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjD,23823,Seedorf,Eutiner Straße,30,,54.05040616,10.45964736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjE,23823,Seedorf,Eutiner Straße,31,,54.05875894,10.46359244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjF,23823,Seedorf,Eutiner Straße,32,,54.05040624,10.46026588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjG,23823,Seedorf,Eutiner Straße,33,,54.05883403,10.46362266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjH,23823,Seedorf,Eutiner Straße,35,,54.0590658,10.46391747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjI,23823,Seedorf,Eutiner Straße,4,,54.04442997,10.4572569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjJ,23823,Seedorf,Eutiner Straße,4,a,54.04410965,10.45729831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjK,23823,Seedorf,Eutiner Straße,5,,54.04078145,10.45653668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjL,23823,Seedorf,Eutiner Straße,6,,54.04452958,10.45731551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjM,23823,Seedorf,Eutiner Straße,7,,54.04093073,10.45670935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjN,23823,Seedorf,Eutiner Straße,8,,54.04474056,10.45754783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjO,23823,Seedorf,Eutiner Straße,9,,54.04576161,10.460168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjP,23823,Seedorf,Eutiner Straße,9,a,54.04573415,10.45984647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjQ,23823,Seedorf,Sölkamp,1,,54.04930545,10.46114524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjR,23823,Seedorf,Sölkamp,10,,54.04983939,10.46226196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjS,23823,Seedorf,Sölkamp,10,a,54.04991091,10.46252518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjT,23823,Seedorf,Sölkamp,11,,54.0496044,10.4631994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjU,23823,Seedorf,Sölkamp,12,,54.05011413,10.46335756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjV,23823,Seedorf,Sölkamp,13,,54.04960646,10.46340661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjW,23823,Seedorf,Sölkamp,14,,54.05020062,10.46489616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjX,23823,Seedorf,Sölkamp,15,,54.04961258,10.46371126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjY,23823,Seedorf,Sölkamp,2,,54.05002679,10.46087441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjZ,23823,Seedorf,Sölkamp,21,,54.04968341,10.464639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHja,23823,Seedorf,Am Liethberg,14,,54.06126294,10.44760984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjb,23823,Seedorf,Am Liethberg,2,,54.06087491,10.44536292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjc,23823,Seedorf,Am Liethberg,4,,54.06111108,10.44552919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjd,23823,Seedorf,Am Liethberg,6,,54.06114803,10.44579141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHje,23823,Seedorf,Am Liethberg,9,,54.06095953,10.44793828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjf,23823,Seedorf,Eutiner Straße,1,,54.0368969,10.45118143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjg,23823,Seedorf,Eutiner Straße,10,,54.04532027,10.45831038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjh,23823,Seedorf,Eutiner Straße,11,,54.04836564,10.46101502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHji,23823,Seedorf,Eutiner Straße,12,,54.04539928,10.45837114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjj,23823,Seedorf,Eutiner Straße,13,,54.04856931,10.46097475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjk,23823,Seedorf,Eutiner Straße,14,,54.04572347,10.45883409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjl,23823,Seedorf,Eutiner Straße,14,a,54.04581296,10.45806203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjm,23823,Seedorf,Eutiner Straße,15,,54.04909035,10.46085238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjn,23823,Seedorf,Eutiner Straße,16,,54.04816328,10.46052247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjo,23823,Seedorf,Eutiner Straße,17,,54.04923713,10.46081528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjp,23823,Seedorf,Eutiner Straße,19,,54.050997,10.46137502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjq,23823,Seedorf,Eutiner Straße,19,a,54.05035474,10.46099124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjr,23823,Seedorf,Eutiner Straße,2,,54.03736375,10.4510057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjs,23823,Seedorf,Eutiner Straße,20,,54.04922351,10.46034741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjt,23823,Seedorf,Eutiner Straße,21,,54.05154303,10.46160291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHju,23823,Seedorf,Eutiner Straße,22,,54.04958862,10.46026989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjv,23823,Seedorf,Eutiner Straße,23,,54.0520957,10.46153113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjw,23823,Seedorf,Eutiner Straße,24,,54.04981434,10.45981179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjx,23823,Seedorf,Eutiner Straße,25,,54.0576547,10.46329873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjy,23823,Seedorf,Eutiner Straße,26,,54.05006749,10.46020018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHjz,23823,Seedorf,Eutiner Straße,27,,54.05799975,10.46333901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk0,23823,Seedorf,Sölkamp,3,,54.04961385,10.46166135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk1,23823,Seedorf,Sölkamp,4,,54.04995338,10.4614128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk2,23823,Seedorf,Sölkamp,5,,54.04962854,10.46211831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk3,23823,Seedorf,Sölkamp,6,,54.04987999,10.46170384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk4,23823,Seedorf,Sölkamp,7,,54.0495411,10.46242912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk5,23823,Seedorf,Sölkamp,8,,54.04990871,10.46198323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk6,23823,Seedorf,Sölkamp,9,,54.04963349,10.46264295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk7,23823,Seedorf,Zum Seekamper See,1,,54.04907261,10.45920334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk8,23823,Seedorf,Zum Seekamper See,11,,54.04809596,10.45710945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHk9,23823,Seedorf,Zum Seekamper See,12,,54.04753324,10.45687254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkA,23823,Seedorf,Kurfürstendamm,10,,54.03738579,10.44638016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkB,23823,Seedorf,Kurfürstendamm,11,,54.03731537,10.44805567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkC,23823,Seedorf,Kurfürstendamm,11,a,54.03738519,10.44838459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkD,23823,Seedorf,Kurfürstendamm,12,,54.03742095,10.44676019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkE,23823,Seedorf,Kurfürstendamm,13,,54.03741951,10.44878427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkF,23823,Seedorf,Kurfürstendamm,14,,54.03746006,10.44706815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkG,23823,Seedorf,Kurfürstendamm,16,,54.03749727,10.44742807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkH,23823,Seedorf,Kurfürstendamm,18,,54.03752866,10.44773003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkI,23823,Seedorf,Kurfürstendamm,2,,54.03686826,10.44580782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkJ,23823,Seedorf,Kurfürstendamm,2,a,54.0371884,10.44502755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkK,23823,Seedorf,Kurfürstendamm,20,,54.03756042,10.44803798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkL,23823,Seedorf,Kurfürstendamm,20,a,54.03768411,10.44832017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkM,23823,Seedorf,Kurfürstendamm,22,,54.03762434,10.44869499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkN,23823,Seedorf,Kurfürstendamm,3,,54.03715535,10.44621009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkO,23823,Seedorf,Kurfürstendamm,4,,54.03758022,10.445179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkP,23823,Seedorf,Kurfürstendamm,4,a,54.03773078,10.44556812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkQ,23823,Seedorf,Kurfürstendamm,4,b,54.03776101,10.44590704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkR,23823,Seedorf,Kurfürstendamm,5,,54.03724392,10.44704241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkS,23823,Seedorf,Kurfürstendamm,6,,54.03733572,10.44593761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkT,23823,Seedorf,Kurfürstendamm,7,,54.03728517,10.4474805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkU,23823,Seedorf,Kurfürstendamm,9,,54.03732562,10.44781472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkV,23823,Seedorf,Lichterfelde,1,,54.03598743,10.44562973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkW,23823,Seedorf,Lichterfelde,10,,54.03566825,10.44276344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkX,23823,Seedorf,Lichterfelde,11,,54.03580208,10.44348309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkY,23823,Seedorf,Lichterfelde,11,a,54.03603715,10.44325638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkZ,23823,Seedorf,Lichterfelde,12,,54.03587238,10.44289972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHka,23823,Seedorf,Zum Seekamper See,14,,54.04731519,10.45678469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkc,23823,Seedorf,Zum Seekamper See,2,a,54.04864068,10.45988846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkd,23823,Seedorf,Zum Seekamper See,3,,54.04876793,10.45826239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHke,23823,Seedorf,Zum Seekamper See,3,a,54.04860569,10.45830401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkf,23823,Seedorf,Zum Seekamper See,4,,54.04804327,10.45904789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkg,23823,Seedorf,Zum Seekamper See,4,a,54.04804823,10.45940398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkh,23823,Seedorf,Zum Seekamper See,5,,54.04862974,10.4593573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHki,23823,Seedorf,Zum Seekamper See,6,,54.04803033,10.45855141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkj,23823,Seedorf,Zum Seekamper See,7,,54.04820231,10.45775514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkk,23823,Seedorf,Zum Seekamper See,8,,54.04798921,10.45808061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkl,23823,Seedorf,Zum Seekamper See,9,,54.04818713,10.45738886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkm,23823,Seedorf,Zeltenallee,1,,54.03666727,10.44641054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkn,23823,Seedorf,Zeltenallee,1,a,54.03639097,10.44711151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHko,23823,Seedorf,Zeltenallee,1,b,54.03644852,10.44743993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkp,23823,Seedorf,Zeltenallee,10,,54.03634122,10.4438139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkq,23823,Seedorf,Zeltenallee,3,,54.03681615,10.44515507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkr,23823,Seedorf,Zeltenallee,4,,54.03648849,10.44545906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHks,23823,Seedorf,Zeltenallee,5,,54.03669795,10.44430826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkt,23823,Seedorf,Zeltenallee,5,a,54.0366782,10.44360165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHku,23823,Seedorf,Zeltenallee,6,,54.03644306,10.44497137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkv,23823,Seedorf,Zeltenallee,6,a,54.03643859,10.44485335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkw,23823,Seedorf,Zeltenallee,7,,54.03669836,10.44332666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkx,23823,Seedorf,Zeltenallee,8,,54.0364165,10.44431404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHky,23823,Seedorf,Zeltenallee,8,a,54.03641755,10.44443048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHkz,23823,Seedorf,Kurfürstendamm,1,,54.03687127,10.44622167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl0,23823,Seedorf,Lichterfelde,13,,54.03628502,10.44322853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl1,23823,Seedorf,Lichterfelde,14,,54.03610177,10.4428534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl2,23823,Seedorf,Lichterfelde,2,,54.03577356,10.44501094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl3,23823,Seedorf,Lichterfelde,3,,54.03606136,10.44532249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl4,23823,Seedorf,Lichterfelde,3,a,54.03612679,10.44538462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl5,23823,Seedorf,Lichterfelde,4,,54.03570982,10.44456054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl6,23823,Seedorf,Lichterfelde,5,,54.03602263,10.44496744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl7,23823,Seedorf,Lichterfelde,6,,54.03563636,10.44409366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl8,23823,Seedorf,Lichterfelde,7,,54.0359462,10.44449304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHl9,23823,Seedorf,Lichterfelde,8,,54.03556453,10.44358626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlA,23823,Seedorf,Potsdamer Straße,33,,54.03268172,10.45769482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlB,23823,Seedorf,Potsdamer Straße,5,,54.03561595,10.44829608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlC,23823,Seedorf,Potsdamer Straße,7,,54.03531924,10.44798336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlD,23823,Seedorf,Potsdamer Straße,8,,54.03515292,10.44932876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlE,23823,Seedorf,Potsdamer Straße,8,a,54.03500111,10.44958391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlF,23823,Seedorf,Potsdamer Straße,8,b,54.03528116,10.4500144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlG,23823,Seedorf,Potsdamer Straße,8,c,54.03526261,10.44982122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlH,23823,Seedorf,Potsdamer Straße,9,,54.03533043,10.44872292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlI,23823,Seedorf,Seebrook,1,,54.04535969,10.44023859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlJ,23823,Seedorf,Seebrook,2,a,54.04916125,10.43867189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlK,23823,Seedorf,Heerstraße,1,,54.03605914,10.44707978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlL,23823,Seedorf,Heerstraße,10,,54.03577766,10.44692666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlM,23823,Seedorf,Heerstraße,11,,54.03528906,10.44444788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlN,23823,Seedorf,Heerstraße,12,,54.03574546,10.44682649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlO,23823,Seedorf,Heerstraße,13,,54.0352571,10.44433888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlP,23823,Seedorf,Heerstraße,14,,54.0356652,10.44665386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlQ,23823,Seedorf,Heerstraße,15,,54.03525499,10.44389009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlR,23823,Seedorf,Heerstraße,16,,54.03558165,10.44640177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlS,23823,Seedorf,Heerstraße,17,,54.0350064,10.44414814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlT,23823,Seedorf,Heerstraße,18,,54.03551249,10.44602465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlU,23823,Seedorf,Heerstraße,2,,54.03548452,10.44744087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlV,23823,Seedorf,Heerstraße,20,,54.03546656,10.44588517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlW,23823,Seedorf,Heerstraße,20,a,54.0351505,10.4455792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlX,23823,Seedorf,Heerstraße,20,b,54.03515678,10.44567122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlY,23823,Seedorf,Heerstraße,22,,54.03509589,10.44529034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlZ,23823,Seedorf,Heerstraße,24,,54.03493143,10.44499278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHla,23823,Seedorf,Lichterfelde,9,,54.03586484,10.44399413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlb,23823,Seedorf,Potsdamer Straße,1,,54.03574838,10.4476887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlc,23823,Seedorf,Potsdamer Straße,10,,54.03499159,10.45003844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHld,23823,Seedorf,Potsdamer Straße,10,a,54.03479755,10.44998204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHle,23823,Seedorf,Potsdamer Straße,11,,54.03520735,10.448854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlf,23823,Seedorf,Potsdamer Straße,12,,54.0344182,10.45042837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlg,23823,Seedorf,Potsdamer Straße,13,,54.03497575,10.44901772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlh,23823,Seedorf,Potsdamer Straße,14,,54.03438329,10.45055047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHli,23823,Seedorf,Potsdamer Straße,15,,54.03477572,10.44836002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlj,23823,Seedorf,Potsdamer Straße,15,a,54.03489251,10.44790244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlk,23823,Seedorf,Potsdamer Straße,17,,54.03475409,10.4492642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHll,23823,Seedorf,Potsdamer Straße,18,,54.03426687,10.45109751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlm,23823,Seedorf,Potsdamer Straße,19,,54.03473862,10.44928487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHln,23823,Seedorf,Potsdamer Straße,2,,54.03587591,10.44849932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlo,23823,Seedorf,Potsdamer Straße,20,,54.0342629,10.45166762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlp,23823,Seedorf,Potsdamer Straße,20,a,54.03408034,10.45191622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlq,23823,Seedorf,Potsdamer Straße,21,,54.03410063,10.45068856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlr,23823,Seedorf,Potsdamer Straße,22,,54.03371819,10.45260451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHls,23823,Seedorf,Potsdamer Straße,22,a,54.0337173,10.45299072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlt,23823,Seedorf,Potsdamer Straße,23,,54.03400226,10.45099321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlu,23823,Seedorf,Potsdamer Straße,24,,54.03305004,10.45722443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlv,23823,Seedorf,Potsdamer Straße,25,,54.0338888,10.45131266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlw,23823,Seedorf,Potsdamer Straße,27,,54.03372929,10.45190496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlx,23823,Seedorf,Potsdamer Straße,29,,54.03362688,10.45212343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHly,23823,Seedorf,Potsdamer Straße,3,,54.03562025,10.44807912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHlz,23823,Seedorf,Potsdamer Straße,31,,54.03340624,10.45229326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm0,23823,Seedorf,Heerstraße,26,,54.03472602,10.44469866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm1,23823,Seedorf,Heerstraße,3,,54.03617522,10.44649462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm2,23823,Seedorf,Heerstraße,30,,54.034234,10.44385662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm3,23823,Seedorf,Heerstraße,4,,54.03548452,10.44744087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm4,23823,Seedorf,Heerstraße,5,,54.03607263,10.44632133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm5,23823,Seedorf,Heerstraße,6,,54.03551411,10.44708484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm6,23823,Seedorf,Heerstraße,7,,54.03588011,10.446124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm7,23823,Seedorf,Heerstraße,8,,54.03551411,10.44708484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm8,23823,Seedorf,Im Winkel,1,,54.03390904,10.45367753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHm9,23823,Seedorf,Im Winkel,1,a,54.03411037,10.45243978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmA,23823,Seedorf,Kiwitt,21,,54.03158702,10.44862549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmB,23823,Seedorf,Kiwitt,3,,54.03288693,10.4488178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmD,23823,Seedorf,Kiwitt,5,,54.03301043,10.44958689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmE,23823,Seedorf,Kiwitt,7,,54.03257596,10.44948417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmF,23823,Seedorf,Kiwitt,9,,54.03243241,10.4494966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmG,23823,Seedorf,Kukuk,1,,54.0367215,10.44250184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmH,23823,Seedorf,Kukuk,10,,54.03864512,10.44160037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmI,23823,Seedorf,Kukuk,12,,54.03874518,10.44157479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmJ,23823,Seedorf,Kukuk,14,,54.03976855,10.44000949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmK,23823,Seedorf,Kukuk,2,,54.03663679,10.44200849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmL,23823,Seedorf,Kukuk,4,,54.03673366,10.44096182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmM,23823,Seedorf,Kukuk,6,,54.0372069,10.44190536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmN,23823,Seedorf,Kukuk,8,,54.03910409,10.43994869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmO,23823,Seedorf,Harbigstraße,2,,54.03679131,10.44894468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmP,23823,Seedorf,Harbigstraße,2,a,54.0370236,10.44893243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmQ,23823,Seedorf,Harbigstraße,4,,54.03721443,10.44886528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmR,23823,Seedorf,Harbigstraße,6,,54.03796035,10.4486615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmS,23823,Seedorf,Harbigstraße,8,,54.0381278,10.44860397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmT,23823,Seedorf,Unter den Linden,2,,54.03626382,10.4477045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmU,23823,Seedorf,Unter den Linden,2,a,54.03654007,10.44766974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmV,23823,Seedorf,Unter den Linden,4,,54.03645745,10.44823964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmW,23823,Seedorf,Na de Wischen,1,,54.02997065,10.47331939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmX,23823,Seedorf,Na de Wischen,1,a,54.02982333,10.4730977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmY,23823,Seedorf,Na de Wischen,10,,54.02976239,10.47834499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmZ,23823,Seedorf,Na de Wischen,10,a,54.0300187,10.47860836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHma,23823,Seedorf,Im Winkel,1,b,54.03408826,10.45274054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmb,23823,Seedorf,Im Winkel,1,c,54.03407331,10.45284418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmc,23823,Seedorf,Im Winkel,1,d,54.03399875,10.45312826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmd,23823,Seedorf,Im Winkel,1,e,54.03388418,10.45342773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHme,23823,Seedorf,Im Winkel,1,f,54.03411729,10.45347842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmf,23823,Seedorf,Im Winkel,10,,54.03456453,10.4539127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmg,23823,Seedorf,Im Winkel,12,,54.03494431,10.45448964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmh,23823,Seedorf,Im Winkel,14,,54.03486194,10.45539253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmi,23823,Seedorf,Im Winkel,16,,54.03488375,10.45560679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmj,23823,Seedorf,Im Winkel,2,,54.03497359,10.45250091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmk,23823,Seedorf,Im Winkel,3,,54.03382575,10.45384035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHml,23823,Seedorf,Im Winkel,4,,54.03425815,10.45270541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmm,23823,Seedorf,Im Winkel,5,,54.03441529,10.45418065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmn,23823,Seedorf,Im Winkel,6,,54.03425815,10.45270541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmo,23823,Seedorf,Im Winkel,7,,54.03460566,10.45473515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmp,23823,Seedorf,Im Winkel,8,,54.03440703,10.45358874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmq,23823,Seedorf,Im Winkel,9,,54.03466363,10.45516659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmr,23823,Seedorf,Kiwitt,1,a,54.03340352,10.44969436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHms,23823,Seedorf,Kiwitt,11,,54.03222264,10.44973142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmt,23823,Seedorf,Kiwitt,11,a,54.03213241,10.44908984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmu,23823,Seedorf,Kiwitt,11,b,54.03204839,10.44866938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmv,23823,Seedorf,Kiwitt,13,,54.03196214,10.44980484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmw,23823,Seedorf,Kiwitt,15,,54.0317899,10.44990955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmx,23823,Seedorf,Kiwitt,16,,54.03150627,10.45067824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmy,23823,Seedorf,Kiwitt,17,,54.03170393,10.44944829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHmz,23823,Seedorf,Kiwitt,19,,54.03159947,10.44923673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn0,23823,Seedorf,Na de Wischen,11,,54.0289857,10.47892441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn1,23823,Seedorf,Na de Wischen,12,,54.03029202,10.48053966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn2,23823,Seedorf,Na de Wischen,12,a,54.02994541,10.4795506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn3,23823,Seedorf,Na de Wischen,13,,54.02970143,10.48028018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn4,23823,Seedorf,Na de Wischen,14,,54.03038175,10.48081032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn5,23823,Seedorf,Na de Wischen,16,,54.03055712,10.48145132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn6,23823,Seedorf,Na de Wischen,18,,54.03065143,10.48172659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn7,23823,Seedorf,Na de Wischen,19,,54.03026195,10.48210981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn8,23823,Seedorf,Na de Wischen,2,,54.03028457,10.47384114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHn9,23823,Seedorf,Na de Wischen,2,a,54.03005609,10.47449689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnA,23823,Seedorf,Kirchstraße,14,,54.04057636,10.38704568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnB,23823,Seedorf,Kirchstraße,14,a,54.03930868,10.38588991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnC,23823,Seedorf,Kirchstraße,14,b,54.03941088,10.38564959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnD,23823,Seedorf,Kirchstraße,16,,54.04085462,10.38631532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnE,23823,Seedorf,Kirchstraße,3,,54.04092166,10.38953653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnF,23823,Seedorf,Kirchstraße,4,,54.03996069,10.38971159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnG,23823,Seedorf,Kirchstraße,6,,54.04013536,10.38941627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnH,23823,Seedorf,Kirchstraße,8,,54.04027345,10.38918248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnI,23823,Seedorf,Schulstraße,1,,54.04283385,10.39190571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnJ,23823,Seedorf,Schulstraße,3,,54.04208671,10.39135399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnK,23823,Seedorf,Schulbusch,1,,54.0403845,10.4149773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnL,23823,Seedorf,Schulbusch,2,,54.04038349,10.41471732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnM,23823,Seedorf,Schulbusch,2,a,54.04037236,10.41461946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnN,23823,Seedorf,Schulbusch,3,,54.04042271,10.41436277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnO,23823,Seedorf,Schulbusch,4,,54.04024822,10.41423149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnP,23823,Seedorf,Schulbusch,5,,54.04011986,10.41401668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnQ,23823,Seedorf,Schulbusch,6,,54.04005693,10.41432081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnR,23823,Seedorf,Schulbusch,6,a,54.04002943,10.41440427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnS,23823,Seedorf,Schulbusch,7,,54.03990614,10.41460312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnT,23823,Seedorf,Schulbusch,7,a,54.03987262,10.41469814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnU,23823,Seedorf,Schulbusch,8,,54.04014708,10.41482372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnV,23823,Seedorf,Schulbusch,9,,54.04013298,10.41507833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnW,23823,Seedorf,Blocksberg,1,,54.04951008,10.43133649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnX,23823,Seedorf,Blocksberg,2,,54.04951956,10.43142321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnY,23823,Seedorf,Blocksberg,3,,54.04979218,10.43144207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnZ,23823,Seedorf,Blocksberg,4,,54.05005894,10.43140838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHna,23823,Seedorf,Na de Wischen,3,,54.02994362,10.4734347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnb,23823,Seedorf,Na de Wischen,4,,54.02971142,10.47543689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnc,23823,Seedorf,Na de Wischen,5,,54.02933581,10.47578805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnd,23823,Seedorf,Na de Wischen,6,,54.0296448,10.47565572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHne,23823,Seedorf,Na de Wischen,7,,54.0286304,10.47716934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnf,23823,Seedorf,Na de Wischen,8,,54.02932685,10.47673666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHng,23823,Seedorf,Na de Wischen,9,,54.02846713,10.47860468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnh,23823,Seedorf,Bahrenkrug,1,,54.04298154,10.47666315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHni,23823,Seedorf,Bahrenkrug,2,,54.04354093,10.47699491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnj,23823,Seedorf,Bahrenkrug,3,,54.04344878,10.47996275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnk,23823,Seedorf,Rosmarienweg,1,,54.02963222,10.49882123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnl,23823,Seedorf,Rosmarienweg,2,,54.03044826,10.49624417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnm,23823,Seedorf,Rosmarienweg,3,,54.03225087,10.49415774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnn,23823,Seedorf,Rosmarienweg,4,,54.03433399,10.49075947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHno,23823,Seedorf,Rosmarienweg,5,,54.03442415,10.49070143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnp,23823,Seedorf,Rosmarienweg,6,,54.03491078,10.49011829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnq,23823,Seedorf,Rosmarienweg,7,,54.03496065,10.49003977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnr,23823,Seedorf,Rosmarienweg,8,,54.0351835,10.49021804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHns,23823,Seedorf,Rosmarienweg,9,,54.03544207,10.48904938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnt,23823,Seedorf,Am Brook,1,,54.02861415,10.4756109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnu,23823,Seedorf,Am Brook,2,,54.02793272,10.47422569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnv,23823,Seedorf,Am Brook,3,,54.02764546,10.4731094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnw,23823,Seedorf,Kirchstraße,1,,54.0408768,10.39071629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnx,23823,Seedorf,Kirchstraße,1,a,54.03981021,10.39198341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHny,23823,Seedorf,Kirchstraße,10,,54.04034851,10.38865235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHnz,23823,Seedorf,Kirchstraße,12,,54.04054353,10.38828477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo0,23823,Seedorf,Potsdamer Platz,1,,54.03444989,10.44961077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo1,23823,Seedorf,Potsdamer Platz,10,,54.03378478,10.44846861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo2,23823,Seedorf,Potsdamer Platz,11,,54.03415735,10.45009647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo3,23823,Seedorf,Potsdamer Platz,12,,54.03414469,10.45024436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo4,23823,Seedorf,Potsdamer Platz,2,,54.03444751,10.44940431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo5,23823,Seedorf,Potsdamer Platz,3,,54.03431719,10.44959233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo6,23823,Seedorf,Potsdamer Platz,6,a,54.03435175,10.44889407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo7,23823,Seedorf,Potsdamer Platz,6,b,54.03435175,10.44889407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo8,23823,Seedorf,Potsdamer Platz,6,c,54.03435175,10.44889407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHo9,23823,Seedorf,Potsdamer Platz,6,d,54.03435175,10.44889407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoA,23823,Seedorf,Up'n Pott,9,a,54.04410204,10.39267214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoB,23823,Seedorf,Up'n Pott,9,d,54.0441623,10.39299256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoC,23823,Seedorf,Kiekut,1,,54.03021235,10.42679788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoD,23823,Seedorf,Hasenberg,1,,54.07298795,10.36692924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoE,23823,Seedorf,Hasenberg,2,,54.07271283,10.36698671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoF,23823,Seedorf,Hasenberg,3,,54.07244498,10.36688568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoG,23823,Seedorf,Hasenberg,4,,54.07237933,10.36739362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoH,23823,Seedorf,Hasenberg,5,,54.0724051,10.3676812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoI,23823,Seedorf,Hasenberg,6,,54.07270547,10.3676787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoJ,23823,Seedorf,Hasenberg,7,,54.0727314,10.36733523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoK,23823,Seedorf,Hasenberg,8,,54.07290718,10.36767014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoL,23823,Seedorf,Hasenberg,9,,54.07298437,10.36707834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoM,23823,Seedorf,Uhlandstraße,3,,54.03494849,10.45108221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoN,23823,Seedorf,Uhlandstraße,4,,54.03525325,10.45104795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoO,23823,Seedorf,Uhlandstraße,6,,54.03508026,10.4515057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoP,23823,Seedorf,Uhlandstraße,6,a,54.03508738,10.45163576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoQ,23823,Seedorf,Uhlandstraße,8,,54.03531292,10.45167417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoR,23823,Seedorf,Am Kornfeld,1,,54.03715269,10.44246376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoS,23823,Seedorf,Am Kornfeld,10,,54.03761665,10.44443441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoT,23823,Seedorf,Am Kornfeld,11,,54.03753244,10.44405296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoU,23823,Seedorf,Am Kornfeld,12,,54.0374957,10.44361712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoV,23823,Seedorf,Am Kornfeld,13,,54.03753625,10.4433149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoW,23823,Seedorf,Am Kornfeld,14,,54.03741518,10.44296903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoX,23823,Seedorf,Am Kornfeld,15,,54.0373761,10.44270466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoY,23823,Seedorf,Am Kornfeld,16,,54.03742886,10.44238205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoZ,23823,Seedorf,Am Kornfeld,2,,54.03712573,10.44274103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoa,23823,Seedorf,Potsdamer Platz,7,,54.03451506,10.44831064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHob,23823,Seedorf,Potsdamer Platz,8,,54.03430708,10.44836811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoc,23823,Seedorf,Potsdamer Platz,9,,54.03372803,10.44822509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHod,23823,Seedorf,Potsdamer Platz,9,a,54.0339651,10.44833181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoe,23823,Seedorf,Schulkamp,1,,54.03367444,10.45118421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHof,23823,Seedorf,Schulkamp,1,b,54.03355772,10.45153826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHog,23823,Seedorf,Schulkamp,1,c,54.03341113,10.45185937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoh,23823,Seedorf,Schulkamp,3,,54.03368865,10.4508006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoi,23823,Seedorf,Wilmersdorfer Straße,1,,54.03665071,10.44678449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoj,23823,Seedorf,Wilmersdorfer Straße,2,,54.03677096,10.44706329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHok,23823,Seedorf,Wilmersdorfer Straße,2,a,54.03673334,10.44698383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHol,23823,Seedorf,Wilmersdorfer Straße,3,,54.03687222,10.447255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHom,23823,Seedorf,Up'n Pott,10,,54.04390413,10.39336879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHon,23823,Seedorf,Up'n Pott,11,,54.0437019,10.3935402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoo,23823,Seedorf,Up'n Pott,12,,54.04353035,10.39384707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHop,23823,Seedorf,Up'n Pott,13,,54.0434217,10.39344684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoq,23823,Seedorf,Up'n Pott,14,,54.04315795,10.39330704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHor,23823,Seedorf,Up'n Pott,15,,54.04309699,10.39390038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHos,23823,Seedorf,Up'n Pott,3,,54.04279036,10.39335944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHot,23823,Seedorf,Up'n Pott,4,,54.04275946,10.39309253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHou,23823,Seedorf,Up'n Pott,5,,54.0427409,10.39278144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHov,23823,Seedorf,Up'n Pott,6,,54.0430093,10.39296113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHow,23823,Seedorf,Up'n Pott,7,,54.04329054,10.39289778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHox,23823,Seedorf,Up'n Pott,7,a,54.04336061,10.3928811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoy,23823,Seedorf,Up'n Pott,8,,54.04355156,10.39283533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHoz,23823,Seedorf,Up'n Pott,9,,54.04375885,10.39287422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp0,23823,Seedorf,Am Kornfeld,3,,54.03715385,10.44304195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp1,23823,Seedorf,Am Kornfeld,4,,54.03717938,10.44333697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp2,23823,Seedorf,Am Kornfeld,5,,54.03718503,10.4436542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp3,23823,Seedorf,Am Kornfeld,6,,54.03720015,10.44384961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp4,23823,Seedorf,Am Kornfeld,7,,54.03745688,10.44388815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp5,23823,Seedorf,Am Kornfeld,8,,54.03746784,10.44418367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp6,23823,Seedorf,Am Kornfeld,9,,54.03745334,10.44445485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp7,23823,Seedorf,Wilhelmshöh,1,,54.03696869,10.44856786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp8,23823,Seedorf,Wilhelmshöh,4,,54.03683569,10.44774426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0001cHp9,23823,Seedorf,Wilhelmshöh,6,,54.03675441,10.44817655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DjFl,23823,Seedorf,Wilhelmshöh,2,,54.03692851,10.4481586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DjFx,23823,Seedorf,Wilhelmshöh,5,,54.03667316,10.44783952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004S76h,23823,Seedorf,Heerstraße,9,,54.03555861,10.44548645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004S76m,23823,Seedorf,Heerstraße,9,a,54.03522132,10.44485146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SBmI,23823,Seedorf,Harbigstraße,8,a,54.0380962,10.44801247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UkU3,23823,Seedorf,Ringstraße,3,a,54.03830948,10.38845235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V64F,23823,Seedorf,Zum Seekamper See,2,c,54.04807269,10.4600227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VzLP,23823,Seedorf,Bornhöveder Straße,3,a,54.04881417,10.36634823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VzLQ,23823,Seedorf,Bornhöveder Straße,3,b,54.04877358,10.36644846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZT8F,23823,Seedorf,Kiwitt,2,,54.03383755,10.45044162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZqOF,23823,Seedorf,Eutiner Straße,18,,54.04880198,10.46043685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004cxpF,23823,Seedorf,Sölkamp,23,,54.04974004,10.46491941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00050to5,23823,Seedorf,Am Burggraben,34,,54.05068794,10.41119466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055SzN,23823,Seedorf,Hornsdorfer Weg,8,b,54.04851083,10.3837726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058MtK,23823,Seedorf,Segeberger Straße,21,a,54.03181328,10.38532276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058MtL,23823,Seedorf,Segeberger Straße,21,b,54.03189066,10.38542823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CWzm,23823,Seedorf,Up'n Pott,9,b,54.04429252,10.39252673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005EpEb,23823,Seedorf,Up'n Pott,9,c,54.04441112,10.39283469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005J3ne,23823,Seedorf,Himmelsallee,7,c,54.04106047,10.4096042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PiWx,23823,Seedorf,Eutiner Straße,19,b,54.05065604,10.46094214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SC6L,23823,Seedorf,Asheide,8,,54.06941002,10.37485359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aZit,23823,Seedorf,Seekathen,3,a,54.06116724,10.3811979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005dWwB,23823,Seedorf,An den Tannen,3,,54.06112642,10.44511955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pSXD,23823,Seedorf,Bornhöveder Straße,23,a,54.05734595,10.33300106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005tcIf,23823,Seedorf,Na de Wischen,7,a,54.02829688,10.4778927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uKnY,23823,Seedorf,Heerstraße,19,,54.03505089,10.44351969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ygmM,23823,Seedorf,Aukamp,3,a,54.05994798,10.3426513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063mHz,23823,Seedorf,Zeltenallee,2,,54.03637285,10.44613618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066bf4,23823,Seedorf,Am Seedorfer See,8,,54.04995818,10.41103218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006EEmh,23823,Seedorf,Hornsdorfer Hof,1,,54.05857291,10.38255045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PySL,23823,Seedorf,Sölkamp,17,,54.0496842,10.46404777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000703Xi,23823,Seedorf,Kiwitt,1,,54.0337805,10.45003678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071Xvm,23823,Seedorf,Kiwitt,13,a,54.03190597,10.44925325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074IAY,23823,Seedorf,Am Seedorfer See,12,a,54.05004358,10.41205295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075Yra,23823,Seedorf,Himmelsallee,1,a,54.0434403,10.40948689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075Yrh,23823,Seedorf,Himmelsallee,1,,54.04314545,10.40964256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007KGyj,23823,Seedorf,Am Burggraben,13,,54.05081105,10.41061607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Qcgx,23823,Seedorf,Lichterfelde,16,,54.03624747,10.44274207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aNJT,23823,Seedorf,Berliner Straße,27,a,54.03892045,10.40214205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiEX,23823,Seedorf,An der Schlamerkoppel,19,,54.04442215,10.38948208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFI,23823,Seedorf,An der Schlamerkoppel,13,,54.04402445,10.38950147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFN,23823,Seedorf,An der Schlamerkoppel,9,a,54.04349335,10.39008499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFb,23823,Seedorf,An der Schlamerkoppel,17,,54.0443487,10.3897091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFi,23823,Seedorf,An der Schlamerkoppel,20,,54.04448743,10.38904244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFl,23823,Seedorf,An der Schlamerkoppel,15,,54.04423974,10.38992409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFu,23823,Seedorf,An der Schlamerkoppel,13,a,54.04404107,10.38995988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiFz,23823,Seedorf,An der Schlamerkoppel,11,,54.04370611,10.38953998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiG1,23823,Seedorf,An der Schlamerkoppel,9,,54.04336155,10.38967456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiG4,23823,Seedorf,An der Schlamerkoppel,11,a,54.04375863,10.39002453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiGF,23823,Seedorf,An der Schlamerkoppel,5,,54.04302326,10.39016523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiGQ,23823,Seedorf,An der Schlamerkoppel,2,a,54.04270617,10.3896035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiGV,23823,Seedorf,An der Schlamerkoppel,3,,54.04287348,10.39026868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiGr,23823,Seedorf,An der Schlamerkoppel,7,,54.04320793,10.39003772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiGw,23823,Seedorf,An der Schlamerkoppel,2,,54.04272317,10.3900755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiH4,23823,Seedorf,An der Schlamerkoppel,4,a,54.042916,10.38942533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiH7,23823,Seedorf,An der Schlamerkoppel,1,,54.04264434,10.39029817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiHB,23823,Seedorf,An der Schlamerkoppel,12,,54.04367628,10.38932676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiHN,23823,Seedorf,An der Schlamerkoppel,14,,54.04391356,10.38924282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiHn,23823,Seedorf,An der Schlamerkoppel,4,,54.04298269,10.38991584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiHy,23823,Seedorf,An der Schlamerkoppel,6,,54.0431721,10.3896151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiI0,23823,Seedorf,An der Schlamerkoppel,8,,54.04322781,10.38927891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiI3,23823,Seedorf,An der Schlamerkoppel,16,,54.04410096,10.38915874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiIc,23823,Seedorf,An der Schlamerkoppel,10,,54.04348148,10.38943143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007fiIk,23823,Seedorf,An der Schlamerkoppel,18,,54.04428163,10.38911119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jfQk,23823,Seedorf,An den Quellen,9,,54.07112948,10.42621785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008481f,23823,Seedorf,Sölkamp,1,a,54.04959374,10.46135129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Gloi,23823,Seedorf,Am Markt,11,a,54.03954733,10.39237207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Gloj,23823,Seedorf,Am Markt,11,b,54.03971266,10.39247591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gs5Y,23823,Seedorf,Zum Seekamper See,1,a,54.04906687,10.45949047

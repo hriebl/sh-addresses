@@ -1,0 +1,589 @@
+# Amtliche Adressen für die Postleitzahl 25878
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA0,25878,Seeth-Ekholt,Delje Koog,4,,54.33115395,9.15285304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA1,25878,Seeth-Ekholt,Delje Koog,5,,54.3244616,9.14867772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA2,25878,Seeth-Ekholt,Dorfstraße,1,,54.3573288,9.15596123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA3,25878,Seeth-Ekholt,Dorfstraße,10,,54.35559028,9.15770693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA4,25878,Seeth-Ekholt,Dorfstraße,11,,54.35568549,9.1566333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA5,25878,Seeth-Ekholt,Dorfstraße,12,,54.35537359,9.15817655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA6,25878,Seeth-Ekholt,Dorfstraße,13,,54.35539724,9.15721391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA7,25878,Seeth-Ekholt,Dorfstraße,14,,54.35529913,9.15857544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA8,25878,Seeth-Ekholt,Dorfstraße,15,,54.35521519,9.15814845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGA9,25878,Seeth-Ekholt,Dorfstraße,16,,54.35518631,9.15906686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAA,25878,Seeth-Ekholt,Dorfstraße,7,,54.35629542,9.15665942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAB,25878,Seeth-Ekholt,Dragermoor,1,,54.34984328,9.16852875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAC,25878,Seeth-Ekholt,Dragermoor,2,,54.34906449,9.17387005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAD,25878,Seeth-Ekholt,Dragermoor,3,,54.34963634,9.16975886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAE,25878,Seeth-Ekholt,Dragermoor,4,,54.35121834,9.18263306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAF,25878,Seeth-Ekholt,Dragermoor,5,,54.34957249,9.1703263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAG,25878,Seeth-Ekholt,Dragermoor,6,,54.35145882,9.18310395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAH,25878,Seeth-Ekholt,Dragermoor,7,,54.34995371,9.18370698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAI,25878,Seeth-Ekholt,Dragermoor,9,,54.35032237,9.18370673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAJ,25878,Seeth-Ekholt,Feddersdeich,1,,54.35785409,9.12701825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAK,25878,Seeth-Ekholt,Feddersdeich,2,,54.35292109,9.12607964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAL,25878,Seeth-Ekholt,Gang,2,,54.35511593,9.15697589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAM,25878,Seeth-Ekholt,Heideweg,1,,54.35524981,9.16233914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAN,25878,Seeth-Ekholt,Heideweg,3,,54.35530389,9.16282138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAQ,25878,Seeth-Ekholt,Heitmannsweg,4,,54.35600231,9.15629128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAS,25878,Seeth-Ekholt,Herrnweg,1,,54.35365872,9.16338531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAT,25878,Seeth-Ekholt,Herrnweg,11,,54.35263913,9.16743929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAU,25878,Seeth-Ekholt,Herrnweg,2,,54.35398123,9.16254703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAV,25878,Seeth-Ekholt,Herrnweg,4,,54.35396548,9.1629716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAW,25878,Seeth-Ekholt,Herrnweg,5,,54.35364087,9.16440114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAX,25878,Seeth-Ekholt,Herrnweg,6,,54.35392064,9.16327648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAY,25878,Seeth-Ekholt,Holm,1,,54.3609273,9.154445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAZ,25878,Seeth-Ekholt,Holm,10,,54.35964213,9.15533553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAa,25878,Seeth-Ekholt,Dorfstraße,17,,54.35491315,9.15922203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAb,25878,Seeth-Ekholt,Dorfstraße,18,,54.35517038,9.15948662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAc,25878,Seeth-Ekholt,Dorfstraße,19,,54.35458585,9.16022375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAd,25878,Seeth-Ekholt,Dorfstraße,2,,54.35739723,9.15656199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAe,25878,Seeth-Ekholt,Dorfstraße,20,,54.35499935,9.15990837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAf,25878,Seeth-Ekholt,Dorfstraße,20,a,54.35485115,9.16027051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAg,25878,Seeth-Ekholt,Dorfstraße,21,,54.354463,9.16049572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAh,25878,Seeth-Ekholt,Dorfstraße,22,,54.35443349,9.16131622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAi,25878,Seeth-Ekholt,Dorfstraße,23,,54.35436219,9.16079224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAj,25878,Seeth-Ekholt,Dorfstraße,24,,54.35421826,9.16185062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAk,25878,Seeth-Ekholt,Dorfstraße,25,,54.35416551,9.16131677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAl,25878,Seeth-Ekholt,Dorfstraße,25,a,54.35405469,9.16146348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAm,25878,Seeth-Ekholt,Dorfstraße,25,b,54.3539092,9.16179442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAn,25878,Seeth-Ekholt,Dorfstraße,26,,54.35408317,9.1621872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAo,25878,Seeth-Ekholt,Dorfstraße,27,,54.35338558,9.16220364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAp,25878,Seeth-Ekholt,Dorfstraße,28,,54.35371602,9.16286585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAq,25878,Seeth-Ekholt,Dorfstraße,29,,54.35338558,9.16220364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAr,25878,Seeth-Ekholt,Dorfstraße,3,,54.35694451,9.15618634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAs,25878,Seeth-Ekholt,Dorfstraße,30,,54.35310587,9.16402405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAt,25878,Seeth-Ekholt,Dorfstraße,32,,54.35285478,9.16439057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAu,25878,Seeth-Ekholt,Dorfstraße,33,,54.35263997,9.1643028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAv,25878,Seeth-Ekholt,Dorfstraße,34,,54.35280478,9.16496247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAw,25878,Seeth-Ekholt,Dorfstraße,35,,54.35245488,9.16452211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAy,25878,Seeth-Ekholt,Dorfstraße,4,,54.35715345,9.1568049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGAz,25878,Seeth-Ekholt,Dorfstraße,6,,54.35674427,9.15682792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB0,25878,Seeth-Ekholt,Holm,11,,54.35970806,9.15476817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB1,25878,Seeth-Ekholt,Holm,11,a,54.35954423,9.15480755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB2,25878,Seeth-Ekholt,Holm,12,,54.35944105,9.15536721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB3,25878,Seeth-Ekholt,Holm,13,,54.35938735,9.15484993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB4,25878,Seeth-Ekholt,Holm,15,,54.35913437,9.15491295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB5,25878,Seeth-Ekholt,Holm,17,,54.3588269,9.15499175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB6,25878,Seeth-Ekholt,Holm,18,,54.35861545,9.15637941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB7,25878,Seeth-Ekholt,Holm,19,,54.35855299,9.15506629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB8,25878,Seeth-Ekholt,Holm,3,,54.36079469,9.15451703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGB9,25878,Seeth-Ekholt,Holm,4,,54.36030404,9.15512157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBA,25878,Seeth-Ekholt,Mühlenweg,7,,54.35562804,9.16214399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBB,25878,Seeth-Ekholt,Mühlenweg,8,,54.35553259,9.16163445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBC,25878,Seeth-Ekholt,Op de Geest,1,,54.35403762,9.16426117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBD,25878,Seeth-Ekholt,Op de Geest,10,,54.35471579,9.16306251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBE,25878,Seeth-Ekholt,Op de Geest,11,,54.35486551,9.16352866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBF,25878,Seeth-Ekholt,Op de Geest,13,,54.35493125,9.16322809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBG,25878,Seeth-Ekholt,Op de Geest,2,,54.35397852,9.16377583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBH,25878,Seeth-Ekholt,Op de Geest,3,,54.3542646,9.16423183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBI,25878,Seeth-Ekholt,Op de Geest,4,,54.35432438,9.16380864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBJ,25878,Seeth-Ekholt,Op de Geest,5,,54.35445471,9.16427885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBK,25878,Seeth-Ekholt,Op de Geest,6,,54.35449161,9.16343504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBL,25878,Seeth-Ekholt,Op de Geest,7,,54.354677,9.16437046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBM,25878,Seeth-Ekholt,Op de Geest,8,,54.35446878,9.16289751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBN,25878,Seeth-Ekholt,Op de Geest,9,,54.35464919,9.16389348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBO,25878,Seeth-Ekholt,Süderende,1,,54.35281666,9.1634942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBP,25878,Seeth-Ekholt,Süderende,3,,54.35258886,9.16276508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBQ,25878,Seeth-Ekholt,Schleuse Nordfeld,1,,54.34099785,9.13909182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBR,25878,Seeth-Ekholt,Schleuse Nordfeld,2,,54.33931558,9.14096808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBS,25878,Seeth-Ekholt,Schleuse Nordfeld,3,,54.33904479,9.13847383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBT,25878,Seeth-Ekholt,Schleuse Nordfeld,4,,54.33918505,9.14116431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBU,25878,Seeth-Ekholt,Schmiedeweg,1,,54.35396809,9.15636641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBV,25878,Seeth-Ekholt,Schmiedeweg,2,,54.35422706,9.15615932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBW,25878,Seeth-Ekholt,Schmiedeweg,3,,54.35394352,9.15701635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBX,25878,Seeth-Ekholt,Schmiedeweg,5,,54.35386679,9.15724836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBY,25878,Seeth-Ekholt,Schulsteig,1,,54.35458744,9.15884423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBa,25878,Seeth-Ekholt,Holm,5,,54.36046576,9.1546675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBb,25878,Seeth-Ekholt,Holm,6,,54.35997562,9.15529723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBc,25878,Seeth-Ekholt,Holm,7,,54.36025011,9.15469417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBd,25878,Seeth-Ekholt,Holm,8,,54.35990015,9.1553095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBe,25878,Seeth-Ekholt,Holm,9,,54.36007393,9.15470787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBf,25878,Seeth-Ekholt,Hursegang,1,,54.3549742,9.15536153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBg,25878,Seeth-Ekholt,Hursegang,2,,54.35473792,9.15553002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBh,25878,Seeth-Ekholt,Hursegang,4,,54.354725,9.15507041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBi,25878,Seeth-Ekholt,Meiereiweg,1,,54.35560654,9.15923216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBj,25878,Seeth-Ekholt,Meiereiweg,4,,54.35577009,9.15884409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBk,25878,Seeth-Ekholt,Meiereiweg,5,,54.35592926,9.15933478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBl,25878,Seeth-Ekholt,Meiereiweg,6,,54.35627459,9.15866041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBm,25878,Seeth-Ekholt,Meiereiweg,7,,54.35613723,9.15920585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBn,25878,Seeth-Ekholt,Meiereiweg,8,,54.35653198,9.15872159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBo,25878,Seeth-Ekholt,Meiereiweg,9,,54.35643634,9.15917549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBp,25878,Seeth-Ekholt,Moordeich,1,,54.35246966,9.15414298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBq,25878,Seeth-Ekholt,Moordeich,3,,54.35216967,9.15408647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBr,25878,Seeth-Ekholt,Moordeich,5,,54.35184484,9.15348144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBs,25878,Seeth-Ekholt,Moordeich,7,,54.35160354,9.15345634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBt,25878,Seeth-Ekholt,Mühlenweg,10,,54.3556073,9.1617215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBu,25878,Seeth-Ekholt,Mühlenweg,12,,54.3559039,9.16217906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBv,25878,Seeth-Ekholt,Mühlenweg,2,,54.35468813,9.16090501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBw,25878,Seeth-Ekholt,Mühlenweg,3,,54.35500095,9.16216757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBx,25878,Seeth-Ekholt,Mühlenweg,4,,54.35508865,9.16117466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBy,25878,Seeth-Ekholt,Mühlenweg,5,,54.35529315,9.16186252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGBz,25878,Seeth-Ekholt,Mühlenweg,6,,54.35532029,9.16143984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC0,25878,Seeth-Ekholt,Thomsgang,3,,54.35523658,9.15541185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC2,25878,Seeth-Ekholt,Thomsgang,5,,54.35442732,9.1555668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC3,25878,Seeth-Ekholt,Thomsgang,6,,54.35527533,9.15575687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC4,25878,Seeth-Ekholt,Thomsgang,7,,54.35361808,9.15541193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC5,25878,Seeth-Ekholt,Thomsgang,9,,54.35316031,9.15549077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC6,25878,Seeth-Ekholt,Westerstraße,1,,54.35740714,9.15518257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC7,25878,Seeth-Ekholt,Westerstraße,11,,54.35562984,9.15428139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC8,25878,Seeth-Ekholt,Westerstraße,12,,54.35552068,9.15493942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGC9,25878,Seeth-Ekholt,Westerstraße,13,,54.35525298,9.15432272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCA,25878,Seeth-Ekholt,Heidkoppel,2,,54.35395869,9.16512925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCB,25878,Seeth-Ekholt,Heidkoppel,3,,54.35415319,9.16555064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCC,25878,Seeth-Ekholt,Heidkoppel,4,,54.35415817,9.16510637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCD,25878,Seeth-Ekholt,Heidkoppel,6,,54.35437015,9.16516038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCE,25878,Seeth-Ekholt,Heidkoppel,8,,54.35457995,9.16503028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCF,25878,Seeth-Ekholt,Achtern Holm,1,,54.36045491,9.15326099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCG,25878,Seeth-Ekholt,Achtern Holm,10,,54.35979086,9.1535156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCH,25878,Seeth-Ekholt,Achtern Holm,12,,54.35976281,9.15322168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCI,25878,Seeth-Ekholt,Achtern Holm,14,,54.35972828,9.15288003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCJ,25878,Seeth-Ekholt,Achtern Holm,16,,54.35969464,9.15251732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCK,25878,Seeth-Ekholt,Achtern Holm,2,,54.36045106,9.15361429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCL,25878,Seeth-Ekholt,Achtern Holm,3,,54.360264,9.15324331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCM,25878,Seeth-Ekholt,Achtern Holm,4,,54.36029198,9.15363627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCN,25878,Seeth-Ekholt,Achtern Holm,5,,54.35998799,9.15330699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCO,25878,Seeth-Ekholt,Achtern Holm,6,,54.36005147,9.15377997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCP,25878,Seeth-Ekholt,Achtern Holm,7,,54.35993878,9.15279625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCQ,25878,Seeth-Ekholt,Achtern Holm,8,,54.35983082,9.15385016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCa,25878,Seeth-Ekholt,Westerstraße,14,,54.35431067,9.15482419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCb,25878,Seeth-Ekholt,Westerstraße,17,,54.35492581,9.15417699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCc,25878,Seeth-Ekholt,Westerstraße,18,,54.35379619,9.15470655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCd,25878,Seeth-Ekholt,Westerstraße,2,,54.35691551,9.15538952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCe,25878,Seeth-Ekholt,Westerstraße,20,,54.35353534,9.15473471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCf,25878,Seeth-Ekholt,Westerstraße,21,,54.35463072,9.15434405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCg,25878,Seeth-Ekholt,Westerstraße,23,,54.35442612,9.15439637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCh,25878,Seeth-Ekholt,Westerstraße,25,,54.35416133,9.15423188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCi,25878,Seeth-Ekholt,Westerstraße,27,,54.35377379,9.15424335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCj,25878,Seeth-Ekholt,Westerstraße,29,,54.35316926,9.15405602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCk,25878,Seeth-Ekholt,Westerstraße,3,,54.35680435,9.15490147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCl,25878,Seeth-Ekholt,Westerstraße,31,,54.35295489,9.15404664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCm,25878,Seeth-Ekholt,Westerstraße,4,,54.35670657,9.15525769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCn,25878,Seeth-Ekholt,Westerstraße,5,,54.3563298,9.15441112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCo,25878,Seeth-Ekholt,Westerstraße,6,,54.35643199,9.15522467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCp,25878,Seeth-Ekholt,Westerstraße,8,,54.35608384,9.15503663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCq,25878,Seeth-Ekholt,Westerstraße,9,,54.35609032,9.15455993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCr,25878,Seeth-Ekholt,Widdelmoor,1,,54.35678449,9.16555088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCs,25878,Seeth-Ekholt,An der Chaussee,1,,54.36711788,9.13783181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCt,25878,Seeth-Ekholt,An der Chaussee,10,,54.36909968,9.12195592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCu,25878,Seeth-Ekholt,An der Chaussee,12,,54.3694764,9.11910526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCv,25878,Seeth-Ekholt,An der Chaussee,14,,54.36580937,9.11013615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCw,25878,Seeth-Ekholt,An der Chaussee,4,,54.36815109,9.12866654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCx,25878,Seeth-Ekholt,An der Chaussee,6,,54.36839332,9.12706719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCy,25878,Seeth-Ekholt,An der Chaussee,8,,54.36855991,9.12593252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGCz,25878,Seeth-Ekholt,Heidkoppel,1,,54.35393628,9.16562872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz2,25878,Seeth-Ekholt,Achterum,1,,54.35741556,9.15749326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz3,25878,Seeth-Ekholt,Achterum,10,,54.3569322,9.15874934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz4,25878,Seeth-Ekholt,Achterum,11,,54.35609613,9.16062814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz5,25878,Seeth-Ekholt,Achterum,12,,54.35663676,9.15971812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz6,25878,Seeth-Ekholt,Achterum,12,a,54.35656875,9.16026656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz7,25878,Seeth-Ekholt,Achterum,13,,54.35596922,9.16094297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz8,25878,Seeth-Ekholt,Achterum,14,,54.35641806,9.16059195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGz9,25878,Seeth-Ekholt,Achterum,15,,54.35562284,9.16051918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzA,25878,Seeth-Ekholt,Dahrnweg,1,,54.35314728,9.16132021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzB,25878,Seeth-Ekholt,Dahrnweg,1,a,54.35314122,9.16081602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzC,25878,Seeth-Ekholt,Dahrnweg,2,,54.352611,9.16150978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzD,25878,Seeth-Ekholt,Dahrnweg,3,,54.3527842,9.16095648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzE,25878,Seeth-Ekholt,Deichweg,10,,54.35296436,9.1581463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzF,25878,Seeth-Ekholt,Deichweg,11,,54.35393205,9.15784567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzG,25878,Seeth-Ekholt,Deichweg,12,,54.35359989,9.15770384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzH,25878,Seeth-Ekholt,Deichweg,13,,54.35356612,9.15673545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzI,25878,Seeth-Ekholt,Deichweg,15,,54.35345861,9.15627279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzJ,25878,Seeth-Ekholt,Deichweg,16,,54.35318401,9.15747195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzK,25878,Seeth-Ekholt,Deichweg,18,,54.35317684,9.15719294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzL,25878,Seeth-Ekholt,Deichweg,2,,54.35391429,9.16035946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzM,25878,Seeth-Ekholt,Deichweg,2,a,54.35400011,9.16072082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzN,25878,Seeth-Ekholt,Deichweg,20,,54.35315653,9.15681779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzO,25878,Seeth-Ekholt,Deichweg,22,,54.35312144,9.15633921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzP,25878,Seeth-Ekholt,Deichweg,3,,54.35419327,9.16026138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzQ,25878,Seeth-Ekholt,Deichweg,4,,54.35374873,9.15986148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzR,25878,Seeth-Ekholt,Deichweg,5,,54.35398666,9.15976171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzS,25878,Seeth-Ekholt,Deichweg,6,,54.3535246,9.15915404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzT,25878,Seeth-Ekholt,Deichweg,7,,54.35406014,9.15933428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzU,25878,Seeth-Ekholt,Deichweg,7,a,54.35412661,9.15893783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzV,25878,Seeth-Ekholt,Deichweg,8,,54.35315919,9.15903358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzW,25878,Seeth-Ekholt,Deichweg,9,,54.35396132,9.15864957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzX,25878,Seeth-Ekholt,Delje Koog,1,,54.33824111,9.15822575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzY,25878,Seeth-Ekholt,Delje Koog,2,,54.3348391,9.16368363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzZ,25878,Seeth-Ekholt,Delje Koog,3,,54.33726322,9.1574044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGza,25878,Seeth-Ekholt,Achterum,17,,54.35551204,9.16083086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzb,25878,Seeth-Ekholt,Achterum,18,,54.35604994,9.16124892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzc,25878,Seeth-Ekholt,Achterum,19,,54.35584093,9.16121347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzd,25878,Seeth-Ekholt,Achterum,22,,54.35598298,9.16158566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGze,25878,Seeth-Ekholt,Achterum,24,,54.35627785,9.16175615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzf,25878,Seeth-Ekholt,Achterum,3,,54.35708251,9.15784113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzg,25878,Seeth-Ekholt,Achterum,4,,54.35781695,9.15750858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzh,25878,Seeth-Ekholt,Achterum,5,,54.35666994,9.15803486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzi,25878,Seeth-Ekholt,Achterum,6,,54.35747351,9.15787813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzj,25878,Seeth-Ekholt,Achterum,7,,54.35647789,9.15956977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzk,25878,Seeth-Ekholt,Achterum,8,,54.35739037,9.15808974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzl,25878,Seeth-Ekholt,Achterum,9,,54.35629196,9.1600807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzm,25878,Seeth-Ekholt,Achterum,9,a,54.35623665,9.16028112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzn,25878,Seeth-Ekholt,Bäckerweg,1,,54.35480004,9.15803876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzo,25878,Seeth-Ekholt,Bäckerweg,2,,54.35506276,9.15850529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzp,25878,Seeth-Ekholt,Bäckerweg,3,,54.35448866,9.15772705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzq,25878,Seeth-Ekholt,Bahnhofstraße,1,,54.36158586,9.1552296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzr,25878,Seeth-Ekholt,Bahnhofstraße,2,,54.3616539,9.15578257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzs,25878,Seeth-Ekholt,Bahnhofstraße,3,,54.36134573,9.15523542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzt,25878,Seeth-Ekholt,Bahnhofstraße,4,,54.36128924,9.15567686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzv,25878,Seeth-Ekholt,Bahnhofstraße,6,,54.36097664,9.15571348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzw,25878,Seeth-Ekholt,Bahnhofstraße,6,b,54.36073704,9.15547244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzx,25878,Seeth-Ekholt,Bahnhofstraße,7,,54.36112997,9.15526208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzy,25878,Seeth-Ekholt,Bahnhofstraße,8,,54.3607549,9.15514655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eGzz,25878,Seeth-Ekholt,Bahnhofstraße,9,,54.36098283,9.15528213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXA,25878,Seeth-Ekholt,Alter Kirchenweg,23,,54.36218348,9.17992498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXB,25878,Seeth-Ekholt,Alter Kirchenweg,24,,54.36260091,9.17970365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXC,25878,Seeth-Ekholt,Alter Kirchenweg,25,,54.36198097,9.1803482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXD,25878,Seeth-Ekholt,Alter Kirchenweg,26,,54.36233718,9.18026425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXE,25878,Seeth-Ekholt,Alter Kirchenweg,27,,54.36159374,9.18121172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXF,25878,Seeth-Ekholt,Alter Kirchenweg,28,,54.36283711,9.18111088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXG,25878,Seeth-Ekholt,Alter Kirchenweg,29,,54.36315026,9.18096781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXH,25878,Seeth-Ekholt,Alter Kirchenweg,3,,54.36379826,9.17444637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXI,25878,Seeth-Ekholt,Alter Kirchenweg,4,,54.36350424,9.17453107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXJ,25878,Seeth-Ekholt,Alter Kirchenweg,5,,54.36367678,9.17489714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXK,25878,Seeth-Ekholt,Alter Kirchenweg,6,,54.36357394,9.17543977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXL,25878,Seeth-Ekholt,Alter Kirchenweg,7,,54.36352744,9.17603798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXM,25878,Seeth-Ekholt,Alter Kirchenweg,8,,54.36378897,9.17576528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXN,25878,Seeth-Ekholt,Alter Kirchenweg,8,a,54.36386003,9.17540068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXO,25878,Seeth-Ekholt,Alter Kirchenweg,9,,54.36329211,9.17660697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXP,25878,Seeth-Ekholt,Bahnhofstraße,1,,54.36539295,9.1599211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXQ,25878,Seeth-Ekholt,Bahnhofstraße,1,a,54.36531135,9.15990442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXR,25878,Seeth-Ekholt,Bahnhofstraße,1,b,54.36515334,9.15971486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXS,25878,Seeth-Ekholt,Bahnhofstraße,1,c,54.36512635,9.1597098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXT,25878,Seeth-Ekholt,Bahnhofstraße,1,d,54.36509098,9.15970315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXU,25878,Seeth-Ekholt,Bahnhofstraße,1,e,54.36494626,9.15923239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXV,25878,Seeth-Ekholt,Bahnhofstraße,1,f,54.36487452,9.15921683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXW,25878,Seeth-Ekholt,Bahnhofstraße,10,,54.36259591,9.1563556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXX,25878,Seeth-Ekholt,Bahnhofstraße,11,,54.3619931,9.15543035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXY,25878,Seeth-Ekholt,Bahnhofstraße,12,,54.36228925,9.15608199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXZ,25878,Seeth-Ekholt,Bahnhofstraße,14,,54.36189577,9.15583384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXg,25878,Seeth-Ekholt,Alter Kirchenweg,1,,54.36372548,9.17362818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXh,25878,Seeth-Ekholt,Alter Kirchenweg,10,,54.36308697,9.1765777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXi,25878,Seeth-Ekholt,Alter Kirchenweg,10,a,54.36306915,9.17638839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXj,25878,Seeth-Ekholt,Alter Kirchenweg,11,,54.36273245,9.17650385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXk,25878,Seeth-Ekholt,Alter Kirchenweg,11,a,54.36267968,9.17635016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXl,25878,Seeth-Ekholt,Alter Kirchenweg,12,,54.36329207,9.17755823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXm,25878,Seeth-Ekholt,Alter Kirchenweg,12,a,54.36307232,9.17729307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXn,25878,Seeth-Ekholt,Alter Kirchenweg,12,b,54.36318646,9.17798133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXo,25878,Seeth-Ekholt,Alter Kirchenweg,13,,54.36246963,9.17546458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXp,25878,Seeth-Ekholt,Alter Kirchenweg,13,a,54.36270185,9.17551768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXq,25878,Seeth-Ekholt,Alter Kirchenweg,14,,54.36301456,9.17827802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXr,25878,Seeth-Ekholt,Alter Kirchenweg,15,,54.36282337,9.17803541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXs,25878,Seeth-Ekholt,Alter Kirchenweg,16,,54.36297565,9.17839623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXt,25878,Seeth-Ekholt,Alter Kirchenweg,17,,54.36266184,9.17840419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXu,25878,Seeth-Ekholt,Alter Kirchenweg,18,,54.36287092,9.17871417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXv,25878,Seeth-Ekholt,Alter Kirchenweg,19,,54.36253944,9.17889556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXw,25878,Seeth-Ekholt,Alter Kirchenweg,2,,54.36386847,9.17395707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXx,25878,Seeth-Ekholt,Alter Kirchenweg,20,,54.36282578,9.17885088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXy,25878,Seeth-Ekholt,Alter Kirchenweg,21,,54.36227563,9.17957464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQXz,25878,Seeth-Ekholt,Alter Kirchenweg,22,,54.36269061,9.17931013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY0,25878,Seeth-Ekholt,Bahnhofstraße,2,,54.3651092,9.16023664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY1,25878,Seeth-Ekholt,Bahnhofstraße,3,,54.36469831,9.15893205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY2,25878,Seeth-Ekholt,Bahnhofstraße,4,,54.36464063,9.15931159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY3,25878,Seeth-Ekholt,Bahnhofstraße,5,,54.36429243,9.15841791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY4,25878,Seeth-Ekholt,Bahnhofstraße,5,a,54.36452538,9.15861613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY5,25878,Seeth-Ekholt,Bahnhofstraße,5,b,54.36452538,9.15861613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY6,25878,Seeth-Ekholt,Bahnhofstraße,6,,54.36416786,9.15870903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY8,25878,Seeth-Ekholt,Bahnhofstraße,8,,54.36332188,9.1570909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQY9,25878,Seeth-Ekholt,Bahnhofstraße,9,,54.36268869,9.15598897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYA,25878,Seeth-Ekholt,Hauptstraße,12,,54.36582997,9.16276173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYB,25878,Seeth-Ekholt,Hauptstraße,14,,54.36601968,9.16357198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYC,25878,Seeth-Ekholt,Hauptstraße,15,,54.36601122,9.16434285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYD,25878,Seeth-Ekholt,Hauptstraße,16,,54.36637432,9.16437282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYE,25878,Seeth-Ekholt,Hauptstraße,17,,54.36625303,9.16456526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYF,25878,Seeth-Ekholt,Hauptstraße,17,a,54.36630339,9.16487441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYG,25878,Seeth-Ekholt,Hauptstraße,17,b,54.36632588,9.16498358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYH,25878,Seeth-Ekholt,Hauptstraße,17,c,54.36634842,9.16509324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYI,25878,Seeth-Ekholt,Hauptstraße,18,,54.36662599,9.16487536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYJ,25878,Seeth-Ekholt,Hauptstraße,19,,54.36634431,9.16664629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYK,25878,Seeth-Ekholt,Hauptstraße,2,,54.366304,9.15662797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYL,25878,Seeth-Ekholt,Hauptstraße,2,a,54.36621138,9.15585755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYM,25878,Seeth-Ekholt,Hauptstraße,20,,54.36672365,9.16557449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYN,25878,Seeth-Ekholt,Hauptstraße,21,,54.36627351,9.16703637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYO,25878,Seeth-Ekholt,Hauptstraße,22,,54.36662792,9.16641375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYP,25878,Seeth-Ekholt,Hauptstraße,23,,54.3661524,9.16763136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYQ,25878,Seeth-Ekholt,Hauptstraße,24,,54.36649655,9.16715556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYR,25878,Seeth-Ekholt,Hauptstraße,25,,54.36598624,9.16792408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYS,25878,Seeth-Ekholt,Hauptstraße,26,,54.36635465,9.16781486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYT,25878,Seeth-Ekholt,Hauptstraße,28,,54.36626739,9.16833872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYU,25878,Seeth-Ekholt,Hauptstraße,29,,54.3657465,9.16840639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYV,25878,Seeth-Ekholt,Hauptstraße,3,,54.36545454,9.16054877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYW,25878,Seeth-Ekholt,Hauptstraße,30,,54.36587281,9.16889024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYX,25878,Seeth-Ekholt,Hauptstraße,31,,54.36549587,9.16827919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYY,25878,Seeth-Ekholt,Hauptstraße,32,,54.36561422,9.1691821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYZ,25878,Seeth-Ekholt,Hauptstraße,33,,54.36544286,9.16874156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYa,25878,Seeth-Ekholt,Bahnhofstraße,9,a,54.36251892,9.15568556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYb,25878,Seeth-Ekholt,Drager Weg,1,,54.36590366,9.15216811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYc,25878,Seeth-Ekholt,Drager Weg,2,,54.36350279,9.15342796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYd,25878,Seeth-Ekholt,Drager Weg,3,,54.36214775,9.15252075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYe,25878,Seeth-Ekholt,Drager Weg,5,,54.36136138,9.15394762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYf,25878,Seeth-Ekholt,Fohlenweg,1,,54.36632937,9.16338841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYg,25878,Seeth-Ekholt,Fohlenweg,2,,54.36598924,9.1617782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYh,25878,Seeth-Ekholt,Fohlenweg,2,a,54.36643702,9.1619158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYi,25878,Seeth-Ekholt,Fohlenweg,3,,54.36689479,9.16326582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYj,25878,Seeth-Ekholt,Fohlenweg,4,,54.36619674,9.16263728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYk,25878,Seeth-Ekholt,Fohlenweg,5,,54.36707434,9.1632492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYl,25878,Seeth-Ekholt,Fohlenweg,6,,54.36673168,9.16267267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYm,25878,Seeth-Ekholt,Fohlenweg,8,,54.36703747,9.16280013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYn,25878,Seeth-Ekholt,Gööstraat,1,,54.36705266,9.16455718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYo,25878,Seeth-Ekholt,Gööstraat,10,,54.36764162,9.16346664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYp,25878,Seeth-Ekholt,Gööstraat,11,,54.36800059,9.16359087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYq,25878,Seeth-Ekholt,Gööstraat,3,,54.3673907,9.16480604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYr,25878,Seeth-Ekholt,Gööstraat,4,,54.36685187,9.16415885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYs,25878,Seeth-Ekholt,Gööstraat,5,,54.3675899,9.16504795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYt,25878,Seeth-Ekholt,Gööstraat,6,,54.36703576,9.16411393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYu,25878,Seeth-Ekholt,Gööstraat,8,,54.3674215,9.16358385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYv,25878,Seeth-Ekholt,Gööstraat,9,,54.36747454,9.16548262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYw,25878,Seeth-Ekholt,Gööstraat,9,a,54.36739787,9.16428056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYx,25878,Seeth-Ekholt,Hauptstraße,1,,54.36581397,9.15625947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYy,25878,Seeth-Ekholt,Hauptstraße,10,,54.36570727,9.16185801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQYz,25878,Seeth-Ekholt,Hauptstraße,11,,54.36565887,9.16298657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ0,25878,Seeth-Ekholt,Hauptstraße,34,,54.36585064,9.16921127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ1,25878,Seeth-Ekholt,Hauptstraße,35,,54.36504436,9.16896195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ2,25878,Seeth-Ekholt,Hauptstraße,36,,54.36605455,9.16943809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ3,25878,Seeth-Ekholt,Hauptstraße,37,,54.36499228,9.16919521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ4,25878,Seeth-Ekholt,Hauptstraße,37,a,54.36497647,9.16933506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ5,25878,Seeth-Ekholt,Hauptstraße,4,,54.36578796,9.15974544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ6,25878,Seeth-Ekholt,Hauptstraße,4,a,54.36585467,9.15980261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ7,25878,Seeth-Ekholt,Hauptstraße,41,,54.36518983,9.1694948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ8,25878,Seeth-Ekholt,Hauptstraße,42,,54.36518328,9.17009517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZ9,25878,Seeth-Ekholt,Hauptstraße,42,a,54.36546587,9.1702855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZA,25878,Seeth-Ekholt,Neulandshof,2,,54.38710172,9.17402435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZB,25878,Seeth-Ekholt,Neulandshof,4,,54.38683596,9.17457008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZC,25878,Seeth-Ekholt,Norderstraße,10,,54.36828341,9.16686132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZD,25878,Seeth-Ekholt,Norderstraße,12,,54.36875026,9.16707693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZE,25878,Seeth-Ekholt,Norderstraße,2,,54.36688225,9.16616577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZF,25878,Seeth-Ekholt,Norderstraße,4,,54.36725122,9.16665035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZG,25878,Seeth-Ekholt,Norderstraße,6,,54.36762293,9.16677148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZH,25878,Seeth-Ekholt,Norderstraße,8,,54.36791882,9.16671491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZI,25878,Seeth-Ekholt,Op de Geest,1,,54.36030752,9.1657295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZJ,25878,Seeth-Ekholt,Op de Geest,2,,54.35968121,9.16553519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZK,25878,Seeth-Ekholt,Op de Geest,3,,54.35958897,9.16665804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZL,25878,Seeth-Ekholt,Schmiedeweg,1,,54.36526371,9.16108543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZM,25878,Seeth-Ekholt,Schmiedeweg,2,,54.36518633,9.16110392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZN,25878,Seeth-Ekholt,Schmiedeweg,2,a,54.36472367,9.16096094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZO,25878,Seeth-Ekholt,Schmiedeweg,3,,54.36495268,9.16163085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZP,25878,Seeth-Ekholt,Schulring,1,,54.36598516,9.16525967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZQ,25878,Seeth-Ekholt,Schulring,1,a,54.3662928,9.16531966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZR,25878,Seeth-Ekholt,Schulring,1,b,54.36622786,9.1653592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZS,25878,Seeth-Ekholt,Schulring,1,c,54.3661645,9.16539775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZT,25878,Seeth-Ekholt,Schulring,10,,54.36446825,9.16510183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZU,25878,Seeth-Ekholt,Schulring,10,a,54.36438239,9.16554763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZV,25878,Seeth-Ekholt,Schulring,11,,54.36432673,9.1659157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZW,25878,Seeth-Ekholt,Schulring,12,,54.36523877,9.16499744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZX,25878,Seeth-Ekholt,Schulring,13,,54.36541435,9.16503281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZY,25878,Seeth-Ekholt,Schulring,14,,54.3651895,9.16455443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZZ,25878,Seeth-Ekholt,Schulring,15,,54.36555606,9.16452645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZa,25878,Seeth-Ekholt,Hauptstraße,43,,54.36497896,9.16967308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZb,25878,Seeth-Ekholt,Hauptstraße,45,,54.36474831,9.1704156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZc,25878,Seeth-Ekholt,Hauptstraße,46,,54.36519145,9.17090243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZd,25878,Seeth-Ekholt,Hauptstraße,47,,54.36467484,9.17058885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZe,25878,Seeth-Ekholt,Hauptstraße,48,,54.36466065,9.17146147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZf,25878,Seeth-Ekholt,Hauptstraße,48,a,54.36485177,9.17097908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZg,25878,Seeth-Ekholt,Hauptstraße,49,,54.36460379,9.17077452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZh,25878,Seeth-Ekholt,Hauptstraße,5,,54.3654778,9.16105047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZi,25878,Seeth-Ekholt,Hauptstraße,50,,54.36422214,9.17318734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZj,25878,Seeth-Ekholt,Hauptstraße,51,,54.36444186,9.17113974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZk,25878,Seeth-Ekholt,Hauptstraße,52,,54.36428,9.1736517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZl,25878,Seeth-Ekholt,Hauptstraße,53,,54.36429548,9.17162929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZm,25878,Seeth-Ekholt,Hauptstraße,54,,54.36414565,9.17867158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZn,25878,Seeth-Ekholt,Hauptstraße,6,,54.36572486,9.16022724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZo,25878,Seeth-Ekholt,Hauptstraße,7,,54.36547057,9.1615276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZp,25878,Seeth-Ekholt,Hauptstraße,8,,54.36566409,9.16098563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZq,25878,Seeth-Ekholt,Ilkenweg,1,,54.36530632,9.16220681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZr,25878,Seeth-Ekholt,Ilkenweg,10,,54.36473495,9.16201037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZs,25878,Seeth-Ekholt,Ilkenweg,2,,54.36535208,9.16257587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZt,25878,Seeth-Ekholt,Ilkenweg,3,,54.365212,9.16225302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZu,25878,Seeth-Ekholt,Ilkenweg,4,,54.36513419,9.16296344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZv,25878,Seeth-Ekholt,Ilkenweg,6,,54.36485097,9.16295506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZw,25878,Seeth-Ekholt,Ilkenweg,8,,54.36461721,9.16244643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZx,25878,Seeth-Ekholt,Ilkenweg,8,a,54.36452246,9.16248676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZy,25878,Seeth-Ekholt,Mildterkoog,1,,54.37870273,9.15526335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eQZz,25878,Seeth-Ekholt,Neulandshof,1,,54.38593445,9.18079271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR00,25878,Seeth-Ekholt,Schulring,15,a,54.36552868,9.16436784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR01,25878,Seeth-Ekholt,Schulring,15,b,54.3654502,9.1643963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR02,25878,Seeth-Ekholt,Schulring,16,,54.36519562,9.16426858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR03,25878,Seeth-Ekholt,Schulring,18,,54.3651021,9.16395463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR04,25878,Seeth-Ekholt,Schulring,18,a,54.36563374,9.16358519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR05,25878,Seeth-Ekholt,Schulring,2,,54.36621406,9.16572926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR06,25878,Seeth-Ekholt,Schulring,2,a,54.36580993,9.16589793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR07,25878,Seeth-Ekholt,Schulring,22,,54.36484227,9.16381879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR08,25878,Seeth-Ekholt,Schulring,24,,54.3650572,9.16367743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR09,25878,Seeth-Ekholt,Schulring,26,,54.36530682,9.16355924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0A,25878,Seeth-Ekholt,Süderstraße,8,,54.36350448,9.16945085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0B,25878,Seeth-Ekholt,Süderstraße,9,,54.3635141,9.16875434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0C,25878,Seeth-Ekholt,Westerstraße,1,,54.36613758,9.16111082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0D,25878,Seeth-Ekholt,Westerstraße,11,,54.36744616,9.16261947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0E,25878,Seeth-Ekholt,Westerstraße,2,,54.366647,9.16148867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0F,25878,Seeth-Ekholt,Westerstraße,3,,54.36632823,9.16035273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0G,25878,Seeth-Ekholt,Westerstraße,4,,54.36682241,9.16186963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0H,25878,Seeth-Ekholt,Westerstraße,5,,54.3664584,9.16096982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0I,25878,Seeth-Ekholt,Westerstraße,7,,54.36670286,9.16115329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0J,25878,Seeth-Ekholt,Westerstraße,9,,54.36697113,9.16089535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0K,25878,Seeth-Ekholt,Dornebüller-Hof,1,,54.38136329,9.17413576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0L,25878,Seeth-Ekholt,Süderweg,1,,54.36441699,9.1682989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0M,25878,Seeth-Ekholt,Süderweg,10,,54.36321006,9.16831288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0N,25878,Seeth-Ekholt,Süderweg,2,,54.36432308,9.1679564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0O,25878,Seeth-Ekholt,Süderweg,3,,54.36416199,9.16827791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0P,25878,Seeth-Ekholt,Süderweg,4,,54.3638245,9.16797944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0Q,25878,Seeth-Ekholt,Süderweg,5,,54.36388524,9.16828897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0R,25878,Seeth-Ekholt,Süderweg,7,,54.36360884,9.16795407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0S,25878,Seeth-Ekholt,Süderweg,8,,54.36337362,9.16794012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0T,25878,Seeth-Ekholt,Süderweg,9,,54.36310938,9.16797698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0U,25878,Seeth-Ekholt,Nordholm,1,,54.37414533,9.16897113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0V,25878,Seeth-Ekholt,An der Chaussee,2,,54.36590253,9.14243263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0a,25878,Seeth-Ekholt,Schulring,3,,54.36568983,9.16553164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0b,25878,Seeth-Ekholt,Schulring,4,,54.36563688,9.16598254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0c,25878,Seeth-Ekholt,Schulring,5,,54.36557086,9.16554664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0d,25878,Seeth-Ekholt,Schulring,6,,54.365284,9.16573379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0e,25878,Seeth-Ekholt,Schulring,7,,54.36541992,9.16557288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0f,25878,Seeth-Ekholt,Schulring,8,,54.36486896,9.16523014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0g,25878,Seeth-Ekholt,Schulring,9,,54.36493111,9.16562088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0h,25878,Seeth-Ekholt,Süderstraße,1,,54.36449365,9.16953614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0i,25878,Seeth-Ekholt,Süderstraße,1,a,54.36460328,9.16887366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0j,25878,Seeth-Ekholt,Süderstraße,10,,54.36319021,9.16936174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0k,25878,Seeth-Ekholt,Süderstraße,11,,54.3632448,9.16879811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0l,25878,Seeth-Ekholt,Süderstraße,14,,54.36274252,9.16922147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0m,25878,Seeth-Ekholt,Süderstraße,15,,54.36252012,9.16888286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0n,25878,Seeth-Ekholt,Süderstraße,16,,54.36276247,9.16874647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0o,25878,Seeth-Ekholt,Süderstraße,17,,54.36246058,9.16819813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0p,25878,Seeth-Ekholt,Süderstraße,18,,54.36278262,9.16823089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0q,25878,Seeth-Ekholt,Süderstraße,2,,54.36486378,9.17004594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0r,25878,Seeth-Ekholt,Süderstraße,20,,54.3628032,9.16781711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0s,25878,Seeth-Ekholt,Süderstraße,21,,54.36428904,9.16996958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0t,25878,Seeth-Ekholt,Süderstraße,22,,54.36406008,9.16992868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0u,25878,Seeth-Ekholt,Süderstraße,23,,54.36384088,9.16990755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0v,25878,Seeth-Ekholt,Süderstraße,3,,54.36412362,9.16945229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0w,25878,Seeth-Ekholt,Süderstraße,4,,54.36393118,9.16949158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0x,25878,Seeth-Ekholt,Süderstraße,5,,54.36417222,9.16885693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0y,25878,Seeth-Ekholt,Süderstraße,6,,54.36368593,9.16946787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eR0z,25878,Seeth-Ekholt,Süderstraße,7,,54.36398588,9.16885332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Idrj,25878,Seeth-Ekholt,Süderweg,6,,54.36353469,9.16835473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KOmr,25878,Seeth-Ekholt,Ilkenweg,10,a,54.36453002,9.16179596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KOmv,25878,Seeth-Ekholt,Ilkenweg,4,a,54.36517558,9.16310012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KqMc,25878,Seeth-Ekholt,Achterum,2,,54.35776884,9.15662658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004S8VR,25878,Seeth-Ekholt,Süderende,2,,54.35255466,9.16334112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TKER,25878,Seeth-Ekholt,Norderstraße,13,,54.36860922,9.16965558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TMKV,25878,Seeth-Ekholt,Schulring,9,a,54.36486248,9.16432663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TML0,25878,Seeth-Ekholt,Schulring,28,,54.36556061,9.16332089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDF,25878,Seeth-Ekholt,Dahrnweg,1,b,54.3537994,9.16118506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDG,25878,Seeth-Ekholt,Dahrnweg,1,c,54.35377371,9.16131256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDH,25878,Seeth-Ekholt,Dahrnweg,1,d,54.35371466,9.1614434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDI,25878,Seeth-Ekholt,Dahrnweg,1,e,54.35368999,9.16156508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDJ,25878,Seeth-Ekholt,Dahrnweg,1,f,54.35364966,9.16091347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDK,25878,Seeth-Ekholt,Dahrnweg,1,g,54.35362457,9.16104271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDL,25878,Seeth-Ekholt,Dahrnweg,1,h,54.35356551,9.16118231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TpDM,25878,Seeth-Ekholt,Dahrnweg,1,i,54.35354236,9.16129881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056dfC,25878,Seeth-Ekholt,Heitmannsweg,7,,54.35628782,9.15583799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056dfS,25878,Seeth-Ekholt,Heitmannsweg,3,a,54.35590499,9.1556614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056dxq,25878,Seeth-Ekholt,Heitmannsweg,3,,54.35570496,9.15562284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056dyl,25878,Seeth-Ekholt,Heitmannsweg,1,,54.35553688,9.15560311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Esoq,25878,Seeth-Ekholt,Alter Kirchenweg,27,a,54.36219714,9.18120888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Fv14,25878,Seeth-Ekholt,Achterum,10,a,54.35678126,9.15927561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Nu36,25878,Seeth-Ekholt,Alter Kirchenweg,25,a,54.3619218,9.18068747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005TFJ2,25878,Seeth-Ekholt,Achterum,1,a,54.35751555,9.15709208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005U3eH,25878,Seeth-Ekholt,Hauptstraße,100,,54.36225226,9.19012051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005czQ5,25878,Seeth-Ekholt,Holm,2,,54.3611496,9.15498869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005goiA,25878,Seeth-Ekholt,Dorfstraße,10,a,54.35577675,9.15723573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065xsC,25878,Seeth-Ekholt,Achterum,2,a,54.35809881,9.15677257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKU9,25878,Seeth-Ekholt,Woorden,1,,54.36411222,9.15742259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUB,25878,Seeth-Ekholt,Woorden,4,,54.36453099,9.15783863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUF,25878,Seeth-Ekholt,Woorden,6,,54.36480017,9.15794039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUd,25878,Seeth-Ekholt,Woorden,3,,54.36429339,9.1572808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUl,25878,Seeth-Ekholt,Woorden,7,,54.36463061,9.15726447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUp,25878,Seeth-Ekholt,Woorden,9,,54.3648403,9.15728603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUt,25878,Seeth-Ekholt,Woorden,11,,54.36497079,9.15740006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BKUx,25878,Seeth-Ekholt,Woorden,2,,54.36426299,9.15766232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BeUH,25878,Seeth-Ekholt,Süderstraße,24,,54.36358299,9.16988553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CT8a,25878,Seeth-Ekholt,Meiereiweg,3,,54.35585367,9.15997824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006J8Y6,25878,Seeth-Ekholt,Sandweg,1,,54.36072554,9.15353672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006P3QM,25878,Seeth-Ekholt,Thomsgang,8,,54.35488954,9.15585895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PUPo,25878,Seeth-Ekholt,Dorfstraße,8,,54.35635979,9.1571404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VtAn,25878,Seeth-Ekholt,Bahnhofstraße,7,b,54.36368254,9.15726734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YWeW,25878,Seeth-Ekholt,Bahnhofstraße,7,c,54.36353922,9.15701243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ghQl,25878,Seeth-Ekholt,Seether Straße,6,a,53.73080103,9.72980144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3A,25878,Seeth-Ekholt,Mühlenweg,1,e,54.35474979,9.16218601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3B,25878,Seeth-Ekholt,Mühlenweg,1,f,54.35471912,9.16230937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3C,25878,Seeth-Ekholt,Mühlenweg,1,g,54.35465034,9.16243009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3D,25878,Seeth-Ekholt,Mühlenweg,1,h,54.35461797,9.16256094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3w,25878,Seeth-Ekholt,Mühlenweg,1,a,54.35490075,9.1615769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3x,25878,Seeth-Ekholt,Mühlenweg,1,b,54.35487285,9.16168941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3y,25878,Seeth-Ekholt,Mühlenweg,1,c,54.35480201,9.16181784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mY3z,25878,Seeth-Ekholt,Mühlenweg,1,d,54.3547692,9.16195007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oeub,25878,Seeth-Ekholt,Deichweg,6,c,54.35352352,9.1585481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oeuc,25878,Seeth-Ekholt,Deichweg,6,b,54.35363194,9.15853309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qKFD,25878,Seeth-Ekholt,Holm,14,,54.35918993,9.1555193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wXxF,25878,Seeth-Ekholt,Deichweg,12,c,54.35336861,9.157426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wXxq,25878,Seeth-Ekholt,Deichweg,12,a,54.35352123,9.15814076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wXxu,25878,Seeth-Ekholt,Deichweg,12,b,54.35323527,9.15800977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CFUl,25878,Seeth-Ekholt,Woorden,9,a,54.36484747,9.1571493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CciE,25878,Seeth-Ekholt,Süderstraße,28,,54.36275614,9.16967819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CciJ,25878,Seeth-Ekholt,Süderstraße,27,,54.36294698,9.16969312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007CciQ,25878,Seeth-Ekholt,Süderstraße,26,,54.36314162,9.16989573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ccj0,25878,Seeth-Ekholt,Süderstraße,25,,54.36339014,9.16995133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZL5,25878,Seeth-Ekholt,Heidkoppel,12,,54.35508606,9.16518017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZLS,25878,Seeth-Ekholt,Heidkoppel,19,,54.35529447,9.1650041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZLe,25878,Seeth-Ekholt,Heidkoppel,10,,54.3550667,9.16548847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZLx,25878,Seeth-Ekholt,Heidkoppel,14,,54.35520375,9.16489086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZM3,25878,Seeth-Ekholt,Heidkoppel,17,,54.3553035,9.16531183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZMD,25878,Seeth-Ekholt,Heidkoppel,9,,54.35496428,9.16574825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZMh,25878,Seeth-Ekholt,Heidkoppel,11,,54.35516915,9.16581386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZMo,25878,Seeth-Ekholt,Heidkoppel,15,,54.35517307,9.16553318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZNH,25878,Seeth-Ekholt,Heidkoppel,5,,54.35453954,9.16570017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZNI,25878,Seeth-Ekholt,Heidkoppel,13,,54.35535518,9.16593593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007FZNm,25878,Seeth-Ekholt,Heidkoppel,7,,54.35483546,9.1656937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IB7t,25878,Seeth-Ekholt,Achterum,8,a,54.3573622,9.1584384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IlGL,25878,Seeth-Ekholt,Dorfstraße,6,e,54.35666665,9.15732139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IlGO,25878,Seeth-Ekholt,Dorfstraße,6,d,54.35673144,9.15725896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IlGR,25878,Seeth-Ekholt,Dorfstraße,6,c,54.35678402,9.15719974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IlGV,25878,Seeth-Ekholt,Dorfstraße,6,b,54.35663112,9.15694755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IlGY,25878,Seeth-Ekholt,Dorfstraße,6,a,54.35669508,9.15688434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M6HV,25878,Seeth-Ekholt,Bahnhofstraße,7,j,54.3629255,9.15630463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M6I2,25878,Seeth-Ekholt,Bahnhofstraße,7,g,54.36309997,9.15643711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M6I3,25878,Seeth-Ekholt,Bahnhofstraße,7,h,54.36314651,9.15648038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M6I4,25878,Seeth-Ekholt,Bahnhofstraße,7,i,54.36319479,9.15652527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007S8gC,25878,Seeth-Ekholt,Hauptstraße,61,,54.36393915,9.17311734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZKO,25878,Seeth-Ekholt,Hauptstraße,57,,54.36411455,9.17238322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZKP,25878,Seeth-Ekholt,Hauptstraße,57,a,54.36404414,9.17238001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZKQ,25878,Seeth-Ekholt,Hauptstraße,57,b,54.36410948,9.17241081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZKZ,25878,Seeth-Ekholt,Hauptstraße,59,,54.36404986,9.17273582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZL0,25878,Seeth-Ekholt,Hauptstraße,59,a,54.36395001,9.17266607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007UZL1,25878,Seeth-Ekholt,Hauptstraße,59,b,54.36405697,9.17269707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSRW,25878,Seeth-Ekholt,Dorfstraße,8,b,54.35637665,9.15772169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSRY,25878,Seeth-Ekholt,Dorfstraße,8,c,54.35629536,9.15771363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSS0,25878,Seeth-Ekholt,Dorfstraße,8,a,54.35635594,9.15724405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSS3,25878,Seeth-Ekholt,Dorfstraße,8,f,54.35610991,9.15723126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSS5,25878,Seeth-Ekholt,Dorfstraße,8,g,54.35604843,9.15723286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSS8,25878,Seeth-Ekholt,Dorfstraße,8,d,54.35607261,9.15768483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jSSa,25878,Seeth-Ekholt,Dorfstraße,8,e,54.35599534,9.15767738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lGAu,25878,Seeth-Ekholt,Bahnhofstraße,7,,54.36391727,9.15787464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lGy1,25878,Seeth-Ekholt,Bahnhofstraße,7,d,54.36331751,9.15670204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lGy6,25878,Seeth-Ekholt,Bahnhofstraße,7,f,54.36293826,9.15599288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lGyd,25878,Seeth-Ekholt,Bahnhofstraße,7,a,54.36375037,9.15768793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n8pj,25878,Seeth-Ekholt,Dorfstraße,36,a,54.35257296,9.16516138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n8pk,25878,Seeth-Ekholt,Dorfstraße,36,b,54.35257815,9.16518948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n8pl,25878,Seeth-Ekholt,Dorfstraße,36,c,54.35258453,9.16521923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zv9C,25878,Seeth-Ekholt,Westerstraße,1,a,54.35736868,9.15505112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AC3A,25878,Seeth-Ekholt,Westerstraße,1,c,54.35763249,9.15535282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bx4P,25878,Seeth-Ekholt,Gööstraat,1,a,54.3668881,9.16443368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bx4Q,25878,Seeth-Ekholt,Gööstraat,1,b,54.3668881,9.16443368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bx4R,25878,Seeth-Ekholt,Gööstraat,1,c,54.36677226,9.16437763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bx4S,25878,Seeth-Ekholt,Gööstraat,1,d,54.3668881,9.16443368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Bx4T,25878,Seeth-Ekholt,Gööstraat,1,e,54.3668881,9.16443368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cbq8,25878,Seeth-Ekholt,Westerstraße,1,b,54.35737369,9.15489878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EKjQ,25878,Seeth-Ekholt,Dorfstraße,31,,54.35326455,9.1631054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008EKjU,25878,Seeth-Ekholt,Dorfstraße,31,a,54.35317889,9.16308532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F2iC,25878,Seeth-Ekholt,Hinterm Ehrenmal,3,,54.36464926,9.1603258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F2iI,25878,Seeth-Ekholt,Hinterm Ehrenmal,7,,54.36449051,9.16128837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F2iJ,25878,Seeth-Ekholt,Hinterm Ehrenmal,7,a,54.36447323,9.16149357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008F2iy,25878,Seeth-Ekholt,Hinterm Ehrenmal,1,,54.36474799,9.16006954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008iUyq,25878,Seeth-Ekholt,Gööstraat,2,,54.36642668,9.16404423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jATR,25878,Seeth-Ekholt,Woorden,6,a,54.36489433,9.15814315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yxen,25878,Seeth-Ekholt,Achterum,3,a,54.35702959,9.15820753

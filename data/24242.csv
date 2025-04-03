@@ -1,0 +1,963 @@
+# Amtliche Adressen für die Postleitzahl 24242
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA0,24242,Felde,Dorfstraße,104,,54.29709451,9.92453281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA1,24242,Felde,Dorfstraße,105,,54.29725128,9.927624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA2,24242,Felde,Dorfstraße,106,,54.29693967,9.92414276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA3,24242,Felde,Dorfstraße,106,a,54.29711577,9.92397702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA4,24242,Felde,Dorfstraße,107,,54.29714344,9.92712439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA5,24242,Felde,Dorfstraße,108,,54.29693229,9.92376547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA6,24242,Felde,Dorfstraße,108,a,54.29723274,9.92361418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA7,24242,Felde,Dorfstraße,109,,54.29682038,9.92659556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA8,24242,Felde,Dorfstraße,11,,54.30848277,9.94416196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUA9,24242,Felde,Dorfstraße,110,,54.29665006,9.92371576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAA,24242,Felde,Dorfstraße,14,a,54.30884311,9.94416872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAB,24242,Felde,Dorfstraße,14,b,54.30869736,9.94394127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAC,24242,Felde,Dorfstraße,15,,54.30805452,9.94364352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAD,24242,Felde,Dorfstraße,15,a,54.30786103,9.94345175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAE,24242,Felde,Dorfstraße,16,,54.30850802,9.94379177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAF,24242,Felde,Dorfstraße,17,,54.30759031,9.94306531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAG,24242,Felde,Dorfstraße,18,,54.30823343,9.94339247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAH,24242,Felde,Dorfstraße,19,,54.30745774,9.94266814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAI,24242,Felde,Dorfstraße,2,,54.30974753,9.9439452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAJ,24242,Felde,Dorfstraße,20,,54.30801154,9.94291293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAK,24242,Felde,Dorfstraße,21,,54.3071257,9.94255166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAL,24242,Felde,Dorfstraße,22,,54.3080769,9.94262347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAM,24242,Felde,Dorfstraße,23,,54.3069197,9.94232898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAO,24242,Felde,Dorfstraße,25,,54.30682146,9.94204447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAQ,24242,Felde,Dorfstraße,27,,54.30665056,9.94190397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAR,24242,Felde,Dorfstraße,29,,54.30625964,9.94181019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAS,24242,Felde,Dorfstraße,3,,54.30953158,9.94641548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAT,24242,Felde,Dorfstraße,3,a,54.30948972,9.94622185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAU,24242,Felde,Dorfstraße,31,,54.30622284,9.9405733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAV,24242,Felde,Dorfstraße,32,,54.30688231,9.94120788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAW,24242,Felde,Dorfstraße,33,,54.30605854,9.94019742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAX,24242,Felde,Dorfstraße,34,,54.30679838,9.94087654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAY,24242,Felde,Dorfstraße,35,,54.30587232,9.94003329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAZ,24242,Felde,Dorfstraße,36,,54.30666962,9.94062428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAa,24242,Felde,Dorfstraße,110,a,54.29675332,9.92317064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAb,24242,Felde,Dorfstraße,110,b,54.29684601,9.92346131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAc,24242,Felde,Dorfstraße,111,,54.29705997,9.92648805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAd,24242,Felde,Dorfstraße,111,a,54.29703927,9.9263498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAe,24242,Felde,Dorfstraße,112,,54.29632824,9.92307602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAf,24242,Felde,Dorfstraße,113,,54.29695655,9.9258578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAg,24242,Felde,Dorfstraße,114,,54.29621508,9.92231179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAh,24242,Felde,Dorfstraße,115,,54.29681562,9.92493349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAi,24242,Felde,Dorfstraße,115,a,54.29677104,9.92538369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAj,24242,Felde,Dorfstraße,115,b,54.29664235,9.92551022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAk,24242,Felde,Dorfstraße,117,,54.29639448,9.92494539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAl,24242,Felde,Dorfstraße,119,,54.29635168,9.92481247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAm,24242,Felde,Dorfstraße,12,,54.30948929,9.94417678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAn,24242,Felde,Dorfstraße,121,,54.2957743,9.92454129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAo,24242,Felde,Dorfstraße,121,a,54.29560205,9.92456696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAp,24242,Felde,Dorfstraße,121,b,54.29544807,9.92450449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAq,24242,Felde,Dorfstraße,123,,54.29630867,9.92445469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAr,24242,Felde,Dorfstraße,125,,54.29646029,9.92395502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAs,24242,Felde,Dorfstraße,127,,54.2961748,9.92391224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAt,24242,Felde,Dorfstraße,127,a,54.29592333,9.92407869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAu,24242,Felde,Dorfstraße,127,b,54.29615592,9.923504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAv,24242,Felde,Dorfstraße,129,,54.29583747,9.92289847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAw,24242,Felde,Dorfstraße,129,a,54.29564226,9.9231157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAx,24242,Felde,Dorfstraße,129,c,54.29522195,9.92344264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAy,24242,Felde,Dorfstraße,13,,54.30837001,9.94399345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUAz,24242,Felde,Dorfstraße,14,,54.30903048,9.94427968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB0,24242,Felde,Dorfstraße,37,,54.30562674,9.93962621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB1,24242,Felde,Dorfstraße,37,a,54.30533371,9.93955003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB2,24242,Felde,Dorfstraße,38,,54.30658446,9.94040844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB4,24242,Felde,Dorfstraße,39,a,54.30501795,9.93931128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB5,24242,Felde,Dorfstraße,4,,54.30971308,9.94443795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB6,24242,Felde,Dorfstraße,40,,54.30641219,9.94015159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB7,24242,Felde,Dorfstraße,40,a,54.30637304,9.93982445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB8,24242,Felde,Dorfstraße,40,b,54.30620074,9.93979797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUB9,24242,Felde,Dorfstraße,40,c,54.30618446,9.93950507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBA,24242,Felde,Dorfstraße,67,,54.30205861,9.93606905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBB,24242,Felde,Dorfstraße,68,,54.30240509,9.93598712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBC,24242,Felde,Dorfstraße,69,,54.30185699,9.93582154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBD,24242,Felde,Dorfstraße,7,,54.30899518,9.94560544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBE,24242,Felde,Dorfstraße,70,,54.3022458,9.93574167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBF,24242,Felde,Dorfstraße,71,,54.30161083,9.93567719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBG,24242,Felde,Dorfstraße,72,,54.30190224,9.93549591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBH,24242,Felde,Dorfstraße,73,,54.30148502,9.93549109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBI,24242,Felde,Dorfstraße,74,,54.30151195,9.93495292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBJ,24242,Felde,Dorfstraße,75,,54.30128827,9.93527326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBK,24242,Felde,Dorfstraße,76,,54.30089364,9.93431177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBL,24242,Felde,Dorfstraße,77,,54.30109167,9.93527874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBM,24242,Felde,Dorfstraße,78,,54.30085415,9.93385216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBN,24242,Felde,Dorfstraße,79,,54.30098032,9.93506515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBO,24242,Felde,Dorfstraße,8,,54.30933763,9.94517479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBP,24242,Felde,Dorfstraße,8,a,54.30950568,9.94506516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBQ,24242,Felde,Dorfstraße,80,,54.30064683,9.93391121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBR,24242,Felde,Dorfstraße,81,,54.30089819,9.93491567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBS,24242,Felde,Dorfstraße,82,,54.30026264,9.93370442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBT,24242,Felde,Dorfstraße,83,,54.30067371,9.93500266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBU,24242,Felde,Dorfstraße,84,,54.30027944,9.93324872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBV,24242,Felde,Dorfstraße,85,,54.30057862,9.93465304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBW,24242,Felde,Dorfstraße,86,,54.29859818,9.92933346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBX,24242,Felde,Dorfstraße,87,,54.30029805,9.93453435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBY,24242,Felde,Dorfstraße,87,a,54.30040378,9.93424826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBZ,24242,Felde,Dorfstraße,88,,54.29849302,9.92899054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBa,24242,Felde,Dorfstraße,40,d,54.30608534,9.93936517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBb,24242,Felde,Dorfstraße,41,,54.30482744,9.93893685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBc,24242,Felde,Dorfstraße,42,,54.30586732,9.939151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBd,24242,Felde,Dorfstraße,42,a,54.30611978,9.93860208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBe,24242,Felde,Dorfstraße,42,b,54.30589726,9.93835734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBf,24242,Felde,Dorfstraße,43,,54.3044825,9.93836378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBg,24242,Felde,Dorfstraße,44,,54.30569731,9.93873476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBh,24242,Felde,Dorfstraße,45,,54.30430721,9.93910101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBi,24242,Felde,Dorfstraße,45,a,54.30429238,9.93849796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBj,24242,Felde,Dorfstraße,46,,54.3055524,9.93918932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBk,24242,Felde,Dorfstraße,47,,54.30400996,9.93847626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBl,24242,Felde,Dorfstraße,47,a,54.3040373,9.93806042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBm,24242,Felde,Dorfstraße,49,,54.30369975,9.93769079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBn,24242,Felde,Dorfstraße,5,,54.30932297,9.94585323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBo,24242,Felde,Dorfstraße,51,,54.30339946,9.93748324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBp,24242,Felde,Dorfstraße,53,,54.3034012,9.93811948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBq,24242,Felde,Dorfstraße,55,,54.30308753,9.93723382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBr,24242,Felde,Dorfstraße,57,,54.30291986,9.9371402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBs,24242,Felde,Dorfstraße,59,,54.30278843,9.936987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBt,24242,Felde,Dorfstraße,6,,54.3095585,9.94547824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBu,24242,Felde,Dorfstraße,61,,54.30259603,9.93695431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBv,24242,Felde,Dorfstraße,62,,54.30294385,9.93649642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBw,24242,Felde,Dorfstraße,63,,54.30242417,9.93681863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBx,24242,Felde,Dorfstraße,64,,54.3027933,9.93623388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBy,24242,Felde,Dorfstraße,65,,54.30227374,9.93663426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUBz,24242,Felde,Dorfstraße,66,,54.30257165,9.93619798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC0,24242,Felde,Dorfstraße,89,,54.30007965,9.9342575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC1,24242,Felde,Dorfstraße,9,,54.30870174,9.94460331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC2,24242,Felde,Dorfstraße,9,a,54.30822827,9.9448372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC3,24242,Felde,Dorfstraße,90,,54.29821075,9.92875048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC4,24242,Felde,Dorfstraße,91,,54.29997016,9.93395985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC5,24242,Felde,Dorfstraße,92,,54.2982046,9.92810319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC6,24242,Felde,Dorfstraße,93,,54.29868481,9.93035865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC7,24242,Felde,Dorfstraße,93,a,54.2985398,9.93051754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC8,24242,Felde,Dorfstraße,93,b,54.29854297,9.93067094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUC9,24242,Felde,Dorfstraße,94,,54.29752266,9.92763981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCA,24242,Felde,Ahornweg,33,,54.30735472,9.93829475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCB,24242,Felde,Ahornweg,35,,54.30752535,9.93824194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCC,24242,Felde,Ahornweg,37,,54.30775443,9.93800352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCD,24242,Felde,Ahornweg,39,,54.3079558,9.93802404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCE,24242,Felde,Ahornweg,4,,54.30762123,9.94201105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCF,24242,Felde,Ahornweg,5,,54.30745797,9.94091359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCG,24242,Felde,Ahornweg,6,,54.30777026,9.94192827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCH,24242,Felde,Ahornweg,7,,54.30729682,9.94062645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCI,24242,Felde,Ahornweg,8,,54.30718688,9.93947977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCJ,24242,Felde,Ahornweg,9,,54.30713447,9.94019501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCK,24242,Felde,Am See,1,,54.29715185,9.92767582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCL,24242,Felde,Am See,11,,54.29623162,9.92930392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCM,24242,Felde,Am See,13,,54.29603792,9.92904627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCN,24242,Felde,Am See,14,,54.2939077,9.92704505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCO,24242,Felde,Am See,15,,54.29588968,9.92905652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCP,24242,Felde,Am See,17,,54.29560487,9.9294339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCQ,24242,Felde,Am See,19,,54.29544755,9.9290785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCR,24242,Felde,Am See,2,,54.29696962,9.92760205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCS,24242,Felde,Am See,21,,54.2952591,9.92928359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCT,24242,Felde,Am See,23,,54.2950709,9.92916911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCU,24242,Felde,Am See,25,,54.29495453,9.92909854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCV,24242,Felde,Am See,27,,54.29468314,9.92867613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCW,24242,Felde,Am See,29,,54.29452358,9.9282237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCX,24242,Felde,Am See,3,,54.29708078,9.92777201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCY,24242,Felde,Am See,31,,54.29422063,9.92795953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCZ,24242,Felde,Am See,33,,54.29370781,9.92768419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCa,24242,Felde,Dorfstraße,95,,54.2982814,9.92971775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCb,24242,Felde,Dorfstraße,96,,54.29726859,9.92643154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCc,24242,Felde,Dorfstraße,97,,54.29816648,9.9294613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCd,24242,Felde,Dorfstraße,98,,54.2972505,9.92609782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCe,24242,Felde,Dorfstraße,99,,54.29805253,9.92924648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCf,24242,Felde,Ahornweg,1,,54.30716823,9.94164471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCg,24242,Felde,Ahornweg,10,,54.30700336,9.93886518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCh,24242,Felde,Ahornweg,11,,54.30703373,9.93991297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCi,24242,Felde,Ahornweg,12,,54.30724202,9.93885546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCj,24242,Felde,Ahornweg,13,,54.30694135,9.93968034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCk,24242,Felde,Ahornweg,14,,54.30739226,9.9387844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCl,24242,Felde,Ahornweg,15,,54.30687905,9.93945628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCm,24242,Felde,Ahornweg,16,,54.3076321,9.93856392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCn,24242,Felde,Ahornweg,17,,54.3068073,9.93915188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCo,24242,Felde,Ahornweg,18,,54.30783356,9.93855347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCp,24242,Felde,Ahornweg,19,,54.30652974,9.93913712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCq,24242,Felde,Ahornweg,2,,54.30745685,9.94205682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCr,24242,Felde,Ahornweg,20,,54.30807276,9.93849465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCs,24242,Felde,Ahornweg,21,,54.30650594,9.93883929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCt,24242,Felde,Ahornweg,23,a,54.30645623,9.93853698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCu,24242,Felde,Ahornweg,23,b,54.30645216,9.93838341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCv,24242,Felde,Ahornweg,25,,54.30666024,9.93865731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCw,24242,Felde,Ahornweg,27,,54.306835,9.93859713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCx,24242,Felde,Ahornweg,29,,54.30700821,9.9385221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCy,24242,Felde,Ahornweg,3,,54.30746087,9.9413629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUCz,24242,Felde,Ahornweg,31,,54.30717885,9.93843177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD0,24242,Felde,Am See,35,,54.29352873,9.9275308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD1,24242,Felde,Am See,4,,54.29680752,9.92789499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD2,24242,Felde,Am See,5,,54.29707665,9.92787822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD3,24242,Felde,Am See,7,,54.2969528,9.92811573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD4,24242,Felde,Am See,9,,54.29700391,9.92872513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD5,24242,Felde,Seekatenweg,14,,54.29651696,9.929782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD6,24242,Felde,Seekatenweg,16,,54.29668823,9.93007266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD7,24242,Felde,Seekatenweg,18,,54.29704498,9.93022972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUD8,24242,Felde,Seekatenweg,2,,54.2964611,9.92878223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDA,24242,Felde,Raiffeisenstraße,9,,54.29919247,9.93526876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDB,24242,Felde,Raiffeisenstraße,9,a,54.29878001,9.93615822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDC,24242,Felde,Tanneneck,1,,54.29828767,9.93766572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDD,24242,Felde,Tanneneck,10,,54.29897391,9.93698038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDE,24242,Felde,Tanneneck,11,,54.29884691,9.93719702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDF,24242,Felde,Tanneneck,12,,54.29879094,9.93767737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDG,24242,Felde,Tanneneck,13,,54.29861987,9.93747523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDH,24242,Felde,Tanneneck,14,,54.29843179,9.93729604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDI,24242,Felde,Tanneneck,2,,54.29847624,9.93784684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDJ,24242,Felde,Tanneneck,3,,54.29862834,9.93802173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDK,24242,Felde,Tanneneck,4,,54.29877748,9.93823192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDL,24242,Felde,Tanneneck,5,,54.2989195,9.93843481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDM,24242,Felde,Tanneneck,6,,54.29901439,9.93798881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDN,24242,Felde,Tanneneck,7,,54.29909603,9.93764584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDO,24242,Felde,Tanneneck,8,,54.29926266,9.93741805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDP,24242,Felde,Tanneneck,9,,54.29912951,9.93722001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDQ,24242,Felde,Pommernweg,1,,54.29961666,9.935805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDR,24242,Felde,Pommernweg,10,,54.29956091,9.93618368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDS,24242,Felde,Pommernweg,11,,54.30014384,9.93583865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDT,24242,Felde,Pommernweg,12,,54.2997016,9.93637601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDU,24242,Felde,Pommernweg,13,,54.29997914,9.93624413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDV,24242,Felde,Pommernweg,14,,54.29981777,9.93649903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDW,24242,Felde,Pommernweg,15,,54.30018718,9.93632081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDX,24242,Felde,Pommernweg,16,,54.29998781,9.93659062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDY,24242,Felde,Pommernweg,17,,54.30030655,9.93650287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDZ,24242,Felde,Pommernweg,18,,54.30006419,9.9367335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDa,24242,Felde,Seekatenweg,3,,54.29686936,9.92932907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDb,24242,Felde,Seekatenweg,4,,54.29650558,9.92890454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDc,24242,Felde,Seekatenweg,8,,54.29667289,9.92935132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDd,24242,Felde,Raiffeisenstraße,1,,54.29969164,9.93377177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDe,24242,Felde,Raiffeisenstraße,10,,54.29860986,9.93578925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDf,24242,Felde,Raiffeisenstraße,10,a,54.29849132,9.93602064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDg,24242,Felde,Raiffeisenstraße,11,,54.29865831,9.93646486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDh,24242,Felde,Raiffeisenstraße,12,,54.29836067,9.93632459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDi,24242,Felde,Raiffeisenstraße,12,a,54.29831783,9.93660032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDj,24242,Felde,Raiffeisenstraße,13,,54.29857143,9.93672284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDk,24242,Felde,Raiffeisenstraße,15,,54.29849538,9.93692102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDl,24242,Felde,Raiffeisenstraße,17,,54.29764554,9.93920773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDm,24242,Felde,Raiffeisenstraße,2,,54.29951211,9.93338014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDn,24242,Felde,Raiffeisenstraße,2,a,54.29938034,9.93392946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDo,24242,Felde,Raiffeisenstraße,3,,54.29955896,9.93435904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDp,24242,Felde,Raiffeisenstraße,3,a,54.2994655,9.93465825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDq,24242,Felde,Raiffeisenstraße,4,,54.29888114,9.93479953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDr,24242,Felde,Raiffeisenstraße,5,,54.299758,9.934655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDs,24242,Felde,Raiffeisenstraße,6,,54.29881545,9.93534352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDt,24242,Felde,Raiffeisenstraße,7,,54.29938713,9.93487816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDu,24242,Felde,Raiffeisenstraße,7,a,54.2993614,9.93494453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDv,24242,Felde,Raiffeisenstraße,7,b,54.299336,9.93500994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDw,24242,Felde,Raiffeisenstraße,7,c,54.29930213,9.93509714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDx,24242,Felde,Raiffeisenstraße,7,d,54.29956903,9.93509497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDy,24242,Felde,Raiffeisenstraße,7,e,54.29962373,9.93524338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUDz,24242,Felde,Raiffeisenstraße,8,,54.29870595,9.93555257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE0,24242,Felde,Pommernweg,19,,54.30041104,9.93662286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE1,24242,Felde,Pommernweg,2,,54.29903842,9.93555218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE2,24242,Felde,Pommernweg,20,,54.30016681,9.93682589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE3,24242,Felde,Pommernweg,21,,54.30051761,9.93673454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE4,24242,Felde,Pommernweg,22,,54.30028963,9.93693338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE5,24242,Felde,Pommernweg,23,,54.30085557,9.93645022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE6,24242,Felde,Pommernweg,24,,54.30040888,9.93701681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE7,24242,Felde,Pommernweg,25,,54.3007675,9.93607221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE8,24242,Felde,Pommernweg,26,,54.30053674,9.9371385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUE9,24242,Felde,Pommernweg,27,,54.30109492,9.9358852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEA,24242,Felde,Wulfsfelder Weg,25,,54.29980031,9.94245595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEB,24242,Felde,Wulfsfelder Weg,27,,54.29932217,9.94362139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEC,24242,Felde,Wulfsfelder Weg,29,,54.2992457,9.94372108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUED,24242,Felde,Wulfsfelder Weg,30,,54.29914379,9.94265748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEE,24242,Felde,Wulfsfelder Weg,31,,54.29903582,9.94379131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEF,24242,Felde,Wulfsfelder Weg,31,a,54.29935132,9.94414588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEG,24242,Felde,Wulfsfelder Weg,32,,54.29896917,9.94305047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEH,24242,Felde,Wulfsfelder Weg,33,,54.29887297,9.94415953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEI,24242,Felde,Wulfsfelder Weg,34,,54.29876161,9.94331339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEJ,24242,Felde,Wulfsfelder Weg,35,,54.29932308,9.94468291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEK,24242,Felde,Wulfsfelder Weg,36,,54.2987177,9.9438557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEL,24242,Felde,Wulfsfelder Weg,38,,54.29819627,9.94460241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEM,24242,Felde,Wulfsfelder Weg,4,,54.30138112,9.93648466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEN,24242,Felde,Wulfsfelder Weg,4,a,54.30142333,9.93692557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEO,24242,Felde,Wulfsfelder Weg,6,,54.30120558,9.93738322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEP,24242,Felde,Wulfsfelder Weg,6,a,54.30130054,9.93712604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEQ,24242,Felde,Wulfsfelder Weg,8,,54.30106871,9.9375782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUER,24242,Felde,Wiesenweg,1,,54.29949436,9.94313016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUES,24242,Felde,Wiesenweg,10,,54.29989818,9.94501871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUET,24242,Felde,Wiesenweg,10,a,54.30097911,9.94731224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEU,24242,Felde,Wiesenweg,11,,54.30077113,9.94363529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEV,24242,Felde,Wiesenweg,12,,54.30043016,9.94437863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEW,24242,Felde,Wiesenweg,12,a,54.30034654,9.9450269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEX,24242,Felde,Wiesenweg,13,,54.30104923,9.94390209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEY,24242,Felde,Wiesenweg,14,,54.30081973,9.94470234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEZ,24242,Felde,Wiesenweg,14,a,54.30066491,9.94543281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEa,24242,Felde,Pommernweg,28,,54.30064689,9.93753319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEb,24242,Felde,Pommernweg,3,,54.29977019,9.93588635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEc,24242,Felde,Pommernweg,30,,54.30082188,9.93711131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEd,24242,Felde,Pommernweg,32,,54.30102992,9.93667104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEe,24242,Felde,Pommernweg,32,a,54.30108472,9.93657321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEf,24242,Felde,Pommernweg,34,,54.30120214,9.9361803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEg,24242,Felde,Pommernweg,4,,54.29915136,9.93571465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEh,24242,Felde,Pommernweg,5,,54.29980738,9.93569327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEi,24242,Felde,Pommernweg,6,,54.2992877,9.93591589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEj,24242,Felde,Pommernweg,7,,54.29982233,9.93594806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEk,24242,Felde,Pommernweg,8,,54.29945076,9.93603329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEl,24242,Felde,Pommernweg,9,,54.30008432,9.93502287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEn,24242,Felde,Pommernweg,9,b,54.30026137,9.93551443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEo,24242,Felde,Wulfsfelder Weg,1,,54.30071072,9.93984674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEp,24242,Felde,Wulfsfelder Weg,10,,54.30095417,9.9381346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEq,24242,Felde,Wulfsfelder Weg,12,,54.30060061,9.93828973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEr,24242,Felde,Wulfsfelder Weg,14,,54.30053587,9.93881911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEs,24242,Felde,Wulfsfelder Weg,16,,54.29998736,9.93878025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEt,24242,Felde,Wulfsfelder Weg,18,,54.30018059,9.93955042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEu,24242,Felde,Wulfsfelder Weg,2,,54.3015803,9.93639572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEv,24242,Felde,Wulfsfelder Weg,2,a,54.3017001,9.93612756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEw,24242,Felde,Wulfsfelder Weg,20,,54.30008192,9.94001122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEx,24242,Felde,Wulfsfelder Weg,21,,54.29996301,9.94170151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEy,24242,Felde,Wulfsfelder Weg,22,,54.29941682,9.94209046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUEz,24242,Felde,Wulfsfelder Weg,23,,54.29975491,9.94207449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF0,24242,Felde,Wiesenweg,14,b,54.30051538,9.94598755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF1,24242,Felde,Wiesenweg,15,,54.30079682,9.94447754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF2,24242,Felde,Wiesenweg,15,a,54.30095876,9.94442705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF3,24242,Felde,Wiesenweg,15,b,54.30124288,9.9446406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF4,24242,Felde,Wiesenweg,15,c,54.30133803,9.94427926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF5,24242,Felde,Wiesenweg,16,,54.30110898,9.9450589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF6,24242,Felde,Wiesenweg,16,a,54.30086581,9.94582822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF7,24242,Felde,Wiesenweg,16,b,54.30080422,9.94608813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF8,24242,Felde,Wiesenweg,16,c,54.30116602,9.9457469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUF9,24242,Felde,Wiesenweg,16,d,54.30132203,9.94529311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFA,24242,Felde,Wiesenweg,39,,54.30435294,9.94861199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFB,24242,Felde,Wiesenweg,39,a,54.3045348,9.94866202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFC,24242,Felde,Wiesenweg,4,,54.29984773,9.94404281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFD,24242,Felde,Wiesenweg,4,a,54.2995952,9.94440589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFE,24242,Felde,Wiesenweg,41,,54.3045549,9.94901441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFF,24242,Felde,Wiesenweg,5,,54.30001169,9.9430263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFG,24242,Felde,Wiesenweg,5,a,54.30000882,9.94351167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFH,24242,Felde,Wiesenweg,6,,54.30003324,9.94405494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFI,24242,Felde,Wiesenweg,7,,54.30026031,9.9435701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFJ,24242,Felde,Wiesenweg,8,,54.30015202,9.94416638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFK,24242,Felde,Wiesenweg,9,,54.30048523,9.94396461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFL,24242,Felde,Wiesenweg,9,a,54.3005389,9.94425657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFM,24242,Felde,Erlenweg,1,,54.2999237,9.94180626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFN,24242,Felde,Erlenweg,2,,54.30013544,9.94235369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFO,24242,Felde,Erlenweg,3,,54.30022609,9.94200081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFP,24242,Felde,Erlenweg,4,,54.30052474,9.9427357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFQ,24242,Felde,Erlenweg,5,,54.30049014,9.94222943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFR,24242,Felde,Erlenweg,6,,54.30071979,9.94288188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFS,24242,Felde,Hasselrader Weg,13,,54.305288,9.93429112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFT,24242,Felde,Hasselrader Weg,14,,54.30547309,9.9345893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFU,24242,Felde,Hasselrader Weg,15,,54.3054866,9.9342784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFV,24242,Felde,Hasselrader Weg,16,,54.30565656,9.93448185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFW,24242,Felde,Hasselrader Weg,17,,54.30545659,9.93412502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFX,24242,Felde,Hasselrader Weg,18,,54.30587857,9.93437258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFY,24242,Felde,Hasselrader Weg,19,,54.3056739,9.93400044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFZ,24242,Felde,Hasselrader Weg,2,,54.30410847,9.93676529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFa,24242,Felde,Wiesenweg,17,,54.30197714,9.94518421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFb,24242,Felde,Wiesenweg,18,,54.30153434,9.94556866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFc,24242,Felde,Wiesenweg,18,a,54.30147553,9.94618864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFd,24242,Felde,Wiesenweg,18,b,54.30134619,9.94667849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFe,24242,Felde,Wiesenweg,18,c,54.3016334,9.94659322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFf,24242,Felde,Wiesenweg,19,,54.3022914,9.94556557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFg,24242,Felde,Wiesenweg,2,,54.29941547,9.94337082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFh,24242,Felde,Wiesenweg,2,a,54.29961959,9.94390235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFi,24242,Felde,Wiesenweg,20,,54.3019504,9.94584048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFj,24242,Felde,Wiesenweg,21,,54.30266736,9.94567525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFk,24242,Felde,Wiesenweg,22,,54.29992716,9.95170507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFl,24242,Felde,Wiesenweg,23,,54.3029579,9.94581372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFm,24242,Felde,Wiesenweg,24,,54.30285627,9.94628717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFn,24242,Felde,Wiesenweg,25,,54.30307324,9.94606533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFo,24242,Felde,Wiesenweg,26,,54.3029245,9.94667861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFp,24242,Felde,Wiesenweg,27,,54.30318776,9.94619788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFq,24242,Felde,Wiesenweg,28,,54.30305619,9.94696033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFr,24242,Felde,Wiesenweg,29,,54.30317532,9.94661665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFs,24242,Felde,Wiesenweg,3,,54.29970999,9.94321486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFt,24242,Felde,Wiesenweg,30,,54.30321213,9.94712635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFu,24242,Felde,Wiesenweg,31,,54.30344493,9.94668626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFv,24242,Felde,Wiesenweg,32,,54.30339456,9.94733455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFw,24242,Felde,Wiesenweg,33,,54.30347717,9.94714135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFx,24242,Felde,Wiesenweg,34,,54.30351068,9.94765859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFy,24242,Felde,Wiesenweg,35,,54.30376045,9.94745748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUFz,24242,Felde,Wiesenweg,37,,54.30403786,9.94806115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG0,24242,Felde,Hasselrader Weg,20,,54.30604123,9.93428174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG1,24242,Felde,Hasselrader Weg,21,,54.30614585,9.93370503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG2,24242,Felde,Hasselrader Weg,22,,54.30619163,9.93419141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG3,24242,Felde,Hasselrader Weg,23,,54.30614585,9.93370503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG4,24242,Felde,Hasselrader Weg,24,,54.30634813,9.93411121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG5,24242,Felde,Hasselrader Weg,25,,54.30614585,9.93370503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG6,24242,Felde,Hasselrader Weg,26,,54.30652313,9.93404859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG7,24242,Felde,Hasselrader Weg,27,,54.30696952,9.93339224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG8,24242,Felde,Hasselrader Weg,28,,54.30667209,9.93408187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUG9,24242,Felde,Hasselrader Weg,30,,54.30682718,9.93389729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGA,24242,Felde,Wippen,14,,54.30285795,9.93763109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGB,24242,Felde,Wippen,15,,54.30222202,9.93757261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGC,24242,Felde,Wippen,16,,54.30264519,9.93753986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGD,24242,Felde,Wippen,17,,54.30207593,9.93745555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGE,24242,Felde,Wippen,18,,54.30241043,9.93744803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGF,24242,Felde,Wippen,19,,54.30191421,9.93727417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGG,24242,Felde,Wippen,2,,54.30304771,9.93948016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGH,24242,Felde,Wippen,20,,54.30225696,9.93731579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGI,24242,Felde,Wippen,21,,54.30180569,9.93711641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGJ,24242,Felde,Wippen,22,,54.3021358,9.93718689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGK,24242,Felde,Wippen,23,,54.30165879,9.93702516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGL,24242,Felde,Wippen,24,,54.30201914,9.93705519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGM,24242,Felde,Wippen,26,,54.30189566,9.93690884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGN,24242,Felde,Wippen,28,,54.30179874,9.93674749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGO,24242,Felde,Wippen,3,,54.30276695,9.93943155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGP,24242,Felde,Wippen,4,,54.30299993,9.93905227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGQ,24242,Felde,Wippen,5,,54.30280082,9.93881026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGR,24242,Felde,Wippen,6,,54.30303654,9.93861476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGS,24242,Felde,Wippen,7,,54.30280989,9.93818332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGT,24242,Felde,Wippen,8,,54.30302443,9.93828092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGU,24242,Felde,Wippen,9,,54.30264267,9.93803495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGV,24242,Felde,Flottbek,1,,54.30258296,9.93922919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGW,24242,Felde,Flottbek,2,,54.30259317,9.93878661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGX,24242,Felde,Flottbek,3,,54.3024242,9.9390932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGY,24242,Felde,Flottbek,4,,54.30241683,9.93864944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGZ,24242,Felde,Flottbek,5,,54.30229091,9.93896707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGa,24242,Felde,Hasselrader Weg,31,,54.30793353,9.93088069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGb,24242,Felde,Hasselrader Weg,36,,54.30847631,9.93036937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGc,24242,Felde,Hasselrader Weg,38,,54.3081855,9.93006311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGd,24242,Felde,Hasselrader Weg,40,,54.30743176,9.93035031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGe,24242,Felde,Mühlenweg,10,,54.30176289,9.94001092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGf,24242,Felde,Mühlenweg,11,,54.3020397,9.93965604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGg,24242,Felde,Mühlenweg,12,,54.30201638,9.94008167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGh,24242,Felde,Mühlenweg,13,,54.30219686,9.93980206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGi,24242,Felde,Mühlenweg,14,,54.30221604,9.9402601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGj,24242,Felde,Mühlenweg,15,,54.3023796,9.93994101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGk,24242,Felde,Mühlenweg,16,,54.3024297,9.94041839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGl,24242,Felde,Mühlenweg,17,,54.30256094,9.94002165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGm,24242,Felde,Mühlenweg,18,,54.30265376,9.94049556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGn,24242,Felde,Mühlenweg,19,,54.30305888,9.93988681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGo,24242,Felde,Mühlenweg,2,,54.30084441,9.93931953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGp,24242,Felde,Mühlenweg,20,,54.30289,9.94051351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGq,24242,Felde,Mühlenweg,22,,54.30315528,9.94029176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGr,24242,Felde,Mühlenweg,4,,54.30106518,9.93947505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGs,24242,Felde,Mühlenweg,6,,54.30128053,9.93970636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGt,24242,Felde,Mühlenweg,8,,54.30148179,9.9399165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGu,24242,Felde,Mühlenweg,9,,54.3018792,9.93950513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGv,24242,Felde,Wippen,1,,54.30277419,9.93995632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGw,24242,Felde,Wippen,10,,54.30304789,9.93797091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGx,24242,Felde,Wippen,11,,54.3024795,9.93784131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGy,24242,Felde,Wippen,12,,54.3030213,9.93765656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUGz,24242,Felde,Wippen,13,,54.30229383,9.93765194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH0,24242,Felde,Flottbek,6,,54.30224086,9.93848054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH1,24242,Felde,Flottbek,7,,54.30210282,9.93887213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH2,24242,Felde,Mühlenkamp,1,,54.30619385,9.94183433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH3,24242,Felde,Mühlenkamp,10,,54.30586631,9.94259258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH4,24242,Felde,Mühlenkamp,11,,54.3069634,9.94303011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH5,24242,Felde,Mühlenkamp,12,,54.30603169,9.94297145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH6,24242,Felde,Mühlenkamp,13,,54.30716412,9.94336002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH7,24242,Felde,Mühlenkamp,14,,54.30630931,9.94283008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH8,24242,Felde,Mühlenkamp,15,,54.30722112,9.9436344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUH9,24242,Felde,Mühlenkamp,15,a,54.30729818,9.94353869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHA,24242,Felde,Vorderer Mühlenweg,18,,54.30466531,9.94146555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHB,24242,Felde,Vorderer Mühlenweg,19,,54.30498166,9.94183723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHC,24242,Felde,Vorderer Mühlenweg,2,,54.30636077,9.94106325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHD,24242,Felde,Vorderer Mühlenweg,20,,54.3045103,9.94151813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHE,24242,Felde,Vorderer Mühlenweg,21,,54.30475864,9.9418571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHF,24242,Felde,Vorderer Mühlenweg,22,,54.30435812,9.94147523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHG,24242,Felde,Vorderer Mühlenweg,23,,54.30451486,9.9419226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHH,24242,Felde,Vorderer Mühlenweg,25,,54.30436447,9.94201732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHI,24242,Felde,Vorderer Mühlenweg,4,,54.30613559,9.94114403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHJ,24242,Felde,Vorderer Mühlenweg,6,,54.3059402,9.94122152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHK,24242,Felde,Vorderer Mühlenweg,8,,54.3057662,9.94127992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHL,24242,Felde,Ranzeler Weg,1,,54.29623967,9.92152659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHM,24242,Felde,Ranzeler Weg,2,,54.29635657,9.92191449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHN,24242,Felde,Ranzeler Weg,4,,54.2967132,9.92156353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHO,24242,Felde,Ranzeler Weg,6,,54.29718543,9.92095638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHP,24242,Felde,Moorbrook,1,,54.29779388,9.90861238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHQ,24242,Felde,Moorbrooker Weg,1,,54.2967087,9.91440161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHR,24242,Felde,Resenis,1,,54.2899451,9.92428211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHT,24242,Felde,Resenis,10,,54.28712365,9.91717897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHU,24242,Felde,Resenis,11,,54.28913791,9.92262474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHV,24242,Felde,Resenis,12,,54.28454798,9.91504992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHW,24242,Felde,Resenis,13,,54.28906481,9.92193944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHX,24242,Felde,Resenis,15,,54.28893745,9.92136988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHY,24242,Felde,Resenis,17,,54.28787226,9.91983126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHZ,24242,Felde,Resenis,19,,54.28744121,9.9187798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHa,24242,Felde,Mühlenkamp,16,,54.3061538,9.94328124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHb,24242,Felde,Mühlenkamp,17,,54.30748285,9.94386669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHc,24242,Felde,Mühlenkamp,18,,54.30657327,9.94317225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHd,24242,Felde,Mühlenkamp,2,,54.30561597,9.94178203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHe,24242,Felde,Mühlenkamp,20,,54.30651516,9.94373915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHf,24242,Felde,Mühlenkamp,22,,54.30688982,9.94367805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHg,24242,Felde,Mühlenkamp,24,,54.30691826,9.94404314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHh,24242,Felde,Mühlenkamp,26,,54.30648119,9.94430378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHi,24242,Felde,Mühlenkamp,3,,54.30647367,9.94192948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHj,24242,Felde,Mühlenkamp,4,,54.30564592,9.94204312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHk,24242,Felde,Mühlenkamp,5,,54.30651331,9.94224824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHl,24242,Felde,Mühlenkamp,6,,54.30566123,9.94229207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHm,24242,Felde,Mühlenkamp,7,,54.30656402,9.94248863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHn,24242,Felde,Mühlenkamp,8,,54.30614326,9.94242168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHo,24242,Felde,Mühlenkamp,9,,54.30673157,9.94279884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHp,24242,Felde,Eiderblick,10,,54.30797176,9.94545181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHq,24242,Felde,Eiderblick,2,,54.30877706,9.9453006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHr,24242,Felde,Eiderblick,4,,54.30852149,9.94550708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHs,24242,Felde,Eiderblick,6,,54.30850234,9.94527264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHt,24242,Felde,Eiderblick,8,,54.30833726,9.945593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHu,24242,Felde,Vorderer Mühlenweg,10,,54.3054656,9.94143977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHv,24242,Felde,Vorderer Mühlenweg,10,a,54.30557255,9.941425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHw,24242,Felde,Vorderer Mühlenweg,12,,54.30518468,9.94142743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHx,24242,Felde,Vorderer Mühlenweg,14,,54.30499186,9.94143583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHy,24242,Felde,Vorderer Mühlenweg,16,,54.30481564,9.94145028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUHz,24242,Felde,Vorderer Mühlenweg,17,,54.30514171,9.94182187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI0,24242,Felde,Resenis,2,,54.29222809,9.92468601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI1,24242,Felde,Resenis,21,,54.28758467,9.91815501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI2,24242,Felde,Resenis,23,,54.28718844,9.91829521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI3,24242,Felde,Resenis,25,,54.28689122,9.91822913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI4,24242,Felde,Resenis,27,,54.28573071,9.91659136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI5,24242,Felde,Resenis,29,,54.28546081,9.91639825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI6,24242,Felde,Resenis,3,,54.29003977,9.92343022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI7,24242,Felde,Resenis,31,,54.28490049,9.91616613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI8,24242,Felde,Resenis,33,,54.28431448,9.9163054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUI9,24242,Felde,Resenis,35,,54.28405303,9.91572178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIB,24242,Felde,Klein Nordseer Straße,1,,54.31036159,9.94548426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIC,24242,Felde,Klein Nordseer Straße,21,,54.3156668,9.95443631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUID,24242,Felde,Klein Nordseer Straße,23,,54.31583864,9.95512288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIE,24242,Felde,Klein Nordseer Straße,25,,54.31590028,9.95533819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIF,24242,Felde,Klein Nordseer Straße,27,,54.31599663,9.95567461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIG,24242,Felde,Klein Nordseer Straße,29,,54.31604887,9.9558603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIH,24242,Felde,Klein Nordseer Straße,3,,54.31043297,9.94601939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUII,24242,Felde,Klein Nordseer Straße,31,,54.31614055,9.95618444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIJ,24242,Felde,Klein Nordseer Straße,33,,54.31618968,9.95635508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIK,24242,Felde,Klein Nordseer Straße,35,,54.31641869,9.95721988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIL,24242,Felde,Klein Nordseer Straße,37,,54.31673941,9.95791564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIM,24242,Felde,Klein Nordseer Straße,5,,54.31067189,9.94617904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIN,24242,Felde,Klein Nordseer Straße,5,a,54.31097623,9.94606749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIO,24242,Felde,Klein Nordseer Straße,7,,54.31152391,9.94631634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIP,24242,Felde,Klein Nordseer Straße,7,a,54.31125835,9.94648682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIQ,24242,Felde,Klein Nordseer Straße,9,,54.31297568,9.94861562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIR,24242,Felde,Gut Klein Nordsee,1,,54.31528214,9.95536342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIS,24242,Felde,Gut Klein Nordsee,3,,54.31440685,9.95531206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIT,24242,Felde,Hühnerbek,1,,54.31628146,9.95662317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIU,24242,Felde,Hühnerbek,11,,54.31729017,9.9569386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIV,24242,Felde,Hühnerbek,13,,54.31725798,9.95712842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIW,24242,Felde,Hühnerbek,17,,54.31736678,9.95627363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIX,24242,Felde,Hühnerbek,2,,54.31670278,9.95729049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIY,24242,Felde,Hühnerbek,3,,54.31636535,9.95673569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIZ,24242,Felde,Hühnerbek,4,,54.31701508,9.95745089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIa,24242,Felde,Resenis,37,,54.28350524,9.91588224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIb,24242,Felde,Resenis,39,,54.28306127,9.91548871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIc,24242,Felde,Resenis,4,,54.28795743,9.91764283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUId,24242,Felde,Resenis,41,,54.283087,9.91499627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIe,24242,Felde,Resenis,43,,54.28313918,9.91425913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIf,24242,Felde,Resenis,5,,54.2900627,9.92253773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIg,24242,Felde,Resenis,6,,54.28767398,9.91760303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIh,24242,Felde,Resenis,7,,54.28970817,9.92390153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIi,24242,Felde,Resenis,8,,54.28746058,9.91746363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIj,24242,Felde,Resenis,9,,54.28952879,9.92321286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIm,24242,Felde,Langloher Weg,1,,54.30240748,9.94759629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIn,24242,Felde,Langloher Weg,10,,54.3019706,9.947997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIo,24242,Felde,Langloher Weg,12,,54.30158518,9.948486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIp,24242,Felde,Langloher Weg,14,,54.30210178,9.94867505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIq,24242,Felde,Langloher Weg,16,,54.30222674,9.94793951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIr,24242,Felde,Langloher Weg,18,,54.30241191,9.94826403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIs,24242,Felde,Langloher Weg,20,,54.30239938,9.94881893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIt,24242,Felde,Langloher Weg,22,,54.30280334,9.94819521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIu,24242,Felde,Langloher Weg,24,,54.30256998,9.94898506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIv,24242,Felde,Langloher Weg,3,,54.30275478,9.94776157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIw,24242,Felde,Langloher Weg,5,,54.30304562,9.94807754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIx,24242,Felde,Langleben,1,,54.303647,9.95052504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUIy,24242,Felde,Langleben,3,,54.30362681,9.95068864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ0,24242,Felde,Hühnerbek,5,,54.31653953,9.95690231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ1,24242,Felde,Hühnerbek,7,,54.31665226,9.95695784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ2,24242,Felde,Hühnerbek,9,,54.31687747,9.95713391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ3,24242,Felde,Neu Nordsee,1,,54.31892806,9.92161536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ4,24242,Felde,Neu Nordsee,2,,54.3205889,9.92145824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ5,24242,Felde,Neu Nordsee,3,,54.31617411,9.90822682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ6,24242,Felde,Neu Nordsee,4,,54.31804229,9.90931587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJ7,24242,Felde,Neu Nordsee,5,,54.31758757,9.90777576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJB,24242,Felde,Birkenweg,6,,54.29319691,9.93874127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJC,24242,Felde,Birkenweg,7,,54.29301327,9.93659565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJD,24242,Felde,Birkenweg,8,,54.29272432,9.93759318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJF,24242,Felde,Schulweg,1,,54.29449085,9.94011209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJH,24242,Felde,Schulweg,11,,54.29316602,9.94307842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJJ,24242,Felde,Schulweg,13,,54.29308815,9.94420232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJN,24242,Felde,Schulweg,15,,54.29277389,9.944838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJP,24242,Felde,Schulweg,17,,54.29245309,9.94544244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJR,24242,Felde,Schulweg,19,,54.29177001,9.94553044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJS,24242,Felde,Schulweg,2,,54.28981284,9.95078037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJT,24242,Felde,Schulweg,3,,54.29410857,9.94092704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJU,24242,Felde,Schulweg,4,,54.28917488,9.95198941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJV,24242,Felde,Schulweg,5,,54.29391983,9.94153081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJX,24242,Felde,Schulweg,7,,54.29363096,9.94208875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJZ,24242,Felde,Schulweg,9,,54.29350999,9.94268776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJb,24242,Felde,Birkenweg,10,,54.29263932,9.9386472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJc,24242,Felde,Birkenweg,11,,54.29158275,9.93648024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJd,24242,Felde,Birkenweg,12,,54.29281366,9.93916648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJf,24242,Felde,Birkenweg,13,,54.29180932,9.93775771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJg,24242,Felde,Birkenweg,14,,54.29308699,9.94099724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJi,24242,Felde,Birkenweg,15,,54.29150041,9.93886611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJk,24242,Felde,Birkenweg,16,,54.29235585,9.94133931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJl,24242,Felde,Birkenweg,17,,54.29046483,9.94064895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJm,24242,Felde,Birkenweg,18,,54.29226946,9.94199115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJn,24242,Felde,Birkenweg,19,,54.28979542,9.94151366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJo,24242,Felde,Birkenweg,2,,54.29376202,9.94028628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJp,24242,Felde,Birkenweg,20,,54.29226789,9.94298163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJq,24242,Felde,Birkenweg,21,,54.29040144,9.9432926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJr,24242,Felde,Birkenweg,22,,54.29179371,9.94324414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJs,24242,Felde,Birkenweg,23,,54.29070792,9.94443776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJu,24242,Felde,Birkenweg,3,,54.29349579,9.93735533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJw,24242,Felde,Birkenweg,4,,54.29382832,9.93964091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUJz,24242,Felde,Birkenweg,5,,54.29330213,9.93713862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK0,24242,Felde,Schusterredder,1,,54.30196593,9.9297549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK1,24242,Felde,Schusterredder,2,,54.29989761,9.92951472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK2,24242,Felde,Parkweg,10,,54.31384232,9.95656338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK3,24242,Felde,Parkweg,12,,54.31389614,9.95661054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK4,24242,Felde,Parkweg,14,,54.31394948,9.95662171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK5,24242,Felde,Parkweg,2,,54.31402196,9.95201127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK6,24242,Felde,Parkweg,2,a,54.31405252,9.95246182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK7,24242,Felde,Parkweg,4,,54.313392,9.95197048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK8,24242,Felde,Parkweg,6,,54.31378758,9.95128342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUK9,24242,Felde,Parkweg,8,,54.3136476,9.95611059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKA,24242,Felde,Waldblick,9,,54.29716145,9.9364351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKB,24242,Felde,Am Bahnhof,1,,54.31021802,9.94762496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKC,24242,Felde,Am Bahnhof,3,,54.3101367,9.94821416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKD,24242,Felde,Am Bahnhof,5,,54.31002057,9.94872011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKE,24242,Felde,Johannawald,1,,54.2957926,9.94005268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKF,24242,Felde,Johannawald,10,,54.29703919,9.93829796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKG,24242,Felde,Johannawald,11,,54.29669304,9.93781429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKH,24242,Felde,Johannawald,2,,54.296288,9.94060642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKI,24242,Felde,Johannawald,3,,54.29598001,9.93958854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKJ,24242,Felde,Johannawald,4,,54.29646437,9.93987824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKK,24242,Felde,Johannawald,5,,54.2961574,9.93911913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKL,24242,Felde,Johannawald,6,,54.29663751,9.93920218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKM,24242,Felde,Johannawald,7,,54.29633705,9.9387142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKN,24242,Felde,Johannawald,8,,54.29683544,9.93882738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKO,24242,Felde,Johannawald,9,,54.29644916,9.93828485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKQ,24242,Felde,Kirschberg,3,,54.28887854,9.94936856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKS,24242,Felde,Lärchenweg,1,,54.32064593,9.92860989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKT,24242,Felde,Lärchenweg,10,,54.32195207,9.92764749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKU,24242,Felde,Lärchenweg,12,,54.32213293,9.92690489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKV,24242,Felde,Lärchenweg,2,,54.32208211,9.92921199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKW,24242,Felde,Lärchenweg,3,,54.32079786,9.92848628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKX,24242,Felde,Lärchenweg,4,,54.32160969,9.92823749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKY,24242,Felde,Lärchenweg,5,,54.32189581,9.92656204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKZ,24242,Felde,Lärchenweg,6,,54.32167185,9.92802725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKa,24242,Felde,Moorkoppel,1,,54.2993186,9.94590313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKb,24242,Felde,Moorkoppel,10,,54.29813158,9.94772928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKc,24242,Felde,Moorkoppel,11,,54.29896286,9.9495412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKd,24242,Felde,Moorkoppel,12,,54.29800906,9.94831956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKe,24242,Felde,Moorkoppel,14,,54.29773244,9.9489206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKg,24242,Felde,Moorkoppel,2,,54.2990139,9.94539186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKh,24242,Felde,Moorkoppel,3,,54.29993094,9.94765854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKi,24242,Felde,Moorkoppel,3,a,54.30039807,9.94728732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKj,24242,Felde,Moorkoppel,4,,54.2988106,9.94591761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKk,24242,Felde,Moorkoppel,5,,54.29878835,9.94734499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKl,24242,Felde,Moorkoppel,6,,54.29858081,9.94657076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKm,24242,Felde,Moorkoppel,7,,54.29864393,9.94769604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKn,24242,Felde,Moorkoppel,8,,54.29831593,9.9471481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKo,24242,Felde,Moorkoppel,9,,54.29843382,9.94829949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKp,24242,Felde,An den Eichen,1,,54.29949143,9.94140445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKq,24242,Felde,An den Eichen,5,,54.29887419,9.94101419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKr,24242,Felde,Waldblick,1,,54.29794834,9.93729677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKs,24242,Felde,Waldblick,10,,54.29740422,9.93593822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKt,24242,Felde,Waldblick,2,,54.29818243,9.93687156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKu,24242,Felde,Waldblick,3,,54.2977929,9.93707583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKv,24242,Felde,Waldblick,4,,54.29797918,9.93666402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKw,24242,Felde,Waldblick,5,,54.29757465,9.93682367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKx,24242,Felde,Waldblick,6,,54.29779493,9.93646784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKy,24242,Felde,Waldblick,7,,54.29733933,9.93658021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUKz,24242,Felde,Waldblick,8,,54.29758974,9.93622858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL0,24242,Felde,Lärchenweg,7,,54.32209342,9.92338818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL1,24242,Felde,Lärchenweg,8,,54.32186321,9.92797007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL2,24242,Felde,Lärchenweg,9,,54.32204226,9.92315699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL3,24242,Felde,Lehmkoppel,1,,54.30228742,9.93476671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL4,24242,Felde,Lehmkoppel,10,,54.30291842,9.93545893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL5,24242,Felde,Lehmkoppel,11,,54.30274866,9.9352197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL6,24242,Felde,Lehmkoppel,12,,54.3025693,9.93502879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL7,24242,Felde,Lehmkoppel,2,,54.30210876,9.93454165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL8,24242,Felde,Lehmkoppel,3,,54.30215028,9.93419279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUL9,24242,Felde,Lehmkoppel,4,,54.30235185,9.93417024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULA,24242,Felde,Ranzel,32,,54.31049016,9.90320893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULB,24242,Felde,Ranzel,34,,54.31060416,9.90256955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULC,24242,Felde,Ranzel,36,,54.31078606,9.90196151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULD,24242,Felde,Ranzel,4,,54.30688564,9.90707645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULE,24242,Felde,Ranzel,4,a,54.30714463,9.90695012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULF,24242,Felde,Ranzel,5,,54.30974924,9.90533472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULG,24242,Felde,Ranzel,5,a,54.31017241,9.90334527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULH,24242,Felde,Ranzel,5,b,54.31003689,9.90325485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULI,24242,Felde,Ranzel,6,,54.30745363,9.90706947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULJ,24242,Felde,Ranzel,7,,54.31042838,9.90209903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULK,24242,Felde,Ranzel,7,a,54.31054913,9.90181113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULL,24242,Felde,Ranzel,7,b,54.31020113,9.90189427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULM,24242,Felde,Ranzel,9,,54.3106405,9.9014768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULN,24242,Felde,Seeblick,12,,54.29848069,9.95100596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULO,24242,Felde,Seeblick,2,,54.29670803,9.94993941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULP,24242,Felde,Seeblick,4,,54.29708181,9.95048766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULQ,24242,Felde,Seeblick,5,,54.29791502,9.95015263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULR,24242,Felde,Seeblick,6,,54.29749316,9.95022033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULT,24242,Felde,Heidberg,1,,54.28937737,9.94745158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULU,24242,Felde,Heidberg,2,,54.28933009,9.94812037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULV,24242,Felde,Heidberg,3,,54.28937536,9.948789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULW,24242,Felde,Heidberg,5,,54.28976873,9.94897899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULX,24242,Felde,Hohlweg,10,,54.29726443,9.94176594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULY,24242,Felde,Hohlweg,12,,54.29710084,9.94123868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULZ,24242,Felde,Hohlweg,14,,54.2967997,9.94100317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULa,24242,Felde,Lehmkoppel,5,,54.30245954,9.93451309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULb,24242,Felde,Lehmkoppel,6,,54.30260153,9.93461165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULc,24242,Felde,Lehmkoppel,7,,54.30277041,9.93474087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULd,24242,Felde,Lehmkoppel,8,,54.30308581,9.93483476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULe,24242,Felde,Lehmkoppel,8,a,54.30325842,9.93510013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULf,24242,Felde,Lehmkoppel,9,,54.30302625,9.93519971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULg,24242,Felde,Quitschenredder,3,,54.29757927,9.92312037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULh,24242,Felde,Quitschenredder,4,,54.29739085,9.92438073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULi,24242,Felde,Quitschenredder,6,,54.29761337,9.92394472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULj,24242,Felde,Quitschenredder,8,,54.29776557,9.92363843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULk,24242,Felde,Ranzel,1,,54.3053512,9.90646097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULl,24242,Felde,Ranzel,10,,54.30816941,9.90650453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULm,24242,Felde,Ranzel,11,,54.31066728,9.90118157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULn,24242,Felde,Ranzel,12,,54.30857153,9.90625659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULo,24242,Felde,Ranzel,13,,54.31060797,9.90064589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULp,24242,Felde,Ranzel,14,,54.30893946,9.90609715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULq,24242,Felde,Ranzel,15,,54.31064642,9.90049679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULr,24242,Felde,Ranzel,16,,54.30917022,9.90599171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULs,24242,Felde,Ranzel,17,,54.31149411,9.89533584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULt,24242,Felde,Ranzel,18,,54.30941257,9.90586053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULu,24242,Felde,Ranzel,19,,54.31150234,9.8946724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULv,24242,Felde,Ranzel,2,,54.30662881,9.90694577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULw,24242,Felde,Ranzel,20,,54.30989669,9.9057329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULx,24242,Felde,Ranzel,28,,54.31031294,9.9039055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULy,24242,Felde,Ranzel,3,,54.30765987,9.9064702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bULz,24242,Felde,Ranzel,30,,54.3104091,9.90346383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM0,24242,Felde,Hohlweg,2,,54.29834029,9.94361642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM1,24242,Felde,Hohlweg,4,,54.29845653,9.94318962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM2,24242,Felde,Hohlweg,6,,54.29804402,9.94339469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM3,24242,Felde,Nachtkoppel,1,,54.29640413,9.9495469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM4,24242,Felde,Nachtkoppel,2,,54.296062,9.94971182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM5,24242,Felde,Nachtkoppel,3,,54.29580319,9.94994399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM6,24242,Felde,Nachtkoppel,4,,54.29553168,9.95019759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM7,24242,Felde,Lindenweg,1,,54.30113609,9.93428554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM8,24242,Felde,Lindenweg,10,,54.3015562,9.93306317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUM9,24242,Felde,Lindenweg,11,,54.30042464,9.93270215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMA,24242,Felde,Postweg,10,,54.30376294,9.93559464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMB,24242,Felde,Postweg,11,,54.30329574,9.93602315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMC,24242,Felde,Postweg,12,,54.30342161,9.93550716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMD,24242,Felde,Postweg,14,,54.30351591,9.93541807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUME,24242,Felde,Postweg,16,,54.30355295,9.93541811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMF,24242,Felde,Postweg,18,,54.30363605,9.9353394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMG,24242,Felde,Postweg,2,,54.30349012,9.93581308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMH,24242,Felde,Postweg,3,,54.30353835,9.9364095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMI,24242,Felde,Postweg,4,,54.30356708,9.93574175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMJ,24242,Felde,Postweg,5,,54.30347319,9.93625427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMK,24242,Felde,Postweg,6,,54.30360678,9.93573938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUML,24242,Felde,Postweg,7,,54.30340231,9.93616184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMM,24242,Felde,Postweg,8,,54.30366837,9.93568214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMN,24242,Felde,Postweg,9,,54.30336853,9.93611806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMO,24242,Felde,Brunnenweg,1,,54.32104715,9.9259019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMP,24242,Felde,Brunnenweg,2,,54.32053595,9.92589897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMQ,24242,Felde,Brunnenweg,3,,54.32118402,9.92600702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMR,24242,Felde,Brunnenweg,4,,54.32067991,9.92598683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMS,24242,Felde,Brunnenweg,5,,54.32159245,9.92607634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMT,24242,Felde,Krähenholz,1,,54.30974844,9.88936765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMU,24242,Felde,Krähenholz,2,,54.30949492,9.88927382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMV,24242,Felde,An der Lohburg,1,,54.28533828,9.91419506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMW,24242,Felde,An der Lohburg,2,,54.28434934,9.91178154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMX,24242,Felde,An der Lohburg,3,,54.28409223,9.91197515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMY,24242,Felde,An der Lohburg,4,,54.28378165,9.91245275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMZ,24242,Felde,An der Lohburg,5,,54.2834109,9.91224628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMa,24242,Felde,Lindenweg,12,,54.30139662,9.93298921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMb,24242,Felde,Lindenweg,13,,54.30022197,9.93276918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMc,24242,Felde,Lindenweg,14,,54.30122496,9.93283361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMd,24242,Felde,Lindenweg,16,,54.30105728,9.93265388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMe,24242,Felde,Lindenweg,18,,54.30087429,9.93244408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMf,24242,Felde,Lindenweg,2,,54.3013058,9.93454162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMg,24242,Felde,Lindenweg,20,,54.30069718,9.93219798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMh,24242,Felde,Lindenweg,22,,54.30046009,9.93222691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMi,24242,Felde,Lindenweg,24,,54.30033252,9.93184066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMj,24242,Felde,Lindenweg,26,,54.30009609,9.93189841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMk,24242,Felde,Lindenweg,28,,54.30018869,9.93231246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMl,24242,Felde,Lindenweg,3,,54.30118959,9.93374612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMm,24242,Felde,Lindenweg,4,,54.30141869,9.93410092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMn,24242,Felde,Lindenweg,5,,54.30114415,9.9332637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMo,24242,Felde,Lindenweg,6,,54.30158017,9.93366757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMp,24242,Felde,Lindenweg,7,,54.3008376,9.93297925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMq,24242,Felde,Lindenweg,8,,54.30165152,9.9333457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMr,24242,Felde,Am Sportplatz,1,,54.29812139,9.93337682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMs,24242,Felde,Hof Steinblink,1,,54.3183887,9.94860957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMt,24242,Felde,Hof Steinblink,3,,54.31768664,9.94759836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMw,24242,Felde,Rote Kate,1,,54.31944497,9.9000633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMx,24242,Felde,Knurrpott,2,,54.31631197,9.96012502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMy,24242,Felde,Knurrpott,4,,54.31689228,9.96045158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUMz,24242,Felde,Postweg,1,,54.30361531,9.93651048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN0,24242,Felde,An der Lohburg,6,,54.28321827,9.91273427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN1,24242,Felde,An der Lohburg,7,,54.28319757,9.91359444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN2,24242,Felde,Buchenweg,1,,54.30731854,9.93989967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN3,24242,Felde,Buchenweg,10,,54.30821822,9.93992333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN4,24242,Felde,Buchenweg,2,,54.30746324,9.94029041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN5,24242,Felde,Buchenweg,3,,54.30756903,9.93982879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN6,24242,Felde,Buchenweg,4,,54.30762658,9.94014154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN7,24242,Felde,Buchenweg,5,,54.30754052,9.9393462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN8,24242,Felde,Buchenweg,6,,54.30784454,9.94007782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUN9,24242,Felde,Buchenweg,7,,54.30780263,9.93929061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNA,24242,Felde,An der Brandsbek,8,,54.30871697,9.94195007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNB,24242,Felde,Hamannsche Koppel,1,,54.30213047,9.93798365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNC,24242,Felde,Hamannsche Koppel,10,,54.30174194,9.93830322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUND,24242,Felde,Hamannsche Koppel,11,,54.30168296,9.93926106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNE,24242,Felde,Hamannsche Koppel,12,,54.30145999,9.93803863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNF,24242,Felde,Hamannsche Koppel,13,,54.30161879,9.93942692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNG,24242,Felde,Hamannsche Koppel,14,,54.30136318,9.9383213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNH,24242,Felde,Hamannsche Koppel,15,,54.30145613,9.93918014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNI,24242,Felde,Hamannsche Koppel,16,,54.30163172,9.93861719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNJ,24242,Felde,Hamannsche Koppel,18,,54.30139508,9.93879943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNK,24242,Felde,Hamannsche Koppel,2,,54.30191862,9.93777888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNL,24242,Felde,Hamannsche Koppel,20,,54.30119385,9.93858146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNM,24242,Felde,Hamannsche Koppel,22,,54.30110805,9.93879381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNN,24242,Felde,Hamannsche Koppel,24,,54.30129065,9.93899611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNO,24242,Felde,Hamannsche Koppel,3,,54.30204564,9.93826882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNP,24242,Felde,Hamannsche Koppel,4,,54.30164156,9.93752029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNQ,24242,Felde,Hamannsche Koppel,5,,54.30194368,9.93848836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNR,24242,Felde,Hamannsche Koppel,6,,54.30158568,9.93772679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNS,24242,Felde,Hamannsche Koppel,7,,54.30182353,9.93873853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNT,24242,Felde,Hamannsche Koppel,8,,54.30182054,9.93805957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNU,24242,Felde,Hamannsche Koppel,9,,54.30178618,9.93897625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNV,24242,Felde,Am Dorfplatz,2,,54.3042811,9.93761696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNW,24242,Felde,Am Dorfplatz,4,,54.30430511,9.9373743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNX,24242,Felde,Am Dorfplatz,6,,54.30432706,9.93727347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNY,24242,Felde,Mühlenmoor,1,,54.29927874,9.94198264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNZ,24242,Felde,Mühlenmoor,3,,54.29911836,9.94189883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNa,24242,Felde,Buchenweg,8,,54.30801261,9.94003114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNb,24242,Felde,Buchenweg,9,,54.3078124,9.9397239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNc,24242,Felde,Eschenkamp,1,,54.30770869,9.94104702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNd,24242,Felde,Eschenkamp,11,,54.30813974,9.94082003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNe,24242,Felde,Eschenkamp,13,,54.30830762,9.94082813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNf,24242,Felde,Eschenkamp,15,,54.30835858,9.94076995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNg,24242,Felde,Eschenkamp,2,,54.30786215,9.94131401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNh,24242,Felde,Eschenkamp,3,,54.30776469,9.94098336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNi,24242,Felde,Eschenkamp,4,,54.30806406,9.94136521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNj,24242,Felde,Eschenkamp,5,,54.30789714,9.94095138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNk,24242,Felde,Eschenkamp,6,,54.30821765,9.94118703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNl,24242,Felde,Eschenkamp,7,,54.30795106,9.9408901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNm,24242,Felde,Eschenkamp,8,,54.3083914,9.94121053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNn,24242,Felde,Eschenkamp,9,,54.30809073,9.94087555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNo,24242,Felde,An der Brandsbek,10,,54.30861898,9.94158993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNp,24242,Felde,An der Brandsbek,12,,54.30861888,9.94115541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNq,24242,Felde,An der Brandsbek,14,,54.30853948,9.94092283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNr,24242,Felde,An der Brandsbek,16,,54.30855289,9.94054681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNs,24242,Felde,An der Brandsbek,18,,54.30851655,9.94002667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNt,24242,Felde,An der Brandsbek,2,,54.30820965,9.94171811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNu,24242,Felde,An der Brandsbek,20,,54.30846281,9.93974059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNv,24242,Felde,An der Brandsbek,22,,54.30839765,9.9394252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNw,24242,Felde,An der Brandsbek,24,,54.30829922,9.93911534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNx,24242,Felde,An der Brandsbek,3,,54.30811793,9.93908953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNy,24242,Felde,An der Brandsbek,4,,54.30846675,9.94169224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUNz,24242,Felde,An der Brandsbek,6,,54.30849123,9.94209048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO0,24242,Felde,Mühlenmoor,5,,54.29898981,9.94161097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO1,24242,Felde,Mühlenmoor,7,,54.29874691,9.94164404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO2,24242,Felde,Schmiedekoppel,1,,54.31751834,9.95554297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO3,24242,Felde,Schmiedekoppel,17,,54.31591462,9.9526388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO4,24242,Felde,Schmiedekoppel,3,,54.31723756,9.9551564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO5,24242,Felde,Schmiedekoppel,5,,54.31719282,9.95510276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO6,24242,Felde,Schmiedekoppel,9,,54.31693586,9.95475828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUO7,24242,Felde,Instenkamp,1,,54.31710701,9.95353843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzP,24242,Felde,Dorfstraße,1,,54.30964745,9.94781696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzQ,24242,Felde,Dorfstraße,1,a,54.30950866,9.94711424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzR,24242,Felde,Dorfstraße,10,,54.30922256,9.94482704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzS,24242,Felde,Dorfstraße,10,a,54.30918302,9.94445489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzT,24242,Felde,Dorfstraße,100,,54.29733898,9.92563343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzU,24242,Felde,Dorfstraße,101,,54.29791967,9.9289158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzV,24242,Felde,Dorfstraße,101,a,54.2978969,9.92849322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzW,24242,Felde,Dorfstraße,101,b,54.29765779,9.92828332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzX,24242,Felde,Dorfstraße,102,,54.29722993,9.92516466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzY,24242,Felde,Dorfstraße,102,a,54.29756964,9.92471861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bUzZ,24242,Felde,Dorfstraße,103,,54.29735594,9.92827984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PB,24242,Felde,Lärchenweg,11,,54.32243321,9.92298003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PC,24242,Felde,Lärchenweg,13,,54.32267065,9.92317206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PD,24242,Felde,Lärchenweg,14,,54.32333883,9.92341354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PE,24242,Felde,Lärchenweg,15,,54.32312379,9.92305378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PF,24242,Felde,Lärchenweg,16,,54.32358907,9.92323816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c0PG,24242,Felde,Lärchenweg,18,,54.32884906,9.91885124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IV9e,24242,Felde,Ranzel,8,,54.30786289,9.9067784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Lmou,24242,Felde,Erlenweg,7,,54.30066576,9.94250163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004P1XW,24242,Felde,Schmiedekoppel,23,,54.31627407,9.95074017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QkEA,24242,Felde,Sandweg,1,a,54.29123994,9.93294573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QkEu,24242,Felde,Sandweg,2,,54.29150014,9.93426649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QkEx,24242,Felde,Sandweg,1,b,54.29148939,9.93408502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QkMz,24242,Felde,Instenkamp,3,,54.31747075,9.95200425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004VApT,24242,Felde,Dorfstraße,43,a,54.30463467,9.93898016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004anvk,24242,Felde,Dorfstraße,1,b,54.30958638,9.94894503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055UvF,24242,Felde,Stellmacher Weg,2,,54.31685986,9.95173484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000595ZA,24242,Felde,Wulfsfelde/Hauskoppel,1,,54.29387126,9.95007367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000595ZL,24242,Felde,Wulfsfelde/Hauskoppel,4,,54.292702,9.95066805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000595ZO,24242,Felde,Wulfsfelde/Hauskoppel,2,,54.29352414,9.95019124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000595ZU,24242,Felde,Wulfsfelde/Hauskoppel,3,,54.29322065,9.9504022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005977g,24242,Felde,Seeblick,3,,54.29758346,9.94947731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005977l,24242,Felde,Moorkoppel,13,,54.29783846,9.94966481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000597uG,24242,Felde,Hohlweg,8,,54.29770136,9.9431642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599BH,24242,Felde,Birkenweg,1,,54.29385226,9.93814735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Ee,24242,Felde,Birkenweg,9,,54.29271414,9.93590595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599FS,24242,Felde,Birkenweg,26,,54.29117502,9.94528935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599FV,24242,Felde,Birkenweg,25,,54.2907295,9.94504622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599FY,24242,Felde,Birkenweg,27,,54.29057905,9.94547537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599G1,24242,Felde,Birkenweg,29,,54.29034901,9.94567907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599G4,24242,Felde,Birkenweg,31,,54.29008859,9.94581265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599G7,24242,Felde,Birkenweg,33,,54.28974117,9.94598894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Ga,24242,Felde,Birkenweg,35,,54.2895164,9.94630221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599K4,24242,Felde,Birkenweg,24,,54.29193635,9.94463465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Lq,24242,Felde,Birkenweg,28,,54.29032526,9.94729058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Lt,24242,Felde,Schulweg,21,,54.29160963,9.94634858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Lw,24242,Felde,Schulweg,23,,54.29146725,9.9470026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Lz,24242,Felde,Schulweg,25,,54.29109946,9.94754928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599OB,24242,Felde,Schulweg,29,a,54.29075278,9.94838885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599OG,24242,Felde,Schulweg,31,,54.28987916,9.94981675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Ou,24242,Felde,Schulweg,27,,54.29080691,9.94785835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Oy,24242,Felde,Schulweg,29,b,54.2906907,9.94828351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599PB,24242,Felde,Schulweg,33,,54.28953617,9.94970536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599PE,24242,Felde,Schulweg,37,,54.28916141,9.95132204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599PI,24242,Felde,Schulweg,35,,54.28962636,9.95048564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Pv,24242,Felde,Kirschberg,1,,54.28874275,9.95023176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000599Py,24242,Felde,Kirschberg,5,,54.28894122,9.94832628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059arL,24242,Felde,Schulberort,1,,54.29191456,9.95130032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059arO,24242,Felde,Schulberort,3,,54.29164497,9.95086446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059arR,24242,Felde,Schulberort,5,,54.29088757,9.95121312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059arU,24242,Felde,Schulberort,7,,54.2901624,9.9501858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059as0,24242,Felde,Schulberort,4,,54.28971935,9.9527509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005J63u,24242,Felde,Dorfstraße,47,b,54.30403728,9.93795028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MhLv,24242,Felde,Dorfstraße,24,,54.30771182,9.94254945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MhLz,24242,Felde,Dorfstraße,24,a,54.30777442,9.94251428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MhNl,24242,Felde,Dorfstraße,24,b,54.30788808,9.9424265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MhNv,24242,Felde,Dorfstraße,24,c,54.30808608,9.94230006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fcDF,24242,Felde,Dorfstraße,39,,54.30519622,9.94014172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fctS,24242,Felde,Dorfstraße,39,c,54.304974,9.93992116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fctW,24242,Felde,Dorfstraße,39,d,54.30492686,9.94016818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fcu0,24242,Felde,Dorfstraße,39,e,54.3049658,9.94052209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fcup,24242,Felde,Dorfstraße,39,b,54.3051673,9.94061126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gy5e,24242,Felde,Ahornweg,17,a,54.30678651,9.9389979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005h7cm,24242,Felde,Eiderblick,2,a,54.30901217,9.94514789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hNa2,24242,Felde,Hasselrader Weg,1,,54.30393984,9.93607317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jF1r,24242,Felde,Instenkamp,2,,54.31757063,9.95371371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jLNu,24242,Felde,An der Brandsbek,1,,54.30816798,9.93945234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jxWN,24242,Felde,Dorfstraße,1,c,54.30955486,9.94960294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mK3B,24242,Felde,Am Dorfplatz,2,a,54.30438404,9.93748948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nksZ,24242,Felde,Dorfstraße,43,b,54.30464173,9.93928857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pgRp,24242,Felde,Dorfstraße,129,b,54.29544689,9.92335044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rTEX,24242,Felde,Wulfsfelder Weg,30,a,54.29870453,9.94267844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rVBz,24242,Felde,Raiffeisenstraße,4,a,54.29903168,9.93500077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vZR4,24242,Felde,Ranzel,10,a,54.30840358,9.90640193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060j40,24242,Felde,Seekatenweg,10,,54.29678668,9.92955679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ApcG,24242,Felde,Dorfstraße,85,a,54.30041927,9.93505014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006EgFB,24242,Felde,Schmiedekoppel,13,,54.31645652,9.9540565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QuHY,24242,Felde,Dorfstraße,40,a (Hinterhaus),54.30658335,9.93973454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Sk6a,24242,Felde,Hasselrader Weg,4,,54.30421297,9.93663713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Sk6o,24242,Felde,Hasselrader Weg,6,,54.30457266,9.93577246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bceY,24242,Felde,Schusterredder,1,a,54.30154181,9.92964982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006cgMe,24242,Felde,Dorfstraße,119,a,54.29607691,9.92460214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fgRD,24242,Felde,Instenkamp,4,,54.31780433,9.95239924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q7KY,24242,Felde,Wulfsfelder Weg,3,,54.30048495,9.94025185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071Ggc,24242,Felde,Schmiedekoppel,19,,54.31622768,9.95219422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071h51,24242,Felde,Dorfstraße,43,c,54.30448583,9.9386434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072SRe,24242,Felde,Hof Wulfsfelde,1,,54.29448283,9.95064152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072SRf,24242,Felde,Hof Wulfsfelde,2,,54.29462785,9.95071922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072SRg,24242,Felde,Hof Wulfsfelde,3,,54.29464978,9.95105157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072SRh,24242,Felde,Hof Wulfsfelde,4,,54.2947331,9.9509428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072SRi,24242,Felde,Hof Wulfsfelde,5,,54.29490249,9.95070731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MbBT,24242,Felde,Wulfsfelder Weg,4,b,54.30150269,9.93672019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mrPF,24242,Felde,Eiderblick,1,,54.30868973,9.94566432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pQxX,24242,Felde,Dorfstraße,84,b,54.2988164,9.92981117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pQy2,24242,Felde,Dorfstraße,84,a,54.29885766,9.93020111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007pQyf,24242,Felde,Dorfstraße,84,c,54.29872287,9.9296099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vU0G,24242,Felde,Parkweg,8,a,54.31352104,9.95654744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000839m2,24242,Felde,Wulfsfelder Weg,37,,54.29598872,9.95071974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000839m3,24242,Felde,Wulfsfelder Weg,39,,54.29516674,9.95096597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AgIO,24242,Felde,Lärchenweg,3,a,54.32108249,9.92846374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AgIP,24242,Felde,Lärchenweg,3,b,54.32126462,9.92825896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cfDY,24242,Felde,Schmiedekoppel,2,,54.31753469,9.95500071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008d2ZB,24242,Felde,Schmiedekoppel,9,a,54.31684703,9.95536793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008me3G,24242,Felde,Schmiedekoppel,7,,54.31698537,9.95572017

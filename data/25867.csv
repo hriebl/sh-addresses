@@ -1,0 +1,31 @@
+# Amtliche Adressen für die Postleitzahl 25867
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4c,25867,Oland,Oland,1,,54.67428001,8.68645584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4d,25867,Oland,Oland,10,,54.67468781,8.68714886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4e,25867,Oland,Oland,11,,54.67455377,8.68814167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4f,25867,Oland,Oland,12,,54.67437419,8.68839948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4g,25867,Oland,Oland,12,a,54.67437978,8.68874891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4h,25867,Oland,Oland,13,,54.67429142,8.68803701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4i,25867,Oland,Oland,14,,54.674232,8.68804464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4j,25867,Oland,Oland,15,,54.6741652,8.6878747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4k,25867,Oland,Oland,16,,54.67431328,8.68776217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4l,25867,Oland,Oland,17,,54.67429002,8.68759148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4m,25867,Oland,Oland,18,,54.67437869,8.68787561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4n,25867,Oland,Oland,19,,54.67415628,8.68730594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4o,25867,Oland,Oland,2,,54.6744134,8.68676404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4p,25867,Oland,Oland,20,,54.67419296,8.68687006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4q,25867,Oland,Oland,3,,54.67431804,8.68685809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4r,25867,Oland,Oland,4,,54.67443447,8.68690255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4s,25867,Oland,Oland,5,,54.67461959,8.68704286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4t,25867,Oland,Oland,6,,54.67459046,8.68724267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4u,25867,Oland,Oland,7,,54.67459624,8.68743016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4v,25867,Oland,Oland,8,,54.67456869,8.68757938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eL4w,25867,Oland,Oland,9,,54.6745742,8.68774359

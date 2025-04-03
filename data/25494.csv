@@ -1,0 +1,823 @@
+# Amtliche Adressen für die Postleitzahl 25494
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYA,25494,Borstel-Hohenraden,Am Hof,13,,53.69294815,9.80924819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYB,25494,Borstel-Hohenraden,Am Hof,14,,53.69246618,9.80840813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYC,25494,Borstel-Hohenraden,Am Hof,14,a,53.69246309,9.80851408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYD,25494,Borstel-Hohenraden,Am Hof,15,,53.69287756,9.80974188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYE,25494,Borstel-Hohenraden,Am Hof,16,,53.69246745,9.80900011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYF,25494,Borstel-Hohenraden,Am Hof,16,a,53.69245425,9.80913607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYG,25494,Borstel-Hohenraden,Am Hof,17,,53.69267231,9.80953547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYH,25494,Borstel-Hohenraden,Am Hof,17,a,53.6926616,9.8096533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYI,25494,Borstel-Hohenraden,Am Hof,18,,53.69245377,9.80941597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYJ,25494,Borstel-Hohenraden,Am Hof,19,,53.69264664,9.8099479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYK,25494,Borstel-Hohenraden,Am Hof,2,,53.69436305,9.80821985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYL,25494,Borstel-Hohenraden,Am Hof,2,a,53.69420673,9.80829292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYM,25494,Borstel-Hohenraden,Am Hof,20,,53.69242948,9.80974697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYN,25494,Borstel-Hohenraden,Am Hof,3,,53.69403573,9.80890123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYO,25494,Borstel-Hohenraden,Am Hof,4,,53.69382448,9.8083582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYP,25494,Borstel-Hohenraden,Am Hof,4,a,53.69382092,9.80823645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYQ,25494,Borstel-Hohenraden,Am Hof,4,b,53.69381838,9.80811167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYR,25494,Borstel-Hohenraden,Am Hof,4,c,53.69381157,9.80788816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYS,25494,Borstel-Hohenraden,Am Hof,4,d,53.69379572,9.80776661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYT,25494,Borstel-Hohenraden,Am Hof,4,e,53.69375918,9.80764781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYV,25494,Borstel-Hohenraden,Am Hof,6,,53.69356875,9.80833996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYW,25494,Borstel-Hohenraden,Am Hof,6,a,53.69356283,9.80821964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYX,25494,Borstel-Hohenraden,Am Hof,6,b,53.69355715,9.80809831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYY,25494,Borstel-Hohenraden,Am Hof,6,c,53.69355292,9.80798065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYZ,25494,Borstel-Hohenraden,Am Hof,6,d,53.69353903,9.80766457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYs,25494,Borstel-Hohenraden,Am Hof,10,,53.69293843,9.80842096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYt,25494,Borstel-Hohenraden,Am Hof,10,a,53.69281649,9.80859646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYu,25494,Borstel-Hohenraden,Am Hof,11,,53.69275846,9.80905011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYv,25494,Borstel-Hohenraden,Am Hof,11,a,53.69272264,9.80915417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYw,25494,Borstel-Hohenraden,Am Hof,12,,53.69277514,9.80815443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYx,25494,Borstel-Hohenraden,Am Hof,12,a,53.69272843,9.80821042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYy,25494,Borstel-Hohenraden,Am Hof,12,b,53.69259749,9.8082431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DYz,25494,Borstel-Hohenraden,Am Hof,12,c,53.69245685,9.8082051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ0,25494,Borstel-Hohenraden,Am Hof,6,e,53.69353231,9.8075397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ1,25494,Borstel-Hohenraden,Am Hof,6,f,53.69352582,9.80741648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ2,25494,Borstel-Hohenraden,Am Hof,6,g,53.69352008,9.80730166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ3,25494,Borstel-Hohenraden,Am Hof,8,,53.69336056,9.80835793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ4,25494,Borstel-Hohenraden,Am Hof,8,a,53.69335612,9.80826257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ5,25494,Borstel-Hohenraden,Am Hof,8,b,53.69335209,9.80817621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ6,25494,Borstel-Hohenraden,Am Hof,8,c,53.69334789,9.8080852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ7,25494,Borstel-Hohenraden,Am Hof,8,d,53.69334367,9.80799434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ8,25494,Borstel-Hohenraden,Am Hof,8,e,53.69333252,9.80775497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZ9,25494,Borstel-Hohenraden,Am Hof,8,f,53.6933282,9.80766247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZB,25494,Borstel-Hohenraden,Deepenbrookweg,3,,53.69760029,9.82709721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZC,25494,Borstel-Hohenraden,Deepenbrookweg,3,a,53.69756725,9.82649808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZD,25494,Borstel-Hohenraden,Deepenbrookweg,3,b,53.69757664,9.82661933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZE,25494,Borstel-Hohenraden,Deepenbrookweg,4,,53.69720982,9.82642416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZF,25494,Borstel-Hohenraden,Deepenbrookweg,4,a,53.69734494,9.82684708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZG,25494,Borstel-Hohenraden,Deepenbrookweg,6,,53.69756182,9.82754775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZH,25494,Borstel-Hohenraden,Deepenbrookweg,8,,53.69771914,9.82797414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZI,25494,Borstel-Hohenraden,Dorfstraße,1,,53.68918382,9.81000892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZJ,25494,Borstel-Hohenraden,Dorfstraße,1,a,53.68897304,9.81058336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZK,25494,Borstel-Hohenraden,Dorfstraße,1,b,53.68900406,9.81048356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZL,25494,Borstel-Hohenraden,Dorfstraße,100,,53.69606108,9.81969477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZM,25494,Borstel-Hohenraden,Dorfstraße,101,,53.69652223,9.8219455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZN,25494,Borstel-Hohenraden,Dorfstraße,103,,53.69642685,9.82236426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZO,25494,Borstel-Hohenraden,Dorfstraße,104,,53.69606187,9.82030161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZP,25494,Borstel-Hohenraden,Dorfstraße,106,,53.69604326,9.82059645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZQ,25494,Borstel-Hohenraden,Dorfstraße,108,,53.69603839,9.82085501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZR,25494,Borstel-Hohenraden,Dorfstraße,11,,53.69043146,9.80804649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZS,25494,Borstel-Hohenraden,Dorfstraße,110,,53.6960283,9.82134375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZT,25494,Borstel-Hohenraden,Dorfstraße,112,,53.69601874,9.82161488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZU,25494,Borstel-Hohenraden,Dorfstraße,114,,53.69602833,9.82197371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZV,25494,Borstel-Hohenraden,Dorfstraße,13,,53.69088318,9.80773657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZW,25494,Borstel-Hohenraden,Dorfstraße,15,,53.69116063,9.80765106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZX,25494,Borstel-Hohenraden,Dorfstraße,17,,53.69133566,9.80756318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZY,25494,Borstel-Hohenraden,Dorfstraße,18,,53.69062847,9.80852149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZZ,25494,Borstel-Hohenraden,Dorfstraße,19,,53.69167085,9.80742975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZa,25494,Borstel-Hohenraden,Am Hof,8,g,53.69332376,9.80756862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZb,25494,Borstel-Hohenraden,Am Hof,8,h,53.69331959,9.80747911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZc,25494,Borstel-Hohenraden,Am Hof,8,i,53.69331533,9.80738827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZd,25494,Borstel-Hohenraden,Am Hof,9,,53.69303789,9.80884774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZe,25494,Borstel-Hohenraden,Am Schulhof,10,,53.69128315,9.81308911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZf,25494,Borstel-Hohenraden,Am Schulhof,2,,53.69132868,9.81214861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZg,25494,Borstel-Hohenraden,Am Schulhof,4,,53.69137465,9.81242938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZh,25494,Borstel-Hohenraden,Am Schulhof,6,,53.69132441,9.8126371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZi,25494,Borstel-Hohenraden,Am Schulhof,8,,53.69130709,9.81285489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZj,25494,Borstel-Hohenraden,Am Stoppelhof,1,,53.68925858,9.81062749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZk,25494,Borstel-Hohenraden,Am Stoppelhof,11,,53.68945332,9.81186963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZl,25494,Borstel-Hohenraden,Am Stoppelhof,13,,53.68947095,9.81156421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZm,25494,Borstel-Hohenraden,Am Stoppelhof,14,,53.68929665,9.81143127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZn,25494,Borstel-Hohenraden,Am Stoppelhof,15,,53.68939207,9.81103707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZo,25494,Borstel-Hohenraden,Am Stoppelhof,16,,53.68921087,9.81091632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZp,25494,Borstel-Hohenraden,Am Stoppelhof,2,,53.68933106,9.81066946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZq,25494,Borstel-Hohenraden,Am Stoppelhof,3,,53.6895039,9.81072458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZr,25494,Borstel-Hohenraden,Am Stoppelhof,4,,53.68963562,9.811036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZs,25494,Borstel-Hohenraden,Am Stoppelhof,7,,53.68993939,9.81138742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZt,25494,Borstel-Hohenraden,Am Stoppelhof,8,,53.68993626,9.8117604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZu,25494,Borstel-Hohenraden,Am Stoppelhof,9,,53.68967649,9.81075793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZv,25494,Borstel-Hohenraden,Bockhornweg,30,,53.69715657,9.80664814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZw,25494,Borstel-Hohenraden,Deepenbrookweg,1,a,53.69737276,9.8256869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZx,25494,Borstel-Hohenraden,Deepenbrookweg,1,b,53.69745395,9.82567619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZy,25494,Borstel-Hohenraden,Deepenbrookweg,1,c,53.69744861,9.82588985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049DZz,25494,Borstel-Hohenraden,Deepenbrookweg,2,,53.69705569,9.82607891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E00,25494,Borstel-Hohenraden,Dorfstraße,2,,53.68913462,9.81117308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E01,25494,Borstel-Hohenraden,Dorfstraße,20,,53.69079023,9.80827592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E02,25494,Borstel-Hohenraden,Dorfstraße,21,a,53.69199626,9.80728079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E03,25494,Borstel-Hohenraden,Dorfstraße,21,b,53.69212166,9.80723543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E04,25494,Borstel-Hohenraden,Dorfstraße,22,,53.69096861,9.80816425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E05,25494,Borstel-Hohenraden,Dorfstraße,23,,53.69233413,9.80712042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E06,25494,Borstel-Hohenraden,Dorfstraße,24,,53.69114327,9.80803062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E07,25494,Borstel-Hohenraden,Dorfstraße,24,a,53.69132371,9.80795887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E08,25494,Borstel-Hohenraden,Dorfstraße,24,b,53.69149645,9.8078699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E09,25494,Borstel-Hohenraden,Dorfstraße,25,,53.69249287,9.8070527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0A,25494,Borstel-Hohenraden,Dorfstraße,44,,53.69472527,9.80911534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0B,25494,Borstel-Hohenraden,Dorfstraße,45,,53.69528029,9.80975419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0C,25494,Borstel-Hohenraden,Dorfstraße,46,,53.69474227,9.8092052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0D,25494,Borstel-Hohenraden,Dorfstraße,47,,53.69540818,9.80999126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0E,25494,Borstel-Hohenraden,Dorfstraße,48,,53.69482188,9.80937135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0F,25494,Borstel-Hohenraden,Dorfstraße,5,,53.68951806,9.80945426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0G,25494,Borstel-Hohenraden,Dorfstraße,50,,53.69500572,9.80974296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0H,25494,Borstel-Hohenraden,Dorfstraße,53,,53.69572668,9.81145764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0I,25494,Borstel-Hohenraden,Dorfstraße,55,,53.69577155,9.81174612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0J,25494,Borstel-Hohenraden,Dorfstraße,57,,53.69581686,9.81199005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0K,25494,Borstel-Hohenraden,Dorfstraße,58,,53.69546481,9.81186621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0L,25494,Borstel-Hohenraden,Dorfstraße,59,,53.69587416,9.8122735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0M,25494,Borstel-Hohenraden,Dorfstraße,6,,53.68948401,9.81003614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0N,25494,Borstel-Hohenraden,Dorfstraße,60,,53.69553654,9.81250885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0Q,25494,Borstel-Hohenraden,Dorfstraße,62,,53.69559818,9.81287949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0R,25494,Borstel-Hohenraden,Dorfstraße,63,,53.69582193,9.81307205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0S,25494,Borstel-Hohenraden,Dorfstraße,65,,53.69588131,9.81342466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0T,25494,Borstel-Hohenraden,Dorfstraße,66,,53.69569932,9.81363101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0U,25494,Borstel-Hohenraden,Dorfstraße,67,,53.69609317,9.81394558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0V,25494,Borstel-Hohenraden,Dorfstraße,68,,53.69574243,9.81400781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0W,25494,Borstel-Hohenraden,Dorfstraße,69,,53.6962091,9.8150808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0X,25494,Borstel-Hohenraden,Dorfstraße,7,,53.68979151,9.80913161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0Y,25494,Borstel-Hohenraden,Dorfstraße,70,,53.69579642,9.81440073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0Z,25494,Borstel-Hohenraden,Dorfstraße,71,,53.69622188,9.81538776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0a,25494,Borstel-Hohenraden,Dorfstraße,26,,53.69231834,9.80756642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0b,25494,Borstel-Hohenraden,Dorfstraße,26,a,53.69250071,9.80764357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0c,25494,Borstel-Hohenraden,Dorfstraße,27,,53.69267872,9.80694278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0d,25494,Borstel-Hohenraden,Dorfstraße,27,a,53.69338932,9.8066671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0e,25494,Borstel-Hohenraden,Dorfstraße,27,b,53.69347474,9.80665828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0f,25494,Borstel-Hohenraden,Dorfstraße,28,,53.69259772,9.80740684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0g,25494,Borstel-Hohenraden,Dorfstraße,29,,53.69361413,9.80675548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0h,25494,Borstel-Hohenraden,Dorfstraße,29,a,53.69374365,9.80672764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0i,25494,Borstel-Hohenraden,Dorfstraße,29,b,53.69381476,9.8067184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0j,25494,Borstel-Hohenraden,Dorfstraße,3,,53.6893448,9.80968601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0k,25494,Borstel-Hohenraden,Dorfstraße,31,,53.69403839,9.80670645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0l,25494,Borstel-Hohenraden,Dorfstraße,31,a,53.69436776,9.8066513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0m,25494,Borstel-Hohenraden,Dorfstraße,33,,53.6943115,9.80719119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0n,25494,Borstel-Hohenraden,Dorfstraße,35,,53.69449565,9.80762057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0o,25494,Borstel-Hohenraden,Dorfstraße,37,,53.69454514,9.80794612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0p,25494,Borstel-Hohenraden,Dorfstraße,38,,53.69419354,9.80789081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0q,25494,Borstel-Hohenraden,Dorfstraße,39,,53.69467658,9.80833071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0r,25494,Borstel-Hohenraden,Dorfstraße,4,,53.68939125,9.81022841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0s,25494,Borstel-Hohenraden,Dorfstraße,40,,53.69448358,9.80857521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0t,25494,Borstel-Hohenraden,Dorfstraße,41,,53.69476222,9.80852724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0u,25494,Borstel-Hohenraden,Dorfstraße,41,a,53.69479795,9.80861185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0v,25494,Borstel-Hohenraden,Dorfstraße,41,b,53.69494743,9.80892701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0w,25494,Borstel-Hohenraden,Dorfstraße,41,c,53.69499495,9.80886239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0x,25494,Borstel-Hohenraden,Dorfstraße,41,d,53.69504849,9.80879509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0y,25494,Borstel-Hohenraden,Dorfstraße,42,,53.69456919,9.80890578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E0z,25494,Borstel-Hohenraden,Dorfstraße,43,,53.69505784,9.80928011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E10,25494,Borstel-Hohenraden,Dorfstraße,72,,53.69570919,9.81469906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E11,25494,Borstel-Hohenraden,Dorfstraße,73,,53.69624164,9.81582415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E12,25494,Borstel-Hohenraden,Dorfstraße,74,,53.69594655,9.81501032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E14,25494,Borstel-Hohenraden,Dorfstraße,75,,53.696297,9.81623799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E15,25494,Borstel-Hohenraden,Dorfstraße,76,,53.69583843,9.81542883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E17,25494,Borstel-Hohenraden,Dorfstraße,77,,53.69624307,9.81646264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E18,25494,Borstel-Hohenraden,Dorfstraße,78,,53.69600339,9.81578304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E19,25494,Borstel-Hohenraden,Dorfstraße,79,,53.69638378,9.8167864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1A,25494,Borstel-Hohenraden,Dreeheid,4,,53.6925668,9.8065073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1B,25494,Borstel-Hohenraden,Dreeheid,6,,53.69318796,9.80568707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1C,25494,Borstel-Hohenraden,Dreeheid,8,,53.69329639,9.80545743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1D,25494,Borstel-Hohenraden,Dreeheid,9,,53.69322093,9.80499586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1E,25494,Borstel-Hohenraden,Fohlenweg,2,,53.69297078,9.80748605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1F,25494,Borstel-Hohenraden,Fohlenweg,4,,53.69295079,9.80770639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1G,25494,Borstel-Hohenraden,Fohlenweg,4,a,53.69295501,9.80780479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1H,25494,Borstel-Hohenraden,Fohlenweg,6,,53.69298171,9.80802366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1I,25494,Borstel-Hohenraden,Fohlenweg,8,,53.69299501,9.80835277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1J,25494,Borstel-Hohenraden,Fuchsweg,1,,53.69848843,9.81431177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1K,25494,Borstel-Hohenraden,Fuchsweg,11,,53.69864617,9.81580032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1L,25494,Borstel-Hohenraden,Fuchsweg,3,,53.69853858,9.81470792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1M,25494,Borstel-Hohenraden,Fuchsweg,5,,53.69849433,9.81496057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1N,25494,Borstel-Hohenraden,Fuchsweg,6,,53.69816251,9.81507044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1O,25494,Borstel-Hohenraden,Fuchsweg,7,,53.6983968,9.81522752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1P,25494,Borstel-Hohenraden,Fuchsweg,9,,53.69855291,9.81563092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1Q,25494,Borstel-Hohenraden,Grotenkamp,1,,53.69162736,9.80988489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1R,25494,Borstel-Hohenraden,Grotenkamp,10,,53.69261924,9.81051262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1S,25494,Borstel-Hohenraden,Grotenkamp,11,,53.69212546,9.80969917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1T,25494,Borstel-Hohenraden,Grotenkamp,12,,53.6928338,9.81054776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1U,25494,Borstel-Hohenraden,Grotenkamp,13,,53.69211408,9.81006273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1V,25494,Borstel-Hohenraden,Grotenkamp,14,,53.69307966,9.81055718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1W,25494,Borstel-Hohenraden,Grotenkamp,17,,53.69266707,9.81009144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1X,25494,Borstel-Hohenraden,Grotenkamp,19,,53.6928499,9.81016387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1Y,25494,Borstel-Hohenraden,Grotenkamp,2,,53.69171256,9.81025506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1Z,25494,Borstel-Hohenraden,Grotenkamp,21,,53.69309013,9.810229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1a,25494,Borstel-Hohenraden,Dorfstraße,80,,53.6959689,9.81622657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1b,25494,Borstel-Hohenraden,Dorfstraße,81,,53.69626697,9.81710604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1c,25494,Borstel-Hohenraden,Dorfstraße,81,a,53.69627418,9.81724828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1d,25494,Borstel-Hohenraden,Dorfstraße,82,,53.69597075,9.81644102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1e,25494,Borstel-Hohenraden,Dorfstraße,83,,53.69628326,9.81749444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1f,25494,Borstel-Hohenraden,Dorfstraße,84,,53.69598487,9.81673974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1g,25494,Borstel-Hohenraden,Dorfstraße,85,,53.69631908,9.81775245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1h,25494,Borstel-Hohenraden,Dorfstraße,86,,53.69599511,9.81695759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1i,25494,Borstel-Hohenraden,Dorfstraße,87,,53.69640929,9.8180267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1j,25494,Borstel-Hohenraden,Dorfstraße,88,,53.69600041,9.81715642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1k,25494,Borstel-Hohenraden,Dorfstraße,89,,53.69639605,9.81829074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1l,25494,Borstel-Hohenraden,Dorfstraße,90,,53.69601287,9.81748784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1m,25494,Borstel-Hohenraden,Dorfstraße,91,,53.69642192,9.81851922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1n,25494,Borstel-Hohenraden,Dorfstraße,91,a,53.69643915,9.81880571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1o,25494,Borstel-Hohenraden,Dorfstraße,91,b,53.69636616,9.81910294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1p,25494,Borstel-Hohenraden,Dorfstraße,92,,53.69602405,9.81780976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1q,25494,Borstel-Hohenraden,Dorfstraße,93,,53.69639311,9.82043063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1r,25494,Borstel-Hohenraden,Dorfstraße,94,,53.69609419,9.81858244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1s,25494,Borstel-Hohenraden,Dorfstraße,95,,53.69657458,9.82081075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1t,25494,Borstel-Hohenraden,Dorfstraße,96,,53.69602472,9.81899204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1u,25494,Borstel-Hohenraden,Dorfstraße,97,,53.69651885,9.82116606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1v,25494,Borstel-Hohenraden,Dorfstraße,98,,53.69603978,9.81931618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1w,25494,Borstel-Hohenraden,Dorfstraße,99,,53.69646581,9.82165669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1x,25494,Borstel-Hohenraden,Dreeheid,10,,53.69362223,9.80520894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1y,25494,Borstel-Hohenraden,Dreeheid,11,,53.69338542,9.80468507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E1z,25494,Borstel-Hohenraden,Dreeheid,16,,53.69405753,9.80451163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E20,25494,Borstel-Hohenraden,Grotenkamp,21,a,53.69311479,9.81007332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E21,25494,Borstel-Hohenraden,Grotenkamp,22,,53.69237873,9.80999581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E22,25494,Borstel-Hohenraden,Grotenkamp,23,,53.69310709,9.80976835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E23,25494,Borstel-Hohenraden,Grotenkamp,25,,53.6931832,9.80932326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E24,25494,Borstel-Hohenraden,Grotenkamp,27,,53.69322445,9.80923197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E25,25494,Borstel-Hohenraden,Grotenkamp,3,,53.69189008,9.80996308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E26,25494,Borstel-Hohenraden,Grotenkamp,4,,53.69193308,9.81033874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E27,25494,Borstel-Hohenraden,Grotenkamp,5,,53.69193526,9.80961027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E28,25494,Borstel-Hohenraden,Grotenkamp,6,,53.69215135,9.8103459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E29,25494,Borstel-Hohenraden,Grotenkamp,7,,53.69195343,9.80935485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2A,25494,Borstel-Hohenraden,Grüner Bogen,7,,53.69435873,9.81011444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2B,25494,Borstel-Hohenraden,Grüner Bogen,8,,53.69427979,9.80936361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2C,25494,Borstel-Hohenraden,Grüner Bogen,9,,53.69421976,9.81019052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2D,25494,Borstel-Hohenraden,Hexentwiete,1,,53.70470022,9.82336025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2E,25494,Borstel-Hohenraden,Harbrookweg,1,,53.70232087,9.83162161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2F,25494,Borstel-Hohenraden,Harbrookweg,10,,53.70117427,9.83307519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2G,25494,Borstel-Hohenraden,Harbrookweg,3,,53.70209895,9.83189711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2H,25494,Borstel-Hohenraden,Harbrookweg,8,,53.70149028,9.8324416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2I,25494,Borstel-Hohenraden,Himmelmoorweg,1,,53.69477429,9.82025968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2J,25494,Borstel-Hohenraden,Himmelmoorweg,13,,53.70433541,9.82323088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2K,25494,Borstel-Hohenraden,Himmelmoorweg,15,,53.70533661,9.82386353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2L,25494,Borstel-Hohenraden,Himmelmoorweg,2,,53.69494704,9.82086444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2M,25494,Borstel-Hohenraden,Himmelmoorweg,2,a,53.69513253,9.82087532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2N,25494,Borstel-Hohenraden,Himmelmoorweg,20,,53.70544285,9.82474653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2O,25494,Borstel-Hohenraden,Himmelmoorweg,22,,53.70532068,9.82504774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2P,25494,Borstel-Hohenraden,Himmelmoorweg,25,,53.70708659,9.82520246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2Q,25494,Borstel-Hohenraden,Himmelmoorweg,27,,53.70779219,9.82581094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2R,25494,Borstel-Hohenraden,Himmelmoorweg,3,,53.69544009,9.8199576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2S,25494,Borstel-Hohenraden,Himmelmoorweg,4,,53.69528042,9.82056669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2T,25494,Borstel-Hohenraden,Himmelmoorweg,4,a,53.69541009,9.82053185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2U,25494,Borstel-Hohenraden,Himmelmoorweg,5,,53.69580639,9.81985982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2V,25494,Borstel-Hohenraden,Himmelmoorweg,6,,53.69565017,9.820382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2W,25494,Borstel-Hohenraden,Himmelmoorweg,6,a,53.69583666,9.82025363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2X,25494,Borstel-Hohenraden,Himmelmoorweg,8,,53.69659033,9.82004428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2Y,25494,Borstel-Hohenraden,Himmelmoorweg,9,,53.70088972,9.8203909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2Z,25494,Borstel-Hohenraden,Hochmoorstraße,1,,53.70366572,9.82881066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2a,25494,Borstel-Hohenraden,Grotenkamp,8,,53.69238092,9.81042743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2b,25494,Borstel-Hohenraden,Grotenkamp,9,,53.69215836,9.80938189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2c,25494,Borstel-Hohenraden,Grüner Bogen,10,,53.69432213,9.80982396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2d,25494,Borstel-Hohenraden,Grüner Bogen,11,,53.69409749,9.81050299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2e,25494,Borstel-Hohenraden,Grüner Bogen,11,a,53.69411028,9.81059206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2f,25494,Borstel-Hohenraden,Grüner Bogen,12,,53.69403973,9.80958607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2g,25494,Borstel-Hohenraden,Grüner Bogen,13,,53.69396751,9.8107249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2h,25494,Borstel-Hohenraden,Grüner Bogen,14,,53.69408242,9.80997272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2i,25494,Borstel-Hohenraden,Grüner Bogen,15,,53.69380565,9.81074113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2j,25494,Borstel-Hohenraden,Grüner Bogen,16,,53.6939204,9.81012032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2k,25494,Borstel-Hohenraden,Grüner Bogen,17,,53.69362214,9.81054853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2l,25494,Borstel-Hohenraden,Grüner Bogen,18,,53.69374803,9.81010854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2m,25494,Borstel-Hohenraden,Grüner Bogen,19,,53.69352338,9.81021963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2n,25494,Borstel-Hohenraden,Grüner Bogen,2,,53.69482204,9.809512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2o,25494,Borstel-Hohenraden,Grüner Bogen,20,,53.69360939,9.80970395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2p,25494,Borstel-Hohenraden,Grüner Bogen,20,a,53.69359691,9.80960213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2q,25494,Borstel-Hohenraden,Grüner Bogen,22,,53.69382514,9.8096308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2r,25494,Borstel-Hohenraden,Grüner Bogen,23,,53.69328499,9.8088917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2s,25494,Borstel-Hohenraden,Grüner Bogen,24,,53.6938228,9.80924204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2t,25494,Borstel-Hohenraden,Grüner Bogen,25,,53.6932882,9.80877669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2u,25494,Borstel-Hohenraden,Grüner Bogen,26,,53.69360952,9.80929974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2v,25494,Borstel-Hohenraden,Grüner Bogen,28,,53.69354758,9.80929365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2w,25494,Borstel-Hohenraden,Grüner Bogen,3,,53.69476173,9.80988236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2x,25494,Borstel-Hohenraden,Grüner Bogen,4,,53.69455852,9.80968119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2y,25494,Borstel-Hohenraden,Grüner Bogen,5,,53.69456623,9.81001898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E2z,25494,Borstel-Hohenraden,Grüner Bogen,6,,53.69449325,9.80934715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E30,25494,Borstel-Hohenraden,Hochmoorstraße,14,,53.70419071,9.82810423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E31,25494,Borstel-Hohenraden,Hochmoorstraße,16,,53.70423621,9.8277672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E32,25494,Borstel-Hohenraden,Hochmoorstraße,18,,53.70437327,9.82728011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E33,25494,Borstel-Hohenraden,Hochmoorstraße,2,,53.70362946,9.83000466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E34,25494,Borstel-Hohenraden,Hochmoorstraße,20,,53.70441299,9.82713784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E35,25494,Borstel-Hohenraden,Hochmoorstraße,22,,53.70452644,9.82665828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E36,25494,Borstel-Hohenraden,Hochmoorstraße,4,,53.70373507,9.82973011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E37,25494,Borstel-Hohenraden,Hochmoorstraße,5,,53.70390338,9.82775159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E38,25494,Borstel-Hohenraden,Hochmoorstraße,6,,53.70371593,9.82939672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E39,25494,Borstel-Hohenraden,Hochmoorstraße,7,,53.70402935,9.82747222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3A,25494,Borstel-Hohenraden,In de Masch,6,,53.68433294,9.80856153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3B,25494,Borstel-Hohenraden,In de Masch,7,,53.68434468,9.8099455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3C,25494,Borstel-Hohenraden,In de Masch,8,,53.68411829,9.80893285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3D,25494,Borstel-Hohenraden,In de Masch,9,,53.68415974,9.81038963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3G,25494,Borstel-Hohenraden,In de Röth,2,,53.68595818,9.80531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3H,25494,Borstel-Hohenraden,In de Röth,4,,53.68609645,9.80523068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3I,25494,Borstel-Hohenraden,Kirchenstieg,1,,53.68393521,9.81640227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3J,25494,Borstel-Hohenraden,Kirchenstieg,3,,53.68348864,9.81703749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3K,25494,Borstel-Hohenraden,Kirchenstieg,4,,53.68332909,9.81681363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3L,25494,Borstel-Hohenraden,Kirchenstieg,6,,53.68317946,9.8170013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3M,25494,Borstel-Hohenraden,Kummerfelder Mühlenweg,50,,53.69820429,9.80600943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3N,25494,Borstel-Hohenraden,Kummerfelder Mühlenweg,52,,53.69801772,9.80548423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3O,25494,Borstel-Hohenraden,Kummerfelder Straße,1,,53.69307064,9.80664554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3P,25494,Borstel-Hohenraden,Kummerfelder Straße,1,a,53.69280783,9.8062369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3Q,25494,Borstel-Hohenraden,Kummerfelder Straße,10,,53.69300289,9.80474372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3R,25494,Borstel-Hohenraden,Kummerfelder Straße,11,,53.69226354,9.80305914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3S,25494,Borstel-Hohenraden,Kummerfelder Straße,12,,53.69264074,9.80474631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3T,25494,Borstel-Hohenraden,Kummerfelder Straße,12,a,53.69260315,9.80453403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3U,25494,Borstel-Hohenraden,Kummerfelder Straße,13,,53.69228501,9.80281214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3V,25494,Borstel-Hohenraden,Kummerfelder Straße,14,,53.69264386,9.80405581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3W,25494,Borstel-Hohenraden,Kummerfelder Straße,15,,53.69233336,9.80252556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3X,25494,Borstel-Hohenraden,Kummerfelder Straße,16,,53.6925646,9.80372363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3Y,25494,Borstel-Hohenraden,Kummerfelder Straße,17,,53.69238384,9.80225825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3Z,25494,Borstel-Hohenraden,Kummerfelder Straße,18,,53.69263695,9.80343132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3a,25494,Borstel-Hohenraden,Huweg,1,,53.68417842,9.80566886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3b,25494,Borstel-Hohenraden,Huweg,10,,53.68443866,9.80461246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3c,25494,Borstel-Hohenraden,Huweg,12,,53.68446968,9.80396948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3d,25494,Borstel-Hohenraden,Huweg,14,,53.68453214,9.80352675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3e,25494,Borstel-Hohenraden,Huweg,2,,53.68442937,9.8058014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3f,25494,Borstel-Hohenraden,Huweg,3,,53.68419243,9.80537785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3g,25494,Borstel-Hohenraden,Huweg,4,,53.6843929,9.80541927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3h,25494,Borstel-Hohenraden,Huweg,6,,53.68440764,9.80517854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3i,25494,Borstel-Hohenraden,Huweg,7,,53.68415434,9.80464617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3j,25494,Borstel-Hohenraden,Huweg,8,,53.68444001,9.80483854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3k,25494,Borstel-Hohenraden,Huweg,9,,53.68421224,9.80426953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3l,25494,Borstel-Hohenraden,In de Masch,1,,53.68481529,9.80792957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3m,25494,Borstel-Hohenraden,In de Masch,10,,53.68416635,9.80927943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3n,25494,Borstel-Hohenraden,In de Masch,11,,53.68460689,9.81215207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3o,25494,Borstel-Hohenraden,In de Masch,15,,53.68467791,9.81326391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3p,25494,Borstel-Hohenraden,In de Masch,19,,53.68455315,9.81479421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3q,25494,Borstel-Hohenraden,In de Masch,2,,53.68465377,9.80753039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3r,25494,Borstel-Hohenraden,In de Masch,2,a,53.68458777,9.80782049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3s,25494,Borstel-Hohenraden,In de Masch,21,,53.68452972,9.81525083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3t,25494,Borstel-Hohenraden,In de Masch,3,,53.68490021,9.80885652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3u,25494,Borstel-Hohenraden,In de Masch,30,,53.68431536,9.81351548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3v,25494,Borstel-Hohenraden,In de Masch,32,,53.68416542,9.81486157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3w,25494,Borstel-Hohenraden,In de Masch,38,,53.68437808,9.81730527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3x,25494,Borstel-Hohenraden,In de Masch,4,,53.68436324,9.80831128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3y,25494,Borstel-Hohenraden,In de Masch,40,,53.6846311,9.81754852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E3z,25494,Borstel-Hohenraden,In de Masch,5,,53.68456449,9.80949837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E40,25494,Borstel-Hohenraden,Kummerfelder Straße,19,,53.6924394,9.80201755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E41,25494,Borstel-Hohenraden,Kummerfelder Straße,2,,53.69311903,9.80617951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E42,25494,Borstel-Hohenraden,Kummerfelder Straße,2,a,53.69333376,9.8063242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E43,25494,Borstel-Hohenraden,Kummerfelder Straße,20,,53.69255234,9.80315979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E44,25494,Borstel-Hohenraden,Kummerfelder Straße,21,,53.69249157,9.80173127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E45,25494,Borstel-Hohenraden,Kummerfelder Straße,22,,53.69257631,9.80277557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E46,25494,Borstel-Hohenraden,Kummerfelder Straße,23,,53.69257349,9.80153777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E47,25494,Borstel-Hohenraden,Kummerfelder Straße,24,,53.69258385,9.80241893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E48,25494,Borstel-Hohenraden,Kummerfelder Straße,25,,53.69266453,9.80128408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E49,25494,Borstel-Hohenraden,Kummerfelder Straße,26,,53.6927259,9.80215904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4A,25494,Borstel-Hohenraden,Mühlenweg,19,,53.69674128,9.82614138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4B,25494,Borstel-Hohenraden,Mühlenweg,2,,53.69642703,9.82347074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4C,25494,Borstel-Hohenraden,Mühlenweg,21,,53.69679981,9.82650034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4D,25494,Borstel-Hohenraden,Mühlenweg,23,,53.6968892,9.8268504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4E,25494,Borstel-Hohenraden,Mühlenweg,25,,53.69686611,9.82719186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4F,25494,Borstel-Hohenraden,Mühlenweg,27,,53.69681715,9.82748718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4G,25494,Borstel-Hohenraden,Mühlenweg,29,,53.69682723,9.82777685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4H,25494,Borstel-Hohenraden,Mühlenweg,3,,53.69681647,9.8239201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4I,25494,Borstel-Hohenraden,Mühlenweg,31,,53.69668509,9.82823859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4J,25494,Borstel-Hohenraden,Mühlenweg,33,,53.69672701,9.8285961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4K,25494,Borstel-Hohenraden,Mühlenweg,33,a,53.69679836,9.82864428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4L,25494,Borstel-Hohenraden,Mühlenweg,35,,53.69661251,9.82885311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4N,25494,Borstel-Hohenraden,Mühlenweg,45,,53.69643448,9.83186996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4O,25494,Borstel-Hohenraden,Mühlenweg,5,,53.69684892,9.82420437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4P,25494,Borstel-Hohenraden,Mühlenweg,7,,53.69687085,9.82436932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4Q,25494,Borstel-Hohenraden,Mühlenweg,9,,53.69690653,9.824644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4R,25494,Borstel-Hohenraden,Nedderhulden,1,,53.69182357,9.80784188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4S,25494,Borstel-Hohenraden,Nedderhulden,11,,53.69171624,9.80887547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4T,25494,Borstel-Hohenraden,Nedderhulden,13,,53.69163453,9.80939085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4U,25494,Borstel-Hohenraden,Nedderhulden,2,,53.69152756,9.80831356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4V,25494,Borstel-Hohenraden,Nedderhulden,3,,53.69182357,9.80784188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4W,25494,Borstel-Hohenraden,Nedderhulden,4,,53.69146009,9.80863613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4X,25494,Borstel-Hohenraden,Nedderhulden,5,,53.69182357,9.80784188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4Y,25494,Borstel-Hohenraden,Nedderhulden,6,,53.69143895,9.80886131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4Z,25494,Borstel-Hohenraden,Nedderhulden,7,,53.69181685,9.80834957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4a,25494,Borstel-Hohenraden,Kummerfelder Straße,27,,53.69274182,9.80105206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4b,25494,Borstel-Hohenraden,Kummerfelder Straße,29,,53.69286208,9.8008353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4c,25494,Borstel-Hohenraden,Kummerfelder Straße,3,,53.69259416,9.80590996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4d,25494,Borstel-Hohenraden,Kummerfelder Straße,3,a,53.6925089,9.80551372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4e,25494,Borstel-Hohenraden,Kummerfelder Straße,31,,53.69297792,9.8006206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4f,25494,Borstel-Hohenraden,Kummerfelder Straße,32,,53.6930054,9.80125053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4g,25494,Borstel-Hohenraden,Kummerfelder Straße,33,,53.69309721,9.80040311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4h,25494,Borstel-Hohenraden,Kummerfelder Straße,4,,53.6929666,9.80577936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4i,25494,Borstel-Hohenraden,Kummerfelder Straße,5,,53.69242919,9.8051399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4j,25494,Borstel-Hohenraden,Kummerfelder Straße,5,a,53.69236599,9.80474458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4k,25494,Borstel-Hohenraden,Kummerfelder Straße,6,,53.69285978,9.80542843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4l,25494,Borstel-Hohenraden,Kummerfelder Straße,7,,53.69231434,9.80425762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4m,25494,Borstel-Hohenraden,Kummerfelder Straße,7,a,53.69229025,9.80393131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4n,25494,Borstel-Hohenraden,Kummerfelder Straße,8,,53.69278383,9.80521704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4o,25494,Borstel-Hohenraden,Kummerfelder Straße,9,,53.69229756,9.80351617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4p,25494,Borstel-Hohenraden,Lüttenkamp,2,,53.69726342,9.82719488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4q,25494,Borstel-Hohenraden,Lüttenkamp,3,,53.6971893,9.82744154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4r,25494,Borstel-Hohenraden,Lüttenkamp,4,,53.69724513,9.82780653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4s,25494,Borstel-Hohenraden,Moorweg,2,,53.70732485,9.82475297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4w,25494,Borstel-Hohenraden,Mühlenweg,1,,53.69680235,9.82374952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4x,25494,Borstel-Hohenraden,Mühlenweg,10,,53.696588,9.82563294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4y,25494,Borstel-Hohenraden,Mühlenweg,11,,53.69692478,9.82478626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E4z,25494,Borstel-Hohenraden,Mühlenweg,13,,53.69696499,9.82512127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E50,25494,Borstel-Hohenraden,Nedderhulden,9,,53.69181685,9.80834957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E51,25494,Borstel-Hohenraden,Op'n Barg,1,,53.6977739,9.82471507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E52,25494,Borstel-Hohenraden,Op'n Barg,1,a,53.69762305,9.82482342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E54,25494,Borstel-Hohenraden,Op'n Barg,3,,53.69751584,9.82510352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E55,25494,Borstel-Hohenraden,Op'n Barg,4,,53.69741215,9.82482201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E56,25494,Borstel-Hohenraden,Op'n Barg,5,,53.69739139,9.82541424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E57,25494,Borstel-Hohenraden,Op'n Felln,1,,53.69050621,9.80750957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E58,25494,Borstel-Hohenraden,Op'n Felln,12,,53.69079498,9.80626907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E59,25494,Borstel-Hohenraden,Op'n Felln,2,,53.69080592,9.80743242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5A,25494,Borstel-Hohenraden,Prisdorfer Weg,28,,53.68488032,9.80322212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5B,25494,Borstel-Hohenraden,Prisdorfer Weg,28,a,53.68502331,9.80284308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5C,25494,Borstel-Hohenraden,Prisdorfer Weg,3,,53.68527241,9.80640319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5D,25494,Borstel-Hohenraden,Prisdorfer Weg,30,,53.684689,9.80249905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5E,25494,Borstel-Hohenraden,Prisdorfer Weg,32,,53.68450474,9.8018322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5F,25494,Borstel-Hohenraden,Prisdorfer Weg,34,,53.68442079,9.80149008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5G,25494,Borstel-Hohenraden,Prisdorfer Weg,36,,53.68441622,9.80123175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5H,25494,Borstel-Hohenraden,Prisdorfer Weg,38,,53.68437583,9.80103734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5I,25494,Borstel-Hohenraden,Prisdorfer Weg,38,a,53.68447737,9.80098962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5J,25494,Borstel-Hohenraden,Prisdorfer Weg,4,,53.68561965,9.80663134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5K,25494,Borstel-Hohenraden,Prisdorfer Weg,40,,53.68442761,9.80072354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5L,25494,Borstel-Hohenraden,Prisdorfer Weg,42,,53.68441144,9.80043898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5M,25494,Borstel-Hohenraden,Prisdorfer Weg,5,,53.68538716,9.80611128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5N,25494,Borstel-Hohenraden,Prisdorfer Weg,54,,53.68467572,9.79845751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5O,25494,Borstel-Hohenraden,Prisdorfer Weg,6,,53.68561423,9.80639713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5P,25494,Borstel-Hohenraden,Prisdorfer Weg,65,,53.6836472,9.79515784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5Q,25494,Borstel-Hohenraden,Prisdorfer Weg,66,,53.68435867,9.79650423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5R,25494,Borstel-Hohenraden,Prisdorfer Weg,67,,53.68357517,9.79488018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5S,25494,Borstel-Hohenraden,Prisdorfer Weg,68,,53.68443914,9.79611419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5T,25494,Borstel-Hohenraden,Prisdorfer Weg,69,,53.68231062,9.79457058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5U,25494,Borstel-Hohenraden,Prisdorfer Weg,7,,53.68532843,9.805859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5V,25494,Borstel-Hohenraden,Prisdorfer Weg,70,,53.6843732,9.79580301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5W,25494,Borstel-Hohenraden,Prisdorfer Weg,72,,53.68411765,9.79525624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5X,25494,Borstel-Hohenraden,Prisdorfer Weg,74,,53.68400802,9.79493995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5Y,25494,Borstel-Hohenraden,Prisdorfer Weg,76,,53.68393839,9.79466431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5Z,25494,Borstel-Hohenraden,Prisdorfer Weg,8,,53.68559343,9.80612372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5a,25494,Borstel-Hohenraden,Op'n Felln,3,,53.69051253,9.80691841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5b,25494,Borstel-Hohenraden,Op'n Felln,4,,53.69088087,9.80744461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5c,25494,Borstel-Hohenraden,Op'n Felln,5,,53.69054365,9.80655923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5d,25494,Borstel-Hohenraden,Op'n Felln,6,,53.6907973,9.80714649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5e,25494,Borstel-Hohenraden,Op'n Felln,7,,53.69049468,9.8061685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5f,25494,Borstel-Hohenraden,Op'n Felln,8,,53.6907973,9.80714649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5g,25494,Borstel-Hohenraden,Op de Loh,2,,53.68415065,9.8066935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5h,25494,Borstel-Hohenraden,Op de Loh,4,,53.68397731,9.80709706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5i,25494,Borstel-Hohenraden,Op de Loh,6,,53.68366665,9.80741124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5j,25494,Borstel-Hohenraden,Prisdorfer Weg,1,,53.68541157,9.80709441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5k,25494,Borstel-Hohenraden,Prisdorfer Weg,10,,53.68555579,9.80589184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5l,25494,Borstel-Hohenraden,Prisdorfer Weg,11,,53.68509771,9.8051826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5m,25494,Borstel-Hohenraden,Prisdorfer Weg,12,,53.68550859,9.80564047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5n,25494,Borstel-Hohenraden,Prisdorfer Weg,13,,53.6850171,9.80480303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5o,25494,Borstel-Hohenraden,Prisdorfer Weg,14,,53.68542298,9.80529156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5p,25494,Borstel-Hohenraden,Prisdorfer Weg,15,,53.6849612,9.80456358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5q,25494,Borstel-Hohenraden,Prisdorfer Weg,16,,53.6853412,9.8049749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5r,25494,Borstel-Hohenraden,Prisdorfer Weg,17,,53.68481196,9.8043008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5s,25494,Borstel-Hohenraden,Prisdorfer Weg,18,,53.68536037,9.8046888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5t,25494,Borstel-Hohenraden,Prisdorfer Weg,2,,53.68565159,9.80686509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5u,25494,Borstel-Hohenraden,Prisdorfer Weg,2,a,53.68564464,9.80712098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5v,25494,Borstel-Hohenraden,Prisdorfer Weg,20,,53.68518071,9.80438632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5w,25494,Borstel-Hohenraden,Prisdorfer Weg,22,,53.68514121,9.80409566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5x,25494,Borstel-Hohenraden,Prisdorfer Weg,24,,53.68507729,9.80379443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5y,25494,Borstel-Hohenraden,Prisdorfer Weg,25,,53.6841206,9.80144055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E5z,25494,Borstel-Hohenraden,Prisdorfer Weg,26,,53.68500235,9.80352373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E60,25494,Borstel-Hohenraden,Prisdorfer Weg,9,,53.68525708,9.80560961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E61,25494,Borstel-Hohenraden,Quickborner Straße,10,,53.68010107,9.80045402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E62,25494,Borstel-Hohenraden,Quickborner Straße,100,,53.69360683,9.82116138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E63,25494,Borstel-Hohenraden,Quickborner Straße,101,,53.69716124,9.82351682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E64,25494,Borstel-Hohenraden,Quickborner Straße,102,,53.69381843,9.82091701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E65,25494,Borstel-Hohenraden,Quickborner Straße,103,,53.69745008,9.82373838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E67,25494,Borstel-Hohenraden,Quickborner Straße,105,,53.69768916,9.82392372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E68,25494,Borstel-Hohenraden,Quickborner Straße,106,,53.69484192,9.82164112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6A,25494,Borstel-Hohenraden,Quickborner Straße,128,,53.7047326,9.83228977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6B,25494,Borstel-Hohenraden,Quickborner Straße,13,,53.68049332,9.80025431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6C,25494,Borstel-Hohenraden,Quickborner Straße,14,,53.68034813,9.80083885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6D,25494,Borstel-Hohenraden,Quickborner Straße,15,,53.68062243,9.80044377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6E,25494,Borstel-Hohenraden,Quickborner Straße,16,,53.68048675,9.80107618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6F,25494,Borstel-Hohenraden,Quickborner Straße,16,a,53.68061398,9.80130548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6G,25494,Borstel-Hohenraden,Quickborner Straße,17,,53.6807305,9.80067109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6H,25494,Borstel-Hohenraden,Quickborner Straße,18,,53.68071501,9.80159485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6I,25494,Borstel-Hohenraden,Quickborner Straße,19,,53.68087644,9.80088628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6J,25494,Borstel-Hohenraden,Quickborner Straße,19,a,53.68100096,9.80118277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6K,25494,Borstel-Hohenraden,Quickborner Straße,2,,53.67929001,9.79907422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6L,25494,Borstel-Hohenraden,Quickborner Straße,20,,53.68084647,9.80196376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6M,25494,Borstel-Hohenraden,Quickborner Straße,21,,53.68108247,9.80154483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6N,25494,Borstel-Hohenraden,Quickborner Straße,22,,53.68097176,9.8023103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6O,25494,Borstel-Hohenraden,Quickborner Straße,23,,53.68122932,9.80205424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6P,25494,Borstel-Hohenraden,Quickborner Straße,24,,53.68103889,9.80265754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6Q,25494,Borstel-Hohenraden,Quickborner Straße,25,,53.68130625,9.80237459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6R,25494,Borstel-Hohenraden,Quickborner Straße,26,,53.68112076,9.80291549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6S,25494,Borstel-Hohenraden,Quickborner Straße,26,a,53.68113164,9.80297231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6T,25494,Borstel-Hohenraden,Quickborner Straße,27,,53.68136556,9.80259807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6U,25494,Borstel-Hohenraden,Quickborner Straße,28,,53.68117538,9.80326192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6V,25494,Borstel-Hohenraden,Quickborner Straße,29,,53.68156243,9.80299492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6W,25494,Borstel-Hohenraden,Quickborner Straße,3,,53.67975693,9.7990294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6X,25494,Borstel-Hohenraden,Quickborner Straße,30,,53.68120993,9.8035658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6Y,25494,Borstel-Hohenraden,Quickborner Straße,32,,53.68156475,9.80447789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6Z,25494,Borstel-Hohenraden,Quickborner Straße,32,a,53.68160928,9.80455422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6a,25494,Borstel-Hohenraden,Quickborner Straße,107,a,53.70049304,9.82586395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6b,25494,Borstel-Hohenraden,Quickborner Straße,108,,53.69544237,9.82237573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6c,25494,Borstel-Hohenraden,Quickborner Straße,108,a,53.69525838,9.82207809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6d,25494,Borstel-Hohenraden,Quickborner Straße,109,,53.70079981,9.82710904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6e,25494,Borstel-Hohenraden,Quickborner Straße,11,,53.68029337,9.80001663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6f,25494,Borstel-Hohenraden,Quickborner Straße,110,,53.69576215,9.8226313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6g,25494,Borstel-Hohenraden,Quickborner Straße,110,a,53.69619132,9.82297557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6h,25494,Borstel-Hohenraden,Quickborner Straße,111,,53.70097539,9.82749669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6i,25494,Borstel-Hohenraden,Quickborner Straße,111,a,53.70112516,9.8274706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6j,25494,Borstel-Hohenraden,Quickborner Straße,112,,53.69740598,9.82410838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6k,25494,Borstel-Hohenraden,Quickborner Straße,112,a,53.69735519,9.82405709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6l,25494,Borstel-Hohenraden,Quickborner Straße,113,,53.70108325,9.82794539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6m,25494,Borstel-Hohenraden,Quickborner Straße,114,,53.69755187,9.82425146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6n,25494,Borstel-Hohenraden,Quickborner Straße,115,,53.70220842,9.82918774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6o,25494,Borstel-Hohenraden,Quickborner Straße,116,,53.69802095,9.82475581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6p,25494,Borstel-Hohenraden,Quickborner Straße,117,,53.70287917,9.82964024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6q,25494,Borstel-Hohenraden,Quickborner Straße,118,,53.69925561,9.82544126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6r,25494,Borstel-Hohenraden,Quickborner Straße,119,,53.70375762,9.83045259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6s,25494,Borstel-Hohenraden,Quickborner Straße,119,b,53.70451504,9.83067411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6t,25494,Borstel-Hohenraden,Quickborner Straße,12,,53.68023199,9.80065517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6u,25494,Borstel-Hohenraden,Quickborner Straße,120,,53.70087083,9.82921758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6v,25494,Borstel-Hohenraden,Quickborner Straße,121,,53.70476041,9.83087392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6w,25494,Borstel-Hohenraden,Quickborner Straße,122,,53.70264107,9.8299109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6x,25494,Borstel-Hohenraden,Quickborner Straße,123,,53.70549626,9.83223226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6y,25494,Borstel-Hohenraden,Quickborner Straße,124,,53.70313766,9.83038161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E6z,25494,Borstel-Hohenraden,Quickborner Straße,126,,53.70454228,9.8312101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E70,25494,Borstel-Hohenraden,Quickborner Straße,34,,53.68185897,9.8048865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E71,25494,Borstel-Hohenraden,Quickborner Straße,36,,53.68220651,9.80500651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E72,25494,Borstel-Hohenraden,Quickborner Straße,38,,53.68249104,9.80526785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E73,25494,Borstel-Hohenraden,Quickborner Straße,4,,53.6795115,9.79940295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E74,25494,Borstel-Hohenraden,Quickborner Straße,40,,53.68282111,9.80524202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E75,25494,Borstel-Hohenraden,Quickborner Straße,42,,53.68305852,9.80564914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E76,25494,Borstel-Hohenraden,Quickborner Straße,44,,53.68321378,9.8057386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E77,25494,Borstel-Hohenraden,Quickborner Straße,46,,53.68335946,9.80574953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E78,25494,Borstel-Hohenraden,Quickborner Straße,46,a,53.68358648,9.80596023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E79,25494,Borstel-Hohenraden,Quickborner Straße,47,,53.68367081,9.80558372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7A,25494,Borstel-Hohenraden,Quickborner Straße,64,b,53.68552817,9.80865547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7B,25494,Borstel-Hohenraden,Quickborner Straße,64,c,53.68548999,9.80857241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7C,25494,Borstel-Hohenraden,Quickborner Straße,65,,53.6859849,9.80815718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7D,25494,Borstel-Hohenraden,Quickborner Straße,66,,53.68586495,9.8084941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7E,25494,Borstel-Hohenraden,Quickborner Straße,67,,53.68613131,9.80830287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7F,25494,Borstel-Hohenraden,Quickborner Straße,68,,53.68599885,9.80865804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7H,25494,Borstel-Hohenraden,Quickborner Straße,7,,53.67997338,9.79942261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7I,25494,Borstel-Hohenraden,Quickborner Straße,71,,53.68659494,9.8088164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7J,25494,Borstel-Hohenraden,Quickborner Straße,73,,53.68687965,9.80898283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7K,25494,Borstel-Hohenraden,Quickborner Straße,74,,53.68644665,9.80940479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7L,25494,Borstel-Hohenraden,Quickborner Straße,75,,53.68706509,9.80917317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7M,25494,Borstel-Hohenraden,Quickborner Straße,76,,53.6865728,9.80952564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7N,25494,Borstel-Hohenraden,Quickborner Straße,77,,53.68724176,9.80934432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7O,25494,Borstel-Hohenraden,Quickborner Straße,78,,53.68674532,9.8097196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7P,25494,Borstel-Hohenraden,Quickborner Straße,79,,53.68742824,9.80932377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7Q,25494,Borstel-Hohenraden,Quickborner Straße,8,,53.67992446,9.80003665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7R,25494,Borstel-Hohenraden,Quickborner Straße,80,,53.68713642,9.80997928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7S,25494,Borstel-Hohenraden,Quickborner Straße,80,a,53.6868941,9.81021025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7T,25494,Borstel-Hohenraden,Quickborner Straße,81,,53.68766819,9.80957396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7U,25494,Borstel-Hohenraden,Quickborner Straße,82,,53.68732961,9.81013245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7V,25494,Borstel-Hohenraden,Quickborner Straße,83,,53.68781996,9.80989495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7W,25494,Borstel-Hohenraden,Quickborner Straße,84,,53.68767151,9.81032674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7X,25494,Borstel-Hohenraden,Quickborner Straße,85,,53.68802374,9.80977587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7Y,25494,Borstel-Hohenraden,Quickborner Straße,86,,53.68815369,9.81076019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7Z,25494,Borstel-Hohenraden,Quickborner Straße,87,,53.68808571,9.81014312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7a,25494,Borstel-Hohenraden,Quickborner Straße,48,,53.68356229,9.80634263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7b,25494,Borstel-Hohenraden,Quickborner Straße,48,a,53.68375232,9.80633545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7c,25494,Borstel-Hohenraden,Quickborner Straße,5,,53.67986712,9.79923394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7d,25494,Borstel-Hohenraden,Quickborner Straße,50,,53.68391623,9.80623362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7e,25494,Borstel-Hohenraden,Quickborner Straße,51,,53.68443074,9.80632366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7f,25494,Borstel-Hohenraden,Quickborner Straße,51,a,53.68450644,9.80614876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7h,25494,Borstel-Hohenraden,Quickborner Straße,53,,53.68469824,9.80615173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7i,25494,Borstel-Hohenraden,Quickborner Straße,55,,53.68472861,9.80649542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7j,25494,Borstel-Hohenraden,Quickborner Straße,56,,53.68475822,9.80713698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7k,25494,Borstel-Hohenraden,Quickborner Straße,57,,53.68483671,9.80680183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7l,25494,Borstel-Hohenraden,Quickborner Straße,57,a,53.68498091,9.80671871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7m,25494,Borstel-Hohenraden,Quickborner Straße,58,,53.68505157,9.80747373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7n,25494,Borstel-Hohenraden,Quickborner Straße,58,a,53.68505157,9.80747373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7o,25494,Borstel-Hohenraden,Quickborner Straße,58,b,53.68505157,9.80747373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7p,25494,Borstel-Hohenraden,Quickborner Straße,59,,53.68516472,9.80698924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7q,25494,Borstel-Hohenraden,Quickborner Straße,59,a,53.68526721,9.80703334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7r,25494,Borstel-Hohenraden,Quickborner Straße,6,,53.67964529,9.79974501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7s,25494,Borstel-Hohenraden,Quickborner Straße,60,,53.68529228,9.80770287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7t,25494,Borstel-Hohenraden,Quickborner Straße,60,a,53.68529228,9.80770287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7u,25494,Borstel-Hohenraden,Quickborner Straße,60,b,53.68529228,9.80770287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7v,25494,Borstel-Hohenraden,Quickborner Straße,61,,53.68561669,9.80769763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7w,25494,Borstel-Hohenraden,Quickborner Straße,62,,53.68556848,9.80808452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7x,25494,Borstel-Hohenraden,Quickborner Straße,63,,53.68585406,9.80798022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7y,25494,Borstel-Hohenraden,Quickborner Straße,64,,53.68566061,9.80833406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E7z,25494,Borstel-Hohenraden,Quickborner Straße,64,a,53.68561223,9.80840887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E80,25494,Borstel-Hohenraden,Quickborner Straße,88,,53.68836292,9.81113597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E81,25494,Borstel-Hohenraden,Quickborner Straße,89,,53.68826596,9.81023424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E82,25494,Borstel-Hohenraden,Quickborner Straße,9,,53.68007322,9.79962329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E83,25494,Borstel-Hohenraden,Quickborner Straße,90,,53.68863158,9.81131768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E84,25494,Borstel-Hohenraden,Quickborner Straße,91,,53.68837496,9.81039759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E85,25494,Borstel-Hohenraden,Quickborner Straße,92,,53.68911849,9.8123602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E86,25494,Borstel-Hohenraden,Quickborner Straße,93,,53.68849057,9.81050859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E87,25494,Borstel-Hohenraden,Quickborner Straße,93,a,53.68858031,9.81028259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E88,25494,Borstel-Hohenraden,Quickborner Straße,95,,53.68864654,9.81058931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E89,25494,Borstel-Hohenraden,Quickborner Straße,95,a,53.68873897,9.81066952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8A,25494,Borstel-Hohenraden,Roffloh,59,,53.69657981,9.812063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8B,25494,Borstel-Hohenraden,Roffloh,60,,53.69735332,9.81215146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8C,25494,Borstel-Hohenraden,Roffloh,61,,53.69649883,9.81187522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8D,25494,Borstel-Hohenraden,Roffloh,63,,53.6963314,9.8117787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8E,25494,Borstel-Hohenraden,Roffloh,65,,53.6962682,9.81158689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8F,25494,Borstel-Hohenraden,Roffloh,67,,53.6961144,9.81142539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8G,25494,Borstel-Hohenraden,Roffloh,68,,53.696468,9.8109751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8H,25494,Borstel-Hohenraden,Roffloh,69,,53.69596986,9.81127797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8I,25494,Borstel-Hohenraden,Roffloh,70,,53.69624345,9.81072003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8J,25494,Borstel-Hohenraden,Roffloh,71,,53.69577001,9.81102016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8K,25494,Borstel-Hohenraden,Roffloh,72,,53.69595729,9.81064985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8L,25494,Borstel-Hohenraden,Roffloh,74,,53.6957628,9.8104527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8M,25494,Borstel-Hohenraden,Rubargen,1,,53.69338334,9.80068153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8N,25494,Borstel-Hohenraden,Rubargen,10,,53.69292126,9.80192649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8O,25494,Borstel-Hohenraden,Rubargen,11,,53.69324837,9.80194399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8P,25494,Borstel-Hohenraden,Rubargen,13,,53.69306931,9.80218486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8Q,25494,Borstel-Hohenraden,Rubargen,2,,53.6932154,9.80098677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8R,25494,Borstel-Hohenraden,Rubargen,3,,53.69354738,9.80098784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8S,25494,Borstel-Hohenraden,Rubargen,4,,53.69331945,9.80130995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8T,25494,Borstel-Hohenraden,Rubargen,5,,53.69366064,9.80123315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8U,25494,Borstel-Hohenraden,Rubargen,6,,53.69317328,9.80153661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8V,25494,Borstel-Hohenraden,Rubargen,7,,53.69354361,9.8015578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8W,25494,Borstel-Hohenraden,Rubargen,8,,53.69305772,9.80174709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8X,25494,Borstel-Hohenraden,Rubargen,9,,53.69340671,9.80173537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8Y,25494,Borstel-Hohenraden,Schillingsbarg,1,,53.69578393,9.82142284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8Z,25494,Borstel-Hohenraden,Schillingsbarg,2,,53.69582591,9.82087495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8a,25494,Borstel-Hohenraden,Quickborner Straße,96,,53.69225764,9.81977604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8b,25494,Borstel-Hohenraden,Quickborner Straße,97,,53.68958888,9.81229739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8c,25494,Borstel-Hohenraden,Quickborner Straße,98,,53.69237886,9.81961762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8d,25494,Borstel-Hohenraden,Quickborner Straße,99,,53.6899077,9.81297038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8e,25494,Borstel-Hohenraden,Roffloh,1,,53.69640454,9.81953526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8f,25494,Borstel-Hohenraden,Roffloh,17,,53.69804897,9.81713413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8g,25494,Borstel-Hohenraden,Roffloh,17,a,53.69796776,9.81689447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8h,25494,Borstel-Hohenraden,Roffloh,2,,53.69669709,9.81961256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8i,25494,Borstel-Hohenraden,Roffloh,2,a,53.69685576,9.81954003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8j,25494,Borstel-Hohenraden,Roffloh,2,b,53.69697012,9.81934814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8k,25494,Borstel-Hohenraden,Roffloh,22,,53.69866619,9.81734595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8l,25494,Borstel-Hohenraden,Roffloh,27,,53.69886215,9.81600722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8m,25494,Borstel-Hohenraden,Roffloh,29,,53.69902024,9.81572167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8n,25494,Borstel-Hohenraden,Roffloh,3,,53.69658306,9.81925033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8o,25494,Borstel-Hohenraden,Roffloh,33,,53.69928262,9.81531647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8p,25494,Borstel-Hohenraden,Roffloh,35,,53.69919505,9.81489005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8q,25494,Borstel-Hohenraden,Roffloh,35,a,53.69912225,9.81471812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8r,25494,Borstel-Hohenraden,Roffloh,37,,53.69898739,9.81450465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8s,25494,Borstel-Hohenraden,Roffloh,4,,53.69711015,9.81917395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8t,25494,Borstel-Hohenraden,Roffloh,40,,53.69954548,9.81460519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8u,25494,Borstel-Hohenraden,Roffloh,41,,53.69875626,9.81419496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8v,25494,Borstel-Hohenraden,Roffloh,42,,53.69932674,9.81447538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8w,25494,Borstel-Hohenraden,Roffloh,45,,53.69845853,9.81381144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8x,25494,Borstel-Hohenraden,Roffloh,5,,53.69664583,9.81912423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8y,25494,Borstel-Hohenraden,Roffloh,50,,53.69861019,9.8135632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E8z,25494,Borstel-Hohenraden,Roffloh,57,,53.69681263,9.81220969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E90,25494,Borstel-Hohenraden,Schillingsbarg,3,,53.69562369,9.82141764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E91,25494,Borstel-Hohenraden,Schillingsbarg,4,,53.69564393,9.82087398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E92,25494,Borstel-Hohenraden,Schillingsbarg,5,,53.69546682,9.82129263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E93,25494,Borstel-Hohenraden,Schillingsbarg,7,,53.69530319,9.82108383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E94,25494,Borstel-Hohenraden,Achtern Toslag,14,,53.69245576,9.81187792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E95,25494,Borstel-Hohenraden,Achtern Toslag,16,,53.69236981,9.8121854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E96,25494,Borstel-Hohenraden,Achtern Toslag,3,,53.69178592,9.81142751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E97,25494,Borstel-Hohenraden,Wendelkamp,10,,53.69065197,9.81161394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E98,25494,Borstel-Hohenraden,Wendelkamp,11,,53.69053573,9.81271718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E99,25494,Borstel-Hohenraden,Wendelkamp,12,,53.69050945,9.81158298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9A,25494,Borstel-Hohenraden,Wiesenweg,2,,53.68870082,9.81182522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9B,25494,Borstel-Hohenraden,Wiesenweg,4,,53.68854735,9.81192862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9C,25494,Borstel-Hohenraden,Wiesenweg,6,,53.68836465,9.81207741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9D,25494,Borstel-Hohenraden,Wiesenweg,8,,53.6881531,9.81226904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9E,25494,Borstel-Hohenraden,Wohldweg,12,,53.6981075,9.81394987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9F,25494,Borstel-Hohenraden,Wohldweg,4,,53.69668661,9.81500438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9G,25494,Borstel-Hohenraden,Wohldweg,6,,53.69718906,9.81466343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9a,25494,Borstel-Hohenraden,Wendelkamp,13,,53.69061132,9.81242554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9b,25494,Borstel-Hohenraden,Wendelkamp,15,,53.69064766,9.81211476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9c,25494,Borstel-Hohenraden,Wendelkamp,17,,53.6903602,9.81199174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9d,25494,Borstel-Hohenraden,Wendelkamp,19,,53.69037925,9.81224012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9e,25494,Borstel-Hohenraden,Wendelkamp,2,,53.69122193,9.8116876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9f,25494,Borstel-Hohenraden,Wendelkamp,21,,53.69037755,9.81237931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9g,25494,Borstel-Hohenraden,Wendelkamp,23,,53.69031521,9.81266666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9h,25494,Borstel-Hohenraden,Wendelkamp,25,,53.69012015,9.81233093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9i,25494,Borstel-Hohenraden,Wendelkamp,27,,53.6901442,9.81206826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9j,25494,Borstel-Hohenraden,Wendelkamp,29,,53.69017824,9.81193148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9k,25494,Borstel-Hohenraden,Wendelkamp,3,,53.69083361,9.81205025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9l,25494,Borstel-Hohenraden,Wendelkamp,31,,53.69025999,9.8114798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9m,25494,Borstel-Hohenraden,Wendelkamp,4,,53.69105827,9.81166608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9n,25494,Borstel-Hohenraden,Wendelkamp,5,,53.69080114,9.81231606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9o,25494,Borstel-Hohenraden,Wendelkamp,6,,53.6909186,9.81164678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9p,25494,Borstel-Hohenraden,Wendelkamp,7,,53.69077013,9.81255925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9q,25494,Borstel-Hohenraden,Wendelkamp,8,,53.69078982,9.81163067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9r,25494,Borstel-Hohenraden,Wendelkamp,9,,53.69077302,9.81282101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9s,25494,Borstel-Hohenraden,Wiesengrund,1,,53.697336,9.82830048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9t,25494,Borstel-Hohenraden,Wiesengrund,1,a,53.69731064,9.82812667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9u,25494,Borstel-Hohenraden,Wiesengrund,10,,53.69663617,9.82962073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9v,25494,Borstel-Hohenraden,Wiesengrund,11,,53.6966019,9.82931075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9w,25494,Borstel-Hohenraden,Wiesengrund,3,,53.69719921,9.82857983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9x,25494,Borstel-Hohenraden,Wiesengrund,5,,53.69705546,9.82890211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049E9y,25494,Borstel-Hohenraden,Wiesenweg,10,,53.68798069,9.81242693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004EHnb,25494,Borstel-Hohenraden,Achtern Toslag,18,,53.69229085,9.81245462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ESEg,25494,Borstel-Hohenraden,Nedderhulden,19,,53.69147051,9.81108755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ESEh,25494,Borstel-Hohenraden,Nedderhulden,21,,53.69158217,9.81107964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004F2mc,25494,Borstel-Hohenraden,Achtern Toslag,7,,53.69184628,9.81093966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FhVV,25494,Borstel-Hohenraden,Kummerfelder Straße,38,,53.69353686,9.80023904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Hmyb,25494,Borstel-Hohenraden,Am Hof,14,b,53.69245218,9.808743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004I5II,25494,Borstel-Hohenraden,Achtern Toslag,22,,53.69257383,9.8121866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004LKJE,25494,Borstel-Hohenraden,Achtern Toslag,13,,53.69238443,9.81124676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004MtwU,25494,Borstel-Hohenraden,Achtern Toslag,1,,53.6915675,9.81174439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnCA,25494,Borstel-Hohenraden,Achtern Toslag,12,,53.69227719,9.81165428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnCt,25494,Borstel-Hohenraden,Achtern Toslag,17,,53.69280423,9.81132289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnD6,25494,Borstel-Hohenraden,Achtern Toslag,8,,53.69221909,9.8118179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnGK,25494,Borstel-Hohenraden,Achtern Toslag,5,,53.69181957,9.81117949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnGh,25494,Borstel-Hohenraden,Achtern Toslag,10,,53.69205375,9.8117057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnGn,25494,Borstel-Hohenraden,Achtern Toslag,6,,53.69207386,9.81214459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnGo,25494,Borstel-Hohenraden,Achtern Toslag,6,a,53.69204081,9.81225072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004OnGu,25494,Borstel-Hohenraden,Achtern Toslag,2,,53.69179048,9.81187665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UwUV,25494,Borstel-Hohenraden,Harbrookweg,1,a,53.7026736,9.831057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004cypk,25494,Borstel-Hohenraden,Achtern Toslag,11,,53.69218474,9.81119965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004cypq,25494,Borstel-Hohenraden,Achtern Toslag,9,,53.69200549,9.8111417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004hiPu,25494,Borstel-Hohenraden,Achtern Toslag,19,,53.69275028,9.81157912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004hiPy,25494,Borstel-Hohenraden,Achtern Toslag,19,a,53.69271245,9.81169416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004paEF,25494,Borstel-Hohenraden,Dorfstraße,64,,53.69563847,9.81322181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054q17,25494,Borstel-Hohenraden,Dorfstraße,61,,53.69593941,9.81253306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054q1c,25494,Borstel-Hohenraden,Dorfstraße,61,a,53.69596542,9.81261306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058DZA,25494,Borstel-Hohenraden,Achtern Toslag,15,,53.69260119,9.81130027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058DZB,25494,Borstel-Hohenraden,Achtern Toslag,15,a,53.69262287,9.81123113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058Emi,25494,Borstel-Hohenraden,Achtern Toslag,23,,53.69156154,9.81138937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AxOb,25494,Borstel-Hohenraden,Wiesenweg,11,,53.6880394,9.81322144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhbO,25494,Borstel-Hohenraden,Nedderhulden,12,,53.69126338,9.81044816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhbW,25494,Borstel-Hohenraden,Nedderhulden,14,,53.69123035,9.81076372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghc6,25494,Borstel-Hohenraden,Nedderhulden,16,,53.69121045,9.81117079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghc9,25494,Borstel-Hohenraden,Nedderhulden,10,,53.69130803,9.81009897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhcF,25494,Borstel-Hohenraden,In Dörp,23,,53.6905748,9.81105163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhcM,25494,Borstel-Hohenraden,In Dörp,31,,53.69008823,9.81038938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhcT,25494,Borstel-Hohenraden,In Dörp,25,,53.69033302,9.81102537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghci,25494,Borstel-Hohenraden,In Dörp,19,,53.69097742,9.81105197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghcu,25494,Borstel-Hohenraden,In Dörp,21,,53.69080048,9.81108577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghcy,25494,Borstel-Hohenraden,In Dörp,29,,53.69005129,9.81066124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghd2,25494,Borstel-Hohenraden,In Dörp,33,,53.69008603,9.81010169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhdG,25494,Borstel-Hohenraden,Dorfstraße,16,,53.6903846,9.80868967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhdL,25494,Borstel-Hohenraden,In Dörp,1,,53.69010925,9.8091931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghdb,25494,Borstel-Hohenraden,In Dörp,27,,53.6900034,9.81095054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghdm,25494,Borstel-Hohenraden,Dorfstraße,8,,53.68961541,9.80974872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghdv,25494,Borstel-Hohenraden,In Dörp,39,,53.68993336,9.80941935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghe0,25494,Borstel-Hohenraden,In Dörp,5,,53.69055906,9.80926251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghe2,25494,Borstel-Hohenraden,In Dörp,7,,53.69077338,9.80936444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GheF,25494,Borstel-Hohenraden,In Dörp,9,,53.69103643,9.80955626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GheH,25494,Borstel-Hohenraden,In Dörp,11,,53.69117847,9.80971821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GheM,25494,Borstel-Hohenraden,In Dörp,13,,53.6910665,9.81005023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghef,25494,Borstel-Hohenraden,Dorfstraße,14,,53.69023119,9.8088749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghf6,25494,Borstel-Hohenraden,In Dörp,15,,53.69100051,9.81042047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhfJ,25494,Borstel-Hohenraden,In Dörp,37,,53.69006896,9.8095856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhfU,25494,Borstel-Hohenraden,In Dörp,8,,53.69081032,9.8105671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhfX,25494,Borstel-Hohenraden,In Dörp,3,,53.69032459,9.8094382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghfk,25494,Borstel-Hohenraden,In Dörp,17,,53.69096989,9.81070948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghfr,25494,Borstel-Hohenraden,In Dörp,35,,53.69019488,9.8097735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhgB,25494,Borstel-Hohenraden,In Dörp,14,,53.69029025,9.81049259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GhgS,25494,Borstel-Hohenraden,In Dörp,4,,53.69069646,9.80997422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghge,25494,Borstel-Hohenraden,In Dörp,10,,53.69060291,9.81062209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghgj,25494,Borstel-Hohenraden,In Dörp,6,,53.6908661,9.81010637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghgr,25494,Borstel-Hohenraden,In Dörp,12,,53.69042808,9.81058726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghh1,25494,Borstel-Hohenraden,In Dörp,16,,53.69043523,9.8100416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ghhl,25494,Borstel-Hohenraden,In Dörp,2,,53.69049053,9.80975526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005R5fe,25494,Borstel-Hohenraden,Achtern Toslag,20,,53.69244349,9.81251037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005TIim,25494,Borstel-Hohenraden,Quickborner Straße,69,a,53.68641896,9.80801958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VFgZ,25494,Borstel-Hohenraden,In de Masch,17,,53.68464459,9.81367603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WFPA,25494,Borstel-Hohenraden,Prisdorfer Weg,46,,53.68457643,9.79982326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WFPP,25494,Borstel-Hohenraden,Prisdorfer Weg,48,,53.68456972,9.79944357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005YfL9,25494,Borstel-Hohenraden,Dorfstraße,96,a,53.6960304,9.81909756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Yqit,25494,Borstel-Hohenraden,Himmelmoorweg,1,a,53.69513507,9.81981209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Zmz7,25494,Borstel-Hohenraden,Quickborner Straße,77,a,53.68731703,9.80900413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005atCg,25494,Borstel-Hohenraden,Mühlenweg,17,,53.69683304,9.82574064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iaxu,25494,Borstel-Hohenraden,Harbrookweg,5,,53.70170429,9.83266674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005kPcQ,25494,Borstel-Hohenraden,Op'n Barg,1,b,53.69795066,9.82473322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pw75,25494,Borstel-Hohenraden,Achtern Toslag,1,a,53.69160952,9.81166313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q8UH,25494,Borstel-Hohenraden,Nedderhulden,101,,53.69565937,9.815149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q8UL,25494,Borstel-Hohenraden,Nedderhulden,99,,53.69547861,9.81514101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q8UQ,25494,Borstel-Hohenraden,Nedderhulden,100,,53.69566344,9.81542024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uXAu,25494,Borstel-Hohenraden,Deepenbrookweg,2,a,53.69698334,9.82592612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wU8D,25494,Borstel-Hohenraden,Harbrookweg,8,a,53.70152368,9.83226201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063Of2,25494,Borstel-Hohenraden,Mühlenweg,29,a,53.69671269,9.82799584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063pC2,25494,Borstel-Hohenraden,Quickborner Straße,69,,53.68626933,9.80840023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063pC6,25494,Borstel-Hohenraden,Quickborner Straße,69,b,53.68653951,9.80816632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063pCb,25494,Borstel-Hohenraden,Quickborner Straße,69,c,53.68639865,9.80856642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063pUI,25494,Borstel-Hohenraden,Dorfstraße,84,a,53.69589165,9.81674919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000675oL,25494,Borstel-Hohenraden,In Dörp,39,a,53.6898758,9.80953367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Eflx,25494,Borstel-Hohenraden,In de Masch,8,a,53.68428907,9.8089094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Jdlj,25494,Borstel-Hohenraden,Dorfstraße,8,a,53.68974243,9.81001472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Oi8f,25494,Borstel-Hohenraden,Roffloh,68,a,53.69638925,9.81090646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QT7C,25494,Borstel-Hohenraden,Mühlenweg,15,,53.69698261,9.82525169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006QXjx,25494,Borstel-Hohenraden,Op'n Barg,2,,53.69751138,9.82463527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Taty,25494,Borstel-Hohenraden,Himmelmoorweg,3,a,53.69559711,9.81986716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WBmm,25494,Borstel-Hohenraden,Rosentwiete,14,a,53.85177143,9.70140642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006hKOp,25494,Borstel-Hohenraden,In de Masch,9,a,53.68437207,9.8111941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRe4,25494,Borstel-Hohenraden,Wohldweg,8,,53.69751921,9.81459013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRe5,25494,Borstel-Hohenraden,Wohldweg,8,a,53.69757486,9.81454138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oReb,25494,Borstel-Hohenraden,Wohldweg,10,,53.69771196,9.81439027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRec,25494,Borstel-Hohenraden,Wohldweg,10,a,53.69776761,9.81434153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRej,25494,Borstel-Hohenraden,Wohldweg,10,b,53.69790576,9.814189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006oRek,25494,Borstel-Hohenraden,Wohldweg,10,c,53.69796139,9.81414032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tFaX,25494,Borstel-Hohenraden,Roffloh,44,,53.6991205,9.81432765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tFb3,25494,Borstel-Hohenraden,Roffloh,46,,53.6989798,9.81415738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wPv9,25494,Borstel-Hohenraden,In de Masch,17,a,53.68461204,9.81400326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006x030,25494,Borstel-Hohenraden,Wohldweg,100,,53.70689266,9.81148653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076SwN,25494,Borstel-Hohenraden,In de Masch,9,b,53.6843509,9.81157607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076SwQ,25494,Borstel-Hohenraden,In de Masch,9,c,53.68440159,9.81167639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077VvW,25494,Borstel-Hohenraden,Achtern Toslag,4,,53.69199041,9.81191939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jp0Z,25494,Borstel-Hohenraden,Quickborner Straße,50,a,53.68400433,9.80646945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZWE,25494,Borstel-Hohenraden,Am Dolmen,2,,53.68000773,9.79790422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZWJ,25494,Borstel-Hohenraden,Am Dolmen,4,,53.68056503,9.79729476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZWP,25494,Borstel-Hohenraden,Am Dolmen,6,,53.68127828,9.7977494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZWT,25494,Borstel-Hohenraden,Am Dolmen,8,,53.68188403,9.79809874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZWX,25494,Borstel-Hohenraden,Am Dolmen,10,,53.68239176,9.79837451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZX1,25494,Borstel-Hohenraden,Am Dolmen,12,,53.68226422,9.79892755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZXu,25494,Borstel-Hohenraden,Am Dolmen,27,,53.68237843,9.79966941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZXx,25494,Borstel-Hohenraden,Am Dolmen,25,,53.68249651,9.79913729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZY1,25494,Borstel-Hohenraden,Am Dolmen,23,,53.68262436,9.79884384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYD,25494,Borstel-Hohenraden,Am Dolmen,1,,53.67995812,9.79756076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYH,25494,Borstel-Hohenraden,Am Dolmen,3,,53.68033091,9.79717132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYL,25494,Borstel-Hohenraden,Am Dolmen,5,,53.68064225,9.79698256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYP,25494,Borstel-Hohenraden,Am Dolmen,7,,53.68080102,9.79675972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYW,25494,Borstel-Hohenraden,Am Dolmen,9,,53.68132114,9.79668875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LZYu,25494,Borstel-Hohenraden,Am Dolmen,21,,53.68272615,9.79853414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TQWY,25494,Borstel-Hohenraden,Roffloh,39,,53.69887305,9.81434504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007V0Pr,25494,Borstel-Hohenraden,Deepenbrookweg,1,,53.69750596,9.82619615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007j0cE,25494,Borstel-Hohenraden,Quickborner Straße,107,,53.69840294,9.82455371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lHH8,25494,Borstel-Hohenraden,Dorfstraße,92,a,53.6961252,9.81814005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lvzr,25494,Borstel-Hohenraden,Quickborner Straße,94,,53.69216887,9.81942024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086Vsp,25494,Borstel-Hohenraden,Quickborner Straße,104,,53.69386022,9.82128665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00087eH9,25494,Borstel-Hohenraden,In de Röth,1,,53.68563465,9.80521439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00087eHe,25494,Borstel-Hohenraden,In de Röth,3,,53.68568769,9.80517916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DYKI,25494,Borstel-Hohenraden,Prisdorfer Weg,1,a,53.68545999,9.80666547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dv5p,25494,Borstel-Hohenraden,Moorweg,4,,53.70809838,9.82424334

@@ -1,0 +1,647 @@
+# Amtliche Adressen für die Postleitzahl 25860
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0A,25860,Olderup,Dragoner,2,,54.53759224,9.0791323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0B,25860,Olderup,Dragoner,3,,54.53767756,9.07962806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0C,25860,Olderup,Dragoner,4,,54.53736044,9.07904763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0D,25860,Olderup,Dragoner,5,,54.53717267,9.07967083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0E,25860,Olderup,Dragoner,6,,54.53712063,9.07917679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0F,25860,Olderup,Dragoner,8,,54.53693325,9.0795155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0G,25860,Olderup,Hauptstraße,1,,54.53723039,9.08145912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0H,25860,Olderup,Hauptstraße,15,,54.53959234,9.08265108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0I,25860,Olderup,Hauptstraße,16,,54.53709458,9.08399803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0J,25860,Olderup,Hauptstraße,17,,54.53934797,9.08348322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0K,25860,Olderup,Hauptstraße,18,,54.53765337,9.08251845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0L,25860,Olderup,Hauptstraße,19,,54.53969348,9.08366792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0M,25860,Olderup,Hauptstraße,20,,54.53806719,9.08274327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0N,25860,Olderup,Hauptstraße,21,,54.54010067,9.08370611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0O,25860,Olderup,Hauptstraße,22,,54.53824664,9.08296548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0P,25860,Olderup,Hauptstraße,23,,54.54042763,9.08370241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0Q,25860,Olderup,Hauptstraße,24,,54.53860345,9.08327758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0R,25860,Olderup,Hauptstraße,26,,54.5385024,9.08389157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0S,25860,Olderup,Hauptstraße,28,,54.53895977,9.08361996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0T,25860,Olderup,Hauptstraße,3,,54.53748231,9.08178924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0U,25860,Olderup,Hauptstraße,32,,54.53952116,9.08416779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0V,25860,Olderup,Hauptstraße,35,,54.54192751,9.08186242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0W,25860,Olderup,Hauptstraße,38,,54.54116432,9.08388161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0X,25860,Olderup,Hauptstraße,40,,54.54130007,9.08376199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0Y,25860,Olderup,Hauptstraße,42,,54.54143294,9.08347204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0Z,25860,Olderup,Hauptstraße,44,,54.54185264,9.0837091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF0z,25860,Olderup,Dragoner,10,,54.53688677,9.07971278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF10,25860,Olderup,Hauptstraße,46,,54.54157205,9.0832258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF11,25860,Olderup,Hauptstraße,48,,54.54172876,9.08279216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF12,25860,Olderup,Hauptstraße,48,b,54.5418611,9.08328706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF13,25860,Olderup,Hauptstraße,5,,54.53796753,9.08221619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF14,25860,Olderup,Hauptstraße,50,,54.54201115,9.08267048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF15,25860,Olderup,Hauptstraße,52,,54.5424176,9.08243425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF16,25860,Olderup,Hauptstraße,54,,54.54253544,9.08172959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF17,25860,Olderup,Hauptstraße,58,,54.54356936,9.08093187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF18,25860,Olderup,Hauptstraße,64,,54.54723495,9.07936726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF19,25860,Olderup,Hauptstraße,66,,54.54903083,9.07974061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1A,25860,Olderup,Hofweg,1,,54.54753655,9.07807241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1B,25860,Olderup,Hofweg,10,,54.54857215,9.0685712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1C,25860,Olderup,Hofweg,2,,54.54841836,9.06951869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1D,25860,Olderup,Hofweg,3,,54.54808742,9.06994072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1E,25860,Olderup,Hofweg,4,,54.54847708,9.06923784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1F,25860,Olderup,Hofweg,6,,54.54839349,9.06843884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1G,25860,Olderup,Huuskoppel,1,,54.53823682,9.08109296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1H,25860,Olderup,Huuskoppel,10,,54.53859778,9.07957195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1J,25860,Olderup,Huuskoppel,2,,54.53900415,9.07980369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1K,25860,Olderup,Huuskoppel,2,a,54.53926353,9.07940512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1L,25860,Olderup,Huuskoppel,3,,54.53844897,9.08061179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1M,25860,Olderup,Huuskoppel,4,,54.53868047,9.08036698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1N,25860,Olderup,Huuskoppel,5,,54.53822452,9.08061252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1O,25860,Olderup,Huuskoppel,6,,54.53866641,9.08023915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1P,25860,Olderup,Huuskoppel,7,,54.538238,9.08014738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1Q,25860,Olderup,Huuskoppel,8,,54.53861919,9.07991621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1R,25860,Olderup,Huuskoppel,9,,54.53840096,9.08012645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1S,25860,Olderup,Kampweg,2,,54.53627532,9.08132603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1T,25860,Olderup,Kampweg,3,,54.53602995,9.08240263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1U,25860,Olderup,Kampweg,4,,54.53615778,9.08326333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1V,25860,Olderup,Marschblick,1,,54.54306058,9.08126187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1W,25860,Olderup,Marschblick,2,,54.54291855,9.08142179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1X,25860,Olderup,Marschblick,3,,54.54317981,9.08158095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1Y,25860,Olderup,Marschblick,4,,54.54294283,9.08175415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1Z,25860,Olderup,Marschblick,6,,54.54299701,9.08208178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1a,25860,Olderup,Hauptstraße,7,,54.53846797,9.08261317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1c,25860,Olderup,Heideweg,2,,54.53292344,9.0790581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1d,25860,Olderup,Heideweg,2,a,54.53300378,9.07895518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1e,25860,Olderup,Heideweg,3,,54.53428463,9.08792902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1f,25860,Olderup,Heideweg,4,,54.53273451,9.07902419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1g,25860,Olderup,Heideweg,5,,54.53404544,9.08819495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1h,25860,Olderup,Heideweg,6,,54.53487892,9.09199874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1i,25860,Olderup,Heuweg,11,,54.53790884,9.07864192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1j,25860,Olderup,Heuweg,12,,54.53821481,9.07974567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1k,25860,Olderup,Heuweg,14,,54.5382703,9.07928387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1m,25860,Olderup,Heuweg,16,,54.53840413,9.07865723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1n,25860,Olderup,Heuweg,17,,54.53778239,9.07827359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1o,25860,Olderup,Heuweg,17,a,54.53778877,9.0780434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1p,25860,Olderup,Heuweg,18,,54.53831817,9.077891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1q,25860,Olderup,Heuweg,19,,54.538565,9.07740177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1r,25860,Olderup,Heuweg,19,a,54.53847261,9.07741832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1s,25860,Olderup,Heuweg,2,,54.53832333,9.08214393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1t,25860,Olderup,Heuweg,20,,54.53861393,9.07785385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1u,25860,Olderup,Heuweg,21,,54.53880026,9.0771896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1v,25860,Olderup,Heuweg,22,,54.53881459,9.0777329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1w,25860,Olderup,Heuweg,24,,54.53897957,9.07759506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1x,25860,Olderup,Heuweg,4,,54.53830558,9.08160058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1y,25860,Olderup,Heuweg,5,,54.53792299,9.07975432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF1z,25860,Olderup,Heuweg,9,,54.53792715,9.07913162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF20,25860,Olderup,Marschblick,8,,54.54304006,9.08247024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF21,25860,Olderup,Olderuper Straße,1,,54.5390156,9.08469644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF22,25860,Olderup,Olderuper Straße,11,,54.53680588,9.09210509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF23,25860,Olderup,Olderuper Straße,2,,54.53871557,9.08439117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF24,25860,Olderup,Olderuper Straße,2,a,54.53883942,9.08408862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF25,25860,Olderup,Olderuper Straße,3,,54.53882781,9.08505604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF26,25860,Olderup,Olderuper Straße,4,,54.53859304,9.08467385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF27,25860,Olderup,Olderuper Straße,6,,54.538508,9.08491125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF28,25860,Olderup,Olderuper Straße,7,,54.53778205,9.088467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF29,25860,Olderup,Olderuper Straße,8,,54.53835195,9.08515443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2a,25860,Olderup,Olderuper Straße,9,,54.53789695,9.08874075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2b,25860,Olderup,Osterweg,1,,54.54629578,9.07940531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2c,25860,Olderup,Osterweg,10,,54.54545063,9.09006493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2d,25860,Olderup,Osterweg,11,,54.54523356,9.09664229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2e,25860,Olderup,Osterweg,12,,54.54306848,9.09392796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2f,25860,Olderup,Osterweg,14,,54.54578128,9.09811375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2g,25860,Olderup,Osterweg,2,,54.54618089,9.08356951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2h,25860,Olderup,Osterweg,3,,54.54641539,9.08350469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2i,25860,Olderup,Osterweg,4,,54.54517012,9.08645903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2j,25860,Olderup,Osterweg,5,,54.54669638,9.08622765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2k,25860,Olderup,Osterweg,6,,54.54507717,9.08784365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2l,25860,Olderup,Osterweg,7,,54.54659411,9.08683548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2m,25860,Olderup,Osterweg,8,,54.54584418,9.08934338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2n,25860,Olderup,Osterweg,9,,54.54556767,9.09055506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2o,25860,Olderup,Sportheimweg,1,,54.53874444,9.08560078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2p,25860,Olderup,Sportheimweg,10,,54.54221911,9.09000266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2q,25860,Olderup,Sportheimweg,11,,54.5407003,9.08883013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2r,25860,Olderup,Sportheimweg,2,,54.53857538,9.08605645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2s,25860,Olderup,Sportheimweg,3,,54.53886698,9.0859792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2t,25860,Olderup,Sportheimweg,4,,54.53873918,9.08642223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2u,25860,Olderup,Sportheimweg,5,,54.53899371,9.08634987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2v,25860,Olderup,Sportheimweg,6,,54.53886855,9.08690291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2w,25860,Olderup,Sportheimweg,7,,54.5398943,9.0875567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2x,25860,Olderup,Sportheimweg,8,,54.54176472,9.08995581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eF2y,25860,Olderup,Sportheimweg,9,,54.54033983,9.0881943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI53,25860,Olderup,Ahrensröh,2,,54.52946418,9.08062957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI54,25860,Olderup,An der alten Schule,1,,54.52580896,9.06772555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI55,25860,Olderup,An der alten Schule,10,,54.52684003,9.06907185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI56,25860,Olderup,An der alten Schule,11,,54.52655872,9.06673547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI57,25860,Olderup,An der alten Schule,12,,54.5270525,9.06904083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI58,25860,Olderup,An der alten Schule,13,,54.52660364,9.06742098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI59,25860,Olderup,An der alten Schule,14,,54.52700152,9.06854661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5A,25860,Olderup,An der alten Schule,4,,54.52644719,9.06803262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5B,25860,Olderup,An der alten Schule,41,,54.52803045,9.06688892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5C,25860,Olderup,An der alten Schule,43,,54.52795949,9.06655046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5D,25860,Olderup,An der alten Schule,45,,54.52781767,9.06604494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5E,25860,Olderup,An der alten Schule,5,,54.5262098,9.06762475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5F,25860,Olderup,An der alten Schule,6,,54.52661786,9.06793812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5G,25860,Olderup,An der alten Schule,7,,54.52639132,9.06750162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5H,25860,Olderup,An der alten Schule,8,,54.52674715,9.06865911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5I,25860,Olderup,An der alten Schule,9,,54.52633697,9.06706884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5J,25860,Olderup,Birkenweg,1,,54.52291253,9.06925092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5K,25860,Olderup,Birkenweg,10,,54.52222563,9.06831329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5L,25860,Olderup,Birkenweg,12,,54.52207068,9.06819118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5M,25860,Olderup,Birkenweg,14,,54.52180122,9.06803033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5N,25860,Olderup,Birkenweg,16,,54.52199915,9.06855595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5O,25860,Olderup,Birkenweg,18,,54.52192779,9.0691265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5P,25860,Olderup,Birkenweg,2,,54.52293843,9.06890998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5Q,25860,Olderup,Birkenweg,20,,54.52187245,9.06971017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5R,25860,Olderup,Birkenweg,3,,54.52267866,9.06906585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5S,25860,Olderup,Birkenweg,4,,54.52273762,9.06872715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5T,25860,Olderup,Birkenweg,5,,54.52243794,9.06887533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5U,25860,Olderup,Birkenweg,6,,54.5225971,9.06862179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5V,25860,Olderup,Birkenweg,7,,54.52226656,9.06874065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5W,25860,Olderup,Birkenweg,8,,54.52241686,9.06847748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5X,25860,Olderup,Birkenweg,9,,54.52212241,9.06914003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5Y,25860,Olderup,Dorfstraße,1,,54.52550139,9.06830961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5Z,25860,Olderup,Dorfstraße,10,,54.52601678,9.06706776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5a,25860,Olderup,An der alten Schule,16,,54.52688843,9.06807683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5b,25860,Olderup,An der alten Schule,17,,54.52735211,9.06734574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5c,25860,Olderup,An der alten Schule,18,,54.52721897,9.06793708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5d,25860,Olderup,An der alten Schule,19,,54.52729872,9.06702874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5e,25860,Olderup,An der alten Schule,2,,54.52620825,9.06802258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5f,25860,Olderup,An der alten Schule,20,,54.52741479,9.06787308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5g,25860,Olderup,An der alten Schule,21,,54.52724787,9.06671043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5h,25860,Olderup,An der alten Schule,22,,54.52760801,9.06781008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5i,25860,Olderup,An der alten Schule,23,,54.52689701,9.06671125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5j,25860,Olderup,An der alten Schule,24,,54.52782635,9.06775649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5k,25860,Olderup,An der alten Schule,25,,54.52681563,9.06637771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5l,25860,Olderup,An der alten Schule,26,,54.52802942,9.06767191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5m,25860,Olderup,An der alten Schule,27,,54.52694494,9.06621248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5n,25860,Olderup,An der alten Schule,28,,54.52824975,9.06765612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5o,25860,Olderup,An der alten Schule,29,,54.5272769,9.06615177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5p,25860,Olderup,An der alten Schule,3,,54.52601831,9.06768078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5q,25860,Olderup,An der alten Schule,30,,54.52850916,9.0677239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5r,25860,Olderup,An der alten Schule,31,,54.52742401,9.06635237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5s,25860,Olderup,An der alten Schule,32,,54.52840355,9.06737006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5t,25860,Olderup,An der alten Schule,33,,54.52748063,9.06681893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5u,25860,Olderup,An der alten Schule,34,,54.52823825,9.06674443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5v,25860,Olderup,An der alten Schule,35,,54.52751753,9.06709557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5w,25860,Olderup,An der alten Schule,36,,54.52815785,9.06628138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5x,25860,Olderup,An der alten Schule,37,,54.52765829,9.06746233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5y,25860,Olderup,An der alten Schule,38,,54.52801034,9.06582513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI5z,25860,Olderup,An der alten Schule,39,,54.52802408,9.06734756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI60,25860,Olderup,Dorfstraße,12,,54.52564241,9.0670463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI61,25860,Olderup,Dorfstraße,14,,54.52580704,9.06667927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI62,25860,Olderup,Dorfstraße,16,,54.52567762,9.06620884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI63,25860,Olderup,Dorfstraße,18,,54.52589453,9.06579283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI64,25860,Olderup,Dorfstraße,2,,54.52578591,9.06897542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI65,25860,Olderup,Dorfstraße,20,,54.52578408,9.06546291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI66,25860,Olderup,Dorfstraße,3,,54.52545894,9.06780502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI67,25860,Olderup,Dorfstraße,4,,54.52598094,9.06827456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI68,25860,Olderup,Dorfstraße,5,,54.52544458,9.0676972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI69,25860,Olderup,Dorfstraße,7,,54.52520257,9.06708481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6A,25860,Olderup,Hauptstraße,2,,54.50261143,9.04916206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6B,25860,Olderup,Hauptstraße,20,,54.52475504,9.06915833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6C,25860,Olderup,Hauptstraße,21,,54.52420901,9.06829338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6D,25860,Olderup,Hauptstraße,21,a,54.52429976,9.06828951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6E,25860,Olderup,Hauptstraße,22,,54.52488809,9.06914363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6F,25860,Olderup,Hauptstraße,23,,54.52422689,9.06865927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6G,25860,Olderup,Hauptstraße,24,,54.52497954,9.0693438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6H,25860,Olderup,Hauptstraße,25,,54.52454035,9.06821621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6I,25860,Olderup,Hauptstraße,26,,54.52506595,9.06954211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6J,25860,Olderup,Hauptstraße,27,a,54.52483953,9.06811999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6K,25860,Olderup,Hauptstraße,27,b,54.52490777,9.06811017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6L,25860,Olderup,Hauptstraße,28,,54.52536474,9.06910604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6M,25860,Olderup,Hauptstraße,29,,54.52461745,9.06867302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6N,25860,Olderup,Hauptstraße,3,,54.51906718,9.06613783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6O,25860,Olderup,Hauptstraße,31,,54.52493487,9.06880041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6P,25860,Olderup,Hauptstraße,31,a,54.52482184,9.06878131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6Q,25860,Olderup,Hauptstraße,33,,54.52513326,9.06875087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6R,25860,Olderup,Hauptstraße,35,,54.52531485,9.06883867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6S,25860,Olderup,Hauptstraße,37,,54.52544625,9.06885796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6T,25860,Olderup,Hauptstraße,39,,54.52598143,9.06887521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6U,25860,Olderup,Hauptstraße,4,,54.50238065,9.05110983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6V,25860,Olderup,Hauptstraße,4,a,54.50252728,9.05043206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6W,25860,Olderup,Hauptstraße,42,,54.5317186,9.07705337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6X,25860,Olderup,Hauptstraße,43,,54.52636012,9.06884219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6Y,25860,Olderup,Hauptstraße,45,,54.52642388,9.06919773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6Z,25860,Olderup,Hauptstraße,47,,54.52613512,9.06927517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6a,25860,Olderup,Engelsburger Weg,2,,54.51041117,9.09889555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6b,25860,Olderup,Engelsburger Weg,4,,54.51184231,9.10227351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6c,25860,Olderup,Hattstedter Straße,10,,54.52510281,9.06215003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6d,25860,Olderup,Hattstedter Straße,13,,54.52465302,9.06194043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6e,25860,Olderup,Hattstedter Straße,14,,54.52484378,9.06091592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6f,25860,Olderup,Hattstedter Straße,15,,54.52253412,9.05463042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6g,25860,Olderup,Hattstedter Straße,17,,54.52142459,9.05121156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6h,25860,Olderup,Hattstedter Straße,19,a,54.52135655,9.05059075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6i,25860,Olderup,Hattstedter Straße,19,b,54.52135655,9.05059075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6j,25860,Olderup,Hattstedter Straße,19,c,54.52135655,9.05059075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6k,25860,Olderup,Hattstedter Straße,19,d,54.5211157,9.05021862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6l,25860,Olderup,Hattstedter Straße,20,,54.52500287,9.05856319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6m,25860,Olderup,Hattstedter Straße,3,,54.52486035,9.06325955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6n,25860,Olderup,Hattstedter Straße,4,,54.52554763,9.06446737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6o,25860,Olderup,Hattstedter Straße,4,a,54.52580607,9.06369731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6p,25860,Olderup,Hattstedter Straße,6,,54.52546644,9.06392065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6q,25860,Olderup,Hattstedter Straße,8,,54.5253975,9.06352528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6r,25860,Olderup,Hauptstraße,1,,54.5120159,9.05209532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6t,25860,Olderup,Hauptstraße,12,,54.52382871,9.06913206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6u,25860,Olderup,Hauptstraße,13,,54.52103906,9.06682014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6v,25860,Olderup,Hauptstraße,14,,54.52403795,9.06917147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6w,25860,Olderup,Hauptstraße,15,,54.52346563,9.06843491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6x,25860,Olderup,Hauptstraße,16,,54.52436992,9.06941458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6y,25860,Olderup,Hauptstraße,17,,54.52400286,9.06864181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI6z,25860,Olderup,Hauptstraße,19,,54.52400667,9.06820374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI70,25860,Olderup,Hauptstraße,49,,54.52642061,9.06968416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI71,25860,Olderup,Hauptstraße,51,,54.52666074,9.07011815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI72,25860,Olderup,Hauptstraße,53,,54.52717407,9.07049669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI73,25860,Olderup,Hauptstraße,55,,54.52835829,9.07266201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI74,25860,Olderup,Hauptstraße,6,,54.50468586,9.04835081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI75,25860,Olderup,Hauptstraße,8,,54.52138546,9.06794849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI76,25860,Olderup,Heidacker Weg,10,,54.52297559,9.07987544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI77,25860,Olderup,Heidacker Weg,11,,54.52319176,9.08469307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI78,25860,Olderup,Heidacker Weg,12,,54.52286475,9.08266896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI79,25860,Olderup,Heidacker Weg,13,,54.52293664,9.09184273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7A,25860,Olderup,Nordende,13,a,54.52659607,9.06434688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7B,25860,Olderup,Nordende,13,b,54.52658144,9.0642435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7C,25860,Olderup,Nordende,13,c,54.52653968,9.06403631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7D,25860,Olderup,Nordende,13,d,54.52652312,9.06391911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7E,25860,Olderup,Nordende,13,e,54.52648433,9.06368881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7F,25860,Olderup,Nordende,14,,54.52771816,9.06457821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7G,25860,Olderup,Nordende,14,a,54.52769701,9.06517879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7H,25860,Olderup,Nordende,14,b,54.52787139,9.06510482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7I,25860,Olderup,Nordende,14,c,54.52808177,9.06499206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7J,25860,Olderup,Nordende,15,,54.5269814,9.06446363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7K,25860,Olderup,Nordende,15,a,54.52684249,9.06408144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7L,25860,Olderup,Nordende,16,,54.52793188,9.0645257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7M,25860,Olderup,Nordende,17,,54.52682227,9.06377941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7N,25860,Olderup,Nordende,18,,54.52844958,9.06437548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7O,25860,Olderup,Nordende,19,,54.52665527,9.06362673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7P,25860,Olderup,Nordende,2,,54.52641539,9.06573441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7Q,25860,Olderup,Nordende,20,,54.52830387,9.06476824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7R,25860,Olderup,Nordende,21,,54.52774534,9.06303688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7S,25860,Olderup,Nordende,22,,54.52830234,9.06511317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7T,25860,Olderup,Nordende,23,,54.52769363,9.06269152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7U,25860,Olderup,Nordende,25,,54.52798965,9.06400297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7V,25860,Olderup,Nordende,3,,54.52603033,9.06474539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7W,25860,Olderup,Nordende,4,,54.52644871,9.06521461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7X,25860,Olderup,Nordende,5,,54.52607407,9.06432811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7Y,25860,Olderup,Nordende,6,,54.52668053,9.06520889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7Z,25860,Olderup,Nordende,7,,54.5259262,9.06342629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7a,25860,Olderup,Heidacker Weg,13,a,54.52284802,9.09132107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7b,25860,Olderup,Heidacker Weg,8,,54.52302333,9.07941004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7c,25860,Olderup,Heidacker Weg,9,,54.52316664,9.08081067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7d,25860,Olderup,Klingeweg,1,,54.51565689,9.07144669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7e,25860,Olderup,Lehmkuhlenweg,1,,54.52242028,9.0708393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7f,25860,Olderup,Lehmkuhlenweg,15,,54.52028708,9.07210026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7g,25860,Olderup,Lehmkuhlenweg,19,,54.51680625,9.07649101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7h,25860,Olderup,Lehmkuhlenweg,2,,54.52271065,9.07008834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7i,25860,Olderup,Lehmkuhlenweg,25,,54.51749314,9.07604639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7j,25860,Olderup,Lehmkuhlenweg,3,,54.522183,9.07098139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7k,25860,Olderup,Lehmkuhlenweg,4,,54.52246866,9.0702464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7l,25860,Olderup,Lehmkuhlenweg,5,,54.52196358,9.07108948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7m,25860,Olderup,Lehmkuhlenweg,6,,54.52224277,9.07036806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7n,25860,Olderup,Lehmkuhlenweg,8,,54.52199851,9.0705222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7o,25860,Olderup,Lüttje Weg,7,,54.5231794,9.06718683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7p,25860,Olderup,Norder Fenn,1,,54.52634607,9.06192677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7q,25860,Olderup,Norder-Kronenburg,1,,54.50794577,9.0516889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7r,25860,Olderup,Norder-Kronenburg,2,,54.50664703,9.05545978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7s,25860,Olderup,Norder-Kronenburg,3,,54.5077928,9.05192878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7t,25860,Olderup,Norder-Kronenburg,3,a,54.50778649,9.05180526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7u,25860,Olderup,Norder-Kronenburg,5,,54.50854029,9.06226783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7v,25860,Olderup,Norder-Kronenburg,7,,54.50962897,9.06367164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7w,25860,Olderup,Nordende,1,,54.52577585,9.06488203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7x,25860,Olderup,Nordende,11,,54.52626648,9.06441704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7y,25860,Olderup,Nordende,12,,54.52726722,9.06490883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI7z,25860,Olderup,Nordende,13,,54.52663803,9.06458941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI80,25860,Olderup,Nordende,8,,54.52692833,9.065319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI81,25860,Olderup,Nordende,9,,54.52613082,9.06326585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI82,25860,Olderup,Postweg,1,,54.52170351,9.06682188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI83,25860,Olderup,Postweg,11,,54.52296925,9.06665926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI84,25860,Olderup,Postweg,13,a,54.52322466,9.06658953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI85,25860,Olderup,Postweg,13,b,54.52314338,9.06662581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI86,25860,Olderup,Postweg,15,,54.52334374,9.06573595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI87,25860,Olderup,Postweg,17,,54.52325172,9.06539366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI88,25860,Olderup,Postweg,19,,54.52353923,9.06648385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI89,25860,Olderup,Postweg,21,,54.52355193,9.06613561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8A,25860,Olderup,Schauendahler Weg,4,,54.52298584,9.06965323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8B,25860,Olderup,Schauendahler Weg,5,,54.52320704,9.06964017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8C,25860,Olderup,Schauendahler Weg,6,,54.52277609,9.07073401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8D,25860,Olderup,Schauendahler Weg,7,,54.52313901,9.07010057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8E,25860,Olderup,Schauendahler Weg,9,,54.52306255,9.0706324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8F,25860,Olderup,Weinberg,1,,54.5168257,9.09232172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8G,25860,Olderup,Weinberg,3,,54.52016808,9.09563271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8H,25860,Olderup,Weinberg,5,,54.52210403,9.09739203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8I,25860,Olderup,Westerweg,1,,54.52523945,9.06260666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8J,25860,Olderup,Westerweg,2,,54.5252973,9.06298609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8K,25860,Olderup,Westerweg,20,,54.52691191,9.06230108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8L,25860,Olderup,Westerweg,21,,54.5269887,9.06135818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8M,25860,Olderup,Westerweg,22,,54.52554683,9.05845386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8N,25860,Olderup,Westerweg,23,,54.52709269,9.06201045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8O,25860,Olderup,Westerweg,24,,54.52696311,9.06268595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8P,25860,Olderup,Westerweg,25,,54.52717333,9.06251002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8Q,25860,Olderup,Westerweg,26,,54.52705362,9.06314433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8R,25860,Olderup,Westerweg,27,,54.52725972,9.06279154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8S,25860,Olderup,Westerweg,28,,54.52713707,9.06352145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8T,25860,Olderup,Westerweg,29,,54.52734052,9.06312478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8U,25860,Olderup,Westerweg,30,,54.52719042,9.06384836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8V,25860,Olderup,Westerweg,31,,54.52740463,9.06344258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8W,25860,Olderup,Westerweg,32,,54.52727501,9.06426843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8X,25860,Olderup,Westerweg,33,,54.52744306,9.06380634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8Y,25860,Olderup,Westerweg,35,,54.5275101,9.06412436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8Z,25860,Olderup,Westerweg,4,,54.5257252,9.06278691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8a,25860,Olderup,Postweg,23,,54.52386289,9.0660916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8c,25860,Olderup,Postweg,29,,54.52458679,9.06552907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8d,25860,Olderup,Postweg,3,,54.52198634,9.06688013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8e,25860,Olderup,Postweg,31,,54.52476259,9.06545732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8f,25860,Olderup,Postweg,33,,54.5248582,9.06467373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8g,25860,Olderup,Postweg,35,,54.52514833,9.06512581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8h,25860,Olderup,Postweg,5,,54.52233506,9.0667672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8i,25860,Olderup,Postweg,7,,54.5225579,9.06682931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8j,25860,Olderup,Postweg,9,,54.52274033,9.06669984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8m,25860,Olderup,Sodelweg,2,,54.51604026,9.05029502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8n,25860,Olderup,Sodelweg,4,,54.51359965,9.05226424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8o,25860,Olderup,Schauendahler Weg,1,,54.52329637,9.06882253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8p,25860,Olderup,Schauendahler Weg,12,,54.5184804,9.08113554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8q,25860,Olderup,Schauendahler Weg,14,,54.51821645,9.08124391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8r,25860,Olderup,Schauendahler Weg,16,,54.51694188,9.08574772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8s,25860,Olderup,Schauendahler Weg,20,,54.51355209,9.09001629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8t,25860,Olderup,Schauendahler Weg,21,,54.51085278,9.08873962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8u,25860,Olderup,Schauendahler Weg,22,,54.51078866,9.08738219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8v,25860,Olderup,Schauendahler Weg,23,,54.5060258,9.08628231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8w,25860,Olderup,Schauendahler Weg,24,,54.50669468,9.08503285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8x,25860,Olderup,Schauendahler Weg,25,,54.50448295,9.08561851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8y,25860,Olderup,Schauendahler Weg,27,,54.50599538,9.09463207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI8z,25860,Olderup,Schauendahler Weg,3,,54.52323674,9.06926075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI90,25860,Olderup,Westerweg,6,,54.52601448,9.06272102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI91,25860,Olderup,Nielandsweg,2,,54.52144541,9.06663567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI92,25860,Olderup,Nielandsweg,3,,54.52068832,9.06567103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI93,25860,Olderup,Nielandsweg,4,,54.52134813,9.06636206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI94,25860,Olderup,Nielandsweg,6,,54.5211632,9.065812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI95,25860,Olderup,Nielandsweg,8,,54.52099066,9.0654349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI97,25860,Olderup,Wittdoornweg,1,,54.52563675,9.06218773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eI98,25860,Olderup,Wittdoornweg,6,,54.52563183,9.06109011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQA,25860,Olderup,Hauptstraat,39,,54.53813286,9.11028213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQB,25860,Olderup,Hauptstraat,41,,54.53821136,9.11078852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQC,25860,Olderup,Hauptstraat,42,,54.53972535,9.11346863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQD,25860,Olderup,Hauptstraat,43,,54.53826537,9.1111024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQE,25860,Olderup,Hauptstraat,44,,54.53984028,9.11404398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQF,25860,Olderup,Hauptstraat,45,,54.53839554,9.11135054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQG,25860,Olderup,Hauptstraat,46,,54.53982331,9.11431974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQH,25860,Olderup,Hauptstraat,48,,54.53996701,9.11500605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQI,25860,Olderup,Hauptstraat,5,,54.53802473,9.10498548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQJ,25860,Olderup,Hauptstraat,50,,54.53990017,9.11538965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQK,25860,Olderup,Hauptstraat,6,,54.53739107,9.10584444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQL,25860,Olderup,Hauptstraat,63,,54.54017528,9.11337037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQM,25860,Olderup,Hauptstraat,67,,54.54008634,9.11410078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQN,25860,Olderup,Hauptstraat,69,,54.54018531,9.11477256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQO,25860,Olderup,Hauptstraat,7,,54.53809006,9.10528238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQP,25860,Olderup,Hauptstraat,8,,54.53746678,9.10625549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQQ,25860,Olderup,Hauptstraat,9,,54.53775197,9.1059037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQR,25860,Olderup,Immenstedter Straat,1,,54.54069495,9.1226174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQT,25860,Olderup,Immenstedter Straat,3,,54.5408254,9.12411715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQU,25860,Olderup,Norderwech,1,,54.53991016,9.11296055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQV,25860,Olderup,Norderwech,15,,54.54083912,9.11122125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQW,25860,Olderup,Norderwech,17,,54.5412019,9.11100303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQX,25860,Olderup,Norderwech,19,,54.54120288,9.11068789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQY,25860,Olderup,Norderwech,2,,54.54021214,9.11293124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQZ,25860,Olderup,Norderwech,21,,54.54120317,9.11026003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQh,25860,Olderup,Hauptstraat,1,,54.53774487,9.10474747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQi,25860,Olderup,Hauptstraat,12,,54.53758348,9.10743691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQj,25860,Olderup,Hauptstraat,14,,54.53771208,9.10778399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQk,25860,Olderup,Hauptstraat,15,,54.53770296,9.10629928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQl,25860,Olderup,Hauptstraat,17,,54.53782978,9.10665132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQm,25860,Olderup,Hauptstraat,18,,54.53778917,9.10839869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQn,25860,Olderup,Hauptstraat,19,,54.53799078,9.10688635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQo,25860,Olderup,Hauptstraat,2,,54.53731141,9.10492027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQp,25860,Olderup,Hauptstraat,20,,54.53782182,9.10873268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQq,25860,Olderup,Hauptstraat,21,,54.53803942,9.10793071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQr,25860,Olderup,Hauptstraat,22,,54.53787641,9.10922249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQs,25860,Olderup,Hauptstraat,23,,54.53813793,9.10850017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQt,25860,Olderup,Hauptstraat,23,a,54.53807868,9.10838218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQv,25860,Olderup,Hauptstraat,26,,54.53782839,9.11016102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQw,25860,Olderup,Hauptstraat,28,,54.53796411,9.11057764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQx,25860,Olderup,Hauptstraat,31,,54.53817374,9.10943339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQy,25860,Olderup,Hauptstraat,32,,54.53828616,9.11267002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOQz,25860,Olderup,Hauptstraat,34,,54.53861051,9.11282795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR0,25860,Olderup,Norderwech,23,,54.54122413,9.10982738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR1,25860,Olderup,Norderwech,5,,54.54019152,9.11192579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR2,25860,Olderup,Norderwech,6,,54.54049616,9.11223695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR3,25860,Olderup,Norderwech,8,,54.54040551,9.11176282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR4,25860,Olderup,Möllergang,2,,54.5399607,9.11167976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR5,25860,Olderup,Möllergang,5,,54.54007618,9.11138495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR6,25860,Olderup,Möllergang,9,,54.54039119,9.11127991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR7,25860,Olderup,Ant Karkhoff,1,,54.53725419,9.11113594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR8,25860,Olderup,Ant Karkhoff,10,,54.53702343,9.11112468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOR9,25860,Olderup,Ant Karkhoff,2,,54.53725743,9.1107871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORA,25860,Olderup,Gröne Wech,22,,54.54010408,9.11079892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORB,25860,Olderup,Gröne Wech,24,,54.54045203,9.11084962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORC,25860,Olderup,Gröne Wech,5,,54.53990409,9.10754171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORD,25860,Olderup,Gröne Wech,7,,54.53990573,9.10777807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORE,25860,Olderup,Gröne Wech,9,,54.54031593,9.10797233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORF,25860,Olderup,Kohgang,2,,54.53807195,9.10762661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORG,25860,Olderup,Kohgang,4,,54.53827723,9.10765187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORH,25860,Olderup,Kohgang,4,a,54.53844898,9.10767985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORI,25860,Olderup,Kohgang,5,,54.538676,9.10715408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORJ,25860,Olderup,Kohgang,5,a,54.53867521,9.10673269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORK,25860,Olderup,Kohgang,6,,54.53878738,9.10775556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORL,25860,Olderup,Kohgang,7,,54.53888679,9.10714884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORM,25860,Olderup,Kohgang,9,,54.53922236,9.10719126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORN,25860,Olderup,Dörpstraat,1,,54.53937571,9.1122563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORO,25860,Olderup,Dörpstraat,10,,54.5396794,9.11086666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORP,25860,Olderup,Dörpstraat,11,,54.53926954,9.10951417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORQ,25860,Olderup,Dörpstraat,12,,54.53961088,9.11013997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORR,25860,Olderup,Dörpstraat,13,,54.5392517,9.10914998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORS,25860,Olderup,Dörpstraat,14,,54.53997582,9.10997649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORT,25860,Olderup,Dörpstraat,15,,54.53924316,9.10859457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORU,25860,Olderup,Dörpstraat,17,,54.53922863,9.10820376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORV,25860,Olderup,Dörpstraat,18,,54.54019182,9.1098013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORW,25860,Olderup,Dörpstraat,19,,54.53921174,9.10758269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORX,25860,Olderup,Dörpstraat,2,,54.53984772,9.11260437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORY,25860,Olderup,Dörpstraat,20,,54.53957882,9.10966451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORZ,25860,Olderup,Dörpstraat,22,,54.5395642,9.10929983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORa,25860,Olderup,Ant Karkhoff,4,,54.53762716,9.11075569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORb,25860,Olderup,Holm,10,,54.53929114,9.11548004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORc,25860,Olderup,Holm,2,,54.53884714,9.11310746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORd,25860,Olderup,Holm,3,,54.53938213,9.11423563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORe,25860,Olderup,Holm,4,,54.53911564,9.11394052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORf,25860,Olderup,Holm,6,,54.53921791,9.11435378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORg,25860,Olderup,Holm,8,,54.53938294,9.11477573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORh,25860,Olderup,Holm,8,a,54.53900743,9.1145665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORi,25860,Olderup,Straatjen,1,,54.54055474,9.11292135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORj,25860,Olderup,Straatjen,3,,54.54072728,9.11286385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORk,25860,Olderup,Straatjen,4,,54.54049274,9.11331726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORm,25860,Olderup,Osterlangwech,1,a,54.53694328,9.11290509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORn,25860,Olderup,Osterlangwech,2,,54.53723228,9.11206075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORo,25860,Olderup,Osterlangwech,5,,54.53314921,9.1143772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORp,25860,Olderup,Osterlangwech,9,,54.53022841,9.11596296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORq,25860,Olderup,Grashof,1,,54.54000905,9.10632226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORr,25860,Olderup,Gröne Wech,10,,54.54035616,9.10937117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORs,25860,Olderup,Gröne Wech,12,,54.5404287,9.10976107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORt,25860,Olderup,Gröne Wech,14,,54.54048504,9.11009332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORu,25860,Olderup,Gröne Wech,15,,54.54083587,9.10984157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORv,25860,Olderup,Gröne Wech,16,,54.54048835,9.11021079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORw,25860,Olderup,Gröne Wech,17,,54.54074707,9.11024008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORx,25860,Olderup,Gröne Wech,18,,54.54009682,9.11025845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORy,25860,Olderup,Gröne Wech,19,,54.54077361,9.11069771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eORz,25860,Olderup,Gröne Wech,20,,54.54044004,9.11046029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS0,25860,Olderup,Dörpstraat,3,,54.53931619,9.11096246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS1,25860,Olderup,Dörpstraat,30,,54.53990997,9.10887264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS2,25860,Olderup,Dörpstraat,32,,54.53949219,9.10859363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS3,25860,Olderup,Dörpstraat,4,,54.53985709,9.11231133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS4,25860,Olderup,Dörpstraat,6,,54.53960582,9.11181068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS5,25860,Olderup,Dörpstraat,8,,54.53959656,9.1113818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS6,25860,Olderup,Karkwech,1,,54.53861432,9.1101798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS7,25860,Olderup,Karkwech,2,,54.53853595,9.11042769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS8,25860,Olderup,Karkwech,3,,54.53889326,9.11003089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOS9,25860,Olderup,Arlewatter Straat,1,,54.53683639,9.09624134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSA,25860,Olderup,Bundesstraße,3,,54.52378655,9.13429157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSB,25860,Olderup,Bundesstraße,6,,54.52230001,9.13022608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSC,25860,Olderup,Bundesstraße,6,b,54.52234915,9.13009237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSD,25860,Olderup,Bundesstraße,7,,54.52167088,9.13008667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSE,25860,Olderup,Bundesstraße,7,a,54.52159368,9.12996302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSF,25860,Olderup,Bundesstraße,8,,54.52217742,9.13021896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSG,25860,Olderup,Feddersborger Wech,1,,54.52386263,9.13668315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSH,25860,Olderup,Feddersborger Wech,2,,54.52397118,9.13500558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSI,25860,Olderup,Schnoppe Wech,2,,54.52599739,9.13038468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSJ,25860,Olderup,Krattwech,1,,54.51934541,9.12713532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSK,25860,Olderup,Krattwech,2,,54.5192891,9.12668124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSL,25860,Olderup,Dörplotten,1,,54.54127432,9.11163914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSM,25860,Olderup,Dörplotten,2,,54.54094334,9.11171903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSN,25860,Olderup,Dörplotten,3,,54.54124859,9.11194195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSO,25860,Olderup,Dörplotten,4,,54.54097863,9.11212081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSP,25860,Olderup,Dörplotten,6,,54.54104776,9.11262088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSQ,25860,Olderup,Südermoorwech,1,,54.5213978,9.1052044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSa,25860,Olderup,Arlewatter Straat,2,,54.53652567,9.09669954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSb,25860,Olderup,Arlewatter Straat,3,,54.53675837,9.09647171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSd,25860,Olderup,Ole Landstraat,1,,54.53620572,9.09616462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSe,25860,Olderup,Ole Landstraat,2,,54.53444433,9.0953559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSf,25860,Olderup,Ole Landstraat,3,,54.53597767,9.0960827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSg,25860,Olderup,Ole Landstraat,5,,54.53574169,9.0959008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSh,25860,Olderup,Ole Landstraat,7,,54.53541578,9.09577352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSi,25860,Olderup,Ole Landstraat,9,,54.5348982,9.09551408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSj,25860,Olderup,Sandwech,1,,54.52507473,9.13204758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSk,25860,Olderup,Sandwech,2,,54.52505276,9.13114172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSl,25860,Olderup,Schoolstraat,10,,54.53872949,9.10558636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSm,25860,Olderup,Schoolstraat,11,,54.53848811,9.10468721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSn,25860,Olderup,Schoolstraat,12,,54.5387444,9.10508634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSo,25860,Olderup,Schoolstraat,14,,54.5387175,9.10470049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSp,25860,Olderup,Schoolstraat,2,,54.53831294,9.1062622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSq,25860,Olderup,Schoolstraat,3,,54.5381246,9.10593796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSr,25860,Olderup,Schoolstraat,4,,54.538547,9.10622999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSs,25860,Olderup,Schoolstraat,5,,54.53849037,9.10588569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSt,25860,Olderup,Schoolstraat,6,,54.53875543,9.10627817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSu,25860,Olderup,Schoolstraat,7,,54.53854609,9.10551156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSv,25860,Olderup,Schoolstraat,8,,54.53870762,9.10595001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSw,25860,Olderup,Schoolstraat,9,,54.53854391,9.10513406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSx,25860,Olderup,Schraawech,1,,54.52171464,9.12575878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSy,25860,Olderup,Bundesstraße,1,,54.52418359,9.13401957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003eOSz,25860,Olderup,Bundesstraße,2,,54.52415054,9.13313748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ELPE,25860,Olderup,Schoolstraat,2,a,54.53803875,9.10621535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IPc6,25860,Olderup,Schauendahler Weg,19,,54.51536176,9.09222328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IhnY,25860,Olderup,Hauptstraße,30,,54.52624725,9.07024525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IrsV,25860,Olderup,Heideweg,1,a,54.5330757,9.0812602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Irt0,25860,Olderup,Petersilienweg,1,,54.53749426,9.07839957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SRUZ,25860,Olderup,Schauendahler Weg,20,a,54.51402649,9.09082965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ScmB,25860,Olderup,Sickiweg,1,,54.53041524,9.0751003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ScmG,25860,Olderup,Sickiweg,2,,54.53070506,9.07490503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TqLU,25860,Olderup,Nordende,2,a,54.52604417,9.06529791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004UCET,25860,Olderup,Holm,8,b,54.53839931,9.11561605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Vi3W,25860,Olderup,Hauptstraat,30,,54.53792653,9.11119896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004ZksX,25860,Olderup,Dörplotten,14,,54.54165038,9.1115882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056bdP,25860,Olderup,Immenstedter Straat,2,,54.53994063,9.11841164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AIWc,25860,Olderup,Norder Fenn,6,,54.52638885,9.06092035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BOq5,25860,Olderup,Norder Fenn,3,,54.52626153,9.06150088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BPMH,25860,Olderup,Norder Fenn,4,b,54.52662636,9.06109257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005E5kv,25860,Olderup,Lüttje Weg,4,,54.52339924,9.06703711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Eq1Q,25860,Olderup,Ole Landstraat,3,a,54.53605056,9.09607553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005H5Vz,25860,Olderup,Wittdoornweg,5,,54.52545961,9.06124027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HFS5,25860,Olderup,Heidehof,2,,54.51328722,9.06783486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HFU4,25860,Olderup,Heidehof,1,,54.51351299,9.06859282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LMhQ,25860,Olderup,Wittdoornweg,3,a,54.52552096,9.06156975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LMhR,25860,Olderup,Wittdoornweg,3,,54.52555492,9.06175218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LeYs,25860,Olderup,Lüttje Weg,5,,54.52316456,9.0675945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005MUuI,25860,Olderup,Norder Fenn,5,,54.52597355,9.06014451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005N6bS,25860,Olderup,Westerweg,19,,54.52678286,9.06182121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VtHz,25860,Olderup,Möllergang,3,,54.53992082,9.11141609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WStG,25860,Olderup,Heidacker Weg,13,b,54.52285349,9.09420562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ZSiq,25860,Olderup,Westerweg,15,,54.52592315,9.06225741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bRAd,25860,Olderup,Heideweg,1,,54.53300936,9.08180481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bnpY,25860,Olderup,Hauptstraße,16,a,54.52433575,9.06908997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bnq0,25860,Olderup,Hauptstraße,16,b,54.52433953,9.06919596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bnq2,25860,Olderup,Hauptstraße,16,c,54.52434353,9.0693082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hIIX,25860,Olderup,Hofweg,5,,54.54806968,9.06949503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005k162,25860,Olderup,Norder Fenn,2,,54.5265627,9.06184625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lBAX,25860,Olderup,Hauptstraat,65,,54.54006017,9.11381881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ondm,25860,Olderup,Marschblick,5,,54.5432448,9.08226318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005onx5,25860,Olderup,Hauptstraße,17,a,54.53952849,9.08359972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005onxb,25860,Olderup,Norder Fenn,6,a,54.52660191,9.06080009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xuVK,25860,Olderup,Dörplotten,5,,54.54129656,9.11233831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066lWL,25860,Olderup,Postweg,25,,54.52414231,9.06553755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00067nPY,25860,Olderup,Lehmkuhlenweg,1,a,54.52255042,9.0707718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FGKX,25860,Olderup,Dörplotten,8,,54.54107229,9.1131176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FXlk,25860,Olderup,Norder Fenn,7,,54.52590997,9.05975921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GuJf,25860,Olderup,Norder Fenn,12,,54.52617331,9.05965605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MdZX,25860,Olderup,Norderwech,25,,54.54141733,9.10978629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Me0g,25860,Olderup,Na de Beek,2,,54.54081646,9.10930869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Me0l,25860,Olderup,Na de Beek,4,,54.54118549,9.10930009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Me0v,25860,Olderup,Na de Beek,6,,54.54152641,9.10930853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OXZC,25860,Olderup,Dragoner,3,a,54.53739238,9.07957077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YoC6,25860,Olderup,Osterweg,6,a,54.5453437,9.08760611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006c7QF,25860,Olderup,Dörplotten,10,,54.54132345,9.1133216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006gI5R,25860,Olderup,Norder Fenn,16,,54.52608858,9.05877432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006goD6,25860,Olderup,Hofweg,8,,54.5486516,9.0681604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jAeV,25860,Olderup,Hauptstraße,16,a,54.53723012,9.0831174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kdps,25860,Olderup,Arlewatter Straat,7,,54.53723982,9.09854887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mDZI,25860,Olderup,Heuweg,1,a,54.53800792,9.0813001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qIOG,25860,Olderup,Norder Fenn,9,,54.52585028,9.0593204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006r08u,25860,Olderup,Dörplotten,9,,54.54135641,9.11299455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v4zu,25860,Olderup,Norder Fenn,10,,54.52628413,9.05995634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wBOX,25860,Olderup,Norder Fenn,11,,54.52583288,9.05895051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wBOi,25860,Olderup,Norder Fenn,14,,54.52620087,9.05931569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xIWS,25860,Olderup,Hauptstraße,3,a,54.53766772,9.08195043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yC63,25860,Olderup,Dörplotten,7,,54.54135023,9.11277099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071lci,25860,Olderup,Norder Fenn,8,,54.52628709,9.06029622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077V9R,25860,Olderup,Wittdoornweg,10,,54.52550235,9.06031439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IsvT,25860,Olderup,Huuskoppel,9,a,54.53839552,9.08000669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007NUc0,25860,Olderup,Wittdoornweg,14,,54.52551269,9.05956643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007NUc6,25860,Olderup,Wittdoornweg,13,,54.5251271,9.05937708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007enOC,25860,Olderup,Wittdoornweg,12,,54.52542714,9.05998209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kIaA,25860,Olderup,Dörpstraat,7,,54.53941737,9.11036752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nJqM,25860,Olderup,Wittdoornweg,11,,54.52522411,9.0598432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nJqN,25860,Olderup,Wittdoornweg,11,a,54.52519828,9.05969907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nJqS,25860,Olderup,Wittdoornweg,9,,54.52526514,9.06027769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nJqW,25860,Olderup,Wittdoornweg,8,,54.52556124,9.06068407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyNL,25860,Olderup,Hofmoor,2,,54.53907267,9.08730205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyNQ,25860,Olderup,Hofmoor,4,,54.53893357,9.08761982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyNW,25860,Olderup,Hofmoor,6,,54.5385724,9.08735793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyO3,25860,Olderup,Hofmoor,12,,54.53826552,9.08723816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyO6,25860,Olderup,Hofmoor,8,,54.53847318,9.08713919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyOQ,25860,Olderup,Hofmoor,9,,54.53851855,9.0878114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyOp,25860,Olderup,Hofmoor,13,,54.53826323,9.0873877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyOv,25860,Olderup,Hofmoor,11,,54.5384286,9.08752379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyOy,25860,Olderup,Hofmoor,10,,54.53835849,9.08708805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyPC,25860,Olderup,Hofmoor,5,,54.53890372,9.08792779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyPQ,25860,Olderup,Hofmoor,7,,54.53864234,9.08786724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyPf,25860,Olderup,Hofmoor,1,,54.53919519,9.08747588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nyPq,25860,Olderup,Hofmoor,3,,54.53904028,9.08769536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qZSB,25860,Olderup,Osterlangwech,1,b,54.53646343,9.11288025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qZSu,25860,Olderup,Osterlangwech,1,c,54.5363806,9.11290992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007sGPz,25860,Olderup,Osterlangwech,2,a,54.53715905,9.11151952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tPdK,25860,Olderup,Heuweg,3,,54.53793059,9.0802118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zSs2,25860,Olderup,Ant Karkhoff,10,a,54.53695398,9.11113881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007zvmF,25860,Olderup,Wittdoornweg,16,,54.52535161,9.05920854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085MJo,25860,Olderup,Hauptstraat,27,,54.53806745,9.10883177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00087ks2,25860,Olderup,Hauptstraat,29,,54.53803887,9.10916736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CZ7P,25860,Olderup,Heuweg,1,c,54.53802043,9.0805998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cd57,25860,Olderup,Kohgang,3,a,54.53833044,9.10722867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cd58,25860,Olderup,Kohgang,3,b,54.53844588,9.10723646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Krt7,25860,Olderup,Holm,4,a,54.53888121,9.11404758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008uMfG,25860,Olderup,Hofmoor,11,a,54.5383544,9.0875134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008v7ZD,25860,Olderup,Hofmoor,7,a,54.53871926,9.08790266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wEmB,25860,Olderup,Hauptstraße,10,b,54.52348159,9.06916482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wEma,25860,Olderup,Hauptstraße,10,c,54.52364537,9.06911341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wEmb,25860,Olderup,Hauptstraße,10,d,54.52361649,9.06924987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008wEmz,25860,Olderup,Hauptstraße,10,a,54.5235103,9.06902901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yT28,25860,Olderup,Kohgang,6,a,54.53860471,9.10747839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yT29,25860,Olderup,Kohgang,6,b,54.5388676,9.10748767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yT2a,25860,Olderup,Kohgang,6,c,54.53891601,9.10749193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yT2b,25860,Olderup,Kohgang,6,d,54.53899247,9.10753023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008yT2c,25860,Olderup,Kohgang,6,e,54.53905066,9.10753579

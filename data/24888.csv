@@ -1,0 +1,430 @@
+# Amtliche Adressen für die Postleitzahl 24888
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPA,24888,Steinfeld,Dorfstraße,2,,54.61258447,9.70109118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPB,24888,Steinfeld,Dorfstraße,20,,54.61062739,9.69834291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPC,24888,Steinfeld,Dorfstraße,22,,54.6102885,9.69739823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPD,24888,Steinfeld,Dorfstraße,24,,54.60945722,9.69836221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPE,24888,Steinfeld,Dorfstraße,3,,54.61081264,9.70058998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPF,24888,Steinfeld,Dorfstraße,4,,54.61236289,9.70082387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPG,24888,Steinfeld,Dorfstraße,5,,54.61027907,9.69917282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPH,24888,Steinfeld,Dorfstraße,6,,54.61208747,9.70023336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPI,24888,Steinfeld,Dorfstraße,7,,54.610044,9.69933463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPJ,24888,Steinfeld,Dorfstraße,8,,54.61176297,9.700202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPK,24888,Steinfeld,Dorfstraße,9,,54.60969258,9.70006839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPL,24888,Steinfeld,Hökerberg,1,,54.61282364,9.70180628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPM,24888,Steinfeld,Hökerberg,2,,54.61265426,9.70191281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPN,24888,Steinfeld,Hökerberg,3,,54.61309114,9.70211343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPO,24888,Steinfeld,Kirchenweg,1,,54.61187824,9.70110282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPP,24888,Steinfeld,Kirchenweg,2,,54.61161164,9.70073335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPQ,24888,Steinfeld,Loitfeld,1,,54.59370493,9.68901613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPR,24888,Steinfeld,Loitfeld,2,,54.59394295,9.68878225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPS,24888,Steinfeld,Loithof,1,,54.6081166,9.70363983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPT,24888,Steinfeld,Loithof,2,,54.60792526,9.70360493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPU,24888,Steinfeld,Loithof,3,,54.6079119,9.70258168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPV,24888,Steinfeld,Osterholzer Straße,1,,54.61519714,9.72002883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPW,24888,Steinfeld,Osterholzer Straße,12,,54.61193303,9.70468533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPX,24888,Steinfeld,Osterholzer Straße,2,,54.61355018,9.71964999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPY,24888,Steinfeld,Osterholzer Straße,4,,54.61407444,9.7202455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPZ,24888,Steinfeld,Osterholzer Straße,5,,54.61229479,9.70458178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPj,24888,Steinfeld,Am Toft,1,,54.61316957,9.70649106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPk,24888,Steinfeld,Am Toft,2,,54.61434809,9.70701969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPl,24888,Steinfeld,Beekstraße,1,,54.60955574,9.70157872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPm,24888,Steinfeld,Beekstraße,2,,54.60927163,9.70176485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPn,24888,Steinfeld,Beekstraße,3,,54.60950601,9.70189759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPo,24888,Steinfeld,Beekstraße,4,,54.60893922,9.70156067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPp,24888,Steinfeld,Brebelholz,1,,54.6246222,9.70124846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPq,24888,Steinfeld,Brebelholz,2,,54.62247649,9.70286307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPr,24888,Steinfeld,Friedenstal,1,,54.60488396,9.72446331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPs,24888,Steinfeld,Dorfstraße,1,,54.61208213,9.7016714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPt,24888,Steinfeld,Dorfstraße,10,,54.61173599,9.69982207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPu,24888,Steinfeld,Dorfstraße,10,a,54.61160591,9.69961235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPv,24888,Steinfeld,Dorfstraße,11,,54.60350883,9.68949284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPw,24888,Steinfeld,Dorfstraße,12,,54.61137713,9.69939197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPx,24888,Steinfeld,Dorfstraße,14,,54.6111119,9.69917774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPy,24888,Steinfeld,Dorfstraße,16,,54.61094488,9.69904111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfPz,24888,Steinfeld,Dorfstraße,18,,54.61055369,9.6989654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ0,24888,Steinfeld,Magdalenenruh,1,,54.61883481,9.72319703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ1,24888,Steinfeld,Moorstraße,1,,54.61480438,9.70264299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ2,24888,Steinfeld,Moorstraße,10,,54.61543596,9.70891564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ3,24888,Steinfeld,Moorstraße,11,,54.61948176,9.71141699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ4,24888,Steinfeld,Moorstraße,12,,54.61603294,9.70883722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ5,24888,Steinfeld,Moorstraße,13,,54.62019615,9.71575566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ6,24888,Steinfeld,Moorstraße,14,,54.61821569,9.71081902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ7,24888,Steinfeld,Moorstraße,2,,54.61479853,9.70545106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ8,24888,Steinfeld,Moorstraße,3,,54.61502597,9.70285517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQ9,24888,Steinfeld,Moorstraße,4,,54.6145373,9.70722267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQA,24888,Steinfeld,Muschau,7,,54.61866726,9.70315684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQB,24888,Steinfeld,Muschau,8,a,54.61860074,9.70418878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQC,24888,Steinfeld,Muschau,8,b,54.61858412,9.70448416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQD,24888,Steinfeld,Muschau,9,,54.6193871,9.70349167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQE,24888,Steinfeld,Nordschau,1,,54.62180079,9.70823175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQF,24888,Steinfeld,Schwienholt,1,,54.60388245,9.70705152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQG,24888,Steinfeld,Schwienholt,2,,54.60366493,9.70732017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQH,24888,Steinfeld,Schwienholt,3,,54.5992213,9.71561667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQI,24888,Steinfeld,Schwienholt,4,,54.59952383,9.7118252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQJ,24888,Steinfeld,Schwienholt,5,,54.597324,9.71169772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQK,24888,Steinfeld,Schwienholt,6,,54.59580795,9.71015932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQL,24888,Steinfeld,Schwonhöh,1,,54.59642569,9.6959654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQM,24888,Steinfeld,Hökerhof,1,,54.61294234,9.7028616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQa,24888,Steinfeld,Moorstraße,5,,54.61493371,9.70433678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQb,24888,Steinfeld,Moorstraße,6,,54.61471341,9.70751913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQc,24888,Steinfeld,Moorstraße,7,,54.61516922,9.70819555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQd,24888,Steinfeld,Moorstraße,8,,54.61499129,9.70794107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQe,24888,Steinfeld,Moorstraße,9,,54.61628042,9.7086965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQf,24888,Steinfeld,Muschau,1,,54.6177767,9.70256628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQg,24888,Steinfeld,Muschau,10,,54.61823321,9.70330005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQh,24888,Steinfeld,Muschau,11,,54.61973782,9.70367969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQi,24888,Steinfeld,Muschau,12,,54.61842109,9.70351219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQj,24888,Steinfeld,Muschau,13,,54.62007323,9.70413286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQk,24888,Steinfeld,Muschau,14,,54.61863265,9.70363747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQl,24888,Steinfeld,Muschau,15,,54.62020736,9.70468958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQm,24888,Steinfeld,Muschau,16,,54.61882451,9.7036533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQn,24888,Steinfeld,Muschau,17,,54.62028408,9.70500045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQo,24888,Steinfeld,Muschau,18,,54.619088,9.70379899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQp,24888,Steinfeld,Muschau,19,,54.62024163,9.70551982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQq,24888,Steinfeld,Muschau,2,,54.61777623,9.70324242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQr,24888,Steinfeld,Muschau,20,,54.61951655,9.70410291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQs,24888,Steinfeld,Muschau,21,,54.62021478,9.70581652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQt,24888,Steinfeld,Muschau,22,,54.61966292,9.70428571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQu,24888,Steinfeld,Muschau,23,,54.62030339,9.70628436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQv,24888,Steinfeld,Muschau,25,,54.62044328,9.70688922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQw,24888,Steinfeld,Muschau,3,,54.61796,9.70256471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQx,24888,Steinfeld,Muschau,4,,54.61797787,9.70316055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQy,24888,Steinfeld,Muschau,5,,54.61823519,9.70235331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfQz,24888,Steinfeld,Muschau,6,,54.61795695,9.703671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuA,24888,Steinfeld,Raiffeisenstraße,4,,54.60080094,9.74219658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuB,24888,Steinfeld,Dorfstraße,1,,54.60028883,9.74710451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuC,24888,Steinfeld,Dorfstraße,10,,54.60029862,9.74307102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuD,24888,Steinfeld,Dorfstraße,10,a,54.60023038,9.7427592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuE,24888,Steinfeld,Dorfstraße,11,,54.5999159,9.74256131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuF,24888,Steinfeld,Dorfstraße,12,,54.60014031,9.74251168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuG,24888,Steinfeld,Dorfstraße,13,,54.59988178,9.74193194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuH,24888,Steinfeld,Dorfstraße,13,a,54.60009505,9.74148755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuI,24888,Steinfeld,Dorfstraße,14,,54.60024886,9.74182407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuJ,24888,Steinfeld,Dorfstraße,15,,54.59982766,9.74083839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuK,24888,Steinfeld,Dorfstraße,15,a,54.59986773,9.74062162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuL,24888,Steinfeld,Dorfstraße,16,,54.60061127,9.74123447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuM,24888,Steinfeld,Dorfstraße,16,a,54.60077877,9.74101151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuN,24888,Steinfeld,Dorfstraße,18,,54.60046636,9.74056132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuO,24888,Steinfeld,Dorfstraße,2,,54.60081328,9.7476029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuP,24888,Steinfeld,Dorfstraße,3,,54.60025483,9.74645146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuQ,24888,Steinfeld,Dorfstraße,4,,54.60079128,9.74577233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuR,24888,Steinfeld,Dorfstraße,5,,54.60000221,9.74611287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuS,24888,Steinfeld,Dorfstraße,6,,54.60066185,9.74494822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuT,24888,Steinfeld,Dorfstraße,7,,54.60023952,9.74432957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuU,24888,Steinfeld,Dorfstraße,8,,54.60052519,9.74440982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuV,24888,Steinfeld,Dorfstraße,9,,54.60013801,9.74361674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuW,24888,Steinfeld,Goldacker,1,,54.59769226,9.7464128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuX,24888,Steinfeld,Goldacker,10,,54.59811503,9.74478877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuY,24888,Steinfeld,Goldacker,11,,54.59780884,9.74433275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjuZ,24888,Steinfeld,Goldacker,12,,54.59812049,9.74448974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njuy,24888,Steinfeld,Austraße,1,,54.61631849,9.74365568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njuz,24888,Steinfeld,Raiffeisenstraße,2,,54.60093816,9.7433575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv0,24888,Steinfeld,Goldacker,13,,54.59778004,9.74400007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv1,24888,Steinfeld,Goldacker,14,,54.59811712,9.74416347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv2,24888,Steinfeld,Goldacker,15,,54.59768849,9.74370869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv3,24888,Steinfeld,Goldacker,16,,54.59801727,9.74385698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv4,24888,Steinfeld,Goldacker,17,,54.59737249,9.7435563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv5,24888,Steinfeld,Goldacker,18,,54.59797535,9.74360953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv6,24888,Steinfeld,Goldacker,19,,54.59741167,9.74387555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv7,24888,Steinfeld,Goldacker,2,,54.59793596,9.74641091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv8,24888,Steinfeld,Goldacker,20,,54.59784479,9.74333113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njv9,24888,Steinfeld,Goldacker,21,,54.59741327,9.7442448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvA,24888,Steinfeld,Goldacker,9,,54.5978248,9.74462233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvB,24888,Steinfeld,Hasselholzstraße,1,,54.59783077,9.74739217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvC,24888,Steinfeld,Hasselholzstraße,10,,54.59709288,9.74742581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvD,24888,Steinfeld,Hasselholzstraße,11,,54.58963663,9.74959164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvE,24888,Steinfeld,Hasselholzstraße,12,,54.59688361,9.74761826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvF,24888,Steinfeld,Hasselholzstraße,14,,54.59668793,9.74767005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvG,24888,Steinfeld,Hasselholzstraße,16,,54.59651836,9.74781173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvH,24888,Steinfeld,Hasselholzstraße,18,,54.59632093,9.74795458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvI,24888,Steinfeld,Hasselholzstraße,2,,54.59795961,9.7468404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvJ,24888,Steinfeld,Hasselholzstraße,20,,54.59613349,9.74807393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvK,24888,Steinfeld,Hasselholzstraße,24,,54.59399759,9.74967403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvL,24888,Steinfeld,Hasselholzstraße,24,a,54.59368308,9.74968774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvM,24888,Steinfeld,Hasselholzstraße,26,,54.59349389,9.74978623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvN,24888,Steinfeld,Hasselholzstraße,28,,54.59313811,9.75008189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvO,24888,Steinfeld,Hasselholzstraße,3,,54.59767612,9.74750457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvP,24888,Steinfeld,Hasselholzstraße,30,,54.59279154,9.74981291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvQ,24888,Steinfeld,Hasselholzstraße,32,,54.59234627,9.74969857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvR,24888,Steinfeld,Hasselholzstraße,34,,54.58956605,9.74919748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvS,24888,Steinfeld,Hasselholzstraße,36,,54.589264,9.74841632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvT,24888,Steinfeld,Hasselholzstraße,4,,54.59765753,9.74707215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvU,24888,Steinfeld,Hasselholzstraße,5,,54.59751271,9.74766746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvV,24888,Steinfeld,Hasselholzstraße,6,,54.59749415,9.74722279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvW,24888,Steinfeld,Hasselholzstraße,7,,54.59728137,9.74779167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvX,24888,Steinfeld,Hasselholzstraße,7,a,54.59708964,9.74795514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvY,24888,Steinfeld,Hasselholzstraße,8,,54.59728361,9.74728317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjvZ,24888,Steinfeld,Hasselholzstraße,9,,54.58979214,9.74957846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njva,24888,Steinfeld,Goldacker,22,,54.5976734,9.74317867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvb,24888,Steinfeld,Goldacker,23,,54.59744853,9.74456438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvc,24888,Steinfeld,Goldacker,24,,54.59745883,9.7430777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvd,24888,Steinfeld,Goldacker,25,,54.59744253,9.74484781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njve,24888,Steinfeld,Goldacker,26,,54.59728101,9.74305737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvf,24888,Steinfeld,Goldacker,27,,54.59743158,9.74524271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvg,24888,Steinfeld,Goldacker,28,,54.59706393,9.74300915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvh,24888,Steinfeld,Goldacker,29,,54.59745821,9.74569031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvi,24888,Steinfeld,Goldacker,3,,54.59764402,9.74609807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvj,24888,Steinfeld,Goldacker,30,,54.59708489,9.74336074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvk,24888,Steinfeld,Goldacker,32,,54.59706168,9.74368013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvl,24888,Steinfeld,Goldacker,34,,54.59707123,9.74402247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvm,24888,Steinfeld,Goldacker,36,,54.59707579,9.74444974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvn,24888,Steinfeld,Goldacker,38,,54.59709057,9.74477887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvo,24888,Steinfeld,Goldacker,4,,54.59792704,9.74606896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvp,24888,Steinfeld,Goldacker,40,,54.59708905,9.74513331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvq,24888,Steinfeld,Goldacker,42,,54.59709157,9.74557085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvr,24888,Steinfeld,Goldacker,44,,54.59716942,9.745893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvs,24888,Steinfeld,Goldacker,46,,54.59684967,9.74666067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvt,24888,Steinfeld,Goldacker,48,,54.59703664,9.74665668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvu,24888,Steinfeld,Goldacker,5,,54.59781953,9.74528038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvv,24888,Steinfeld,Goldacker,50,,54.59720242,9.74640145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvw,24888,Steinfeld,Goldacker,52,,54.59739357,9.74630279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvx,24888,Steinfeld,Goldacker,6,,54.59789816,9.74574181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvy,24888,Steinfeld,Goldacker,7,,54.59781079,9.74497817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njvz,24888,Steinfeld,Goldacker,8,,54.59817236,9.74514982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw0,24888,Steinfeld,Höchtstraße,1,,54.60389837,9.738074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw1,24888,Steinfeld,Höchtstraße,2,,54.60425739,9.7382898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw2,24888,Steinfeld,Höchtstraße,3,,54.60395756,9.73763273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw3,24888,Steinfeld,Höchtstraße,4,,54.605425,9.74001197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw4,24888,Steinfeld,Hof Lausen,1,,54.6013839,9.7413107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw5,24888,Steinfeld,Hof Lausen,2,,54.60144875,9.74194867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw6,24888,Steinfeld,Kalkjer,1,,54.59517016,9.76087366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw7,24888,Steinfeld,Kalkjer,2,,54.59443111,9.75860267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw8,24888,Steinfeld,Kastanienallee,1,,54.59998824,9.74794064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njw9,24888,Steinfeld,Kastanienallee,11,,54.59829364,9.74607599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwA,24888,Steinfeld,Krock,16,,54.59354302,9.74083608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwB,24888,Steinfeld,Krock,18,,54.59336545,9.74083987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwC,24888,Steinfeld,Krock,2,,54.59518369,9.7402125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwD,24888,Steinfeld,Krock,3,,54.59307249,9.74181794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwE,24888,Steinfeld,Krock,4,,54.59444397,9.73966789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwF,24888,Steinfeld,Krock,6,,54.59402231,9.74021546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwG,24888,Steinfeld,Krock,8,,54.59371037,9.74054363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwH,24888,Steinfeld,Mölkjerstraße,1,,54.60452234,9.74371722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwI,24888,Steinfeld,Mölkjerstraße,2,,54.60478451,9.74412292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwJ,24888,Steinfeld,Loiter Straße,2,,54.60117247,9.73985548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwK,24888,Steinfeld,Loiter Straße,2,a,54.60394148,9.73680231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwL,24888,Steinfeld,Loiter Straße,3,,54.60161144,9.73926171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwM,24888,Steinfeld,Loiter Straße,4,,54.60406449,9.73637378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwN,24888,Steinfeld,Loiter Straße,5,,54.60382541,9.73381663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwO,24888,Steinfeld,Loiter Straße,6,,54.60400689,9.73459461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwP,24888,Steinfeld,Loiter Straße,6,a,54.60401157,9.73471843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwQ,24888,Steinfeld,Loiter Straße,7,,54.60403293,9.73173891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwR,24888,Steinfeld,Loiter Straße,8,,54.60501162,9.72842331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwS,24888,Steinfeld,Moorstraße,1,,54.60407796,9.75219665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwT,24888,Steinfeld,Moorstraße,2,,54.60502164,9.74980802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwU,24888,Steinfeld,Moorstraße,3,,54.60466886,9.74971184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwV,24888,Steinfeld,Poststraße,1,,54.59957072,9.74247574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwW,24888,Steinfeld,Poststraße,10,,54.59883053,9.74238081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwX,24888,Steinfeld,Poststraße,12,,54.59825428,9.74252125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwY,24888,Steinfeld,Poststraße,2,,54.59965069,9.74209836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjwZ,24888,Steinfeld,Poststraße,3,,54.59939512,9.74253467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwa,24888,Steinfeld,Kastanienallee,13,,54.59827989,9.74562838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwb,24888,Steinfeld,Kastanienallee,15,,54.59667045,9.74254883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwc,24888,Steinfeld,Kastanienallee,2,,54.59851949,9.74495713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwd,24888,Steinfeld,Kastanienallee,3,,54.59974609,9.74806991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwe,24888,Steinfeld,Kastanienallee,4,,54.59852372,9.74466418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwf,24888,Steinfeld,Kastanienallee,5,,54.59889834,9.74836651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwg,24888,Steinfeld,Kastanienallee,6,,54.59849204,9.74415687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwh,24888,Steinfeld,Kastanienallee,7,,54.59837929,9.74749793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwi,24888,Steinfeld,Kastanienallee,8,,54.59704395,9.742048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwj,24888,Steinfeld,Kastanienallee,9,,54.59829977,9.74653995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwk,24888,Steinfeld,Kattholm,1,,54.59579562,9.74779798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwl,24888,Steinfeld,Kattholm,11,,54.59562763,9.74621579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwm,24888,Steinfeld,Kattholm,13,,54.59591749,9.74640514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwn,24888,Steinfeld,Kattholm,2,,54.5961659,9.74742287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwo,24888,Steinfeld,Kattholm,3,,54.59574195,9.74751141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwp,24888,Steinfeld,Kattholm,4,,54.5959907,9.74744653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwq,24888,Steinfeld,Kattholm,5,,54.59572859,9.74721433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwr,24888,Steinfeld,Kattholm,6,,54.5959154,9.74701744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njws,24888,Steinfeld,Kattholm,7,,54.5957213,9.74682498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwt,24888,Steinfeld,Kattholm,9,,54.59568921,9.74651036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwu,24888,Steinfeld,Krock,1,,54.59362664,9.74116111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwv,24888,Steinfeld,Krock,1,a,54.59343054,9.74143295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njww,24888,Steinfeld,Krock,10,,54.59345377,9.73982376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwx,24888,Steinfeld,Krock,10,a,54.59288144,9.73895477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwy,24888,Steinfeld,Krock,12,,54.59240523,9.73877084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njwz,24888,Steinfeld,Krock,14,,54.59188114,9.73877846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx0,24888,Steinfeld,Poststraße,3,a,54.59937712,9.74328216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx1,24888,Steinfeld,Poststraße,4,,54.59942203,9.74219484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx2,24888,Steinfeld,Poststraße,5,,54.59903965,9.74265974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx3,24888,Steinfeld,Poststraße,5,a,54.59877817,9.74274321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx4,24888,Steinfeld,Poststraße,6,,54.59925847,9.74225606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx5,24888,Steinfeld,Poststraße,7,,54.5985553,9.74289114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx6,24888,Steinfeld,Poststraße,8,,54.59904349,9.74233103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx7,24888,Steinfeld,Süderbraruper Straße,1,,54.60075255,9.74810274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx8,24888,Steinfeld,Süderbraruper Straße,10,,54.6004063,9.75014448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njx9,24888,Steinfeld,Süderbraruper Straße,10,a,54.60080868,9.75018674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxA,24888,Steinfeld,Schwienholter Straße,3,,54.59545081,9.72007308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxB,24888,Steinfeld,Schwienholter Straße,3,a,54.59540441,9.71962816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxC,24888,Steinfeld,Schwienholter Straße,4,,54.59463996,9.7332729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxD,24888,Steinfeld,Schwienholter Straße,4,a,54.59469973,9.73309354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxE,24888,Steinfeld,Schwienholter Straße,5,,54.59559175,9.71932048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxF,24888,Steinfeld,Brebelholzer Straße,1,,54.60112042,9.7476238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxG,24888,Steinfeld,Brebelholzer Straße,10,,54.60216207,9.74777684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxH,24888,Steinfeld,Brebelholzer Straße,11,,54.6020132,9.74641189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxI,24888,Steinfeld,Brebelholzer Straße,12,,54.60219402,9.74841361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxJ,24888,Steinfeld,Brebelholzer Straße,13,,54.60284582,9.74646909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxK,24888,Steinfeld,Brebelholzer Straße,14,,54.6120889,9.741206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxL,24888,Steinfeld,Brebelholzer Straße,16,,54.61461201,9.74290141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxM,24888,Steinfeld,Brebelholzer Straße,17,,54.61120378,9.74108738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxN,24888,Steinfeld,Brebelholzer Straße,18,,54.61419076,9.74094642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxO,24888,Steinfeld,Brebelholzer Straße,19,,54.61525169,9.73980735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxP,24888,Steinfeld,Brebelholzer Straße,2,,54.60117156,9.74794216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxQ,24888,Steinfeld,Brebelholzer Straße,2,a,54.60132458,9.74782728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxR,24888,Steinfeld,Brebelholzer Straße,2,b,54.60145436,9.74850944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxS,24888,Steinfeld,Brebelholzer Straße,20,,54.61549571,9.7400317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxT,24888,Steinfeld,Brebelholzer Straße,21,,54.61641719,9.73965534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxU,24888,Steinfeld,Brebelholzer Straße,23,,54.6168581,9.73952237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxV,24888,Steinfeld,Brebelholzer Straße,23,a,54.61702095,9.73981496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxW,24888,Steinfeld,Brebelholzer Straße,25,,54.61733844,9.74008358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxX,24888,Steinfeld,Brebelholzer Straße,3,,54.60129612,9.74758133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxY,24888,Steinfeld,Brebelholzer Straße,3,a,54.60139025,9.74745184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjxZ,24888,Steinfeld,Brebelholzer Straße,4,,54.60157202,9.74781556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxa,24888,Steinfeld,Süderbraruper Straße,10,b,54.6008426,9.75062544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxb,24888,Steinfeld,Süderbraruper Straße,11,,54.60160711,9.75142851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxc,24888,Steinfeld,Süderbraruper Straße,12,,54.60695104,9.75988264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxd,24888,Steinfeld,Süderbraruper Straße,13,,54.60178161,9.75174707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxe,24888,Steinfeld,Süderbraruper Straße,15,,54.60202027,9.75226055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxf,24888,Steinfeld,Süderbraruper Straße,17,,54.6023603,9.75274205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxg,24888,Steinfeld,Süderbraruper Straße,2,,54.60033584,9.74800048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxh,24888,Steinfeld,Süderbraruper Straße,3,,54.60093105,9.74853589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxi,24888,Steinfeld,Süderbraruper Straße,4,,54.60059922,9.74844055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxj,24888,Steinfeld,Süderbraruper Straße,5,,54.60098061,9.74916799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxk,24888,Steinfeld,Süderbraruper Straße,6,,54.60063876,9.74878153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxl,24888,Steinfeld,Süderbraruper Straße,7,,54.60106475,9.74996127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxm,24888,Steinfeld,Süderbraruper Straße,8,,54.60062932,9.74916184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxn,24888,Steinfeld,Süderbraruper Straße,9,,54.60121281,9.75031861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxo,24888,Steinfeld,Süderbraruper Straße,9,a,54.60146507,9.75101903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxp,24888,Steinfeld,Schinkenstraße,1,,54.61773341,9.72908791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxq,24888,Steinfeld,Schinkenstraße,2,,54.61609113,9.73938542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxr,24888,Steinfeld,Schinkenstraße,4,,54.61650966,9.73424933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxs,24888,Steinfeld,Schinkenstraße,6,,54.61791534,9.73027069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxt,24888,Steinfeld,Schmedeland,2,,54.58668091,9.7327081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxu,24888,Steinfeld,Schmedeland,3,,54.58554019,9.73306476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxv,24888,Steinfeld,Schmedeland,4,,54.58553495,9.73250475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxw,24888,Steinfeld,Schmedeland,5,,54.58465261,9.73311292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxx,24888,Steinfeld,Schukjer,1,,54.61089057,9.75798657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxy,24888,Steinfeld,Schwienholter Straße,1,,54.59403273,9.7269256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njxz,24888,Steinfeld,Schwienholter Straße,2,,54.59156348,9.73690533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy0,24888,Steinfeld,Brebelholzer Straße,5,,54.60167663,9.74753537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy1,24888,Steinfeld,Brebelholzer Straße,6,,54.60179783,9.74782043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy2,24888,Steinfeld,Brebelholzer Straße,7,,54.60188871,9.74750269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy3,24888,Steinfeld,Brebelholzer Straße,8,,54.60194713,9.74781451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy4,24888,Steinfeld,Brebelholzer Straße,9,,54.60210447,9.74746722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy5,24888,Steinfeld,Teichblick,2,,54.59973055,9.7335467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy6,24888,Steinfeld,Teichblick,4,,54.59949297,9.73366495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy7,24888,Steinfeld,Teichblick,6,,54.59928718,9.73373305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy8,24888,Steinfeld,Toft,1,,54.59946496,9.74118175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njy9,24888,Steinfeld,Toft,10,,54.59875045,9.74110004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyA,24888,Steinfeld,Zum Weim,14,,54.60046006,9.73610431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyB,24888,Steinfeld,Zum Weim,15,,54.60028096,9.73560779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyC,24888,Steinfeld,Zum Weim,16,,54.60046397,9.73562951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyD,24888,Steinfeld,Zum Weim,17,,54.60018182,9.73523202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyE,24888,Steinfeld,Zum Weim,18,,54.60046055,9.7351987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyF,24888,Steinfeld,Zum Weim,19,,54.60016332,9.73484623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyG,24888,Steinfeld,Zum Weim,2,,54.60058619,9.73960157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyH,24888,Steinfeld,Zum Weim,2,a,54.60055151,9.73942289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyI,24888,Steinfeld,Zum Weim,2,b,54.60051329,9.73905539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyJ,24888,Steinfeld,Zum Weim,20,,54.60042795,9.73462507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyK,24888,Steinfeld,Zum Weim,21,,54.60015311,9.73451777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyL,24888,Steinfeld,Zum Weim,22,,54.60037645,9.73414522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyM,24888,Steinfeld,Zum Weim,23,,54.60009939,9.73402609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyN,24888,Steinfeld,Zum Weim,24,,54.60034633,9.73384134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyO,24888,Steinfeld,Zum Weim,25,,54.60002885,9.7334552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyP,24888,Steinfeld,Zum Weim,26,,54.60033406,9.73346467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyQ,24888,Steinfeld,Zum Weim,27,,54.59999604,9.73305997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyR,24888,Steinfeld,Zum Weim,28,,54.60011394,9.73255757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyS,24888,Steinfeld,Zum Weim,28,a,54.60042372,9.73278806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyT,24888,Steinfeld,Zum Weim,29,,54.59986714,9.73263994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyU,24888,Steinfeld,Zum Weim,3,,54.60023641,9.73796882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyV,24888,Steinfeld,Zum Weim,30,,54.60021869,9.73195662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyW,24888,Steinfeld,Zum Weim,31,,54.5998543,9.73221639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyX,24888,Steinfeld,Zum Weim,32,,54.60007606,9.73154045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyY,24888,Steinfeld,Zum Weim,33,,54.5997942,9.7318845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NjyZ,24888,Steinfeld,Zum Weim,35,,54.59973747,9.73149226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njya,24888,Steinfeld,Toft,11,,54.59864284,9.74162863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyb,24888,Steinfeld,Toft,12,,54.59864398,9.74130011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyc,24888,Steinfeld,Toft,2,,54.59945053,9.74080433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyd,24888,Steinfeld,Toft,3,,54.59944541,9.74153324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njye,24888,Steinfeld,Toft,4,,54.59926492,9.74090319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyf,24888,Steinfeld,Toft,5,,54.59926558,9.7414653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyg,24888,Steinfeld,Toft,6,,54.59911501,9.74101317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyh,24888,Steinfeld,Toft,7,,54.59910347,9.7412822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyi,24888,Steinfeld,Toft,8,,54.59892891,9.74103436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyj,24888,Steinfeld,Toft,9,,54.5988808,9.74159132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyl,24888,Steinfeld,Trerberg,2,,54.60753337,9.74274826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njym,24888,Steinfeld,Wackerade,1,,54.58975968,9.74655218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyn,24888,Steinfeld,Wackerade,2,,54.58824545,9.74698979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyo,24888,Steinfeld,Wackerade,3,,54.58950323,9.74660458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyp,24888,Steinfeld,Wackerade,4,,54.58788928,9.74678951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyq,24888,Steinfeld,Wackerade,5,,54.58920217,9.74733262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyr,24888,Steinfeld,Wackerade,7,,54.58876283,9.74774097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njys,24888,Steinfeld,Wackerade,7,a,54.58869797,9.74779959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyt,24888,Steinfeld,Wackerade,9,,54.58836003,9.74754376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyu,24888,Steinfeld,Zum Weim,1,,54.60025493,9.73962312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyv,24888,Steinfeld,Zum Weim,1,a,54.60021118,9.73915059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyw,24888,Steinfeld,Zum Weim,10,,54.60048353,9.73725039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyx,24888,Steinfeld,Zum Weim,11,,54.60020564,9.73627714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyy,24888,Steinfeld,Zum Weim,12,,54.60047373,9.73652455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njyz,24888,Steinfeld,Zum Weim,13,,54.60020052,9.73596477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz0,24888,Steinfeld,Zum Weim,37,,54.59887056,9.72972345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz1,24888,Steinfeld,Zum Weim,4,,54.60052223,9.73870893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz2,24888,Steinfeld,Zum Weim,5,,54.60022197,9.73732456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz3,24888,Steinfeld,Zum Weim,6,,54.60048954,9.73832599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz4,24888,Steinfeld,Zum Weim,7,,54.60020587,9.73688487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz5,24888,Steinfeld,Zum Weim,8,,54.60049449,9.73779008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Njz6,24888,Steinfeld,Zum Weim,9,,54.60021218,9.73663479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkOw,24888,Steinfeld,Schmedeland,1,,54.58425169,9.73319905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00050D22,24888,Steinfeld,Muschau,26,,54.62001201,9.70503609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052KKS,24888,Steinfeld,Muschau,28,,54.62000038,9.70545893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058Ssj,24888,Steinfeld,Muschau,8,,54.61837472,9.70413097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FGqw,24888,Steinfeld,Muschau,30,,54.6200047,9.70593387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOsI,24888,Steinfeld,Kattholm,19,,54.5966437,9.74628103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOsS,24888,Steinfeld,Kattholm,16,,54.59657518,9.7467675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOsX,24888,Steinfeld,Kattholm,15,,54.59609635,9.74640156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOt9,24888,Steinfeld,Kattholm,17,,54.59632145,9.74640499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOtX,24888,Steinfeld,Kattholm,8,,54.59618215,9.74679566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOte,24888,Steinfeld,Kattholm,14,,54.59660275,9.74706325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOtn,24888,Steinfeld,Kattholm,12,,54.59644421,9.74714091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SOtv,24888,Steinfeld,Kattholm,10,,54.59640702,9.74677382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hbQ7,24888,Steinfeld,Muschau,24,,54.61985104,9.70450243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005nwGk,24888,Steinfeld,Muschau,7,a,54.61894704,9.70335308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rQI7,24888,Steinfeld,Trerberg,1,,54.6065841,9.74260909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006S9HT,24888,Steinfeld,Dorfstraße,17,,54.60033293,9.74045692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007THvm,24888,Steinfeld,Am Südermoor,26,,54.59558713,9.74518753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cFzZ,24888,Steinfeld,Krock,1,b,54.59328284,9.74158518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cTCG,24888,Steinfeld,Wackerade,2,a,54.58830148,9.74702924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000807KB,24888,Steinfeld,Am Südermoor,24,,54.59556917,9.74492314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093A,24888,Steinfeld,Am Südermoor,18,,54.59577927,9.74433768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093E,24888,Steinfeld,Am Südermoor,16,,54.59604338,9.74437629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093I,24888,Steinfeld,Am Südermoor,14,,54.59634741,9.74431947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093M,24888,Steinfeld,Am Südermoor,12,,54.59642478,9.74441542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093Q,24888,Steinfeld,Am Südermoor,10,,54.59644439,9.74457185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093U,24888,Steinfeld,Am Südermoor,8,,54.5964643,9.74487134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093Y,24888,Steinfeld,Am Südermoor,6,,54.59660019,9.74512025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093s,24888,Steinfeld,Am Südermoor,22,,54.59554759,9.74460788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008093w,24888,Steinfeld,Am Südermoor,20,,54.59560511,9.74441454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080942,24888,Steinfeld,Am Südermoor,4,,54.59646933,9.7454499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080946,24888,Steinfeld,Am Südermoor,2,,54.59647538,9.74578288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00080949,24888,Steinfeld,Am Südermoor,1,,54.59638238,9.74576051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094C,24888,Steinfeld,Am Südermoor,15,,54.59574074,9.74545998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094G,24888,Steinfeld,Am Südermoor,17,,54.5958309,9.74575303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094K,24888,Steinfeld,Am Südermoor,28,,54.59564387,9.74549497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094P,24888,Steinfeld,Am Südermoor,30,,54.59564982,9.74582754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094e,24888,Steinfeld,Am Südermoor,3,,54.59636994,9.74534664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094i,24888,Steinfeld,Am Südermoor,5,,54.59636403,9.74502001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094m,24888,Steinfeld,Am Südermoor,7,,54.5963584,9.7447319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094q,24888,Steinfeld,Am Südermoor,9,,54.59589807,9.74465432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094u,24888,Steinfeld,Am Südermoor,11,,54.595732,9.74497463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008094y,24888,Steinfeld,Am Südermoor,13,,54.59573639,9.74521622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00085VKp,24888,Steinfeld,Toft,1,a,54.59936054,9.74122016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fS5Q,24888,Steinfeld,Am Südermoor,17,a,54.59583224,9.745824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008roWE,24888,Steinfeld,Raiffeisenstraße,2,a,54.60092677,9.74370153

@@ -1,0 +1,518 @@
+# Amtliche Adressen für die Postleitzahl 24405
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbGY,24405,Böelnorderfeld,Böelnorderfeld,1,,54.6609396,9.72175046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbGZ,24405,Böelnorderfeld,Böelnorderfeld,2,,54.6619646,9.71707961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbHt,24405,Böelnorderfeld,Borrishaag,1,,54.66265893,9.70034462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKm,24405,Böelnorderfeld,Thiesholzer Weg,2,,54.66247584,9.69302737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKp,24405,Böelnorderfeld,Thiesholzer Weg,7,,54.65975041,9.6909644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKq,24405,Böelnorderfeld,Thiesholzer Weg,9,,54.66107477,9.6912852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKs,24405,Böelnorderfeld,Stoltoft,1,,54.66304534,9.70530691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKt,24405,Böelnorderfeld,Stoltoft,3,,54.66208303,9.70638995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NbKu,24405,Böelnorderfeld,Stoltoft,4,,54.66434701,9.70420432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2A,24405,Böelnorderfeld,Am Waschdiek,2,a,54.67234914,9.70605295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2B,24405,Böelnorderfeld,Am Waschdiek,2,b,54.6728225,9.70547891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2C,24405,Böelnorderfeld,Am Waschdiek,3,,54.67224267,9.70553872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2D,24405,Böelnorderfeld,Am Waschdiek,4,,54.67319878,9.70527044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2E,24405,Böelnorderfeld,Am Waschdiek,5,,54.67256776,9.70518667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2F,24405,Böelnorderfeld,Am Waschdiek,5,a,54.67276171,9.70482825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2G,24405,Böelnorderfeld,Am Waschdiek,6,,54.673336,9.70509737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2H,24405,Böelnorderfeld,Am Waschdiek,7,,54.67303741,9.70474603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2I,24405,Böelnorderfeld,Am Waschdiek,8,,54.67360653,9.70472912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2J,24405,Böelnorderfeld,Am Waschdiek,8,a,54.67373344,9.70452203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2K,24405,Böelnorderfeld,Am Waschdiek,9,,54.67328463,9.70472308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2L,24405,Böelnorderfeld,An der Hochschule,1,,54.67644854,9.72012632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2M,24405,Böelnorderfeld,An der Hochschule,10,,54.67702326,9.71850903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2N,24405,Böelnorderfeld,An der Hochschule,11,,54.67678194,9.71827581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2O,24405,Böelnorderfeld,An der Hochschule,12,,54.67701623,9.71824861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2P,24405,Böelnorderfeld,An der Hochschule,2,,54.67705969,9.71986953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2Q,24405,Böelnorderfeld,An der Hochschule,3,,54.67661412,9.72002446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2R,24405,Böelnorderfeld,An der Hochschule,4,,54.67707377,9.71944457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2S,24405,Böelnorderfeld,An der Hochschule,5,,54.67681062,9.71986703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2T,24405,Böelnorderfeld,An der Hochschule,6,,54.67707539,9.71915274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2U,24405,Böelnorderfeld,An der Hochschule,7,,54.67682502,9.71895305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2V,24405,Böelnorderfeld,An der Hochschule,8,,54.67702425,9.71886718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2W,24405,Böelnorderfeld,An der Hochschule,9,,54.67682257,9.7186116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2X,24405,Böelnorderfeld,Appelberg,1,,54.67052232,9.67955181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2Y,24405,Böelnorderfeld,Appelberg,10,,54.67243766,9.67329033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2Z,24405,Böelnorderfeld,Appelberg,2,,54.67064564,9.68398015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2q,24405,Böelnorderfeld,Am Waschdiek,1,,54.67185231,9.705727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2r,24405,Böelnorderfeld,Am Waschdiek,10,,54.67398668,9.70423969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2s,24405,Böelnorderfeld,Am Waschdiek,11,,54.67346233,9.70438807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2t,24405,Böelnorderfeld,Am Waschdiek,12,,54.674064,9.70380759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2u,24405,Böelnorderfeld,Am Waschdiek,13,,54.67376496,9.70366271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2v,24405,Böelnorderfeld,Am Waschdiek,14,,54.67396408,9.70350962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2w,24405,Böelnorderfeld,Am Waschdiek,15,,54.67378386,9.70308588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2x,24405,Böelnorderfeld,Am Waschdiek,17,,54.67414214,9.70217957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2y,24405,Böelnorderfeld,Am Waschdiek,19,,54.67439988,9.70133077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2z,24405,Böelnorderfeld,Am Waschdiek,2,,54.67244269,9.70575274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng30,24405,Böelnorderfeld,Appelberg,3,,54.67086498,9.67724311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng31,24405,Böelnorderfeld,Appelberg,4,,54.67081089,9.68329591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng32,24405,Böelnorderfeld,Appelberg,6,,54.67072301,9.68035715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng33,24405,Böelnorderfeld,Appelberg,8,,54.67270903,9.67388212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng34,24405,Böelnorderfeld,Appelberger Straße,1,,54.67491567,9.69009013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng35,24405,Böelnorderfeld,Appelberger Straße,10,,54.66611052,9.68636516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng36,24405,Böelnorderfeld,Appelberger Straße,2,,54.67520058,9.68991855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng37,24405,Böelnorderfeld,Appelberger Straße,3,,54.67222873,9.68739537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng38,24405,Böelnorderfeld,Appelberger Straße,4,,54.67510865,9.68943046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng39,24405,Böelnorderfeld,Appelberger Straße,4,a,54.67518311,9.68911455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3A,24405,Böelnorderfeld,Bachstraße,5,,54.68140466,9.72811281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3B,24405,Böelnorderfeld,Bachstraße,6,,54.68129,9.72831475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3C,24405,Böelnorderfeld,Bachstraße,8,,54.68141779,9.72853145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3D,24405,Böelnorderfeld,Baustrup,1,,54.68591288,9.70429284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3E,24405,Böelnorderfeld,Baustrup,2,,54.68580293,9.69990972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3F,24405,Böelnorderfeld,Baustrup,3,,54.68588742,9.69961142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3G,24405,Böelnorderfeld,Baustrup,4,,54.68636184,9.69751972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3H,24405,Böelnorderfeld,Baustrup,5,,54.68464174,9.68751125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3I,24405,Böelnorderfeld,Brombeerstraße,1,,54.6807701,9.7278315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3J,24405,Böelnorderfeld,Brombeerstraße,10,,54.67920213,9.72938203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3K,24405,Böelnorderfeld,Brombeerstraße,11,,54.67997229,9.72954982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3L,24405,Böelnorderfeld,Brombeerstraße,12,,54.6782615,9.73561675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3M,24405,Böelnorderfeld,Brombeerstraße,13,,54.67975777,9.72966061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3N,24405,Böelnorderfeld,Brombeerstraße,14,,54.6788081,9.73841209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3O,24405,Böelnorderfeld,Brombeerstraße,14,a,54.67899315,9.73880295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3P,24405,Böelnorderfeld,Brombeerstraße,15,,54.67957694,9.72968392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3Q,24405,Böelnorderfeld,Brombeerstraße,16,,54.67940306,9.73549613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3R,24405,Böelnorderfeld,Brombeerstraße,17,,54.67933496,9.72967387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3S,24405,Böelnorderfeld,Brombeerstraße,18,,54.6807591,9.73697604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3T,24405,Böelnorderfeld,Brombeerstraße,19,,54.67893632,9.72993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3U,24405,Böelnorderfeld,Brombeerstraße,2,,54.68091126,9.72697102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3V,24405,Böelnorderfeld,Brombeerstraße,20,,54.68176293,9.73986221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3W,24405,Böelnorderfeld,Brombeerstraße,21,,54.67877614,9.73026631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3X,24405,Böelnorderfeld,Brombeerstraße,22,,54.68318253,9.74096107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3Y,24405,Böelnorderfeld,Brombeerstraße,23,,54.67859188,9.73060756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3Z,24405,Böelnorderfeld,Brombeerstraße,24,,54.68421487,9.74046551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3a,24405,Böelnorderfeld,Appelberger Straße,4,b,54.67504603,9.68843699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3b,24405,Böelnorderfeld,Appelberger Straße,6,,54.67507881,9.68798177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3c,24405,Böelnorderfeld,Appelberger Straße,8,,54.67502579,9.6873853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3d,24405,Böelnorderfeld,Babbestraße,1,,54.67161313,9.70780079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3e,24405,Böelnorderfeld,Babbestraße,11,,54.67096633,9.71004795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3f,24405,Böelnorderfeld,Babbestraße,17,,54.67064255,9.71210526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3h,24405,Böelnorderfeld,Babbestraße,19,,54.67044557,9.71239802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3j,24405,Böelnorderfeld,Babbestraße,21,,54.66997485,9.71232017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3k,24405,Böelnorderfeld,Babbestraße,23,,54.66892478,9.71192492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3l,24405,Böelnorderfeld,Babbestraße,25,,54.66675631,9.71293757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3m,24405,Böelnorderfeld,Babbestraße,27,,54.66521793,9.71490564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3n,24405,Böelnorderfeld,Babbestraße,3,,54.67139533,9.70807163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3o,24405,Böelnorderfeld,Babbestraße,5,,54.67125644,9.7084407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3p,24405,Böelnorderfeld,Babbestraße,9,,54.67118452,9.70898559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3q,24405,Böelnorderfeld,Bachstraße,1,,54.68116526,9.7276259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3r,24405,Böelnorderfeld,Bachstraße,10,,54.68158456,9.72843649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3s,24405,Böelnorderfeld,Bachstraße,12,,54.68168718,9.72824784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3t,24405,Böelnorderfeld,Bachstraße,14,,54.68178436,9.72806158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3u,24405,Böelnorderfeld,Bachstraße,16,,54.68187776,9.72788016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3v,24405,Böelnorderfeld,Bachstraße,18,,54.68197987,9.72768103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3w,24405,Böelnorderfeld,Bachstraße,2,,54.6810808,9.72788439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3x,24405,Böelnorderfeld,Bachstraße,20,,54.68210252,9.72748668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3y,24405,Böelnorderfeld,Bachstraße,3,,54.6812569,9.72780988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng3z,24405,Böelnorderfeld,Bachstraße,4,,54.68116856,9.72806433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng40,24405,Böelnorderfeld,Brombeerstraße,25,,54.67840847,9.73094112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng41,24405,Böelnorderfeld,Brombeerstraße,27,,54.67822083,9.73137073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng42,24405,Böelnorderfeld,Brombeerstraße,29,,54.67975764,9.73540453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng43,24405,Böelnorderfeld,Brombeerstraße,3,,54.68067034,9.72819983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng44,24405,Böelnorderfeld,Brombeerstraße,3,a,54.68048549,9.72848045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng45,24405,Böelnorderfeld,Brombeerstraße,3,b,54.68046652,9.72886165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng46,24405,Böelnorderfeld,Brombeerstraße,3,c,54.68078576,9.72869871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng47,24405,Böelnorderfeld,Brombeerstraße,31,,54.68423193,9.73994969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng48,24405,Böelnorderfeld,Brombeerstraße,4,,54.68059753,9.72765462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng49,24405,Böelnorderfeld,Brombeerstraße,5,,54.68033664,9.72907782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4A,24405,Böelnorderfeld,Hauptstraße,11,,54.6760379,9.71971172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4B,24405,Böelnorderfeld,Hauptstraße,12,,54.67622447,9.71889005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4C,24405,Böelnorderfeld,Hauptstraße,13,,54.67602201,9.71941179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4D,24405,Böelnorderfeld,Hauptstraße,14,,54.67621897,9.71860936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4E,24405,Böelnorderfeld,Hauptstraße,15,,54.67599404,9.71916136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4F,24405,Böelnorderfeld,Hauptstraße,16,,54.67621155,9.71831162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4G,24405,Böelnorderfeld,Hauptstraße,17,,54.67599064,9.71877381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4H,24405,Böelnorderfeld,Hauptstraße,18,,54.67611812,9.71807324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4I,24405,Böelnorderfeld,Hauptstraße,19,,54.67599849,9.71833914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4J,24405,Böelnorderfeld,Hauptstraße,2,,54.67668862,9.72107138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4K,24405,Böelnorderfeld,Hauptstraße,20,,54.67624423,9.71749223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4L,24405,Böelnorderfeld,Hauptstraße,21,,54.67600111,9.71794025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4M,24405,Böelnorderfeld,Hauptstraße,22,,54.67606367,9.71690545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4N,24405,Böelnorderfeld,Hauptstraße,23,,54.67597685,9.71755977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4O,24405,Böelnorderfeld,Hauptstraße,24,,54.67615294,9.71597182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4P,24405,Böelnorderfeld,Hauptstraße,24,a,54.67627427,9.71531995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4Q,24405,Böelnorderfeld,Hauptstraße,25,,54.67595314,9.71733779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4R,24405,Böelnorderfeld,Hauptstraße,26,,54.67577568,9.71508985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4S,24405,Böelnorderfeld,Hauptstraße,28,,54.67570619,9.71473733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4T,24405,Böelnorderfeld,Hauptstraße,29,,54.67580235,9.71644777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4U,24405,Böelnorderfeld,Hauptstraße,30,,54.67561333,9.71435594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4V,24405,Böelnorderfeld,Hauptstraße,31,,54.67556884,9.71530164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4W,24405,Böelnorderfeld,Hauptstraße,32,,54.6756328,9.71380589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4X,24405,Böelnorderfeld,Hauptstraße,33,,54.67544932,9.71504054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4Y,24405,Böelnorderfeld,Hauptstraße,33,a,54.67544149,9.71452705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4Z,24405,Böelnorderfeld,Hauptstraße,34,,54.67540311,9.71324297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4a,24405,Böelnorderfeld,Brombeerstraße,6,,54.6802548,9.72824113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4b,24405,Böelnorderfeld,Brombeerstraße,7,,54.68033246,9.72958592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4c,24405,Böelnorderfeld,Brombeerstraße,8,,54.67948886,9.72920889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4d,24405,Böelnorderfeld,Brombeerstraße,9,,54.68028811,9.73001067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4e,24405,Böelnorderfeld,Compagnie,1,,54.67119156,9.69776314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4f,24405,Böelnorderfeld,Compagnie,2,,54.67189094,9.69740156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4g,24405,Böelnorderfeld,Compagnie,3,,54.67349218,9.69702748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4h,24405,Böelnorderfeld,Compagnie,4,,54.67398803,9.69711567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4i,24405,Böelnorderfeld,Compagnie,5,,54.67435687,9.69710445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4j,24405,Böelnorderfeld,Compagnie,8,,54.67538963,9.69767885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4k,24405,Böelnorderfeld,Eslingswatt,1,,54.68537362,9.6832386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4l,24405,Böelnorderfeld,Eslingswatt,2,,54.6858665,9.68353851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4m,24405,Böelnorderfeld,Eslingswatt,3,,54.68830543,9.68685368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4n,24405,Böelnorderfeld,Flarupstraße,10,,54.66607767,9.72701783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4o,24405,Böelnorderfeld,Flarupstraße,2,,54.66690744,9.72040153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4p,24405,Böelnorderfeld,Flarupstraße,3,,54.66642833,9.72730887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4q,24405,Böelnorderfeld,Flarupstraße,4,,54.66658564,9.72187545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4r,24405,Böelnorderfeld,Flarupstraße,5,,54.66645886,9.72926338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4s,24405,Böelnorderfeld,Flarupstraße,6,,54.66560575,9.72074383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4t,24405,Böelnorderfeld,Flarupstraße,8,,54.66632422,9.72529512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4u,24405,Böelnorderfeld,Grüner Weg,1,,54.67889144,9.71702682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4v,24405,Böelnorderfeld,Grüner Weg,2,,54.67675918,9.71801814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4w,24405,Böelnorderfeld,Grüner Weg,3,,54.67698232,9.71747203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4x,24405,Böelnorderfeld,Grüner Weg,5,,54.67704858,9.7179274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4y,24405,Böelnorderfeld,Hauptstraße,1,,54.67602675,9.72231487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng4z,24405,Böelnorderfeld,Hauptstraße,10,,54.67617172,9.7191308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng50,24405,Böelnorderfeld,Hauptstraße,35,,54.67541298,9.71429447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng51,24405,Böelnorderfeld,Hauptstraße,36,,54.67526793,9.71262876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng52,24405,Böelnorderfeld,Hauptstraße,37,,54.67534891,9.71401883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng53,24405,Böelnorderfeld,Hauptstraße,38,,54.67507473,9.71228671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng54,24405,Böelnorderfeld,Hauptstraße,39,,54.67526099,9.7136854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng55,24405,Böelnorderfeld,Hauptstraße,40,,54.67521414,9.71182367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng56,24405,Böelnorderfeld,Hauptstraße,41,,54.67519419,9.71339345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng57,24405,Böelnorderfeld,Hauptstraße,42,,54.67492544,9.71195198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng58,24405,Böelnorderfeld,Hauptstraße,42,a,54.67499799,9.71189666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng59,24405,Böelnorderfeld,Hauptstraße,43,,54.67506586,9.7129144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5A,24405,Böelnorderfeld,Hauptstraße,7,,54.67613271,9.72011989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5B,24405,Böelnorderfeld,Hauptstraße,70,,54.67092252,9.70507462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5C,24405,Böelnorderfeld,Hauptstraße,71,,54.6703884,9.70534666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5D,24405,Böelnorderfeld,Hauptstraße,72,,54.67059728,9.70472226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5E,24405,Böelnorderfeld,Hauptstraße,73,,54.67025354,9.70508736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5F,24405,Böelnorderfeld,Hauptstraße,75,,54.66985351,9.70464468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5G,24405,Böelnorderfeld,Hauptstraße,8,,54.67619195,9.71952448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5H,24405,Böelnorderfeld,Hauptstraße,9,,54.67609131,9.71996479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5I,24405,Böelnorderfeld,Kälberhagen,1,,54.67920372,9.7009381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5J,24405,Böelnorderfeld,Kälberhagen,10,,54.6800098,9.70214577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5K,24405,Böelnorderfeld,Kälberhagen,12,,54.68024816,9.70218194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5L,24405,Böelnorderfeld,Kälberhagen,2,,54.67887078,9.70159315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5M,24405,Böelnorderfeld,Kälberhagen,3,,54.67939632,9.70102817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5N,24405,Böelnorderfeld,Kälberhagen,4,,54.67902761,9.70158154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5O,24405,Böelnorderfeld,Kälberhagen,5,,54.67998663,9.7019217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5P,24405,Böelnorderfeld,Kälberhagen,6,,54.67965824,9.70217082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5Q,24405,Böelnorderfeld,Kälberhagen,8,,54.67971722,9.70254297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5R,24405,Böelnorderfeld,Kiesperdiek,1,,54.6761535,9.67283316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5S,24405,Böelnorderfeld,Kiesperdiek,2,,54.6757675,9.66934115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5T,24405,Böelnorderfeld,Kiesperdiek,3,,54.67587156,9.66724513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5U,24405,Böelnorderfeld,Knopper Weg,1,,54.67306818,9.70942744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5V,24405,Böelnorderfeld,Knopper Weg,10,,54.67260816,9.70833621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5W,24405,Böelnorderfeld,Knopper Weg,11,,54.67209214,9.70792367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5X,24405,Böelnorderfeld,Knopper Weg,12,,54.67246227,9.70790291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5Y,24405,Böelnorderfeld,Knopper Weg,13,,54.67191018,9.70770817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5Z,24405,Böelnorderfeld,Knopper Weg,14,,54.6722039,9.70757234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5a,24405,Böelnorderfeld,Hauptstraße,44,,54.67476231,9.71160196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5b,24405,Böelnorderfeld,Hauptstraße,45,,54.67494185,9.71255014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5c,24405,Böelnorderfeld,Hauptstraße,46,,54.67470741,9.71129021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5d,24405,Böelnorderfeld,Hauptstraße,47,,54.67475325,9.7121849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5e,24405,Böelnorderfeld,Hauptstraße,48,,54.67447903,9.71088652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5f,24405,Böelnorderfeld,Hauptstraße,49,,54.67459491,9.71183091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5g,24405,Böelnorderfeld,Hauptstraße,51,,54.67307586,9.70809671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5h,24405,Böelnorderfeld,Hauptstraße,53,,54.67287728,9.70773442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5i,24405,Böelnorderfeld,Hauptstraße,54,,54.67404697,9.70937962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5j,24405,Böelnorderfeld,Hauptstraße,55,,54.67260512,9.70748604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5k,24405,Böelnorderfeld,Hauptstraße,56,,54.67399048,9.70908566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5l,24405,Böelnorderfeld,Hauptstraße,57,,54.67236516,9.70717686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5m,24405,Böelnorderfeld,Hauptstraße,58,,54.67383683,9.70854874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5n,24405,Böelnorderfeld,Hauptstraße,59,,54.67211574,9.70685067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5o,24405,Böelnorderfeld,Hauptstraße,6,,54.67624446,9.71981886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5p,24405,Böelnorderfeld,Hauptstraße,60,,54.67343769,9.70790262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5q,24405,Böelnorderfeld,Hauptstraße,60,a,54.67355991,9.7080384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5r,24405,Böelnorderfeld,Hauptstraße,61,,54.67175407,9.70641874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5s,24405,Böelnorderfeld,Hauptstraße,62,,54.67330173,9.70752048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5t,24405,Böelnorderfeld,Hauptstraße,63,,54.67148378,9.70612248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5u,24405,Böelnorderfeld,Hauptstraße,64,,54.67254347,9.70701625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5v,24405,Böelnorderfeld,Hauptstraße,65,,54.67120603,9.70594157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5w,24405,Böelnorderfeld,Hauptstraße,66,,54.67128848,9.70531686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5x,24405,Böelnorderfeld,Hauptstraße,67,,54.67099883,9.70577461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5y,24405,Böelnorderfeld,Hauptstraße,68,,54.67103236,9.70525922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng5z,24405,Böelnorderfeld,Hauptstraße,69,,54.67079864,9.70560564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng60,24405,Böelnorderfeld,Knopper Weg,16,,54.67197797,9.70733144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng61,24405,Böelnorderfeld,Knopper Weg,2,,54.67352679,9.70891825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng62,24405,Böelnorderfeld,Knopper Weg,3,,54.67284301,9.70907465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng63,24405,Böelnorderfeld,Knopper Weg,4,,54.67321189,9.70906048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng64,24405,Böelnorderfeld,Knopper Weg,5,,54.67271725,9.70890359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng65,24405,Böelnorderfeld,Knopper Weg,6,,54.67306582,9.7088808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng66,24405,Böelnorderfeld,Knopper Weg,7,,54.67250324,9.7086577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng67,24405,Böelnorderfeld,Knopper Weg,8,,54.67279809,9.70856147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng68,24405,Böelnorderfeld,Knopper Weg,9,,54.67231446,9.70834006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng69,24405,Böelnorderfeld,Köhnholz-Ost,1,,54.66441683,9.66800609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6A,24405,Böelnorderfeld,Krämersteen,8,,54.67548135,9.69434211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6B,24405,Böelnorderfeld,Krämersteen,9,,54.67504528,9.69441551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6C,24405,Böelnorderfeld,Krämersteen,9,a,54.67658231,9.6932932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6D,24405,Böelnorderfeld,Krämersteen,9,b,54.67585971,9.69358031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6E,24405,Böelnorderfeld,Langdeel,1,,54.6912012,9.73275374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6F,24405,Böelnorderfeld,Langdeel,2,,54.69191318,9.73242981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6G,24405,Böelnorderfeld,Langdeel,3,,54.69609054,9.73365549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6H,24405,Böelnorderfeld,Mohrkirchen,1,,54.68302005,9.72426614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6I,24405,Böelnorderfeld,Mohrkirchen,2,,54.68396924,9.72127805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6J,24405,Böelnorderfeld,Mohrkirchen,4,,54.68398286,9.72047582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6K,24405,Böelnorderfeld,Mohrkirchteich,1,,54.69588781,9.71198547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6M,24405,Böelnorderfeld,Mühlenstraße,1,,54.67528999,9.72295849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6N,24405,Böelnorderfeld,Mühlenstraße,10,,54.67458637,9.72225105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6O,24405,Böelnorderfeld,Mühlenstraße,11,,54.66844157,9.72090813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6P,24405,Böelnorderfeld,Mühlenstraße,12,,54.67313942,9.72165594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6Q,24405,Böelnorderfeld,Mühlenstraße,13,,54.66805359,9.72076281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6R,24405,Böelnorderfeld,Mühlenstraße,14,,54.67269123,9.7217946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6S,24405,Böelnorderfeld,Mühlenstraße,15,,54.66701494,9.72009418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6T,24405,Böelnorderfeld,Mühlenstraße,16,,54.67245136,9.72179655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6U,24405,Böelnorderfeld,Mühlenstraße,17,,54.66692264,9.71987119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6V,24405,Böelnorderfeld,Mühlenstraße,18,,54.67182887,9.72168752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6W,24405,Böelnorderfeld,Mühlenstraße,19,,54.66676324,9.71956017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6X,24405,Böelnorderfeld,Mühlenstraße,2,,54.67587408,9.72298693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6Y,24405,Böelnorderfeld,Mühlenstraße,2,a,54.67596775,9.72271351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6Z,24405,Böelnorderfeld,Mühlenstraße,20,,54.66811726,9.72040231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6a,24405,Böelnorderfeld,Köhnholz-Ost,1,a,54.66427042,9.66790814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6b,24405,Böelnorderfeld,Köhnholz-Ost,2,,54.66463916,9.66589731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6c,24405,Böelnorderfeld,Köhnholz-Ost,3,,54.66434616,9.66464838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6d,24405,Böelnorderfeld,Köhnholz-Ost,4,,54.66597275,9.66571989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6e,24405,Böelnorderfeld,Köhnholz-Ost,6,,54.66472369,9.66430564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6f,24405,Böelnorderfeld,Krämersteen,1,,54.67543429,9.69829771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6g,24405,Böelnorderfeld,Krämersteen,10,,54.67714344,9.69312006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6h,24405,Böelnorderfeld,Krämersteen,11,,54.67769291,9.68845242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6i,24405,Böelnorderfeld,Krämersteen,11,a,54.67773349,9.6881539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6j,24405,Böelnorderfeld,Krämersteen,12,,54.67727401,9.6926054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6k,24405,Böelnorderfeld,Krämersteen,13,,54.6778744,9.68777834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6l,24405,Böelnorderfeld,Krämersteen,14,,54.6776135,9.69126875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6m,24405,Böelnorderfeld,Krämersteen,15,,54.67792494,9.6874932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6n,24405,Böelnorderfeld,Krämersteen,16,,54.67764521,9.69074329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6o,24405,Böelnorderfeld,Krämersteen,16,a,54.67779945,9.6907614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6p,24405,Böelnorderfeld,Krämersteen,17,,54.67905694,9.68640207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6q,24405,Böelnorderfeld,Krämersteen,18,,54.67874349,9.6869019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6r,24405,Böelnorderfeld,Krämersteen,19,,54.67940903,9.68642078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6s,24405,Böelnorderfeld,Krämersteen,2,,54.67569896,9.69942664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6t,24405,Böelnorderfeld,Krämersteen,20,,54.68032584,9.68725586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6u,24405,Böelnorderfeld,Krämersteen,20,a,54.68044378,9.68726695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6v,24405,Böelnorderfeld,Krämersteen,3,,54.67552479,9.69605011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6w,24405,Böelnorderfeld,Krämersteen,4,,54.67570655,9.69580442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6x,24405,Böelnorderfeld,Krämersteen,5,,54.67515898,9.69509816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6y,24405,Böelnorderfeld,Krämersteen,6,,54.6755124,9.69527837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng6z,24405,Böelnorderfeld,Krämersteen,7,,54.67511289,9.69489374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng70,24405,Böelnorderfeld,Mühlenstraße,21,,54.66463937,9.71867935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng71,24405,Böelnorderfeld,Mühlenstraße,22,,54.66795019,9.72011987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng72,24405,Böelnorderfeld,Mühlenstraße,22,a,54.66716475,9.71942755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng73,24405,Böelnorderfeld,Mühlenstraße,23,,54.6642584,9.71858695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng74,24405,Böelnorderfeld,Mühlenstraße,24,,54.66693182,9.71934738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng75,24405,Böelnorderfeld,Mühlenstraße,26,,54.66465657,9.71812414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng76,24405,Böelnorderfeld,Mühlenstraße,3,,54.67492158,9.72277552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng77,24405,Böelnorderfeld,Mühlenstraße,5,,54.67427602,9.72400063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng78,24405,Böelnorderfeld,Mühlenstraße,7,,54.67203044,9.72215239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng79,24405,Böelnorderfeld,Mühlenstraße,8,,54.67486546,9.7224104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7A,24405,Böelnorderfeld,Quellenthal,3,,54.67411056,9.71161153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7B,24405,Böelnorderfeld,Quellenthal,4,,54.67397875,9.71086662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7C,24405,Böelnorderfeld,Quellenthal,5,,54.67393131,9.71173308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7D,24405,Böelnorderfeld,Quellenthal,6,,54.67385747,9.7104707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7E,24405,Böelnorderfeld,Quellenthal,7,,54.6737216,9.71193515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7F,24405,Böelnorderfeld,Quellenthal,8,,54.67381271,9.7101312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7G,24405,Böelnorderfeld,Quellenthal,9,,54.67381739,9.71144097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7H,24405,Böelnorderfeld,Quellenthal,9,a,54.6735584,9.71161197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7I,24405,Böelnorderfeld,Schmiedestraße,1,,54.68255351,9.72629946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7J,24405,Böelnorderfeld,Schmiedestraße,11,,54.6849667,9.73949471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7K,24405,Böelnorderfeld,Schmiedestraße,13,,54.68592772,9.74079274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7L,24405,Böelnorderfeld,Schmiedestraße,2,,54.68208458,9.73285632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7M,24405,Böelnorderfeld,Schmiedestraße,3,,54.68340276,9.72901085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7N,24405,Böelnorderfeld,Schmiedestraße,4,,54.6847171,9.73921264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7O,24405,Böelnorderfeld,Schmiedestraße,5,,54.68356927,9.729682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7P,24405,Böelnorderfeld,Schmiedestraße,7,,54.68485494,9.73817029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7Q,24405,Böelnorderfeld,Schmiedestraße,9,,54.68496079,9.73897721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7R,24405,Böelnorderfeld,Schmiedestraße,9,a,54.68496151,9.73926408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7T,24405,Böelnorderfeld,Schrixdorfstraße,10,,54.66511348,9.69548982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7U,24405,Böelnorderfeld,Schrixdorfstraße,12,,54.66563974,9.69183152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7V,24405,Böelnorderfeld,Schrixdorfstraße,14,,54.6657201,9.6897178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7W,24405,Böelnorderfeld,Schrixdorfstraße,16,,54.66548869,9.68857645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7X,24405,Böelnorderfeld,Schrixdorfstraße,16,a,54.66565679,9.68676054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7Y,24405,Böelnorderfeld,Schrixdorfstraße,18,,54.66564257,9.68503997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7Z,24405,Böelnorderfeld,Schrixdorfstraße,2,,54.66937678,9.70195562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7a,24405,Böelnorderfeld,Mühlenstraße,9,,54.67002887,9.72179628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7b,24405,Böelnorderfeld,Norwegen,1,,54.68304309,9.68339171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7c,24405,Böelnorderfeld,Norwegen,2,,54.68282003,9.68209382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7d,24405,Böelnorderfeld,Paradies,1,,54.66911458,9.70368315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7e,24405,Böelnorderfeld,Paradies,2,,54.6667769,9.70287258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7f,24405,Böelnorderfeld,Paradies,2,a,54.66678966,9.70358865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7g,24405,Böelnorderfeld,Paradies,3,,54.66716403,9.70410785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7h,24405,Böelnorderfeld,Paradies,5,,54.66630847,9.70431561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7i,24405,Böelnorderfeld,Paradies,7,,54.66611865,9.7043705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7j,24405,Böelnorderfeld,Pattburg,1,,54.69329949,9.73162901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7k,24405,Böelnorderfeld,Pattburg,2,,54.69417667,9.7316719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7l,24405,Böelnorderfeld,Pattburg,3,,54.69342498,9.71787692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7m,24405,Böelnorderfeld,Pattburg,4,,54.69355003,9.72900948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7n,24405,Böelnorderfeld,Pattburg,6,,54.693763,9.72338147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7o,24405,Böelnorderfeld,Quellenthal,1,,54.67435249,9.71143682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7p,24405,Böelnorderfeld,Quellenthal,10,,54.67369555,9.70971785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7q,24405,Böelnorderfeld,Quellenthal,11,,54.67373153,9.71095728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7r,24405,Böelnorderfeld,Quellenthal,11,a,54.673486,9.71106832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7s,24405,Böelnorderfeld,Quellenthal,12,,54.67369421,9.70934939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7t,24405,Böelnorderfeld,Quellenthal,13,,54.67362547,9.7105319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7u,24405,Böelnorderfeld,Quellenthal,13,a,54.67338515,9.71075329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7v,24405,Böelnorderfeld,Quellenthal,15,,54.6735449,9.71012786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7w,24405,Böelnorderfeld,Quellenthal,15,a,54.67327428,9.71021533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7x,24405,Böelnorderfeld,Quellenthal,17,,54.67342005,9.70964178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7y,24405,Böelnorderfeld,Quellenthal,2,,54.67417337,9.71113326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng7z,24405,Böelnorderfeld,Quellenthal,2,a,54.67406521,9.71121551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng80,24405,Böelnorderfeld,Schrixdorfstraße,20,,54.66485308,9.67717409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng81,24405,Böelnorderfeld,Schrixdorfstraße,3,,54.66801878,9.699335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng82,24405,Böelnorderfeld,Schrixdorfstraße,4,,54.66801801,9.69780905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng83,24405,Böelnorderfeld,Schrixdorfstraße,5,,54.6646788,9.68159188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng84,24405,Böelnorderfeld,Schrixdorfstraße,6,,54.66779455,9.69765258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng85,24405,Böelnorderfeld,Schrixdorfstraße,8,,54.66558395,9.69646897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng86,24405,Böelnorderfeld,Schulstraße,1,,54.67618984,9.72295042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng87,24405,Böelnorderfeld,Schulstraße,11,,54.68142803,9.72638843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng88,24405,Böelnorderfeld,Schulstraße,13,,54.68193975,9.72618805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng89,24405,Böelnorderfeld,Schulstraße,2,,54.67726357,9.72387002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8A,24405,Böelnorderfeld,Spenting,4,,54.68753334,9.73441787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8B,24405,Böelnorderfeld,Spenting,5,,54.6861406,9.73309008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8C,24405,Böelnorderfeld,Spenting,6,,54.68863143,9.7335264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8D,24405,Böelnorderfeld,Spenting,7,,54.69022921,9.73137693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8E,24405,Böelnorderfeld,Spenting,8,,54.68865142,9.73289922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8F,24405,Böelnorderfeld,Westerstraße,1,,54.67036218,9.72327072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8G,24405,Böelnorderfeld,Westerstraße,2,,54.67013909,9.72322421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8H,24405,Böelnorderfeld,Westerstraße,3,,54.67047433,9.72391518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8I,24405,Böelnorderfeld,Westerstraße,4,,54.67031874,9.72747627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8J,24405,Böelnorderfeld,Westerstraße,5,,54.6709571,9.72568966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8K,24405,Böelnorderfeld,Westerstraße,5,a,54.6745679,9.72745684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8L,24405,Böelnorderfeld,Westerstraße,5,b,54.67446083,9.72825553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8M,24405,Böelnorderfeld,Westerstraße,7,,54.67330137,9.73181587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8N,24405,Böelnorderfeld,Westerstraße,9,,54.67270132,9.73519067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8a,24405,Böelnorderfeld,Schulstraße,3,,54.68013007,9.72551682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8b,24405,Böelnorderfeld,Schulstraße,4,,54.68013938,9.72603168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8c,24405,Böelnorderfeld,Schulstraße,5,,54.68030581,9.72563308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8d,24405,Böelnorderfeld,Schulstraße,6,,54.6806967,9.72641673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8e,24405,Böelnorderfeld,Schulstraße,7,,54.68063221,9.72604617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8f,24405,Böelnorderfeld,Schulstraße,8,,54.68132458,9.72668191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8g,24405,Böelnorderfeld,Schulstraße,9,,54.68098596,9.72618851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8h,24405,Böelnorderfeld,Schweden,1,,54.67911529,9.68150473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8i,24405,Böelnorderfeld,Schweden,2,,54.6796815,9.67789449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8j,24405,Böelnorderfeld,Schweden,3,,54.67923477,9.67721828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8k,24405,Böelnorderfeld,Schweden,4,,54.67958242,9.67766496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8l,24405,Böelnorderfeld,Semmelstraße,1,,54.67619076,9.71407304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8m,24405,Böelnorderfeld,Semmelstraße,10,,54.6767176,9.71407657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8n,24405,Böelnorderfeld,Semmelstraße,3,,54.67633143,9.7139842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8o,24405,Böelnorderfeld,Semmelstraße,3,a,54.67639102,9.71394847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8p,24405,Böelnorderfeld,Semmelstraße,4,,54.6762828,9.7144017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8q,24405,Böelnorderfeld,Semmelstraße,5,,54.67650442,9.7139306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8r,24405,Böelnorderfeld,Semmelstraße,6,,54.67648198,9.71443052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8s,24405,Böelnorderfeld,Semmelstraße,7,,54.67679093,9.71383513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8t,24405,Böelnorderfeld,Semmelstraße,7,a,54.67694151,9.71373045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8u,24405,Böelnorderfeld,Semmelstraße,8,,54.67667435,9.71428669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8v,24405,Böelnorderfeld,Semmelstraße,9,,54.67703545,9.71352288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8w,24405,Böelnorderfeld,Spenting,1,,54.68444893,9.73347737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8x,24405,Böelnorderfeld,Spenting,10,,54.68913039,9.73216285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8y,24405,Böelnorderfeld,Spenting,2,,54.68711894,9.73520462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng8z,24405,Böelnorderfeld,Spenting,3,,54.68593423,9.73307854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgUy,24405,Böelnorderfeld,Westerstraße,6,,54.67268879,9.74556192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxI,24405,Böelnorderfeld,Am Tivoli,1,,54.68849927,9.76098257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxJ,24405,Böelnorderfeld,Am Tivoli,3,,54.68826276,9.76111159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxQ,24405,Böelnorderfeld,Fischerstieg,1,,54.68706889,9.78377616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxR,24405,Böelnorderfeld,Fischerstieg,2,,54.68564645,9.77473726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxS,24405,Böelnorderfeld,Fischerstieg,4,,54.68576059,9.77542479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxT,24405,Böelnorderfeld,Fraulund,1,,54.67982021,9.74901916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxU,24405,Böelnorderfeld,Fraulund,10,,54.67981371,9.74562099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxV,24405,Böelnorderfeld,Fraulund,11,,54.67692434,9.74461383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxW,24405,Böelnorderfeld,Fraulund,12,,54.67846419,9.74368887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxX,24405,Böelnorderfeld,Fraulund,13,,54.67650406,9.74494483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxY,24405,Böelnorderfeld,Fraulund,14,,54.67756838,9.74419225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgxZ,24405,Böelnorderfeld,Fraulund,15,,54.67603768,9.74166998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy0,24405,Böelnorderfeld,Fraulund,16,,54.67650129,9.74459178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy1,24405,Böelnorderfeld,Fraulund,18,,54.67558295,9.7397842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy2,24405,Böelnorderfeld,Fraulund,2,,54.68075282,9.74766333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy3,24405,Böelnorderfeld,Fraulund,20,,54.67336872,9.74042176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy4,24405,Böelnorderfeld,Fraulund,3,,54.68000582,9.74832401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy5,24405,Böelnorderfeld,Fraulund,3,a,54.68023017,9.74794462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy6,24405,Böelnorderfeld,Fraulund,3,b,54.6804441,9.74722691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy7,24405,Böelnorderfeld,Fraulund,3,c,54.68018213,9.74667451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy8,24405,Böelnorderfeld,Fraulund,4,,54.68063516,9.74723351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngy9,24405,Böelnorderfeld,Fraulund,5,,54.67972124,9.74651726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyA,24405,Böelnorderfeld,Norderlück,9,,54.69093651,9.76162629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyB,24405,Böelnorderfeld,Stennebek,2,,54.6841057,9.7796574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyC,24405,Böelnorderfeld,Rüggesnorgaard,1,,54.69026169,9.76789348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyD,24405,Böelnorderfeld,Rüggesnorgaard,2,,54.69004726,9.7680919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyE,24405,Böelnorderfeld,Rüggesnorgaard,3,,54.69013794,9.76724661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyF,24405,Böelnorderfeld,Rüggesnorgaard,4,,54.68960131,9.76579819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyG,24405,Böelnorderfeld,Süderlück,1,,54.6900216,9.76100229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyH,24405,Böelnorderfeld,Süderlück,2,,54.68959738,9.76101035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyI,24405,Böelnorderfeld,Süderlück,4,,54.68895105,9.75969155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyJ,24405,Böelnorderfeld,Süderlück,6,,54.68719639,9.76005928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyK,24405,Böelnorderfeld,Süderlück,8,,54.68683387,9.76001179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyL,24405,Böelnorderfeld,Tegelbarg,1,,54.687498,9.76942774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyM,24405,Böelnorderfeld,Tegelbarg,2,,54.68791424,9.77306117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyN,24405,Böelnorderfeld,Tegelbarg,3,,54.69031322,9.77383753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyO,24405,Böelnorderfeld,Toft,1,,54.68937984,9.76178127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyP,24405,Böelnorderfeld,Toft,10,,54.68781076,9.76543056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyQ,24405,Böelnorderfeld,Toft,11,,54.68812125,9.7648801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyR,24405,Böelnorderfeld,Toft,12,,54.68772373,9.76640414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyS,24405,Böelnorderfeld,Toft,13,,54.68803873,9.76617176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyT,24405,Böelnorderfeld,Toft,14,,54.68784361,9.76687996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyU,24405,Böelnorderfeld,Toft,15,,54.68792377,9.76737928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyV,24405,Böelnorderfeld,Toft,17,,54.6878485,9.76764127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyW,24405,Böelnorderfeld,Toft,19,,54.68781296,9.76806634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyX,24405,Böelnorderfeld,Toft,2,,54.68922082,9.76157252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyY,24405,Böelnorderfeld,Toft,21,,54.68703679,9.76907592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NgyZ,24405,Böelnorderfeld,Toft,3,,54.68922095,9.76229648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngya,24405,Böelnorderfeld,Fraulund,6,,54.6804192,9.74683149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyb,24405,Böelnorderfeld,Fraulund,7,,54.67952499,9.74538105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyc,24405,Böelnorderfeld,Fraulund,8,,54.68013656,9.74609112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyd,24405,Böelnorderfeld,Fraulund,9,,54.67926229,9.74494983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyi,24405,Böelnorderfeld,Kukedeel,1,,54.68875223,9.7541835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyj,24405,Böelnorderfeld,Kukedeel,2,,54.69076264,9.75539723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyk,24405,Böelnorderfeld,Kukedeel,4,,54.69043783,9.75619864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyl,24405,Böelnorderfeld,Kukedeel,6,,54.68734898,9.7486162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngym,24405,Böelnorderfeld,Norderlück,1,,54.69056514,9.76047673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyn,24405,Böelnorderfeld,Norderlück,11,,54.69102861,9.76205543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyo,24405,Böelnorderfeld,Norderlück,13,,54.69104105,9.76261008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyp,24405,Böelnorderfeld,Norderlück,15,,54.69121286,9.76299115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyq,24405,Böelnorderfeld,Norderlück,17,,54.69167277,9.76359916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyr,24405,Böelnorderfeld,Norderlück,19,,54.69213523,9.76421533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngys,24405,Böelnorderfeld,Norderlück,2,,54.69044871,9.76152548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyt,24405,Böelnorderfeld,Norderlück,21,,54.69259183,9.76520105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyu,24405,Böelnorderfeld,Norderlück,3,,54.69077581,9.76063189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyv,24405,Böelnorderfeld,Norderlück,4,,54.6906498,9.76214225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyw,24405,Böelnorderfeld,Norderlück,5,,54.69101356,9.76082891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyx,24405,Böelnorderfeld,Norderlück,6,,54.69078927,9.76283438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyy,24405,Böelnorderfeld,Norderlück,7,,54.69100328,9.76124399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngyz,24405,Böelnorderfeld,Norderlück,8,,54.69099065,9.76325029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz0,24405,Böelnorderfeld,Toft,4,,54.68771265,9.76297077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz1,24405,Böelnorderfeld,Toft,5,,54.68906367,9.76265138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz2,24405,Böelnorderfeld,Toft,6,,54.6878947,9.76360358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz3,24405,Böelnorderfeld,Toft,7,,54.68846553,9.76348634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz4,24405,Böelnorderfeld,Toft,8,,54.68735894,9.76430345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz5,24405,Böelnorderfeld,Toft,9,,54.68809415,9.76415495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz6,24405,Böelnorderfeld,Westerstraße,11,,54.67215094,9.74314764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ngz7,24405,Böelnorderfeld,Westerstraße,13,,54.67251552,9.74442794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SYaD,24405,Böelnorderfeld,Mühlenstraße,12,a,54.67288429,9.72169611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004URId,24405,Böelnorderfeld,Flarupstraße,1,,54.66672387,9.72245231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000584OA,24405,Böelnorderfeld,Fraulundhof,2,,54.68058425,9.75361266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000584OB,24405,Böelnorderfeld,Fraulundhof,3,,54.68054089,9.75343256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000584Os,24405,Böelnorderfeld,Fraulundhof,4,,54.680285,9.75318148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000584Oz,24405,Böelnorderfeld,Fraulundhof,1,,54.68055069,9.75375401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059OsS,24405,Böelnorderfeld,Paradies,3,b,54.6668385,9.70427561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z6Su,24405,Böelnorderfeld,Mohrkirchteich,3,,54.69554501,9.71185981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Zzwn,24405,Böelnorderfeld,Babbestraße,15,a,54.67084724,9.71167054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060cGD,24405,Böelnorderfeld,Rüggesgaard,1,,54.68523331,9.77151938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060cGI,24405,Böelnorderfeld,Rüggesgaard,2,,54.68526157,9.77099859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DWlE,24405,Böelnorderfeld,Hauptstraße,75,a,54.66976114,9.7054022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006GVSs,24405,Böelnorderfeld,Hauptstraße,61,a,54.67165338,9.7069699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Z3FE,24405,Böelnorderfeld,Süderlück,7,,54.68785407,9.76072113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070fCq,24405,Böelnorderfeld,Süderlück,5,,54.68802572,9.76072893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076aZt,24405,Böelnorderfeld,Fraulund,2,a,54.68085566,9.74814826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076aaA,24405,Böelnorderfeld,Am Tivoli,2,,54.6879369,9.76156235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyA,24405,Böelnorderfeld,Babbestraße,16,,54.67079741,9.70997695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyh,24405,Böelnorderfeld,Babbestraße,4,,54.67129163,9.70794101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyl,24405,Böelnorderfeld,Babbestraße,6,,54.67118124,9.70816282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyo,24405,Böelnorderfeld,Babbestraße,8,,54.67108738,9.70844055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyr,24405,Böelnorderfeld,Babbestraße,10,,54.6709805,9.70894892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyu,24405,Böelnorderfeld,Babbestraße,12,,54.67092042,9.7093059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vVyx,24405,Böelnorderfeld,Babbestraße,14,,54.67087763,9.70967386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wZQd,24405,Böelnorderfeld,Babbestraße,20,,54.66622234,9.71347787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ygUX,24405,Böelnorderfeld,Babbestraße,2,,54.67129747,9.70764945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000800RO,24405,Böelnorderfeld,Hauptstraße,62,a,54.67288014,9.70743237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AoZa,24405,Böelnorderfeld,Langdeel,3,a,54.69628565,9.73316661

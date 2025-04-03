@@ -1,0 +1,492 @@
+# Amtliche Adressen für die Postleitzahl 24992
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0A,24992,Janneby,B 200,19,,54.64384306,9.27414588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0B,24992,Janneby,B 200,21,,54.64347023,9.27517229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0C,24992,Janneby,B 200,23,,54.64248308,9.271742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0D,24992,Janneby,B 200,23,a,54.64239342,9.271633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0E,24992,Janneby,B 200,25,,54.64167903,9.27177401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0F,24992,Janneby,B 200,27,,54.6403253,9.26915409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0G,24992,Janneby,B 200,29,,54.63956769,9.26784491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0H,24992,Janneby,B 200,5,,54.65066058,9.28772198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0I,24992,Janneby,B 200,6,,54.64736263,9.27937936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0J,24992,Janneby,B 200,7,,54.65058458,9.28843017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0K,24992,Janneby,B 200,8,,54.64713147,9.27891302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0L,24992,Janneby,Dorfstraße,1,,54.62368786,9.30068097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0M,24992,Janneby,Dorfstraße,10,,54.62627809,9.30143548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0N,24992,Janneby,Dorfstraße,15,,54.62566568,9.30035924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0O,24992,Janneby,Dorfstraße,16,,54.62671366,9.30275987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0P,24992,Janneby,Dorfstraße,17,,54.62625944,9.30053045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0Q,24992,Janneby,Dorfstraße,17,a,54.62615821,9.30022379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0R,24992,Janneby,Dorfstraße,18,,54.62740014,9.30317774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0S,24992,Janneby,Dorfstraße,19,,54.62636245,9.30091872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0T,24992,Janneby,Dorfstraße,2,,54.62346835,9.30141072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0U,24992,Janneby,Dorfstraße,20,,54.62809381,9.30355271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0V,24992,Janneby,Dorfstraße,21,,54.62668157,9.30161179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0W,24992,Janneby,Dorfstraße,22,,54.62839402,9.30360961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0X,24992,Janneby,Dorfstraße,23,,54.62682222,9.30183285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0Y,24992,Janneby,Dorfstraße,24,,54.62853191,9.30385462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0Z,24992,Janneby,Dorfstraße,25,,54.62696704,9.30215875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0n,24992,Janneby,Wiesenweg,1,,54.64975964,9.29035817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0o,24992,Janneby,Wiesenweg,3,,54.64988233,9.29080859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0p,24992,Janneby,Wiesenweg,5,,54.65189794,9.30293105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0q,24992,Janneby,Wiesenweg,7,,54.65218753,9.30280281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0r,24992,Janneby,B 200,10,,54.64696236,9.27851643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0s,24992,Janneby,B 200,11,,54.65004258,9.28666092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0t,24992,Janneby,B 200,12,,54.64643239,9.27733578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0u,24992,Janneby,B 200,13,,54.64986504,9.28618579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0v,24992,Janneby,B 200,14,,54.64587928,9.27536737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0w,24992,Janneby,B 200,15,,54.64621897,9.2778967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0x,24992,Janneby,B 200,16,,54.64475392,9.27395328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0y,24992,Janneby,B 200,17,,54.64433427,9.27528931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No0z,24992,Janneby,B 200,18,,54.64020815,9.26797017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No10,24992,Janneby,Dorfstraße,27,,54.62742436,9.30268437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No11,24992,Janneby,Dorfstraße,29,,54.62778464,9.30282436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No12,24992,Janneby,Dorfstraße,31,,54.62805127,9.30285845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No13,24992,Janneby,Dorfstraße,33,,54.62837643,9.30315447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No14,24992,Janneby,Dorfstraße,36,,54.63083618,9.30515723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No15,24992,Janneby,Dorfstraße,38,,54.63110281,9.30533421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No16,24992,Janneby,Dorfstraße,39,,54.6288836,9.30337206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No17,24992,Janneby,Dorfstraße,4,,54.62375969,9.30113352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No18,24992,Janneby,Dorfstraße,40,,54.63143886,9.30610668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No19,24992,Janneby,Dorfstraße,41,,54.62930466,9.30347686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1A,24992,Janneby,Jannebyer Weg,1,,54.64997016,9.28737433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1B,24992,Janneby,Jannebyer Weg,11,,54.6484133,9.28786818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1C,24992,Janneby,Jannebyer Weg,12,,54.64784546,9.28727459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1D,24992,Janneby,Jannebyer Weg,13,,54.64839512,9.28842556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1E,24992,Janneby,Jannebyer Weg,15,,54.64541308,9.29354845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1F,24992,Janneby,Jannebyer Weg,20,,54.6468964,9.28931193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1G,24992,Janneby,Jannebyer Weg,22,,54.64150555,9.30041053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1H,24992,Janneby,Jannebyer Weg,24,,54.64007942,9.30257054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1I,24992,Janneby,Jannebyer Weg,26,,54.63815541,9.30193539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1J,24992,Janneby,Jannebyer Weg,3,,54.64933676,9.28779847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1K,24992,Janneby,Jannebyer Weg,4,,54.64955144,9.28684532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1L,24992,Janneby,Jannebyer Weg,6,,54.648964,9.287013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1M,24992,Janneby,Mittelstraße,1,,54.62434123,9.3012755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1N,24992,Janneby,Mittelstraße,2,,54.62436722,9.30286011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1O,24992,Janneby,Mittelstraße,3,,54.62448312,9.30156376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1P,24992,Janneby,Mittelstraße,5,,54.62455434,9.30267597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1Q,24992,Janneby,Norderstraße,1,,54.6257049,9.30117324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1R,24992,Janneby,Norderstraße,10,,54.62542086,9.30249358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1S,24992,Janneby,Norderstraße,12,,54.62551717,9.30283724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1T,24992,Janneby,Norderstraße,14,,54.62544057,9.30338162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1U,24992,Janneby,Norderstraße,3,,54.62563051,9.30218097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1V,24992,Janneby,Norderstraße,4,,54.62542238,9.30115896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1W,24992,Janneby,Norderstraße,5,,54.62564171,9.30241617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1X,24992,Janneby,Norderstraße,7,,54.62567658,9.3029188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1Y,24992,Janneby,Norderstraße,9,,54.62574761,9.30338472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1Z,24992,Janneby,Ringstraße,1,,54.62416784,9.30181723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1a,24992,Janneby,Dorfstraße,43,,54.62946153,9.30331735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1b,24992,Janneby,Dorfstraße,49,,54.63326904,9.30626176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1c,24992,Janneby,Dorfstraße,6,,54.62503857,9.30097381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1d,24992,Janneby,Dorfstraße,6,a,54.62500221,9.30149416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1e,24992,Janneby,Dorfstraße,8,,54.62601321,9.30096121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1f,24992,Janneby,Eggebeker Weg,1,,54.63366662,9.30724187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1g,24992,Janneby,Eggebeker Weg,10,,54.63311799,9.3087476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1h,24992,Janneby,Eggebeker Weg,12,,54.63309989,9.30911628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1i,24992,Janneby,Eggebeker Weg,3,,54.63344873,9.30854531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1j,24992,Janneby,Eggebeker Weg,4,,54.63308604,9.30756019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1k,24992,Janneby,Eggebeker Weg,5,,54.6333625,9.31062448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1l,24992,Janneby,Eggebeker Weg,6,,54.63308758,9.30803209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1m,24992,Janneby,Eggebeker Weg,7,,54.63324603,9.31079527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1n,24992,Janneby,Eggebeker Weg,8,,54.63314171,9.30840145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1o,24992,Janneby,Gravelunder Weg,10,,54.64230529,9.31054377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1p,24992,Janneby,Gravelunder Weg,12,,54.64147885,9.30405093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1q,24992,Janneby,Gravelunder Weg,12,a,54.64143989,9.30417905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1r,24992,Janneby,Gravelunder Weg,14,,54.6411322,9.30338762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1s,24992,Janneby,Gravelunder Weg,2,,54.63840982,9.31062868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1t,24992,Janneby,Gravelunder Weg,4,,54.63970804,9.31067286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1u,24992,Janneby,Gravelunder Weg,6,,54.63979838,9.31082635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1v,24992,Janneby,Gravelunder Weg,8,,54.64080654,9.31112666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1x,24992,Janneby,Husumer Weg,4,,54.62703963,9.28682744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1y,24992,Janneby,Husumer Weg,6,,54.62667951,9.2867552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No1z,24992,Janneby,Husumer Weg,8,,54.62670939,9.28663288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No20,24992,Janneby,Ringstraße,10,,54.62466145,9.3040788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No21,24992,Janneby,Ringstraße,12,,54.62504902,9.30382845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No22,24992,Janneby,Ringstraße,14,,54.62521959,9.30386051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No23,24992,Janneby,Ringstraße,16,,54.62542148,9.30393701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No24,24992,Janneby,Ringstraße,18,,54.62560443,9.30395479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No25,24992,Janneby,Ringstraße,24,,54.62601147,9.30407996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No26,24992,Janneby,Ringstraße,24,a,54.62623972,9.30432238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No27,24992,Janneby,Ringstraße,24,b,54.6264293,9.30417381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No28,24992,Janneby,Ringstraße,26,,54.62663714,9.30390549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No29,24992,Janneby,Ringstraße,28,,54.62717255,9.3032781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2A,24992,Janneby,Presterfeld,1,,54.60941419,9.31472233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2B,24992,Janneby,Hörmos,3,,54.62064792,9.28807913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2a,24992,Janneby,Ringstraße,3,,54.62416401,9.30237213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2b,24992,Janneby,Ringstraße,3,a,54.62428116,9.3032918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2c,24992,Janneby,Ringstraße,3,b,54.62438091,9.30327544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2d,24992,Janneby,Ringstraße,5,,54.62492907,9.30336366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2e,24992,Janneby,Ringstraße,6,,54.62391914,9.3030103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2f,24992,Janneby,Ringstraße,6,a,54.62399439,9.30332033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2g,24992,Janneby,Ringstraße,7,,54.62517359,9.30343884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2h,24992,Janneby,Ringstraße,8,,54.62406301,9.30398158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2i,24992,Janneby,Ringstraße,9,,54.62630815,9.30366771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2j,24992,Janneby,Kretelbarger Weg,10,,54.64122996,9.26558531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2k,24992,Janneby,Kretelbarger Weg,11,,54.64267261,9.26792986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2l,24992,Janneby,Kretelbarger Weg,11,a,54.64266872,9.26812283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2m,24992,Janneby,Kretelbarger Weg,9,,54.64308207,9.26499306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2n,24992,Janneby,Westerfeld,1,,54.63932455,9.27753555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2o,24992,Janneby,Westerfeld,2,,54.6373198,9.27698616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2p,24992,Janneby,Westerfeld,3,,54.63483276,9.28523154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2q,24992,Janneby,Westerfeld,4,,54.63159963,9.28244867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2r,24992,Janneby,Westerfeld,5,,54.63479765,9.28584139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2s,24992,Janneby,Westerfeld,6,,54.63052073,9.27977603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2t,24992,Janneby,Westerfeld,7,,54.63466323,9.28773195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2u,24992,Janneby,Steinkoppel,2,,54.6493831,9.2672602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2v,24992,Janneby,Mühlenweg,1,,54.63659594,9.27085975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2w,24992,Janneby,Süderfeld,1,,54.6159692,9.30098686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2x,24992,Janneby,Süderfeld,2,,54.61950763,9.30002879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2y,24992,Janneby,Süderfeld,3,,54.61309775,9.30195125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2z,24992,Janneby,Süderfeld,4,,54.61922768,9.29992045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9A,24992,Janneby,Südermoor,5,,54.60243829,9.2895716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9B,24992,Janneby,An der Bek,10,,54.60146032,9.31110327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9C,24992,Janneby,An der Bek,2,,54.6017009,9.30978141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9D,24992,Janneby,An der Bek,4,,54.60168223,9.30999631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9E,24992,Janneby,An der Bek,6,,54.60160498,9.31028526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9F,24992,Janneby,An der Bek,8,,54.60156534,9.31058963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9G,24992,Janneby,Dorfstraße,10,,54.60135444,9.30821931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9H,24992,Janneby,Dorfstraße,12,,54.60126019,9.30731015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9I,24992,Janneby,Dorfstraße,3,,54.60140151,9.3094097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9J,24992,Janneby,Dorfstraße,5,,54.6012088,9.30857759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9K,24992,Janneby,Dorfstraße,7,,54.60108701,9.30798132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9L,24992,Janneby,Dorfstraße,8,,54.6014674,9.3086927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9M,24992,Janneby,Dorfstraße,9,,54.6009947,9.30761046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9N,24992,Janneby,Eggebeker Straße,1,,54.60199441,9.3129523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9O,24992,Janneby,Eggebeker Straße,3,,54.6025967,9.31383978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9P,24992,Janneby,Am Eichenkratt,1,,54.59908127,9.31089882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9Q,24992,Janneby,Am Eichenkratt,10,,54.59998514,9.31073972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9R,24992,Janneby,Am Eichenkratt,11,,54.59938875,9.30991631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9S,24992,Janneby,Am Eichenkratt,13,,54.59956265,9.30999478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9T,24992,Janneby,Am Eichenkratt,15,,54.59973139,9.31007768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9U,24992,Janneby,Am Eichenkratt,2,,54.59929135,9.31100518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9V,24992,Janneby,Am Eichenkratt,3,,54.59910604,9.31054338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9W,24992,Janneby,Am Eichenkratt,4,,54.59937555,9.31041945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9X,24992,Janneby,Am Eichenkratt,5,,54.5991345,9.31014899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9Y,24992,Janneby,Am Eichenkratt,6,,54.5996238,9.31044401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9Z,24992,Janneby,Am Eichenkratt,7,,54.59900845,9.30968259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9j,24992,Janneby,Paulsgabe,11,,54.62567262,9.24883068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9k,24992,Janneby,Paulsgabe,13,,54.62663349,9.24997703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9l,24992,Janneby,Paulsgabe,2,,54.62032,9.23971021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9m,24992,Janneby,Paulsgabe,3,,54.62222167,9.24242902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9n,24992,Janneby,Paulsgabe,4,,54.62546795,9.2495329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9o,24992,Janneby,Paulsgabe,5,,54.62352986,9.24486802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9p,24992,Janneby,Paulsgabe,6,,54.62472241,9.25196674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9q,24992,Janneby,Paulsgabe,7,,54.62371214,9.24510884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9r,24992,Janneby,Paulsgabe,9,,54.62418407,9.24603913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9s,24992,Janneby,Rupel,1,,54.61060017,9.24615396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9t,24992,Janneby,Rupel,2,,54.61104041,9.25151556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9u,24992,Janneby,Rupel,4,,54.61126508,9.24792778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9v,24992,Janneby,Rupel,6,,54.61096042,9.24610555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9w,24992,Janneby,Rupel,8,,54.6111248,9.24490689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9x,24992,Janneby,Südermoor,1,,54.60285371,9.28905029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9y,24992,Janneby,Südermoor,2,,54.60150985,9.29271405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No9z,24992,Janneby,Südermoor,3,,54.60271135,9.28871795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa0,24992,Janneby,Am Eichenkratt,8,,54.59981866,9.31053041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa1,24992,Janneby,Am Eichenkratt,9,,54.59923328,9.30964951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa2,24992,Janneby,Hauptstraße,1,,54.59848329,9.3102375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa3,24992,Janneby,Hauptstraße,1,a,54.59870625,9.31020282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa4,24992,Janneby,Hauptstraße,11,,54.60040652,9.3117699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa5,24992,Janneby,Hauptstraße,13,,54.60068401,9.31173701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa6,24992,Janneby,Hauptstraße,2,,54.61055948,9.29565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa7,24992,Janneby,Hauptstraße,23,,54.60354489,9.30796925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa8,24992,Janneby,Hauptstraße,26,,54.61292252,9.27691168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noa9,24992,Janneby,Hauptstraße,28,,54.61281022,9.2750496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaA,24992,Janneby,Hauptstraße,53,,54.62403876,9.26641922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaB,24992,Janneby,Hauptstraße,55,,54.62425331,9.2664632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaC,24992,Janneby,Hauptstraße,57,,54.62447349,9.26637448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaD,24992,Janneby,Hauptstraße,59,,54.62965275,9.26165688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaE,24992,Janneby,Hauptstraße,6,,54.61126717,9.29442998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaF,24992,Janneby,Hauptstraße,61,,54.63180847,9.25907848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaG,24992,Janneby,Hauptstraße,7,,54.59991446,9.31133688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaH,24992,Janneby,Hauptstraße,8,,54.61207353,9.29226978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaI,24992,Janneby,Hauptstraße,9,,54.60012999,9.31155599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaJ,24992,Janneby,Schulstraße,1,,54.60152304,9.31353834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaK,24992,Janneby,Schulstraße,10,,54.60106097,9.31532918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaL,24992,Janneby,Schulstraße,11,,54.60150256,9.31492416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaM,24992,Janneby,Schulstraße,2,,54.60127102,9.31319631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaN,24992,Janneby,Schulstraße,3,,54.60177577,9.31377308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaO,24992,Janneby,Schulstraße,4,,54.60116595,9.31361336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaP,24992,Janneby,Schulstraße,5,,54.60146074,9.31408287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaQ,24992,Janneby,Schulstraße,6,,54.60113689,9.31476891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaR,24992,Janneby,Schulstraße,7,,54.60144127,9.31442948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaS,24992,Janneby,Schulstraße,8,,54.60060658,9.31490568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaT,24992,Janneby,Schulstraße,9,,54.6021898,9.31455037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaU,24992,Janneby,Wiesengrund,2,,54.60119917,9.30911012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaV,24992,Janneby,Wiesengrund,3,,54.60109008,9.30967294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaW,24992,Janneby,Kampweg,11,,54.60209694,9.31550034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaX,24992,Janneby,Kampweg,13,,54.60229543,9.31553779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaY,24992,Janneby,Kampweg,15,,54.60257602,9.31516732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoaZ,24992,Janneby,Kampweg,5,,54.6013515,9.3154639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaa,24992,Janneby,Hauptstraße,3,,54.59886223,9.31096282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noab,24992,Janneby,Hauptstraße,30,,54.61274242,9.27395161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noac,24992,Janneby,Hauptstraße,31,,54.6125171,9.27541294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noad,24992,Janneby,Hauptstraße,31,a,54.61226214,9.27494068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noae,24992,Janneby,Hauptstraße,32,,54.61266849,9.27289817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaf,24992,Janneby,Hauptstraße,33,,54.61252508,9.27454538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noag,24992,Janneby,Hauptstraße,34,,54.61293638,9.27183528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noah,24992,Janneby,Hauptstraße,35,,54.61252124,9.27422821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noai,24992,Janneby,Hauptstraße,36,,54.61338542,9.27156058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaj,24992,Janneby,Hauptstraße,38,,54.61667778,9.26798563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noak,24992,Janneby,Hauptstraße,38,a,54.616617,9.26815991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noal,24992,Janneby,Hauptstraße,39,,54.6124287,9.2732262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noam,24992,Janneby,Hauptstraße,39,a,54.61237887,9.27275942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noan,24992,Janneby,Hauptstraße,4,,54.61240185,9.29531147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noao,24992,Janneby,Hauptstraße,40,,54.61714306,9.26678353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noap,24992,Janneby,Hauptstraße,41,,54.61227174,9.27216314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaq,24992,Janneby,Hauptstraße,42,,54.61742889,9.26670302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noar,24992,Janneby,Hauptstraße,43,,54.61276204,9.27118139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noas,24992,Janneby,Hauptstraße,45,,54.61294072,9.27120234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noat,24992,Janneby,Hauptstraße,45,a,54.6131565,9.270971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noau,24992,Janneby,Hauptstraße,45,b,54.61342175,9.27089303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noav,24992,Janneby,Hauptstraße,46,,54.63271978,9.25896788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaw,24992,Janneby,Hauptstraße,47,,54.6191131,9.26674245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noax,24992,Janneby,Hauptstraße,49,,54.62029043,9.26721784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noay,24992,Janneby,Hauptstraße,5,,54.5995462,9.31123714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noaz,24992,Janneby,Hauptstraße,51,,54.62143883,9.26668537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob0,24992,Janneby,Kampweg,7,,54.60154735,9.31544424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob1,24992,Janneby,Kampweg,9,,54.60175766,9.31546594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob2,24992,Janneby,Am Holm,10,,54.6169379,9.26407674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob3,24992,Janneby,Am Holm,12,,54.61688336,9.26469714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob4,24992,Janneby,Am Holm,2,,54.61757618,9.26386697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob5,24992,Janneby,Am Holm,3,,54.61714162,9.26460803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob6,24992,Janneby,Am Holm,4,,54.61735045,9.26383621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob7,24992,Janneby,Am Holm,6,,54.61718519,9.26379285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob8,24992,Janneby,Am Holm,8,,54.616958,9.26375802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nob9,24992,Janneby,An der B 200,1,,54.63190282,9.25685968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobA,24992,Janneby,Im Winkel,14,,54.61834652,9.26485236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobB,24992,Janneby,Im Winkel,2,,54.61748352,9.26587998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobC,24992,Janneby,Im Winkel,3,,54.61805594,9.26557285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobD,24992,Janneby,Im Winkel,3,a,54.61808691,9.26510712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobE,24992,Janneby,Im Winkel,4,,54.61769642,9.26597274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobF,24992,Janneby,Im Winkel,5,,54.61818218,9.26482635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobG,24992,Janneby,Im Winkel,6,,54.61786988,9.26601627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobH,24992,Janneby,Im Winkel,8,,54.61804885,9.26610845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobI,24992,Janneby,Jannebyer Straße,1,,54.61081828,9.29822013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobJ,24992,Janneby,Jannebyer Straße,2,,54.61115573,9.30009868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobK,24992,Janneby,Jannebyer Straße,3,,54.61121873,9.29877093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobL,24992,Janneby,Kätnerweg,1,,54.63520208,9.26352204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobM,24992,Janneby,Kätnerweg,11,,54.62973693,9.27107854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobN,24992,Janneby,Kätnerweg,3,,54.63467094,9.26794183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobO,24992,Janneby,Kätnerweg,5,,54.63447606,9.26829768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobP,24992,Janneby,Kätnerweg,7,,54.63421255,9.27010914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobQ,24992,Janneby,Kätnerweg,9,,54.63379718,9.27144644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobR,24992,Janneby,Lüttje Weg,1,,54.61848195,9.2663575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobS,24992,Janneby,Lüttje Weg,3,,54.61874686,9.26627801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobT,24992,Janneby,Lüttje Weg,5,,54.61873813,9.26564703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobU,24992,Janneby,Lüttje Weg,5,a,54.6185331,9.26562071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobV,24992,Janneby,Lüttje Weg,7,,54.61874044,9.26505664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobW,24992,Janneby,Paulsgaberweg,1,,54.61694601,9.26602562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobX,24992,Janneby,Paulsgaberweg,10,,54.61819523,9.26390224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobY,24992,Janneby,Paulsgaberweg,11,,54.61751329,9.26435585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NobZ,24992,Janneby,Paulsgaberweg,14,,54.61991176,9.25954545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noba,24992,Janneby,An der B 200,2,,54.63209289,9.25820311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobb,24992,Janneby,An der B 200,3,,54.63244678,9.2578437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobc,24992,Janneby,An der B 200,4,,54.63325452,9.26109269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobd,24992,Janneby,An der B 200,6,,54.63309648,9.26151764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobe,24992,Janneby,An der Heide,1,,54.6130475,9.27330247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobf,24992,Janneby,An der Heide,1,a,54.61290937,9.27220638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobg,24992,Janneby,An der Heide,2,,54.61299451,9.27365599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobh,24992,Janneby,An der Heide,3,,54.61337227,9.27318253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobi,24992,Janneby,An der Heide,3,a,54.61338878,9.27274425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobj,24992,Janneby,An der Heide,4,,54.61335031,9.27416227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobk,24992,Janneby,An der Heide,5,,54.61344698,9.27372332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobl,24992,Janneby,An der Heide,8,,54.61973651,9.27521627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobm,24992,Janneby,Am Rimmelsberg,1,,54.61986571,9.26691494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobn,24992,Janneby,Am Rimmelsberg,2,,54.62019357,9.26562841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobo,24992,Janneby,Am Rimmelsberg,2,a,54.62021055,9.26611009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobp,24992,Janneby,Am Rimmelsberg,2,b,54.62021055,9.26611009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobq,24992,Janneby,Am Rimmelsberg,2,c,54.62021055,9.26611009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobr,24992,Janneby,Am Rimmelsberg,3,,54.61954127,9.2666906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobs,24992,Janneby,Alter Schulweg,1,,54.62743091,9.25563212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobt,24992,Janneby,Alter Schulweg,2,,54.62575833,9.26519196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobu,24992,Janneby,Alter Schulweg,3,,54.62644249,9.258289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobv,24992,Janneby,Alter Schulweg,4,,54.62553466,9.26594192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobw,24992,Janneby,Alter Schulweg,5,,54.62865421,9.27273811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobx,24992,Janneby,Alter Schulweg,6,,54.6257045,9.26679922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noby,24992,Janneby,Im Winkel,10,,54.61821111,9.26608346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nobz,24992,Janneby,Im Winkel,12,,54.61825337,9.26569511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc0,24992,Janneby,Paulsgaberweg,16,,54.61968266,9.25804869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc1,24992,Janneby,Paulsgaberweg,2,,54.61764474,9.26542815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc2,24992,Janneby,Paulsgaberweg,3,,54.61719174,9.2658025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc3,24992,Janneby,Paulsgaberweg,4,,54.61772723,9.26500306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc4,24992,Janneby,Paulsgaberweg,5,,54.61721915,9.26544431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc5,24992,Janneby,Paulsgaberweg,6,,54.61778372,9.26472292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc6,24992,Janneby,Paulsgaberweg,7,,54.61733297,9.2650675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc7,24992,Janneby,Paulsgaberweg,8,,54.61785817,9.26426839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc8,24992,Janneby,Paulsgaberweg,9,,54.61748172,9.26468133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noc9,24992,Janneby,Westerende,1,,54.61222102,9.2714526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocA,24992,Janneby,Kretelbargerweg,5,,54.64110291,9.25793209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocB,24992,Janneby,Kretelbargerweg,6,,54.6391771,9.25799307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocC,24992,Janneby,Kretelbargerweg,7,,54.64280265,9.25697867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocD,24992,Janneby,Kretelbargerweg,8,,54.63986036,9.25783526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocE,24992,Janneby,Stieglunderweg,1,,54.63291417,9.25803796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocF,24992,Janneby,Stieglunderweg,10,,54.64258348,9.23904394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocG,24992,Janneby,Stieglunderweg,10,a,54.64230721,9.23844272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocH,24992,Janneby,Stieglunderweg,11,,54.63274974,9.25595865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocI,24992,Janneby,Stieglunderweg,12,,54.63999681,9.23776665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocJ,24992,Janneby,Stieglunderweg,13,,54.63453816,9.25050106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocK,24992,Janneby,Stieglunderweg,15,,54.63760008,9.25018493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocL,24992,Janneby,Stieglunderweg,17,,54.63843389,9.24666769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocM,24992,Janneby,Stieglunderweg,19,,54.63948095,9.23720672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocN,24992,Janneby,Stieglunderweg,2,,54.63438604,9.25675289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocO,24992,Janneby,Stieglunderweg,21,,54.6392684,9.23570873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocP,24992,Janneby,Stieglunderweg,3,,54.63312015,9.25750675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocQ,24992,Janneby,Stieglunderweg,4,,54.64009704,9.24195959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocR,24992,Janneby,Stieglunderweg,5,,54.63342153,9.25703892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocS,24992,Janneby,Stieglunderweg,6,,54.64011304,9.2387428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocT,24992,Janneby,Stieglunderweg,7,,54.63315778,9.25636205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocU,24992,Janneby,Stieglunderweg,8,,54.64284225,9.24032969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocV,24992,Janneby,Stieglunderweg,9,,54.63322114,9.2559293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocW,24992,Janneby,Am Sportplatz,1,,54.59923825,9.31196134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocX,24992,Janneby,Am Sportplatz,10,,54.59899006,9.31300675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocY,24992,Janneby,Am Sportplatz,11,,54.59919747,9.31275964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NocZ,24992,Janneby,Am Sportplatz,12,,54.59905198,9.31331217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noca,24992,Janneby,Westerende,10,,54.61169387,9.26960444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocb,24992,Janneby,Westerende,11,,54.61099096,9.26765993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocc,24992,Janneby,Westerende,12,,54.61178542,9.26874024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocd,24992,Janneby,Westerende,2,,54.61245382,9.2710905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noce,24992,Janneby,Westerende,4,,54.61196397,9.27061236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocf,24992,Janneby,Westerende,5,,54.61178665,9.27113866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocg,24992,Janneby,Westerende,6,,54.61151812,9.27005105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noch,24992,Janneby,Westerende,7,,54.61123959,9.26908786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noci,24992,Janneby,Westerende,9,,54.61125094,9.2678779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocj,24992,Janneby,Wiesenweg,1,,54.6120815,9.27430028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nock,24992,Janneby,Wiesenweg,2,,54.61200048,9.27396771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocl,24992,Janneby,Wiesenweg,3,,54.61185243,9.27431589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocm,24992,Janneby,Wiesenweg,4,,54.6118084,9.2738808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocn,24992,Janneby,Wiesenweg,5,,54.61164306,9.2743459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noco,24992,Janneby,Stieglundsanderweg,1,,54.63812823,9.23303511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocp,24992,Janneby,Stieglundsanderweg,2,,54.63898806,9.23245758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocq,24992,Janneby,Stieglundsanderweg,3,,54.63526251,9.23495135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocr,24992,Janneby,Stieglundsanderweg,4,,54.63831954,9.23245868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocs,24992,Janneby,Stieglundsanderweg,5,,54.62960708,9.22944648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noct,24992,Janneby,Stieglundsanderweg,6,,54.63791635,9.23261931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocu,24992,Janneby,Stieglundsanderweg,6,a,54.63741184,9.23225915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocv,24992,Janneby,Stieglundsanderweg,8,,54.63710612,9.23212204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocw,24992,Janneby,Kretelbargerweg,1,,54.63964477,9.24739844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocx,24992,Janneby,Kretelbargerweg,2,,54.63931305,9.25051281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocy,24992,Janneby,Kretelbargerweg,3,,54.63978636,9.2479568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nocz,24992,Janneby,Kretelbargerweg,4,,54.6405506,9.25579525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod0,24992,Janneby,Am Sportplatz,13,,54.59931319,9.31307732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod1,24992,Janneby,Am Sportplatz,13,a,54.59936801,9.31306381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod2,24992,Janneby,Am Sportplatz,13,b,54.59962423,9.31300078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod3,24992,Janneby,Am Sportplatz,13,c,54.59958888,9.31336943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod4,24992,Janneby,Am Sportplatz,14,,54.5991017,9.31367771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod5,24992,Janneby,Am Sportplatz,15,,54.59933582,9.31340662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod6,24992,Janneby,Am Sportplatz,16,,54.59913556,9.31399523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod7,24992,Janneby,Am Sportplatz,17,,54.59940178,9.31375481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod8,24992,Janneby,Am Sportplatz,17,a,54.5994793,9.31372134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nod9,24992,Janneby,Am Sportplatz,18,,54.59907927,9.31435212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Noda,24992,Janneby,Am Sportplatz,19,,54.59938065,9.31403675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodb,24992,Janneby,Am Sportplatz,2,,54.59894294,9.31171105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodc,24992,Janneby,Am Sportplatz,20,,54.59897285,9.31472762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodd,24992,Janneby,Am Sportplatz,21,,54.59936781,9.31441671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Node,24992,Janneby,Am Sportplatz,22,,54.59910706,9.3149892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodf,24992,Janneby,Am Sportplatz,23,,54.59932748,9.31474029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodg,24992,Janneby,Am Sportplatz,25,a,54.5993226,9.31505203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodh,24992,Janneby,Am Sportplatz,25,b,54.59939712,9.31506234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodi,24992,Janneby,Am Sportplatz,3,,54.59949909,9.31214784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodj,24992,Janneby,Am Sportplatz,4,,54.59893815,9.31197995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodk,24992,Janneby,Am Sportplatz,5,,54.59970347,9.3122379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodl,24992,Janneby,Am Sportplatz,6,,54.59893791,9.31232575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodm,24992,Janneby,Am Sportplatz,7,,54.59964971,9.31249883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodn,24992,Janneby,Am Sportplatz,8,,54.59894987,9.31268456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nodo,24992,Janneby,Am Sportplatz,9,,54.599171,9.3124494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nq9o,24992,Janneby,Kampweg,12,,54.60298923,9.31681757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nq9p,24992,Janneby,Kampweg,17,,54.60334387,9.31574601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nq9r,24992,Janneby,Kampweg,3,,54.60078612,9.31676177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nq9t,24992,Janneby,Kampweg,5,,54.6008455,9.31589454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFA,24992,Janneby,Mühlenstraße,7,,54.59937027,9.30620516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFB,24992,Janneby,Mühlenstraße,8,,54.59950546,9.30569799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFW,24992,Janneby,Raiffeisenstraße,1,,54.6003532,9.30497195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFX,24992,Janneby,Raiffeisenstraße,10,,54.60037595,9.30313985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFY,24992,Janneby,Raiffeisenstraße,2,,54.60063694,9.30530276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFZ,24992,Janneby,Raiffeisenstraße,2,a,54.60079569,9.30583901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFs,24992,Janneby,Mühlenstraße,1,,54.60031062,9.30552517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFt,24992,Janneby,Mühlenstraße,10,,54.5993103,9.30580762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFu,24992,Janneby,Mühlenstraße,2,,54.60009824,9.30527197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFv,24992,Janneby,Mühlenstraße,3,,54.59990966,9.30576555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFw,24992,Janneby,Mühlenstraße,3,a,54.60013901,9.30562873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFx,24992,Janneby,Mühlenstraße,4,,54.59991876,9.30540331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFy,24992,Janneby,Mühlenstraße,5,,54.59966766,9.30593108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqFz,24992,Janneby,Mühlenstraße,6,,54.59970724,9.30554352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG0,24992,Janneby,Raiffeisenstraße,3,,54.60022128,9.30386278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG1,24992,Janneby,Raiffeisenstraße,3,a,54.59996451,9.30357232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG2,24992,Janneby,Raiffeisenstraße,4,,54.60053486,9.30426448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG3,24992,Janneby,Raiffeisenstraße,4,a,54.60056618,9.30469956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG4,24992,Janneby,Raiffeisenstraße,5,,54.60013097,9.30304395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG5,24992,Janneby,Raiffeisenstraße,6,,54.60046394,9.30391862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG6,24992,Janneby,Raiffeisenstraße,8,,54.60036618,9.3033623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NqG7,24992,Janneby,Raiffeisenstraße,8,a,54.60038014,9.30353154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nqah,24992,Janneby,Eggebeker Straße,1,,54.60924757,9.32820842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nqai,24992,Janneby,Eggebeker Straße,5,,54.60421397,9.31633917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nqaj,24992,Janneby,Eggebeker Straße,7,,54.60431295,9.31655238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DaBr,24992,Janneby,Paulsgabe,1,,54.62191342,9.24119073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Dayi,24992,Janneby,Paulsgabe,1,a,54.62192234,9.241779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IbO7,24992,Janneby,Südergraben,11,,54.59816857,9.31252436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IbOb,24992,Janneby,Südergraben,9,,54.59800463,9.31229057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IbOf,24992,Janneby,Südergraben,7,,54.59778637,9.31227925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IbOm,24992,Janneby,Südergraben,5,,54.59774191,9.31188879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IcdU,24992,Janneby,Südergraben,2,,54.59843183,9.3119159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004IcdY,24992,Janneby,Südergraben,4,,54.5984031,9.31238231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ice2,24992,Janneby,Südergraben,6,,54.59848202,9.31277309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Ice6,24992,Janneby,Südergraben,1,,54.59821262,9.31191122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Iceb,24992,Janneby,Südergraben,3,,54.59796452,9.31192193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TlTs,24992,Janneby,Dorfstraße,19,a,54.62641716,9.3012127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004U7iR,24992,Janneby,Ringstraße,11,,54.62616438,9.30292613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iC6J,24992,Janneby,Jannebyer Weg,17,,54.63434998,9.30757039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vP9e,24992,Janneby,Hauptstraße,44,,54.61772089,9.26699693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FEO,24992,Janneby,Südergraben,8,,54.59839232,9.31307005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FEX,24992,Janneby,Südergraben,10,,54.59847532,9.31339382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FF4,24992,Janneby,Südergraben,17,,54.59783652,9.31327919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FF7,24992,Janneby,Südergraben,12,,54.59840604,9.31383455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FFA,24992,Janneby,Südergraben,13,,54.59812959,9.31296438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FFC,24992,Janneby,Südergraben,23,,54.59784215,9.31372109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FFS,24992,Janneby,Südergraben,19,,54.59820631,9.3133334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FFk,24992,Janneby,Südergraben,15,,54.59785993,9.31294598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FFm,24992,Janneby,Südergraben,25,,54.59784884,9.31406838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00062FG1,24992,Janneby,Südergraben,21,,54.59811569,9.31372775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068rYy,24992,Janneby,Kampweg,15,,54.60316155,9.31615178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PkBU,24992,Janneby,Stieglundsanderweg,10,,54.63030566,9.22955938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VYYK,24992,Janneby,Dorfstraße,14,,54.62655362,9.30225806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VYYL,24992,Janneby,Dorfstraße,14,a,54.6264798,9.30228901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006VYYM,24992,Janneby,Dorfstraße,14,b,54.62639379,9.3023251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WgiF,24992,Janneby,Kampweg,9,a,54.60193223,9.31545475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ZUsK,24992,Janneby,Südergraben,10,a,54.59858423,9.31340404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ZYLx,24992,Janneby,Raiffeisenstraße,5,a,54.59998947,9.30328272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000731tM,24992,Janneby,Südergraben,21,a,54.59802951,9.31372482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cQM,24992,Janneby,Südergraben,14,,54.59855428,9.31386391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cQW,24992,Janneby,Südergraben,20,,54.59862989,9.31463167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cR3,24992,Janneby,Südergraben,18,,54.59847868,9.31453565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cR7,24992,Janneby,Südergraben,29,,54.59787097,9.31439773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cRF,24992,Janneby,Südergraben,33,,54.59801048,9.31467377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cRT,24992,Janneby,Südergraben,35,,54.59818109,9.314779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cRe,24992,Janneby,Südergraben,16,,54.59819318,9.31422652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cRn,24992,Janneby,Südergraben,31,,54.597776,9.31482883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073cS4,24992,Janneby,Südergraben,37,,54.598648,9.31490851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074EzY,24992,Janneby,Ringstraße,26,a,54.62687844,9.30352774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ACpm,24992,Janneby,Dorfstraße,12,,54.62637779,9.30194077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ACpn,24992,Janneby,Dorfstraße,12,a,54.62630748,9.30197036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ACpo,24992,Janneby,Dorfstraße,12,b,54.62623871,9.30199931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ORei,24992,Janneby,Wiesenweg,2,a,54.612337,9.27383988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Oyc3,24992,Janneby,Westerende,3,,54.61204377,9.27132887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TklA,24992,Janneby,Westerende,14,,54.61186382,9.26845639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TklE,24992,Janneby,Westerende,16,,54.6118671,9.2682242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TklI,24992,Janneby,Westerende,18,,54.61182461,9.26794974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TklM,24992,Janneby,Westerende,20,,54.61175917,9.26772284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TklR,24992,Janneby,Westerende,22,,54.61176239,9.26743671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gTo3,24992,Janneby,Norderstraße,8,,54.62549976,9.30205831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007hNrL,24992,Janneby,Südergraben,13,a,54.59805172,9.31296177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qjlW,24992,Janneby,Südermoor,1,a,54.60297971,9.28932198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007u3Iv,24992,Janneby,Jannebyer Weg,22,a,54.64156216,9.30041235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008In5s,24992,Janneby,Husumer Weg,2,,54.62567597,9.29975472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008oEq7,24992,Janneby,Westerende,16,a,54.61192917,9.26822549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008oEqh,24992,Janneby,Westerende,14,a,54.61192875,9.26845836

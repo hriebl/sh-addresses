@@ -1,0 +1,437 @@
+# Amtliche Adressen für die Postleitzahl 25791
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBA,25791,Linden,Dorfstraße,23,,54.23500974,9.17547989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBB,25791,Linden,Dorfstraße,25,,54.23483531,9.17553326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBC,25791,Linden,Dorfstraße,25,a,54.2346513,9.17552335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBD,25791,Linden,Dorfstraße,27,,54.23428765,9.17564982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBE,25791,Linden,Dorfstraße,27,a,54.23360999,9.17602473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBF,25791,Linden,Dorfstraße,28,,54.23494781,9.17484515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBG,25791,Linden,Dorfstraße,29,,54.23324571,9.17636689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBH,25791,Linden,Dorfstraße,3,,54.23746322,9.17121666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBI,25791,Linden,Dorfstraße,30,,54.23463257,9.17494392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBJ,25791,Linden,Dorfstraße,31,,54.23323422,9.17696199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBK,25791,Linden,Dorfstraße,32,,54.23447588,9.17504292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBL,25791,Linden,Dorfstraße,33,,54.23321134,9.17753955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBM,25791,Linden,Dorfstraße,34,,54.23422758,9.1749852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBN,25791,Linden,Dorfstraße,36,,54.23403975,9.17507035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBO,25791,Linden,Dorfstraße,37,,54.23338717,9.17875779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBP,25791,Linden,Dorfstraße,38,,54.23382,9.17526825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBQ,25791,Linden,Dorfstraße,39,,54.23339038,9.17902618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBR,25791,Linden,Dorfstraße,4,,54.23701434,9.17183143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBS,25791,Linden,Dorfstraße,40,,54.23351525,9.17545906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBT,25791,Linden,Dorfstraße,5,,54.23726238,9.17137209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBU,25791,Linden,Dorfstraße,6,,54.23720404,9.17316313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBV,25791,Linden,Dorfstraße,7,,54.23743211,9.1730471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBW,25791,Linden,Dorfstraße,8,,54.23725286,9.17351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBX,25791,Linden,Dorfstraße,9,,54.23755069,9.17381567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBY,25791,Linden,Meiereiweg,1,,54.23667039,9.17013461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBZ,25791,Linden,Meiereiweg,3,,54.2357796,9.17161752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBg,25791,Linden,Berg,1,,54.22398694,9.18221862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBh,25791,Linden,Berg,3,,54.2240034,9.18164747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBi,25791,Linden,Berg,4,,54.22438706,9.18179364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBj,25791,Linden,Berg,5,,54.22393446,9.18058288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBk,25791,Linden,Berg,8,,54.22394046,9.17991112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBl,25791,Linden,Dorfstraße,1,,54.23721882,9.17077323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBm,25791,Linden,Dorfstraße,10,,54.23729269,9.17383071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBn,25791,Linden,Dorfstraße,11,,54.2375927,9.17422525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBo,25791,Linden,Dorfstraße,12,,54.23715826,9.17444057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBp,25791,Linden,Dorfstraße,13,,54.23677243,9.17477776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBq,25791,Linden,Dorfstraße,14,,54.23691233,9.17425902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBr,25791,Linden,Dorfstraße,14,a,54.23673418,9.174019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBs,25791,Linden,Dorfstraße,15,,54.23633784,9.17494096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBt,25791,Linden,Dorfstraße,16,,54.23652084,9.17428346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBu,25791,Linden,Dorfstraße,17,,54.23606204,9.17506229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBv,25791,Linden,Dorfstraße,19,,54.23570406,9.17487679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBw,25791,Linden,Dorfstraße,2,,54.23696354,9.17117844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBx,25791,Linden,Dorfstraße,20,,54.23606181,9.17448009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBy,25791,Linden,Dorfstraße,21,,54.23532847,9.17515037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACBz,25791,Linden,Dorfstraße,22,,54.23569653,9.17459369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC0,25791,Linden,Stüv,1,,54.23760864,9.17238279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC1,25791,Linden,Stüv,10,,54.24015193,9.17039965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC2,25791,Linden,Stüv,11,,54.23927571,9.17076336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC3,25791,Linden,Stüv,11,a,54.23947306,9.17056074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC4,25791,Linden,Stüv,12,,54.24184686,9.16684343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC6,25791,Linden,Stüv,17,,54.24087808,9.16762187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC7,25791,Linden,Stüv,19,,54.24284813,9.16433525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC8,25791,Linden,Stüv,3,,54.23793964,9.17204419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACC9,25791,Linden,Stüv,5,,54.23808804,9.17179643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCa,25791,Linden,Stüv,5,a,54.23824084,9.17163089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCb,25791,Linden,Stüv,7,,54.23842605,9.17147723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCc,25791,Linden,Stüv,7,a,54.23851358,9.17131848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCd,25791,Linden,Stüv,7,b,54.2385477,9.17128657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCe,25791,Linden,Stüv,9,,54.23904028,9.17098054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCf,25791,Linden,Vossberg,2,,54.23897729,9.1763755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCg,25791,Linden,Vossberg,3,,54.2388185,9.17520891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCh,25791,Linden,Vossberg,4,,54.23914732,9.17584444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCi,25791,Linden,Vossberg,5,,54.23947748,9.1759887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCj,25791,Linden,Vossberg,6,,54.23974947,9.17669778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCk,25791,Linden,Vossberg,7,,54.2434472,9.18016826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCl,25791,Linden,Ziegeleiweg,1,,54.23762662,9.1688871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCm,25791,Linden,Ziegeleiweg,2,,54.2379081,9.16955855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCn,25791,Linden,Ziegeleiweg,3,,54.23788821,9.16857755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCo,25791,Linden,Ziegeleiweg,5,,54.23806236,9.16878427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCp,25791,Linden,Ziegeleiweg,7,,54.23836205,9.16860955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCq,25791,Linden,Brook,2,,54.23321926,9.17550707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCr,25791,Linden,Brook,4,,54.23291805,9.17489579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCs,25791,Linden,Brook,6,,54.23261914,9.17484766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCt,25791,Linden,Brook,8,,54.23235481,9.17466358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ACCu,25791,Linden,Österholm,1,,54.23430339,9.1827747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AJ3Y,25791,Linden,Brandmoor,2,,54.26850539,9.1846455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AJ40,25791,Linden,Brandmoor,4,,54.26729443,9.1900003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AJ42,25791,Linden,Brandmoor,6,,54.27132579,9.18476131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK22,25791,Linden,Ziegeleiweg,1,,54.25117842,9.1769388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK23,25791,Linden,Ziegeleiweg,3,,54.2489254,9.16807515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK24,25791,Linden,Ziegeleiweg,5,,54.24917917,9.16820682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK25,25791,Linden,Ziegeleiweg,7,,54.25310979,9.1725372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK26,25791,Linden,Ziegeleiweg,9,,54.25424234,9.17181926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK27,25791,Linden,Grüner Weg,1,,54.25637863,9.19836808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK28,25791,Linden,Grüner Weg,2,,54.25735643,9.19810485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK29,25791,Linden,An der Schule,2,,54.25536849,9.19365933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2A,25791,Linden,Buchenweg,6,,54.24804336,9.17628124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2B,25791,Linden,Glüsinger Weg,1,,54.26312155,9.203499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2C,25791,Linden,Glüsinger Weg,10,,54.26058384,9.20509199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2D,25791,Linden,Glüsinger Weg,12,,54.26209245,9.20462988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2E,25791,Linden,Glüsinger Weg,14,,54.26247432,9.20454422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2F,25791,Linden,Glüsinger Weg,2,,54.25987675,9.20517423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2G,25791,Linden,Glüsinger Weg,3,,54.26327988,9.20325382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2H,25791,Linden,Glüsinger Weg,6,,54.26143982,9.20847743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2K,25791,Linden,Oldörp,1,,54.24889666,9.18361456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2L,25791,Linden,Oldörp,10,,54.24818112,9.17947155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2M,25791,Linden,Oldörp,11,,54.24797499,9.18002859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2N,25791,Linden,Oldörp,12,,54.2481015,9.17902627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2O,25791,Linden,Oldörp,13,,54.24797421,9.17969321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2P,25791,Linden,Oldörp,14,,54.2480272,9.17852957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2Q,25791,Linden,Oldörp,15,,54.24790104,9.17935669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2R,25791,Linden,Oldörp,16,,54.24787697,9.17774144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2S,25791,Linden,Oldörp,17,,54.24782634,9.17896965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2T,25791,Linden,Oldörp,19,,54.24764259,9.1780976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2U,25791,Linden,Oldörp,2,,54.24923849,9.18389753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2V,25791,Linden,Oldörp,20,,54.24734652,9.17419957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2W,25791,Linden,Oldörp,21,,54.24766233,9.17838603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2X,25791,Linden,Oldörp,27,,54.24709432,9.1750131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2Y,25791,Linden,Oldörp,4,,54.2490382,9.18322386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2Z,25791,Linden,Oldörp,7,,54.24828834,9.18119243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2a,25791,Linden,An der Schule,5,,54.25561775,9.19315684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2b,25791,Linden,Holtweg,1,,54.25661916,9.18358623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2c,25791,Linden,Holtweg,3,,54.25746316,9.18792553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2d,25791,Linden,Holtweg,3,a,54.25736543,9.18710682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2e,25791,Linden,Brandmoor,1,,54.26176298,9.18902051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2f,25791,Linden,Brandmoor,2,,54.2626828,9.19290959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2g,25791,Linden,Brandmoor,3,,54.26251858,9.19260682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2h,25791,Linden,Brandmoor,6,,54.26392401,9.19281849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2i,25791,Linden,Brandmoor,8,,54.26625086,9.19010463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2j,25791,Linden,Nachtkoppeln,1,,54.24904561,9.20678061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2k,25791,Linden,Nachtkoppeln,1,a,54.25348204,9.20329793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2l,25791,Linden,Nachtkoppeln,2,,54.24976842,9.20540046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2m,25791,Linden,Nachtkoppeln,4,,54.24832303,9.20681277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2n,25791,Linden,Bletzen,14,,54.25089238,9.18839848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2p,25791,Linden,Bletzen,4,,54.25238401,9.18833158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2q,25791,Linden,Bletzen,8,,54.25167077,9.1882816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2r,25791,Linden,Bullweg,1,,54.24300703,9.18987965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2s,25791,Linden,Industrieweg,1,,54.25413611,9.18080674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2t,25791,Linden,Industrieweg,2,,54.25390601,9.18035805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2u,25791,Linden,Industrieweg,3,,54.2529576,9.18052189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2v,25791,Linden,Industrieweg,3,a,54.25350982,9.18034536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2w,25791,Linden,Buchenweg,1,,54.24764129,9.17612096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2x,25791,Linden,Buchenweg,2,,54.24767006,9.17649884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2y,25791,Linden,Buchenweg,3,,54.24790666,9.17594145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK2z,25791,Linden,Buchenweg,4,,54.24783919,9.17636794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK30,25791,Linden,Oldörp,9,,54.24811876,9.18082682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK31,25791,Linden,Birkenweg,1,,54.24779941,9.17731004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK32,25791,Linden,Birkenweg,2,,54.24811867,9.1775675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK33,25791,Linden,Birkenweg,3,,54.24804308,9.17715569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK34,25791,Linden,Birkenweg,4,,54.24834399,9.1774677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK35,25791,Linden,Birkenweg,5,,54.24825803,9.17705868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK36,25791,Linden,Hennstedter Weg,1,,54.2528787,9.18103921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK37,25791,Linden,Hennstedter Weg,10,,54.25372039,9.18178793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK38,25791,Linden,Hennstedter Weg,12,,54.2540072,9.18174172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK39,25791,Linden,Hennstedter Weg,2,,54.25298127,9.18224703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3A,25791,Linden,Ohlmöhlen,8,,54.25058015,9.19064004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3B,25791,Linden,Grüner Ring,1,,54.24968272,9.18413465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3C,25791,Linden,Grüner Ring,10,,54.24860541,9.18385936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3D,25791,Linden,Grüner Ring,11,,54.24925218,9.18592386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3E,25791,Linden,Grüner Ring,12,,54.24840223,9.18449574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3F,25791,Linden,Grüner Ring,14,,54.24849898,9.18474525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3G,25791,Linden,Grüner Ring,16,,54.24854073,9.18539376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3H,25791,Linden,Grüner Ring,2,,54.2499724,9.1833038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3I,25791,Linden,Grüner Ring,22,,54.24935016,9.18741703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3J,25791,Linden,Grüner Ring,24,,54.24950035,9.18781393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3K,25791,Linden,Grüner Ring,26,,54.24962761,9.18810857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3L,25791,Linden,Grüner Ring,28,,54.24997084,9.18878035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3M,25791,Linden,Grüner Ring,3,,54.2493762,9.18428783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3N,25791,Linden,Grüner Ring,4,,54.24983439,9.18340055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3O,25791,Linden,Grüner Ring,6,,54.24964128,9.18352512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3P,25791,Linden,Grüner Ring,8,,54.24941054,9.18369309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3Q,25791,Linden,Grüner Ring,9,,54.24876207,9.18469129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3R,25791,Linden,Barkenholmer Weg,1,,54.25008621,9.18143089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3S,25791,Linden,Barkenholmer Weg,1,a,54.24947848,9.18110729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3T,25791,Linden,Barkenholmer Weg,10,,54.24775593,9.1801396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3U,25791,Linden,Barkenholmer Weg,12,,54.24758569,9.18024005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3V,25791,Linden,Barkenholmer Weg,2,,54.2499029,9.18087992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3W,25791,Linden,Barkenholmer Weg,3,,54.24915877,9.18092896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3X,25791,Linden,Barkenholmer Weg,4,a,54.24968881,9.18076312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3Y,25791,Linden,Barkenholmer Weg,4,b,54.24953973,9.18064653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3Z,25791,Linden,Barkenholmer Weg,4,c,54.2493656,9.18048155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3a,25791,Linden,Hennstedter Weg,3,,54.25323952,9.18163814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3b,25791,Linden,Hennstedter Weg,4,,54.25330139,9.18204883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3c,25791,Linden,Hennstedter Weg,5,,54.253847,9.1812215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3d,25791,Linden,Hennstedter Weg,6,,54.25336782,9.18200722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3e,25791,Linden,Hennstedter Weg,8,,54.25363951,9.18183852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3f,25791,Linden,Pehrskoppel,1,,54.25419075,9.18160538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3g,25791,Linden,Pehrskoppel,2,,54.25415008,9.18225361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3h,25791,Linden,Pehrskoppel,3,,54.25425842,9.18186959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3i,25791,Linden,Pehrskoppel,4,,54.25411944,9.18268153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3j,25791,Linden,Pehrskoppel,5,,54.25437169,9.18231834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3k,25791,Linden,Pehrskoppel,7,,54.25449198,9.18271791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3m,25791,Linden,Lindener Koog,10,,54.26345705,9.16840821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3n,25791,Linden,Lindener Koog,11,,54.26409905,9.16646849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3o,25791,Linden,Lindener Koog,13,,54.2649988,9.17048598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3p,25791,Linden,Lindener Koog,15,,54.26581158,9.16847082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3q,25791,Linden,Lindener Koog,3,,54.25643201,9.17926403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3r,25791,Linden,Lindener Koog,4,,54.25971228,9.17991185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3s,25791,Linden,Lindener Koog,5,,54.257153,9.17828985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3t,25791,Linden,Lindener Koog,7,,54.26022192,9.17534153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3u,25791,Linden,Lindener Koog,9,,54.2635768,9.16796358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3v,25791,Linden,Ohlmöhlen,10,,54.2504919,9.19132667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3w,25791,Linden,Ohlmöhlen,2,,54.2504374,9.18683269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3x,25791,Linden,Ohlmöhlen,3,,54.2506937,9.187189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3y,25791,Linden,Ohlmöhlen,6,,54.25055278,9.187981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK3z,25791,Linden,Ohlmöhlen,6,a,54.25060266,9.18846891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK40,25791,Linden,Barkenholmer Weg,5,,54.24866255,9.18070199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK41,25791,Linden,Barkenholmer Weg,6,,54.2492002,9.18054805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK42,25791,Linden,Barkenholmer Weg,7,,54.24847381,9.1806211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK43,25791,Linden,Barkenholmer Weg,8,,54.24896635,9.18046847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK44,25791,Linden,Dorfstraße,1,,54.25072516,9.18251523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK45,25791,Linden,Dorfstraße,10,,54.25006579,9.18384627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK46,25791,Linden,Dorfstraße,10,a,54.25012774,9.18421728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK47,25791,Linden,Dorfstraße,11,,54.2503478,9.18456091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK48,25791,Linden,Dorfstraße,12,,54.25017081,9.18456188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK49,25791,Linden,Dorfstraße,13,,54.25043972,9.18528933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4A,25791,Linden,Dorfstraße,7,,54.2504734,9.1835026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4B,25791,Linden,Dorfstraße,9,,54.25022525,9.18377788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4C,25791,Linden,Hauptstraße,1,,54.24885054,9.17719244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4D,25791,Linden,Hauptstraße,1,a,54.2486325,9.17680833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4E,25791,Linden,Hauptstraße,10,,54.24969728,9.17945454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4F,25791,Linden,Hauptstraße,11,,54.24974934,9.17890834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4G,25791,Linden,Hauptstraße,12,,54.24977934,9.17968376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4H,25791,Linden,Hauptstraße,13,,54.24985235,9.17923147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4I,25791,Linden,Hauptstraße,14,,54.24987992,9.17989859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4J,25791,Linden,Hauptstraße,15,,54.24997924,9.17945334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4K,25791,Linden,Hauptstraße,17,,54.25022538,9.1801233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4L,25791,Linden,Hauptstraße,18,,54.25016423,9.18048435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4M,25791,Linden,Hauptstraße,19,,54.25042066,9.18053757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4N,25791,Linden,Hauptstraße,2,,54.24850248,9.17709044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4O,25791,Linden,Hauptstraße,20,,54.2506084,9.18115856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4P,25791,Linden,Hauptstraße,21,,54.25065643,9.18070258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4Q,25791,Linden,Hauptstraße,22,,54.25102814,9.18152128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4R,25791,Linden,Hauptstraße,23,,54.25087675,9.1809524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4S,25791,Linden,Hauptstraße,24,,54.2513097,9.18158789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4T,25791,Linden,Hauptstraße,25,,54.25115134,9.18107427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4U,25791,Linden,Hauptstraße,26,,54.25175007,9.18193824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4V,25791,Linden,Hauptstraße,27,,54.25158012,9.18129138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4W,25791,Linden,Hauptstraße,29,,54.25183028,9.18143692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4X,25791,Linden,Hauptstraße,3,,54.24904674,9.17766193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4Y,25791,Linden,Hauptstraße,30,,54.25204099,9.18200073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4Z,25791,Linden,Hauptstraße,31,,54.25206345,9.18161664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4a,25791,Linden,Dorfstraße,14,,54.25015737,9.18526765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4b,25791,Linden,Dorfstraße,15,,54.25053311,9.18544305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4c,25791,Linden,Dorfstraße,15,a,54.25055229,9.18567226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4d,25791,Linden,Dorfstraße,16,,54.25029595,9.18564365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4e,25791,Linden,Dorfstraße,17,,54.25060664,9.18604603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4f,25791,Linden,Dorfstraße,18,,54.25032791,9.18599709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4g,25791,Linden,Dorfstraße,19,,54.250989,9.18589392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4h,25791,Linden,Dorfstraße,2,,54.25051443,9.1828193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4i,25791,Linden,Dorfstraße,20,,54.25064666,9.18649294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4j,25791,Linden,Dorfstraße,20,a,54.2506453,9.18673805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4k,25791,Linden,Dorfstraße,21,,54.25144022,9.18529854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4l,25791,Linden,Dorfstraße,22,,54.25094167,9.18648698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4m,25791,Linden,Dorfstraße,23,,54.25162643,9.18515681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4n,25791,Linden,Dorfstraße,24,,54.2513506,9.18588673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4o,25791,Linden,Dorfstraße,25,,54.25183982,9.18501386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4p,25791,Linden,Dorfstraße,25,a,54.2519801,9.18490823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4q,25791,Linden,Dorfstraße,26,,54.25156335,9.18557532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4r,25791,Linden,Dorfstraße,27,,54.2521204,9.18470495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4s,25791,Linden,Dorfstraße,29,,54.25239681,9.18436306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4t,25791,Linden,Dorfstraße,3,,54.25072154,9.18272374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4u,25791,Linden,Dorfstraße,31,,54.25265316,9.18406491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4v,25791,Linden,Dorfstraße,32,,54.25262832,9.18489263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4w,25791,Linden,Dorfstraße,34,,54.25279953,9.18423568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4x,25791,Linden,Dorfstraße,4,,54.25032996,9.18310385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4y,25791,Linden,Dorfstraße,5,,54.25066492,9.18330851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK4z,25791,Linden,Dorfstraße,6,,54.25017361,9.18318386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK50,25791,Linden,Hauptstraße,32,,54.25231787,9.18215684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK51,25791,Linden,Hauptstraße,33,,54.25230881,9.18181411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK52,25791,Linden,Hauptstraße,34,,54.25251001,9.18265606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK53,25791,Linden,Hauptstraße,35,,54.25256375,9.18210423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK54,25791,Linden,Hauptstraße,37,,54.2530241,9.18287627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK55,25791,Linden,Hauptstraße,38,,54.25279603,9.18355288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK56,25791,Linden,Hauptstraße,39,,54.25306065,9.18310692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK57,25791,Linden,Hauptstraße,39,a,54.25317113,9.18307948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK58,25791,Linden,Hauptstraße,4,,54.24884467,9.177818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK59,25791,Linden,Hauptstraße,40,,54.25293857,9.18467312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5A,25791,Linden,Hauptstraße,65,,54.25344982,9.1899723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5B,25791,Linden,Hauptstraße,66,,54.25329884,9.19122638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5C,25791,Linden,Hauptstraße,68,,54.25336889,9.1915722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5D,25791,Linden,Hauptstraße,7,,54.24943113,9.17827683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5E,25791,Linden,Hauptstraße,70,,54.25343385,9.19187174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5F,25791,Linden,Hauptstraße,8,,54.24953517,9.17907464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5G,25791,Linden,Hauptstraße,9,,54.24955727,9.17854034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5H,25791,Linden,Lurup,1,,54.25376209,9.1919424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5I,25791,Linden,Lurup,10,,54.25429738,9.19550127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5J,25791,Linden,Lurup,11,,54.25447068,9.19514431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5K,25791,Linden,Lurup,12,,54.25610656,9.19954694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5L,25791,Linden,Lurup,13,,54.25459146,9.19544384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5M,25791,Linden,Lurup,15,,54.25575777,9.19769246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5N,25791,Linden,Lurup,17,,54.25601167,9.19848842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5O,25791,Linden,Lurup,19,,54.25691358,9.20072347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5P,25791,Linden,Lurup,2,,54.2535241,9.19242458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5Q,25791,Linden,Lurup,3,,54.25386461,9.19270673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5R,25791,Linden,Lurup,5,,54.25398681,9.19329016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5S,25791,Linden,Lurup,7,,54.25414907,9.19396785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5T,25791,Linden,Pahlkrug,1,,54.25705898,9.20174388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5U,25791,Linden,Pahlkrug,11,,54.25604422,9.21823976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5V,25791,Linden,Pahlkrug,12,,54.25478308,9.22471573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5X,25791,Linden,Pahlkrug,14,,54.25119815,9.22401899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5Y,25791,Linden,Pahlkrug,15,,54.25542074,9.22125066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5Z,25791,Linden,Pahlkrug,16,,54.25426338,9.2275762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5a,25791,Linden,Hauptstraße,41,,54.25312093,9.18333494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5b,25791,Linden,Hauptstraße,42,,54.25295033,9.1849946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5c,25791,Linden,Hauptstraße,43,,54.25314519,9.18367679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5d,25791,Linden,Hauptstraße,44,,54.25281947,9.18556039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5e,25791,Linden,Hauptstraße,45,,54.25323611,9.18444163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5f,25791,Linden,Hauptstraße,46,b,54.25271139,9.18735847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5g,25791,Linden,Hauptstraße,47,,54.25319206,9.18510793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5h,25791,Linden,Hauptstraße,48,,54.25282127,9.18768266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5i,25791,Linden,Hauptstraße,49,,54.25318453,9.1854432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5j,25791,Linden,Hauptstraße,5,,54.2492705,9.17797087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5k,25791,Linden,Hauptstraße,50,,54.25289003,9.18808995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5l,25791,Linden,Hauptstraße,51,,54.25309982,9.18593825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5m,25791,Linden,Hauptstraße,52,,54.2529468,9.18891094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5n,25791,Linden,Hauptstraße,53,,54.25300179,9.18630984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5o,25791,Linden,Hauptstraße,54,,54.252999,9.18924413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5p,25791,Linden,Hauptstraße,56,,54.25305108,9.18957617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5q,25791,Linden,Hauptstraße,57,,54.25301471,9.18734106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5r,25791,Linden,Hauptstraße,58,,54.25310549,9.18986633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5s,25791,Linden,Hauptstraße,59,,54.25337712,9.18705103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5t,25791,Linden,Hauptstraße,59,a,54.25348408,9.18744641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5u,25791,Linden,Hauptstraße,6,,54.24934514,9.17876971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5v,25791,Linden,Hauptstraße,60,,54.25315045,9.19020691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5w,25791,Linden,Hauptstraße,61,,54.25319434,9.18796018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5x,25791,Linden,Hauptstraße,62,,54.25320697,9.19056333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5y,25791,Linden,Hauptstraße,63,,54.25322287,9.18831459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK5z,25791,Linden,Hauptstraße,64,,54.25325746,9.19088672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK60,25791,Linden,Pahlkrug,17,,54.25531148,9.22201987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK61,25791,Linden,Pahlkrug,18,,54.25405939,9.23061478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK62,25791,Linden,Pahlkrug,19,,54.25523431,9.22305722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK63,25791,Linden,Pahlkrug,2,,54.25690516,9.2024505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK64,25791,Linden,Pahlkrug,21,,54.25514637,9.2236867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK65,25791,Linden,Pahlkrug,23,,54.25501621,9.22465155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK66,25791,Linden,Pahlkrug,25,,54.25495874,9.22558274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK67,25791,Linden,Pahlkrug,27,,54.25674336,9.22677094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK68,25791,Linden,Pahlkrug,29,,54.25727016,9.22685234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK69,25791,Linden,Pahlkrug,31,,54.25488167,9.22615768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6A,25791,Linden,Am Gerätehaus,8,,54.25239291,9.18505269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6B,25791,Linden,Löken,1,,54.25330117,9.18902578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6C,25791,Linden,Löken,10,,54.25411069,9.18934164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6D,25791,Linden,Löken,11,,54.25434863,9.18848345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6E,25791,Linden,Löken,11,a,54.254408,9.18846096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6F,25791,Linden,Löken,12,,54.25430309,9.18964311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6G,25791,Linden,Löken,13,,54.25448192,9.18901504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6H,25791,Linden,Löken,14,,54.25453791,9.1894066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6I,25791,Linden,Löken,15,,54.25469602,9.18890156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6J,25791,Linden,Löken,16,,54.25474838,9.18931759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6K,25791,Linden,Löken,17,,54.25463969,9.18827101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6L,25791,Linden,Löken,18,,54.25496441,9.18919182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6M,25791,Linden,Löken,19,,54.25487424,9.18822948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6N,25791,Linden,Löken,2,,54.25337693,9.18943545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6O,25791,Linden,Löken,20,,54.25514385,9.1890847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6P,25791,Linden,Löken,21,,54.25495761,9.18880544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6Q,25791,Linden,Löken,22,,54.25551962,9.18909703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6R,25791,Linden,Löken,23,,54.25520443,9.1884868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6S,25791,Linden,Löken,25,,54.25514922,9.18815251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6T,25791,Linden,Löken,27,,54.25539909,9.18801721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6U,25791,Linden,Löken,29,,54.25545921,9.18843774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6V,25791,Linden,Löken,3,,54.25352134,9.18896196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6W,25791,Linden,Löken,4,,54.25361803,9.18929837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6X,25791,Linden,Löken,5,,54.25368058,9.18881832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6Y,25791,Linden,Löken,6,,54.25380589,9.18980299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6Z,25791,Linden,Löken,7,,54.25386241,9.18862794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6a,25791,Linden,Pahlkrug,35,,54.25438154,9.22998817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6b,25791,Linden,Pahlkrug,4,,54.25640124,9.21525179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6c,25791,Linden,Pahlkrug,5,,54.25741406,9.21230892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6d,25791,Linden,Pahlkrug,6,,54.25599192,9.21653932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6e,25791,Linden,Pahlkrug,7,,54.25707718,9.21535002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6f,25791,Linden,Pahlkrug,8,,54.25491,9.221671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6g,25791,Linden,Pahlkrug,9,,54.25618922,9.21729619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6h,25791,Linden,Eichenweg,1,,54.24744548,9.17537863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6i,25791,Linden,Eichenweg,2,,54.24754575,9.1756587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6j,25791,Linden,Eichenweg,3,,54.24774138,9.17522953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6k,25791,Linden,Eichenweg,4,,54.24778495,9.17558097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6l,25791,Linden,Erlenweg,1,,54.24766546,9.1748473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6m,25791,Linden,Weidenkamp,1,,54.24747252,9.17892363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6n,25791,Linden,Weidenkamp,10,,54.24731569,9.17997485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6o,25791,Linden,Weidenkamp,2,,54.24745032,9.17840975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6p,25791,Linden,Weidenkamp,3,,54.24734568,9.17911895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6q,25791,Linden,Weidenkamp,4,,54.24703089,9.17843366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6r,25791,Linden,Weidenkamp,5,,54.24753198,9.17967458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6s,25791,Linden,Weidenkamp,6,,54.24711737,9.17894629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6t,25791,Linden,Weidenkamp,8,,54.24723216,9.17948861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6u,25791,Linden,Am Gerätehaus,1,,54.25251646,9.18630079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6v,25791,Linden,Am Gerätehaus,10,,54.25235315,9.18481914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6w,25791,Linden,Am Gerätehaus,2,,54.2528753,9.18585319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6x,25791,Linden,Am Gerätehaus,3,,54.25221554,9.18545274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6y,25791,Linden,Am Gerätehaus,4,,54.25248729,9.18581074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK6z,25791,Linden,Am Gerätehaus,6,,54.25243124,9.1854544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK70,25791,Linden,Löken,8,,54.25384231,9.18938687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK71,25791,Linden,Löken,9,,54.25415223,9.18856709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK72,25791,Linden,Goldberg,10,,54.2542745,9.18591813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK73,25791,Linden,Goldberg,11,,54.25510052,9.1850624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK74,25791,Linden,Goldberg,12,,54.2544903,9.18575962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK75,25791,Linden,Goldberg,13,,54.25519362,9.18555198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK76,25791,Linden,Goldberg,14,,54.25474268,9.18568484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK77,25791,Linden,Goldberg,15,,54.2552865,9.18609297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK78,25791,Linden,Goldberg,16,,54.25491823,9.18547362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK79,25791,Linden,Goldberg,17,,54.25537482,9.18650095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7a,25791,Linden,Goldberg,18,,54.25509748,9.18621793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7b,25791,Linden,Goldberg,19,,54.2551395,9.18654325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7c,25791,Linden,Goldberg,20,,54.25484754,9.1863773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7d,25791,Linden,Goldberg,21,,54.25492103,9.18671819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7e,25791,Linden,Goldberg,22,,54.2546392,9.18646198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7f,25791,Linden,Goldberg,23,,54.25470975,9.18664033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7g,25791,Linden,Goldberg,24,,54.25440101,9.18654413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7h,25791,Linden,Goldberg,25,,54.25442825,9.1868489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7i,25791,Linden,Goldberg,26,,54.25419971,9.18664686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7j,25791,Linden,Goldberg,27,,54.25419572,9.18693934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7k,25791,Linden,Goldberg,29,,54.25396593,9.18710812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7l,25791,Linden,Goldberg,3,,54.2538702,9.18575172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7m,25791,Linden,Goldberg,31,,54.25393774,9.18675812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7n,25791,Linden,Goldberg,5,,54.25412074,9.18558565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7o,25791,Linden,Goldberg,6,,54.2537898,9.1862241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7p,25791,Linden,Goldberg,7,,54.25432292,9.18549345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7q,25791,Linden,Goldberg,8,,54.25407068,9.18604804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7r,25791,Linden,Goldberg,9,,54.25463182,9.18528999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AK7s,25791,Linden,Alte Landstraße,1,,54.2573494,9.2080964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Bwbq,25791,Linden,Hauptstraße,15,a,54.25003747,9.17965603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HTEz,25791,Linden,Oldörp,1,a,54.248991,9.18400291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005UXLE,25791,Linden,Bletzen,6,,54.25201753,9.18822865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005VYjg,25791,Linden,Dorfstraße,2,a,54.25046448,9.18220959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WByG,25791,Linden,Barkenholmer Weg,5,a,54.24892106,9.18081214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cnUC,25791,Linden,Barkenholmer Weg,8,a,54.2487575,9.18025599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iAnC,25791,Linden,Oldörp,5,,54.24843904,9.18199223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zfpe,25791,Linden,Barkenholmer Weg,8,b,54.24855399,9.18009683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000658Td,25791,Linden,Hauptstraße,46,a,54.25275113,9.18694276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jR1i,25791,Linden,Bletzen,10,,54.25137968,9.18823724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071rVM,25791,Linden,Vossberg,3,a,54.239517,9.17533673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007eLL3,25791,Linden,Stüv,7,c,54.23872567,9.17109208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYnn,25791,Linden,Am Museumshafen,1,,54.12737508,8.86001731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008JmGF,25791,Linden,Dorfstraße,18,b,54.25035177,9.18644267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008JmGJ,25791,Linden,Dorfstraße,18,a,54.25026096,9.18649711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008fig5,25791,Linden,Lindener Koog,3,a,54.25589383,9.17972597

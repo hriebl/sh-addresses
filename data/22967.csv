@@ -1,0 +1,731 @@
+# Amtliche Adressen für die Postleitzahl 22967
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LrwG,22967,Tremsbüttel,Kupfermühle,2,,53.76212537,10.33574217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lrwy,22967,Tremsbüttel,In de Butz,6,,53.76568023,10.3259149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC1,22967,Tremsbüttel,Achternhoff,10,,53.74382602,10.30873043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC2,22967,Tremsbüttel,Achternhoff,12,,53.74378847,10.30879129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC3,22967,Tremsbüttel,Achternhoff,14,,53.74374964,10.30885308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC4,22967,Tremsbüttel,Achternhoff,16,,53.74370957,10.30891884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC5,22967,Tremsbüttel,Achternhoff,2,,53.74398421,10.30847452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC6,22967,Tremsbüttel,Achternhoff,4,,53.74394571,10.30853683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC7,22967,Tremsbüttel,Achternhoff,6,,53.74390721,10.30859916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC8,22967,Tremsbüttel,Achternhoff,8,,53.74386594,10.3086659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsC9,22967,Tremsbüttel,Am Herrenholz,1,,53.74516636,10.3125276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCA,22967,Tremsbüttel,Bahnhofstraße,21,,53.75893621,10.33616563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCB,22967,Tremsbüttel,Bahnhofstraße,22,,53.76045878,10.33467197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCC,22967,Tremsbüttel,Bahnhofstraße,23,,53.75915808,10.33618774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCD,22967,Tremsbüttel,Bahnhofstraße,23,a,53.75910177,10.33648143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCE,22967,Tremsbüttel,Bahnhofstraße,24,,53.7600089,10.33469958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCF,22967,Tremsbüttel,Bahnhofstraße,25,,53.75909319,10.33676961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCG,22967,Tremsbüttel,Bahnhofstraße,26,,53.75983769,10.33451055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCH,22967,Tremsbüttel,Bahnhofstraße,27,,53.75910208,10.33710696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCI,22967,Tremsbüttel,Bahnhofstraße,28,,53.75939926,10.33468683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCJ,22967,Tremsbüttel,Bahnhofstraße,3,a,53.7625252,10.32942893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCK,22967,Tremsbüttel,Bahnhofstraße,30,,53.75913387,10.33483127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCL,22967,Tremsbüttel,Bahnhofstraße,30,a,53.75891861,10.33433962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCM,22967,Tremsbüttel,Bahnhofstraße,32,,53.75867002,10.33495102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCN,22967,Tremsbüttel,Bahnhofstraße,34,,53.75873322,10.33544395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCO,22967,Tremsbüttel,Bahnhofstraße,36,,53.75868922,10.33607352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCP,22967,Tremsbüttel,Bahnhofstraße,38,,53.75883616,10.33708871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCQ,22967,Tremsbüttel,Bahnhofstraße,4,,53.76213598,10.32935582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCR,22967,Tremsbüttel,Bahnhofstraße,40,,53.75882097,10.33754235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCS,22967,Tremsbüttel,Bahnhofstraße,42,,53.75895298,10.33781931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCT,22967,Tremsbüttel,Bahnhofstraße,6,,53.76207827,10.32960393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCU,22967,Tremsbüttel,Bahnhofstraße,7,,53.76246402,10.32971365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCV,22967,Tremsbüttel,Bahnhofstraße,7,a,53.76162227,10.33323373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCW,22967,Tremsbüttel,Bahnhofstraße,8,,53.76202718,10.32998522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCX,22967,Tremsbüttel,Beektwiete,1,,53.73608744,10.30175734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCY,22967,Tremsbüttel,Beektwiete,1,a,53.73613274,10.3021387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCZ,22967,Tremsbüttel,Beektwiete,1,b,53.73597936,10.30159076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCa,22967,Tremsbüttel,Am Herrenholz,1,c,53.74525941,10.31325687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCb,22967,Tremsbüttel,Am Herrenholz,10,,53.75324497,10.32699578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCc,22967,Tremsbüttel,Am Herrenholz,2,,53.74505038,10.31527322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCd,22967,Tremsbüttel,Am Herrenholz,3,,53.74549839,10.31565378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCe,22967,Tremsbüttel,Am Herrenholz,3,a,53.74593695,10.31691852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCf,22967,Tremsbüttel,Am Herrenholz,4,,53.74553191,10.31690219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCg,22967,Tremsbüttel,Am Herrenholz,4,a,53.7456576,10.31751144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCh,22967,Tremsbüttel,Am Herrenholz,6,,53.74671874,10.31939956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCi,22967,Tremsbüttel,Am Herrenholz,6,a,53.7471099,10.31960009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCj,22967,Tremsbüttel,Am Herrenholz,7,,53.74933205,10.32219593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCk,22967,Tremsbüttel,Am Herrenholz,8,,53.74852045,10.3260066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCl,22967,Tremsbüttel,Am Lütjenmoor,1,,53.74771558,10.31122141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCm,22967,Tremsbüttel,Am Lütjenmoor,1,a,53.74765426,10.31105018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCn,22967,Tremsbüttel,Am Lütjenmoor,2,,53.74781546,10.31043742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCo,22967,Tremsbüttel,Am Lütjenmoor,3,,53.7474853,10.31088074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCp,22967,Tremsbüttel,Am Lütjenmoor,5,,53.74759469,10.31064434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCq,22967,Tremsbüttel,Bahnhofstraße,1,,53.76268334,10.32844942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCr,22967,Tremsbüttel,Bahnhofstraße,10,,53.7617792,10.33034321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCs,22967,Tremsbüttel,Bahnhofstraße,10,a,53.76194763,10.33061238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCt,22967,Tremsbüttel,Bahnhofstraße,12,,53.76183484,10.33082748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCu,22967,Tremsbüttel,Bahnhofstraße,12,a,53.76166486,10.33068069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCv,22967,Tremsbüttel,Bahnhofstraße,14,,53.76161664,10.33116079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCw,22967,Tremsbüttel,Bahnhofstraße,16,,53.7613722,10.3317597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCx,22967,Tremsbüttel,Bahnhofstraße,18,,53.76155982,10.33221561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCy,22967,Tremsbüttel,Bahnhofstraße,2,,53.7622957,10.3291575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsCz,22967,Tremsbüttel,Bahnhofstraße,20,,53.76148408,10.3324119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD0,22967,Tremsbüttel,Beektwiete,1,c,53.73600923,10.30198907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD1,22967,Tremsbüttel,Beektwiete,1,d,53.73633413,10.3020738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD2,22967,Tremsbüttel,Beektwiete,11,,53.73434712,10.29876517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD3,22967,Tremsbüttel,Beektwiete,11,a,53.73417382,10.29861137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD4,22967,Tremsbüttel,Beektwiete,13,,53.7340015,10.29856769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD5,22967,Tremsbüttel,Beektwiete,15,,53.73378868,10.29853719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD6,22967,Tremsbüttel,Beektwiete,15,a,53.73360814,10.29848583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD7,22967,Tremsbüttel,Beektwiete,17,,53.73342868,10.29835468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD8,22967,Tremsbüttel,Beektwiete,2,,53.73621995,10.30121273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsD9,22967,Tremsbüttel,Beektwiete,2,a,53.73616748,10.30100607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDA,22967,Tremsbüttel,Claudiusstraße,29,,53.74613156,10.30673634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDB,22967,Tremsbüttel,Claudiusstraße,30,,53.74555633,10.30646879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDC,22967,Tremsbüttel,Claudiusstraße,31,,53.74622196,10.30700197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDD,22967,Tremsbüttel,Claudiusstraße,32,,53.74559837,10.30639566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDE,22967,Tremsbüttel,Claudiusstraße,34,,53.74585565,10.30666192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDF,22967,Tremsbüttel,Claudiusstraße,38,,53.74607723,10.30724665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDG,22967,Tremsbüttel,Claudiusstraße,38,a,53.74604233,10.30715458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDH,22967,Tremsbüttel,Claudiusstraße,6,,53.74322022,10.30696302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDI,22967,Tremsbüttel,Claudiusstraße,8,,53.74336368,10.3070778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDJ,22967,Tremsbüttel,Damm,1,,53.73661377,10.30604951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDK,22967,Tremsbüttel,Damm,2,,53.73648757,10.30678347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDL,22967,Tremsbüttel,Damm,3,,53.7367013,10.30648475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDM,22967,Tremsbüttel,Damm,4,,53.73657009,10.30700332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDN,22967,Tremsbüttel,Damm,5,,53.73683404,10.30671647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDO,22967,Tremsbüttel,Dorfplatz,1,,53.74256619,10.30924557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDP,22967,Tremsbüttel,Dorfplatz,2,,53.74273757,10.30877025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDQ,22967,Tremsbüttel,Dorfplatz,4,,53.74312562,10.30902167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDT,22967,Tremsbüttel,Dorfplatz,6,,53.74341527,10.30948443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDU,22967,Tremsbüttel,Dorfplatz,7,,53.74315959,10.30956642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDV,22967,Tremsbüttel,Dorfplatz,8,,53.74299065,10.30981395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDW,22967,Tremsbüttel,Fischbeker Weg,1,,53.74991166,10.30720958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDX,22967,Tremsbüttel,Fischbeker Weg,11,,53.7503949,10.30518656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDY,22967,Tremsbüttel,Fischbeker Weg,2,,53.75052179,10.3060444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDZ,22967,Tremsbüttel,Fischbeker Weg,3,,53.7499577,10.30696923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDa,22967,Tremsbüttel,Beektwiete,2,b,53.73605991,10.30085662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDb,22967,Tremsbüttel,Beektwiete,2,c,53.73601297,10.30061918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDc,22967,Tremsbüttel,Beektwiete,2,d,53.73587396,10.30043426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDd,22967,Tremsbüttel,Beektwiete,2,e,53.73646492,10.30168849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDe,22967,Tremsbüttel,Beektwiete,2,f,53.73647874,10.30155396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDf,22967,Tremsbüttel,Beektwiete,3,,53.73580006,10.30112521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDg,22967,Tremsbüttel,Beektwiete,4,,53.7356601,10.30001632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDh,22967,Tremsbüttel,Beektwiete,4,a,53.73575454,10.30020126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDi,22967,Tremsbüttel,Beektwiete,5,,53.73558733,10.3004528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDj,22967,Tremsbüttel,Beektwiete,7,,53.73508047,10.29971027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDk,22967,Tremsbüttel,Buschkoppel,3,,53.74320121,10.30633409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDl,22967,Tremsbüttel,Buschkoppel,5,,53.74325391,10.30612688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDm,22967,Tremsbüttel,Claudiusstraße,11,,53.74474123,10.30736754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDn,22967,Tremsbüttel,Claudiusstraße,13,,53.74478335,10.30729456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDo,22967,Tremsbüttel,Claudiusstraße,14,,53.74492864,10.30760939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDp,22967,Tremsbüttel,Claudiusstraße,15,,53.74527804,10.30643385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDq,22967,Tremsbüttel,Claudiusstraße,16,,53.7449627,10.30755008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDr,22967,Tremsbüttel,Claudiusstraße,17,,53.74531511,10.3063691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDs,22967,Tremsbüttel,Claudiusstraße,19,,53.74542299,10.30617752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDt,22967,Tremsbüttel,Claudiusstraße,2,,53.74292242,10.30684299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDu,22967,Tremsbüttel,Claudiusstraße,21,,53.74546652,10.30612846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDv,22967,Tremsbüttel,Claudiusstraße,23,,53.74572444,10.30584291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDw,22967,Tremsbüttel,Claudiusstraße,25,,53.745848,10.30606522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDx,22967,Tremsbüttel,Claudiusstraße,26,,53.74541613,10.30671433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDy,22967,Tremsbüttel,Claudiusstraße,27,,53.74601166,10.30645402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsDz,22967,Tremsbüttel,Claudiusstraße,28,,53.74546246,10.30663319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE0,22967,Tremsbüttel,Fischbeker Weg,4,,53.75060799,10.30564597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE1,22967,Tremsbüttel,Fischbeker Weg,5,,53.75013139,10.30668302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE2,22967,Tremsbüttel,Fischbeker Weg,6,,53.75066159,10.3054638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE3,22967,Tremsbüttel,Fischbeker Weg,7,,53.75011451,10.30639195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE4,22967,Tremsbüttel,Fischbeker Weg,9,,53.75026749,10.30591667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE5,22967,Tremsbüttel,Fischbeker Weg,9,a,53.75031911,10.30539528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE6,22967,Tremsbüttel,Forstweg,1,,53.75855326,10.33775986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE7,22967,Tremsbüttel,Forstweg,10,,53.75622532,10.33813115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE8,22967,Tremsbüttel,Forstweg,11,,53.75601159,10.33827972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsE9,22967,Tremsbüttel,Forstweg,11,a,53.75584803,10.33824329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEA,22967,Tremsbüttel,Hauptstraße,12,,53.73704341,10.30094379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEB,22967,Tremsbüttel,Hauptstraße,13,,53.7371649,10.30160312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEC,22967,Tremsbüttel,Hauptstraße,13,a,53.73719373,10.30152188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsED,22967,Tremsbüttel,Hauptstraße,13,b,53.73740242,10.30161287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEE,22967,Tremsbüttel,Hauptstraße,13,c,53.73744033,10.3015297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEF,22967,Tremsbüttel,Hauptstraße,14,,53.73694205,10.30111295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEG,22967,Tremsbüttel,Hauptstraße,15,,53.73769351,10.30200854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEH,22967,Tremsbüttel,Hauptstraße,16,,53.73684963,10.3012847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEI,22967,Tremsbüttel,Hauptstraße,16,a,53.73667923,10.30131016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEJ,22967,Tremsbüttel,Hauptstraße,16,b,53.73662467,10.30185213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEK,22967,Tremsbüttel,Hauptstraße,18,,53.73641115,10.30245198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEL,22967,Tremsbüttel,Hauptstraße,19,,53.73682956,10.30220137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEM,22967,Tremsbüttel,Hauptstraße,19,a,53.73690295,10.30222928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEN,22967,Tremsbüttel,Hauptstraße,19,b,53.73703004,10.30226031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEO,22967,Tremsbüttel,Hauptstraße,19,c,53.73707958,10.30254336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEP,22967,Tremsbüttel,Hauptstraße,19,d,53.7369875,10.30258715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEQ,22967,Tremsbüttel,Hauptstraße,19,e,53.73706962,10.30291751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsER,22967,Tremsbüttel,Hauptstraße,19,f,53.73697933,10.3029503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsES,22967,Tremsbüttel,Hauptstraße,19,g,53.73673899,10.30292816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsET,22967,Tremsbüttel,Hauptstraße,19,h,53.73675329,10.30255128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEU,22967,Tremsbüttel,Hauptstraße,2,,53.7376409,10.29970803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEV,22967,Tremsbüttel,Hauptstraße,20,,53.73648452,10.30293107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEW,22967,Tremsbüttel,Hauptstraße,21,,53.73673047,10.30327332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEX,22967,Tremsbüttel,Hauptstraße,22,,53.73650363,10.30341218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEY,22967,Tremsbüttel,Hauptstraße,23,,53.73680251,10.30371841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEZ,22967,Tremsbüttel,Hauptstraße,24,,53.73705851,10.30518229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEa,22967,Tremsbüttel,Forstweg,12,,53.7556552,10.33818803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEb,22967,Tremsbüttel,Forstweg,13,,53.75528969,10.33891329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEc,22967,Tremsbüttel,Forstweg,2,,53.75822513,10.33780925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEd,22967,Tremsbüttel,Forstweg,4,,53.75752554,10.33797124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEe,22967,Tremsbüttel,Forstweg,7,,53.75684393,10.3380927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEf,22967,Tremsbüttel,Forstweg,8,,53.75667133,10.33812222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEg,22967,Tremsbüttel,Forstweg,9,,53.75637317,10.33793948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEh,22967,Tremsbüttel,Grünengrase,1,,53.73284154,10.30334416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEk,22967,Tremsbüttel,Hasencleverstieg,1,,53.74479612,10.31042468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEl,22967,Tremsbüttel,Hasencleverstieg,10,,53.74548313,10.31103082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEm,22967,Tremsbüttel,Hasencleverstieg,12,,53.74576107,10.31093764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEn,22967,Tremsbüttel,Hasencleverstieg,2,,53.74465262,10.31076572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEo,22967,Tremsbüttel,Hasencleverstieg,3,,53.74516276,10.31051017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEp,22967,Tremsbüttel,Hasencleverstieg,4,,53.7448467,10.31094735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEq,22967,Tremsbüttel,Hasencleverstieg,5,,53.74532785,10.31045744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEr,22967,Tremsbüttel,Hasencleverstieg,6,,53.74504712,10.31093245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEs,22967,Tremsbüttel,Hasencleverstieg,7,,53.74547799,10.31045802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEt,22967,Tremsbüttel,Hasencleverstieg,7,a,53.74550455,10.31033233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEu,22967,Tremsbüttel,Hasencleverstieg,8,,53.74521722,10.31095867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEv,22967,Tremsbüttel,Hasencleverstieg,9,,53.74563428,10.31065791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEw,22967,Tremsbüttel,Hauptstraße,1,a,53.73835085,10.29999487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEx,22967,Tremsbüttel,Hauptstraße,1,b,53.73804346,10.29989401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEy,22967,Tremsbüttel,Hauptstraße,11,,53.73724963,10.30183796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsEz,22967,Tremsbüttel,Hauptstraße,11,a,53.73722803,10.30193046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF0,22967,Tremsbüttel,Hauptstraße,24,a,53.73702425,10.30524909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF1,22967,Tremsbüttel,Hauptstraße,24,b,53.7370083,10.30534779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF2,22967,Tremsbüttel,Hauptstraße,24,c,53.73697484,10.30541083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF3,22967,Tremsbüttel,Hauptstraße,24,d,53.73694804,10.30549883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF4,22967,Tremsbüttel,Hauptstraße,24,e,53.73693491,10.30558912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF5,22967,Tremsbüttel,Hauptstraße,24,f,53.73690892,10.3056747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF6,22967,Tremsbüttel,Hauptstraße,24,g,53.73718064,10.30567847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF7,22967,Tremsbüttel,Hauptstraße,24,h,53.7371707,10.30575793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF8,22967,Tremsbüttel,Hauptstraße,24,i,53.73715592,10.3058532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsF9,22967,Tremsbüttel,Hauptstraße,24,j,53.73711805,10.30593158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFA,22967,Tremsbüttel,Hauptstraße,47,,53.7383603,10.30620318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFB,22967,Tremsbüttel,Hauptstraße,48,,53.73996803,10.30732878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFC,22967,Tremsbüttel,Hauptstraße,49,,53.73852773,10.30625657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFD,22967,Tremsbüttel,Hauptstraße,5,,53.73775087,10.30025177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFE,22967,Tremsbüttel,Hauptstraße,50,,53.74012356,10.30753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFF,22967,Tremsbüttel,Hauptstraße,51,,53.73866309,10.30636027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFG,22967,Tremsbüttel,Hauptstraße,53,,53.73890831,10.30622126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFH,22967,Tremsbüttel,Hauptstraße,55,,53.73908819,10.30626835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFI,22967,Tremsbüttel,Hauptstraße,59,,53.7396102,10.30647389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFJ,22967,Tremsbüttel,Hauptstraße,6,,53.7374325,10.30010573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFK,22967,Tremsbüttel,Hauptstraße,61,,53.73977934,10.30667827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFL,22967,Tremsbüttel,Hauptstraße,62,,53.7410433,10.30897602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFM,22967,Tremsbüttel,Hauptstraße,63,,53.74005558,10.30698445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFN,22967,Tremsbüttel,Hauptstraße,64,,53.74166852,10.30937863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFO,22967,Tremsbüttel,Hauptstraße,65,,53.74019188,10.30713149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFP,22967,Tremsbüttel,Hauptstraße,66,,53.74254439,10.31014432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFQ,22967,Tremsbüttel,Hauptstraße,67,,53.74030142,10.30725941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFR,22967,Tremsbüttel,Hauptstraße,69,,53.74071484,10.30747803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFS,22967,Tremsbüttel,Hauptstraße,69,a,53.74076752,10.30754037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFT,22967,Tremsbüttel,Hauptstraße,7,,53.73740215,10.3008531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFU,22967,Tremsbüttel,Hauptstraße,71,,53.74074743,10.30791823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFV,22967,Tremsbüttel,Hauptstraße,71,a,53.74080187,10.30797754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFW,22967,Tremsbüttel,Hauptstraße,73,,53.74095772,10.30769914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFX,22967,Tremsbüttel,Hauptstraße,73,a,53.74101058,10.30775606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFY,22967,Tremsbüttel,Hauptstraße,75,,53.74101365,10.30844569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFZ,22967,Tremsbüttel,Hauptstraße,75,a,53.74124826,10.3081845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFa,22967,Tremsbüttel,Hauptstraße,24,k,53.73708474,10.30599463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFb,22967,Tremsbüttel,Hauptstraße,26,,53.73744483,10.30552545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFc,22967,Tremsbüttel,Hauptstraße,26,a,53.73730992,10.30590931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFd,22967,Tremsbüttel,Hauptstraße,28,,53.73755988,10.30573903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFe,22967,Tremsbüttel,Hauptstraße,3,,53.73785082,10.30000262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFf,22967,Tremsbüttel,Hauptstraße,3,a,53.73811343,10.30035869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFg,22967,Tremsbüttel,Hauptstraße,3,b,53.73825543,10.30024284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFh,22967,Tremsbüttel,Hauptstraße,30,,53.7376844,10.3061402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFi,22967,Tremsbüttel,Hauptstraße,31,,53.73708218,10.30432105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFj,22967,Tremsbüttel,Hauptstraße,32,,53.73792637,10.30650925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFk,22967,Tremsbüttel,Hauptstraße,33,,53.73748032,10.30441422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFl,22967,Tremsbüttel,Hauptstraße,34,,53.73822928,10.30671039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFm,22967,Tremsbüttel,Hauptstraße,35,,53.73752379,10.30451939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFn,22967,Tremsbüttel,Hauptstraße,36,,53.7383983,10.3066664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFo,22967,Tremsbüttel,Hauptstraße,37,,53.73752858,10.30504111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFp,22967,Tremsbüttel,Hauptstraße,38,,53.73872413,10.30664603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFq,22967,Tremsbüttel,Hauptstraße,39,,53.73769219,10.30551662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFr,22967,Tremsbüttel,Hauptstraße,4,,53.73753389,10.29987528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFs,22967,Tremsbüttel,Hauptstraße,4,a,53.73746735,10.29970945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFt,22967,Tremsbüttel,Hauptstraße,40,,53.73919007,10.30679422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFu,22967,Tremsbüttel,Hauptstraße,41,,53.73792992,10.30597696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFv,22967,Tremsbüttel,Hauptstraße,42,,53.73942779,10.30684144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFw,22967,Tremsbüttel,Hauptstraße,43,,53.73811607,10.30612436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFx,22967,Tremsbüttel,Hauptstraße,44,,53.73961067,10.30697772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFy,22967,Tremsbüttel,Hauptstraße,45,,53.73819075,10.30615104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsFz,22967,Tremsbüttel,Hauptstraße,46,,53.73980134,10.30714917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG0,22967,Tremsbüttel,Hauptstraße,75,b,53.74124383,10.30855003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG1,22967,Tremsbüttel,Hauptstraße,75,c,53.74141141,10.3088219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG2,22967,Tremsbüttel,Hauptstraße,77,,53.74174734,10.30906088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG3,22967,Tremsbüttel,Hauptstraße,8,,53.73733014,10.30026451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG4,22967,Tremsbüttel,Hauptstraße,8,a,53.73705679,10.30032575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG5,22967,Tremsbüttel,Hauptstraße,9,,53.73731073,10.30110363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG6,22967,Tremsbüttel,Horst,1,,53.73154626,10.31068778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG7,22967,Tremsbüttel,Horst,2,,53.7315989,10.31126787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG8,22967,Tremsbüttel,Horst,3,,53.73148705,10.31164744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsG9,22967,Tremsbüttel,Horst,5,,53.73049366,10.31785183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGA,22967,Tremsbüttel,Kiebitzmoor,13,,53.74637606,10.30951213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGB,22967,Tremsbüttel,Kiebitzmoor,13,a,53.74620716,10.30914169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGC,22967,Tremsbüttel,Kiebitzmoor,13,b,53.74639178,10.30893212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGD,22967,Tremsbüttel,Kiebitzmoor,13,c,53.746236,10.30861665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGE,22967,Tremsbüttel,Kiebitzmoor,14,,53.74607655,10.3100086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGF,22967,Tremsbüttel,Kiebitzmoor,14,a,53.74599988,10.30945976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGG,22967,Tremsbüttel,Kiebitzmoor,14,b,53.74595803,10.30936051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGH,22967,Tremsbüttel,Kiebitzmoor,14,c,53.74588197,10.30919707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGI,22967,Tremsbüttel,Kiebitzmoor,14,d,53.74584149,10.30911848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGJ,22967,Tremsbüttel,Kiebitzmoor,15,,53.74594454,10.31016491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGK,22967,Tremsbüttel,Kiebitzmoor,16,,53.74579675,10.31028345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGL,22967,Tremsbüttel,Kiebitzmoor,17,,53.7459355,10.31064347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGM,22967,Tremsbüttel,Kiebitzmoor,18,,53.74611514,10.31039385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGN,22967,Tremsbüttel,Kiebitzmoor,19,,53.74626723,10.31024634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGO,22967,Tremsbüttel,Kiebitzmoor,19,a,53.74642827,10.31049305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGP,22967,Tremsbüttel,Kiebitzmoor,2,,53.74717629,10.3113244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGQ,22967,Tremsbüttel,Kiebitzmoor,20,,53.74653468,10.31099705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGR,22967,Tremsbüttel,Kiebitzmoor,21,,53.74629893,10.31104096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGS,22967,Tremsbüttel,Kiebitzmoor,22,,53.74612663,10.31112562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGT,22967,Tremsbüttel,Kiebitzmoor,23,,53.74624089,10.31142278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGU,22967,Tremsbüttel,Kiebitzmoor,24,,53.74647967,10.31143246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGV,22967,Tremsbüttel,Kiebitzmoor,25,,53.74662062,10.31136758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGW,22967,Tremsbüttel,Kiebitzmoor,3,,53.74736118,10.31138908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGX,22967,Tremsbüttel,Kiebitzmoor,4,,53.74719105,10.31095256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGY,22967,Tremsbüttel,Kiebitzmoor,5,,53.74703272,10.31099578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGZ,22967,Tremsbüttel,Kiebitzmoor,6,,53.74677466,10.31054532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGa,22967,Tremsbüttel,Im Hofgarten,1,,53.74342979,10.31160882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGb,22967,Tremsbüttel,Im Hofgarten,1,a,53.74340427,10.31168808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGc,22967,Tremsbüttel,Im Hofgarten,1,b,53.74336971,10.31175786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGd,22967,Tremsbüttel,Im Hofgarten,1,c,53.74334263,10.31183957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGf,22967,Tremsbüttel,Im Winkel,1,,53.76115596,10.33314627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGg,22967,Tremsbüttel,Im Winkel,12,,53.7604098,10.33345806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGh,22967,Tremsbüttel,Im Winkel,14,,53.76029238,10.33393612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGi,22967,Tremsbüttel,Im Winkel,16,,53.76026501,10.33443032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGj,22967,Tremsbüttel,Im Winkel,2,,53.76137056,10.33283202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGk,22967,Tremsbüttel,Im Winkel,3,,53.76090465,10.33302317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGl,22967,Tremsbüttel,Im Winkel,5,,53.76087942,10.33341701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGm,22967,Tremsbüttel,Im Winkel,5,a,53.76119286,10.33368397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGn,22967,Tremsbüttel,Im Winkel,7,,53.76074171,10.33385556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGo,22967,Tremsbüttel,Im Winkel,7,a,53.76100604,10.33416777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGp,22967,Tremsbüttel,Im Winkel,8,,53.76062743,10.3327754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGq,22967,Tremsbüttel,Im Winkel,9,,53.7605948,10.3340883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGr,22967,Tremsbüttel,In de Butz,1,,53.76274476,10.32689105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGs,22967,Tremsbüttel,In de Butz,2,,53.76233645,10.32602602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGt,22967,Tremsbüttel,In de Butz,3,,53.76388831,10.32588547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGu,22967,Tremsbüttel,In de Butz,4,,53.76424244,10.3258084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGv,22967,Tremsbüttel,In de Butz,5,,53.76535493,10.32482971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGw,22967,Tremsbüttel,Kiebitzmoor,1,,53.74691672,10.31144833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGx,22967,Tremsbüttel,Kiebitzmoor,10,,53.74652272,10.30994058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGy,22967,Tremsbüttel,Kiebitzmoor,11,,53.74667435,10.30977363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsGz,22967,Tremsbüttel,Kiebitzmoor,12,,53.74652327,10.30930143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH0,22967,Tremsbüttel,Kiebitzmoor,7,,53.74699433,10.31048539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH1,22967,Tremsbüttel,Kiebitzmoor,8,,53.74682968,10.31007357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH2,22967,Tremsbüttel,Kiebitzmoor,9,,53.7467011,10.31022619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH3,22967,Tremsbüttel,Kattenstieg,1,,53.74544202,10.30754591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH4,22967,Tremsbüttel,Kattenstieg,11,,53.74470229,10.30657203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH5,22967,Tremsbüttel,Kattenstieg,2,,53.74520499,10.30798954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH6,22967,Tremsbüttel,Kattenstieg,3,,53.74533083,10.30771725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH7,22967,Tremsbüttel,Kattenstieg,4,,53.74463014,10.30699246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH8,22967,Tremsbüttel,Kattenstieg,5,,53.74529501,10.30777961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsH9,22967,Tremsbüttel,Kattenstieg,6,,53.74459618,10.30705194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHA,22967,Tremsbüttel,Lasbeker Straße,18,,53.74182773,10.31521133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHB,22967,Tremsbüttel,Lasbeker Straße,19,,53.74365861,10.31796743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHC,22967,Tremsbüttel,Lasbeker Straße,20,,53.74196915,10.31537984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHD,22967,Tremsbüttel,Lasbeker Straße,21,,53.74455328,10.32455796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHE,22967,Tremsbüttel,Lasbeker Straße,21,a,53.74413446,10.32483595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHF,22967,Tremsbüttel,Lasbeker Straße,22,,53.74219527,10.31552707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHG,22967,Tremsbüttel,Lasbeker Straße,22,a,53.74217334,10.31564854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHH,22967,Tremsbüttel,Lasbeker Straße,24,,53.74231526,10.31564406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHI,22967,Tremsbüttel,Lasbeker Straße,26,,53.74252736,10.31577148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHJ,22967,Tremsbüttel,Lasbeker Straße,26,a,53.74244427,10.31584062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHK,22967,Tremsbüttel,Lasbeker Straße,28,,53.74268,10.31595907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHL,22967,Tremsbüttel,Lasbeker Straße,30,,53.74278521,10.31617093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHM,22967,Tremsbüttel,Lasbeker Straße,5,,53.74246076,10.31180881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHN,22967,Tremsbüttel,Lasbeker Straße,7,,53.74232296,10.31202147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHO,22967,Tremsbüttel,Lasbeker Straße,7,a,53.74228394,10.3123093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHP,22967,Tremsbüttel,Lasbeker Straße,7,b,53.74239738,10.31244495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHQ,22967,Tremsbüttel,Lasbeker Straße,7,c,53.7424417,10.312498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHR,22967,Tremsbüttel,Lasbeker Straße,9,,53.74219137,10.31239849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHS,22967,Tremsbüttel,Lehmkuhlenweg,1,,53.73812232,10.29881661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHT,22967,Tremsbüttel,Lehmkuhlenweg,1,b,53.73849469,10.29976175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHU,22967,Tremsbüttel,Lehmkuhlenweg,1,c,53.73860933,10.299567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHV,22967,Tremsbüttel,Lehmkuhlenweg,1,d,53.73866039,10.29947885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHW,22967,Tremsbüttel,Lehmkuhlenweg,11,,53.73846162,10.29833105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHY,22967,Tremsbüttel,Lehmkuhlenweg,13,a,53.73880505,10.29807247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHZ,22967,Tremsbüttel,Lehmkuhlenweg,15,,53.73891853,10.29787055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHb,22967,Tremsbüttel,Kattenstieg,9,,53.74476391,10.30681435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHc,22967,Tremsbüttel,Klinkener Weg,1,,53.75907959,10.3045443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHd,22967,Tremsbüttel,Krönken,2,,53.74916739,10.30817023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHe,22967,Tremsbüttel,Krönken,3,,53.74878921,10.30642491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHf,22967,Tremsbüttel,Krönken,4,,53.74911451,10.30788476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHg,22967,Tremsbüttel,Krönken,6,,53.74918813,10.30754635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHh,22967,Tremsbüttel,Kupfermühler Weg,1,,53.75919832,10.33786721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHi,22967,Tremsbüttel,Kupfermühler Weg,1,b,53.7593725,10.33764683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHj,22967,Tremsbüttel,Kupfermühler Weg,2,,53.75956707,10.33763708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHk,22967,Tremsbüttel,Kupfermühler Weg,3,,53.75972099,10.33811372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHl,22967,Tremsbüttel,Kupfermühler Weg,4,,53.76000876,10.33825825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHm,22967,Tremsbüttel,Kupfermühler Weg,5,,53.76021846,10.33833586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHn,22967,Tremsbüttel,Kupfermühler Weg,6,,53.76039023,10.33841602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHo,22967,Tremsbüttel,Kupfermühler Weg,7,,53.76068165,10.33850383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHp,22967,Tremsbüttel,Kupfermühler Weg,8,,53.76097247,10.33867345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHq,22967,Tremsbüttel,Lasbeker Straße,1,,53.74265276,10.31116873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHr,22967,Tremsbüttel,Lasbeker Straße,11,,53.74213614,10.31284301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHs,22967,Tremsbüttel,Lasbeker Straße,12,,53.7394973,10.31500834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHt,22967,Tremsbüttel,Lasbeker Straße,13,,53.74206665,10.31304718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHu,22967,Tremsbüttel,Lasbeker Straße,14,,53.74126348,10.3148768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHv,22967,Tremsbüttel,Lasbeker Straße,14,a,53.74141218,10.31493142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHw,22967,Tremsbüttel,Lasbeker Straße,15,,53.74193942,10.31343693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHx,22967,Tremsbüttel,Lasbeker Straße,15,a,53.74182663,10.31365878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHy,22967,Tremsbüttel,Lasbeker Straße,16,,53.74158554,10.31492144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsHz,22967,Tremsbüttel,Lasbeker Straße,17,,53.74163659,10.31461835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI0,22967,Tremsbüttel,Lehmkuhlenweg,17,,53.74070929,10.29528646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI1,22967,Tremsbüttel,Lehmkuhlenweg,2,,53.73825333,10.29938114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI2,22967,Tremsbüttel,Lehmkuhlenweg,2,a,53.73835091,10.29916893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI3,22967,Tremsbüttel,Lehmkuhlenweg,3,,53.73817348,10.29875475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI4,22967,Tremsbüttel,Lehmkuhlenweg,4,,53.73848773,10.29890654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI5,22967,Tremsbüttel,Lehmkuhlenweg,4,a,53.73858922,10.29871252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI6,22967,Tremsbüttel,Lehmkuhlenweg,5,,53.73826425,10.29860028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI7,22967,Tremsbüttel,Lehmkuhlenweg,6,,53.73875821,10.29844939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI8,22967,Tremsbüttel,Lehmkuhlenweg,7,,53.73831606,10.2985398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsI9,22967,Tremsbüttel,Lehmkuhlenweg,8,,53.74192956,10.2973783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIA,22967,Tremsbüttel,Rühmblicken,7,,53.74387564,10.30678027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIB,22967,Tremsbüttel,Sattenfelder Straße,1,,53.75031356,10.3073104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIC,22967,Tremsbüttel,Sattenfelder Straße,1,a,53.75059809,10.30724553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsID,22967,Tremsbüttel,Sattenfelder Straße,1,b,53.75098693,10.30728783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIE,22967,Tremsbüttel,Sattenfelder Straße,11,,53.75891942,10.32079714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIF,22967,Tremsbüttel,Sattenfelder Straße,2,,53.75559514,10.32055667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIG,22967,Tremsbüttel,Sattenfelder Straße,2,a,53.75612509,10.32041707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIH,22967,Tremsbüttel,Sattenfelder Straße,3,,53.75112128,10.30741374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsII,22967,Tremsbüttel,Sattenfelder Straße,5,,53.75128115,10.30763054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIJ,22967,Tremsbüttel,Sattenfelder Straße,7,,53.75142322,10.30779115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIK,22967,Tremsbüttel,Sattenfelder Straße,9,,53.75152562,10.30797037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIL,22967,Tremsbüttel,Schloßstraße,1,,53.74321093,10.31042035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIM,22967,Tremsbüttel,Schloßstraße,10,,53.74378346,10.31289615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIN,22967,Tremsbüttel,Schloßstraße,11,,53.74451636,10.31168972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIO,22967,Tremsbüttel,Schloßstraße,12,,53.74422421,10.31240438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIP,22967,Tremsbüttel,Schloßstraße,13,,53.74476193,10.31162514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIQ,22967,Tremsbüttel,Schloßstraße,15,,53.74495053,10.31168928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIR,22967,Tremsbüttel,Schloßstraße,17,,53.74513902,10.31168332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIS,22967,Tremsbüttel,Schloßstraße,19,,53.74529471,10.31167884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIT,22967,Tremsbüttel,Schloßstraße,21,,53.74549606,10.31164446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIU,22967,Tremsbüttel,Schloßstraße,23,,53.74567572,10.3116412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIV,22967,Tremsbüttel,Schloßstraße,24,,53.74526129,10.31210723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIW,22967,Tremsbüttel,Schloßstraße,25,,53.74584604,10.31160423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIX,22967,Tremsbüttel,Schloßstraße,26,,53.74536471,10.31210172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIY,22967,Tremsbüttel,Schloßstraße,27,,53.74604775,10.3115918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIZ,22967,Tremsbüttel,Schloßstraße,29,,53.74790762,10.31096386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIa,22967,Tremsbüttel,Lehmkuhlenweg,9,,53.7384129,10.29838508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIb,22967,Tremsbüttel,Moorweg,1,,53.7571119,10.30978405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIc,22967,Tremsbüttel,Peerstieg,1,,53.74539586,10.30565044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsId,22967,Tremsbüttel,Peerstieg,2,,53.74563366,10.30567349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIe,22967,Tremsbüttel,Poggenstieg,10,,53.7434897,10.3079004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIf,22967,Tremsbüttel,Rehbrook,1,,53.73448117,10.32250263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIg,22967,Tremsbüttel,Rehbrook,2,,53.73416083,10.32311066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIh,22967,Tremsbüttel,Rehbrook,3,,53.73372192,10.3233153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIi,22967,Tremsbüttel,Rehbrook,4,,53.73407856,10.32013847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIj,22967,Tremsbüttel,Rehbrook,4,a,53.73411695,10.32000899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIk,22967,Tremsbüttel,Rehbrook,5,,53.73428438,10.31941492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIl,22967,Tremsbüttel,Rehbrook,6,,53.73448242,10.31872063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIm,22967,Tremsbüttel,Rosenweg,10,,53.75779368,10.33667323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIn,22967,Tremsbüttel,Rosenweg,11,,53.75768905,10.33721169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIo,22967,Tremsbüttel,Rosenweg,12,,53.75765237,10.33669509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIp,22967,Tremsbüttel,Rosenweg,14,,53.75744582,10.33671908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIq,22967,Tremsbüttel,Rosenweg,15,,53.75724608,10.33727814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIr,22967,Tremsbüttel,Rosenweg,16,,53.75721137,10.33665097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIs,22967,Tremsbüttel,Rosenweg,2,,53.75872106,10.33657099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIt,22967,Tremsbüttel,Rosenweg,3,a,53.75864978,10.33711131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIu,22967,Tremsbüttel,Rosenweg,3,b,53.75859851,10.33711928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIv,22967,Tremsbüttel,Rosenweg,4,,53.75844936,10.33658218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIw,22967,Tremsbüttel,Rosenweg,5,,53.75845225,10.33701685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIx,22967,Tremsbüttel,Rosenweg,6,,53.7581998,10.33660682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIy,22967,Tremsbüttel,Rosenweg,7,,53.75824979,10.33712736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsIz,22967,Tremsbüttel,Rosenweg,8,,53.75799451,10.33645278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ0,22967,Tremsbüttel,Schloßstraße,30,,53.74565707,10.31208684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ1,22967,Tremsbüttel,Schloßstraße,31,,53.74811967,10.31062745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ2,22967,Tremsbüttel,Schloßstraße,33,,53.74798939,10.31029769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ3,22967,Tremsbüttel,Schloßstraße,35,,53.74827274,10.31038355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ4,22967,Tremsbüttel,Schloßstraße,36,,53.7459823,10.31213109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ5,22967,Tremsbüttel,Schloßstraße,37,,53.74837489,10.31023255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ6,22967,Tremsbüttel,Schloßstraße,38,,53.74614265,10.3121161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ7,22967,Tremsbüttel,Schloßstraße,39,,53.7484934,10.31011413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ8,22967,Tremsbüttel,Schloßstraße,39,a,53.74862242,10.30985544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJ9,22967,Tremsbüttel,Schloßstraße,40,,53.74620314,10.31216513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJA,22967,Tremsbüttel,Schloßstraße,70,,53.7489101,10.31023322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJB,22967,Tremsbüttel,Schloßstraße,72,,53.74910687,10.30991762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJC,22967,Tremsbüttel,Schloßstraße,74,,53.74924215,10.30980569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJD,22967,Tremsbüttel,Schloßstraße,74,a,53.74928564,10.30972108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJE,22967,Tremsbüttel,Schloßstraße,76,a,53.74932351,10.30951522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJF,22967,Tremsbüttel,Schloßstraße,76,b,53.74938756,10.30960594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJG,22967,Tremsbüttel,Schloßstraße,78,,53.74946807,10.30927064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJH,22967,Tremsbüttel,Schloßstraße,8,,53.74355284,10.31203562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJI,22967,Tremsbüttel,Schloßstraße,80,,53.74965324,10.30898696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJJ,22967,Tremsbüttel,Schloßstraße,82,,53.75003984,10.30875212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJK,22967,Tremsbüttel,Schloßstraße,84,,53.74956382,10.3085849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJL,22967,Tremsbüttel,Schloßstraße,86,,53.74968328,10.30826362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJM,22967,Tremsbüttel,Schloßstraße,9,,53.74361561,10.31107357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJN,22967,Tremsbüttel,Schloßstraße,90,,53.74981183,10.30799959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJO,22967,Tremsbüttel,Schloßstraße,92,,53.75009047,10.30774789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJP,22967,Tremsbüttel,Schweetskroog,1,,53.74466273,10.3079532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJQ,22967,Tremsbüttel,Schweetskroog,11,,53.74448215,10.30826719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJR,22967,Tremsbüttel,Schweetskroog,12,,53.74425068,10.30874922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJS,22967,Tremsbüttel,Schweetskroog,13,,53.74444454,10.30833257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJT,22967,Tremsbüttel,Schweetskroog,14,,53.74421808,10.30915603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJU,22967,Tremsbüttel,Schweetskroog,15,,53.74440367,10.30840323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJV,22967,Tremsbüttel,Schweetskroog,16,,53.7440602,10.30946498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJW,22967,Tremsbüttel,Schweetskroog,17,,53.74474535,10.30874794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJX,22967,Tremsbüttel,Schweetskroog,18,,53.7438848,10.30964438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJY,22967,Tremsbüttel,Schweetskroog,19,,53.74470591,10.30881643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJZ,22967,Tremsbüttel,Schweetskroog,2,,53.74415471,10.30792609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJa,22967,Tremsbüttel,Schloßstraße,41,,53.74875886,10.30959999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJb,22967,Tremsbüttel,Schloßstraße,42,,53.74636629,10.31205383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJc,22967,Tremsbüttel,Schloßstraße,44,,53.74642957,10.31210802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJd,22967,Tremsbüttel,Schloßstraße,46,,53.74669234,10.31203152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJe,22967,Tremsbüttel,Schloßstraße,47,,53.74899055,10.30934727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJf,22967,Tremsbüttel,Schloßstraße,47,a,53.74880739,10.30910056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJg,22967,Tremsbüttel,Schloßstraße,47,b,53.74875866,10.30902058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJh,22967,Tremsbüttel,Schloßstraße,48,,53.74675618,10.3120282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJi,22967,Tremsbüttel,Schloßstraße,49,,53.7490625,10.30879142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJj,22967,Tremsbüttel,Schloßstraße,5,,53.74331733,10.31066751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJk,22967,Tremsbüttel,Schloßstraße,50,,53.74713578,10.31200891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJl,22967,Tremsbüttel,Schloßstraße,51,,53.749299,10.30864052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJm,22967,Tremsbüttel,Schloßstraße,51,a,53.74935714,10.30850034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJn,22967,Tremsbüttel,Schloßstraße,52,,53.74721958,10.31201314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJo,22967,Tremsbüttel,Schloßstraße,53,,53.74945225,10.30811812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJp,22967,Tremsbüttel,Schloßstraße,54,,53.74753287,10.31199363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJq,22967,Tremsbüttel,Schloßstraße,55,,53.74951602,10.30775207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJr,22967,Tremsbüttel,Schloßstraße,56,,53.74761199,10.3119883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJs,22967,Tremsbüttel,Schloßstraße,57,,53.74972398,10.30759034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJt,22967,Tremsbüttel,Schloßstraße,58,,53.74786449,10.31211146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJu,22967,Tremsbüttel,Schloßstraße,60,,53.74787985,10.31175384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJv,22967,Tremsbüttel,Schloßstraße,62,,53.74800075,10.31143523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJw,22967,Tremsbüttel,Schloßstraße,62,a,53.74820004,10.31130915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJx,22967,Tremsbüttel,Schloßstraße,62,b,53.74837244,10.31115935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJy,22967,Tremsbüttel,Schloßstraße,68,,53.74863624,10.31095358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsJz,22967,Tremsbüttel,Schloßstraße,7,,53.74345863,10.31106301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK0,22967,Tremsbüttel,Schweetskroog,20,,53.74377753,10.30997641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK1,22967,Tremsbüttel,Schweetskroog,21,,53.74460791,10.30905091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK2,22967,Tremsbüttel,Schweetskroog,23,,53.74456952,10.30911814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK3,22967,Tremsbüttel,Schweetskroog,25,,53.74443005,10.30929561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK4,22967,Tremsbüttel,Schweetskroog,27,,53.74438815,10.30936894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK5,22967,Tremsbüttel,Schweetskroog,29,,53.74428601,10.30961339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK6,22967,Tremsbüttel,Schweetskroog,3,,53.74462238,10.30802302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK7,22967,Tremsbüttel,Schweetskroog,31,,53.74424338,10.30968707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK8,22967,Tremsbüttel,Schweetskroog,33,,53.74412491,10.30986722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsK9,22967,Tremsbüttel,Schweetskroog,35,,53.74408419,10.30993806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKA,22967,Tremsbüttel,Stolbergstraße,3,,53.74440875,10.31031917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKB,22967,Tremsbüttel,Stolbergstraße,4,,53.74493591,10.31016904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKC,22967,Tremsbüttel,Stolbergstraße,4,a,53.74496873,10.31011098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKD,22967,Tremsbüttel,Stolbergstraße,5,,53.74454399,10.31009401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKE,22967,Tremsbüttel,Stolbergstraße,6,,53.74508857,10.30998304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKF,22967,Tremsbüttel,Stolbergstraße,7,,53.74463988,10.30989126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKG,22967,Tremsbüttel,Stolbergstraße,7,a,53.7446958,10.30979023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKH,22967,Tremsbüttel,Stolbergstraße,8,,53.74518773,10.3095596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKI,22967,Tremsbüttel,Stolbergstraße,9,,53.74479058,10.30964389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKJ,22967,Tremsbüttel,Stolbergstraße,9,a,53.74483321,10.3095671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKK,22967,Tremsbüttel,Twiete,1,,53.74222652,10.30865716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKL,22967,Tremsbüttel,Twiete,10,,53.74414385,10.29242096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKM,22967,Tremsbüttel,Twiete,11,,53.74352298,10.30021426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKN,22967,Tremsbüttel,Twiete,13,,53.74336861,10.29984766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKO,22967,Tremsbüttel,Twiete,15,,53.74324218,10.2996356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKP,22967,Tremsbüttel,Twiete,15,b,53.7417468,10.29797489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKQ,22967,Tremsbüttel,Twiete,17,,53.74316727,10.29250875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKR,22967,Tremsbüttel,Twiete,2,,53.74254729,10.3089855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKS,22967,Tremsbüttel,Twiete,2,a,53.74253615,10.30887148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKT,22967,Tremsbüttel,Twiete,2,d,53.74259993,10.30794603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKU,22967,Tremsbüttel,Twiete,2,e,53.74269906,10.30757303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKV,22967,Tremsbüttel,Twiete,3,,53.7422787,10.30820423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKW,22967,Tremsbüttel,Twiete,4,,53.74276825,10.30711972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKX,22967,Tremsbüttel,Twiete,4,a,53.74381517,10.30357854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKY,22967,Tremsbüttel,Twiete,5,,53.74234641,10.30797139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKZ,22967,Tremsbüttel,Twiete,5,a,53.74236877,10.30767587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKa,22967,Tremsbüttel,Schweetskroog,37,,53.74396538,10.31015248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKb,22967,Tremsbüttel,Schweetskroog,39,,53.74392664,10.31022373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKc,22967,Tremsbüttel,Schweetskroog,4,,53.74416519,10.30800989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKd,22967,Tremsbüttel,Schweetskroog,5,,53.74458401,10.30809025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKe,22967,Tremsbüttel,Schweetskroog,7,,53.74454714,10.30815399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKf,22967,Tremsbüttel,Schweetskroog,9,,53.74452238,10.30819703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKg,22967,Tremsbüttel,Stolbergstraße,1,,53.74426084,10.31056682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKh,22967,Tremsbüttel,Stolbergstraße,10,,53.74555611,10.30978783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKi,22967,Tremsbüttel,Stolbergstraße,11,,53.74493502,10.30935169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKj,22967,Tremsbüttel,Stolbergstraße,12,,53.74542856,10.30931435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKk,22967,Tremsbüttel,Stolbergstraße,13,,53.74505742,10.3091552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKl,22967,Tremsbüttel,Stolbergstraße,14,,53.74554228,10.30918106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKm,22967,Tremsbüttel,Stolbergstraße,14,a,53.74558263,10.30910805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKn,22967,Tremsbüttel,Stolbergstraße,15,,53.74519873,10.30882983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKo,22967,Tremsbüttel,Stolbergstraße,16,,53.74563691,10.30887034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKp,22967,Tremsbüttel,Stolbergstraße,17,,53.74533023,10.30864477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKq,22967,Tremsbüttel,Stolbergstraße,18,,53.74585703,10.30851009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKr,22967,Tremsbüttel,Stolbergstraße,19,,53.74548049,10.30840483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKs,22967,Tremsbüttel,Stolbergstraße,2,,53.74447675,10.3110285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKt,22967,Tremsbüttel,Stolbergstraße,2,a,53.7444274,10.31111954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKu,22967,Tremsbüttel,Stolbergstraße,20,,53.74595643,10.30825218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKv,22967,Tremsbüttel,Stolbergstraße,21,,53.74561553,10.30819814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKw,22967,Tremsbüttel,Stolbergstraße,22,,53.74611504,10.30793202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKx,22967,Tremsbüttel,Stolbergstraße,23,,53.74572889,10.30794901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKy,22967,Tremsbüttel,Stolbergstraße,25,,53.74580272,10.30759792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsKz,22967,Tremsbüttel,Stolbergstraße,25,a,53.7458677,10.30748144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL0,22967,Tremsbüttel,Twiete,6,,53.74365878,10.30213079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL1,22967,Tremsbüttel,Twiete,7,,53.7424314,10.30736419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL2,22967,Tremsbüttel,Twiete,8,,53.7430568,10.294618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL3,22967,Tremsbüttel,Twiete,9,,53.74365087,10.30057386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL4,22967,Tremsbüttel,Ulenstieg,1,,53.74563155,10.30715023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL5,22967,Tremsbüttel,Ulenstieg,2,,53.74552983,10.30736134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL6,22967,Tremsbüttel,Ulenstieg,3,,53.74508228,10.3062158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL7,22967,Tremsbüttel,Ulenstieg,5,,53.74495829,10.30599613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL8,22967,Tremsbüttel,Ulenstieg,6,,53.74498685,10.30644503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsL9,22967,Tremsbüttel,Ulenstieg,8,,53.74483981,10.30631084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLA,22967,Tremsbüttel,Wiesenweg,17,a,53.7354907,10.30712238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLB,22967,Tremsbüttel,Wiesenweg,18,,53.73552144,10.30636908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLC,22967,Tremsbüttel,Wiesenweg,19,,53.73526036,10.30700912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLD,22967,Tremsbüttel,Wiesenweg,2,,53.73649698,10.3042953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLE,22967,Tremsbüttel,Wiesenweg,2,a,53.73576899,10.30427302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLF,22967,Tremsbüttel,Wiesenweg,20,,53.73539045,10.30642883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLG,22967,Tremsbüttel,Wiesenweg,21,,53.73148272,10.309266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLH,22967,Tremsbüttel,Wiesenweg,22,,53.73526862,10.30650781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLI,22967,Tremsbüttel,Wiesenweg,23,,53.73127281,10.30896441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLJ,22967,Tremsbüttel,Wiesenweg,24,,53.73515321,10.30657612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLK,22967,Tremsbüttel,Wiesenweg,24,a,53.7343132,10.30677554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLL,22967,Tremsbüttel,Wiesenweg,25,,53.73113145,10.30912543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLM,22967,Tremsbüttel,Wiesenweg,26,,53.7314132,10.3073105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLN,22967,Tremsbüttel,Wiesenweg,27,,53.73122035,10.30867441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLO,22967,Tremsbüttel,Wiesenweg,4,,53.73608554,10.30450061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLP,22967,Tremsbüttel,Wiesenweg,4,a,53.73605238,10.30481567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLQ,22967,Tremsbüttel,Wiesenweg,5,,53.7364362,10.30517222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLR,22967,Tremsbüttel,Wiesenweg,5,a,53.73652665,10.30549435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLS,22967,Tremsbüttel,Wiesenweg,5,b,53.73658349,10.30572264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLT,22967,Tremsbüttel,Wiesenweg,6,,53.73611887,10.30508713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLU,22967,Tremsbüttel,Wiesenweg,7,,53.73639261,10.30649123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLV,22967,Tremsbüttel,Wiesenweg,9,,53.73612005,10.30657819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLa,22967,Tremsbüttel,Up de Vorburg,2,,53.73741781,10.30405814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLb,22967,Tremsbüttel,Up de Vorburg,4,,53.73751318,10.30367923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLc,22967,Tremsbüttel,Up de Vorburg,5,,53.73731325,10.30332687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLd,22967,Tremsbüttel,Wiesengrund,1,,53.76189813,10.32834269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLe,22967,Tremsbüttel,Wiesengrund,10,,53.76190211,10.32727049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLf,22967,Tremsbüttel,Wiesengrund,12,,53.76173021,10.32698606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLg,22967,Tremsbüttel,Wiesengrund,14,,53.76156073,10.32669971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLh,22967,Tremsbüttel,Wiesengrund,2,,53.76212408,10.32831852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLi,22967,Tremsbüttel,Wiesengrund,3,,53.7618319,10.32803059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLj,22967,Tremsbüttel,Wiesengrund,4,,53.76212485,10.32805312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLk,22967,Tremsbüttel,Wiesengrund,5,,53.76175806,10.3277752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLl,22967,Tremsbüttel,Wiesengrund,6,,53.76208729,10.32775227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLm,22967,Tremsbüttel,Wiesengrund,7,,53.7616662,10.32745895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLn,22967,Tremsbüttel,Wiesengrund,8,,53.76200712,10.32749438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLo,22967,Tremsbüttel,Wiesengrund,9,,53.76152614,10.32715309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLp,22967,Tremsbüttel,Wiesenweg,1,,53.736679,10.30471617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLq,22967,Tremsbüttel,Wiesenweg,10,,53.73632489,10.30594001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLr,22967,Tremsbüttel,Wiesenweg,10,a,53.73615721,10.30608427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLs,22967,Tremsbüttel,Wiesenweg,10,b,53.73600489,10.30613491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLt,22967,Tremsbüttel,Wiesenweg,11,,53.73595438,10.30667153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLu,22967,Tremsbüttel,Wiesenweg,12,,53.73588284,10.30615928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLv,22967,Tremsbüttel,Wiesenweg,13,,53.73579314,10.30675346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLw,22967,Tremsbüttel,Wiesenweg,14,,53.73575816,10.30622496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLx,22967,Tremsbüttel,Wiesenweg,15,,53.73563485,10.3068469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLy,22967,Tremsbüttel,Wiesenweg,16,,53.73563719,10.30630161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LsLz,22967,Tremsbüttel,Wiesenweg,17,,53.7354096,10.30685703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FTc1,22967,Tremsbüttel,Buschkoppel,7,,53.74330887,10.30589768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FTc6,22967,Tremsbüttel,Buschkoppel,16,,53.74381764,10.30568066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FVrW,22967,Tremsbüttel,Rühmblicken,13,,53.74401675,10.30626422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FVs4,22967,Tremsbüttel,Rühmblicken,9,,53.74397977,10.30656946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FVs9,22967,Tremsbüttel,Poggenstieg,6,,53.7436062,10.30760466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004FVsi,22967,Tremsbüttel,Poggenstieg,8,,53.74357756,10.30768025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JwRt,22967,Tremsbüttel,Poggenstieg,9,,53.74368463,10.30809137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RswX,22967,Tremsbüttel,Claudiusstraße,36,,53.74595444,10.30692168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055833,22967,Tremsbüttel,Buschkoppel,6,,53.743468,10.30648627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056i9t,22967,Tremsbüttel,Achternhoff,3,,53.74390007,10.30906964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056wID,22967,Tremsbüttel,Claudiusstraße,35,,53.74629692,10.30775469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00059VeV,22967,Tremsbüttel,Beektwiete,9,,53.73468775,10.29923588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005BdNN,22967,Tremsbüttel,Claudiusstraße,8,a,53.74393027,10.30760782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FuOe,22967,Tremsbüttel,Horst,3,a,53.73128654,10.31140072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005I43M,22967,Tremsbüttel,Buschkoppel,13,,53.74335853,10.30550765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005I43W,22967,Tremsbüttel,Buschkoppel,11,,53.74322913,10.30533889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IX3p,22967,Tremsbüttel,Hauptstraße,22,a,53.73686801,10.30477781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia5F,22967,Tremsbüttel,Rühmblicken,2,,53.74404001,10.30725425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia5G,22967,Tremsbüttel,Rühmblicken,4,,53.74393243,10.30712935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia5M,22967,Tremsbüttel,Rühmblicken,6,,53.74411778,10.30707914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia5S,22967,Tremsbüttel,Rühmblicken,8,,53.74414593,10.30700145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia5W,22967,Tremsbüttel,Rühmblicken,10,,53.74420647,10.30681619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia64,22967,Tremsbüttel,Rühmblicken,18,,53.74434048,10.30624698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia68,22967,Tremsbüttel,Rühmblicken,17,,53.74420021,10.30608665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Ia6d,22967,Tremsbüttel,Rühmblicken,15,,53.74402052,10.30595698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbND,22967,Tremsbüttel,Poggenstieg,7,,53.74377462,10.30790604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbNJ,22967,Tremsbüttel,Poggenstieg,2,,53.74369595,10.30736592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbNO,22967,Tremsbüttel,Poggenstieg,4,,53.74366615,10.30744342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbNT,22967,Tremsbüttel,Schweetskroog,6,,53.74417287,10.30822642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbNX,22967,Tremsbüttel,Schweetskroog,8,,53.74418526,10.30832714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbNn,22967,Tremsbüttel,Claudiusstraße,18,,53.74514254,10.3072329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbO3,22967,Tremsbüttel,Schweetskroog,10,,53.74419597,10.30841427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbO8,22967,Tremsbüttel,Kattenstieg,8,,53.74445452,10.307105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOC,22967,Tremsbüttel,Claudiusstraße,12,,53.74485166,10.30774179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOH,22967,Tremsbüttel,Claudiusstraße,10,,53.74481375,10.30780782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOM,22967,Tremsbüttel,Claudiusstraße,13,a,53.74493522,10.30698604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOd,22967,Tremsbüttel,Claudiusstraße,9,,53.74456613,10.30756811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOi,22967,Tremsbüttel,Claudiusstraße,7,,53.74450901,10.30756882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOn,22967,Tremsbüttel,Claudiusstraße,5,,53.74445434,10.30756949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOs,22967,Tremsbüttel,Claudiusstraße,3,,53.74432918,10.30759103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IbOx,22967,Tremsbüttel,Claudiusstraße,1,,53.74427213,10.30759188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IcCL,22967,Tremsbüttel,Claudiusstraße,22,,53.74519835,10.30692695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005IcCQ,22967,Tremsbüttel,Claudiusstraße,24,,53.74523161,10.30686907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SJ8Y,22967,Tremsbüttel,Rehbrook,5,a,53.734357,10.31915276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SJ8Z,22967,Tremsbüttel,Rehbrook,5,b,53.73440036,10.318951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T2nA,22967,Tremsbüttel,Bahnhofstraße,3,,53.76267403,10.32881153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Vb3S,22967,Tremsbüttel,Hauptstraße,2,a,53.737674,10.29933553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Vb46,22967,Tremsbüttel,Hauptstraße,2,b,53.73774566,10.29910748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XCED,22967,Tremsbüttel,Buschkoppel,18,,53.74359139,10.30551376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a9EX,22967,Tremsbüttel,Forstweg,5,,53.75733214,10.33801776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a9EZ,22967,Tremsbüttel,Forstweg,6,,53.7570942,10.33805177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005a9F6,22967,Tremsbüttel,Kupfermühler Weg,7,a,53.76083094,10.33857425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bttG,22967,Tremsbüttel,Wiesenweg,8,,53.7362327,10.30541239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvkM,22967,Tremsbüttel,Im Winkel,10,,53.76049729,10.33293683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005byC5,22967,Tremsbüttel,Bahnhofstraße,30,b,53.75923938,10.3340658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gCtK,22967,Tremsbüttel,Hauptstraße,47,a,53.73838735,10.30609497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005h10x,22967,Tremsbüttel,Schloßstraße,48,a,53.74688152,10.31199618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iD0W,22967,Tremsbüttel,Hauptstraße,67,a,53.74047669,10.3074201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005lTL1,22967,Tremsbüttel,Buschkoppel,1,,53.74311022,10.30651029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005powP,22967,Tremsbüttel,Bahnhofstraße,26,a,53.75960507,10.33475432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEHN,22967,Tremsbüttel,Dorfplatz,5,b,53.74380725,10.30926102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEI7,22967,Tremsbüttel,Dorfplatz,5,c,53.74376877,10.30933103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEIc,22967,Tremsbüttel,Dorfplatz,5,d,53.74368208,10.3094907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEJD,22967,Tremsbüttel,Dorfplatz,5,e,53.7436436,10.30956059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEJQ,22967,Tremsbüttel,Dorfplatz,5,a,53.74359645,10.30918673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rEJW,22967,Tremsbüttel,Dorfplatz,5,,53.74355804,10.30925682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005t3cf,22967,Tremsbüttel,Duvenstieg,2,,53.744837,10.30855491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uDgH,22967,Tremsbüttel,Buschkoppel,2,,53.7434498,10.30674634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uDgu,22967,Tremsbüttel,Rühmblicken,1,,53.74379834,10.30704756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uEbg,22967,Tremsbüttel,Ulenstieg,4,,53.74511044,10.30664834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uFFL,22967,Tremsbüttel,Claudiusstraße,4,,53.743084,10.30686502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005ub9V,22967,Tremsbüttel,Claudiusstraße,33,,53.74629839,10.30737591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vMLC,22967,Tremsbüttel,Rühmblicken,14,,53.74429166,10.30657495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005w5Ke,22967,Tremsbüttel,Buschkoppel,14,,53.74372982,10.30587766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005w5Kf,22967,Tremsbüttel,Buschkoppel,12,,53.74359326,10.30591175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005w5Kg,22967,Tremsbüttel,Buschkoppel,8,,53.74355407,10.30625386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wKux,22967,Tremsbüttel,Wiesengrund,6,a,53.76219517,10.32775099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wmA5,22967,Tremsbüttel,Duvenstieg,1,,53.74506858,10.30822645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yYn5,22967,Tremsbüttel,Rühmblicken,16,,53.74449413,10.3063434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yloC,22967,Tremsbüttel,Buschkoppel,9,,53.74317605,10.30558962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069jCl,22967,Tremsbüttel,Hauptstraße,17,,53.73716553,10.30210089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006FegE,22967,Tremsbüttel,Schloßstraße,28,,53.74550811,10.31209937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HeXY,22967,Tremsbüttel,Beektwiete,7,b,53.73484165,10.29938503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HeY0,22967,Tremsbüttel,Beektwiete,7,a,53.73489151,10.29952385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Lecn,22967,Tremsbüttel,Rehbrook,1,a,53.7338841,10.32051246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OFak,22967,Tremsbüttel,Beektwiete,9,a,53.73448622,10.29892884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Rtah,22967,Tremsbüttel,Schloßstraße,41,b,53.74853592,10.30932378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RzyT,22967,Tremsbüttel,Im Hofgarten,3,,53.74328328,10.31210016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RzyY,22967,Tremsbüttel,Im Hofgarten,5,,53.74312682,10.31223823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006SvoR,22967,Tremsbüttel,Schloßstraße,32,,53.74581734,10.31215537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ocyY,22967,Tremsbüttel,Im Winkel,3,a,53.7610434,10.33308448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000714QH,22967,Tremsbüttel,Schloßstraße,72,a,53.74919674,10.31009501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000749nS,22967,Tremsbüttel,Up de Vorburg,3,,53.73714124,10.30365333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074HF1,22967,Tremsbüttel,Schloßstraße,84,a,53.74974788,10.30869468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074HF6,22967,Tremsbüttel,Schloßstraße,84,b,53.74979998,10.30871639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007KMVJ,22967,Tremsbüttel,Sattenfelder Straße,1,c,53.75081651,10.30713247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007V2ed,22967,Tremsbüttel,Bahnhofstraße,3,b,53.76259305,10.32910301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YVmD,22967,Tremsbüttel,Lehmkuhlenweg,11,a,53.73863446,10.29835993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YVmE,22967,Tremsbüttel,Lehmkuhlenweg,11,b,53.73870789,10.2982659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YqnR,22967,Tremsbüttel,Bahnhofstraße,20,a,53.76146541,10.33251738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZH8W,22967,Tremsbüttel,Hauptstraße,37,a,53.73757105,10.30528215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZHoE,22967,Tremsbüttel,Schloßstraße,45,,53.74869779,10.30922147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kSdj,22967,Tremsbüttel,Horst,3,b,53.73147884,10.31313683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082lID,22967,Tremsbüttel,Beektwiete,8,,53.72783071,10.30172473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00082lIy,22967,Tremsbüttel,Beektwiete,8,a,53.72819516,10.30172013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083Nkr,22967,Tremsbüttel,Hauptstraße,37,b,53.73760925,10.30535163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00087yDp,22967,Tremsbüttel,Fischbeker Weg,3,a,53.74997416,10.30685804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008l9CU,22967,Tremsbüttel,Twiete,4,b,53.74319507,10.304601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008l9eR,22967,Tremsbüttel,Beektwiete,5,a,53.73546834,10.3001603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xnio,22967,Tremsbüttel,Hauptstraße,16,c,53.7368101,10.30155955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xnip,22967,Tremsbüttel,Hauptstraße,16,d,53.73676683,10.30165922

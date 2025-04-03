@@ -1,0 +1,14 @@
+# Amtliche Adressen für die Postleitzahl 21441
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008t0fD,21441,Norderstedt,Ulzburger Straße,241,,53.70358312,9.99434241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008t0fE,21441,Norderstedt,Ulzburger Straße,243,,53.70383948,9.9942555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008t0fF,21441,Norderstedt,Ulzburger Straße,245,,53.70359397,9.99327679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008t0fG,21441,Norderstedt,Ulzburger Straße,247,,53.70387749,9.99349652

@@ -1,0 +1,890 @@
+# Amtliche Adressen für die Postleitzahl 25794
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA0,25794,Pahlen,Lohe,7,,54.25842114,9.30102096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA1,25794,Pahlen,Lohe,8,,54.25994781,9.3008489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA2,25794,Pahlen,Mühlenweg,10,,54.2607163,9.29858837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA3,25794,Pahlen,Mühlenweg,11,,54.26053385,9.29892661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA4,25794,Pahlen,Mühlenweg,12,,54.26045349,9.29873499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA5,25794,Pahlen,Mühlenweg,13,,54.26035876,9.29912744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA6,25794,Pahlen,Mühlenweg,2,,54.26092821,9.29630044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA7,25794,Pahlen,Mühlenweg,4,,54.26106219,9.29721318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA8,25794,Pahlen,Mühlenweg,5,,54.26137982,9.29919423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFA9,25794,Pahlen,Mühlenweg,7,,54.26102074,9.29881929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAA,25794,Pahlen,Schulstraße,19,,54.26245993,9.30589318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAB,25794,Pahlen,Schulstraße,2,,54.26202725,9.30185279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAC,25794,Pahlen,Schulstraße,20,,54.26220805,9.3058464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAD,25794,Pahlen,Schulstraße,20,a,54.26202843,9.30610171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAE,25794,Pahlen,Schulstraße,21,,54.26231176,9.30631127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAF,25794,Pahlen,Schulstraße,22,,54.26205915,9.30653025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAG,25794,Pahlen,Schulstraße,23,,54.26212759,9.30692146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAH,25794,Pahlen,Schulstraße,25,,54.26219475,9.3074539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAI,25794,Pahlen,Schulstraße,3,,54.26221251,9.30194425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAJ,25794,Pahlen,Schulstraße,4,,54.26207784,9.30242712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAK,25794,Pahlen,Schulstraße,5,,54.26229996,9.30247195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAL,25794,Pahlen,Schulstraße,7,,54.26312089,9.30290008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAM,25794,Pahlen,Schulstraße,8,,54.26216149,9.30312421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAN,25794,Pahlen,Schulstraße,9,,54.26244387,9.30325291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAO,25794,Pahlen,Süderfeld,12,,54.25784585,9.30232629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAP,25794,Pahlen,Süderfeld,14,,54.25769407,9.30250039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAQ,25794,Pahlen,Süderfeld,16,,54.25758143,9.30260056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAR,25794,Pahlen,Süderfeld,18,,54.25721005,9.30272731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAS,25794,Pahlen,Süderfeld,2,,54.25871843,9.30353253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAT,25794,Pahlen,Süderfeld,22,,54.25703835,9.30312555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAU,25794,Pahlen,Süderfeld,24,,54.25689768,9.30333764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAV,25794,Pahlen,Süderfeld,4,,54.25842344,9.3029209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAW,25794,Pahlen,Süderfeld,6,,54.25833783,9.30240064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAX,25794,Pahlen,Süderfeld,8,,54.25810913,9.30235702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAY,25794,Pahlen,Tellingstedter Straße,1,,54.26260128,9.30035003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAZ,25794,Pahlen,Tellingstedter Straße,10,,54.26124673,9.30093076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAa,25794,Pahlen,Mühlenweg,8,,54.26091751,9.29849193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAc,25794,Pahlen,Redderberg,19,,54.25975583,9.31589402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAd,25794,Pahlen,Redderberg,21,,54.25971423,9.3136861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAe,25794,Pahlen,Redderberg,24,,54.25847367,9.31338387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAf,25794,Pahlen,Redderberg,25,,54.25869553,9.31395189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAg,25794,Pahlen,Redderberg,26,,54.25812185,9.3135556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAh,25794,Pahlen,Redderberg,28,,54.25773318,9.31333611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAi,25794,Pahlen,Redderberg,29,,54.25787896,9.31373608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAj,25794,Pahlen,Redderberg,3,,54.26066532,9.31092418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAk,25794,Pahlen,Redderberg,30,,54.25758589,9.31332766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAl,25794,Pahlen,Redderberg,32,,54.25713994,9.31322561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAm,25794,Pahlen,Redderberg,4,,54.26034019,9.31091954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAn,25794,Pahlen,Redderberg,41,,54.25615086,9.32191047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAo,25794,Pahlen,Redderberg,5,,54.26056593,9.31144725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAp,25794,Pahlen,Redderberg,6,,54.25976612,9.31060196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAq,25794,Pahlen,Redderberg,7,,54.26048312,9.31219634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAr,25794,Pahlen,Redderberg,9,,54.26023153,9.3133839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAs,25794,Pahlen,Schulstraße,1,,54.26215209,9.30147115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAt,25794,Pahlen,Schulstraße,1,a,54.26266713,9.30147166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAu,25794,Pahlen,Schulstraße,10,,54.26223775,9.30344718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAv,25794,Pahlen,Schulstraße,14,,54.26227901,9.30442942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAw,25794,Pahlen,Schulstraße,15,,54.26317989,9.30522551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAx,25794,Pahlen,Schulstraße,16,,54.26235112,9.30479205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAy,25794,Pahlen,Schulstraße,17,,54.26281746,9.30549614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFAz,25794,Pahlen,Schulstraße,18,,54.26239649,9.30537084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB0,25794,Pahlen,Tellingstedter Straße,10,a,54.26103522,9.30114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB1,25794,Pahlen,Tellingstedter Straße,12,,54.26001695,9.30194965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB2,25794,Pahlen,Tellingstedter Straße,13,,54.26111757,9.30154663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB3,25794,Pahlen,Tellingstedter Straße,14,,54.25913001,9.30372175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB4,25794,Pahlen,Tellingstedter Straße,17,,54.26032252,9.30286351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB5,25794,Pahlen,Tellingstedter Straße,19,,54.26018167,9.30322052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB6,25794,Pahlen,Tellingstedter Straße,21,,54.25999135,9.30346616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB7,25794,Pahlen,Tellingstedter Straße,21,a,54.25978481,9.30378847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB8,25794,Pahlen,Tellingstedter Straße,25,,54.2592791,9.30399511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFB9,25794,Pahlen,Tellingstedter Straße,27,,54.25847429,9.30402408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBA,25794,Pahlen,Westerjähren,4,,54.25605626,9.30448147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBB,25794,Pahlen,Westerjähren,5,,54.25622832,9.3052249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBC,25794,Pahlen,Westerjähren,6,,54.25604228,9.30497772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBa,25794,Pahlen,Tellingstedter Straße,29,,54.25820641,9.30408975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBb,25794,Pahlen,Tellingstedter Straße,3,,54.26256179,9.30086201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBc,25794,Pahlen,Tellingstedter Straße,31,,54.25762814,9.30397055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBd,25794,Pahlen,Tellingstedter Straße,33,,54.25738116,9.30394081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBe,25794,Pahlen,Tellingstedter Straße,40,,54.256622,9.30345466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBf,25794,Pahlen,Tellingstedter Straße,41,,54.25661131,9.30375732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBg,25794,Pahlen,Tellingstedter Straße,43,,54.25628278,9.30372495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBh,25794,Pahlen,Tellingstedter Straße,45,,54.25605173,9.30369308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBi,25794,Pahlen,Tellingstedter Straße,46,,54.2558678,9.30280236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBj,25794,Pahlen,Tellingstedter Straße,47,,54.25585923,9.30364349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBk,25794,Pahlen,Tellingstedter Straße,48,,54.25552208,9.3029966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBl,25794,Pahlen,Tellingstedter Straße,49,,54.25567693,9.30337778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBm,25794,Pahlen,Tellingstedter Straße,5,,54.26229211,9.30064461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBn,25794,Pahlen,Tellingstedter Straße,50,,54.25538285,9.30256009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBo,25794,Pahlen,Tellingstedter Straße,51,,54.25521505,9.30358711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBp,25794,Pahlen,Tellingstedter Straße,52,,54.25512884,9.30247325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBq,25794,Pahlen,Tellingstedter Straße,56,,54.25474695,9.30250791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBr,25794,Pahlen,Tellingstedter Straße,59,,54.2546271,9.30303979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBs,25794,Pahlen,Tellingstedter Straße,61,,54.25382014,9.30273264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBt,25794,Pahlen,Tellingstedter Straße,63,,54.25343982,9.30263016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBu,25794,Pahlen,Tellingstedter Straße,67,,54.25306904,9.30247365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBv,25794,Pahlen,Tellingstedter Straße,7,,54.26186479,9.30088071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBw,25794,Pahlen,Tellingstedter Straße,8,a,54.26158827,9.30047557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBx,25794,Pahlen,Tellingstedter Straße,8,b,54.26150082,9.30056003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBy,25794,Pahlen,Westerjähren,2,,54.2558962,9.30426695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFBz,25794,Pahlen,Westerjähren,3,,54.25619209,9.30438712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxK,25794,Pahlen,Achterumsweg,1,,54.2596293,9.30406582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxL,25794,Pahlen,Achterumsweg,10,,54.25971078,9.30528718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxM,25794,Pahlen,Achterumsweg,11,,54.26015746,9.30602051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxN,25794,Pahlen,Achterumsweg,12,,54.25986435,9.3057542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxO,25794,Pahlen,Achterumsweg,14,,54.2598951,9.30614325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxP,25794,Pahlen,Achterumsweg,16,a,54.26001863,9.3065645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxQ,25794,Pahlen,Achterumsweg,16,b,54.26000741,9.30646792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxR,25794,Pahlen,Achterumsweg,17,,54.26057688,9.30742771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxS,25794,Pahlen,Achterumsweg,18,,54.26005123,9.30683963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxT,25794,Pahlen,Achterumsweg,19,,54.26065459,9.30771151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxU,25794,Pahlen,Achterumsweg,2,,54.25949085,9.30435592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxV,25794,Pahlen,Achterumsweg,20,,54.26042887,9.30772838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxW,25794,Pahlen,Achterumsweg,21,,54.26087546,9.30808899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxX,25794,Pahlen,Achterumsweg,21,a,54.26111116,9.30903328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxY,25794,Pahlen,Achterumsweg,22,,54.26055108,9.30819549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFxZ,25794,Pahlen,Achterumsweg,23,,54.26137932,9.30913826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy0,25794,Pahlen,Achterumsweg,3,,54.25987006,9.30482488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy1,25794,Pahlen,Achterumsweg,4,,54.25936012,9.3047098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy2,25794,Pahlen,Achterumsweg,5,,54.25995309,9.30511238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy3,25794,Pahlen,Achterumsweg,6,,54.25962385,9.30485481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy4,25794,Pahlen,Achterumsweg,7,,54.26011562,9.30533634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy5,25794,Pahlen,Achterumsweg,8,,54.2596705,9.30504984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy6,25794,Pahlen,An der Kirche,1,,54.26285284,9.29788232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy7,25794,Pahlen,An der Kirche,3,,54.2628159,9.29744229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy8,25794,Pahlen,Buddelberg,1,,54.25415789,9.30308109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFy9,25794,Pahlen,Buddelberg,10,,54.252794,9.3024199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyA,25794,Pahlen,Bergstraße,28,,54.25856752,9.30674315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyB,25794,Pahlen,Bergstraße,3,,54.26059024,9.30670975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyC,25794,Pahlen,Bergstraße,30,,54.25864426,9.30733755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyD,25794,Pahlen,Bergstraße,5,,54.25997663,9.30738339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyE,25794,Pahlen,Bergstraße,50,,54.25686645,9.30737675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyF,25794,Pahlen,Bergstraße,52,,54.25679991,9.30699157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyG,25794,Pahlen,Bergstraße,54,,54.25560493,9.30608105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyH,25794,Pahlen,Bergstraße,7,,54.2597935,9.30749348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyJ,25794,Pahlen,Bergstraße,9,,54.25961907,9.30751219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyK,25794,Pahlen,Breecken,10,,54.25249837,9.30005422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyL,25794,Pahlen,Breecken,12,,54.25253281,9.29966289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyM,25794,Pahlen,Breecken,20,,54.25302322,9.29840108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyN,25794,Pahlen,Breecken,22,,54.25319642,9.29801381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyO,25794,Pahlen,Breecken,6,,54.25245736,9.30050801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyP,25794,Pahlen,Breecken,7,,54.25272948,9.29829118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyQ,25794,Pahlen,Breecken,8,,54.25247373,9.30030843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyR,25794,Pahlen,Hauptstraße,1,,54.26089356,9.30227177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyS,25794,Pahlen,Hauptstraße,10,,54.26070421,9.30504767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyT,25794,Pahlen,Hauptstraße,11,,54.26129909,9.30398972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyU,25794,Pahlen,Hauptstraße,12,,54.26083212,9.30558827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyV,25794,Pahlen,Hauptstraße,13,,54.26086735,9.30448732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyW,25794,Pahlen,Hauptstraße,14,a,54.2609344,9.30592506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyX,25794,Pahlen,Hauptstraße,14,b,54.26103946,9.30616427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyY,25794,Pahlen,Hauptstraße,15,,54.26098258,9.30512286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyZ,25794,Pahlen,Hauptstraße,16,,54.26128846,9.30650812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFya,25794,Pahlen,Buddelberg,11,,54.2530693,9.30374443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyb,25794,Pahlen,Buddelberg,12,,54.25260212,9.30213281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyc,25794,Pahlen,Buddelberg,3,,54.25398672,9.30364739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyd,25794,Pahlen,Buddelberg,5,,54.25431748,9.30392356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFye,25794,Pahlen,Buddelberg,6,,54.25302697,9.30329893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyf,25794,Pahlen,Buddelberg,6,a,54.25296729,9.30334344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyg,25794,Pahlen,Buddelberg,7,,54.25361589,9.30371676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyh,25794,Pahlen,Buddelberg,7,a,54.25341552,9.30368507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyi,25794,Pahlen,Buddelberg,8,,54.25276745,9.30345463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyj,25794,Pahlen,Bergstraße,1,,54.26063821,9.30642191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyk,25794,Pahlen,Bergstraße,10,,54.25963491,9.30641212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyl,25794,Pahlen,Bergstraße,11,,54.25940996,9.30757282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFym,25794,Pahlen,Bergstraße,12,,54.25942088,9.30648545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyn,25794,Pahlen,Bergstraße,13,,54.25943995,9.30808756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyo,25794,Pahlen,Bergstraße,14,,54.25944643,9.30699917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyp,25794,Pahlen,Bergstraße,15,,54.25839737,9.30820837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyq,25794,Pahlen,Bergstraße,16,,54.25919915,9.30710749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyr,25794,Pahlen,Bergstraße,17,,54.25720228,9.30829787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFys,25794,Pahlen,Bergstraße,18,,54.25913837,9.30658253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyt,25794,Pahlen,Bergstraße,20,,54.25893798,9.3065871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyu,25794,Pahlen,Bergstraße,20,a,54.2589231,9.30646475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyv,25794,Pahlen,Bergstraße,21,,54.25590413,9.30880829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyw,25794,Pahlen,Bergstraße,22,,54.25900845,9.30717454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyx,25794,Pahlen,Bergstraße,23,,54.2556121,9.31054889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyy,25794,Pahlen,Bergstraße,24,,54.25884205,9.30721873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFyz,25794,Pahlen,Bergstraße,26,,54.25879675,9.30672501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz0,25794,Pahlen,Hauptstraße,18,,54.26140757,9.30673855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz1,25794,Pahlen,Hauptstraße,19,,54.26103286,9.30546609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz2,25794,Pahlen,Hauptstraße,20,,54.26156132,9.30708944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz3,25794,Pahlen,Hauptstraße,21,,54.26118815,9.3059641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz4,25794,Pahlen,Hauptstraße,24,,54.26164457,9.3080744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz5,25794,Pahlen,Hauptstraße,25,,54.26152852,9.30647019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz6,25794,Pahlen,Hauptstraße,26,,54.26178478,9.30868646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz7,25794,Pahlen,Hauptstraße,27,,54.26165315,9.30693898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz8,25794,Pahlen,Hauptstraße,29,,54.26182292,9.30748701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFz9,25794,Pahlen,Hauptstraße,3,,54.26104491,9.30284605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzA,25794,Pahlen,Hohenlieth,44,,54.26750385,9.33068511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzB,25794,Pahlen,Hohenlieth,50,,54.26848319,9.33309369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzC,25794,Pahlen,Hohenlieth,56,,54.26914062,9.33426802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzD,25794,Pahlen,Hohenlieth,58,,54.26950743,9.33499397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzE,25794,Pahlen,Hohenlieth,64,,54.26953297,9.33800627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzF,25794,Pahlen,Hohenlieth,66,,54.26970032,9.33782739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzG,25794,Pahlen,Hohenlieth,72,,54.2705862,9.33724171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzH,25794,Pahlen,Hohenlieth,74,,54.27077091,9.33780852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzI,25794,Pahlen,Hohenlieth,76,,54.27089123,9.33817329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzJ,25794,Pahlen,Hohenlieth,77,,54.27121708,9.33834742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzK,25794,Pahlen,Hohenlieth,78,,54.27098473,9.33858861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzL,25794,Pahlen,Hohenlieth,80,,54.27092182,9.33922735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzM,25794,Pahlen,Hohenlieth,82,,54.27052803,9.33946756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzN,25794,Pahlen,Lohe,1,,54.25934015,9.30333048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzO,25794,Pahlen,Lohe,10,,54.25896084,9.3020696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzP,25794,Pahlen,Lohe,11,,54.25824057,9.30004852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzQ,25794,Pahlen,Lohe,11,a,54.25825357,9.29972199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzR,25794,Pahlen,Lohe,12,,54.25896935,9.30156875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzS,25794,Pahlen,Lohe,13,,54.25836419,9.29917268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzT,25794,Pahlen,Lohe,14,,54.25857245,9.30044815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzU,25794,Pahlen,Lohe,2,,54.25947757,9.30289207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzV,25794,Pahlen,Lohe,3,,54.25930217,9.3031091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzW,25794,Pahlen,Lohe,3,a,54.25921838,9.30274345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzX,25794,Pahlen,Lohe,4,,54.25940241,9.30227409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzY,25794,Pahlen,Lohe,5,,54.25856626,9.30151262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzZ,25794,Pahlen,Lohe,6,,54.25936953,9.30174497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFza,25794,Pahlen,Hauptstraße,33,,54.26210492,9.30834514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzb,25794,Pahlen,Hauptstraße,33,a,54.26202443,9.30838343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzc,25794,Pahlen,Hauptstraße,35,,54.26215442,9.30887742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzd,25794,Pahlen,Hauptstraße,4,,54.26083288,9.30298663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFze,25794,Pahlen,Hauptstraße,5,,54.26111975,9.30312275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzf,25794,Pahlen,Hauptstraße,6,,54.26095165,9.30330886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzg,25794,Pahlen,Hauptstraße,7,,54.26113296,9.30337037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzh,25794,Pahlen,Hauptstraße,8,,54.26070641,9.30454011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzi,25794,Pahlen,Hauptstraße,9,,54.26108988,9.30359405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzj,25794,Pahlen,Heider Straße,1,,54.26048221,9.3017381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzk,25794,Pahlen,Heider Straße,10,,54.26010905,9.29984751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzl,25794,Pahlen,Heider Straße,2,,54.26055676,9.30123702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzm,25794,Pahlen,Heider Straße,4,,54.26040871,9.30103706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzn,25794,Pahlen,Heider Straße,6,,54.26028345,9.30055351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzo,25794,Pahlen,Heider Straße,8,,54.26018979,9.3000823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzp,25794,Pahlen,Heider Straße,9,,54.25953399,9.29897967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzq,25794,Pahlen,Hohenlieth,16,,54.26216796,9.31814023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzr,25794,Pahlen,Hohenlieth,19,,54.26414638,9.31983356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzs,25794,Pahlen,Hohenlieth,20,,54.26371855,9.31943635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzt,25794,Pahlen,Hohenlieth,24,,54.26466356,9.32187184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzu,25794,Pahlen,Hohenlieth,25,,54.26505818,9.32231362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzv,25794,Pahlen,Hohenlieth,26,,54.26480712,9.32226376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzw,25794,Pahlen,Hohenlieth,27,,54.26528434,9.32262867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzx,25794,Pahlen,Hohenlieth,28,,54.26485953,9.32258229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzy,25794,Pahlen,Hohenlieth,34,,54.26605913,9.32582832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AFzz,25794,Pahlen,Hohenlieth,40,,54.26724533,9.329903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMM,25794,Pahlen,Amselweg,1,,54.26699131,9.29855509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMN,25794,Pahlen,Amselweg,10,,54.26629983,9.29844881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMO,25794,Pahlen,Amselweg,11,,54.26601469,9.29895655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMP,25794,Pahlen,Amselweg,12,,54.26612891,9.29851932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMQ,25794,Pahlen,Amselweg,14,,54.26589974,9.29859247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMR,25794,Pahlen,Amselweg,15,,54.26557685,9.29929238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMS,25794,Pahlen,Amselweg,16,,54.2656857,9.29869824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMT,25794,Pahlen,Amselweg,17,,54.26547795,9.29882333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMU,25794,Pahlen,Amselweg,19,,54.26541861,9.29841009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMV,25794,Pahlen,Amselweg,2,,54.2671057,9.29806629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMW,25794,Pahlen,Amselweg,21,,54.26538007,9.29803155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMX,25794,Pahlen,Amselweg,3,,54.26679625,9.29861347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMY,25794,Pahlen,Amselweg,4,,54.26693213,9.29818396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMMZ,25794,Pahlen,Amselweg,5,,54.26658306,9.29872704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN0,25794,Pahlen,Amselweg,6,,54.26673241,9.29826643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN1,25794,Pahlen,Amselweg,7,,54.26641933,9.29879486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN2,25794,Pahlen,Amselweg,8,,54.26649781,9.29836685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN3,25794,Pahlen,Amselweg,9,,54.26622078,9.29887607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN4,25794,Pahlen,Am Park,1,,54.26674495,9.30058398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN5,25794,Pahlen,Am Park,10,,54.26634877,9.30013377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN6,25794,Pahlen,Am Park,11,,54.26604647,9.30061736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN7,25794,Pahlen,Am Park,12,,54.26613577,9.30020184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN8,25794,Pahlen,Am Park,13,,54.26605968,9.30114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMN9,25794,Pahlen,Am Park,14,,54.26613678,9.2997116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNA,25794,Pahlen,Bergstraße,15,,54.26863005,9.29995597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNB,25794,Pahlen,Bergstraße,16,,54.26834602,9.2989281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNC,25794,Pahlen,Bergstraße,17,,54.26854919,9.30035247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMND,25794,Pahlen,Bergstraße,19,,54.26848651,9.30078199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNE,25794,Pahlen,Bergstraße,2,,54.26769716,9.29687155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNF,25794,Pahlen,Bergstraße,20,,54.26843532,9.29937189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNG,25794,Pahlen,Bergstraße,21,,54.26841348,9.30115932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNH,25794,Pahlen,Bergstraße,22,,54.26824619,9.29970685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNJ,25794,Pahlen,Bergstraße,26,,54.26822639,9.300753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNK,25794,Pahlen,Bergstraße,28,,54.26830549,9.30103621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNL,25794,Pahlen,Bergstraße,3,,54.26809298,9.29754622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNM,25794,Pahlen,Bergstraße,34,,54.26815778,9.30146882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNN,25794,Pahlen,Bergstraße,4,,54.26783432,9.29730611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNO,25794,Pahlen,Bergstraße,6,,54.26792984,9.29757067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNP,25794,Pahlen,Bergstraße,7,,54.26844906,9.29800501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNQ,25794,Pahlen,Bergstraße,8,,54.26802936,9.29788076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNR,25794,Pahlen,Bergstraße,9,,54.26851987,9.29845841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNS,25794,Pahlen,Eiderstraße,1,,54.27062193,9.2994509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNT,25794,Pahlen,Eiderstraße,10,,54.27000861,9.29898532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNU,25794,Pahlen,Eiderstraße,11,,54.27001917,9.29944415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNV,25794,Pahlen,Eiderstraße,12,,54.26973906,9.29898541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNW,25794,Pahlen,Eiderstraße,13,,54.26980284,9.29933835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNX,25794,Pahlen,Eiderstraße,14,,54.2697332,9.29863463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNY,25794,Pahlen,Eiderstraße,15,,54.26966029,9.29964388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNZ,25794,Pahlen,Eiderstraße,17,,54.26972303,9.30009255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNa,25794,Pahlen,Am Park,15,,54.26582237,9.30110391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNb,25794,Pahlen,Am Park,16,,54.26588599,9.29973312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNc,25794,Pahlen,Am Park,17,,54.2658072,9.30071368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNd,25794,Pahlen,Am Park,18,,54.26588064,9.30016062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNe,25794,Pahlen,Am Park,2,,54.26680671,9.30020351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNf,25794,Pahlen,Am Park,20,,54.26558002,9.29974636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNg,25794,Pahlen,Am Park,22,,54.26555501,9.30006859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNh,25794,Pahlen,Am Park,24,,54.26552913,9.30049339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNi,25794,Pahlen,Am Park,26,,54.26554718,9.30084725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNj,25794,Pahlen,Am Park,28,,54.26553269,9.30123788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNk,25794,Pahlen,Am Park,3,,54.26651728,9.30059749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNl,25794,Pahlen,Am Park,4,,54.26657256,9.30019499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNm,25794,Pahlen,Am Park,5,,54.26649533,9.30109606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNn,25794,Pahlen,Am Park,6,,54.26656134,9.29960601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNo,25794,Pahlen,Am Park,7,,54.26629035,9.30112604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNp,25794,Pahlen,Am Park,8,,54.26634638,9.2996395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNq,25794,Pahlen,Am Park,9,,54.26626388,9.30063398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNr,25794,Pahlen,An der Kirche,2,,54.26302917,9.2974554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNs,25794,Pahlen,An der Kirche,4,,54.26298466,9.29709321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNt,25794,Pahlen,An der Kirche,6,,54.26290612,9.29595532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNu,25794,Pahlen,Bergstraße,1,,54.26790072,9.29689063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNv,25794,Pahlen,Bergstraße,10,,54.26814548,9.29821874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNw,25794,Pahlen,Bergstraße,11,,54.26854608,9.29900098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNx,25794,Pahlen,Bergstraße,12,,54.26821929,9.29844101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNy,25794,Pahlen,Bergstraße,13,,54.26858423,9.29950552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMNz,25794,Pahlen,Bergstraße,14,,54.26829673,9.29869744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO0,25794,Pahlen,Eiderstraße,18,,54.26986934,9.29828408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO1,25794,Pahlen,Eiderstraße,19,,54.26948916,9.29971332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO2,25794,Pahlen,Eiderstraße,20,,54.2696384,9.29799535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO3,25794,Pahlen,Eiderstraße,21,,54.26947582,9.29938951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO4,25794,Pahlen,Eiderstraße,22,,54.26971197,9.29768728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO5,25794,Pahlen,Eiderstraße,23,,54.26945482,9.29910222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO6,25794,Pahlen,Eiderstraße,25,,54.2694237,9.29875441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO7,25794,Pahlen,Eiderstraße,26,,54.26948166,9.29728642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO8,25794,Pahlen,Eiderstraße,27,,54.26942391,9.29829699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMO9,25794,Pahlen,Eiderstraße,29,,54.26942139,9.29787795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOA,25794,Pahlen,Fischerstraße,7,,54.27073147,9.30046875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOB,25794,Pahlen,Fischerstraße,8,,54.27127773,9.2986478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOC,25794,Pahlen,Fischerstraße,9,,54.27056274,9.30076615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOD,25794,Pahlen,Hauptstraße,1,,54.27180054,9.29994414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOE,25794,Pahlen,Hauptstraße,10,,54.27192689,9.29788189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOF,25794,Pahlen,Hauptstraße,100,,54.26764334,9.28966536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOG,25794,Pahlen,Hauptstraße,102,,54.26741422,9.28932725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOH,25794,Pahlen,Hauptstraße,104,,54.26732589,9.28916681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOI,25794,Pahlen,Hauptstraße,106,,54.26724687,9.28902102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOJ,25794,Pahlen,Hauptstraße,11,,54.27154587,9.29764496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOK,25794,Pahlen,Hauptstraße,116,,54.26110891,9.27178619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOL,25794,Pahlen,Hauptstraße,12,,54.27176705,9.29760028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOM,25794,Pahlen,Hauptstraße,13,,54.27147135,9.29750234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMON,25794,Pahlen,Hauptstraße,14,,54.27164029,9.2973478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOO,25794,Pahlen,Hauptstraße,16,,54.2715674,9.29710158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOP,25794,Pahlen,Hauptstraße,17,,54.27132086,9.29720306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOQ,25794,Pahlen,Hauptstraße,18,,54.2712936,9.29673129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOR,25794,Pahlen,Hauptstraße,19,,54.27123846,9.29706438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOS,25794,Pahlen,Hauptstraße,2,,54.27367913,9.29822778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOT,25794,Pahlen,Hauptstraße,20,,54.27143243,9.29646682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOU,25794,Pahlen,Hauptstraße,21,,54.27114182,9.29689958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOV,25794,Pahlen,Hauptstraße,22,,54.2716523,9.29632702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOW,25794,Pahlen,Hauptstraße,23,,54.27104173,9.29672534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOX,25794,Pahlen,Hauptstraße,24,,54.27203922,9.29593348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOY,25794,Pahlen,Hauptstraße,25,,54.2709341,9.29654074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOZ,25794,Pahlen,Hauptstraße,27,,54.27075467,9.29623193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOa,25794,Pahlen,Eiderstraße,3,,54.27040465,9.29940542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOc,25794,Pahlen,Eiderstraße,4,,54.27046954,9.29897384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOd,25794,Pahlen,Eiderstraße,5,,54.27022396,9.29945168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOe,25794,Pahlen,Eiderstraße,6,,54.27027634,9.29897294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOf,25794,Pahlen,Eiderstraße,7,,54.27019155,9.30020479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOg,25794,Pahlen,Eiderstraße,9,,54.27003249,9.30019932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOh,25794,Pahlen,Fischerstraße,1,,54.27162638,9.29924707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOi,25794,Pahlen,Fischerstraße,10,,54.27120984,9.29879095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOj,25794,Pahlen,Fischerstraße,11,,54.27031315,9.30117191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOk,25794,Pahlen,Fischerstraße,12,,54.27062628,9.29979832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOl,25794,Pahlen,Fischerstraße,13,,54.27008544,9.3015456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOm,25794,Pahlen,Fischerstraße,14,,54.2704681,9.30013193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOn,25794,Pahlen,Fischerstraße,15,,54.27124148,9.30171235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOo,25794,Pahlen,Fischerstraße,17,,54.27135934,9.30116678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOp,25794,Pahlen,Fischerstraße,2,,54.27145993,9.29830466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOq,25794,Pahlen,Fischerstraße,22,,54.26934356,9.30112782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOr,25794,Pahlen,Fischerstraße,24,,54.26914666,9.30115381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOs,25794,Pahlen,Fischerstraße,25,,54.26892231,9.30178796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOt,25794,Pahlen,Fischerstraße,26,,54.26894492,9.30131229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOu,25794,Pahlen,Fischerstraße,27,,54.26861377,9.30206134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOv,25794,Pahlen,Fischerstraße,28,,54.26873443,9.3013651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOw,25794,Pahlen,Fischerstraße,3,,54.27121487,9.29962676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOx,25794,Pahlen,Fischerstraße,4,,54.27136792,9.29845447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOy,25794,Pahlen,Fischerstraße,5,,54.27088322,9.30011373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMOz,25794,Pahlen,Fischerstraße,6,,54.27124461,9.29831904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP0,25794,Pahlen,Hauptstraße,3,,54.27203413,9.29928878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP1,25794,Pahlen,Hauptstraße,31,,54.27001297,9.2951447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP2,25794,Pahlen,Hauptstraße,33,,54.26973248,9.29431275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP3,25794,Pahlen,Hauptstraße,36,,54.27114653,9.29637354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP4,25794,Pahlen,Hauptstraße,38,a,54.27098981,9.29615925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP5,25794,Pahlen,Hauptstraße,38,b,54.2711533,9.29596379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP6,25794,Pahlen,Hauptstraße,38,c,54.27144381,9.29567851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP7,25794,Pahlen,Hauptstraße,39,,54.26891588,9.29304151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP8,25794,Pahlen,Hauptstraße,4,,54.27347318,9.29823707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMP9,25794,Pahlen,Hauptstraße,40,,54.27079014,9.29563338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPA,25794,Pahlen,Heese,1,,54.26746099,9.29755937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPB,25794,Pahlen,Heese,10,,54.26696093,9.3017007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPC,25794,Pahlen,Heese,11,,54.26723166,9.29969753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPD,25794,Pahlen,Heese,12,,54.26712616,9.30166163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPE,25794,Pahlen,Heese,13,,54.26705275,9.3003604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPF,25794,Pahlen,Heese,14,,54.26733765,9.30165148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPG,25794,Pahlen,Heese,16,,54.26753057,9.30156377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPH,25794,Pahlen,Heese,17,,54.26728543,9.30121303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPI,25794,Pahlen,Heese,18,,54.26770671,9.30151752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPJ,25794,Pahlen,Heese,19,,54.26749127,9.30117098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPK,25794,Pahlen,Heese,2,,54.26697828,9.29921223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPL,25794,Pahlen,Heese,20,,54.26788771,9.30142831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPM,25794,Pahlen,Heese,21,,54.26768123,9.30119709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPN,25794,Pahlen,Heese,23,,54.26793444,9.30114906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPO,25794,Pahlen,Heese,4,,54.26694377,9.29949591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPP,25794,Pahlen,Heese,5,,54.26739257,9.29828461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPQ,25794,Pahlen,Heese,6,,54.26690346,9.29981762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPR,25794,Pahlen,Heese,7,,54.26728968,9.29855679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPS,25794,Pahlen,Heese,8,,54.26679039,9.30112127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPT,25794,Pahlen,Heese,9,,54.26725984,9.29886983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPU,25794,Pahlen,Höchster Berg,1,,54.25991303,9.28462492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPV,25794,Pahlen,Höchster Berg,10,,54.25404053,9.26616579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPW,25794,Pahlen,Höchster Berg,2,,54.25967208,9.28552259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPX,25794,Pahlen,Höchster Berg,3,,54.25874245,9.28490078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPY,25794,Pahlen,Höchster Berg,4,,54.25858736,9.28448233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPZ,25794,Pahlen,Höchster Berg,5,,54.2552164,9.28348616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPa,25794,Pahlen,Hauptstraße,41,,54.2681364,9.29116768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPb,25794,Pahlen,Hauptstraße,43,,54.26778288,9.290442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPc,25794,Pahlen,Hauptstraße,44,,54.27058805,9.29534158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPd,25794,Pahlen,Hauptstraße,45,,54.26763398,9.29008828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPe,25794,Pahlen,Hauptstraße,46,,54.2708888,9.29498108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPf,25794,Pahlen,Hauptstraße,47,,54.26742882,9.29027934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPg,25794,Pahlen,Hauptstraße,48,,54.27045654,9.29509308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPh,25794,Pahlen,Hauptstraße,49,,54.26747036,9.28982531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPi,25794,Pahlen,Hauptstraße,50,,54.27034448,9.29491712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPj,25794,Pahlen,Hauptstraße,51,,54.26734863,9.2896165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPk,25794,Pahlen,Hauptstraße,52,,54.27062682,9.29462624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPl,25794,Pahlen,Hauptstraße,54,,54.27021453,9.29468425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPm,25794,Pahlen,Hauptstraße,56,,54.27005328,9.29445401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPn,25794,Pahlen,Hauptstraße,56,a,54.27040631,9.29414038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPo,25794,Pahlen,Hauptstraße,58,,54.27059977,9.29394232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPp,25794,Pahlen,Hauptstraße,6,,54.27218886,9.29864719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPq,25794,Pahlen,Hauptstraße,60,,54.2708295,9.29371766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPr,25794,Pahlen,Hauptstraße,8,,54.27201844,9.29816548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPs,25794,Pahlen,Hauptstraße,80,,54.26903659,9.29248292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPt,25794,Pahlen,Hauptstraße,82,,54.26887262,9.29207244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPu,25794,Pahlen,Hauptstraße,84,,54.26911543,9.291956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPv,25794,Pahlen,Hauptstraße,88,,54.26959879,9.29123236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPw,25794,Pahlen,Hauptstraße,92,,54.26931589,9.29148408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPx,25794,Pahlen,Hauptstraße,94,,54.26904826,9.29168412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPy,25794,Pahlen,Hauptstraße,96,,54.26859447,9.29159165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMPz,25794,Pahlen,Hauptstraße,98,,54.26816522,9.29072314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ0,25794,Pahlen,Höchster Berg,6,,54.25495387,9.2828055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ1,25794,Pahlen,Höchster Berg,7,,54.25627142,9.27404916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ2,25794,Pahlen,Höchster Berg,7,a,54.25547397,9.26959872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ3,25794,Pahlen,Höchster Berg,8,,54.25580228,9.26759355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ4,25794,Pahlen,Höchster Berg,9,,54.25524497,9.26507909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ5,25794,Pahlen,Hohenlieth,51,,54.26842781,9.33229381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ6,25794,Pahlen,Hohenlieth,55,,54.26895524,9.3333059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ7,25794,Pahlen,Hohenlieth,71,,54.27071253,9.3369448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ8,25794,Pahlen,Hohenlieth,81,,54.27810942,9.33523902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQ9,25794,Pahlen,Kirchweg,1,,54.26214713,9.29503856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQA,25794,Pahlen,Lütjenkamp,17,,54.26976486,9.28556666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQB,25794,Pahlen,Lütjenkamp,18,,54.2693191,9.28706724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQC,25794,Pahlen,Lütjenkamp,19,,54.269898,9.28535437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQD,25794,Pahlen,Lütjenkamp,2,,54.26849125,9.28832067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQE,25794,Pahlen,Lütjenkamp,2,a,54.26829518,9.288863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQF,25794,Pahlen,Lütjenkamp,20,,54.26948699,9.28674142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQG,25794,Pahlen,Lütjenkamp,21,,54.27002877,9.28516378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQH,25794,Pahlen,Lütjenkamp,22,,54.26968607,9.28639139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQI,25794,Pahlen,Lütjenkamp,23,,54.27017279,9.28494617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQJ,25794,Pahlen,Lütjenkamp,24,,54.27004679,9.28571815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQK,25794,Pahlen,Lütjenkamp,25,,54.26992321,9.2845239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQL,25794,Pahlen,Lütjenkamp,26,,54.27017965,9.28552145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQM,25794,Pahlen,Lütjenkamp,27,,54.27029239,9.28475529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQN,25794,Pahlen,Lütjenkamp,28,,54.27030029,9.285341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQO,25794,Pahlen,Lütjenkamp,29,,54.27044782,9.28452144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQP,25794,Pahlen,Lütjenkamp,30,,54.27040383,9.28518017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQQ,25794,Pahlen,Lütjenkamp,31,,54.27053604,9.28439395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQR,25794,Pahlen,Lütjenkamp,32,,54.27054315,9.28498248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQS,25794,Pahlen,Lütjenkamp,33,,54.27067403,9.28419473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQT,25794,Pahlen,Lütjenkamp,34,,54.27065559,9.2848139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQU,25794,Pahlen,Lütjenkamp,35,,54.27083736,9.28396278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQV,25794,Pahlen,Lütjenkamp,36,,54.27077627,9.2846381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQW,25794,Pahlen,Lütjenkamp,37,,54.27062171,9.28298494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQX,25794,Pahlen,Lütjenkamp,38,,54.27090911,9.28444292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQY,25794,Pahlen,Lütjenkamp,39,,54.270515,9.28243947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQZ,25794,Pahlen,Lütjenkamp,4,,54.26863126,9.28876223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQa,25794,Pahlen,Kirchweg,1,a,54.2619614,9.29479001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQb,25794,Pahlen,Kirchweg,11,,54.26330313,9.29219051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQc,25794,Pahlen,Kirchweg,11,a,54.2631179,9.29244556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQd,25794,Pahlen,Kirchweg,13,,54.26343858,9.29182581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQe,25794,Pahlen,Kirchweg,3,,54.26227608,9.2948218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQf,25794,Pahlen,Kirchweg,4,a,54.263186,9.29525775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQg,25794,Pahlen,Kirchweg,5,,54.26248787,9.29509323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQh,25794,Pahlen,Kirchweg,6,,54.26340096,9.29509266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQi,25794,Pahlen,Kirchweg,6,a,54.26356573,9.29500874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQj,25794,Pahlen,Kirchweg,7,,54.26289232,9.29487248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQk,25794,Pahlen,Kirchweg,7,a,54.26333867,9.29468531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQl,25794,Pahlen,Kirchweg,8,a,54.2631427,9.2938476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQm,25794,Pahlen,Kirchweg,8,b,54.26319457,9.2934546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQn,25794,Pahlen,Kirchweg,9,,54.26315527,9.29290683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQo,25794,Pahlen,Klumpen,1,,54.26678947,9.30617715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQp,25794,Pahlen,Klumpen,3,,54.26554669,9.30720314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQq,25794,Pahlen,Klumpen,5,,54.26447156,9.30662918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQr,25794,Pahlen,Klumpen,6,,54.26542354,9.30475361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQs,25794,Pahlen,Krogstelle,1,,54.2672024,9.27235839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQt,25794,Pahlen,Lütjenkamp,10,,54.26884803,9.288032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQu,25794,Pahlen,Lütjenkamp,11,,54.26941919,9.28610897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQv,25794,Pahlen,Lütjenkamp,12,,54.26898184,9.28767228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQw,25794,Pahlen,Lütjenkamp,13,,54.26952901,9.28594119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQx,25794,Pahlen,Lütjenkamp,14,,54.26914422,9.28726891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQy,25794,Pahlen,Lütjenkamp,15,,54.26964742,9.28575418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMQz,25794,Pahlen,Lütjenkamp,16,,54.26915333,9.28741436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR0,25794,Pahlen,Lütjenkamp,40,,54.27104204,9.28424028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR1,25794,Pahlen,Lütjenkamp,41,,54.27068605,9.28244634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR2,25794,Pahlen,Lütjenkamp,42,,54.27117096,9.28404916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR3,25794,Pahlen,Lütjenkamp,43,,54.27076027,9.28275427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR4,25794,Pahlen,Lütjenkamp,44,,54.27149874,9.28363872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR5,25794,Pahlen,Lütjenkamp,45,,54.27093433,9.28309779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR6,25794,Pahlen,Lütjenkamp,46,,54.27165407,9.28341141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR7,25794,Pahlen,Lütjenkamp,47,,54.27094309,9.28371063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR8,25794,Pahlen,Lütjenkamp,49,,54.27127248,9.28269214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMR9,25794,Pahlen,Lütjenkamp,49,a,54.27114449,9.28283555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRA,25794,Pahlen,Mühlenberg,28,,54.26550617,9.29646613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRB,25794,Pahlen,Mühlenberg,29,,54.26464614,9.29711065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRC,25794,Pahlen,Mühlenberg,30,,54.26539936,9.29651963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRD,25794,Pahlen,Mühlenberg,31,,54.26435357,9.29723472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRE,25794,Pahlen,Mühlenberg,32,,54.26528892,9.29656361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRF,25794,Pahlen,Mühlenberg,33,,54.26413859,9.29747672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRG,25794,Pahlen,Mühlenberg,34,,54.26516483,9.29656815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRH,25794,Pahlen,Mühlenberg,35,,54.2639711,9.29774629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRI,25794,Pahlen,Mühlenberg,36,,54.26502187,9.29664053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRJ,25794,Pahlen,Mühlenberg,38,,54.26470276,9.29658808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRK,25794,Pahlen,Mühlenberg,4,,54.26722913,9.29573383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRL,25794,Pahlen,Mühlenberg,40,,54.26405456,9.29708291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRM,25794,Pahlen,Mühlenberg,42,,54.26380963,9.2974046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRN,25794,Pahlen,Mühlenberg,44,,54.26370606,9.29712764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRO,25794,Pahlen,Mühlenberg,45,,54.26374573,9.29825322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRP,25794,Pahlen,Mühlenberg,46,,54.26365243,9.29751571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRQ,25794,Pahlen,Mühlenberg,47,,54.26344177,9.29888602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRR,25794,Pahlen,Mühlenberg,48,,54.26354381,9.29771103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRS,25794,Pahlen,Mühlenberg,49,,54.26310506,9.29961371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRT,25794,Pahlen,Mühlenberg,5,,54.26676407,9.29647906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRU,25794,Pahlen,Mühlenberg,50,,54.26322782,9.29807624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRV,25794,Pahlen,Mühlenberg,51,,54.26404591,9.3025661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRW,25794,Pahlen,Mühlenberg,52,,54.26300818,9.29834971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRX,25794,Pahlen,Mühlenberg,53,,54.26391,9.30259487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRY,25794,Pahlen,Mühlenberg,55,,54.26380122,9.30294959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRZ,25794,Pahlen,Mühlenberg,57,,54.26276199,9.299791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRa,25794,Pahlen,Lütjenkamp,5,,54.26856274,9.28779674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRb,25794,Pahlen,Lütjenkamp,51,,54.27137336,9.2832111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRc,25794,Pahlen,Lütjenkamp,53,,54.27149912,9.28306378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRd,25794,Pahlen,Lütjenkamp,6,,54.26923774,9.28881095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRe,25794,Pahlen,Lütjenkamp,8,,54.26906821,9.28843965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRf,25794,Pahlen,Lütjenkamp,9,,54.26930344,9.2862736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRg,25794,Pahlen,Mühlenberg,1,,54.26738976,9.29596567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRh,25794,Pahlen,Mühlenberg,10,,54.26665771,9.29519836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRi,25794,Pahlen,Mühlenberg,11,,54.26631315,9.29642417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRj,25794,Pahlen,Mühlenberg,13,,54.26617537,9.29648276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRk,25794,Pahlen,Mühlenberg,14,,54.26645785,9.29601331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRl,25794,Pahlen,Mühlenberg,15,,54.26603134,9.29653927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRm,25794,Pahlen,Mühlenberg,16,,54.26623909,9.29616605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRn,25794,Pahlen,Mühlenberg,17,,54.2658893,9.29659864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRp,25794,Pahlen,Mühlenberg,19,,54.26568422,9.29667942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRq,25794,Pahlen,Mühlenberg,2,,54.26741835,9.29561972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRr,25794,Pahlen,Mühlenberg,20,,54.26597999,9.29626336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRs,25794,Pahlen,Mühlenberg,21,,54.26552785,9.29674384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRt,25794,Pahlen,Mühlenberg,22,,54.26586959,9.29631307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRu,25794,Pahlen,Mühlenberg,23,,54.26536857,9.29680334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRv,25794,Pahlen,Mühlenberg,24,,54.26576596,9.29635779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRw,25794,Pahlen,Mühlenberg,25,,54.26522505,9.2968571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRx,25794,Pahlen,Mühlenberg,26,,54.26562909,9.29641386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRy,25794,Pahlen,Mühlenberg,26,a,54.2655605,9.29591518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMRz,25794,Pahlen,Mühlenberg,27,,54.26506368,9.29708334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS0,25794,Pahlen,Mühlenberg,6,,54.2670345,9.29573768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS1,25794,Pahlen,Mühlenberg,7,,54.26654499,9.29631917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS2,25794,Pahlen,Mühlenberg,9,,54.26643089,9.296371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS3,25794,Pahlen,Mühlenkamp,10,,54.26394049,9.29076627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS4,25794,Pahlen,Mühlenkamp,11,,54.26415288,9.29139653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS5,25794,Pahlen,Mühlenkamp,13,,54.26411091,9.29148932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS6,25794,Pahlen,Mühlenkamp,14,,54.26371275,9.29103199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS7,25794,Pahlen,Mühlenkamp,15,,54.26438689,9.29192579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS8,25794,Pahlen,Mühlenkamp,17,,54.26396707,9.29366249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMS9,25794,Pahlen,Mühlenkamp,17,a,54.26392418,9.29276256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSA,25794,Pahlen,Mühlenkamp,8,,54.26416763,9.29081581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSB,25794,Pahlen,Mühlenkamp,9,,54.26433995,9.29091899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSD,25794,Pahlen,Raiffeisenstraße,10,,54.26505599,9.29161387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSE,25794,Pahlen,Raiffeisenstraße,11,,54.26542456,9.29162659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSF,25794,Pahlen,Raiffeisenstraße,12,,54.26532926,9.29215591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSG,25794,Pahlen,Raiffeisenstraße,13,,54.26557184,9.29202057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSH,25794,Pahlen,Raiffeisenstraße,14,,54.26520181,9.29239946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSI,25794,Pahlen,Raiffeisenstraße,15,,54.26566753,9.2925572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSJ,25794,Pahlen,Raiffeisenstraße,16,,54.26498659,9.29230757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSK,25794,Pahlen,Raiffeisenstraße,16,a,54.26496806,9.29219841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSL,25794,Pahlen,Raiffeisenstraße,18,,54.26505467,9.29279072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSM,25794,Pahlen,Raiffeisenstraße,2,,54.26472043,9.29011861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSN,25794,Pahlen,Raiffeisenstraße,20,,54.26521767,9.29270004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSO,25794,Pahlen,Raiffeisenstraße,22,,54.26549275,9.29272625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSP,25794,Pahlen,Raiffeisenstraße,3,,54.26492561,9.2902007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSQ,25794,Pahlen,Raiffeisenstraße,4,,54.26478684,9.29063002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSR,25794,Pahlen,Raiffeisenstraße,5,,54.2650469,9.29062932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSS,25794,Pahlen,Raiffeisenstraße,6,,54.26485653,9.29097178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMST,25794,Pahlen,Raiffeisenstraße,7,,54.26513965,9.29099467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSU,25794,Pahlen,Raiffeisenstraße,8,,54.26495137,9.29132088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSV,25794,Pahlen,Raiffeisenstraße,9,,54.26529348,9.29133063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSW,25794,Pahlen,Sackstraße,1,,54.26723201,9.29716949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSX,25794,Pahlen,Sackstraße,10,,54.26644608,9.29721564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSY,25794,Pahlen,Sackstraße,11,,54.26640368,9.29757144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSZ,25794,Pahlen,Sackstraße,12,,54.2662804,9.29728317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSa,25794,Pahlen,Mühlenkamp,17,b,54.26392,9.29285173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSb,25794,Pahlen,Mühlenkamp,17,c,54.26391648,9.29292675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSc,25794,Pahlen,Mühlenkamp,17,d,54.2639119,9.2930243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSd,25794,Pahlen,Mühlenkamp,17,e,54.26390817,9.29310425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSe,25794,Pahlen,Mühlenkamp,17,f,54.26390438,9.29318526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSf,25794,Pahlen,Mühlenkamp,17,g,54.26412915,9.29322316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSg,25794,Pahlen,Mühlenkamp,19,,54.26387829,9.29403529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSh,25794,Pahlen,Mühlenkamp,20,,54.26397161,9.29119989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSi,25794,Pahlen,Mühlenkamp,21,,54.26385547,9.29426978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSj,25794,Pahlen,Mühlenkamp,22,,54.26378845,9.29166367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSk,25794,Pahlen,Mühlenkamp,23,,54.26400336,9.29465263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSl,25794,Pahlen,Mühlenkamp,24,,54.26377638,9.29236685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSm,25794,Pahlen,Mühlenkamp,25,,54.26391909,9.29499463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSn,25794,Pahlen,Mühlenkamp,26,,54.2634869,9.29328407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSo,25794,Pahlen,Mühlenkamp,27,,54.26392861,9.29522644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSp,25794,Pahlen,Mühlenkamp,28,,54.26363467,9.29373404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSq,25794,Pahlen,Mühlenkamp,29,,54.26397466,9.2954785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSr,25794,Pahlen,Mühlenkamp,30,,54.26358382,9.29403921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSs,25794,Pahlen,Mühlenkamp,30,a,54.26360189,9.29446897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSt,25794,Pahlen,Mühlenkamp,31,,54.26450012,9.29537285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSu,25794,Pahlen,Mühlenkamp,32,,54.26368806,9.29552607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSv,25794,Pahlen,Mühlenkamp,36,,54.26382562,9.29607363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSw,25794,Pahlen,Mühlenkamp,38,,54.26383759,9.29641288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSx,25794,Pahlen,Mühlenkamp,40,,54.26399708,9.29678578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSy,25794,Pahlen,Mühlenkamp,6,,54.26426811,9.29059594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMSz,25794,Pahlen,Mühlenkamp,7,,54.26440806,9.29082531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT0,25794,Pahlen,Sackstraße,13,,54.26624249,9.29763786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT1,25794,Pahlen,Sackstraße,14,,54.2661114,9.29735208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT2,25794,Pahlen,Sackstraße,15,,54.26602229,9.29773092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT3,25794,Pahlen,Sackstraße,16,,54.26600682,9.29741363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT4,25794,Pahlen,Sackstraße,17,,54.2658605,9.29774148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT5,25794,Pahlen,Sackstraße,19,,54.26566308,9.2979167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT6,25794,Pahlen,Sackstraße,3,,54.2671025,9.2972254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT7,25794,Pahlen,Sackstraße,4,,54.26704031,9.29695659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT8,25794,Pahlen,Sackstraße,5,,54.2668957,9.29731207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMT9,25794,Pahlen,Sackstraße,6,,54.26685247,9.29703957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTA,25794,Pahlen,Süderstraße,12,,54.26740858,9.29479128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTB,25794,Pahlen,Süderstraße,13,,54.26768542,9.29417011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTC,25794,Pahlen,Süderstraße,14,,54.26740515,9.29512458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTD,25794,Pahlen,Süderstraße,17,,54.26763048,9.29571946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTE,25794,Pahlen,Süderstraße,2,,54.26799412,9.29203418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTF,25794,Pahlen,Süderstraße,4,,54.26781923,9.29263123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTH,25794,Pahlen,Süderstraße,6,,54.26772252,9.29296952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTI,25794,Pahlen,Süderstraße,7,,54.26794613,9.29279604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTJ,25794,Pahlen,Süderstraße,8,,54.2675261,9.29372264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTK,25794,Pahlen,Süderstraße,9,,54.2679818,9.29368631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTL,25794,Pahlen,Westerende,1,,54.26788927,9.28910564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTM,25794,Pahlen,Westerende,10,,54.26753199,9.28825871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTN,25794,Pahlen,Westerende,11,,54.26659146,9.28948219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTO,25794,Pahlen,Westerende,12,,54.26733086,9.288597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTP,25794,Pahlen,Westerende,13,,54.26617622,9.28964064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTQ,25794,Pahlen,Westerende,14,,54.26712267,9.28875325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTR,25794,Pahlen,Westerende,16,,54.26613817,9.28882035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTS,25794,Pahlen,Westerende,16,a,54.26645656,9.28910295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTT,25794,Pahlen,Westerende,18,,54.26591475,9.28878247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTU,25794,Pahlen,Westerende,2,,54.26801468,9.28968811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTV,25794,Pahlen,Westerende,20,,54.26569105,9.2887619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTW,25794,Pahlen,Westerende,21,,54.2644747,9.28940897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTX,25794,Pahlen,Westerende,22,,54.26512898,9.28894409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTY,25794,Pahlen,Westerende,24,,54.26477302,9.28891392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTZ,25794,Pahlen,Westerende,26,,54.26464108,9.28894832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTa,25794,Pahlen,Sackstraße,7,,54.26674555,9.29737428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTb,25794,Pahlen,Sackstraße,8,,54.26660676,9.29715237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTc,25794,Pahlen,Sackstraße,9,,54.2665627,9.29750561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTd,25794,Pahlen,Schulstraße,1,,54.27000192,9.29558425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTe,25794,Pahlen,Schulstraße,1,a,54.27023674,9.29568776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTf,25794,Pahlen,Schulstraße,10,,54.268381,9.29595741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTg,25794,Pahlen,Schulstraße,11,,54.26877276,9.29635679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTh,25794,Pahlen,Schulstraße,12,,54.26809204,9.29612985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTi,25794,Pahlen,Schulstraße,13,,54.26843017,9.29622524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTj,25794,Pahlen,Schulstraße,14,,54.26775235,9.29630035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTk,25794,Pahlen,Schulstraße,15,,54.26814801,9.29638575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTl,25794,Pahlen,Schulstraße,15,a,54.26813954,9.296687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTm,25794,Pahlen,Schulstraße,17,,54.26759114,9.29650141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTn,25794,Pahlen,Schulstraße,19,,54.26834883,9.29695689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTo,25794,Pahlen,Schulstraße,21,,54.26838146,9.2973503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTp,25794,Pahlen,Schulstraße,23,,54.26841037,9.29771327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTq,25794,Pahlen,Schulstraße,25,,54.26786895,9.29655813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTr,25794,Pahlen,Schulstraße,3,,54.26991054,9.29598013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTs,25794,Pahlen,Schulstraße,5,,54.26969493,9.29570484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTt,25794,Pahlen,Schulstraße,6,,54.26875168,9.29547816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTu,25794,Pahlen,Schulstraße,7,,54.26937417,9.29589311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTv,25794,Pahlen,Schulstraße,8,,54.26861469,9.29573764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTw,25794,Pahlen,Schulstraße,9,,54.26916619,9.29596631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTx,25794,Pahlen,Süderstraße,1,,54.26834193,9.29190872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTy,25794,Pahlen,Süderstraße,10,,54.26737192,9.294354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMTz,25794,Pahlen,Süderstraße,11,,54.26773775,9.29388744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMU0,25794,Pahlen,Westerende,4,,54.26807468,9.28929552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMU1,25794,Pahlen,Westerende,4,a,54.26805783,9.28900376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMU2,25794,Pahlen,Westerende,5,,54.267721,9.2884936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMU3,25794,Pahlen,Westerende,7,,54.26700891,9.28926719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AMU4,25794,Pahlen,Westerende,8,,54.26756607,9.28720911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtA,25794,Pahlen,Eiderdeich,43,,54.28601005,9.39587137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtB,25794,Pahlen,Eiderdeich,46,,54.28670891,9.39502932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtC,25794,Pahlen,Eiderdeich,49,,54.28772549,9.39385628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtD,25794,Pahlen,Eiderdeich,58,,54.28498739,9.38277825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtE,25794,Pahlen,Eiderdeich,6,,54.27253437,9.39893147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtF,25794,Pahlen,Eiderdeich,60,,54.28572909,9.37829379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtG,25794,Pahlen,Eiderdeich,73,,54.27997262,9.37529998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtH,25794,Pahlen,Eiderdeich,75,,54.27975404,9.37506191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtI,25794,Pahlen,Eiderdeich,9,,54.27349153,9.40026063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtJ,25794,Pahlen,Schüttingdeich,1,,54.27533635,9.37380549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtK,25794,Pahlen,Schüttingdeich,11,,54.27298387,9.35327271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtL,25794,Pahlen,Schüttingdeich,13,,54.27177246,9.35282032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtM,25794,Pahlen,Schüttingdeich,15,,54.27301386,9.34853763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtN,25794,Pahlen,Schüttingdeich,17,,54.2725186,9.34228108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtO,25794,Pahlen,Schüttingdeich,18,,54.2795722,9.34148991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtP,25794,Pahlen,Schüttingdeich,20,,54.26878606,9.34829679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtQ,25794,Pahlen,Schüttingdeich,21,,54.26830038,9.34846046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtR,25794,Pahlen,Schüttingdeich,23,,54.26664635,9.34912939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtS,25794,Pahlen,Schüttingdeich,25,,54.26556646,9.34952289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtT,25794,Pahlen,Schüttingdeich,27,,54.26296715,9.35438596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtU,25794,Pahlen,Schüttingdeich,29,,54.26318187,9.35593689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtV,25794,Pahlen,Schüttingdeich,31,,54.26330383,9.35961869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtW,25794,Pahlen,Schüttingdeich,33,,54.26269911,9.36527636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtX,25794,Pahlen,Schüttingdeich,35,,54.26240998,9.36705169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtY,25794,Pahlen,Schüttingdeich,37,,54.26219038,9.36855692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtZ,25794,Pahlen,Schüttingdeich,39,,54.26204644,9.36957301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOte,25794,Pahlen,Eiderdeich,1,,54.26636775,9.39098429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtf,25794,Pahlen,Eiderdeich,11,,54.27398016,9.40160915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtg,25794,Pahlen,Eiderdeich,17,,54.27579809,9.40129013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOth,25794,Pahlen,Eiderdeich,18,,54.27612953,9.40081705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOti,25794,Pahlen,Eiderdeich,2,,54.26749003,9.39504955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtj,25794,Pahlen,Eiderdeich,22,,54.27775575,9.39981789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtk,25794,Pahlen,Eiderdeich,23,,54.27856335,9.40019739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtl,25794,Pahlen,Eiderdeich,24,,54.27890313,9.40024666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtm,25794,Pahlen,Eiderdeich,25,,54.27954505,9.40096081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtn,25794,Pahlen,Eiderdeich,3,,54.27066877,9.39876488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOto,25794,Pahlen,Eiderdeich,31,,54.28166866,9.40065641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtp,25794,Pahlen,Eiderdeich,33,,54.2819466,9.40026159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtq,25794,Pahlen,Eiderdeich,36,,54.28284775,9.39829842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtr,25794,Pahlen,Eiderdeich,37,,54.28315093,9.39760183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOts,25794,Pahlen,Eiderdeich,37,a,54.28336559,9.39730435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtt,25794,Pahlen,Eiderdeich,38,,54.28351592,9.39725376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtu,25794,Pahlen,Eiderdeich,39,,54.28393309,9.39690284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtv,25794,Pahlen,Eiderdeich,39,a,54.28414349,9.39681684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtw,25794,Pahlen,Eiderdeich,40,,54.28435737,9.39670134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtx,25794,Pahlen,Eiderdeich,40,a,54.28458758,9.39658583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOty,25794,Pahlen,Eiderdeich,41,,54.2850744,9.39643573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOtz,25794,Pahlen,Eiderdeich,42,,54.28559152,9.39631292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu0,25794,Pahlen,Schüttingdeich,40,,54.26191998,9.3702715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu1,25794,Pahlen,Schüttingdeich,42,,54.26495451,9.37148522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu2,25794,Pahlen,Schüttingdeich,45,,54.26832307,9.3659151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu3,25794,Pahlen,Schüttingdeich,5,,54.27448108,9.36321003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu4,25794,Pahlen,Schüttingdeich,7,,54.27394629,9.3589567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu5,25794,Pahlen,Schüttingdeich,9,,54.27377627,9.35670314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu6,25794,Pahlen,Königsfähre,1,,54.28306601,9.3751294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu7,25794,Pahlen,Königsfähre,1,a,54.28781987,9.3630501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu8,25794,Pahlen,Königsfähre,11,,54.28491701,9.36345699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOu9,25794,Pahlen,Königsfähre,12,,54.28453461,9.36369675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuA,25794,Pahlen,Königsfähre,43,,54.28390807,9.36527887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuB,25794,Pahlen,Königsfähre,45,,54.28404254,9.36542044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuC,25794,Pahlen,Königsfähre,47,,54.28416645,9.36545497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuD,25794,Pahlen,Tileburg,1,,54.2704101,9.39941698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuE,25794,Pahlen,Tileburg,11,,54.27046957,9.40023519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuF,25794,Pahlen,Tileburg,13,,54.27037864,9.40051094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuG,25794,Pahlen,Tileburg,14,,54.26978666,9.40000385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuH,25794,Pahlen,Tileburg,16,,54.26993677,9.40019342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuI,25794,Pahlen,Tileburg,17,,54.27011442,9.40064814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuJ,25794,Pahlen,Tileburg,19,,54.27028917,9.40086618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuK,25794,Pahlen,Tileburg,2,,54.27018821,9.39926795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuL,25794,Pahlen,Tileburg,20,,54.26971938,9.40028266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuM,25794,Pahlen,Tileburg,21,,54.27021047,9.40117673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuN,25794,Pahlen,Tileburg,22,,54.26961246,9.40065322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuO,25794,Pahlen,Tileburg,27,,54.27013112,9.40155029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuP,25794,Pahlen,Tileburg,28,,54.26955935,9.40093292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuQ,25794,Pahlen,Tileburg,29,,54.27006329,9.40185096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuR,25794,Pahlen,Tileburg,30,,54.26949235,9.40120576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuS,25794,Pahlen,Tileburg,35,,54.26997004,9.40218004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuT,25794,Pahlen,Tileburg,36,,54.26942447,9.40148463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuU,25794,Pahlen,Tileburg,37,,54.26988468,9.40241089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuV,25794,Pahlen,Tileburg,38,,54.26935472,9.40176917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuW,25794,Pahlen,Tileburg,39,,54.26975453,9.40216262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuX,25794,Pahlen,Tileburg,5,,54.27052537,9.39984945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuY,25794,Pahlen,Tileburg,6,,54.26992688,9.39943121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuZ,25794,Pahlen,Tileburg,8,,54.27002438,9.39963657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOua,25794,Pahlen,Königsfähre,13,,54.28482992,9.36359616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOub,25794,Pahlen,Königsfähre,14,,54.2843997,9.36377717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuc,25794,Pahlen,Königsfähre,15,,54.28476302,9.36381742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOud,25794,Pahlen,Königsfähre,16,,54.28427107,9.36385494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOue,25794,Pahlen,Königsfähre,17,,54.28469754,9.36402294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuf,25794,Pahlen,Königsfähre,18,,54.28413782,9.36393477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOug,25794,Pahlen,Königsfähre,19,,54.28453876,9.36450574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuh,25794,Pahlen,Königsfähre,2,,54.28976358,9.36378663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOui,25794,Pahlen,Königsfähre,20,,54.2840028,9.36401187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuj,25794,Pahlen,Königsfähre,21,,54.28453588,9.36411102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuk,25794,Pahlen,Königsfähre,23,,54.2844054,9.36417402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOul,25794,Pahlen,Königsfähre,25,,54.28426242,9.36427805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOum,25794,Pahlen,Königsfähre,26,,54.28377729,9.36446158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOun,25794,Pahlen,Königsfähre,27,,54.28412557,9.364333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuo,25794,Pahlen,Königsfähre,28,,54.28364792,9.3643322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOup,25794,Pahlen,Königsfähre,29,,54.28402106,9.3643916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuq,25794,Pahlen,Königsfähre,30,,54.28371217,9.36467536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOur,25794,Pahlen,Königsfähre,31,,54.28412725,9.36473752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOus,25794,Pahlen,Königsfähre,32,,54.28355045,9.36454549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOut,25794,Pahlen,Königsfähre,34,,54.28342191,9.36475908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuu,25794,Pahlen,Königsfähre,35,,54.28442837,9.36482906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuv,25794,Pahlen,Königsfähre,36,,54.28356353,9.36487352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuw,25794,Pahlen,Königsfähre,37,,54.28431863,9.36519195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOux,25794,Pahlen,Königsfähre,38,,54.283697,9.3649643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuy,25794,Pahlen,Königsfähre,39,,54.28418968,9.36509617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AOuz,25794,Pahlen,Königsfähre,41,,54.28405099,9.3649409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004R7Dz,25794,Pahlen,Hauptstraße,2,,54.26068503,9.3026173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NqVc,25794,Pahlen,Hauptstraße,2,a,54.27373133,9.29815271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QLfr,25794,Pahlen,Schulstraße,9,a,54.26240243,9.30307359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qxZC,25794,Pahlen,Tellingstedter Straße,29,a,54.25792009,9.30425616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sST4,25794,Pahlen,Mühlenweg,52,,54.26292449,9.29818525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sSdX,25794,Pahlen,Süderstraße,3,,54.26809813,9.2924095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060LVB,25794,Pahlen,Redderberg,39,,54.25592698,9.31967992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069Thf,25794,Pahlen,Mühlenweg,9,,54.26077024,9.29888128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NlFt,25794,Pahlen,Bergstraße,13,a,54.25907563,9.30771879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9KN,25794,Pahlen,Raiffeisenstraße,27,,54.26619906,9.29478374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9KS,25794,Pahlen,Raiffeisenstraße,23,,54.26606137,9.29404293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Kb,25794,Pahlen,Raiffeisenstraße,17,,54.26570476,9.29299813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Km,25794,Pahlen,Raiffeisenstraße,19,,54.26587243,9.29333265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Kw,25794,Pahlen,Raiffeisenstraße,21,,54.26597988,9.29368122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9LD,25794,Pahlen,Raiffeisenstraße,42,,54.26541664,9.29474791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9LG,25794,Pahlen,Raiffeisenstraße,36,,54.26588042,9.29403254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9LV,25794,Pahlen,Raiffeisenstraße,40,,54.26558107,9.2945927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Lc,25794,Pahlen,Raiffeisenstraße,25,,54.26609123,9.29441793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Lf,25794,Pahlen,Raiffeisenstraße,29,,54.26574378,9.29488356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9M0,25794,Pahlen,Raiffeisenstraße,34,,54.26574066,9.29371769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9MF,25794,Pahlen,Raiffeisenstraße,30,,54.26525385,9.29387335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9MG,25794,Pahlen,Raiffeisenstraße,26,,54.26537277,9.29344345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Mb,25794,Pahlen,Raiffeisenstraße,38,,54.26590297,9.29433939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9Mi,25794,Pahlen,Raiffeisenstraße,32,,54.2654284,9.29381014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9N1,25794,Pahlen,Raiffeisenstraße,28,,54.26521217,9.29338827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Q9N4,25794,Pahlen,Raiffeisenstraße,24,,54.26557613,9.29339332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RYbV,25794,Pahlen,Süderstraße,6,a,54.26742205,9.29300797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006h0Sc,25794,Pahlen,Tileburg,10,,54.27003568,9.39994126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kAWk,25794,Pahlen,Bergstraße,24,a,54.26833774,9.30026585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006kBgX,25794,Pahlen,Bergstraße,24,,54.2684477,9.29972394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mjXn,25794,Pahlen,Hauptstraße,36,a,54.27165699,9.29602855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qa3s,25794,Pahlen,Hauptstraße,31,,54.26188757,9.30806323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00074z2O,25794,Pahlen,Fischerstraße,10,a,54.27097308,9.29910332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078X6h,25794,Pahlen,Tellingstedter Straße,42,,54.25625741,9.30318667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DsQC,25794,Pahlen,Lohe,8,a,54.26016122,9.30114963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ra6O,25794,Pahlen,Bergstraße,8,b,54.25966148,9.30678327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007i2ck,25794,Pahlen,Fischerstraße,20,,54.26958204,9.30104221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kOpS,25794,Pahlen,Kirchweg,7,c,54.26296616,9.29438025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kOpY,25794,Pahlen,Kirchweg,7,b,54.26310155,9.29474128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kOpp,25794,Pahlen,Kirchweg,7,d,54.26298111,9.29408982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oo51,25794,Pahlen,Redderberg,21,a,54.25974811,9.31390357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t7Lx,25794,Pahlen,Eiderstraße,37,,54.26922119,9.29734089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007tilz,25794,Pahlen,Bergstraße,8,a,54.25967307,9.30688917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vlmO,25794,Pahlen,Buddelberg,4,,54.25350625,9.30297641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007xZVh,25794,Pahlen,Hauptstraße,1,a,54.26104063,9.30251115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00086G5u,25794,Pahlen,Eiderdeich,38,a,54.28370431,9.3970283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00088lYR,25794,Pahlen,Hauptstraße,54,a,54.27055021,9.29435808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BrJg,25794,Pahlen,Raiffeisenstraße,1,b,54.26483769,9.28979355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BrJj,25794,Pahlen,Raiffeisenstraße,1,a,54.26480741,9.28976151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008C0oQ,25794,Pahlen,Sackstraße,2,b,54.26718584,9.29697143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008C0oU,25794,Pahlen,Sackstraße,2,a,54.2673178,9.29691496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1K,25794,Pahlen,Am Klint,31,,54.26647217,9.30350615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1M,25794,Pahlen,Am Klint,30,,54.26659617,9.30262941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1O,25794,Pahlen,Am Klint,28,,54.26678466,9.30269059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1Q,25794,Pahlen,Am Klint,26,,54.26694842,9.30274368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1S,25794,Pahlen,Am Klint,25,,54.26679884,9.30234956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1U,25794,Pahlen,Am Klint,24,,54.26678212,9.30199433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1W,25794,Pahlen,Am Klint,23,,54.26677323,9.30170638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP1Y,25794,Pahlen,Am Klint,22,,54.26632632,9.30221845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP20,25794,Pahlen,Am Klint,21,,54.26630716,9.30194348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP22,25794,Pahlen,Am Klint,20,,54.26624906,9.30195082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP24,25794,Pahlen,Am Klint,19,,54.26625313,9.30225315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP26,25794,Pahlen,Am Klint,18,,54.26636346,9.30264507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP28,25794,Pahlen,Am Klint,17,,54.26631635,9.30307099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2C,25794,Pahlen,Am Klint,27,,54.26684168,9.30371978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2a,25794,Pahlen,Am Klint,16,a,54.26628965,9.30327213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2c,25794,Pahlen,Am Klint,16,,54.26630716,9.30363584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2e,25794,Pahlen,Am Klint,15,,54.26643907,9.3036455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2h,25794,Pahlen,Am Klint,14,,54.26663062,9.30375623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2i,25794,Pahlen,Am Klint,13,,54.2668253,9.30386918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2j,25794,Pahlen,Am Klint,12,,54.26702981,9.30410227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2k,25794,Pahlen,Am Klint,11,,54.26717329,9.30442598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2l,25794,Pahlen,Am Klint,10,,54.26730915,9.30450819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2m,25794,Pahlen,Am Klint,9,,54.26720978,9.30428471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2n,25794,Pahlen,Am Klint,8,,54.26708148,9.30399615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2o,25794,Pahlen,Am Klint,7,,54.26710679,9.30332327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2p,25794,Pahlen,Am Klint,6,,54.26715845,9.3029407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2q,25794,Pahlen,Am Klint,5,,54.2674121,9.30266091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2r,25794,Pahlen,Am Klint,4,,54.26701906,9.30258162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2s,25794,Pahlen,Am Klint,3,,54.26730753,9.30254024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2t,25794,Pahlen,Am Klint,2,,54.26742556,9.30252352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2u,25794,Pahlen,Am Klint,1,,54.26766673,9.30248965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lP2x,25794,Pahlen,Am Klint,29,,54.26665653,9.30361257

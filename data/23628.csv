@@ -1,0 +1,1348 @@
+# Amtliche Adressen für die Postleitzahl 23628
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIA,23628,Klempau,Flachsröße,2,,53.77444137,10.64607396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIB,23628,Klempau,Flachsröße,3,,53.77427557,10.6461378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIC,23628,Klempau,Flachsröße,4,,53.77440612,10.64575177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTID,23628,Klempau,Flachsröße,5,,53.77423726,10.64577202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIE,23628,Klempau,Flachsröße,6,,53.77440188,10.64537724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIF,23628,Klempau,Gutsweg,10,,53.7800577,10.63239797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIG,23628,Klempau,Gutsweg,11,,53.78216611,10.63030631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIH,23628,Klempau,Gutsweg,12,,53.78019018,10.63236697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTII,23628,Klempau,Gutsweg,15,,53.78160068,10.63253723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIJ,23628,Klempau,Gutsweg,2,,53.77953678,10.63251747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIK,23628,Klempau,Gutsweg,3,,53.78073988,10.63101135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIL,23628,Klempau,Gutsweg,4,,53.77966611,10.6324857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIM,23628,Klempau,Gutsweg,5,,53.78073988,10.63101135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIN,23628,Klempau,Gutsweg,6,,53.7798092,10.63245928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIO,23628,Klempau,Gutsweg,7,,53.78073988,10.63101135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIP,23628,Klempau,Gutsweg,8,,53.7799555,10.63243668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIQ,23628,Klempau,Gutsweg,9,,53.78118431,10.63188613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIR,23628,Klempau,Kählstorfer Weg,22,,53.77531752,10.64672656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIS,23628,Klempau,Kählstorfer Weg,24,,53.77513547,10.64676505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIT,23628,Klempau,Kählstorfer Weg,26,,53.77498735,10.64680059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIU,23628,Klempau,Kählstorfer Weg,28,,53.77483542,10.64685715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIV,23628,Klempau,Kählstorfer Weg,28,a,53.77475811,10.64618316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIW,23628,Klempau,Kählstorfer Weg,32,,53.77463778,10.64690473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIX,23628,Klempau,Kählstorfer Weg,32,a,53.77458499,10.64692311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIY,23628,Klempau,Kählstorfer Weg,34,,53.77445216,10.64693917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIZ,23628,Klempau,Kählstorfer Weg,34,a,53.77440209,10.64695649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIi,23628,Klempau,Beidendorfer Weg,10,,53.77934719,10.64641941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIj,23628,Klempau,Beidendorfer Weg,12,,53.77936813,10.64657064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIk,23628,Klempau,Beidendorfer Weg,14,,53.77941965,10.64694037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIl,23628,Klempau,Beidendorfer Weg,16,,53.77945631,10.6472278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIm,23628,Klempau,Beidendorfer Weg,18,,53.77948952,10.64749643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIn,23628,Klempau,Beidendorfer Weg,2,,53.77917342,10.64449987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIo,23628,Klempau,Beidendorfer Weg,20,,53.77952677,10.64781396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIp,23628,Klempau,Beidendorfer Weg,22,,53.77956835,10.64812048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIq,23628,Klempau,Beidendorfer Weg,24,,53.77959954,10.64841686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIr,23628,Klempau,Beidendorfer Weg,26,,53.77979537,10.64946057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIs,23628,Klempau,Beidendorfer Weg,28,,53.7800096,10.65003941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIt,23628,Klempau,Beidendorfer Weg,28,a,53.77983373,10.65008372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIu,23628,Klempau,Beidendorfer Weg,4,,53.77921396,10.64564097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIv,23628,Klempau,Beidendorfer Weg,6,,53.77927807,10.64583157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIw,23628,Klempau,Beidendorfer Weg,8,,53.77930576,10.64609141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIx,23628,Klempau,Brömbsenmühle,1,,53.77200559,10.6247225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIy,23628,Klempau,Flachsröße,1,,53.77431351,10.64650352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTIz,23628,Klempau,Flachsröße,13,b,53.77420388,10.64433407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ0,23628,Klempau,Kählstorfer Weg,36,,53.77426483,10.64697475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ1,23628,Klempau,Kählstorfer Weg,36,a,53.77421204,10.64699311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ2,23628,Klempau,Kählstorfer Weg,40,,53.77298606,10.64780753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ3,23628,Klempau,Kählstorfer Weg,42,,53.77284278,10.6479791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ4,23628,Klempau,Klempauer Straße,23,,53.77885991,10.6445329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ5,23628,Klempau,Klempauer Straße,24,,53.77822011,10.64446299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ6,23628,Klempau,Klempauer Straße,25,,53.77857716,10.64476877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ7,23628,Klempau,Klempauer Straße,27,,53.77841988,10.6449018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ8,23628,Klempau,Klempauer Straße,27,a,53.77840413,10.64503932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJ9,23628,Klempau,Klempauer Straße,29,,53.77823465,10.64525463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJA,23628,Klempau,Krummesse Lange Reihe,62,,53.77472773,10.64146063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJB,23628,Klempau,Krummesse Lange Reihe,64,,53.77466341,10.64146956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJC,23628,Klempau,Krummesse Lange Reihe,66,,53.77447794,10.6415528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJD,23628,Klempau,Krummesse Lange Reihe,66,a,53.77433545,10.64159613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJE,23628,Klempau,Krummesse Lange Reihe,8,,53.77932795,10.6415333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJF,23628,Klempau,Krummesse Lange Reihe,9,,53.77798018,10.64214403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJG,23628,Klempau,Krummesse Lange Reihe,9,a,53.77807148,10.64236508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJH,23628,Klempau,Am Mühlenbach,2,,53.77420532,10.64100986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJI,23628,Klempau,Am Mühlenbach,2,a,53.77417923,10.64074368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJJ,23628,Klempau,Am Mühlenbach,2,b,53.77416068,10.64050181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJK,23628,Klempau,Am Mühlenbach,2,e,53.77487461,10.63906609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJL,23628,Klempau,Am Mühlenbach,2,f,53.77401251,10.63946349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJM,23628,Klempau,Krummesser Moorweg,10,,53.78408781,10.642825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJN,23628,Klempau,Krummesser Moorweg,2,,53.78392229,10.6416819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJO,23628,Klempau,Krummesser Moorweg,2,a,53.78302928,10.64222624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJP,23628,Klempau,Krummesser Moorweg,2,b,53.78328213,10.64203533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJQ,23628,Klempau,Krummesser Moorweg,2,c,53.783085,10.64251159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJR,23628,Klempau,Krummesser Moorweg,4,,53.78398079,10.64194346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJS,23628,Klempau,Krummesser Moorweg,4,a,53.78364735,10.64212658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJT,23628,Klempau,Krummesser Moorweg,6,,53.7840023,10.64219707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJU,23628,Klempau,Krummesser Moorweg,6,a,53.78370086,10.6423657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJV,23628,Klempau,Krummesser Moorweg,8,,53.7840693,10.64244883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJW,23628,Klempau,Krummesser Mühlenweg,1,,53.77329861,10.64240771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJX,23628,Klempau,Krummesser Mühlenweg,11,,53.7735365,10.64410786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJY,23628,Klempau,Krummesser Mühlenweg,13,,53.77358239,10.64447903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJZ,23628,Klempau,Krummesser Mühlenweg,14,a,53.77344519,10.64568381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJa,23628,Klempau,Klempauer Straße,29,a,53.778046,10.64527607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJb,23628,Klempau,Klempauer Straße,29,b,53.7780815,10.6453904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJc,23628,Klempau,Klempauer Straße,31,a,53.77805429,10.64582326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJd,23628,Klempau,Klempauer Straße,31,b,53.77800397,10.64614891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJe,23628,Klempau,Klempauer Straße,31,c,53.77814373,10.64618251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJf,23628,Klempau,Klempauer Straße,35,,53.77823349,10.64685246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJg,23628,Klempau,Krummesse Lange Reihe,11,,53.77773124,10.64217447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJh,23628,Klempau,Krummesse Lange Reihe,12,,53.77881687,10.64160724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJi,23628,Klempau,Krummesse Lange Reihe,12,a,53.77875738,10.64109524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJj,23628,Klempau,Krummesse Lange Reihe,13,,53.77756599,10.64224454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJk,23628,Klempau,Krummesse Lange Reihe,15,,53.77741395,10.64218694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJl,23628,Klempau,Krummesse Lange Reihe,16,,53.77841364,10.64153698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJm,23628,Klempau,Krummesse Lange Reihe,16,a,53.77836917,10.64087904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJn,23628,Klempau,Krummesse Lange Reihe,18,,53.77817043,10.64157985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJo,23628,Klempau,Krummesse Lange Reihe,18,a,53.77817836,10.64091447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJp,23628,Klempau,Krummesse Lange Reihe,20,b,53.77775344,10.64102462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJq,23628,Klempau,Krummesse Lange Reihe,22,,53.77760543,10.64168581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJr,23628,Klempau,Krummesse Lange Reihe,22,a,53.77745621,10.64127677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJs,23628,Klempau,Krummesse Lange Reihe,22,b,53.77730323,10.64124009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJt,23628,Klempau,Krummesse Lange Reihe,22,c,53.77709335,10.6411865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJu,23628,Klempau,Krummesse Lange Reihe,23,,53.77451747,10.64194888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJv,23628,Klempau,Krummesse Lange Reihe,25,,53.77430232,10.64199931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJw,23628,Klempau,Krummesse Lange Reihe,27,,53.77409124,10.64207457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJx,23628,Klempau,Krummesse Lange Reihe,6,,53.77947432,10.64152339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJy,23628,Klempau,Krummesse Lange Reihe,6,a,53.77940473,10.64160732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTJz,23628,Klempau,Krummesse Lange Reihe,60,,53.77487401,10.64147198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK0,23628,Klempau,Krummesser Mühlenweg,15,,53.77363188,10.64483499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK1,23628,Klempau,Krummesser Mühlenweg,16,,53.77347247,10.64596936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK2,23628,Klempau,Krummesser Mühlenweg,17,,53.77367434,10.64518787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK3,23628,Klempau,Krummesser Mühlenweg,18,,53.77350818,10.64637031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK4,23628,Klempau,Krummesser Mühlenweg,19,,53.77371635,10.6455465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK5,23628,Klempau,Krummesser Mühlenweg,20,,53.773555,10.64675143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK6,23628,Klempau,Krummesser Mühlenweg,20,a,53.77325441,10.64697805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK7,23628,Klempau,Krummesser Mühlenweg,21,,53.77372709,10.64591268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK8,23628,Klempau,Krummesser Mühlenweg,22,,53.7736125,10.6471517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTK9,23628,Klempau,Krummesser Mühlenweg,23,,53.77376938,10.64627446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKA,23628,Klempau,Lübecker Straße,138,,53.79469501,10.63753659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKB,23628,Klempau,Lübecker Straße,142,,53.79504235,10.63726431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKC,23628,Klempau,Lübecker Straße,146,,53.79561657,10.63713357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKD,23628,Klempau,Lübecker Straße,148,,53.79561657,10.63713357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKE,23628,Klempau,Lübecker Straße,150,,53.79561657,10.63713357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKF,23628,Klempau,Lübecker Straße,152,,53.79561657,10.63713357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKG,23628,Klempau,Lübecker Straße,18,,53.78348154,10.64098175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKH,23628,Klempau,Lübecker Straße,18,a,53.78362313,10.64102486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKI,23628,Klempau,Lübecker Straße,20,,53.78382252,10.64102886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKJ,23628,Klempau,Lübecker Straße,21,,53.78349877,10.64065683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKK,23628,Klempau,Lübecker Straße,23,,53.78370668,10.64039293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKL,23628,Klempau,Lübecker Straße,48,,53.78632323,10.64085259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKM,23628,Klempau,Lübecker Straße,50,,53.78645265,10.64085869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKN,23628,Klempau,Lübecker Straße,52,,53.78660947,10.64079154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKO,23628,Klempau,Lübecker Straße,54,,53.78679523,10.64075818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKP,23628,Klempau,Lübecker Straße,56,,53.78705831,10.6407475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKQ,23628,Klempau,Lübecker Straße,58,,53.78738539,10.64085807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKR,23628,Klempau,Lübecker Straße,60,,53.78754141,10.64083067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKS,23628,Klempau,Lübecker Straße,71,,53.7872964,10.63939745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKT,23628,Klempau,Lübecker Straße,71,a,53.7875382,10.63917213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKU,23628,Klempau,Lübecker Straße,73,,53.78743087,10.63963073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKV,23628,Klempau,Lübecker Straße,75,,53.78746103,10.63970595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKW,23628,Klempau,Lübecker Straße,77,,53.78765563,10.64004136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKX,23628,Klempau,Lübecker Straße,79,,53.78798884,10.63992967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKY,23628,Klempau,Lübecker Straße,79,a,53.78814698,10.63979624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKZ,23628,Klempau,Lübecker Straße,8,,53.78181106,10.64133086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKa,23628,Klempau,Krummesser Mühlenweg,25,,53.77381097,10.64662808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKb,23628,Klempau,Krummesser Mühlenweg,27,,53.77385444,10.64698423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKc,23628,Klempau,Krummesser Mühlenweg,3,,53.77333332,10.64271128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKd,23628,Klempau,Krummesser Mühlenweg,5,,53.77337968,10.64306987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKe,23628,Klempau,Krummesser Mühlenweg,7,,53.77340228,10.64341551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKf,23628,Klempau,Krummesser Mühlenweg,9,,53.77349557,10.64375765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKg,23628,Klempau,Küsterkoppel,2,,53.77763164,10.64502258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKh,23628,Klempau,Küsterkoppel,2,a,53.77791278,10.64481365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKi,23628,Klempau,Küsterkoppel,2,b,53.77788172,10.64450163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKj,23628,Klempau,Küsterkoppel,2,c,53.77760203,10.64456213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKk,23628,Klempau,Küsterkoppel,2,d,53.7775776,10.64420982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKl,23628,Klempau,Küsterkoppel,2,f,53.77785975,10.64415466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKm,23628,Klempau,Küsterkoppel,2,g,53.77784054,10.64378076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKn,23628,Klempau,Küsterkoppel,2,h,53.77755121,10.64353987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKo,23628,Klempau,Küsterkoppel,2,k,53.77770374,10.6435171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKp,23628,Klempau,Küsterkoppel,2,m,53.77785081,10.64343876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKq,23628,Klempau,Küsterkoppel,2,n,53.77745593,10.64299042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKr,23628,Klempau,Küsterkoppel,2,p,53.7776343,10.64295405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKs,23628,Klempau,Küsterkoppel,2,r,53.77778148,10.64291117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKt,23628,Klempau,Lübecker Straße,101,,53.79008626,10.63926714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKu,23628,Klempau,Lübecker Straße,105,,53.79038919,10.63907715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKv,23628,Klempau,Lübecker Straße,107,,53.79058067,10.63904779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKw,23628,Klempau,Lübecker Straße,109,,53.79077918,10.63896398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKx,23628,Klempau,Lübecker Straße,113,,53.79098689,10.63873151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKy,23628,Klempau,Lübecker Straße,115,,53.79115662,10.6388091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTKz,23628,Klempau,Lübecker Straße,117,,53.79130504,10.63874361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL0,23628,Klempau,Lübecker Straße,8,b,53.78198974,10.64185467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL1,23628,Klempau,Lübecker Straße,8,c,53.78200527,10.64196038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL2,23628,Klempau,Lübecker Straße,81,,53.78832244,10.64001024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL3,23628,Klempau,Lübecker Straße,83,,53.78837669,10.63953741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL4,23628,Klempau,Lübecker Straße,85,,53.78860296,10.63989011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL5,23628,Klempau,Lübecker Straße,87,,53.78870508,10.63983586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL6,23628,Klempau,Lübecker Straße,88,,53.79007597,10.63962863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL7,23628,Klempau,Lübecker Straße,94,,53.79076112,10.63937781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL8,23628,Klempau,Lübecker Straße,95,,53.78950949,10.63951343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTL9,23628,Klempau,Lübecker Straße,99,,53.78979651,10.63938882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLA,23628,Klempau,Niedernstraße,7,b,53.77978903,10.63579796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLB,23628,Klempau,Niedernstraße,9,,53.77946213,10.63538181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLC,23628,Klempau,Rondeshagener Weg,11,,53.77732925,10.6337813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLD,23628,Klempau,Rondeshagener Weg,21,,53.7754421,10.63381152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLE,23628,Klempau,Ruschweg,1,,53.78642787,10.64161437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLF,23628,Klempau,Ruschweg,11,,53.78653439,10.64299039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLG,23628,Klempau,Ruschweg,13,,53.78656294,10.64321494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLH,23628,Klempau,Ruschweg,3,,53.78645591,10.64188972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLI,23628,Klempau,Ruschweg,5,,53.78647809,10.64216996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLJ,23628,Klempau,Ruschweg,7,,53.78648155,10.64244351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLK,23628,Klempau,Ruschweg,9,,53.78650544,10.64272865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLL,23628,Klempau,Schulweg,2,,53.77813916,10.64278052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLM,23628,Klempau,Schulweg,4,,53.77818702,10.64341728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLN,23628,Klempau,Schulweg,6,,53.77822316,10.64398166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLO,23628,Klempau,Stratenkoppel,1,,53.77964945,10.64899465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLP,23628,Klempau,Stratenkoppel,10,,53.77899104,10.64722677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLQ,23628,Klempau,Stratenkoppel,10,a,53.77896634,10.64712448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLR,23628,Klempau,Stratenkoppel,11,,53.77875209,10.64928568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLS,23628,Klempau,Stratenkoppel,11,a,53.77868619,10.64934332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLT,23628,Klempau,Stratenkoppel,12,,53.7787582,10.64697573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLU,23628,Klempau,Stratenkoppel,13,,53.77858236,10.64945238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLV,23628,Klempau,Stratenkoppel,14,,53.77875776,10.64658968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLW,23628,Klempau,Stratenkoppel,14,a,53.77872923,10.64648454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLX,23628,Klempau,Stratenkoppel,15,,53.77850706,10.64939085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLY,23628,Klempau,Stratenkoppel,15,a,53.7784417,10.64941251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLZ,23628,Klempau,Stratenkoppel,16,,53.77869732,10.64619392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLa,23628,Klempau,Niedernstraße,1,,53.78045193,10.64026699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLb,23628,Klempau,Niedernstraße,11,,53.77923308,10.63479885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLc,23628,Klempau,Niedernstraße,11,a,53.77911791,10.6351645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLd,23628,Klempau,Niedernstraße,13,,53.77902875,10.63435312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLe,23628,Klempau,Niedernstraße,14,,53.78074548,10.63662953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLf,23628,Klempau,Niedernstraße,15,,53.77887959,10.63399103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLg,23628,Klempau,Niedernstraße,16,,53.78039961,10.63576203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLh,23628,Klempau,Niedernstraße,18,,53.78009474,10.63552959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLi,23628,Klempau,Niedernstraße,20,,53.77975487,10.6353159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLj,23628,Klempau,Niedernstraße,22,,53.77953546,10.6349899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLk,23628,Klempau,Niedernstraße,24,,53.77938314,10.6346006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLl,23628,Klempau,Niedernstraße,24,a,53.77937495,10.63418017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLm,23628,Klempau,Niedernstraße,26,,53.7793057,10.6338938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLn,23628,Klempau,Niedernstraße,28,,53.77911636,10.63373262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLo,23628,Klempau,Niedernstraße,3,,53.78075703,10.63933431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLp,23628,Klempau,Niedernstraße,30,,53.77911636,10.63373262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLq,23628,Klempau,Niedernstraße,32,,53.77887918,10.63332241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLs,23628,Klempau,Niedernstraße,36,,53.77878362,10.63228658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLt,23628,Klempau,Niedernstraße,36,a,53.77874152,10.63209932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLu,23628,Klempau,Niedernstraße,38,,53.77868456,10.6318434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLv,23628,Klempau,Niedernstraße,38,a,53.77864466,10.63166423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLw,23628,Klempau,Niedernstraße,4,,53.78088919,10.63925342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLx,23628,Klempau,Niedernstraße,5,,53.78066872,10.63861033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLy,23628,Klempau,Niedernstraße,7,,53.78024974,10.63594654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTLz,23628,Klempau,Niedernstraße,7,a,53.78004657,10.63588997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM0,23628,Klempau,Stratenkoppel,16,a,53.7786938,10.64607279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM1,23628,Klempau,Stratenkoppel,17,,53.77841859,10.64895713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM2,23628,Klempau,Stratenkoppel,18,,53.77870832,10.6458131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM3,23628,Klempau,Stratenkoppel,18,a,53.77871785,10.64566851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM4,23628,Klempau,Stratenkoppel,19,,53.77847515,10.64888437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM5,23628,Klempau,Stratenkoppel,19,a,53.77853869,10.64886121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM6,23628,Klempau,Stratenkoppel,2,,53.77929222,10.64862494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM7,23628,Klempau,Stratenkoppel,20,,53.7789679,10.64567567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM8,23628,Klempau,Stratenkoppel,21,,53.77865742,10.64877857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTM9,23628,Klempau,Stratenkoppel,21,a,53.77872398,10.64879232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMA,23628,Klempau,Stratenkoppel,53,,53.77878724,10.64484627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMB,23628,Klempau,Stratenkoppel,55,,53.77892359,10.64525676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMC,23628,Klempau,Stratenkoppel,57,,53.77899352,10.64523229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMD,23628,Klempau,Stratenkoppel,59,,53.77905907,10.64520935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTME,23628,Klempau,Stratenkoppel,6,,53.77910837,10.648062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMF,23628,Klempau,Stratenkoppel,6,a,53.77908085,10.6479583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMG,23628,Klempau,Stratenkoppel,7,,53.77911467,10.64917642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMH,23628,Klempau,Stratenkoppel,7,a,53.77904634,10.64916302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMI,23628,Klempau,Stratenkoppel,8,,53.77903157,10.64764308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMJ,23628,Klempau,Stratenkoppel,8,a,53.7790311,10.64753082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMK,23628,Klempau,Stratenkoppel,9,,53.77893088,10.64920002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTML,23628,Klempau,Stratenkoppel,9,a,53.77886865,10.64925559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMM,23628,Klempau,Taterweg,3,,53.77289792,10.64666738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMN,23628,Klempau,Taterweg,5,,53.77274524,10.64674356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMO,23628,Klempau,Taterweg,5,a,53.77268972,10.64678814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMP,23628,Klempau,Taterweg,7,,53.77253782,10.64681369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMQ,23628,Klempau,Achtern Dörp,1,,53.78420107,10.64335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMR,23628,Klempau,Achtern Dörp,10,,53.78326123,10.64345405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMS,23628,Klempau,Achtern Dörp,11,,53.78398835,10.6438678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMT,23628,Klempau,Achtern Dörp,11,a,53.78400876,10.6439523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMU,23628,Klempau,Achtern Dörp,12,,53.78324199,10.64334088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMV,23628,Klempau,Achtern Dörp,13,,53.7836545,10.64369665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMW,23628,Klempau,Achtern Dörp,14,,53.78319617,10.64306297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMX,23628,Klempau,Achtern Dörp,15,,53.78368309,10.643819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMY,23628,Klempau,Achtern Dörp,16,,53.78315714,10.64283542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMZ,23628,Klempau,Achtern Dörp,17,,53.78369511,10.64407783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMa,23628,Klempau,Stratenkoppel,23,,53.7788469,10.64877902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMb,23628,Klempau,Stratenkoppel,23,a,53.77890521,10.64868373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMc,23628,Klempau,Stratenkoppel,25,,53.77882223,10.64806935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMd,23628,Klempau,Stratenkoppel,25,a,53.77875211,10.64806023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMe,23628,Klempau,Stratenkoppel,27,,53.77863396,10.64810374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMf,23628,Klempau,Stratenkoppel,27,a,53.77858101,10.64819029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMg,23628,Klempau,Stratenkoppel,29,,53.77842869,10.64822045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMh,23628,Klempau,Stratenkoppel,29,a,53.77836884,10.64824421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMi,23628,Klempau,Stratenkoppel,3,,53.77945503,10.64905465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMj,23628,Klempau,Stratenkoppel,31,,53.77830076,10.6481854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMk,23628,Klempau,Stratenkoppel,33,,53.77828458,10.64782494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMl,23628,Klempau,Stratenkoppel,35,,53.77844118,10.64768874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMm,23628,Klempau,Stratenkoppel,35,a,53.77850398,10.64766536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMn,23628,Klempau,Stratenkoppel,37,,53.77857047,10.6476773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMo,23628,Klempau,Stratenkoppel,39,,53.77869049,10.64765142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMp,23628,Klempau,Stratenkoppel,39,a,53.77874247,10.64755463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMq,23628,Klempau,Stratenkoppel,4,,53.77915781,10.64851662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMr,23628,Klempau,Stratenkoppel,4,a,53.77912884,10.64840096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMs,23628,Klempau,Stratenkoppel,41,,53.7786046,10.64709428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMt,23628,Klempau,Stratenkoppel,41,a,53.77854692,10.64715222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMu,23628,Klempau,Stratenkoppel,43,,53.77849112,10.64673433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMv,23628,Klempau,Stratenkoppel,43,a,53.7784341,10.64678848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMw,23628,Klempau,Stratenkoppel,45,,53.77823296,10.64646089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMx,23628,Klempau,Stratenkoppel,49,,53.77866258,10.64534364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMy,23628,Klempau,Stratenkoppel,5,,53.779233,10.64906175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTMz,23628,Klempau,Stratenkoppel,51,,53.77876414,10.64473877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN0,23628,Klempau,Achtern Dörp,19,,53.7834013,10.64395668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN1,23628,Klempau,Achtern Dörp,2,,53.78351023,10.64330798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN2,23628,Klempau,Achtern Dörp,2,a,53.78370865,10.6431794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN3,23628,Klempau,Achtern Dörp,2,b,53.78369483,10.6429265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN4,23628,Klempau,Achtern Dörp,21,,53.78342706,10.64406644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN5,23628,Klempau,Achtern Dörp,23,,53.78344755,10.64415394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN6,23628,Klempau,Achtern Dörp,25,,53.78349097,10.64441084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN7,23628,Klempau,Achtern Dörp,3,,53.78422328,10.6434446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN8,23628,Klempau,Achtern Dörp,4,,53.78349137,10.64319767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTN9,23628,Klempau,Achtern Dörp,5,,53.78428405,10.64372483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNA,23628,Klempau,Pingsheesch,4,,53.78670176,10.64408421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNB,23628,Klempau,Pingsheesch,5,,53.78696289,10.64359668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNC,23628,Klempau,Pingsheesch,5,a,53.78701664,10.64358268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTND,23628,Klempau,Pingsheesch,6,,53.78682368,10.6440524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNE,23628,Klempau,Pingsheesch,7,,53.78736081,10.64340904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNF,23628,Klempau,Pingsheesch,7,a,53.78735315,10.64332118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNG,23628,Klempau,Pingsheesch,8,,53.78688006,10.64403768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNH,23628,Klempau,Pingsheesch,9,,53.78733618,10.64312607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNI,23628,Klempau,Pingsheesch,9,a,53.78732837,10.6430367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNa,23628,Klempau,Achtern Dörp,6,,53.7834497,10.64295333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNb,23628,Klempau,Achtern Dörp,7,,53.78392807,10.64352571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNc,23628,Klempau,Achtern Dörp,8,,53.78340957,10.64270415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNd,23628,Klempau,Achtern Dörp,9,,53.78395379,10.64363549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNe,23628,Klempau,Pingsheesch,1,,53.78660455,10.64369048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNf,23628,Klempau,Pingsheesch,1,a,53.78666368,10.64367506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNg,23628,Klempau,Pingsheesch,10,,53.78699144,10.64395511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNh,23628,Klempau,Pingsheesch,11,,53.78731024,10.64282345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNi,23628,Klempau,Pingsheesch,12,,53.78705058,10.64393963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNj,23628,Klempau,Pingsheesch,13,,53.78728413,10.6425239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNk,23628,Klempau,Pingsheesch,14,,53.78727909,10.64387957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNl,23628,Klempau,Pingsheesch,15,,53.78726649,10.6422588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNm,23628,Klempau,Pingsheesch,16,,53.78733173,10.6438504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNn,23628,Klempau,Pingsheesch,17,,53.787301,10.64192052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNo,23628,Klempau,Pingsheesch,18,,53.78767401,10.64376915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNp,23628,Klempau,Pingsheesch,19,,53.78751618,10.64214518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNq,23628,Klempau,Pingsheesch,19,a,53.78757082,10.64213114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNr,23628,Klempau,Pingsheesch,2,,53.78664174,10.64409991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNs,23628,Klempau,Pingsheesch,20,,53.78773649,10.64346779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNt,23628,Klempau,Pingsheesch,21,,53.78756598,10.64180153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNu,23628,Klempau,Pingsheesch,22,,53.7877094,10.6431715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNv,23628,Klempau,Pingsheesch,23,,53.78754215,10.64150184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNw,23628,Klempau,Pingsheesch,24,,53.78768647,10.64288396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNx,23628,Klempau,Pingsheesch,26,,53.78767465,10.64258224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNy,23628,Klempau,Pingsheesch,3,,53.78678283,10.64364365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000KTNz,23628,Klempau,Pingsheesch,3,a,53.78684461,10.64362755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SM,23628,Klempau,Beidendorfer Weg,1,,53.77949791,10.64501829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SN,23628,Klempau,Beidendorfer Weg,1,a,53.7795719,10.64549407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SO,23628,Klempau,Beidendorfer Weg,1,b,53.77943515,10.64474288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SP,23628,Klempau,Beidendorfer Weg,3,,53.77964295,10.64595211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SQ,23628,Klempau,Beidendorfer Weg,5,,53.77981166,10.64770362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SR,23628,Klempau,Beidendorfer Weg,7,,53.78012436,10.64897596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SS,23628,Klempau,Beidendorfer Weg,7,a,53.78062852,10.64869407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ST,23628,Klempau,Achtern Dörp,27,,53.78315735,10.6447623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SU,23628,Klempau,Achtern Dörp,29,,53.78307656,10.64450067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SV,23628,Klempau,Achtern Dörp,31,,53.78306095,10.64422191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SW,23628,Klempau,Achtern Dörp,33,,53.78300782,10.64389487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SX,23628,Klempau,Achtern Dörp,35,,53.78296702,10.64363029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SY,23628,Klempau,Achtern Dörp,39,,53.78286187,10.64310539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5SZ,23628,Klempau,Achtern Dörp,41,,53.78278361,10.642868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T0,23628,Klempau,Bonninguesstraße,1,,53.77699517,10.64871941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T1,23628,Klempau,Bonninguesstraße,10,,53.77740124,10.64953086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T2,23628,Klempau,Bonninguesstraße,11,,53.77780313,10.64969884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T3,23628,Klempau,Bonninguesstraße,12,,53.77756991,10.64965402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T4,23628,Klempau,Bonninguesstraße,13,,53.7777785,10.65048376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T5,23628,Klempau,Bonninguesstraße,14,,53.77758506,10.6503286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T6,23628,Klempau,Bonninguesstraße,15,,53.77794177,10.65060552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T7,23628,Klempau,Bonninguesstraße,16,,53.77749676,10.65062023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T8,23628,Klempau,Bonninguesstraße,17,,53.7780817,10.6507499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5T9,23628,Klempau,Bonninguesstraße,18,,53.77739851,10.65086658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TA,23628,Klempau,Bonninguesstraße,8,,53.77719417,10.64931695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TB,23628,Klempau,Bonninguesstraße,9,,53.77758925,10.64929394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TC,23628,Klempau,Bornmühle,1,,53.77221047,10.64179275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TD,23628,Klempau,Carlower Weg,10,,53.78030707,10.64546877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TE,23628,Klempau,Carlower Weg,11,,53.7805479,10.64449441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TF,23628,Klempau,Carlower Weg,12,,53.78041255,10.64541267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TG,23628,Klempau,Carlower Weg,13,,53.78053801,10.64478001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TH,23628,Klempau,Carlower Weg,14,,53.78046351,10.64538563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TI,23628,Klempau,Carlower Weg,15,,53.78057212,10.64503694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TJ,23628,Klempau,Carlower Weg,16,,53.78064205,10.64537283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TK,23628,Klempau,Carlower Weg,2,,53.7799886,10.64567203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TL,23628,Klempau,Carlower Weg,3,,53.7799004,10.6451159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TM,23628,Klempau,Carlower Weg,4,,53.78010691,10.64557485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TN,23628,Klempau,Carlower Weg,5,,53.78004477,10.64505364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TO,23628,Klempau,Carlower Weg,6,,53.78015165,10.64555113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TP,23628,Klempau,Carlower Weg,7,,53.7801801,10.64495615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TQ,23628,Klempau,Carlower Weg,8,,53.78026067,10.64549333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TR,23628,Klempau,Carlower Weg,9,,53.78031363,10.64475675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TS,23628,Klempau,Grüner Weg,1,,53.78032936,10.64356387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TT,23628,Klempau,Grüner Weg,1,a,53.78033993,10.64321882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TU,23628,Klempau,Grüner Weg,2,,53.78018643,10.64364248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TV,23628,Klempau,Grüner Weg,3,,53.78041368,10.64390531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TW,23628,Klempau,Grüner Weg,4,,53.78024542,10.64410639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TX,23628,Klempau,Grüner Weg,5,,53.78046853,10.64415983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TY,23628,Klempau,Kählstorfer Weg,1,,53.77740143,10.64567294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5TZ,23628,Klempau,Kählstorfer Weg,1,a,53.77724116,10.64581102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ta,23628,Klempau,Bonninguesstraße,19,,53.7782166,10.65089335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tb,23628,Klempau,Bonninguesstraße,2,a,53.77689993,10.6490011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tc,23628,Klempau,Bonninguesstraße,20,,53.77730709,10.65111841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Td,23628,Klempau,Bonninguesstraße,21,,53.77757909,10.65112116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Te,23628,Klempau,Bonninguesstraße,22,,53.77721528,10.65138193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tf,23628,Klempau,Bonninguesstraße,23,,53.77771525,10.65125356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tg,23628,Klempau,Bonninguesstraße,24,,53.77711015,10.651636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Th,23628,Klempau,Bonninguesstraße,25,,53.77784275,10.65138271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ti,23628,Klempau,Bonninguesstraße,26,,53.77701798,10.6518573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tj,23628,Klempau,Bonninguesstraße,27,,53.77801261,10.65146434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tk,23628,Klempau,Bonninguesstraße,28,,53.77693386,10.65213602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tl,23628,Klempau,Bonninguesstraße,29,,53.77746488,10.6513563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tm,23628,Klempau,Bonninguesstraße,3,,53.77706178,10.64848181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tn,23628,Klempau,Bonninguesstraße,31,,53.7776051,10.65147452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5To,23628,Klempau,Bonninguesstraße,33,,53.77774316,10.65161637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tp,23628,Klempau,Bonninguesstraße,35,,53.7778708,10.65176648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tq,23628,Klempau,Bonninguesstraße,37,,53.77735355,10.6520445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tr,23628,Klempau,Bonninguesstraße,39,,53.77744409,10.6522644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ts,23628,Klempau,Bonninguesstraße,4,,53.77679883,10.64934304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tt,23628,Klempau,Bonninguesstraße,41,,53.77759377,10.65239905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tu,23628,Klempau,Bonninguesstraße,43,,53.77717502,10.65228168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tv,23628,Klempau,Bonninguesstraße,45,,53.77732344,10.652505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tw,23628,Klempau,Bonninguesstraße,47,,53.77746992,10.65269997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tx,23628,Klempau,Bonninguesstraße,5,,53.77720103,10.64887172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ty,23628,Klempau,Bonninguesstraße,6,,53.77706051,10.64918653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Tz,23628,Klempau,Bonninguesstraße,7,,53.7773763,10.64909477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U0,23628,Klempau,Kählstorfer Weg,10,,53.77641724,10.64625382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U1,23628,Klempau,Kählstorfer Weg,11,,53.77616125,10.64711683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U2,23628,Klempau,Kählstorfer Weg,12,,53.77617513,10.64640446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U3,23628,Klempau,Kählstorfer Weg,13,,53.77601523,10.64710173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U4,23628,Klempau,Kählstorfer Weg,14,,53.77604495,10.64648057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U5,23628,Klempau,Kählstorfer Weg,15,,53.7758995,10.64714546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U6,23628,Klempau,Kählstorfer Weg,16,,53.77588333,10.64654929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U7,23628,Klempau,Kählstorfer Weg,17,,53.77580102,10.64730199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U8,23628,Klempau,Kählstorfer Weg,18,,53.77572894,10.64662694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5U9,23628,Klempau,Kählstorfer Weg,19,,53.77568747,10.6473482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UA,23628,Klempau,Klempauer Straße,1,,53.78060377,10.6423918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UB,23628,Klempau,Klempauer Straße,1,a,53.78038693,10.64267517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UC,23628,Klempau,Klempauer Straße,10,,53.77963398,10.642728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UD,23628,Klempau,Klempauer Straße,11,,53.77967822,10.64358113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UE,23628,Klempau,Klempauer Straße,12,,53.77963398,10.642728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UF,23628,Klempau,Klempauer Straße,13,,53.77963772,10.64381838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UG,23628,Klempau,Klempauer Straße,14,,53.77922401,10.64298105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UH,23628,Klempau,Klempauer Straße,15,,53.77948659,10.64393814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UI,23628,Klempau,Klempauer Straße,17,,53.77935226,10.64403539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UJ,23628,Klempau,Klempauer Straße,18,,53.77980153,10.6421384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UK,23628,Klempau,Klempauer Straße,19,,53.77928667,10.64359665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UL,23628,Klempau,Klempauer Straße,2,,53.78034925,10.64201383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UM,23628,Klempau,Klempauer Straße,20,,53.77980722,10.64200857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UN,23628,Klempau,Klempauer Straße,21,,53.77903752,10.64397932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UO,23628,Klempau,Klempauer Straße,22,,53.77845142,10.64428491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UP,23628,Klempau,Klempauer Straße,3,,53.78013106,10.64256993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UQ,23628,Klempau,Klempauer Straße,32,,53.7773645,10.64621246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UR,23628,Klempau,Klempauer Straße,34,,53.77715533,10.64691933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5US,23628,Klempau,Klempauer Straße,34,a,53.77716894,10.64658933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UT,23628,Klempau,Klempauer Straße,34,b,53.77710821,10.64664807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UU,23628,Klempau,Klempauer Straße,36,,53.77700952,10.64738748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UV,23628,Klempau,Klempauer Straße,36,a,53.77681645,10.64729395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UW,23628,Klempau,Klempauer Straße,37,,53.77777664,10.64572803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UX,23628,Klempau,Klempauer Straße,38,,53.77682751,10.64775111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UY,23628,Klempau,Klempauer Straße,38,a,53.77677415,10.64794091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5UZ,23628,Klempau,Klempauer Straße,39,,53.77747192,10.64661818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ua,23628,Klempau,Kählstorfer Weg,2,,53.77713121,10.64548858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ub,23628,Klempau,Kählstorfer Weg,20,,53.77555207,10.64667806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uc,23628,Klempau,Kählstorfer Weg,21,,53.77555656,10.64725112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ud,23628,Klempau,Kählstorfer Weg,23,,53.77544227,10.64729715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ue,23628,Klempau,Kählstorfer Weg,25,,53.77531283,10.64720492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uf,23628,Klempau,Kählstorfer Weg,27,,53.77519826,10.64725437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ug,23628,Klempau,Kählstorfer Weg,29,,53.77506691,10.64729365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uh,23628,Klempau,Kählstorfer Weg,3,,53.77703818,10.64602087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ui,23628,Klempau,Kählstorfer Weg,31,,53.77487632,10.64737227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uj,23628,Klempau,Kählstorfer Weg,33,,53.7747673,10.64741605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uk,23628,Klempau,Kählstorfer Weg,35,,53.77456963,10.64749132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ul,23628,Klempau,Kählstorfer Weg,37,,53.77444217,10.64748108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Um,23628,Klempau,Kählstorfer Weg,39,,53.77427561,10.64754852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Un,23628,Klempau,Kählstorfer Weg,4,,53.77671141,10.64592147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uo,23628,Klempau,Kählstorfer Weg,41,,53.77412764,10.64754692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Up,23628,Klempau,Kählstorfer Weg,43,,53.77399071,10.64760933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uq,23628,Klempau,Kählstorfer Weg,45,,53.77386273,10.64771006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ur,23628,Klempau,Kählstorfer Weg,47,,53.77370836,10.64774264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Us,23628,Klempau,Kählstorfer Weg,49,,53.7735701,10.64778736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ut,23628,Klempau,Kählstorfer Weg,5,,53.77661909,10.64660149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uu,23628,Klempau,Kählstorfer Weg,51,,53.77342861,10.64789906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uv,23628,Klempau,Kählstorfer Weg,53,,53.77332564,10.6480305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uw,23628,Klempau,Kählstorfer Weg,55,,53.77318143,10.64819033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ux,23628,Klempau,Kählstorfer Weg,6,,53.77651325,10.64631472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uy,23628,Klempau,Kählstorfer Weg,7,,53.7765516,10.64667783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Uz,23628,Klempau,Kählstorfer Weg,9,,53.7764676,10.64731905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V0,23628,Klempau,Klempauer Straße,4,,53.78010167,10.64223211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V1,23628,Klempau,Klempauer Straße,40,,53.77674322,10.64802286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V2,23628,Klempau,Klempauer Straße,42,,53.77665996,10.64825952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V3,23628,Klempau,Klempauer Straße,44,,53.776585,10.64845622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V4,23628,Klempau,Klempauer Straße,46,,53.77651314,10.64864925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V5,23628,Klempau,Klempauer Straße,48,,53.77638254,10.64877932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V6,23628,Klempau,Klempauer Straße,5,,53.78001711,10.64298077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V7,23628,Klempau,Klempauer Straße,50,,53.77630955,10.648976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V8,23628,Klempau,Klempauer Straße,52,,53.77627173,10.64920744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5V9,23628,Klempau,Klempauer Straße,54,,53.77617332,10.64934644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VA,23628,Klempau,Küsterkoppel,23,,53.77683786,10.64532847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VB,23628,Klempau,Küsterkoppel,24,,53.77621618,10.64197862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VC,23628,Klempau,Küsterkoppel,25,,53.77672941,10.64513541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VD,23628,Klempau,Küsterkoppel,26,,53.77621792,10.64212543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VE,23628,Klempau,Küsterkoppel,27,,53.77663514,10.64486062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VF,23628,Klempau,Küsterkoppel,28,,53.77622575,10.64239613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VG,23628,Klempau,Küsterkoppel,29,,53.77653661,10.64459265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VH,23628,Klempau,Küsterkoppel,3,,53.77736307,10.64467602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VI,23628,Klempau,Küsterkoppel,30,,53.77623637,10.64253686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VJ,23628,Klempau,Küsterkoppel,31,,53.77643978,10.64432768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VK,23628,Klempau,Küsterkoppel,32,,53.77628049,10.64280563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VL,23628,Klempau,Küsterkoppel,33,,53.77631522,10.64406153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VM,23628,Klempau,Küsterkoppel,34,,53.77629363,10.64295241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VN,23628,Klempau,Küsterkoppel,35,,53.77617509,10.64390381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VO,23628,Klempau,Küsterkoppel,36,,53.77634736,10.64322777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VP,23628,Klempau,Küsterkoppel,37,,53.77602775,10.64377113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VQ,23628,Klempau,Küsterkoppel,38,,53.77635421,10.64337472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VR,23628,Klempau,Küsterkoppel,39,,53.77591269,10.64368929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VS,23628,Klempau,Küsterkoppel,4,,53.77720327,10.64340073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VT,23628,Klempau,Küsterkoppel,4,a,53.77734986,10.64352957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VU,23628,Klempau,Küsterkoppel,40,,53.77567686,10.64318346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VV,23628,Klempau,Küsterkoppel,41,,53.77580391,10.64362777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VW,23628,Klempau,Küsterkoppel,42,,53.77547668,10.6429983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VX,23628,Klempau,Küsterkoppel,43,,53.77568068,10.64358903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VY,23628,Klempau,Küsterkoppel,44,,53.77536799,10.64277117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5VZ,23628,Klempau,Küsterkoppel,45,,53.77556988,10.64351058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Va,23628,Klempau,Klempauer Straße,56,,53.77615852,10.64961086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vb,23628,Klempau,Klempauer Straße,58,,53.77609247,10.64978081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vc,23628,Klempau,Klempauer Straße,60,,53.77601646,10.64997582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vd,23628,Klempau,Klempauer Straße,62,,53.77594685,10.6501634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ve,23628,Klempau,Klempauer Straße,64,,53.77587375,10.65035409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vf,23628,Klempau,Klempauer Straße,7,,53.77974046,10.64305389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vh,23628,Klempau,Klempauer Straße,8,,53.77963398,10.642728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vi,23628,Klempau,Klempauer Straße,9,,53.77968026,10.64336414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vj,23628,Klempau,Klempauer Straße,9,a,53.77993638,10.64377093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vk,23628,Klempau,Küsterkoppel,1,,53.77739506,10.64503747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vl,23628,Klempau,Küsterkoppel,10,,53.77651945,10.64325772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vm,23628,Klempau,Küsterkoppel,11,,53.77657737,10.64378942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vn,23628,Klempau,Küsterkoppel,12,,53.77653216,10.64301249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vo,23628,Klempau,Küsterkoppel,13,,53.7765413,10.6439507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vp,23628,Klempau,Küsterkoppel,14,,53.77651273,10.64278765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vq,23628,Klempau,Küsterkoppel,15,,53.77668006,10.6443819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vr,23628,Klempau,Küsterkoppel,16,,53.77649369,10.64257276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vs,23628,Klempau,Küsterkoppel,17,,53.77678232,10.64467208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vt,23628,Klempau,Küsterkoppel,17,a,53.77689553,10.64452182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vu,23628,Klempau,Küsterkoppel,18,,53.77647372,10.64233521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vv,23628,Klempau,Küsterkoppel,19,,53.7768347,10.64491336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vw,23628,Klempau,Küsterkoppel,20,,53.77642274,10.64210142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vx,23628,Klempau,Küsterkoppel,20,a,53.77654575,10.64212759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vy,23628,Klempau,Küsterkoppel,21,,53.77694711,10.64523796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Vz,23628,Klempau,Küsterkoppel,22,,53.77641047,10.64195777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W0,23628,Klempau,Küsterkoppel,46,,53.77532401,10.64245578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W1,23628,Klempau,Küsterkoppel,47,,53.77544341,10.64342544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W2,23628,Klempau,Küsterkoppel,48,,53.77529629,10.64211984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W3,23628,Klempau,Küsterkoppel,49,,53.77530918,10.6433265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W4,23628,Klempau,Küsterkoppel,5,,53.77731449,10.6443486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W5,23628,Klempau,Küsterkoppel,50,,53.77527372,10.64188352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W6,23628,Klempau,Küsterkoppel,51,,53.77523418,10.64317768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W7,23628,Klempau,Küsterkoppel,53,,53.77517485,10.6429661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W8,23628,Klempau,Küsterkoppel,55,,53.7751345,10.6427694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5W9,23628,Klempau,Küsterkoppel,57,,53.77510577,10.6425563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WA,23628,Klempau,Lange Reihe,20,a,53.77797795,10.64115511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WB,23628,Klempau,Lange Reihe,21,,53.77693305,10.64187988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WC,23628,Klempau,Lange Reihe,21,a,53.77674684,10.64184528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WD,23628,Klempau,Lange Reihe,24,,53.77697706,10.64157563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WE,23628,Klempau,Lange Reihe,26,,53.77641886,10.64152551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WF,23628,Klempau,Lange Reihe,28,,53.77588191,10.64152775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WG,23628,Klempau,Lange Reihe,28,a,53.77596385,10.64120277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WH,23628,Klempau,Lange Reihe,3,,53.77931285,10.64213233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WJ,23628,Klempau,Lange Reihe,30,,53.77568456,10.64140383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WK,23628,Klempau,Lange Reihe,32,,53.77551962,10.64151844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WL,23628,Klempau,Lange Reihe,34,,53.77539129,10.6414522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WM,23628,Klempau,Lange Reihe,36,,53.77535396,10.64145104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WN,23628,Klempau,Lange Reihe,38,,53.77531655,10.64145012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WO,23628,Klempau,Lange Reihe,4,,53.77962123,10.64141884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WP,23628,Klempau,Lange Reihe,4,a,53.77955933,10.64099299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WQ,23628,Klempau,Lange Reihe,40,,53.77527971,10.64146012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WR,23628,Klempau,Lange Reihe,42,,53.7752436,10.6414597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WS,23628,Klempau,Lange Reihe,44,,53.77520714,10.64145894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WT,23628,Klempau,Lange Reihe,46,,53.77516751,10.64145882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WU,23628,Klempau,Lange Reihe,48,,53.77521923,10.64081993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WV,23628,Klempau,Lange Reihe,5,,53.77852358,10.64218275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WW,23628,Klempau,Lange Reihe,50,,53.77534085,10.64082181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WX,23628,Klempau,Lange Reihe,52,,53.77522999,10.64028762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WY,23628,Klempau,Lange Reihe,54,,53.77534371,10.64029137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5WZ,23628,Klempau,Lange Reihe,56,,53.7751439,10.63953621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wa,23628,Klempau,Küsterkoppel,59,,53.77507487,10.64234131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wb,23628,Klempau,Küsterkoppel,6,,53.7770407,10.64334181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wc,23628,Klempau,Küsterkoppel,61,,53.77507399,10.64214185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wd,23628,Klempau,Küsterkoppel,63,,53.77504496,10.64190667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5We,23628,Klempau,Küsterkoppel,7,,53.77729246,10.64404792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wf,23628,Klempau,Küsterkoppel,8,,53.77653295,10.64344236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wg,23628,Klempau,Küsterkoppel,9,,53.77718238,10.64380352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wh,23628,Klempau,Küsterkoppel,9,a,53.77681613,10.64375814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wi,23628,Klempau,Langenfelde,10,,53.78952156,10.64172025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wj,23628,Klempau,Langenfelde,12,,53.78961164,10.64230824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wk,23628,Klempau,Langenfelde,14,,53.78993246,10.64199933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wl,23628,Klempau,Langenfelde,16,,53.78998068,10.64228533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wm,23628,Klempau,Langenfelde,18,,53.79005266,10.64252852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wn,23628,Klempau,Langenfelde,2,,53.78976605,10.64080488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wo,23628,Klempau,Langenfelde,20,,53.79009408,10.6427711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wp,23628,Klempau,Langenfelde,4,,53.78981491,10.64112336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wq,23628,Klempau,Langenfelde,6,,53.78983037,10.64141497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wr,23628,Klempau,Langenfelde,8,,53.78987539,10.64168815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ws,23628,Klempau,Lange Reihe,1,,53.77939331,10.64197638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wt,23628,Klempau,Lange Reihe,10,,53.77901913,10.64154974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wu,23628,Klempau,Lange Reihe,14,,53.77862995,10.64173885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wv,23628,Klempau,Lange Reihe,14,b,53.77856504,10.64102953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ww,23628,Klempau,Lange Reihe,17,,53.77721441,10.6419169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wx,23628,Klempau,Lange Reihe,19,,53.77707146,10.64189615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wy,23628,Klempau,Lange Reihe,2,,53.77986809,10.64121922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Wz,23628,Klempau,Lange Reihe,20,,53.77794283,10.64130525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X0,23628,Klempau,Lange Reihe,58,,53.7750184,10.64148181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X1,23628,Klempau,Lange Reihe,68,,53.77367579,10.64165153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X2,23628,Klempau,Lange Reihe,70,,53.77354733,10.64171886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X3,23628,Klempau,Lange Reihe,72,,53.77340265,10.64182328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X4,23628,Klempau,Lange Reihe,74,,53.77322571,10.64190428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X5,23628,Klempau,Lange Reihe,76,,53.77280643,10.64138042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X6,23628,Klempau,Lübecker Straße,1,,53.78065323,10.64166481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X7,23628,Klempau,Lübecker Straße,10,,53.78209934,10.64117494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X8,23628,Klempau,Lübecker Straße,10,a,53.78226346,10.64179119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5X9,23628,Klempau,Lübecker Straße,10,b,53.78223115,10.64210407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XA,23628,Klempau,Lübecker Straße,26,,53.78450682,10.64096539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XC,23628,Klempau,Lübecker Straße,28,,53.78466886,10.64098493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XD,23628,Klempau,Lübecker Straße,29,,53.78403842,10.64044281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XE,23628,Klempau,Lübecker Straße,3,,53.78126623,10.64085756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XF,23628,Klempau,Lübecker Straße,30,,53.78481985,10.64098834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XG,23628,Klempau,Lübecker Straße,31,,53.7841902,10.64043881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XH,23628,Klempau,Lübecker Straße,32,,53.78501966,10.64118343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XI,23628,Klempau,Lübecker Straße,34,,53.78514157,10.64115122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XJ,23628,Klempau,Lübecker Straße,36,,53.78527487,10.64111855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XK,23628,Klempau,Lübecker Straße,37,,53.78456859,10.64007915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XL,23628,Klempau,Lübecker Straße,38,,53.78540641,10.64109848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XM,23628,Klempau,Lübecker Straße,39,,53.78450398,10.64053331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XN,23628,Klempau,Lübecker Straße,4,,53.78118044,10.64181911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XO,23628,Klempau,Lübecker Straße,40,,53.7855476,10.6410719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XP,23628,Klempau,Lübecker Straße,41,,53.78482329,10.64060173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XQ,23628,Klempau,Lübecker Straße,42,,53.78580692,10.64108743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XR,23628,Klempau,Lübecker Straße,43,,53.78499788,10.64059317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XS,23628,Klempau,Lübecker Straße,43,a,53.78504618,10.64058754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XT,23628,Klempau,Lübecker Straße,44,,53.78605717,10.64103751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XU,23628,Klempau,Lübecker Straße,45,,53.78521132,10.64044437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XV,23628,Klempau,Lübecker Straße,46,,53.78605717,10.64103751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XW,23628,Klempau,Lübecker Straße,49,,53.78552445,10.6401729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XX,23628,Klempau,Lübecker Straße,5,,53.78196878,10.64086118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XY,23628,Klempau,Lübecker Straße,51,,53.78578712,10.64043461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5XZ,23628,Klempau,Lübecker Straße,55,,53.78608731,10.64021245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xa,23628,Klempau,Lübecker Straße,102,,53.79134513,10.63912665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xb,23628,Klempau,Lübecker Straße,11,,53.78215889,10.64011907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xc,23628,Klempau,Lübecker Straße,112,,53.79215411,10.6392335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xd,23628,Klempau,Lübecker Straße,114,,53.79215411,10.6392335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xe,23628,Klempau,Lübecker Straße,116,,53.79215411,10.6392335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xf,23628,Klempau,Lübecker Straße,118,,53.79286677,10.63847831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xg,23628,Klempau,Lübecker Straße,119,,53.79172046,10.63858795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xh,23628,Klempau,Lübecker Straße,12,,53.78241475,10.64121202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xi,23628,Klempau,Lübecker Straße,124,,53.79381788,10.63807643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xj,23628,Klempau,Lübecker Straße,127,,53.79244441,10.63827635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xk,23628,Klempau,Lübecker Straße,13,,53.7823079,10.64025433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xl,23628,Klempau,Lübecker Straße,133,,53.79314819,10.63799005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xm,23628,Klempau,Lübecker Straße,14,,53.78279967,10.64113701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xn,23628,Klempau,Lübecker Straße,14,a,53.78321533,10.6416619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xo,23628,Klempau,Lübecker Straße,14,b,53.78321834,10.64137484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xp,23628,Klempau,Lübecker Straße,141,,53.79442392,10.63732228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xq,23628,Klempau,Lübecker Straße,15,,53.78296735,10.64051411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xr,23628,Klempau,Lübecker Straße,157,,53.79563613,10.6364199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xs,23628,Klempau,Lübecker Straße,16,,53.78321023,10.64096214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xt,23628,Klempau,Lübecker Straße,16,a,53.78338686,10.64150817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xu,23628,Klempau,Lübecker Straße,17,,53.78301924,10.64051334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xv,23628,Klempau,Lübecker Straße,19,,53.78317177,10.64050293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xw,23628,Klempau,Lübecker Straße,2,,53.78096288,10.64209973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xx,23628,Klempau,Lübecker Straße,22,,53.78417992,10.64097207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xy,23628,Klempau,Lübecker Straße,24,,53.78435658,10.64097599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Xz,23628,Klempau,Lübecker Straße,25,,53.78385607,10.64042829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y0,23628,Klempau,Lübecker Straße,57,,53.78644342,10.64005941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y1,23628,Klempau,Lübecker Straße,59,,53.78644342,10.64005941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y2,23628,Klempau,Lübecker Straße,6,,53.78154077,10.64157446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y3,23628,Klempau,Lübecker Straße,61,,53.78663373,10.64040461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y4,23628,Klempau,Lübecker Straße,62,,53.78770026,10.64070069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y5,23628,Klempau,Lübecker Straße,63,,53.78676026,10.64016607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y6,23628,Klempau,Lübecker Straße,64,,53.78783065,10.6404952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y7,23628,Klempau,Lübecker Straße,65,,53.78692267,10.64000896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y8,23628,Klempau,Lübecker Straße,66,,53.78799659,10.64056479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Y9,23628,Klempau,Lübecker Straße,67,,53.78716148,10.64014875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YA,23628,Klempau,Mittelweg,7,,53.77639318,10.65359397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YB,23628,Klempau,Mittelweg,8,,53.77621521,10.65385161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YC,23628,Klempau,Mittelweg,9,,53.77655432,10.65382665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YD,23628,Klempau,Krummesser Moorweg,1,,53.78465595,10.64388284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YE,23628,Klempau,Krummesser Moorweg,1,a,53.78419131,10.64175386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YF,23628,Klempau,Krummesser Moorweg,1,b,53.78424981,10.64207131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YG,23628,Klempau,Am Mühlenbach,1,,53.77408815,10.64162465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YH,23628,Klempau,Am Mühlenbach,10,,53.77307434,10.64025472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YI,23628,Klempau,Am Mühlenbach,11,,53.7736551,10.64035694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YJ,23628,Klempau,Am Mühlenbach,12,,53.77293025,10.64044565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YK,23628,Klempau,Am Mühlenbach,13,,53.77352423,10.64057145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YL,23628,Klempau,Am Mühlenbach,14,,53.77285719,10.64075621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YM,23628,Klempau,Am Mühlenbach,15,,53.77338162,10.6406877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YN,23628,Klempau,Am Mühlenbach,17,,53.77325617,10.64081953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YO,23628,Klempau,Am Mühlenbach,19,,53.77308113,10.64093171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YP,23628,Klempau,Am Mühlenbach,2,g,53.77374393,10.63965988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YQ,23628,Klempau,Am Mühlenbach,21,,53.77298772,10.64122622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YR,23628,Klempau,Am Mühlenbach,3,,53.77404141,10.64135877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YS,23628,Klempau,Am Mühlenbach,4,,53.7735762,10.63976125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YT,23628,Klempau,Am Mühlenbach,5,,53.77399189,10.64109353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YU,23628,Klempau,Am Mühlenbach,6,,53.77337457,10.63990443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YV,23628,Klempau,Am Mühlenbach,7,,53.77392519,10.64077675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YW,23628,Klempau,Am Mühlenbach,8,,53.77322211,10.64006822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YX,23628,Klempau,Am Mühlenbach,9,,53.77379046,10.6401246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YY,23628,Klempau,Krummesser Mühlenweg,10,,53.77323866,10.64433979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5YZ,23628,Klempau,Krummesser Mühlenweg,12,,53.77329876,10.64461713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ya,23628,Klempau,Lübecker Straße,68,,53.78813992,10.6405214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yb,23628,Klempau,Lübecker Straße,69,,53.7873534,10.64013263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yc,23628,Klempau,Lübecker Straße,69,a,53.78722245,10.63963411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yd,23628,Klempau,Lübecker Straße,7,,53.78183177,10.640884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ye,23628,Klempau,Lübecker Straße,70,,53.78829605,10.6404833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yf,23628,Klempau,Lübecker Straße,72,,53.78843476,10.64043083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yg,23628,Klempau,Lübecker Straße,82,,53.78929098,10.64012652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yh,23628,Klempau,Lübecker Straße,84,,53.78947688,10.6399113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yi,23628,Klempau,Lübecker Straße,86,,53.78963036,10.63983787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yj,23628,Klempau,Lübecker Straße,9,,53.78197356,10.64024255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yk,23628,Klempau,Mittelweg,1,,53.7759361,10.65289886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yl,23628,Klempau,Mittelweg,10,,53.77633027,10.65409821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ym,23628,Klempau,Mittelweg,11,,53.77669908,10.65406781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yn,23628,Klempau,Mittelweg,12,,53.7764547,10.65433462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yo,23628,Klempau,Mittelweg,13,,53.77684256,10.65430903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yp,23628,Klempau,Mittelweg,14,,53.77660049,10.65454413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yq,23628,Klempau,Mittelweg,15,,53.7769321,10.65459715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yr,23628,Klempau,Mittelweg,16,,53.77669734,10.65480501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ys,23628,Klempau,Mittelweg,17,,53.77702511,10.65490056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yt,23628,Klempau,Mittelweg,18,,53.77681613,10.65506582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yu,23628,Klempau,Mittelweg,2,,53.7758155,10.65319837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yv,23628,Klempau,Mittelweg,20,,53.7769019,10.65535334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yw,23628,Klempau,Mittelweg,3,,53.77609193,10.65313311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yx,23628,Klempau,Mittelweg,4,,53.77595183,10.65341375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yy,23628,Klempau,Mittelweg,5,,53.77624444,10.65335057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Yz,23628,Klempau,Mittelweg,6,,53.776083,10.65362127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z0,23628,Klempau,Krummesser Mühlenweg,14,,53.77335309,10.64491275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z1,23628,Klempau,Krummesser Mühlenweg,2,,53.77305794,10.64278485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z2,23628,Klempau,Krummesser Mühlenweg,2,a,53.77313508,10.64311571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z3,23628,Klempau,Krummesser Mühlenweg,2,b,53.77286799,10.64326093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z4,23628,Klempau,Krummesser Mühlenweg,4,,53.77316919,10.64343921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z5,23628,Klempau,Krummesser Mühlenweg,6,,53.7731942,10.64373571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z6,23628,Klempau,Krummesser Mühlenweg,8,,53.77320746,10.64403698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z7,23628,Klempau,Niedernstraße,10,,53.78141443,10.63874647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z8,23628,Klempau,Niedernstraße,12,,53.78117562,10.63809738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Z9,23628,Klempau,Niedernstraße,2,,53.78105461,10.64006221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZA,23628,Klempau,Preußenkoppel,30,,53.77553407,10.6503988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZB,23628,Klempau,Preußenkoppel,31,,53.77565766,10.64996485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZC,23628,Klempau,Preußenkoppel,32,,53.77566361,10.64962335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZD,23628,Klempau,Preußenkoppel,4,,53.77504196,10.65135413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZE,23628,Klempau,Preußenkoppel,5,,53.77488726,10.65149196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZF,23628,Klempau,Preußenkoppel,6,,53.77471011,10.65151749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZG,23628,Klempau,Preußenkoppel,7,,53.77456301,10.65165869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZH,23628,Klempau,Preußenkoppel,7,a,53.77479067,10.65221655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZI,23628,Klempau,Preußenkoppel,8,,53.77441931,10.65181505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZJ,23628,Klempau,Preußenkoppel,9,,53.77427512,10.65197747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZK,23628,Klempau,Raiffeisenstraße,1,,53.77901874,10.64218471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZL,23628,Klempau,Raiffeisenstraße,2,,53.7788046,10.64216021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZM,23628,Klempau,Raiffeisenstraße,3,,53.77926126,10.64247655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZN,23628,Klempau,Am Ring,1,,53.7756285,10.65368926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZO,23628,Klempau,Am Ring,10,,53.77558806,10.65278382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZP,23628,Klempau,Am Ring,11,,53.77620637,10.65509401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZQ,23628,Klempau,Am Ring,12,,53.77549565,10.65304551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZR,23628,Klempau,Am Ring,13,,53.77637445,10.65532896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZS,23628,Klempau,Am Ring,14,,53.77540052,10.65330746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZT,23628,Klempau,Am Ring,15,,53.77648663,10.65561392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZU,23628,Klempau,Am Ring,16,,53.77529198,10.65356938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZV,23628,Klempau,Am Ring,17,,53.77663246,10.65591317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZW,23628,Klempau,Am Ring,17,a,53.77669503,10.65574994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZX,23628,Klempau,Am Ring,18,,53.77540884,10.6539008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZY,23628,Klempau,Am Ring,18,a,53.77518838,10.65421146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ZZ,23628,Klempau,Am Ring,19,,53.77736529,10.6542061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Za,23628,Klempau,Niedernstraße,6,,53.7808804,10.63874994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zb,23628,Klempau,Niedernstraße,8,,53.78131358,10.63884715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zc,23628,Klempau,Schulweg,3,,53.77841497,10.64288887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zd,23628,Klempau,Preußenkoppel,1,,53.77554399,10.65086344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Ze,23628,Klempau,Preußenkoppel,10,,53.77411314,10.65164966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zf,23628,Klempau,Preußenkoppel,11,,53.77425244,10.65150321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zg,23628,Klempau,Preußenkoppel,12,,53.77437581,10.65137343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zh,23628,Klempau,Preußenkoppel,13,,53.77473869,10.65100051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zi,23628,Klempau,Preußenkoppel,14,,53.77463902,10.65080578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zj,23628,Klempau,Preußenkoppel,15,,53.77456753,10.65058323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zk,23628,Klempau,Preußenkoppel,16,,53.77448463,10.65033421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zl,23628,Klempau,Preußenkoppel,17,,53.77440916,10.65008914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zm,23628,Klempau,Preußenkoppel,18,,53.77425905,10.64992652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zn,23628,Klempau,Preußenkoppel,19,,53.77455206,10.64975381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zo,23628,Klempau,Preußenkoppel,2,,53.77533778,10.65103474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zp,23628,Klempau,Preußenkoppel,20,,53.7746765,10.6498875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zq,23628,Klempau,Preußenkoppel,21,,53.77474326,10.65014156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zr,23628,Klempau,Preußenkoppel,22,,53.77480515,10.6503697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zs,23628,Klempau,Preußenkoppel,23,,53.77487674,10.65061294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zt,23628,Klempau,Preußenkoppel,24,,53.77493739,10.65084247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zu,23628,Klempau,Preußenkoppel,25,,53.77536254,10.64928092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zv,23628,Klempau,Preußenkoppel,26,,53.7753755,10.64951341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zw,23628,Klempau,Preußenkoppel,27,,53.77540621,10.6497738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zx,23628,Klempau,Preußenkoppel,28,,53.77542029,10.64997453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zy,23628,Klempau,Preußenkoppel,29,,53.77546635,10.65018502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5Zz,23628,Klempau,Preußenkoppel,3,,53.77515742,10.6511561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u1,23628,Klempau,Amselweg,1,,53.76118789,10.65938973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u2,23628,Klempau,Amselweg,2,,53.76102246,10.65898583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u3,23628,Klempau,Amselweg,3,,53.7612513,10.65873661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u4,23628,Klempau,Amselweg,4,,53.76135492,10.6591906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u5,23628,Klempau,Am Teich,1,,53.76202299,10.656776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u6,23628,Klempau,Am Teich,2,,53.76236712,10.65801012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u7,23628,Klempau,Am Teich,2,a,53.76232984,10.65770142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u8,23628,Klempau,Am Teich,4,,53.76228251,10.657287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5u9,23628,Klempau,Am Teich,6,,53.76239708,10.65638465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uA,23628,Klempau,Hainbuchenring,3,,53.76304834,10.65624909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uB,23628,Klempau,Hainbuchenring,30,,53.76366047,10.65551044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uC,23628,Klempau,Hainbuchenring,32,,53.76363188,10.65518467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uD,23628,Klempau,Hainbuchenring,34,,53.76359067,10.65485719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uE,23628,Klempau,Hainbuchenring,36,,53.76334679,10.65490997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uF,23628,Klempau,Hainbuchenring,38,,53.76320043,10.65514867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uG,23628,Klempau,Hainbuchenring,4,,53.76276609,10.65609763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uH,23628,Klempau,Hainbuchenring,40,,53.76299791,10.65526331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uI,23628,Klempau,Hainbuchenring,42,,53.76277809,10.65535857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uJ,23628,Klempau,Hainbuchenring,5,,53.76318242,10.65649497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uK,23628,Klempau,Hainbuchenring,6,,53.76289138,10.65640908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uL,23628,Klempau,Hainbuchenring,7,,53.76336414,10.65689539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uM,23628,Klempau,Hainbuchenring,8,,53.76299465,10.65685657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uN,23628,Klempau,Hainbuchenring,9,,53.76367876,10.65659152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uO,23628,Klempau,Bismarcksiedlung,1,,53.76604127,10.66657697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uP,23628,Klempau,Bismarcksiedlung,2,,53.76605426,10.66649748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uQ,23628,Klempau,Bismarcksiedlung,3,,53.76622813,10.66636208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uR,23628,Klempau,Bismarcksiedlung,4,,53.76626695,10.66638417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uS,23628,Klempau,Bismarcksiedlung,5,,53.76635424,10.66664047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uT,23628,Klempau,Bismarcksiedlung,6,,53.76634011,10.66672453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uU,23628,Klempau,Bismarcksiedlung,7,,53.7661893,10.66687741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uV,23628,Klempau,Bismarcksiedlung,8,,53.7661233,10.66684307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uW,23628,Klempau,Dorfstraße,1,,53.76577089,10.66757327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uY,23628,Klempau,Dorfstraße,11,,53.76498173,10.66482101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uZ,23628,Klempau,Dorfstraße,12,,53.76514487,10.66431201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ua,23628,Klempau,Am Teich,8,,53.76221789,10.65582512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ub,23628,Klempau,Birkenweg,1,,53.76064002,10.65605586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uc,23628,Klempau,Birkenweg,11,,53.76232052,10.65495903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ud,23628,Klempau,Birkenweg,2,,53.76133062,10.65639143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ue,23628,Klempau,Birkenweg,3,,53.76087669,10.65599926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uf,23628,Klempau,Birkenweg,4,,53.76159905,10.6563112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ug,23628,Klempau,Birkenweg,5,,53.76121577,10.65595647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uh,23628,Klempau,Birkenweg,5,a,53.76130545,10.65547142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ui,23628,Klempau,Birkenweg,7,,53.76167501,10.65552302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uj,23628,Klempau,Birkenweg,9,,53.76189459,10.6553266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uk,23628,Klempau,Birkenweg,9,a,53.76213478,10.65510422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ul,23628,Klempau,Hainbuchenring,1,,53.7630147,10.65571546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5um,23628,Klempau,Hainbuchenring,10,,53.76309165,10.65718357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5un,23628,Klempau,Hainbuchenring,11,,53.7636415,10.65623502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uo,23628,Klempau,Hainbuchenring,12,,53.76328575,10.65743953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5up,23628,Klempau,Hainbuchenring,13,,53.76348659,10.65583226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uq,23628,Klempau,Hainbuchenring,14,,53.76344201,10.65742097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ur,23628,Klempau,Hainbuchenring,15,,53.76343091,10.65547038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5us,23628,Klempau,Hainbuchenring,16,,53.76354668,10.65720748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ut,23628,Klempau,Hainbuchenring,18,,53.76367138,10.657032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uu,23628,Klempau,Hainbuchenring,2,,53.76265201,10.65575386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uv,23628,Klempau,Hainbuchenring,20,,53.7638745,10.65703314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uw,23628,Klempau,Hainbuchenring,22,,53.76396366,10.65681542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ux,23628,Klempau,Hainbuchenring,24,,53.76393858,10.65638358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uy,23628,Klempau,Hainbuchenring,26,,53.76379305,10.65610808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5uz,23628,Klempau,Hainbuchenring,28,,53.76371632,10.65579706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v0,23628,Klempau,Dorfstraße,12,a,53.76499491,10.66399233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v1,23628,Klempau,Dorfstraße,14,,53.76474515,10.66362767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v2,23628,Klempau,Dorfstraße,14,a,53.76495412,10.66327931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v3,23628,Klempau,Dorfstraße,15,,53.764582,10.66415537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v4,23628,Klempau,Dorfstraße,16,,53.76448719,10.66318774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v5,23628,Klempau,Dorfstraße,16,a,53.76471836,10.66289181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v6,23628,Klempau,Dorfstraße,17,,53.76425038,10.66397999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v7,23628,Klempau,Dorfstraße,18,,53.76395255,10.66276177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v8,23628,Klempau,Dorfstraße,19,,53.76422973,10.66367798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5v9,23628,Klempau,Dorfstraße,20,,53.7637079,10.66239225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vA,23628,Klempau,Dorfstraße,42,,53.75906834,10.65693666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vB,23628,Klempau,Dorfstraße,43,,53.76206212,10.65851017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vC,23628,Klempau,Dorfstraße,45,,53.76194471,10.65803184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vD,23628,Klempau,Dorfstraße,47,,53.76137877,10.65771735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vE,23628,Klempau,Dorfstraße,49,,53.76114209,10.65717024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vF,23628,Klempau,Dorfstraße,5,,53.76534506,10.66603085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vG,23628,Klempau,Dorfstraße,51,,53.76090882,10.65678749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vH,23628,Klempau,Dorfstraße,7,,53.76505645,10.66543453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vI,23628,Klempau,Dorfstraße,8,,53.76535853,10.66444911
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vJ,23628,Klempau,Dorfstraße,9,,53.76501848,10.66523551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vK,23628,Klempau,Drosselweg,1,,53.76260022,10.66048147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vL,23628,Klempau,Drosselweg,2,,53.76208904,10.65943574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vM,23628,Klempau,Drosselweg,2,a,53.76246735,10.66002929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vN,23628,Klempau,Drosselweg,3,,53.7623285,10.6603537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vO,23628,Klempau,Drosselweg,4,,53.76189473,10.65912973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vP,23628,Klempau,Drosselweg,5,,53.76219931,10.66013223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vQ,23628,Klempau,Drosselweg,7,,53.76190602,10.65969201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vR,23628,Klempau,Gartenweg,1,,53.76290063,10.65972753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vS,23628,Klempau,Gartenweg,2,,53.76301958,10.65867805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vT,23628,Klempau,Gartenweg,3,,53.76309051,10.65912404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vU,23628,Klempau,Klosterredder,1,,53.76471964,10.66474367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vV,23628,Klempau,Klosterredder,11,,53.76406914,10.66638311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vW,23628,Klempau,Klosterredder,2,,53.76441191,10.66472513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vX,23628,Klempau,Klosterredder,3,,53.76462245,10.66496646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vY,23628,Klempau,Klosterredder,4,,53.76430826,10.66502024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vZ,23628,Klempau,Klosterredder,5,,53.76448606,10.66531643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5va,23628,Klempau,Dorfstraße,21,,53.76403543,10.66352533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vb,23628,Klempau,Dorfstraße,22,,53.76355516,10.66211133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vc,23628,Klempau,Dorfstraße,23,,53.76362363,10.66302859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vd,23628,Klempau,Dorfstraße,25,,53.76285278,10.66301219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ve,23628,Klempau,Dorfstraße,25,a,53.76321211,10.66270515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vf,23628,Klempau,Dorfstraße,27,,53.76337076,10.66253438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vg,23628,Klempau,Dorfstraße,28,,53.76325137,10.66153577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vh,23628,Klempau,Dorfstraße,29,,53.76319434,10.66219718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vi,23628,Klempau,Dorfstraße,3,,53.76551417,10.66703605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vj,23628,Klempau,Dorfstraße,3,a,53.76527059,10.66715652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vk,23628,Klempau,Dorfstraße,31,,53.76278582,10.66206398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vl,23628,Klempau,Dorfstraße,31,a,53.76303656,10.66174483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vm,23628,Klempau,Dorfstraße,33,,53.76264605,10.66181009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vn,23628,Klempau,Dorfstraße,34,,53.76325388,10.65991032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vo,23628,Klempau,Dorfstraße,35,,53.76287059,10.66142916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vp,23628,Klempau,Dorfstraße,36,,53.7627438,10.65938387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vq,23628,Klempau,Dorfstraße,36,a,53.76282023,10.65931931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vr,23628,Klempau,Dorfstraße,37,,53.76273416,10.66079217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vs,23628,Klempau,Dorfstraße,38,,53.76260463,10.6590486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vt,23628,Klempau,Dorfstraße,38,a,53.76254561,10.65879367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vu,23628,Klempau,Dorfstraße,38,b,53.76247971,10.65856245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vv,23628,Klempau,Dorfstraße,38,c,53.76253309,10.65851071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vw,23628,Klempau,Dorfstraße,39,,53.7623742,10.65953296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vx,23628,Klempau,Dorfstraße,40,,53.76037566,10.65610778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vy,23628,Klempau,Dorfstraße,41,,53.76224039,10.65909746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5vz,23628,Klempau,Dorfstraße,41,a,53.76215957,10.65881947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w0,23628,Klempau,Klosterredder,6,,53.76419815,10.66526992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w1,23628,Klempau,Klosterredder,7,,53.76436998,10.66557569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w2,23628,Klempau,Klosterredder,9,,53.76413404,10.66600086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w3,23628,Klempau,Lerchenweg,1,,53.76092774,10.66011592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w4,23628,Klempau,Lerchenweg,1,a,53.76084265,10.65997222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w5,23628,Klempau,Lerchenweg,2,,53.76068895,10.65958369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w6,23628,Klempau,Lerchenweg,3,,53.76080749,10.65935302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w7,23628,Klempau,Lerchenweg,4,,53.76098084,10.65977373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w8,23628,Klempau,Lübecker Straße,1,,53.76567381,10.66569685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5w9,23628,Klempau,Lübecker Straße,2,,53.76664295,10.66578027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wA,23628,Klempau,Sperberweg,1,,53.76133995,10.66012044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wB,23628,Klempau,Sperberweg,2,,53.76146192,10.6603256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wC,23628,Klempau,Sperberweg,3,,53.76154116,10.66065708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wD,23628,Klempau,Sperberweg,4,,53.76147262,10.66094999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wE,23628,Klempau,Sperberweg,5,,53.76129175,10.66075429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wF,23628,Klempau,Sperberweg,6,,53.76117047,10.66051738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wG,23628,Klempau,Schmiedeweg,2,,53.75963852,10.65627785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wH,23628,Klempau,Schmiedeweg,4,,53.75963266,10.65559697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wI,23628,Klempau,Schmiedeweg,8,,53.75962662,10.65429403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wJ,23628,Klempau,Schmiedeweg,8,a,53.75952689,10.65330667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wK,23628,Klempau,Sarauer Straße,1,,53.76632779,10.67637956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wL,23628,Klempau,Sarauer Straße,10,,53.77022284,10.68775374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wM,23628,Klempau,Sarauer Straße,11,,53.77232795,10.68670031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wN,23628,Klempau,Sarauer Straße,15,,53.77284737,10.68665976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wO,23628,Klempau,Sarauer Straße,2,,53.76581364,10.67668621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wP,23628,Klempau,Sarauer Straße,3,,53.76834479,10.68280588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wQ,23628,Klempau,Sarauer Straße,4,,53.76812827,10.6837833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wR,23628,Klempau,Sarauer Straße,5,,53.76850208,10.68302782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wS,23628,Klempau,Sarauer Straße,6,,53.76926087,10.68594104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wT,23628,Klempau,Sarauer Straße,7,,53.76998153,10.68648862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wU,23628,Klempau,Sarauer Straße,8,,53.76994435,10.68715602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wV,23628,Klempau,Sarauer Straße,8,a,53.76977,10.6872255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wW,23628,Klempau,Tannenweg,10,,53.77314416,10.67978669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wX,23628,Klempau,Tannenweg,11,,53.77192085,10.68413444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wY,23628,Klempau,Tannenweg,12,,53.77308444,10.67907831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wZ,23628,Klempau,Tannenweg,15,,53.77196148,10.68344493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wa,23628,Klempau,Lübecker Straße,2,a,53.76621323,10.66576165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wb,23628,Klempau,Lübecker Straße,3,,53.76609837,10.66540857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wc,23628,Klempau,Lübecker Straße,4,,53.76700694,10.66518576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wd,23628,Klempau,Meisenweg,1,,53.76234241,10.66077789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5we,23628,Klempau,Meisenweg,10,,53.76191257,10.66006636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wf,23628,Klempau,Meisenweg,2,,53.76242686,10.66103006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wg,23628,Klempau,Meisenweg,3,,53.76272954,10.66116629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wh,23628,Klempau,Meisenweg,4,,53.76254871,10.66137048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wi,23628,Klempau,Meisenweg,5,,53.76237739,10.66164705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wj,23628,Klempau,Meisenweg,6,,53.7622451,10.66126933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wk,23628,Klempau,Meisenweg,7,,53.76216401,10.66098629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wl,23628,Klempau,Meisenweg,8,,53.7620601,10.66068855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wm,23628,Klempau,Meisenweg,9,,53.7619585,10.66040233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wn,23628,Klempau,Moorweg,1,,53.76400876,10.65982966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wo,23628,Klempau,Moorweg,10,,53.76592002,10.6587314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wp,23628,Klempau,Rosensiedlung,1,,53.76426898,10.65953348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wq,23628,Klempau,Rosensiedlung,10,,53.76446916,10.65933545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wr,23628,Klempau,Rosensiedlung,2,,53.76413501,10.6590625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ws,23628,Klempau,Rosensiedlung,3,,53.76397811,10.65866775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wt,23628,Klempau,Rosensiedlung,4,,53.7637803,10.65825768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wu,23628,Klempau,Rosensiedlung,5,,53.76380078,10.65788739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wv,23628,Klempau,Rosensiedlung,6,,53.76393467,10.65778109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5ww,23628,Klempau,Rosensiedlung,7,,53.76410821,10.65798515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wx,23628,Klempau,Rosensiedlung,8,,53.76424197,10.65844932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wy,23628,Klempau,Rosensiedlung,8,a,53.76435136,10.65851684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5wz,23628,Klempau,Rosensiedlung,9,,53.76435704,10.65891316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x0,23628,Klempau,Tannenweg,16,,53.7724952,10.65979882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x1,23628,Klempau,Tannenweg,17,,53.7725325,10.67662538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x2,23628,Klempau,Tannenweg,17,a,53.77255204,10.67683106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x3,23628,Klempau,Tannenweg,19,,53.77249606,10.67627809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x4,23628,Klempau,Tannenweg,2,,53.77213286,10.68453171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x5,23628,Klempau,Tannenweg,5,,53.77142025,10.68550623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x6,23628,Klempau,Tannenweg,6,,53.77310968,10.6810863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x7,23628,Klempau,Tannenweg,7,,53.77147551,10.68538471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x8,23628,Klempau,Tannenweg,7,a,53.77173142,10.68493208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5x9,23628,Klempau,Tannenweg,8,,53.7731628,10.68002743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xa,23628,Klempau,Tannenweg,9,,53.77179343,10.68466116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xb,23628,Klempau,Schwalbenweg,1,,53.76157245,10.66129554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xc,23628,Klempau,Schwalbenweg,10,,53.76137617,10.66194827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xd,23628,Klempau,Schwalbenweg,11,,53.76221244,10.66220447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xe,23628,Klempau,Schwalbenweg,12,,53.76150529,10.66213374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xf,23628,Klempau,Schwalbenweg,14,,53.76164274,10.66231356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xg,23628,Klempau,Schwalbenweg,16,,53.76178317,10.66252818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xh,23628,Klempau,Schwalbenweg,18,,53.76190808,10.66285961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xi,23628,Klempau,Schwalbenweg,2,,53.76086786,10.66110034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xj,23628,Klempau,Schwalbenweg,20,,53.762057,10.66293055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xk,23628,Klempau,Schwalbenweg,22,,53.76217199,10.66264177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xl,23628,Klempau,Schwalbenweg,24,,53.76244149,10.66239603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xm,23628,Klempau,Schwalbenweg,3,,53.76179306,10.66126365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xn,23628,Klempau,Schwalbenweg,4,,53.76102633,10.66124292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xo,23628,Klempau,Schwalbenweg,5,,53.7619292,10.66165025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xp,23628,Klempau,Schwalbenweg,6,,53.76113343,10.66156351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xq,23628,Klempau,Schwalbenweg,7,,53.76175867,10.66174504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xr,23628,Klempau,Schwalbenweg,7,a,53.76180006,10.66183286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xs,23628,Klempau,Schwalbenweg,8,,53.76129071,10.66170086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xt,23628,Klempau,Schwalbenweg,9,,53.76204233,10.66223792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L5xu,23628,Klempau,Pumpwerk an der Grönau,1,,53.77931831,10.69354946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L600,23628,Klempau,Am Ring,2,,53.77598168,10.65170636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L601,23628,Klempau,Am Ring,20,,53.7755412,10.65425512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L602,23628,Klempau,Am Ring,20,a,53.77528983,10.65459909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L603,23628,Klempau,Am Ring,21,,53.77721746,10.6540109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L604,23628,Klempau,Am Ring,22,,53.77566685,10.65461269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L605,23628,Klempau,Am Ring,22,a,53.77544241,10.65486011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L606,23628,Klempau,Am Ring,23,,53.77712582,10.65370475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L607,23628,Klempau,Am Ring,24,,53.77579329,10.65491379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L608,23628,Klempau,Am Ring,24,a,53.77553674,10.65523794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L609,23628,Klempau,Am Ring,25,,53.7769745,10.65348944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60A,23628,Klempau,Am Ring,52,,53.77745741,10.65469236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60B,23628,Klempau,Am Ring,54,,53.77759934,10.65449506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60C,23628,Klempau,Am Ring,56,,53.77769703,10.6543175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60D,23628,Klempau,Am Ring,58,,53.77754517,10.65391279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60E,23628,Klempau,Am Ring,6,,53.77579027,10.65222102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60F,23628,Klempau,Am Ring,60,,53.77745239,10.65360574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60G,23628,Klempau,Am Ring,62,,53.77727772,10.65342258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60H,23628,Klempau,Am Ring,64,,53.77711035,10.65322699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60I,23628,Klempau,Am Ring,66,,53.77698033,10.65304038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60J,23628,Klempau,Am Ring,68,,53.77681927,10.65282214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60K,23628,Klempau,Am Ring,7,,53.77598171,10.65456712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60L,23628,Klempau,Am Ring,70,,53.77667528,10.65264004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60M,23628,Klempau,Am Ring,72,,53.77653146,10.65244716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60N,23628,Klempau,Am Ring,74,,53.77640741,10.65221191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60O,23628,Klempau,Am Ring,8,,53.77569259,10.65252836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60P,23628,Klempau,Am Ring,9,,53.77609407,10.65482792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60Q,23628,Klempau,Ruschweg,2,,53.78613512,10.6415989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60R,23628,Klempau,Ruschweg,6,,53.7862787,10.64271743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60S,23628,Klempau,Ruschweg,8,,53.78628715,10.64282505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60T,23628,Klempau,Im Sohl,1,,53.7763374,10.65128526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60U,23628,Klempau,Im Sohl,1,a,53.7761285,10.65110354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60V,23628,Klempau,Im Sohl,10,,53.77692584,10.65084906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60W,23628,Klempau,Im Sohl,11,,53.77697404,10.64986985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60X,23628,Klempau,Im Sohl,11,a,53.77672794,10.6496191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60Y,23628,Klempau,Im Sohl,12,,53.77708234,10.65060216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60Z,23628,Klempau,Im Sohl,14,,53.77717378,10.65033494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60a,23628,Klempau,Am Ring,26,,53.77592148,10.65522241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60b,23628,Klempau,Am Ring,26,a,53.77569866,10.6555439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60c,23628,Klempau,Am Ring,27,,53.77685374,10.65325172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60d,23628,Klempau,Am Ring,28,,53.776057,10.65553418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60e,23628,Klempau,Am Ring,28,a,53.77581523,10.65586028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60f,23628,Klempau,Am Ring,29,,53.77669954,10.65308219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60g,23628,Klempau,Am Ring,3,,53.7757392,10.65401134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60h,23628,Klempau,Am Ring,30,,53.77615319,10.65586917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60i,23628,Klempau,Am Ring,30,a,53.77594213,10.65618597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60j,23628,Klempau,Am Ring,31,,53.77656871,10.65286692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60k,23628,Klempau,Am Ring,32,,53.77633933,10.65617661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60l,23628,Klempau,Am Ring,33,,53.77641494,10.65270082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60m,23628,Klempau,Am Ring,34,,53.77647204,10.65643407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60n,23628,Klempau,Am Ring,35,,53.77628757,10.65251171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60o,23628,Klempau,Am Ring,36,,53.77653962,10.65670859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60p,23628,Klempau,Am Ring,37,,53.77612033,10.6523364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60q,23628,Klempau,Am Ring,38,,53.776685,10.65645253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60r,23628,Klempau,Am Ring,4,,53.77590264,10.65194082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60s,23628,Klempau,Am Ring,40,,53.77678321,10.65627618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60t,23628,Klempau,Am Ring,42,,53.77688906,10.65598851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60u,23628,Klempau,Am Ring,44,,53.77701564,10.65578044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60v,23628,Klempau,Am Ring,46,,53.77714452,10.65548578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60w,23628,Klempau,Am Ring,48,,53.77724528,10.65529941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60x,23628,Klempau,Am Ring,5,,53.77584546,10.65426998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60y,23628,Klempau,Am Ring,5,a,53.77584546,10.65426998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L60z,23628,Klempau,Am Ring,50,,53.77734755,10.65498063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L610,23628,Klempau,Im Sohl,16,,53.77728179,10.65004481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L611,23628,Klempau,Im Sohl,2,,53.77653893,10.65184179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L612,23628,Klempau,Im Sohl,3,,53.77650054,10.65102849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L613,23628,Klempau,Im Sohl,3,a,53.77628384,10.65083151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L614,23628,Klempau,Im Sohl,4,,53.77662385,10.65160873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L615,23628,Klempau,Im Sohl,5,,53.77665534,10.65075312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L616,23628,Klempau,Im Sohl,5,a,53.77638643,10.65055721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L617,23628,Klempau,Im Sohl,6,,53.77673907,10.65136838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L618,23628,Klempau,Im Sohl,7,,53.77675765,10.65044319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L619,23628,Klempau,Im Sohl,7,a,53.77650186,10.65023442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61A,23628,Klempau,Wasserfohr,2,,53.78956069,10.64047064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61B,23628,Klempau,Wasserfohr,2,a,53.78971804,10.6404707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61C,23628,Klempau,Wasserfohr,3,,53.78924159,10.64110362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61D,23628,Klempau,Wasserfohr,4,,53.78917062,10.64064757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61E,23628,Klempau,Wasserfohr,5,,53.78908647,10.64122289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61F,23628,Klempau,Wasserfohr,6,,53.78900062,10.64072501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61G,23628,Klempau,Wasserfohr,7,,53.78890103,10.64135337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61H,23628,Klempau,Wasserfohr,8,,53.7888465,10.64078886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61I,23628,Klempau,Wasserfohr,9,,53.78876295,10.64145568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61J,23628,Klempau,Wenzkirchhof,1,,53.78434991,10.64247808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61K,23628,Klempau,Wenzkirchhof,10,,53.78512465,10.64279448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61L,23628,Klempau,Wenzkirchhof,11,,53.78514051,10.64216761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61M,23628,Klempau,Wenzkirchhof,12,,53.78529015,10.64275378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61N,23628,Klempau,Wenzkirchhof,12,a,53.78533255,10.64286555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61O,23628,Klempau,Wenzkirchhof,13,,53.78531271,10.64215348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61P,23628,Klempau,Wenzkirchhof,14,,53.78544188,10.64269814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61Q,23628,Klempau,Wenzkirchhof,15,,53.78553328,10.64215619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61R,23628,Klempau,Wenzkirchhof,16,,53.7856815,10.64277179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61S,23628,Klempau,Wenzkirchhof,17,,53.7857378,10.64220871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61T,23628,Klempau,Wenzkirchhof,18,,53.78582176,10.64269715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61U,23628,Klempau,Wenzkirchhof,19,,53.78593269,10.64214712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61V,23628,Klempau,Wenzkirchhof,2,,53.78446123,10.64289758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61W,23628,Klempau,Wenzkirchhof,20,,53.78598865,10.64251924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61X,23628,Klempau,Wenzkirchhof,21,,53.78612586,10.64209574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61Y,23628,Klempau,Wenzkirchhof,3,,53.78450717,10.64242997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61Z,23628,Klempau,Wenzkirchhof,4,,53.78461238,10.64287662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61a,23628,Klempau,Im Sohl,8,,53.77682948,10.6511084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61b,23628,Klempau,Im Sohl,9,,53.7768739,10.6501514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61c,23628,Klempau,Im Sohl,9,a,53.77661532,10.64993302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61d,23628,Klempau,Tannenweg,1,,53.77306036,10.64872819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61e,23628,Klempau,Tannenweg,11,,53.77338524,10.64976938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61f,23628,Klempau,Tannenweg,13,,53.77346535,10.65002408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61g,23628,Klempau,Tannenweg,15,,53.77352875,10.65026133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61h,23628,Klempau,Tannenweg,17,,53.77363038,10.65049064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61i,23628,Klempau,Tannenweg,19,,53.77380266,10.65082739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61j,23628,Klempau,Tannenweg,21,,53.77387698,10.65106465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61k,23628,Klempau,Tannenweg,21,b,53.77394233,10.65134723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61l,23628,Klempau,Tannenweg,23,,53.77444982,10.6526111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61m,23628,Klempau,Tannenweg,3,,53.77310961,10.64897069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61n,23628,Klempau,Tannenweg,5,,53.77318137,10.64913844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61o,23628,Klempau,Tannenweg,7,,53.77323954,10.64937331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61p,23628,Klempau,Tannenweg,9,,53.77331331,10.64959506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61q,23628,Klempau,Taterweg,10,,53.77284028,10.64598797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61r,23628,Klempau,Taterweg,12,,53.77270718,10.64616029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61s,23628,Klempau,Taterweg,2,,53.77332597,10.64523464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61t,23628,Klempau,Taterweg,4,,53.77316278,10.64549389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61u,23628,Klempau,Taterweg,6,,53.77304032,10.64567001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61v,23628,Klempau,Taterweg,8,,53.77291628,10.64580039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61w,23628,Klempau,Wasserfohr,1,,53.78940049,10.64104035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61x,23628,Klempau,Wasserfohr,1,a,53.78955408,10.64085494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61y,23628,Klempau,Wasserfohr,10,,53.78866319,10.64086794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L61z,23628,Klempau,Wasserfohr,11,,53.78859305,10.64145305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L620,23628,Klempau,Wenzkirchhof,5,,53.78467842,10.64237133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L621,23628,Klempau,Wenzkirchhof,6,,53.7847835,10.64276733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L622,23628,Klempau,Wenzkirchhof,7,,53.78483908,10.64227692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L623,23628,Klempau,Wenzkirchhof,8,,53.78494335,10.64285678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000L624,23628,Klempau,Wenzkirchhof,9,,53.78499822,10.64224592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SMoh,23628,Klempau,Bonninguesstraße,2,,53.77679018,10.64891242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Z7LY,23628,Klempau,Rosensiedlung,5,a,53.76361491,10.65797074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000508UU,23628,Klempau,Flachsröße,23,,53.77380844,10.64255301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00052TVG,23628,Klempau,Bismarcksiedlung,4,a,53.76634136,10.66626229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00055Q5l,23628,Klempau,Lange Reihe,26,a,53.7761807,10.64124614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057wtX,23628,Klempau,Drosselweg,6,,53.76172701,10.65913048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HNaK,23628,Klempau,Carlower Weg,1,,53.77974295,10.64536538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HWdX,23628,Klempau,Krummesse Lange Reihe,15,a,53.77736024,10.64219874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JEa1,23628,Klempau,Niedernstraße,34,,53.7788969,10.63306736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K55I,23628,Klempau,Lübecker Straße,40,a,53.78558422,10.64132972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5Ch,23628,Klempau,Schulweg,2,a,53.7782231,10.64314184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5LR,23628,Klempau,Tannenweg,25,,53.77461291,10.65309887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5LS,23628,Klempau,Tannenweg,25,a,53.77468958,10.65324144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5LX,23628,Klempau,Tannenweg,27,,53.77473994,10.65296784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5M2,23628,Klempau,Tannenweg,29,,53.77489605,10.65280918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5kF,23628,Klempau,Lübecker Straße,56,a,53.78705329,10.64128386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5xe,23628,Klempau,Krummesser Mühlenweg,1,a,53.77338413,10.64237631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5xi,23628,Klempau,Krummesser Mühlenweg,9,a,53.77357147,10.6437296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K5xn,23628,Klempau,Krummesser Mühlenweg,13,a,53.77357365,10.64438033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KH3K,23628,Klempau,Gärtnerweg,6,,53.77725245,10.6480382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Kvl6,23628,Klempau,Dorfstraße,25,b,53.76297833,10.66280689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005P3qQ,23628,Klempau,Preußenkoppel,25,a,53.7752576,10.64934243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bK9e,23628,Klempau,Lübecker Straße,41,a,53.78481471,10.64008147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fd8M,23628,Klempau,Gärtnerweg,4,,53.77731048,10.6477666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fhmf,23628,Klempau,Gutsweg,2,a,53.77937682,10.63255758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fhmg,23628,Klempau,Gutsweg,2,b,53.77915313,10.63262231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005fhmh,23628,Klempau,Gutsweg,2,c,53.77893616,10.63271321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hB17,23628,Klempau,Birkenweg,6,,53.76400269,10.65439046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWeK,23628,Klempau,Stecknitzweg,3,,53.78211976,10.64267217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWeW,23628,Klempau,Stecknitzweg,5,,53.78211976,10.64267217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWf8,23628,Klempau,Stecknitzweg,7,,53.78242687,10.64315293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfG,23628,Klempau,Stecknitzweg,23,,53.78211941,10.64494401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfJ,23628,Klempau,Stecknitzweg,15,,53.78272845,10.64452142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfU,23628,Klempau,Stecknitzweg,25,,53.78191775,10.64498213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfX,23628,Klempau,Stecknitzweg,17,,53.78276632,10.64477806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfi,23628,Klempau,Stecknitzweg,9,,53.7824748,10.64345385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfn,23628,Klempau,Stecknitzweg,1,,53.78237004,10.64259496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfs,23628,Klempau,Stecknitzweg,11,,53.78253518,10.64381413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWfy,23628,Klempau,Stecknitzweg,13,,53.78260654,10.64408627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWg4,23628,Klempau,Stecknitzweg,26,,53.78182646,10.64461059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWg9,23628,Klempau,Stecknitzweg,19,,53.7825217,10.64476149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgE,23628,Klempau,Stecknitzweg,12,,53.78180449,10.64371583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgH,23628,Klempau,Stecknitzweg,20,,53.78243739,10.64438407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgQ,23628,Klempau,Stecknitzweg,10,,53.78202089,10.64368854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgV,23628,Klempau,Stecknitzweg,18,,53.78236903,10.64394179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgi,23628,Klempau,Stecknitzweg,24,,53.78202616,10.64449872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgl,23628,Klempau,Stecknitzweg,21,,53.78236524,10.64481801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWgw,23628,Klempau,Stecknitzweg,22,,53.78220997,10.64445141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWh4,23628,Klempau,Stecknitzweg,8,,53.78223566,10.64361078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWh9,23628,Klempau,Stecknitzweg,16,,53.782052,10.6439701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWhA,23628,Klempau,Stecknitzweg,4,,53.78192956,10.64319303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWhL,23628,Klempau,Stecknitzweg,2,,53.7817415,10.64334307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWhl,23628,Klempau,Stecknitzweg,14,,53.78185974,10.64408399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hWhs,23628,Klempau,Stecknitzweg,6,,53.78218037,10.64309289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005htOn,23628,Klempau,Tannenweg,4,,53.77209722,10.6840251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005htOq,23628,Klempau,Sarauer Straße,5,a,53.76986623,10.68627511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oSTP,23628,Klempau,Lange Reihe,10,a,53.7791021,10.64109104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oSTy,23628,Klempau,Lange Reihe,2,a,53.78002542,10.64050475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pPoy,23628,Klempau,Flachsröße,9,,53.774194,10.64509925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pPyZ,23628,Klempau,Kählstorfer Weg,11,a,53.7763012,10.64735694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pglW,23628,Klempau,Dorfstraße,18,a,53.76403917,10.6629174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qo8G,23628,Klempau,Gutsweg,15,a,53.78154677,10.63242319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qo8H,23628,Klempau,Gutsweg,15,b,53.78164334,10.63262749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005r1hy,23628,Klempau,Birkenweg,6,a,53.76430189,10.65435047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roPd,23628,Klempau,Küsterkoppel,2,e,53.7774525,10.64393369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roPe,23628,Klempau,Klempauer Straße,21,,53.7789331,10.64438833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roPf,23628,Klempau,Klempauer Straße,24,,53.77818928,10.6446971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roPg,23628,Klempau,Schulweg,8,,53.77828964,10.64447794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roPl,23628,Klempau,Klempauer Straße,23,,53.77878415,10.64422595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005roQg,23628,Klempau,Krummesse Lange Reihe,31,,53.77371816,10.64218507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sPpD,23628,Klempau,Dorfstraße,38,d,53.76270661,10.65835954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uz3s,23628,Klempau,Achtern Dörp,37,,53.78291408,10.64336058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005yjVS,23628,Klempau,Lübecker Straße,74,,53.78860095,10.64037484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1A,23628,Klempau,Lübecker Straße,134,,53.79431897,10.63781495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1B,23628,Klempau,Lübecker Straße,126,,53.79411451,10.63793634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1C,23628,Klempau,Lübecker Straße,128,,53.79416283,10.63790294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1D,23628,Klempau,Lübecker Straße,136,,53.79436986,10.63778458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1E,23628,Klempau,Lübecker Straße,130,,53.79421725,10.63786979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1F,23628,Klempau,Lübecker Straße,122,,53.79296338,10.63845317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1G,23628,Klempau,Lübecker Straße,120,,53.79291517,10.63847294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1H,23628,Klempau,Lübecker Straße,104,,53.79139814,10.63912279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1I,23628,Klempau,Lübecker Straße,110,,53.79154395,10.63907024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1J,23628,Klempau,Lübecker Straße,106,,53.79144477,10.63910453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1K,23628,Klempau,Lübecker Straße,108,,53.79149256,10.63908832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1L,23628,Klempau,Lübecker Straße,125,,53.79186671,10.63853815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1M,23628,Klempau,Lübecker Straße,123,,53.79182121,10.63856048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1N,23628,Klempau,Lübecker Straße,121,,53.79177693,10.63858085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1O,23628,Klempau,Lübecker Straße,47,,53.78546082,10.64059851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1P,23628,Klempau,Lübecker Straße,131,,53.79253856,10.63823753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1Q,23628,Klempau,Lübecker Straße,129,,53.79249063,10.63826378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1R,23628,Klempau,Lübecker Straße,139,,53.79329358,10.63794035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1S,23628,Klempau,Lübecker Straße,137,,53.79324358,10.63796263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1T,23628,Klempau,Lübecker Straße,135,,53.7931971,10.6379827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1U,23628,Klempau,Lübecker Straße,149,,53.79470412,10.6371256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1V,23628,Klempau,Lübecker Straße,143,,53.79455282,10.63724171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1W,23628,Klempau,Lübecker Straße,153,,53.79479824,10.63705282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1X,23628,Klempau,Lübecker Straße,147,,53.79465397,10.6371648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1Y,23628,Klempau,Lübecker Straße,151,,53.79475072,10.63709065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1Z,23628,Klempau,Lübecker Straße,145,,53.79460558,10.63720261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c1z,23628,Klempau,Lübecker Straße,132,,53.79426548,10.63784374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c20,23628,Klempau,Lübecker Straße,155,,53.79484573,10.63701644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c21,23628,Klempau,Lübecker Straße,165,,53.79539847,10.63660318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c22,23628,Klempau,Lübecker Straße,163,,53.79535289,10.6366409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c23,23628,Klempau,Lübecker Straße,159,,53.79525973,10.63671338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c24,23628,Klempau,Lübecker Straße,161,,53.795307,10.63667631
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c4d,23628,Klempau,Lange Reihe,23,,53.77449458,10.64281517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c4e,23628,Klempau,Lange Reihe,25,,53.7744073,10.64286543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c6G,23628,Klempau,Klempauer Straße,25,,53.7785472,10.64452909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c6H,23628,Klempau,Klempauer Straße,27,,53.77839059,10.6447283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069c6I,23628,Klempau,Klempauer Straße,29,,53.77820191,10.64497547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cBb,23628,Klempau,Beidendorfer Weg,40,,53.78128378,10.65283034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cSA,23628,Klempau,Flachsröße,22,,53.77389605,10.64253182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cTN,23628,Klempau,Krummesse Lange Reihe,27,a,53.77390129,10.64211415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cbY,23628,Klempau,Lübecker Straße,20,,53.78398451,10.64089599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cjY,23628,Klempau,Lübecker Straße,100,,53.79088406,10.639347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cjZ,23628,Klempau,Lübecker Straße,96,,53.79080753,10.63937816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck0,23628,Klempau,Lübecker Straße,98,,53.7908434,10.63936348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck1,23628,Klempau,Lübecker Straße,144,,53.79498651,10.63731932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck2,23628,Klempau,Lübecker Straße,140,,53.79474635,10.63751342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck3,23628,Klempau,Lübecker Straße,111,,53.79083002,10.63895414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck4,23628,Klempau,Lübecker Straße,92,,53.79016581,10.6396143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069ck5,23628,Klempau,Lübecker Straße,90,,53.79012277,10.63963069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069co3,23628,Klempau,Lübecker Straße,35,,53.78437897,10.64016196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069co4,23628,Klempau,Lübecker Straße,33,,53.78423125,10.63999923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069coa,23628,Klempau,Lübecker Straße,103,,53.79013918,10.63925598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cob,23628,Klempau,Lübecker Straße,97,,53.78955249,10.63951014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069coc,23628,Klempau,Lübecker Straße,93,,53.78881984,10.6398046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069cod,23628,Klempau,Lübecker Straße,89,,53.7887433,10.63983369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069coe,23628,Klempau,Lübecker Straße,91,,53.7887756,10.63982091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZQ,23628,Klempau,Flachsröße,21,,53.77385601,10.64291582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZR,23628,Klempau,Flachsröße,18,,53.77397563,10.64320612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZS,23628,Klempau,Flachsröße,19,,53.77389357,10.64327403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZT,23628,Klempau,Flachsröße,16,,53.77406971,10.64355096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZU,23628,Klempau,Flachsröße,17,,53.77395038,10.64352729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZV,23628,Klempau,Flachsröße,14,,53.77410395,10.64390036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZW,23628,Klempau,Flachsröße,13,,53.77405905,10.64433217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZY,23628,Klempau,Flachsröße,11,,53.77409651,10.64469015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069eZZ,23628,Klempau,Flachsröße,8,,53.77427368,10.64500657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006A8RU,23628,Klempau,Gärtnerweg,2,,53.77739809,10.64752746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BeX1,23628,Klempau,Krummesser Moorweg,2,d,53.78360293,10.64187473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BgT2,23628,Klempau,Kählstorfer Weg,24,a,53.77507666,10.64620736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BgT3,23628,Klempau,Kählstorfer Weg,26,a,53.77490651,10.64626904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Bh0V,23628,Klempau,Krummesse Lange Reihe,20,,53.77800053,10.64183279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Bior,23628,Klempau,Klempauer Straße,31,,53.77808348,10.64513441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Biov,23628,Klempau,Niedernstraße,1,,53.78050646,10.64034317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PHfc,23628,Klempau,Küsterkoppel,1,a,53.77739096,10.64528955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJ1,23628,Klempau,Beidendorfer Weg,2,a,53.77917548,10.64450472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJ2,23628,Klempau,Beidendorfer Weg,2,b,53.77917548,10.64450472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJ3,23628,Klempau,Beidendorfer Weg,2,c,53.77917548,10.64450472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJ4,23628,Klempau,Beidendorfer Weg,2,d,53.77917548,10.64450472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJ5,23628,Klempau,Beidendorfer Weg,2,e,53.77917548,10.64450472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJf,23628,Klempau,Stratenkoppel,61,,53.7792164,10.64506909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006biJg,23628,Klempau,Stratenkoppel,63,,53.77917442,10.6450832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006twmG,23628,Klempau,Krummesse Lange Reihe,27,c,53.77401854,10.64284305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006voIP,23628,Klempau,Dorfstraße,14,b,53.7646636,10.66355658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00073ysu,23628,Klempau,Wenzkirchhof,2,a,53.78454184,10.64328789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079v4m,23628,Klempau,Wasserfohr,4,b,53.78932005,10.64057931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00079v4q,23628,Klempau,Wasserfohr,4,a,53.78937216,10.64055518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007BloO,23628,Klempau,Krummesse Lange Reihe,62,a,53.77470045,10.64110567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JuWa,23628,Klempau,Dorfstraße,10,a,53.76528088,10.6644507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007JuWb,23628,Klempau,Dorfstraße,10,b,53.76522681,10.66451101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Sluu,23628,Klempau,Flachsröße,15,b,53.77424095,10.64469329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Ummd,23628,Klempau,Lübecker Straße,80,,53.78905984,10.63999998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YA1k,23628,Klempau,Beidendorfer Hauptstraße,27,,53.78537193,10.67418019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007d8pW,23628,Klempau,Lübecker Straße,6,a,53.78136939,10.64157378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007d8pX,23628,Klempau,Lübecker Straße,6,b,53.78141028,10.64203037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007g8jB,23628,Klempau,Niedernstraße,34,a,53.77896058,10.63305168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSz4,23628,Klempau,Storchenweg,5,,53.76028415,10.66041042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzA,23628,Klempau,Storchenweg,3,,53.76047444,10.66055692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzH,23628,Klempau,Storchenweg,6,,53.76019973,10.66071364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzT,23628,Klempau,Storchenweg,8,,53.76041836,10.66126548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzf,23628,Klempau,Storchenweg,2,,53.76055888,10.66105536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzg,23628,Klempau,Storchenweg,1,,53.7606367,10.66074392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007gSzt,23628,Klempau,Storchenweg,4,,53.76037473,10.66076927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jgLf,23628,Klempau,Gärtnerweg,1,,53.77744271,10.64725242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mMFi,23628,Klempau,Preußenkoppel,8,b,53.77459693,10.65227458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007mMFo,23628,Klempau,Preußenkoppel,8,a,53.77455634,10.65216549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00087MI5,23628,Klempau,Beidendorfer Weg,30,,53.77973202,10.65133881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BqZp,23628,Klempau,Küsterkoppel,51,a,53.77514578,10.64322217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooE,23628,Klempau,Stecknitzweg,41,,53.78086961,10.64425714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooI,23628,Klempau,Stecknitzweg,39,,53.78091131,10.64457061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooL,23628,Klempau,Stecknitzweg,37,,53.78095367,10.64488908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooO,23628,Klempau,Stecknitzweg,62,,53.78141756,10.6431426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooQ,23628,Klempau,Stecknitzweg,44,,53.78144778,10.64403595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooT,23628,Klempau,Stecknitzweg,60,,53.78125401,10.64322444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CooW,23628,Klempau,Stecknitzweg,42,,53.78129194,10.64405125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Coob,23628,Klempau,Stecknitzweg,64,,53.78090235,10.64290758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cooh,23628,Klempau,Stecknitzweg,49,,53.78071818,10.64318749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Coom,23628,Klempau,Stecknitzweg,47,,53.78091283,10.64338776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Coos,23628,Klempau,Stecknitzweg,45,,53.78080241,10.64374031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cooy,23628,Klempau,Stecknitzweg,43,,53.78082912,10.64395268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cop0,23628,Klempau,Stecknitzweg,58,,53.78101526,10.64344519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cop1,23628,Klempau,Stecknitzweg,40,,53.78115645,10.64410551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cop6,23628,Klempau,Stecknitzweg,56,,53.7809194,10.64391866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Cop7,23628,Klempau,Stecknitzweg,38,,53.78098693,10.6444259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopA,23628,Klempau,Stecknitzweg,46,,53.78151853,10.64393416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopB,23628,Klempau,Stecknitzweg,28,,53.7816947,10.6447284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopG,23628,Klempau,Stecknitzweg,35,,53.78102542,10.64516111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopJ,23628,Klempau,Stecknitzweg,33,,53.7811684,10.64512576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopM,23628,Klempau,Stecknitzweg,31,,53.7813642,10.64505552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopR,23628,Klempau,Stecknitzweg,29,,53.78155044,10.64498916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008CopX,23628,Klempau,Stecknitzweg,27,,53.78170878,10.64488919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copc,23628,Klempau,Stecknitzweg,54,,53.78113995,10.64398266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copd,23628,Klempau,Stecknitzweg,36,,53.78103944,10.6448165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copi,23628,Klempau,Stecknitzweg,52,,53.78127517,10.64392853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copj,23628,Klempau,Stecknitzweg,34,,53.78126514,10.64493131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copo,23628,Klempau,Stecknitzweg,50,,53.78141438,10.64382742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copp,23628,Klempau,Stecknitzweg,32,,53.78137683,10.64480977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copu,23628,Klempau,Stecknitzweg,48,,53.78150755,10.64386058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Copv,23628,Klempau,Stecknitzweg,30,,53.78155629,10.64481659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DhvK,23628,Klempau,Sarauer Straße,17,,53.7713115,10.68995713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008rqh4,23628,Klempau,Storchenweg,8,a,53.76029032,10.66111482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008xybk,23628,Klempau,Preußenkoppel,18,a,53.77446881,10.64986501

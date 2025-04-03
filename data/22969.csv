@@ -1,0 +1,566 @@
+# Amtliche Adressen für die Postleitzahl 22969
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LoLy,22969,Witzhave,Gut Heinrichshof,1,,53.58253394,10.33461473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA0,22969,Witzhave,Auf dem Heidlande,10,,53.57459615,10.33952372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA1,22969,Witzhave,Auf dem Heidlande,11,,53.57455437,10.34025755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA2,22969,Witzhave,Auf dem Heidlande,12,,53.57458927,10.33940424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA3,22969,Witzhave,Auf dem Heidlande,13,,53.57432615,10.34022419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA4,22969,Witzhave,Auf dem Heidlande,14,,53.57485004,10.33931262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA5,22969,Witzhave,Auf dem Heidlande,16,,53.57484028,10.33896757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA6,22969,Witzhave,Auf dem Heidlande,17,a,53.57437607,10.33992508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA7,22969,Witzhave,Auf dem Heidlande,17,b,53.57436754,10.3397965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA8,22969,Witzhave,Auf dem Heidlande,18,,53.57461081,10.33898377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtA9,22969,Witzhave,Auf dem Heidlande,19,,53.57436008,10.33957581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAA,22969,Witzhave,Auf dem Heidlande,41,,53.57525638,10.33795287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAB,22969,Witzhave,Auf dem Heidlande,42,,53.57524419,10.34023185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAC,22969,Witzhave,Auf dem Heidlande,43,,53.57544282,10.33789897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAD,22969,Witzhave,Auf dem Heidlande,45,,53.57547202,10.33828923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAE,22969,Witzhave,Auf dem Heidlande,47,,53.57562623,10.33824424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAF,22969,Witzhave,Auf dem Heidlande,47,a,53.57565631,10.33872851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAG,22969,Witzhave,Auf dem Heidlande,49,,53.57548454,10.33868519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAH,22969,Witzhave,Auf dem Heidlande,5,,53.57460732,10.34075594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAI,22969,Witzhave,Auf dem Heidlande,51,,53.57564398,10.33894658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAJ,22969,Witzhave,Auf dem Heidlande,53,,53.5756443,10.33904357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAK,22969,Witzhave,Auf dem Heidlande,55,,53.57553247,10.33940696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAL,22969,Witzhave,Auf dem Heidlande,57,,53.57570177,10.33937157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAM,22969,Witzhave,Auf dem Heidlande,59,,53.57570501,10.33983058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAN,22969,Witzhave,Auf dem Heidlande,6,,53.57464611,10.33999477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAO,22969,Witzhave,Auf dem Heidlande,61,,53.57555421,10.3398288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAP,22969,Witzhave,Auf dem Heidlande,63,,53.57561037,10.34019145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAQ,22969,Witzhave,Auf dem Heidlande,65,,53.57573915,10.34018785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAR,22969,Witzhave,Auf dem Heidlande,67,,53.57580334,10.34062366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAS,22969,Witzhave,Auf dem Heidlande,69,,53.5755048,10.34055001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAT,22969,Witzhave,Auf dem Heidlande,69,a,53.57555462,10.34054412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAU,22969,Witzhave,Auf dem Heidlande,7,a,53.57439763,10.34083176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAV,22969,Witzhave,Auf dem Heidlande,7,b,53.57439253,10.34074545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAW,22969,Witzhave,Auf dem Heidlande,71,,53.57531002,10.34060009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAX,22969,Witzhave,Auf dem Heidlande,8,,53.57484444,10.33966745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAY,22969,Witzhave,Auf dem Heidlande,8,a,53.57483916,10.33957213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAZ,22969,Witzhave,Auf dem Heidlande,9,,53.57433764,10.3405097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAa,22969,Witzhave,Auf dem Heidlande,2,,53.57506686,10.34026562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAb,22969,Witzhave,Auf dem Heidlande,2,a,53.57506041,10.34015224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAc,22969,Witzhave,Auf dem Heidlande,20,,53.5746487,10.33857734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAd,22969,Witzhave,Auf dem Heidlande,21,,53.57430784,10.33929339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAe,22969,Witzhave,Auf dem Heidlande,22,,53.57485468,10.33839095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAf,22969,Witzhave,Auf dem Heidlande,23,,53.5743025,10.33920263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAg,22969,Witzhave,Auf dem Heidlande,24,,53.57506093,10.33810414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAh,22969,Witzhave,Auf dem Heidlande,24,a,53.57510058,10.33815718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAi,22969,Witzhave,Auf dem Heidlande,25,,53.57432449,10.33895408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAj,22969,Witzhave,Auf dem Heidlande,26,,53.57519724,10.33853657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAk,22969,Witzhave,Auf dem Heidlande,27,,53.57437996,10.3385396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAl,22969,Witzhave,Auf dem Heidlande,28,,53.5751693,10.33876825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAm,22969,Witzhave,Auf dem Heidlande,29,,53.57419865,10.33865902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAn,22969,Witzhave,Auf dem Heidlande,3,,53.57476814,10.34075105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAo,22969,Witzhave,Auf dem Heidlande,30,,53.57519939,10.33900627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAp,22969,Witzhave,Auf dem Heidlande,31,,53.57417763,10.33830649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAq,22969,Witzhave,Auf dem Heidlande,32,,53.57520424,10.33909553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAr,22969,Witzhave,Auf dem Heidlande,33,,53.57417924,10.33801228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAs,22969,Witzhave,Auf dem Heidlande,34,,53.57528496,10.33933499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAt,22969,Witzhave,Auf dem Heidlande,35,,53.57439672,10.33810359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAu,22969,Witzhave,Auf dem Heidlande,36,,53.57530853,10.33959239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAv,22969,Witzhave,Auf dem Heidlande,37,,53.57453242,10.33812097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAw,22969,Witzhave,Auf dem Heidlande,37,a,53.57458548,10.33808177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAx,22969,Witzhave,Auf dem Heidlande,38,,53.57532302,10.3398389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAy,22969,Witzhave,Auf dem Heidlande,39,,53.57480389,10.33799661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtAz,22969,Witzhave,Auf dem Heidlande,4,,53.5749727,10.33993112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtB0,22969,Witzhave,Zum Moor,1,,53.5817919,10.35249108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltt9,22969,Witzhave,Aueweg,1,,53.57303752,10.35786641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttA,22969,Witzhave,Birkenallee,3,,53.57174737,10.3374889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttB,22969,Witzhave,Birkenallee,30,,53.57495999,10.33749429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttC,22969,Witzhave,Birkenallee,32,,53.57511046,10.33740114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttD,22969,Witzhave,Birkenallee,34,,53.57529095,10.33747512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttE,22969,Witzhave,Birkenallee,36,,53.57541989,10.33736314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttF,22969,Witzhave,Birkenallee,4,,53.57173727,10.33796733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttG,22969,Witzhave,Birkenallee,4,a,53.5718161,10.33795544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttH,22969,Witzhave,Birkenallee,5,,53.57188339,10.33747334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttI,22969,Witzhave,Birkenallee,5,a,53.57193655,10.33746568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttJ,22969,Witzhave,Birkenallee,6,,53.57204325,10.33792233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttK,22969,Witzhave,Birkenallee,6,a,53.57211123,10.33791216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttL,22969,Witzhave,Birkenallee,7,,53.57206196,10.33744779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttM,22969,Witzhave,Birkenallee,8,,53.57232425,10.33791701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttN,22969,Witzhave,Birkenallee,8,a,53.57240457,10.33790353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttO,22969,Witzhave,Birkenallee,9,,53.57220012,10.33742925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttP,22969,Witzhave,Hauskoppel,1,a,53.57134777,10.34005196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttQ,22969,Witzhave,Hauskoppel,1,b,53.5713806,10.34014142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttR,22969,Witzhave,Hauskoppel,10,,53.57053017,10.33856942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttS,22969,Witzhave,Hauskoppel,11,,53.57138055,10.3409634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttT,22969,Witzhave,Hauskoppel,12,,53.57061898,10.3388647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttU,22969,Witzhave,Hauskoppel,13,,53.57131368,10.34071616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttV,22969,Witzhave,Hauskoppel,14,,53.57074308,10.3391738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttW,22969,Witzhave,Hauskoppel,15,a,53.57119582,10.34036405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttX,22969,Witzhave,Hauskoppel,15,b,53.57118226,10.34029868
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttY,22969,Witzhave,Hauskoppel,15,c,53.5711674,10.34022785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LttZ,22969,Witzhave,Hauskoppel,15,d,53.57115475,10.34016512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltta,22969,Witzhave,Aueweg,3,,53.57254284,10.35823722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttb,22969,Witzhave,Birkenallee,1,,53.57156706,10.33752502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttd,22969,Witzhave,Birkenallee,10,,53.5726395,10.33786385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltte,22969,Witzhave,Birkenallee,10,a,53.57272234,10.33785008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttf,22969,Witzhave,Birkenallee,11,,53.57234775,10.3374038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttg,22969,Witzhave,Birkenallee,12,,53.57293801,10.3377658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltth,22969,Witzhave,Birkenallee,12,a,53.57301736,10.33775239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltti,22969,Witzhave,Birkenallee,13,,53.57248726,10.33738419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttj,22969,Witzhave,Birkenallee,14,,53.57324626,10.33768929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttk,22969,Witzhave,Birkenallee,14,a,53.57330885,10.33767902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttl,22969,Witzhave,Birkenallee,15,,53.57263648,10.33736938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttm,22969,Witzhave,Birkenallee,16,,53.57358668,10.3376455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttn,22969,Witzhave,Birkenallee,16,a,53.5736628,10.33763317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltto,22969,Witzhave,Birkenallee,17,,53.57284228,10.33734853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttp,22969,Witzhave,Birkenallee,18,,53.57385675,10.33760158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttq,22969,Witzhave,Birkenallee,2,,53.57143353,10.33801131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttr,22969,Witzhave,Birkenallee,2,a,53.57152629,10.33800001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltts,22969,Witzhave,Birkenallee,20,a,53.5740283,10.33756537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttt,22969,Witzhave,Birkenallee,20,b,53.5740316,10.33764733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttu,22969,Witzhave,Birkenallee,21,,53.57385863,10.33717375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttv,22969,Witzhave,Birkenallee,22,,53.57419229,10.33753226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttw,22969,Witzhave,Birkenallee,24,,53.57435744,10.3376283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttx,22969,Witzhave,Birkenallee,26,a,53.57453893,10.33755653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltty,22969,Witzhave,Birkenallee,26,b,53.57448765,10.33756165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lttz,22969,Witzhave,Birkenallee,28,,53.5746861,10.33749234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu0,22969,Witzhave,Hauskoppel,16,a,53.57093715,10.33960893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu1,22969,Witzhave,Hauskoppel,16,b,53.57095997,10.33972448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu2,22969,Witzhave,Hauskoppel,17,a,53.57095165,10.34038841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu3,22969,Witzhave,Hauskoppel,17,b,53.57089102,10.34042415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu4,22969,Witzhave,Hauskoppel,18,a,53.57075985,10.3397648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu5,22969,Witzhave,Hauskoppel,18,b,53.57069629,10.33980258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu6,22969,Witzhave,Hauskoppel,19,a,53.57072112,10.34060468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu7,22969,Witzhave,Hauskoppel,19,b,53.5707063,10.34053068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu8,22969,Witzhave,Hauskoppel,19,c,53.57068762,10.34044373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltu9,22969,Witzhave,Hauskoppel,2,,53.57116017,10.33956965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuA,22969,Witzhave,Rako-Kamp,1,,53.5672282,10.32967945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuB,22969,Witzhave,Rako-Kamp,2,,53.56693823,10.33071815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuC,22969,Witzhave,Rako-Kamp,3,,53.56732757,10.32959971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuD,22969,Witzhave,Rako-Kamp,4,,53.56737398,10.33031786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuE,22969,Witzhave,Rako-Kamp,5,,53.56713882,10.32979739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuF,22969,Witzhave,Rako-Kamp,6,,53.56757327,10.33004534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuG,22969,Witzhave,Corbekstraße,1,,53.57159006,10.33643011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuH,22969,Witzhave,Corbekstraße,1,a,53.57146577,10.33646527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuI,22969,Witzhave,Corbekstraße,1,b,53.57119395,10.33635503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuJ,22969,Witzhave,Corbekstraße,1,c,53.57113218,10.33639924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuK,22969,Witzhave,Corbekstraße,10,,53.57191545,10.33669119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuL,22969,Witzhave,Corbekstraße,11,,53.57227262,10.33632137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuM,22969,Witzhave,Corbekstraße,12,,53.57198105,10.33668134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuN,22969,Witzhave,Corbekstraße,13,,53.57247427,10.33628905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuO,22969,Witzhave,Corbekstraße,14,,53.57219484,10.33664518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuP,22969,Witzhave,Corbekstraße,15,,53.57256344,10.33627441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuQ,22969,Witzhave,Corbekstraße,16,,53.57228611,10.33662715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuR,22969,Witzhave,Corbekstraße,17,,53.57272437,10.33630627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuS,22969,Witzhave,Corbekstraße,18,,53.57248742,10.336681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuT,22969,Witzhave,Corbekstraße,19,,53.57293723,10.33631308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuU,22969,Witzhave,Corbekstraße,19,a,53.57285418,10.33630519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuV,22969,Witzhave,Corbekstraße,20,,53.57255136,10.3366714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuW,22969,Witzhave,Corbekstraße,21,,53.573157,10.33640126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuX,22969,Witzhave,Corbekstraße,22,,53.57274391,10.33666399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuY,22969,Witzhave,Corbekstraße,23,,53.57334016,10.33660725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtuZ,22969,Witzhave,Corbekstraße,24,,53.57297532,10.33666656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltua,22969,Witzhave,Hauskoppel,20,a,53.57051028,10.33983857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltub,22969,Witzhave,Hauskoppel,20,b,53.57053024,10.33993339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuc,22969,Witzhave,Hauskoppel,21,,53.57093599,10.34093257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltud,22969,Witzhave,Hauskoppel,22,,53.57043455,10.33936942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltue,22969,Witzhave,Hauskoppel,23,,53.57098143,10.34123357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuf,22969,Witzhave,Hauskoppel,24,,53.57032774,10.33908035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltug,22969,Witzhave,Hauskoppel,25,,53.5709922,10.34158498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuh,22969,Witzhave,Hauskoppel,26,,53.5702045,10.33870607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltui,22969,Witzhave,Hauskoppel,27,,53.57080818,10.34169213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuj,22969,Witzhave,Hauskoppel,28,,53.57001512,10.33862008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuk,22969,Witzhave,Hauskoppel,29,,53.57072457,10.34144885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltul,22969,Witzhave,Hauskoppel,3,,53.57157769,10.34058136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltum,22969,Witzhave,Hauskoppel,30,,53.57005095,10.33902387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltun,22969,Witzhave,Hauskoppel,31,,53.57066334,10.34119385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuo,22969,Witzhave,Hauskoppel,32,,53.57015565,10.33934499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltup,22969,Witzhave,Hauskoppel,33,,53.57057183,10.34088561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuq,22969,Witzhave,Hauskoppel,34,,53.57025844,10.33966497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltur,22969,Witzhave,Hauskoppel,35,a,53.57048964,10.34061854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltus,22969,Witzhave,Hauskoppel,35,b,53.57046892,10.34051637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltut,22969,Witzhave,Hauskoppel,36,,53.57035075,10.34005993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuu,22969,Witzhave,Hauskoppel,4,,53.5710223,10.33913733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuv,22969,Witzhave,Hauskoppel,5,,53.57166292,10.34091196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuw,22969,Witzhave,Hauskoppel,6,,53.57085545,10.33880533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltux,22969,Witzhave,Hauskoppel,7,,53.57175227,10.34112933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuy,22969,Witzhave,Hauskoppel,8,,53.5707085,10.33842664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltuz,22969,Witzhave,Hauskoppel,9,,53.57151758,10.3412712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv0,22969,Witzhave,Corbekstraße,25,,53.57345847,10.33689667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv1,22969,Witzhave,Corbekstraße,26,,53.57320841,10.33689612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv2,22969,Witzhave,Corbekstraße,27,,53.57350894,10.3371774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv3,22969,Witzhave,Corbekstraße,28,,53.57329348,10.33722621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv4,22969,Witzhave,Corbekstraße,3,,53.57165505,10.33641808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv5,22969,Witzhave,Corbekstraße,3,a,53.57174842,10.33628439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv6,22969,Witzhave,Corbekstraße,3,b,53.57177001,10.3363996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv7,22969,Witzhave,Corbekstraße,4,,53.57139204,10.33700261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv8,22969,Witzhave,Corbekstraße,5,,53.57189418,10.33637584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltv9,22969,Witzhave,Corbekstraße,6,,53.57137736,10.33679938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvA,22969,Witzhave,Gartenstraße,12,,53.57316351,10.33985632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvC,22969,Witzhave,Gartenstraße,14,,53.57331959,10.33988906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvD,22969,Witzhave,Gartenstraße,14,a,53.57333876,10.34025369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvE,22969,Witzhave,Gartenstraße,15,,53.57293392,10.33944449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvF,22969,Witzhave,Gartenstraße,16,,53.57349437,10.33986051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvG,22969,Witzhave,Gartenstraße,17,,53.57311661,10.33942166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvH,22969,Witzhave,Gartenstraße,19,,53.57329378,10.33940853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvI,22969,Witzhave,Gartenstraße,2,,53.57223653,10.33995556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvJ,22969,Witzhave,Gartenstraße,21,,53.57346746,10.33938501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvK,22969,Witzhave,Gartenstraße,4,,53.57247534,10.33990479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvL,22969,Witzhave,Gartenstraße,5,,53.57198773,10.33959478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvM,22969,Witzhave,Gartenstraße,5,a,53.5719023,10.33961446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvN,22969,Witzhave,Gartenstraße,6,,53.5726616,10.33986969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvO,22969,Witzhave,Gartenstraße,7,,53.57221848,10.3395822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvP,22969,Witzhave,Gartenstraße,8,,53.57287019,10.33990141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvQ,22969,Witzhave,Gartenstraße,9,,53.57239658,10.33950765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvR,22969,Witzhave,Granderheider Weg,1,,53.575673,10.35803798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvS,22969,Witzhave,Granderheider Weg,3,,53.57590339,10.35827615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvT,22969,Witzhave,Granderheider Weg,4,,53.5764156,10.35963095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvU,22969,Witzhave,Granderheider Weg,5,,53.5761484,10.35832849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvV,22969,Witzhave,Granderheider Weg,7,,53.57643594,10.35865377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvW,22969,Witzhave,Granderheider Weg,9,,53.57661118,10.35882158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvX,22969,Witzhave,Am Jahrensberg,1,,53.56919751,10.33093974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvY,22969,Witzhave,Am Jahrensberg,3,,53.56950269,10.33003689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtvZ,22969,Witzhave,Katerstieg,1,,53.56783696,10.33529079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltva,22969,Witzhave,Corbekstraße,7,,53.57197857,10.33636209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvb,22969,Witzhave,Corbekstraße,7,a,53.57197857,10.33636209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvc,22969,Witzhave,Corbekstraße,8,,53.57152639,10.33676899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvd,22969,Witzhave,Corbekstraße,8,a,53.57169557,10.33672279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltve,22969,Witzhave,Corbekstraße,9,,53.57218663,10.33633626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvf,22969,Witzhave,Corbekstraße,9,a,53.57212786,10.33634612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvg,22969,Witzhave,Feldstraße,1,,53.57359509,10.33809245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvh,22969,Witzhave,Feldstraße,11,,53.5737379,10.33968201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvi,22969,Witzhave,Feldstraße,13,,53.57375748,10.339938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvj,22969,Witzhave,Feldstraße,15,,53.57377107,10.34018141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvk,22969,Witzhave,Feldstraße,17,,53.57374772,10.34044339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvl,22969,Witzhave,Feldstraße,19,,53.5737645,10.34069282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvm,22969,Witzhave,Feldstraße,2,,53.57336808,10.33817661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvn,22969,Witzhave,Feldstraße,21,,53.57377938,10.34096099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvo,22969,Witzhave,Feldstraße,23,,53.57381096,10.34117728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvp,22969,Witzhave,Feldstraße,25,,53.57384346,10.34142914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvq,22969,Witzhave,Feldstraße,3,,53.57364613,10.33850172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvr,22969,Witzhave,Feldstraße,3,a,53.57385206,10.33843862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvs,22969,Witzhave,Feldstraße,4,,53.57340178,10.3384136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvt,22969,Witzhave,Feldstraße,5,,53.57366036,10.33882064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvu,22969,Witzhave,Feldstraße,6,,53.57357765,10.34114587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvv,22969,Witzhave,Feldstraße,7,,53.57368361,10.3391582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvw,22969,Witzhave,Feldstraße,8,,53.5735986,10.34147691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvx,22969,Witzhave,Feldstraße,9,,53.57372285,10.33941897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvy,22969,Witzhave,Gartenstraße,10,,53.57301325,10.3398826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltvz,22969,Witzhave,Gartenstraße,11,,53.57257563,10.33948696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw0,22969,Witzhave,Katerstieg,1,a,53.56793702,10.33544589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw1,22969,Witzhave,Katerstieg,10,,53.56851279,10.33555449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw2,22969,Witzhave,Katerstieg,11,,53.56887846,10.33496883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw3,22969,Witzhave,Katerstieg,12,,53.56866769,10.33546618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw4,22969,Witzhave,Katerstieg,13,,53.56909059,10.3348834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw5,22969,Witzhave,Katerstieg,14,,53.56888144,10.33537436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw6,22969,Witzhave,Katerstieg,15,,53.56925106,10.33474908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw7,22969,Witzhave,Katerstieg,16,,53.56931147,10.33517381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw8,22969,Witzhave,Katerstieg,17,,53.56938848,10.334524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltw9,22969,Witzhave,Katerstieg,17,a,53.56951434,10.33434046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwA,22969,Witzhave,Kirchenstraße,11,,53.56940776,10.33262086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwB,22969,Witzhave,Kirchenstraße,12,,53.569204,10.33348213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwC,22969,Witzhave,Kirchenstraße,12,a,53.56923706,10.33340489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwD,22969,Witzhave,Kirchenstraße,12,b,53.56936853,10.33318045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwE,22969,Witzhave,Kirchenstraße,13,,53.56986619,10.33246825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwF,22969,Witzhave,Kirchenstraße,14,,53.56953863,10.33316659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwG,22969,Witzhave,Kirchenstraße,15,,53.57035451,10.33233017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwH,22969,Witzhave,Kirchenstraße,16,,53.56972384,10.333034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwI,22969,Witzhave,Kirchenstraße,16,a,53.56967755,10.3329273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwJ,22969,Witzhave,Kirchenstraße,17,,53.57381904,10.33071116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwK,22969,Witzhave,Kirchenstraße,18,,53.56991197,10.33292904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwL,22969,Witzhave,Kirchenstraße,18,a,53.56995199,10.33351799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwM,22969,Witzhave,Kirchenstraße,18,b,53.5700168,10.33288135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwN,22969,Witzhave,Kirchenstraße,18,c,53.57015717,10.33343814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwO,22969,Witzhave,Kirchenstraße,19,,53.57415299,10.33054025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwR,22969,Witzhave,Kirchenstraße,21,,53.57449741,10.330152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwS,22969,Witzhave,Kirchenstraße,22,,53.57119923,10.33264953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwT,22969,Witzhave,Kirchenstraße,24,,53.57178228,10.33229183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwU,22969,Witzhave,Kirchenstraße,24,a,53.57202981,10.33224752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwV,22969,Witzhave,Kirchenstraße,26,,53.57231888,10.3320665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwW,22969,Witzhave,Kirchenstraße,3,,53.56798945,10.33305386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwX,22969,Witzhave,Kirchenstraße,30,,53.5725728,10.33206178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwY,22969,Witzhave,Kirchenstraße,32,,53.57430234,10.33091149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtwZ,22969,Witzhave,Kirchenstraße,34,,53.5749225,10.3309991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwa,22969,Witzhave,Katerstieg,17,b,53.56950594,10.33415717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwb,22969,Witzhave,Katerstieg,18,,53.56952245,10.33504694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwc,22969,Witzhave,Katerstieg,19,,53.56967465,10.33429947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwd,22969,Witzhave,Katerstieg,2,,53.5676862,10.33583768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwe,22969,Witzhave,Katerstieg,20,,53.56974186,10.33487069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwf,22969,Witzhave,Katerstieg,21,,53.56981864,10.33428694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwg,22969,Witzhave,Katerstieg,22,,53.56990864,10.33476799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwh,22969,Witzhave,Katerstieg,23,,53.57004677,10.33413378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwi,22969,Witzhave,Katerstieg,24,a,53.57003849,10.33457884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwj,22969,Witzhave,Katerstieg,24,b,53.57008873,10.33455535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwk,22969,Witzhave,Katerstieg,25,,53.57028485,10.33400557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwl,22969,Witzhave,Katerstieg,26,a,53.5702085,10.33451208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwm,22969,Witzhave,Katerstieg,26,b,53.57026448,10.33448592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwn,22969,Witzhave,Katerstieg,27,,53.57046295,10.33374472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwo,22969,Witzhave,Katerstieg,28,,53.57041638,10.33441119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwp,22969,Witzhave,Katerstieg,3,,53.56810729,10.3352767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwq,22969,Witzhave,Katerstieg,31,,53.57049628,10.33299819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwr,22969,Witzhave,Katerstieg,32,,53.57072169,10.33427047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltws,22969,Witzhave,Katerstieg,4,,53.56788523,10.33576834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwt,22969,Witzhave,Katerstieg,5,,53.56832405,10.33517709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwu,22969,Witzhave,Katerstieg,6,,53.56805828,10.33570351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwv,22969,Witzhave,Katerstieg,7,,53.56853406,10.33509479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltww,22969,Witzhave,Katerstieg,8,,53.56826914,10.33560975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwx,22969,Witzhave,Katerstieg,9,,53.56871048,10.33499442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwy,22969,Witzhave,Kirchenstraße,1,,53.56777591,10.33309083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltwz,22969,Witzhave,Kirchenstraße,10,,53.56893221,10.33320836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx0,22969,Witzhave,Kirchenstraße,36,,53.57434702,10.33274157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx1,22969,Witzhave,Kirchenstraße,4,,53.56781147,10.33352113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx2,22969,Witzhave,Kirchenstraße,4,a,53.56783318,10.33398939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx3,22969,Witzhave,Kirchenstraße,6,,53.56795137,10.33342525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx4,22969,Witzhave,Kirchenstraße,6,a,53.56804255,10.33339919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx5,22969,Witzhave,Kirchenstraße,7,,53.56875964,10.33281515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx6,22969,Witzhave,Kirchenstraße,9,,53.56911548,10.33264541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx7,22969,Witzhave,Möllner Landstraße,1,,53.5678212,10.340688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx8,22969,Witzhave,Möllner Landstraße,10,,53.56753057,10.33535575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltx9,22969,Witzhave,Möllner Landstraße,12,,53.5675397,10.33426202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxA,22969,Witzhave,Oher Weg,23,,53.55735686,10.32330397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxB,22969,Witzhave,Oher Weg,26,,53.56212537,10.32561402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxC,22969,Witzhave,Oher Weg,28,,53.56110914,10.32509569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxD,22969,Witzhave,Oher Weg,30,,53.56016112,10.323978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxE,22969,Witzhave,Oher Weg,32,,53.56028522,10.3232641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxF,22969,Witzhave,Oher Weg,34,,53.55974123,10.3234489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxG,22969,Witzhave,Oher Weg,36,,53.55958344,10.32145958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxH,22969,Witzhave,Oher Weg,38,,53.5593429,10.32252454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxI,22969,Witzhave,Oher Weg,4,,53.56616664,10.33396428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxJ,22969,Witzhave,Oher Weg,40,,53.55879796,10.32110405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxK,22969,Witzhave,Oher Weg,42,,53.55690127,10.31654003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxL,22969,Witzhave,Oher Weg,44,,53.55677607,10.31529123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxM,22969,Witzhave,Oher Weg,46,,53.55574667,10.31499108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxN,22969,Witzhave,Oher Weg,5,a,53.56577613,10.33544482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxO,22969,Witzhave,Oher Weg,6,,53.565965,10.33358086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxP,22969,Witzhave,Oher Weg,7,,53.56602956,10.33468357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxQ,22969,Witzhave,Oher Weg,9,,53.56584546,10.33408434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxR,22969,Witzhave,Poststraße,1,,53.56793783,10.33760132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxS,22969,Witzhave,Poststraße,1,a,53.56809243,10.33752483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxT,22969,Witzhave,Poststraße,1,b,53.56833182,10.33747914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxU,22969,Witzhave,Poststraße,1,c,53.56850713,10.33745219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxV,22969,Witzhave,Poststraße,10,,53.56885219,10.33781137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxW,22969,Witzhave,Poststraße,11,,53.56994385,10.33697063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxX,22969,Witzhave,Poststraße,12,,53.56907353,10.33772438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxY,22969,Witzhave,Poststraße,13,,53.57012729,10.33693791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtxZ,22969,Witzhave,Poststraße,14,,53.5692136,10.33750621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxa,22969,Witzhave,Möllner Landstraße,13,,53.56658438,10.33153411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxb,22969,Witzhave,Möllner Landstraße,14,,53.56530097,10.32174167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxc,22969,Witzhave,Möllner Landstraße,15,,53.56639448,10.33065797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxd,22969,Witzhave,Möllner Landstraße,16,,53.56629185,10.32164128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxe,22969,Witzhave,Möllner Landstraße,18,,53.5663346,10.31891057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxf,22969,Witzhave,Möllner Landstraße,20,,53.56641048,10.31889023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxg,22969,Witzhave,Möllner Landstraße,3,,53.5677037,10.33996601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxh,22969,Witzhave,Möllner Landstraße,4,,53.56960673,10.34494892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxi,22969,Witzhave,Möllner Landstraße,5,,53.56758946,10.33875237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxj,22969,Witzhave,Möllner Landstraße,7,,53.56709809,10.33445314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxk,22969,Witzhave,Möllner Landstraße,8,,53.56792995,10.33949207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxl,22969,Witzhave,Möllner Landstraße,8,a,53.56799917,10.33910154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxm,22969,Witzhave,Möllner Landstraße,8,b,53.5678546,10.33880801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxn,22969,Witzhave,Möllner Landstraße,9,,53.56667821,10.33269106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxo,22969,Witzhave,Oher Weg,11,,53.56559604,10.33352152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxp,22969,Witzhave,Oher Weg,13,,53.56544628,10.33328266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxq,22969,Witzhave,Oher Weg,15,,53.56226986,10.33269351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxr,22969,Witzhave,Oher Weg,16,,53.56534588,10.33226874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxs,22969,Witzhave,Oher Weg,16,a,53.56547579,10.33204053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxt,22969,Witzhave,Oher Weg,17,,53.56194063,10.3297034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxu,22969,Witzhave,Oher Weg,18,,53.5652239,10.33204025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxv,22969,Witzhave,Oher Weg,19,,53.56302464,10.32996362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxw,22969,Witzhave,Oher Weg,2,,53.56646075,10.33462438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxx,22969,Witzhave,Oher Weg,20,,53.56507795,10.33173275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxy,22969,Witzhave,Oher Weg,20,a,53.56515342,10.33156037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltxz,22969,Witzhave,Oher Weg,22,,53.56494691,10.33145041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty0,22969,Witzhave,Poststraße,15,,53.57038554,10.33704671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty1,22969,Witzhave,Poststraße,15,a,53.57064212,10.33681828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty2,22969,Witzhave,Poststraße,16,,53.56946945,10.33741933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty3,22969,Witzhave,Poststraße,16,a,53.56937325,10.33799543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty4,22969,Witzhave,Poststraße,16,b,53.56956123,10.33733229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty5,22969,Witzhave,Poststraße,16,c,53.5696097,10.33743029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty6,22969,Witzhave,Poststraße,16,d,53.56971161,10.33772669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty7,22969,Witzhave,Poststraße,17,,53.57090889,10.33687277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty8,22969,Witzhave,Poststraße,18,,53.56997205,10.3373181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Lty9,22969,Witzhave,Poststraße,19,,53.5711663,10.33735059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyA,22969,Witzhave,Poststraße,48,,53.57218995,10.34149904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyB,22969,Witzhave,Poststraße,6,,53.56854308,10.33810947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyC,22969,Witzhave,Poststraße,8,,53.56870765,10.33791072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyD,22969,Witzhave,Poststraße,9,,53.56978872,10.33690899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyE,22969,Witzhave,Poststraße,9,a,53.56977659,10.33679847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyF,22969,Witzhave,Rausdorfer Weg,1,,53.57271013,10.34152943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyG,22969,Witzhave,Rausdorfer Weg,10,,53.57388541,10.34211222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyH,22969,Witzhave,Rausdorfer Weg,11,,53.57439978,10.34137747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyI,22969,Witzhave,Rausdorfer Weg,11,a,53.5744586,10.34136233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyJ,22969,Witzhave,Rausdorfer Weg,12,,53.57405734,10.34210564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyK,22969,Witzhave,Rausdorfer Weg,13,,53.5746127,10.34134002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyL,22969,Witzhave,Rausdorfer Weg,13,a,53.57465949,10.34132792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyM,22969,Witzhave,Rausdorfer Weg,14,,53.5742225,10.34221598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyN,22969,Witzhave,Rausdorfer Weg,14,a,53.57426957,10.34188008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyO,22969,Witzhave,Rausdorfer Weg,15,,53.57480635,10.34122499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyP,22969,Witzhave,Rausdorfer Weg,16,,53.57452423,10.34228383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyQ,22969,Witzhave,Rausdorfer Weg,17,,53.5751193,10.34121473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyR,22969,Witzhave,Rausdorfer Weg,18,,53.5751716,10.34197984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyS,22969,Witzhave,Rausdorfer Weg,18,a,53.57476158,10.34196625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyT,22969,Witzhave,Rausdorfer Weg,19,,53.57529605,10.34123015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyU,22969,Witzhave,Rausdorfer Weg,2,b,53.57215528,10.34235035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyV,22969,Witzhave,Rausdorfer Weg,20,,53.577123,10.34213611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyW,22969,Witzhave,Rausdorfer Weg,21,,53.57546567,10.34117672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyX,22969,Witzhave,Rausdorfer Weg,23,,53.57561394,10.34117129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyY,22969,Witzhave,Rausdorfer Weg,23,a,53.57566157,10.3411668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtyZ,22969,Witzhave,Rausdorfer Weg,25,,53.57578241,10.34112713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltya,22969,Witzhave,Poststraße,2,,53.56811646,10.338235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyb,22969,Witzhave,Poststraße,20,,53.57010825,10.33760486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyc,22969,Witzhave,Poststraße,21,,53.57128512,10.33818513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyd,22969,Witzhave,Poststraße,22,,53.5702736,10.33751666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltye,22969,Witzhave,Poststraße,23,,53.57140713,10.33851079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyf,22969,Witzhave,Poststraße,24,,53.57049988,10.33748721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyg,22969,Witzhave,Poststraße,25,a,53.57164517,10.3389691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyh,22969,Witzhave,Poststraße,25,b,53.57185508,10.33889564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyi,22969,Witzhave,Poststraße,26,,53.5706943,10.33738578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyj,22969,Witzhave,Poststraße,26,a,53.57086056,10.33737302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyk,22969,Witzhave,Poststraße,27,,53.57178881,10.3392486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyl,22969,Witzhave,Poststraße,28,,53.57075059,10.33773917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltym,22969,Witzhave,Poststraße,3,,53.5694121,10.33698441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyn,22969,Witzhave,Poststraße,30,a,53.57104006,10.33819254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyo,22969,Witzhave,Poststraße,30,b,53.57098471,10.33826819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyp,22969,Witzhave,Poststraße,32,a,53.57115073,10.33847719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyq,22969,Witzhave,Poststraße,32,b,53.5711861,10.33859695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyr,22969,Witzhave,Poststraße,34,a,53.57130792,10.33887616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltys,22969,Witzhave,Poststraße,34,b,53.57134043,10.33898686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyt,22969,Witzhave,Poststraße,36,,53.5714969,10.33933914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyu,22969,Witzhave,Poststraße,38,,53.57161323,10.33969473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyv,22969,Witzhave,Poststraße,4,,53.5683761,10.3382505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyw,22969,Witzhave,Poststraße,40,,53.57172058,10.33997489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyx,22969,Witzhave,Poststraße,42,,53.57188243,10.34037081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyy,22969,Witzhave,Poststraße,44,,53.57198641,10.34061802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltyz,22969,Witzhave,Poststraße,46,,53.57209058,10.34088767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz0,22969,Witzhave,Rausdorfer Weg,25,a,53.57583662,10.341118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz1,22969,Witzhave,Rausdorfer Weg,3,,53.57291739,10.34164429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz2,22969,Witzhave,Rausdorfer Weg,4,,53.57312167,10.34243097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz3,22969,Witzhave,Rausdorfer Weg,4,a,53.57343735,10.34242807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz4,22969,Witzhave,Rausdorfer Weg,4,b,53.57339206,10.34202445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz5,22969,Witzhave,Rausdorfer Weg,4,c,53.57296635,10.34208792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz6,22969,Witzhave,Rausdorfer Weg,5,,53.57311788,10.34164277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz7,22969,Witzhave,Rausdorfer Weg,6,,53.57373862,10.34262225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz8,22969,Witzhave,Rausdorfer Weg,7,,53.57337701,10.34159679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltz9,22969,Witzhave,Rausdorfer Weg,8,,53.57380616,10.34193275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzA,22969,Witzhave,Tannenweg,6,,53.56876509,10.33184405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzB,22969,Witzhave,Kastanienweg,1,,53.56743179,10.33307189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzC,22969,Witzhave,Kastanienweg,2,,53.5676762,10.33262806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzD,22969,Witzhave,Kastanienweg,3,,53.56738157,10.33278954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzE,22969,Witzhave,Kastanienweg,4,,53.56759072,10.33235549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzF,22969,Witzhave,Kastanienweg,5,,53.56734267,10.33249659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzG,22969,Witzhave,Kastanienweg,6,,53.56746528,10.33187885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzH,22969,Witzhave,Kastanienweg,7,,53.5672651,10.33224526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzI,22969,Witzhave,Kastanienweg,9,,53.56727362,10.33198019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzJ,22969,Witzhave,Rosenweg,1,,53.57234413,10.34066369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzK,22969,Witzhave,Rosenweg,10,,53.57329343,10.3407867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzL,22969,Witzhave,Rosenweg,11,,53.573209,10.34056298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzM,22969,Witzhave,Rosenweg,2,,53.57254822,10.3409907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzN,22969,Witzhave,Rosenweg,3,,53.57253628,10.34064055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzO,22969,Witzhave,Rosenweg,4,,53.57279371,10.34095452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzP,22969,Witzhave,Rosenweg,5,,53.57272917,10.34060679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzQ,22969,Witzhave,Rosenweg,6,,53.57305873,10.34105512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzR,22969,Witzhave,Rosenweg,8,,53.57332462,10.34118654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzS,22969,Witzhave,Am Roggenhof,1,,53.56620975,10.33307255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzT,22969,Witzhave,Am Roggenhof,2,,53.56647939,10.33213624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzU,22969,Witzhave,Am Roggenhof,3,,53.56504825,10.3347586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzV,22969,Witzhave,Am Roggenhof,4,,53.56626994,10.33236054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzW,22969,Witzhave,Am Roggenhof,6,,53.56591296,10.33286682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzX,22969,Witzhave,Am Roggenhof,8,,53.56580053,10.33301948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzY,22969,Witzhave,Auf dem Heidlande,1,,53.57495276,10.34075065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000LtzZ,22969,Witzhave,Auf dem Heidlande,1,a,53.57492158,10.34075583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltza,22969,Witzhave,Rausdorfer Weg,9,,53.57423905,10.34140209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzb,22969,Witzhave,Rausdorfer Weg,9,a,53.57429844,10.34139497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzc,22969,Witzhave,Gut Heinrichshof,10,,53.5806767,10.3367682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzd,22969,Witzhave,Gut Heinrichshof,12,,53.58150388,10.33881651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltze,22969,Witzhave,Gut Heinrichshof,4,,53.57812782,10.3363393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzf,22969,Witzhave,Gut Heinrichshof,7,,53.58057062,10.33509306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzg,22969,Witzhave,Gut Heinrichshof,8,,53.58087937,10.33435417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzh,22969,Witzhave,Gut Heinrichshof,8,a,53.5811265,10.33439208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzi,22969,Witzhave,Gut Heinrichshof,9,a,53.58243631,10.3352557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzj,22969,Witzhave,Lindenstraße,1,,53.56834027,10.33284709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzk,22969,Witzhave,Lindenstraße,11,,53.56779842,10.33161592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzl,22969,Witzhave,Lindenstraße,13,,53.56765095,10.33134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzm,22969,Witzhave,Lindenstraße,2,,53.5684152,10.33231058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzn,22969,Witzhave,Lindenstraße,3,,53.56823811,10.33254115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzo,22969,Witzhave,Lindenstraße,5,,53.5681297,10.33232121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzp,22969,Witzhave,Lindenstraße,7,,53.56802121,10.33207307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzq,22969,Witzhave,Lindenstraße,9,,53.56790447,10.33182953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzr,22969,Witzhave,Rotdornweg,1,,53.56789948,10.33109849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzs,22969,Witzhave,Rotdornweg,3,,53.56806197,10.3308778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzt,22969,Witzhave,Rotdornweg,4,,53.56823017,10.33118835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzu,22969,Witzhave,Rotdornweg,5,,53.56817736,10.33062721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzv,22969,Witzhave,Rotdornweg,6,,53.56840694,10.33104125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzw,22969,Witzhave,Tannenweg,1,,53.56832596,10.33190701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzx,22969,Witzhave,Tannenweg,3,,53.56845067,10.33173523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzy,22969,Witzhave,Tannenweg,4,,53.56864293,10.33210834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0000Ltzz,22969,Witzhave,Tannenweg,5,,53.56862604,10.33155972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6A0,22969,Witzhave,Hauskoppel,68,,53.56899545,10.33882628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6A9,22969,Witzhave,Hauskoppel,66,,53.5691166,10.33926709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6AE,22969,Witzhave,Hauskoppel,76,,53.56892722,10.33963245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6AH,22969,Witzhave,Hauskoppel,60,,53.56932426,10.3402158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6AO,22969,Witzhave,Hauskoppel,78,,53.56898628,10.33987287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6AY,22969,Witzhave,Hauskoppel,80,,53.56901571,10.33999325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Aa,22969,Witzhave,Hauskoppel,70,,53.56877882,10.33904644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6An,22969,Witzhave,Hauskoppel,64,,53.5692083,10.33952445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Aq,22969,Witzhave,Hauskoppel,74,,53.56882968,10.33940143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Ax,22969,Witzhave,Hauskoppel,62,,53.56921023,10.33992815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6B4,22969,Witzhave,Hauskoppel,82,,53.56907713,10.34026438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6B9,22969,Witzhave,Hauskoppel,84,,53.56913887,10.34053568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6BN,22969,Witzhave,Hauskoppel,56,,53.56959618,10.34044556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Ba,22969,Witzhave,Hauskoppel,55,,53.56975229,10.34104833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Bk,22969,Witzhave,Hauskoppel,58,,53.56938192,10.3405925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Bn,22969,Witzhave,Hauskoppel,86,,53.56919933,10.34083217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6By,22969,Witzhave,Hauskoppel,57,,53.56953802,10.34119567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6C4,22969,Witzhave,Hauskoppel,59,,53.56967504,10.34160521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6CQ,22969,Witzhave,Hauskoppel,71,,53.56940048,10.34162473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Ca,22969,Witzhave,Hauskoppel,69,,53.56946778,10.34183072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6DA,22969,Witzhave,Hauskoppel,49,,53.57003105,10.34169186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6DJ,22969,Witzhave,Hauskoppel,41,,53.57025528,10.34134163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Dw,22969,Witzhave,Hauskoppel,39,,53.57018899,10.34106973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Dx,22969,Witzhave,Hauskoppel,51,,53.56996289,10.34143508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6Ei,22969,Witzhave,Hauskoppel,45,,53.57040389,10.3419953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6IA,22969,Witzhave,Hauskoppel,72,,53.56848294,10.33929011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6y0,22969,Witzhave,Hauskoppel,44,,53.56978588,10.33920653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6y7,22969,Witzhave,Hauskoppel,42,,53.56975286,10.33959621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6yK,22969,Witzhave,Hauskoppel,37,,53.57014619,10.34074719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6yc,22969,Witzhave,Hauskoppel,40,,53.56982701,10.33989954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6ym,22969,Witzhave,Hauskoppel,38,,53.57003729,10.34031045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zA,22969,Witzhave,Hauskoppel,50,,53.56949388,10.33944759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zB,22969,Witzhave,Hauskoppel,52,,53.56965517,10.33997913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zo,22969,Witzhave,Hauskoppel,46,,53.56963323,10.33888167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zx,22969,Witzhave,Hauskoppel,54,,53.56981925,10.3403875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zy,22969,Witzhave,Hauskoppel,53,,53.56993221,10.34084859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004N6zz,22969,Witzhave,Hauskoppel,48,,53.56940749,10.33912601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V31b,22969,Witzhave,Hauskoppel,67,b,53.56952413,10.34205981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004V31f,22969,Witzhave,Hauskoppel,67,a,53.56955124,10.3421716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004WWD1,22969,Witzhave,Hauskoppel,61,,53.5697018,10.34195167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005639g,22969,Witzhave,Hauskoppel,63,,53.56981883,10.34230383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Dngt,22969,Witzhave,Auf dem Heidlande,16,a,53.57488032,10.33888573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Nq2e,22969,Witzhave,Hauskoppel,47,a,53.57013691,10.3421516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Nq2f,22969,Witzhave,Hauskoppel,47,b,53.5701147,10.34206105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005QV82,22969,Witzhave,Hauskoppel,72,a,53.56844793,10.33908719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Qlut,22969,Witzhave,Hauskoppel,65,a,53.5696267,10.34247897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Qluu,22969,Witzhave,Hauskoppel,65,b,53.5695994,10.34236735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005SZaK,22969,Witzhave,Hauskoppel,50,a,53.56952244,10.33957002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T6yL,22969,Witzhave,Poststraße,10,a,53.56897952,10.3382681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z215,22969,Witzhave,Hauskoppel,73,a,53.56933621,10.34134287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z216,22969,Witzhave,Hauskoppel,73,b,53.56930438,10.34121288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oyQg,22969,Witzhave,Hauskoppel,43,a,53.57032936,10.34157263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oyQh,22969,Witzhave,Hauskoppel,43,b,53.57035717,10.34169236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005zott,22969,Witzhave,Am Jahrensberg,2,,53.56990081,10.33164962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00069jMx,22969,Witzhave,Feldstraße,1,a,53.57367594,10.33829139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ffMA,22969,Witzhave,Gartenstraße,13,a,53.57276845,10.33944482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ffMB,22969,Witzhave,Gartenstraße,13,b,53.57276652,10.33929882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006iV3p,22969,Witzhave,Möllner Landstraße,8,c,53.56791733,10.33846739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006jshY,22969,Witzhave,Feldstraße,4,b,53.57355699,10.3404271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sEJW,22969,Witzhave,Möllner Landstraße,6,,53.56808161,10.3397247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nvRJ,22969,Witzhave,Poststraße,2,a,53.56815116,10.33830874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nvRK,22969,Witzhave,Poststraße,2,b,53.56820412,10.33841482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007nvRL,22969,Witzhave,Poststraße,2,c,53.56825823,10.33853585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008lL23,22969,Witzhave,Poststraße,18,a,53.56997553,10.33743802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008m1ns,22969,Witzhave,Kirchenstraße,22,b,53.57164298,10.33269544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008m1nx,22969,Witzhave,Kirchenstraße,22,a,53.57140411,10.3325508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sbMW,22969,Witzhave,Katerstieg,36,,53.57064799,10.33283583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sbMZ,22969,Witzhave,Kirchenstraße,20,c,53.57104658,10.33280642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sbN1,22969,Witzhave,Kirchenstraße,20,b,53.57103072,10.33266538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sbN3,22969,Witzhave,Kirchenstraße,20,a,53.57086483,10.33271626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sbN5,22969,Witzhave,Katerstieg,34,,53.57073835,10.3331322

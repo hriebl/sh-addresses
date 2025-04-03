@@ -1,0 +1,29 @@
+# Amtliche Adressen für die Postleitzahl 24785
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjep,24785,Fockbek,Hohndoor,42,,54.30351666,9.58138992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjer,24785,Fockbek,Hohndoor,43,,54.30313499,9.58232752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjet,24785,Fockbek,Hohndoor,44,,54.30333428,9.5817393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjev,24785,Fockbek,Hohndoor,45,,54.30296763,9.58273963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjex,24785,Fockbek,Hohndoor,46,,54.30306118,9.58185432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Gjez,24785,Fockbek,Hohndoor,47,,54.3029634,9.5821468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077yo0,24785,Fockbek,Hohndoor,16,a,54.30447705,9.58314208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078AtG,24785,Fockbek,Hohndoor,37,a,54.30325112,9.58323411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cdUV,24785,Fockbek,Hohndoor,19,a,54.30419496,9.58337708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007e44I,24785,Fockbek,Hohndoor,13,a,54.30440535,9.58421063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007e44N,24785,Fockbek,Hohndoor,39,a,54.30339574,9.58241148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007exsi,24785,Fockbek,Hohndoor,30,a,54.30396105,9.58210154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jMlA,24785,Fockbek,Hohndoor,26,a,54.30403392,9.58267536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007kndY,24785,Fockbek,Hohndoor,44,a,54.30329348,9.58185795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lE4b,24785,Fockbek,Hohndoor,12,a,54.30465251,9.58333745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lLMF,24785,Fockbek,Hohndoor,43,a,54.30317258,9.58221064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lLMK,24785,Fockbek,Hohndoor,15,a,54.30431898,9.5838452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007maa6,24785,Fockbek,Hohndoor,5,a,54.30466623,9.58463866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007s8td,24785,Fockbek,Hohndoor,28,a,54.30381201,9.58241423

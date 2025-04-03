@@ -1,0 +1,924 @@
+# Amtliche Adressen für die Postleitzahl 24994
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaQ,24994,Weesby,Ackerlücke,2,,54.84744747,9.17060864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaR,24994,Weesby,Ackerlücke,4,,54.84726424,9.17177634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaS,24994,Weesby,Dorfstraße,1,,54.84000637,9.18140495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaT,24994,Weesby,Dorfstraße,2,,54.84051829,9.1818319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaU,24994,Weesby,Dorfstraße,3,,54.84021778,9.18361418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaV,24994,Weesby,Dorfstraße,4,,54.84063439,9.18265492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaW,24994,Weesby,Dorfstraße,5,,54.84114356,9.18647371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaX,24994,Weesby,Dorfstraße,6,,54.84135992,9.18520652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaY,24994,Weesby,Erlenweg,1,a,54.85115162,9.18679634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NlaZ,24994,Weesby,Erlenweg,1,b,54.85133032,9.18683209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb2,24994,Weesby,Grenzauweg,1,,54.85695936,9.17530732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb3,24994,Weesby,Grenzauweg,2,,54.85664904,9.17580471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb4,24994,Weesby,Grenzauweg,3,,54.85837119,9.17604382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb5,24994,Weesby,Grenzauweg,4,,54.85765722,9.17628123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb6,24994,Weesby,Grenzstraße,1,,54.85701917,9.17137409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb7,24994,Weesby,Hauptstraße,1,,54.83826216,9.1789019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb8,24994,Weesby,Hauptstraße,3,,54.83934968,9.17999072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlb9,24994,Weesby,Hauptstraße,5,,54.83966875,9.1803908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlba,24994,Weesby,Hauptstraße,6,,54.84010164,9.18001707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbb,24994,Weesby,Hauptstraße,7,,54.84079003,9.18117062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbc,24994,Weesby,Hauptstraße,8,,54.84116012,9.18085423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbd,24994,Weesby,Hauptstraße,9,,54.84102611,9.18132558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbe,24994,Weesby,Heideweg,1,,54.83710719,9.18265982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbf,24994,Weesby,Tannenweg,1,,54.83682648,9.17975426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbg,24994,Weesby,Tannenweg,2,,54.83704467,9.17943375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbh,24994,Weesby,Tannenweg,3,,54.83757367,9.18229102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbi,24994,Weesby,Tannenweg,4,,54.83754556,9.18170044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbj,24994,Weesby,Tannenweg,5,,54.83802193,9.18257755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Nlbk,24994,Weesby,Tannenweg,7,,54.83838952,9.18272344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGA,24994,Weesby,Bergstraße,2,,54.81025465,9.14532331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGB,24994,Weesby,Bergstraße,3,,54.81337661,9.11423894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGC,24994,Weesby,Bergstraße,4,,54.81048763,9.14457491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGD,24994,Weesby,Bergstraße,6,,54.81200764,9.11806422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGE,24994,Weesby,Bergstraße,8,,54.81334957,9.11569165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGF,24994,Weesby,Horsbecker Weg,1,,54.79701828,9.142663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGG,24994,Weesby,Horsbecker Weg,1,a,54.79677649,9.1435936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGH,24994,Weesby,Horsbecker Weg,10,,54.78787991,9.15391469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGI,24994,Weesby,Horsbecker Weg,2,,54.80204545,9.13502968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGJ,24994,Weesby,Horsbecker Weg,3,,54.78980145,9.15469964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGK,24994,Weesby,Horsbecker Weg,3,a,54.78978757,9.1544749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGL,24994,Weesby,Horsbecker Weg,3,d,54.78976909,9.15497513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGM,24994,Weesby,Horsbecker Weg,4,,54.80001791,9.13450122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGN,24994,Weesby,Horsbecker Weg,4,a,54.79925276,9.1342914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGO,24994,Weesby,Horsbecker Weg,5,,54.78809014,9.15471287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGP,24994,Weesby,Horsbecker Weg,6,,54.79679504,9.14200496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGQ,24994,Weesby,Horsbecker Weg,8,,54.79512147,9.14724397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGR,24994,Weesby,Heideweg,1,,54.7929993,9.12650797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGS,24994,Weesby,Heideweg,2,,54.79657387,9.13346642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGT,24994,Weesby,Dorfstraße,1,,54.80962121,9.1479972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGU,24994,Weesby,Dorfstraße,2,,54.80968046,9.14682344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGV,24994,Weesby,Dorfstraße,3,,54.80930574,9.14652919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGW,24994,Weesby,Dorfstraße,5,,54.80939256,9.14611061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGX,24994,Weesby,Hauptstraße,1,,54.8103445,9.14997472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGY,24994,Weesby,Hauptstraße,2,,54.81091544,9.15075513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGZ,24994,Weesby,Hauptstraße,3,,54.81025883,9.14936524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGi,24994,Weesby,Abroer Weg,1,,54.81656852,9.1523567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGj,24994,Weesby,Abroer Weg,11,,54.81771171,9.14425568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGk,24994,Weesby,Abroer Weg,12,,54.81904115,9.1244491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGl,24994,Weesby,Abroer Weg,13,,54.81759999,9.1398786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGm,24994,Weesby,Abroer Weg,14,,54.82054805,9.11475802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGn,24994,Weesby,Abroer Weg,15,,54.81757817,9.13046669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGo,24994,Weesby,Abroer Weg,16,,54.82089466,9.10420196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGp,24994,Weesby,Abroer Weg,17,,54.81917091,9.12102928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGq,24994,Weesby,Abroer Weg,18,,54.82216819,9.09606961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGr,24994,Weesby,Abroer Weg,19,,54.81996867,9.1070552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGs,24994,Weesby,Abroer Weg,21,,54.82010382,9.10655472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGt,24994,Weesby,Abroer Weg,23,,54.81773085,9.10299586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGu,24994,Weesby,Abroer Weg,25,,54.82036676,9.10331499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGv,24994,Weesby,Abroer Weg,3,,54.81661181,9.15182955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGw,24994,Weesby,Abroer Weg,5,,54.81665228,9.151286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGx,24994,Weesby,Abroer Weg,7,,54.81670428,9.15072946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGy,24994,Weesby,Abroer Weg,9,,54.81717821,9.14819799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnGz,24994,Weesby,Bergstraße,1,,54.81238517,9.11603431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH0,24994,Weesby,Hauptstraße,4,,54.81080657,9.14919986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH1,24994,Weesby,Hauptstraße,5,,54.80540544,9.1251505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH2,24994,Weesby,Hauptstraße,6,,54.80943897,9.14421156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH3,24994,Weesby,Hauptstraße,7,,54.8019806,9.11853226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH4,24994,Weesby,Hauptstraße,8,,54.8027116,9.11833836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH5,24994,Weesby,Mayweg,1,,54.80868995,9.14621598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH6,24994,Weesby,Schmiedeweg,1,,54.81086242,9.14624357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH7,24994,Weesby,Schmiedeweg,1,a,54.81065234,9.1461844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH8,24994,Weesby,Schmiedeweg,3,,54.81462961,9.14040471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnH9,24994,Weesby,Schmiedeweg,5,,54.81527222,9.14062362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnHa,24994,Weesby,Postgasse,1,,54.810062,9.14749977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnHb,24994,Weesby,Postgasse,2,,54.80993012,9.14772883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NnHc,24994,Weesby,Postgasse,2,a,54.81019699,9.14773738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2C,24994,Weesby,Allverdensweg,1,,54.84779569,9.22852677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2D,24994,Weesby,Alte Dorfstraße,1,,54.82412023,9.19974612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2E,24994,Weesby,Alte Dorfstraße,10,,54.82708109,9.20047103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2F,24994,Weesby,Alte Dorfstraße,12,,54.8274286,9.20039662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2G,24994,Weesby,Alte Dorfstraße,2,,54.8255657,9.20135865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2H,24994,Weesby,Alte Dorfstraße,2,a,54.82569005,9.20196173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2I,24994,Weesby,Alte Dorfstraße,2,b,54.82574674,9.20209942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2J,24994,Weesby,Alte Dorfstraße,2,c,54.82588662,9.20172345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2K,24994,Weesby,Alte Dorfstraße,2,d,54.82594221,9.20185753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2L,24994,Weesby,Alte Dorfstraße,3,,54.82449043,9.20032677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2M,24994,Weesby,Alte Dorfstraße,4,,54.82603355,9.20097228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2N,24994,Weesby,Alte Dorfstraße,5,,54.82523551,9.20066392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2O,24994,Weesby,Alte Dorfstraße,6,,54.82642132,9.20079632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2P,24994,Weesby,Alte Dorfstraße,7,,54.82658821,9.2003789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2Q,24994,Weesby,Alte Dorfstraße,8,,54.82674615,9.20073357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2R,24994,Weesby,Alte Freiheit,1,,54.83376645,9.21232376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2S,24994,Weesby,Kupfermühlenweg,1,,54.82503136,9.20237778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2T,24994,Weesby,Kupfermühlenweg,10,,54.82484521,9.20449731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2U,24994,Weesby,Kupfermühlenweg,2,,54.82381427,9.20178439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2V,24994,Weesby,Kupfermühlenweg,2,a,54.82527436,9.20255577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2W,24994,Weesby,Kupfermühlenweg,3,,54.82516587,9.2042651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2X,24994,Weesby,Kupfermühlenweg,4,,54.82441161,9.20161462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2Y,24994,Weesby,Kupfermühlenweg,6,,54.8244471,9.20278897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No2Z,24994,Weesby,Kupfermühlenweg,8,,54.82471602,9.20342419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No30,24994,Weesby,Alter Moorweg,1,,54.82549279,9.2028405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No31,24994,Weesby,Alter Moorweg,2,,54.82374691,9.20514485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No32,24994,Weesby,Alter Moorweg,3,,54.82531665,9.20319865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No33,24994,Weesby,Alter Moorweg,4,,54.8207763,9.21214116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No34,24994,Weesby,Alter Moorweg,5,,54.82519019,9.20334428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No35,24994,Weesby,Alter Moorweg,6,,54.81834671,9.22334221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No36,24994,Weesby,Alter Moorweg,7,,54.82501195,9.2035796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No37,24994,Weesby,Am Teich,1,,54.82606151,9.20036731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No38,24994,Weesby,Am Teich,3,,54.82563737,9.19829976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No39,24994,Weesby,Dorflücke,1,,54.82620952,9.19610074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3A,24994,Weesby,Norderfeld,5,,54.83410417,9.19758789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3B,24994,Weesby,Norderfeld,6,,54.84021266,9.19697244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3C,24994,Weesby,Norderfeld,7,,54.83546821,9.19728226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3D,24994,Weesby,Norderfeld,8,,54.84169115,9.19682781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3E,24994,Weesby,Norderfeld,9,,54.83721492,9.19690569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3F,24994,Weesby,Ostersteenberg,1,,54.83680564,9.20499389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3G,24994,Weesby,Ostersteenberg,3,,54.83695799,9.20525849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3H,24994,Weesby,Tannenweg,1,,54.81301614,9.2248819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3I,24994,Weesby,Waldweg,1,,54.81745251,9.21071042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3J,24994,Weesby,Westring,1,,54.82640684,9.19693776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3K,24994,Weesby,Westring,2,,54.82515593,9.19869425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3L,24994,Weesby,Westring,3,,54.82648691,9.19685879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3M,24994,Weesby,Westring,4,,54.8261797,9.19746482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3N,24994,Weesby,Westring,5,,54.82812286,9.19701985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3O,24994,Weesby,Westring,6,,54.8265769,9.1975414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3P,24994,Weesby,Zur alten Schule,1,,54.82667566,9.19845341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3Q,24994,Weesby,Zur alten Schule,2,,54.82660347,9.19906207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3R,24994,Weesby,Zur alten Schule,2,a,54.82666681,9.19932588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3S,24994,Weesby,Zur alten Schule,3,,54.82691288,9.19862048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3T,24994,Weesby,Zur alten Schule,4,,54.82704096,9.19891965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3U,24994,Weesby,Zur Fehle,1,,54.8399382,9.23002047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3V,24994,Weesby,Zur Fehle,10,,54.84916608,9.24008184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3W,24994,Weesby,Zur Fehle,2,,54.83117845,9.21878655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3X,24994,Weesby,Zur Fehle,3,,54.84612739,9.23626865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3Y,24994,Weesby,Zur Fehle,4,,54.83368688,9.22355448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3Z,24994,Weesby,Zur Fehle,5,,54.84935731,9.23954306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3a,24994,Weesby,Eichenweg,1,,54.84092167,9.2002829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3b,24994,Weesby,Eichenweg,3,,54.84078315,9.20081805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3c,24994,Weesby,Erlenweg,2,,54.84210374,9.18772717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3d,24994,Weesby,Erlenweg,4,,54.85486157,9.1881022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3e,24994,Weesby,Grenzstraße,2,,54.81612266,9.22600209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3f,24994,Weesby,Grenzstraße,3,,54.85139743,9.19099469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3g,24994,Weesby,Grenzstraße,5,,54.83814576,9.21263386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3h,24994,Weesby,Grenzstraße,5,a,54.83772111,9.21295402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3i,24994,Weesby,Grenzstraße,7,,54.82413023,9.22131883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3j,24994,Weesby,Hauptstraße,1,,54.82315376,9.19550679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3k,24994,Weesby,Hauptstraße,2,,54.82969786,9.21133542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3l,24994,Weesby,Hauptstraße,3,,54.82504347,9.1999394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3m,24994,Weesby,Heideweg,1,,54.84193802,9.21114322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3n,24994,Weesby,Heideweg,2,,54.84128443,9.21138292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3o,24994,Weesby,Kätnerweg,52,,54.81224873,9.22268934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3p,24994,Weesby,Kätnerweg,52,a,54.81228721,9.22286538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3q,24994,Weesby,Kätnerweg,54,,54.81209034,9.2211874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3r,24994,Weesby,Kätnerweg,56,,54.8119212,9.21809905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3s,24994,Weesby,Kätnerweg,58,,54.81105558,9.20852644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3t,24994,Weesby,Kolonistenweg,1,,54.84163995,9.18790703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3u,24994,Weesby,Kolonistenweg,2,,54.84265507,9.19383173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3v,24994,Weesby,Kolonistenweg,4,,54.84236698,9.19140798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3w,24994,Weesby,Norderfeld,1,,54.83224488,9.19801931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3x,24994,Weesby,Norderfeld,2,,54.83211205,9.19867926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3y,24994,Weesby,Norderfeld,3,,54.83316602,9.19803611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No3z,24994,Weesby,Norderfeld,4,,54.83251379,9.19859639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No40,24994,Weesby,Zur Fehle,6,,54.83748199,9.22709135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No41,24994,Weesby,Zur Fehle,7,,54.84988974,9.2398954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No42,24994,Weesby,Zur Fehle,8,,54.84078444,9.23252945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No43,24994,Weesby,Zur Fehle,8,a,54.84052715,9.23181971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No44,24994,Weesby,Zur Mjön,1,,54.8236834,9.20003066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No45,24994,Weesby,Zur Mjön,1,a,54.82361525,9.20006224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No46,24994,Weesby,Zur Mjön,1,b,54.82354723,9.20009397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No47,24994,Weesby,Zur Mjön,2,,54.82401439,9.1994249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No48,24994,Weesby,Zur Mjön,2,a,54.82428962,9.19901135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No49,24994,Weesby,Zur Mjön,3,,54.81194583,9.20750165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No4a,24994,Weesby,Zur Mjön,4,,54.82349606,9.19972591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No4b,24994,Weesby,Zur Mjön,4,a,54.82377778,9.19961113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002No4c,24994,Weesby,Zur Mjön,6,,54.81148299,9.20735448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHN,24994,Weesby,Sonnenhügel,1,,54.81492862,9.16385785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHO,24994,Weesby,Kuhlacker,4,,54.81431508,9.16921393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHP,24994,Weesby,Kuhlacker,5,,54.8141802,9.16956671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHQ,24994,Weesby,Kuhlacker,7,,54.8145762,9.1696742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHR,24994,Weesby,Kuhlacker,8,,54.81462603,9.16929979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHS,24994,Weesby,Kuhlacker,9,,54.81460952,9.16890546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHT,24994,Weesby,Abroer Weg,2,,54.81565333,9.15858991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHU,24994,Weesby,Abroer Weg,4,,54.81681332,9.1565684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHV,24994,Weesby,Achter de Möhl,1,,54.8103043,9.17771382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHW,24994,Weesby,Achter de Möhl,10,,54.81069674,9.17582814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHX,24994,Weesby,Achter de Möhl,11,,54.81039759,9.17590627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHY,24994,Weesby,Achter de Möhl,12,,54.81105468,9.17590382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoHZ,24994,Weesby,Achter de Möhl,13,,54.81041144,9.17551454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI0,24994,Weesby,Achter de Möhl,14,,54.81109485,9.17549199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI1,24994,Weesby,Achter de Möhl,15,,54.81042807,9.17522065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI2,24994,Weesby,Achter de Möhl,16,,54.81065555,9.17552897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI3,24994,Weesby,Achter de Möhl,16,a,54.81074085,9.17554082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI4,24994,Weesby,Achter de Möhl,17,,54.81043835,9.17489094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI5,24994,Weesby,Achter de Möhl,18,,54.81077326,9.17518402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI6,24994,Weesby,Achter de Möhl,19,,54.81038313,9.17455126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI7,24994,Weesby,Achter de Möhl,20,,54.81083159,9.17483599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI8,24994,Weesby,Achter de Möhl,21,,54.81065062,9.1746618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoI9,24994,Weesby,Achter de Möhl,3,a,54.81026933,9.17730556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIA,24994,Weesby,Am Sandberg,3,,54.81156694,9.17156537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIB,24994,Weesby,Am Sandberg,3,a,54.81131846,9.17132494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIC,24994,Weesby,Am Sandberg,4,,54.81181395,9.1714045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoID,24994,Weesby,Am Sandberg,5,,54.81149239,9.17094244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIE,24994,Weesby,Am Sandberg,6,,54.8117347,9.17065616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIF,24994,Weesby,Am Sandberg,7,,54.81150103,9.17039549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIG,24994,Weesby,Am Sandberg,8,,54.81182064,9.16965513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIH,24994,Weesby,Am Sandberg,9,,54.81157294,9.16991097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoII,24994,Weesby,Am Sportplatz,1,,54.8133236,9.16722186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIJ,24994,Weesby,Am Sportplatz,10,,54.81238396,9.166629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIK,24994,Weesby,Am Sportplatz,11,,54.81227647,9.16713558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIL,24994,Weesby,Am Sportplatz,12,,54.8121957,9.16664399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIM,24994,Weesby,Am Sportplatz,13,,54.81208163,9.16722739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIN,24994,Weesby,Am Sportplatz,14,,54.81199153,9.16676238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIP,24994,Weesby,Am Sportplatz,2,,54.81330155,9.16668845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIQ,24994,Weesby,Am Sportplatz,3,,54.81314888,9.16712969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIR,24994,Weesby,Am Sportplatz,4,,54.81306906,9.16663457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIS,24994,Weesby,Am Sportplatz,5,,54.81284663,9.16708897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIT,24994,Weesby,Am Sportplatz,6,,54.81285944,9.16658588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIU,24994,Weesby,Am Sportplatz,7,,54.81268493,9.16706473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIV,24994,Weesby,Am Sportplatz,8,,54.81263988,9.16656747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIW,24994,Weesby,Am Sportplatz,9,,54.81247282,9.16708589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIX,24994,Weesby,Am Stangacker,1,,54.81233012,9.18088531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIY,24994,Weesby,Am Stangacker,11,,54.81340043,9.18097134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIZ,24994,Weesby,Am Stangacker,13,,54.81363063,9.18098843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIa,24994,Weesby,Achter de Möhl,3,b,54.81029454,9.17717832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIb,24994,Weesby,Achter de Möhl,3,c,54.81031993,9.17704653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIc,24994,Weesby,Achter de Möhl,4,,54.81061649,9.17696094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoId,24994,Weesby,Achter de Möhl,6,,54.81059557,9.17666085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIe,24994,Weesby,Achter de Möhl,7,,54.81036357,9.17670726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIf,24994,Weesby,Achter de Möhl,9,,54.81035141,9.1763075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIg,24994,Weesby,Alte Marktstraße,2,,54.81267686,9.17514309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIh,24994,Weesby,Alte Marktstraße,4,,54.81321411,9.17589597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIi,24994,Weesby,Alte Marktstraße,5,,54.81369587,9.17580375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIj,24994,Weesby,Alte Marktstraße,5,a,54.81404303,9.17606594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIk,24994,Weesby,Alte Marktstraße,8,,54.81446899,9.17757033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIl,24994,Weesby,Am Sandberg,1,,54.81186901,9.17216921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIm,24994,Weesby,Am Sandberg,10,,54.81182461,9.16924622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIn,24994,Weesby,Am Sandberg,11,,54.81155862,9.1692264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIo,24994,Weesby,Am Sandberg,12,,54.81182523,9.16892559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIp,24994,Weesby,Am Sandberg,13,,54.81150432,9.16869996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIq,24994,Weesby,Am Sandberg,14,,54.81183159,9.16847466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIr,24994,Weesby,Am Sandberg,15,,54.81156321,9.16841119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIs,24994,Weesby,Am Sandberg,16,,54.81188448,9.16810479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIt,24994,Weesby,Am Sandberg,17,,54.8115909,9.16777533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIu,24994,Weesby,Am Sandberg,18,,54.81183877,9.16779195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIv,24994,Weesby,Am Sandberg,19,,54.81173471,9.16644124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIw,24994,Weesby,Am Sandberg,2,,54.81180783,9.17184785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIx,24994,Weesby,Am Sandberg,21,,54.81150211,9.16517844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIy,24994,Weesby,Am Sandberg,22,,54.81200938,9.16627999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoIz,24994,Weesby,Am Sandberg,23,,54.81156338,9.16427479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ0,24994,Weesby,Am Stangacker,2,a,54.81238256,9.18053235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ1,24994,Weesby,Am Stangacker,2,b,54.81245801,9.18053693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ2,24994,Weesby,Am Stangacker,3,,54.81258313,9.18096425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ3,24994,Weesby,Am Stangacker,4,,54.81263144,9.18049782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ4,24994,Weesby,Am Stangacker,5,,54.81285255,9.18100665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ5,24994,Weesby,Am Stangacker,6,,54.812865,9.18055151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ6,24994,Weesby,Am Stangacker,7,,54.81304115,9.18102281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ7,24994,Weesby,Am Stangacker,9,,54.8132335,9.18098687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ8,24994,Weesby,Grüner Weg,1,,54.8117835,9.17900332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJ9,24994,Weesby,Grüner Weg,10,,54.81302368,9.17864611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJA,24994,Weesby,Hauptstraße,21,,54.81386063,9.16879229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJB,24994,Weesby,Hauptstraße,23,,54.81383079,9.16919824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJC,24994,Weesby,Hauptstraße,24,,54.81330667,9.17106175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJD,24994,Weesby,Hauptstraße,25,,54.81378058,9.16951849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJE,24994,Weesby,Hauptstraße,26,,54.81308958,9.17163652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJF,24994,Weesby,Hauptstraße,27,,54.81366034,9.17043059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJG,24994,Weesby,Hauptstraße,28,,54.81287257,9.17221997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJI,24994,Weesby,Hauptstraße,29,,54.81366656,9.17076184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJJ,24994,Weesby,Hauptstraße,3,,54.81413162,9.16515156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJK,24994,Weesby,Hauptstraße,3,a,54.81405102,9.16541429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJL,24994,Weesby,Hauptstraße,31,,54.81357173,9.17106592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJM,24994,Weesby,Hauptstraße,32,,54.8125728,9.17318516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJN,24994,Weesby,Hauptstraße,33,,54.81358347,9.17143986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJO,24994,Weesby,Hauptstraße,34,,54.81242938,9.17372311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJP,24994,Weesby,Hauptstraße,35,,54.81326378,9.17202151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJQ,24994,Weesby,Hauptstraße,37,,54.81298022,9.17271567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJR,24994,Weesby,Hauptstraße,39,,54.81279987,9.17327694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJS,24994,Weesby,Hauptstraße,4,,54.81330581,9.16491019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJT,24994,Weesby,Hauptstraße,40,,54.81213593,9.17487164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJU,24994,Weesby,Hauptstraße,42,,54.81202919,9.17516185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJV,24994,Weesby,Hauptstraße,44,,54.81165506,9.17590906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJW,24994,Weesby,Hauptstraße,45,,54.81243362,9.17451372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJX,24994,Weesby,Hauptstraße,46,,54.81159862,9.17621226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJY,24994,Weesby,Hauptstraße,47,,54.81238354,9.17495921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJZ,24994,Weesby,Hauptstraße,48,,54.81147267,9.17639771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJa,24994,Weesby,Grüner Weg,10,a,54.81358734,9.17813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJb,24994,Weesby,Grüner Weg,11,,54.81344062,9.17893373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJc,24994,Weesby,Grüner Weg,12,,54.81378483,9.17791581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJd,24994,Weesby,Grüner Weg,12,a,54.81392054,9.17747739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJe,24994,Weesby,Grüner Weg,13,,54.81376301,9.17831461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJf,24994,Weesby,Grüner Weg,14,,54.81397715,9.17709213
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJg,24994,Weesby,Grüner Weg,15,,54.81394264,9.17813468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJh,24994,Weesby,Grüner Weg,17,,54.81407176,9.1778481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJi,24994,Weesby,Grüner Weg,3,,54.81197715,9.17916278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJj,24994,Weesby,Grüner Weg,4,,54.8118883,9.17953472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJk,24994,Weesby,Grüner Weg,6,,54.81219325,9.17963761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJl,24994,Weesby,Grüner Weg,9,,54.81282189,9.17971717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJm,24994,Weesby,Hauptstraße,1,,54.81421407,9.16436102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJn,24994,Weesby,Hauptstraße,1,a,54.81413249,9.16482658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJo,24994,Weesby,Hauptstraße,10,,54.81354285,9.16737153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJp,24994,Weesby,Hauptstraße,11,,54.81401477,9.16668516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJq,24994,Weesby,Hauptstraße,12,,54.81354769,9.16769351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJr,24994,Weesby,Hauptstraße,13,,54.81399272,9.16696366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJs,24994,Weesby,Hauptstraße,14,,54.813489,9.16807275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJt,24994,Weesby,Hauptstraße,15,,54.81397183,9.16725292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJu,24994,Weesby,Hauptstraße,16,,54.81347345,9.1683107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJv,24994,Weesby,Hauptstraße,17,,54.81393917,9.16769307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJw,24994,Weesby,Hauptstraße,18,,54.81347446,9.16912451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJx,24994,Weesby,Hauptstraße,19,,54.81388391,9.16842217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJy,24994,Weesby,Hauptstraße,2,,54.8134461,9.16375853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoJz,24994,Weesby,Hauptstraße,20,,54.81339209,9.17009452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK0,24994,Weesby,Hauptstraße,49,,54.81216971,9.1754894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK1,24994,Weesby,Hauptstraße,5,,54.81408724,9.16573225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK2,24994,Weesby,Hauptstraße,50,,54.81103841,9.17666088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK3,24994,Weesby,Hauptstraße,51,,54.81212993,9.17584704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK4,24994,Weesby,Hauptstraße,52,,54.81134017,9.17727384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK5,24994,Weesby,Hauptstraße,52,a,54.81101547,9.17698999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK6,24994,Weesby,Hauptstraße,53,,54.81164355,9.17666931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK7,24994,Weesby,Hauptstraße,54,,54.8109608,9.17769647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK8,24994,Weesby,Hauptstraße,55,,54.81171228,9.17712539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoK9,24994,Weesby,Hauptstraße,57,,54.8117064,9.17774932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKA,24994,Weesby,Lückepott,4,,54.81258851,9.1691659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKB,24994,Weesby,Lückepott,5,,54.81231818,9.16902218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKC,24994,Weesby,Lückepott,6,,54.81268017,9.1687905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKD,24994,Weesby,Lückepott,7,,54.81239338,9.16863588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKE,24994,Weesby,Lückepott,8,,54.8127863,9.16849399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKF,24994,Weesby,Lückepott,9,,54.81261349,9.16790335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKG,24994,Weesby,Mühlenstraße,1,,54.81086566,9.17839753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKH,24994,Weesby,Mühlenstraße,118,,54.79362672,9.16785348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKI,24994,Weesby,Mühlenstraße,2,,54.81075547,9.17715646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKJ,24994,Weesby,Mühlenstraße,3,,54.81059153,9.17841748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKK,24994,Weesby,Mühlenstraße,3,a,54.81055967,9.17895841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKL,24994,Weesby,Mühlenstraße,4,,54.81060222,9.17784797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKM,24994,Weesby,Mühlenstraße,5,,54.81031503,9.17836622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKN,24994,Weesby,Mühlenstraße,7,,54.81001813,9.17823344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKO,24994,Weesby,Mühlenstraße,9,,54.80969341,9.17829392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKP,24994,Weesby,Norderfeldweg,1,,54.81751662,9.16840158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKQ,24994,Weesby,Norderfeldweg,2,,54.81532171,9.18116381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKR,24994,Weesby,Norderfeldweg,3,,54.81511649,9.18590255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKS,24994,Weesby,Norderfeldweg,4,,54.81577901,9.1924831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKT,24994,Weesby,Norderstraße,1,,54.81359547,9.17176346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKU,24994,Weesby,Norderstraße,10,,54.81325109,9.17350638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKV,24994,Weesby,Norderstraße,12,,54.81328089,9.17451013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKW,24994,Weesby,Norderstraße,14,,54.81342566,9.17524245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKX,24994,Weesby,Norderstraße,19,,54.81349034,9.17625667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKY,24994,Weesby,Norderstraße,20,,54.81334439,9.17612058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKZ,24994,Weesby,Norderstraße,21,,54.81359329,9.17640138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKa,24994,Weesby,Hauptstraße,58,,54.81111277,9.17887428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKb,24994,Weesby,Hauptstraße,60,,54.81085607,9.17922784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKc,24994,Weesby,Hauptstraße,62,,54.81089776,9.17998906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKd,24994,Weesby,Hauptstraße,63,,54.81149817,9.17897394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKe,24994,Weesby,Hauptstraße,64,,54.81067588,9.18092957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKf,24994,Weesby,Hauptstraße,64,a,54.81072086,9.18051632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKg,24994,Weesby,Hauptstraße,65,,54.8113757,9.17933461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKh,24994,Weesby,Hauptstraße,65,a,54.81127923,9.17952904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKi,24994,Weesby,Hauptstraße,66,,54.81062354,9.18140244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKj,24994,Weesby,Hauptstraße,67,,54.81120096,9.18005125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKk,24994,Weesby,Hauptstraße,68,,54.81049449,9.18188795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKm,24994,Weesby,Hauptstraße,7,,54.81400794,9.16611398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKn,24994,Weesby,Hauptstraße,70,,54.81048358,9.18233184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKo,24994,Weesby,Hauptstraße,71,,54.81104198,9.18117574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKp,24994,Weesby,Hauptstraße,72,,54.81049164,9.18269899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKq,24994,Weesby,Hauptstraße,73,,54.81090898,9.18210169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKr,24994,Weesby,Hauptstraße,75,,54.81079666,9.18255501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKs,24994,Weesby,Hauptstraße,8,,54.81356337,9.16665117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKt,24994,Weesby,Hauptstraße,9,,54.8140357,9.16640066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKu,24994,Weesby,Lückepott,1,,54.81220973,9.16969834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKv,24994,Weesby,Lückepott,10,,54.81291467,9.1682128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKw,24994,Weesby,Lückepott,12,,54.81303573,9.16797564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKx,24994,Weesby,Lückepott,14,,54.81305184,9.16764562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKy,24994,Weesby,Lückepott,2,,54.81247462,9.16972597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoKz,24994,Weesby,Lückepott,3,,54.81225732,9.16933263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL0,24994,Weesby,Norderstraße,23,,54.81349662,9.1767364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL1,24994,Weesby,Norderstraße,24,,54.81319935,9.1778077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL2,24994,Weesby,Norderstraße,25,,54.81349587,9.17691839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL3,24994,Weesby,Norderstraße,26,,54.81326859,9.17812831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL4,24994,Weesby,Norderstraße,29,,54.8134665,9.17742788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL5,24994,Weesby,Norderstraße,3,,54.81353436,9.17212161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL6,24994,Weesby,Norderstraße,5,,54.81354238,9.17248962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL7,24994,Weesby,Norderstraße,6,,54.81324786,9.17263459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL8,24994,Weesby,Norderstraße,7,,54.81355399,9.17295778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoL9,24994,Weesby,Norderstraße,8,,54.81324121,9.17281766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLA,24994,Weesby,Ruhwinkel,12,,54.8119172,9.1701386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLB,24994,Weesby,Ruhwinkel,2,,54.81317689,9.17033905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLC,24994,Weesby,Ruhwinkel,3,a,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLD,24994,Weesby,Ruhwinkel,3,b,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLE,24994,Weesby,Ruhwinkel,3,c,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLF,24994,Weesby,Ruhwinkel,3,d,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLG,24994,Weesby,Ruhwinkel,3,e,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLH,24994,Weesby,Ruhwinkel,3,f,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLI,24994,Weesby,Ruhwinkel,3,g,54.81249448,9.17096175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLJ,24994,Weesby,Ruhwinkel,4,,54.81286587,9.17035357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLK,24994,Weesby,Ruhwinkel,5,,54.81224494,9.17075009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLL,24994,Weesby,Ruhwinkel,6,,54.81269789,9.17031194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLM,24994,Weesby,Ruhwinkel,7,,54.81199138,9.17056337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLN,24994,Weesby,Ruhwinkel,8,,54.81245014,9.17026171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLO,24994,Weesby,Ruhwinkel,9,,54.81222836,9.17117974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLP,24994,Weesby,Süderfeldweg,1,,54.81228266,9.17351715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLQ,24994,Weesby,Süderfeldweg,1,a,54.8119842,9.1732978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLR,24994,Weesby,Süderfeldweg,119,,54.79377069,9.15968959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLS,24994,Weesby,Süderfeldweg,12,,54.81082829,9.17131542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLT,24994,Weesby,Süderfeldweg,13,,54.79821295,9.16309686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLU,24994,Weesby,Süderfeldweg,14,,54.81060645,9.1711409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLV,24994,Weesby,Süderfeldweg,16,,54.81027902,9.1708842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLW,24994,Weesby,Süderfeldweg,18,,54.79882976,9.16214332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLX,24994,Weesby,Süderfeldweg,20,,54.79798986,9.16206807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLY,24994,Weesby,Süderfeldweg,3,,54.81168483,9.17275888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLZ,24994,Weesby,Süderfeldweg,6,,54.81215288,9.1729634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLa,24994,Weesby,Osterstraße,1,,54.81122329,9.18158187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLb,24994,Weesby,Osterstraße,10,,54.81177739,9.1821055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLc,24994,Weesby,Osterstraße,11,,54.81176673,9.18056209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLd,24994,Weesby,Osterstraße,12,,54.81182528,9.18179341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLe,24994,Weesby,Osterstraße,13,,54.81177982,9.18025104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLf,24994,Weesby,Osterstraße,14,,54.81186459,9.18149891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLg,24994,Weesby,Osterstraße,15,,54.81181498,9.17997414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLh,24994,Weesby,Osterstraße,16,,54.81190152,9.18122255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLi,24994,Weesby,Osterstraße,17,,54.81194248,9.18092519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLj,24994,Weesby,Osterstraße,18,,54.81201672,9.18048653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLk,24994,Weesby,Osterstraße,19,,54.81205764,9.1801833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLl,24994,Weesby,Osterstraße,2,,54.81113088,9.18192986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLm,24994,Weesby,Osterstraße,3,,54.81142889,9.18165925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLn,24994,Weesby,Osterstraße,4,,54.81134831,9.18201765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLo,24994,Weesby,Osterstraße,5,,54.81157336,9.18171629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLp,24994,Weesby,Osterstraße,6,,54.81152183,9.18209215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLq,24994,Weesby,Osterstraße,6,a,54.81139178,9.18272686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLr,24994,Weesby,Osterstraße,6,b,54.81183181,9.18276617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLs,24994,Weesby,Osterstraße,7,,54.81168968,9.18114111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLt,24994,Weesby,Osterstraße,8,,54.81174868,9.18237717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLu,24994,Weesby,Osterstraße,9,,54.8117281,9.1808176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLv,24994,Weesby,Raiffeisenstraße,2,,54.81199264,9.17808368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLw,24994,Weesby,Raiffeisenstraße,4,,54.81231614,9.17763346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLx,24994,Weesby,Ruhwinkel,1,,54.81327002,9.17076566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLy,24994,Weesby,Ruhwinkel,10,,54.81217122,9.17007889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoLz,24994,Weesby,Ruhwinkel,11,,54.81222366,9.17151591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM0,24994,Weesby,Süderfeldweg,8,,54.81192345,9.17261858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM1,24994,Weesby,Kurze Straße,1,,54.81275594,9.1696092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM2,24994,Weesby,Kurze Straße,2,,54.81297121,9.16918136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM3,24994,Weesby,Kurze Straße,3,,54.81293745,9.16961402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM4,24994,Weesby,Kurze Straße,4,,54.81318328,9.16923151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM5,24994,Weesby,Kurze Straße,5,,54.81319257,9.16963038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM6,24994,Weesby,Maiholm,1,,54.81012917,9.17237463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM7,24994,Weesby,Kastanienweg,1,,54.81375686,9.17932003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM8,24994,Weesby,Kastanienweg,2,,54.81326636,9.1794567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoM9,24994,Weesby,Kastanienweg,2,a,54.81325767,9.17959487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMA,24994,Weesby,Osterkamp,12,,54.81274617,9.18194185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMB,24994,Weesby,Osterkamp,13,,54.81295877,9.18253955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMC,24994,Weesby,Osterkamp,14,,54.81258455,9.18187154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMD,24994,Weesby,Osterkamp,15,,54.8127131,9.18250626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoME,24994,Weesby,Osterkamp,16,,54.81238343,9.18178613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMF,24994,Weesby,Osterkamp,17,,54.81269792,9.18291308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMG,24994,Weesby,Osterkamp,18,,54.81244439,9.18217488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMH,24994,Weesby,Osterkamp,2,,54.81367352,9.18169101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMI,24994,Weesby,Osterkamp,20,,54.81240362,9.18252315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMJ,24994,Weesby,Osterkamp,22,,54.81242149,9.1828841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMK,24994,Weesby,Osterkamp,3,,54.81357652,9.18299627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoML,24994,Weesby,Osterkamp,4,,54.81358493,9.18208405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMM,24994,Weesby,Osterkamp,5,,54.81343362,9.18242934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMN,24994,Weesby,Osterkamp,6,,54.8133218,9.18203544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMO,24994,Weesby,Osterkamp,7,,54.81315686,9.18247811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMP,24994,Weesby,Osterkamp,8,,54.81313238,9.18195781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMQ,24994,Weesby,Osterkamp,9,,54.81314323,9.18295549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMR,24994,Weesby,Steinberg,1,,54.80254543,9.18072443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMS,24994,Weesby,Weesbyer Straße,2,,54.82128036,9.1610052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMa,24994,Weesby,Kastanienweg,3,,54.8135498,9.1796379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMb,24994,Weesby,Kastanienweg,4,,54.8132995,9.1798953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMc,24994,Weesby,Kastanienweg,5,,54.81359166,9.17997801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMd,24994,Weesby,Kastanienweg,6,,54.8133521,9.1802284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMe,24994,Weesby,Kastanienweg,7,,54.81358263,9.18029606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMf,24994,Weesby,Kastanienweg,8,,54.8132461,9.18054521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMg,24994,Weesby,Kastanienweg,9,,54.81364118,9.18058405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMh,24994,Weesby,Buchenweg,2,,54.81122464,9.17325626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMi,24994,Weesby,Buchenweg,4,,54.81139048,9.17389604
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMj,24994,Weesby,Buchenweg,8,,54.81173037,9.17503042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMk,24994,Weesby,Katenland,1,,54.82347841,9.16105197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMl,24994,Weesby,Katenland,2,,54.82363362,9.16144783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMm,24994,Weesby,Katenland,4,,54.82459016,9.16281052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMn,24994,Weesby,Katenland,6,,54.82550211,9.16450599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMo,24994,Weesby,Katenland,8,,54.82588855,9.1647897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMp,24994,Weesby,Osterheide,1,,54.80998928,9.18758065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMq,24994,Weesby,Osterheide,10,,54.80504586,9.19331106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMr,24994,Weesby,Osterheide,2,,54.80948014,9.18712719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMs,24994,Weesby,Osterheide,3,,54.8085722,9.19247028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMt,24994,Weesby,Osterheide,4,,54.80873297,9.19095122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMu,24994,Weesby,Osterheide,5,,54.8084228,9.19362648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMv,24994,Weesby,Osterheide,6,,54.80839565,9.19213221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMw,24994,Weesby,Osterheide,8,,54.80525256,9.19330471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMx,24994,Weesby,Osterkamp,1,,54.81362133,9.18246617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMy,24994,Weesby,Osterkamp,10,,54.81294913,9.18195227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NoMz,24994,Weesby,Osterkamp,11,,54.81298242,9.18286473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np55,24994,Weesby,Am Sportplatz,1,,54.79682205,9.21326263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np56,24994,Weesby,Am Sportplatz,10,,54.79663193,9.21378646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np57,24994,Weesby,Am Sportplatz,2,,54.79635463,9.21208723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np58,24994,Weesby,Am Sportplatz,3,,54.79699283,9.21355293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np59,24994,Weesby,Am Sportplatz,4,,54.79645466,9.21275942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5A,24994,Weesby,Hauptstraße,23,,54.79708519,9.20960208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5B,24994,Weesby,Hauptstraße,25,,54.79709012,9.20879381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5C,24994,Weesby,Hauptstraße,27,,54.79704882,9.20768505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5D,24994,Weesby,Hauptstraße,29,,54.79717851,9.2065521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5E,24994,Weesby,Hauptstraße,3,,54.79450805,9.21397052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5F,24994,Weesby,Hauptstraße,31,,54.79727261,9.20619346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5G,24994,Weesby,Hauptstraße,33,,54.79737826,9.20552734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5H,24994,Weesby,Hauptstraße,34,,54.79671577,9.21154162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5I,24994,Weesby,Hauptstraße,36,,54.7968724,9.21143725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5J,24994,Weesby,Hauptstraße,38,,54.79714932,9.21129583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5K,24994,Weesby,Hauptstraße,4,,54.78709633,9.22467674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5L,24994,Weesby,Hauptstraße,40,,54.79751282,9.21025899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5M,24994,Weesby,Hauptstraße,42,,54.79763476,9.20987122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5N,24994,Weesby,Hauptstraße,44,,54.79744443,9.20947357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5O,24994,Weesby,Hauptstraße,45,,54.79879657,9.20333246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5P,24994,Weesby,Hauptstraße,46,,54.79744677,9.20917979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5Q,24994,Weesby,Hauptstraße,48,,54.79746733,9.20824676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5R,24994,Weesby,Hauptstraße,49,,54.79989747,9.2020668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5S,24994,Weesby,Hauptstraße,50,,54.79742414,9.20726231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5T,24994,Weesby,Hauptstraße,51,,54.80009394,9.20132448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5U,24994,Weesby,Hauptstraße,52,,54.7979279,9.2058482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5V,24994,Weesby,Hauptstraße,53,,54.80239516,9.19575411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5W,24994,Weesby,Hauptstraße,54,,54.79809244,9.20605655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5X,24994,Weesby,Hauptstraße,55,,54.80203715,9.19623803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5Y,24994,Weesby,Hauptstraße,58,,54.79837399,9.20530896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5Z,24994,Weesby,Hauptstraße,6,,54.78710492,9.22478747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5a,24994,Weesby,Am Sportplatz,5,,54.79688305,9.21399085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5b,24994,Weesby,Am Sportplatz,6,,54.79656139,9.21310975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5c,24994,Weesby,Am Sportplatz,8,,54.79659079,9.21342273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5d,24994,Weesby,Dorflücken,1,,54.79674725,9.2123905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5e,24994,Weesby,Dorflücken,10,,54.79723881,9.21350976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5f,24994,Weesby,Dorflücken,11,,54.79759038,9.21239138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5g,24994,Weesby,Dorflücken,13,,54.79751818,9.21269958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5h,24994,Weesby,Dorflücken,15,,54.79760744,9.21299159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5i,24994,Weesby,Dorflücken,2,,54.79692998,9.21277498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5j,24994,Weesby,Dorflücken,3,,54.79693435,9.21233963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5k,24994,Weesby,Dorflücken,4,,54.79734686,9.21250556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5l,24994,Weesby,Dorflücken,5,,54.79712734,9.21220315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5m,24994,Weesby,Dorflücken,6,,54.79740606,9.21296381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5n,24994,Weesby,Dorflücken,7,,54.79733989,9.2120728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5o,24994,Weesby,Dorflücken,8,,54.7972337,9.21321678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5p,24994,Weesby,Dorflücken,9,,54.79755903,9.21203221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5q,24994,Weesby,Hauptstraße,1,,54.79423326,9.21439305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5r,24994,Weesby,Hauptstraße,10,,54.79410123,9.21580438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5s,24994,Weesby,Hauptstraße,12,,54.79418507,9.2153289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5u,24994,Weesby,Hauptstraße,13,,54.79582202,9.21161743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5v,24994,Weesby,Hauptstraße,18,,54.79476016,9.21411551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5w,24994,Weesby,Hauptstraße,18,a,54.79477879,9.21475309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5x,24994,Weesby,Hauptstraße,2,,54.78708768,9.22456527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5y,24994,Weesby,Hauptstraße,20,,54.7951393,9.21340239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np5z,24994,Weesby,Hauptstraße,21,,54.7970863,9.2106632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np60,24994,Weesby,Hauptstraße,66,,54.80363236,9.19570439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np61,24994,Weesby,Hauptstraße,8,,54.79135376,9.22049441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np62,24994,Weesby,Kätnerweg,1,,54.797719,9.21088239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np63,24994,Weesby,Kätnerweg,10,,54.80676861,9.22982491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np64,24994,Weesby,Kätnerweg,12,,54.8051876,9.23345174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np65,24994,Weesby,Kätnerweg,13,,54.80547099,9.22664614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np66,24994,Weesby,Kätnerweg,14,,54.80796249,9.22783789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np67,24994,Weesby,Kätnerweg,15,,54.80557542,9.22613087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np68,24994,Weesby,Kätnerweg,16,,54.80872007,9.22845219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np69,24994,Weesby,Kätnerweg,17,,54.80669796,9.22304275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6A,24994,Weesby,Tannenweg,3,,54.79423182,9.21652606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6B,24994,Weesby,Tannenweg,4,,54.79379135,9.21709709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6C,24994,Weesby,Tannenweg,5,,54.79414889,9.21704158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6D,24994,Weesby,Tannenweg,5,a,54.79453832,9.21698544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6E,24994,Weesby,Tannenweg,6,,54.79340482,9.21720173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6F,24994,Weesby,Tannenweg,7,,54.7941724,9.21757195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6G,24994,Weesby,Tannenweg,8,,54.79380967,9.21763498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6H,24994,Weesby,Tannenweg,9,,54.79440089,9.21747953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6I,24994,Weesby,Wiesenweg,2,,54.79441177,9.20924449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6J,24994,Weesby,Osterbylund,2,,54.79555881,9.23936031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6L,24994,Weesby,Osterbylund,3,,54.79307451,9.23919924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6M,24994,Weesby,Osterbylund,5,,54.79119391,9.23922131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6N,24994,Weesby,Osterbylund,6,,54.79416225,9.23864154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6O,24994,Weesby,Osterbylund,8,,54.79390732,9.23870373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6P,24994,Weesby,Schletengweg,1,,54.79238845,9.17598738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6Q,24994,Weesby,Am Lundtop,1,,54.80423691,9.2122722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6a,24994,Weesby,Kätnerweg,18,,54.81080883,9.22596157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6b,24994,Weesby,Kätnerweg,19,,54.80722454,9.21824611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6c,24994,Weesby,Kätnerweg,2,,54.79741746,9.21113008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6d,24994,Weesby,Kätnerweg,21,,54.80835342,9.22589836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6e,24994,Weesby,Kätnerweg,23,,54.80923205,9.22174412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6f,24994,Weesby,Kätnerweg,25,,54.81136938,9.22108904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6g,24994,Weesby,Kätnerweg,3,,54.79784275,9.21129395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6h,24994,Weesby,Kätnerweg,31,,54.81081893,9.21155924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6i,24994,Weesby,Kätnerweg,4,,54.79756148,9.21146214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6j,24994,Weesby,Kätnerweg,8,,54.80687809,9.2273091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6k,24994,Weesby,Norderstraße,1,,54.79783123,9.20848766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6l,24994,Weesby,Norderstraße,2,,54.7976303,9.20876212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6m,24994,Weesby,Ringstraße,1,,54.79686803,9.21006212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6n,24994,Weesby,Ringstraße,2,,54.79645854,9.21118095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6o,24994,Weesby,Süderstraße,11,,54.79480476,9.20920535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6p,24994,Weesby,Süderstraße,17,,54.79581855,9.20815592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6q,24994,Weesby,Süderstraße,19,,54.7960956,9.20794543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6r,24994,Weesby,Süderstraße,2,,54.7954878,9.21189651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6s,24994,Weesby,Süderstraße,21,,54.79640611,9.20806792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6t,24994,Weesby,Süderstraße,23,,54.7968029,9.20825081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6u,24994,Weesby,Süderstraße,6,,54.79517893,9.20955926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6v,24994,Weesby,Süderstraße,7,,54.79492591,9.21072255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6w,24994,Weesby,Süderstraße,9,,54.79484112,9.21045659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6x,24994,Weesby,Tannenweg,1,,54.79413412,9.21617916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6y,24994,Weesby,Tannenweg,2,,54.79378663,9.21633008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Np6z,24994,Weesby,Tannenweg,2,a,54.7935579,9.21676176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB4,24994,Weesby,Ackerlücke,1,,54.84684443,9.16482497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB5,24994,Weesby,Abroer Weg,10,,54.81778081,9.13263112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB6,24994,Weesby,Abroer Weg,8,,54.81898451,9.14733533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB7,24994,Weesby,Am Teich,1,,54.8319334,9.15108582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB8,24994,Weesby,Am Teich,1,a,54.83200167,9.15047365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrB9,24994,Weesby,Am Teich,10,,54.83115751,9.15201505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBA,24994,Weesby,Dorfstraße,11,,54.83288595,9.15356298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBB,24994,Weesby,Dorfstraße,12,,54.83045153,9.15352971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBC,24994,Weesby,Dorfstraße,13,,54.8332252,9.15371849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBD,24994,Weesby,Dorfstraße,14,,54.83074641,9.15356434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBE,24994,Weesby,Dorfstraße,15,,54.83341474,9.15390505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBF,24994,Weesby,Dorfstraße,16,,54.83109675,9.15359946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBG,24994,Weesby,Dorfstraße,17,,54.83359061,9.15402734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBH,24994,Weesby,Dorfstraße,18,a,54.83201284,9.15429934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBI,24994,Weesby,Dorfstraße,18,b,54.83206014,9.15400037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBJ,24994,Weesby,Dorfstraße,19,,54.83382563,9.15419242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBK,24994,Weesby,Dorfstraße,2,,54.82786583,9.15288987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBL,24994,Weesby,Dorfstraße,22,,54.8328582,9.15417257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBM,24994,Weesby,Dorfstraße,22,a,54.83271233,9.15467505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBN,24994,Weesby,Dorfstraße,24,,54.83318791,9.15444885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBO,24994,Weesby,Dorfstraße,3,,54.83064777,9.15302614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBP,24994,Weesby,Dorfstraße,4,,54.82832243,9.15310877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBQ,24994,Weesby,Dorfstraße,6,,54.82854969,9.15309864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBR,24994,Weesby,Dorfstraße,8,,54.82887806,9.15315078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBS,24994,Weesby,Dorfstraße,9,,54.83261259,9.15332956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBT,24994,Weesby,Eschenbogen,1,,54.83034166,9.15003216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBU,24994,Weesby,Eschenbogen,1,a,54.8302339,9.14941489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBV,24994,Weesby,Eschenbogen,2,,54.8305108,9.15023778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBW,24994,Weesby,Grüner Weg,2,,54.83311484,9.15053082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBX,24994,Weesby,Hamm-Weg,1,,54.83132558,9.15017218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBY,24994,Weesby,Hamm-Weg,11,,54.83045556,9.15237421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBZ,24994,Weesby,Hamm-Weg,12,,54.83025528,9.15210014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBa,24994,Weesby,Am Teich,10,a,54.8311006,9.15257311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBb,24994,Weesby,Am Teich,12,,54.83096491,9.15296549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBc,24994,Weesby,Am Teich,2,,54.83189,9.15015419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBd,24994,Weesby,Am Teich,3,,54.83153845,9.15204128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBe,24994,Weesby,Am Teich,4,,54.83167846,9.15053007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBf,24994,Weesby,Am Teich,6,,54.8315558,9.15085103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBg,24994,Weesby,Am Teich,8,,54.83141056,9.15126107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBh,24994,Weesby,Betonstraße,1,,54.86377534,9.11374083
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBi,24994,Weesby,Betonstraße,2,,54.86035332,9.14340267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBj,24994,Weesby,Betonstraße,4,,54.86393532,9.11700356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBk,24994,Weesby,Bögelhuus,1,,54.86052912,9.14498677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBl,24994,Weesby,Bögelhuus,10,,54.8720039,9.14314495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBm,24994,Weesby,Bögelhuus,12,,54.87263945,9.14253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBn,24994,Weesby,Bögelhuus,14,,54.86674052,9.13241008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBo,24994,Weesby,Bögelhuus,16,,54.86611303,9.12505031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBp,24994,Weesby,Bögelhuus,2,,54.86027726,9.14569329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBq,24994,Weesby,Bögelhuus,2,a,54.86048779,9.14560761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBr,24994,Weesby,Bögelhuus,3,,54.87184758,9.14234085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBs,24994,Weesby,Bögelhuus,4,,54.86632983,9.14662975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBt,24994,Weesby,Bögelhuus,5,,54.86657143,9.13511549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBu,24994,Weesby,Bögelhuus,6,,54.86802098,9.14613118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBv,24994,Weesby,Bögelhuus,7,,54.86557102,9.13112901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBw,24994,Weesby,Bögelhuus,8,,54.87003466,9.14539802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBx,24994,Weesby,Dorfstraße,1,,54.83015155,9.15303267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBy,24994,Weesby,Dorfstraße,1,a,54.83035361,9.15306552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrBz,24994,Weesby,Dorfstraße,10,,54.82925515,9.15326802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC0,24994,Weesby,Hamm-Weg,14,,54.8301681,9.15251368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC1,24994,Weesby,Hamm-Weg,2,,54.83101793,9.14991519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC2,24994,Weesby,Hamm-Weg,3,,54.83123501,9.15060079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC3,24994,Weesby,Hamm-Weg,4,,54.8309707,9.15029357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC4,24994,Weesby,Hamm-Weg,5,,54.83105195,9.15102686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC5,24994,Weesby,Hamm-Weg,6,,54.83090258,9.15068664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC6,24994,Weesby,Hamm-Weg,8,,54.8306672,9.15097065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC7,24994,Weesby,Hamm-Weg,9,,54.83051017,9.1519572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC8,24994,Weesby,Hauptstraße,1,,54.8270904,9.15285827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrC9,24994,Weesby,Hauptstraße,10,,54.83056825,9.12941674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCA,24994,Weesby,Norderheide,3,,54.85183844,9.12675427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCB,24994,Weesby,Norderheide,4,,54.85375377,9.12710212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCC,24994,Weesby,Norderheide,5,,54.8537336,9.12633235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCD,24994,Weesby,Norderheide,6,,54.85811797,9.12649549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCE,24994,Weesby,Norderheide,7,,54.86012041,9.12535792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCF,24994,Weesby,Norderheide,8,,54.86074132,9.12579626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCG,24994,Weesby,Norderheide,9,,54.86154999,9.12528053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCH,24994,Weesby,Sandteilung,1,,54.83138221,9.15481108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCI,24994,Weesby,Sandteilung,2,,54.83084916,9.15414339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCJ,24994,Weesby,Sandteilung,2,a,54.83047053,9.15415463
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCK,24994,Weesby,Sandteilung,3,,54.83055263,9.16238064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCL,24994,Weesby,Sandteilung,4,,54.83083861,9.15516263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCM,24994,Weesby,Sandteilung,6,,54.8302225,9.16192292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCN,24994,Weesby,Schusterweg,1,,54.83167604,9.1492218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCO,24994,Weesby,Schusterweg,2,,54.83164504,9.14862564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCP,24994,Weesby,Schusterweg,2,a,54.83193767,9.14895329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCQ,24994,Weesby,Schusterweg,3,,54.83118304,9.14862245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCR,24994,Weesby,Schusterweg,4,,54.8311186,9.14788273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCS,24994,Weesby,Schusterweg,4,a,54.83135724,9.14829645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCT,24994,Weesby,Schusterweg,5,,54.83100277,9.14832375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCU,24994,Weesby,Süderlücke,1,,54.82304164,9.1544941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCV,24994,Weesby,Süderstraße,1,,54.82992721,9.14977052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCW,24994,Weesby,Süderstraße,10,,54.82932226,9.15221536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCX,24994,Weesby,Süderstraße,12,,54.82896142,9.15254377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCY,24994,Weesby,Süderstraße,2,,54.82989848,9.14929817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCZ,24994,Weesby,Süderstraße,3,,54.82981086,9.15055735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCa,24994,Weesby,Hauptstraße,12,,54.83066534,9.12872247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCb,24994,Weesby,Hauptstraße,14,,54.83131766,9.12701527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCc,24994,Weesby,Hauptstraße,16,,54.8315213,9.12642098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCd,24994,Weesby,Hauptstraße,18,,54.83196054,9.1257062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCe,24994,Weesby,Hauptstraße,2,,54.82541538,9.15811413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCf,24994,Weesby,Hauptstraße,3,,54.82947782,9.14112389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCg,24994,Weesby,Hauptstraße,4,,54.82622895,9.15672465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCh,24994,Weesby,Hauptstraße,5,,54.83014437,9.12667941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCi,24994,Weesby,Hauptstraße,6,,54.8296432,9.14309838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCj,24994,Weesby,Hauptstraße,7,,54.83147834,9.12499373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCk,24994,Weesby,Hauptstraße,8,,54.83310175,9.13165476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCl,24994,Weesby,Hauptstraße,8,a,54.8326539,9.13159415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCm,24994,Weesby,Kjerweg,1,,54.85782432,9.15436266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCn,24994,Weesby,Kjerweg,2,,54.85624898,9.15738679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCo,24994,Weesby,Kjerweg,3,,54.85743991,9.15467656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCp,24994,Weesby,Kjerweg,4,,54.85710223,9.15582217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCq,24994,Weesby,Neulandweg,1,,54.8466132,9.14472788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCr,24994,Weesby,Neulandweg,2,,54.8462642,9.14403395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCs,24994,Weesby,Norderfeld,1,,54.8388362,9.14589553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCt,24994,Weesby,Norderfeld,2,,54.84379274,9.1472921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCu,24994,Weesby,Norderfeld,3,,54.85428165,9.1428277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCv,24994,Weesby,Norderfeld,4,,54.85656972,9.14418546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCw,24994,Weesby,Norderfeld,5,,54.85572908,9.14330395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCx,24994,Weesby,Norderfeld,6,,54.85723598,9.14441596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCy,24994,Weesby,Norderheide,1,,54.84208192,9.13969903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrCz,24994,Weesby,Norderheide,2,,54.84905913,9.12990138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD0,24994,Weesby,Süderstraße,4,,54.82970024,9.14958949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD1,24994,Weesby,Süderstraße,4,a,54.82964134,9.14987678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD2,24994,Weesby,Süderstraße,5,,54.82989287,9.15110824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD3,24994,Weesby,Süderstraße,6,,54.82935947,9.1504194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD4,24994,Weesby,Süderstraße,7,,54.82962277,9.15256796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD5,24994,Weesby,Süderstraße,8,,54.82934646,9.15149202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD6,24994,Weesby,Stolzberg,1,,54.8335334,9.15467509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD7,24994,Weesby,Stolzberg,3,,54.83345781,9.15504607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD8,24994,Weesby,Weesbydamm,1,,54.84531395,9.1611914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrD9,24994,Weesby,Weesbydamm,10,,54.8477677,9.16169484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDA,24994,Weesby,Westerstraße,4,,54.83151971,9.14981335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDB,24994,Weesby,Westerstraße,5,,54.832083,9.14950261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDC,24994,Weesby,Westerstraße,6,,54.83281086,9.15034097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDD,24994,Weesby,Westerstraße,7,,54.83323576,9.14893146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDE,24994,Weesby,Westerstraße,8,,54.83349272,9.15012377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDa,24994,Weesby,Weesbydamm,10,a,54.85014243,9.15997842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDb,24994,Weesby,Weesbydamm,11,,54.84965266,9.15980706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDc,24994,Weesby,Weesbydamm,12,,54.85063483,9.15959941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDd,24994,Weesby,Weesbydamm,13,,54.85032747,9.1593504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDe,24994,Weesby,Weesbydamm,14,,54.85686046,9.15909637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDf,24994,Weesby,Weesbydamm,15,,54.85263553,9.15773212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDg,24994,Weesby,Weesbydamm,17,,54.853824,9.15778778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDh,24994,Weesby,Weesbydamm,2,,54.83584351,9.15582022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDi,24994,Weesby,Weesbydamm,3,,54.84656572,9.16152934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDj,24994,Weesby,Weesbydamm,3,a,54.84618093,9.16138846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDk,24994,Weesby,Weesbydamm,4,,54.83844347,9.15709351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDl,24994,Weesby,Weesbydamm,5,,54.8478418,9.16069563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDm,24994,Weesby,Weesbydamm,6,,54.84552716,9.16182667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDn,24994,Weesby,Weesbydamm,7,,54.84879673,9.16040561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDo,24994,Weesby,Weesbydamm,8,,54.84586618,9.16189683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDp,24994,Weesby,Weesbydamm,9,,54.84913847,9.16014491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDq,24994,Weesby,Weesbylunder Weg,2,,54.82904123,9.12181082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDr,24994,Weesby,Weesbylunder Weg,4,,54.82461592,9.12213017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDs,24994,Weesby,Westerstraße,1,,54.83032575,9.14892341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDt,24994,Weesby,Westerstraße,10,,54.83453503,9.14887298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDu,24994,Weesby,Westerstraße,12,,54.83721655,9.14867138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDv,24994,Weesby,Westerstraße,2,,54.82898674,9.14723138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDw,24994,Weesby,Westerstraße,2,a,54.83047021,9.14958997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDx,24994,Weesby,Westerstraße,2,b,54.82961243,9.14857835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDy,24994,Weesby,Westerstraße,3,,54.83068167,9.14934498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NrDz,24994,Weesby,Westerstraße,3,a,54.83130155,9.14935897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004DlYf,24994,Weesby,Erlenweg,5,,54.85343855,9.18700329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K907,24994,Weesby,Ruhwinkel,3,h,54.8127377,9.17108488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K90f,24994,Weesby,Ruhwinkel,3,i,54.81272114,9.17128247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K90p,24994,Weesby,Ruhwinkel,3,k,54.81262348,9.17167497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004K90r,24994,Weesby,Ruhwinkel,3,j,54.81264154,9.17147759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KHyo,24994,Weesby,Dorflücken,12,,54.79751204,9.21337127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004QLg1,24994,Weesby,Hauptstraße,42,a,54.8115571,9.17516678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004R0Kn,24994,Weesby,Alte Marktstraße,3,,54.81311743,9.17537991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SuoW,24994,Weesby,Kuhlacker,35,,54.81439489,9.16767897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Sup1,24994,Weesby,Kuhlacker,34,,54.81440982,9.1675059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TKMz,24994,Weesby,Hauptstraße,50,a,54.79765031,9.20649472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004TOWb,24994,Weesby,Westring-Park,2,,54.82751141,9.19682388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00050GWt,24994,Weesby,Süderfeldweg,7,,54.81119394,9.17221036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00050GWz,24994,Weesby,Süderfeldweg,5,,54.81137812,9.17234534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00054Syl,24994,Weesby,Hauptstraße,30,a,54.8124829,9.17258801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056F3d,24994,Weesby,Kuhlacker,3,,54.81439938,9.16888343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00056da2,24994,Weesby,Kuhlacker,11,,54.81469427,9.16831117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057AMy,24994,Weesby,Kuhlacker,2,,54.81434501,9.16854518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJiV,24994,Weesby,Kuhlacker,14,,54.81472622,9.16720629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJiW,24994,Weesby,Kuhlacker,18,,54.8148176,9.16597857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJj8,24994,Weesby,Kuhlacker,17,,54.81478831,9.16627814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjB,24994,Weesby,Kuhlacker,30,,54.81450114,9.16624821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjL,24994,Weesby,Kuhlacker,29,,54.81452501,9.16591556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjd,24994,Weesby,Kuhlacker,32,,54.81450163,9.16666185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjf,24994,Weesby,Kuhlacker,33,,54.81445463,9.16712965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjk,24994,Weesby,Kuhlacker,16,,54.81480989,9.16657444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005HJjy,24994,Weesby,Kuhlacker,15,,54.8147675,9.16685044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LB2l,24994,Weesby,Kuhlacker,13,,54.81479663,9.16752442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005LSU2,24994,Weesby,Dorfstraße,7,a,54.83236436,9.15345658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Oe7u,24994,Weesby,Weesbyer Straße,4,,54.82129374,9.16157955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T8ZH,24994,Weesby,Zur Toft,5,,54.83236145,9.15093641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T8ZM,24994,Weesby,Zur Toft,2,,54.83191205,9.15172107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T8Zc,24994,Weesby,Zur Toft,6,,54.83264363,9.15114677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T8Zm,24994,Weesby,Zur Toft,7,,54.83255138,9.15156248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T8Zv,24994,Weesby,Zur Toft,8,,54.83245656,9.15178233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T901,24994,Weesby,Zur Toft,4,,54.83226385,9.15125912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T902,24994,Weesby,Zur Toft,1,,54.83168549,9.15160444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005T90n,24994,Weesby,Zur Toft,3,,54.83215389,9.1518948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WEqW,24994,Weesby,Dorfstraße,20,,54.8324653,9.15410925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005WEr1,24994,Weesby,Dorfstraße,20,a,54.83254004,9.15446156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005szTX,24994,Weesby,Hauptstraße,61,a,54.8114673,9.17851212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005szU3,24994,Weesby,Hauptstraße,61,b,54.81163608,9.17855271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060Qnl,24994,Weesby,Dorflücken,14,,54.7978421,9.21338922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00061BRD,24994,Weesby,Süderfeldweg,9,,54.81080382,9.17217587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068vPz,24994,Weesby,Weesbydamm,4,a,54.84525814,9.1617835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006H4Eg,24994,Weesby,Kuhlacker,29,a,54.81452027,9.16599006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HvgO,24994,Weesby,Osterbylund,4,,54.79557077,9.23846979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HvgY,24994,Weesby,Grüner Weg,1,,54.79640397,9.23878074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006HvgZ,24994,Weesby,Grüner Weg,1,a,54.79639582,9.23902573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006I7fe,24994,Weesby,Kuhlacker,6,,54.81440725,9.16954418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MAyd,24994,Weesby,Tannenweg,1,a,54.83693767,9.18088742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MAyi,24994,Weesby,Tannenweg,1,b,54.83698028,9.18126267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MAyj,24994,Weesby,Tannenweg,1,c,54.83687825,9.18127333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MAyo,24994,Weesby,Tannenweg,1,d,54.83703175,9.18161511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006MAyt,24994,Weesby,Heideweg,2,,54.83702225,9.18205421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006PYyg,24994,Weesby,Sandteilung,4,a,54.83035841,9.15491101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Se5v,24994,Weesby,Süderstraße,19,a,54.79586141,9.20771751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006dAzw,24994,Weesby,Kuhlacker,10,,54.81472831,9.16853726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ezzB,24994,Weesby,Kuhlacker,12,,54.81466618,9.16779557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ezzw,24994,Weesby,Kuhlacker,1,,54.81437363,9.1682467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wwKt,24994,Weesby,Am Sandberg,20,,54.81188916,9.16733745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764eJ,24994,Weesby,Lückacker,4,,54.79809518,9.21325428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764eP,24994,Weesby,Lückacker,5,,54.79808162,9.21358764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764ec,24994,Weesby,Lückacker,1,,54.79795059,9.21202756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764ej,24994,Weesby,Lückacker,6,,54.79813116,9.21396894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764eo,24994,Weesby,Lückacker,2,,54.79801571,9.2124242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000764ez,24994,Weesby,Lückacker,3,,54.79806661,9.21284294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dNJ,24994,Weesby,Kuhlacker,23,,54.81499812,9.16437778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dNT,24994,Weesby,Kuhlacker,22,,54.81497503,9.1647473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dO0,24994,Weesby,Kuhlacker,25,,54.81467053,9.16430319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dO9,24994,Weesby,Kuhlacker,21,,54.81494096,9.16512522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dOB,24994,Weesby,Kuhlacker,24,,54.81480175,9.16435992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dOK,24994,Weesby,Kuhlacker,28,,54.8145992,9.16548193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dOi,24994,Weesby,Kuhlacker,26,,54.81467682,9.1647224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dOt,24994,Weesby,Kuhlacker,20,,54.81485718,9.16537645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dOy,24994,Weesby,Kuhlacker,27,,54.81463479,9.1650395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00076dPi,24994,Weesby,Kuhlacker,19,,54.81483778,9.16562931
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00077vas,24994,Weesby,Hauptstraße,14,,54.79431254,9.21490908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078YG8,24994,Weesby,Dorfstraße,3,a,54.84068155,9.18391791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007B390,24994,Weesby,Weesbydamm,19,,54.85418552,9.15790533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007COBu,24994,Weesby,Dorfstraße,10,c,54.83000373,9.15354322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DflQ,24994,Weesby,Tannenweg,8,a,54.79332841,9.21762944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007IoqJ,24994,Weesby,Westerstraße,2,c,54.83078595,9.14970137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw30,24994,Weesby,Zum Redder,1,,54.81675881,9.1686477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw34,24994,Weesby,Zum Redder,3,,54.81649966,9.16886416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw39,24994,Weesby,Zum Redder,5,,54.81633941,9.16913878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3D,24994,Weesby,Zum Redder,19,,54.81509802,9.16957393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3O,24994,Weesby,Zum Redder,12,,54.81547025,9.16880027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3T,24994,Weesby,Zum Redder,10,,54.81575709,9.16933307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3Y,24994,Weesby,Zum Redder,8,,54.81596787,9.16908246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3e,24994,Weesby,Zum Redder,7,,54.81618747,9.16938013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3i,24994,Weesby,Zum Redder,9,,54.81611692,9.16969629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3n,24994,Weesby,Zum Redder,11,,54.81587193,9.16959684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3r,24994,Weesby,Zum Redder,13,,54.81569769,9.16959712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3u,24994,Weesby,Zum Redder,15,,54.81550546,9.16956457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw3z,24994,Weesby,Zum Redder,17,,54.81530672,9.1695309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw42,24994,Weesby,Zum Redder,6,,54.81588353,9.16852218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw46,24994,Weesby,Zum Redder,4,,54.81598903,9.16875156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Jw4b,24994,Weesby,Zum Redder,2,,54.81627057,9.16892111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007VaMG,24994,Weesby,Hauptstraße,7,a,54.81411492,9.16612657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZUOG,24994,Weesby,Zum Redder,3,a,54.81661915,9.1690314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bAsf,24994,Weesby,Zur Toft,2,a,54.8319667,9.15174908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dBMb,24994,Weesby,Hauptstraße,59,a,54.81151005,9.17822412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007dBMc,24994,Weesby,Hauptstraße,59,b,54.81168774,9.17825493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jVOq,24994,Weesby,Grüner Weg,7,,54.81281807,9.17895789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jVOr,24994,Weesby,Grüner Weg,7,a,54.81281918,9.17882882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jVOs,24994,Weesby,Grüner Weg,7,b,54.81282021,9.17869452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jVOt,24994,Weesby,Grüner Weg,7,c,54.81282131,9.178549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007jWLk,24994,Weesby,Hauptstraße,7,a,54.84060268,9.18095364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n7jg,24994,Weesby,Kuhlacker,24,a,54.81485502,9.16437219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n7jh,24994,Weesby,Kuhlacker,23,a,54.81505432,9.16439074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n7ji,24994,Weesby,Kuhlacker,22,a,54.81503915,9.16476208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007n7jj,24994,Weesby,Kuhlacker,21,a,54.81501121,9.16514142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9F,24994,Weesby,Hauptstraße,30,,54.81278193,9.1726163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9l,24994,Weesby,Hauptstraße,28,f,54.81235219,9.17187101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9n,24994,Weesby,Hauptstraße,28,a,54.81279751,9.17219152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9u,24994,Weesby,Hauptstraße,28,b,54.81272053,9.17219435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9v,24994,Weesby,Hauptstraße,28,c,54.8126426,9.1721649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9w,24994,Weesby,Hauptstraße,28,d,54.81257725,9.17210867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007oX9x,24994,Weesby,Hauptstraße,28,e,54.81250574,9.1720817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007s1Db,24994,Weesby,Erlenweg,3,,54.85263256,9.18706855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t5z7,24994,Weesby,Grüner Weg,5,,54.81258983,9.17902304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t5z8,24994,Weesby,Grüner Weg,5,a,54.8125909,9.17888733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t5z9,24994,Weesby,Grüner Weg,5,b,54.81259212,9.17875507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t5zI,24994,Weesby,Grüner Weg,3,a,54.81229084,9.1790264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007t5za,24994,Weesby,Grüner Weg,5,c,54.81259322,9.17862269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYE,24994,Weesby,Tannenweg,2,f,54.83734392,9.18119643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYI,24994,Weesby,Tannenweg,2,d,54.83715647,9.18033239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYO,24994,Weesby,Tannenweg,2,e,54.83710956,9.18082936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYw,24994,Weesby,Tannenweg,2,a,54.83704686,9.17956249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYx,24994,Weesby,Tannenweg,2,b,54.83705213,9.17982323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wYYy,24994,Weesby,Tannenweg,2,c,54.83705491,9.17995403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083vYc,24994,Weesby,Kuhlacker,27,a,54.81462591,9.16518899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008E7BR,24994,Weesby,Zum Redder,6,a,54.81582501,9.16864977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I5Xc,24994,Weesby,Am Sandberg,24,,54.81225857,9.16588136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I5Xd,24994,Weesby,Am Sandberg,24,a,54.81231384,9.16589594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008I5Xe,24994,Weesby,Am Sandberg,24,b,54.81238983,9.1659166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cGkk,24994,Weesby,Hauptstraße,69,a,54.81117584,9.18038332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cGkl,24994,Weesby,Hauptstraße,69,b,54.81117584,9.18038332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cGkm,24994,Weesby,Hauptstraße,69,c,54.81117584,9.18038332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008cGkn,24994,Weesby,Hauptstraße,69,d,54.81111603,9.1806178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008g305,24994,Weesby,Kuhlacker,28,a,54.8145883,9.1656008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nl5T,24994,Weesby,Zum Redder,14,c,54.81532239,9.16844211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nl5U,24994,Weesby,Zum Redder,14,d,54.81532239,9.16844211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nl5W,24994,Weesby,Zum Redder,14,b,54.81529008,9.16884653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nl5Y,24994,Weesby,Zum Redder,14,a,54.81529008,9.16884653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008sDbc,24994,Weesby,Zum Redder,9,a,54.81615483,9.169849

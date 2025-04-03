@@ -1,0 +1,783 @@
+# Amtliche Adressen für die Postleitzahl 25849
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdC,25849,Pellworm,Alte Kirche,8,,54.51407204,8.59256661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdD,25849,Pellworm,Alte Kirche,9,,54.51594932,8.58963836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdE,25849,Pellworm,Alte-Kirch-Chaussee,1,,54.515279,8.64009599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdF,25849,Pellworm,Alte-Kirch-Chaussee,2,,54.51529191,8.63883645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdG,25849,Pellworm,Alte-Kirch-Chaussee,3,,54.5144054,8.63253345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdH,25849,Pellworm,Alte-Kirch-Chaussee,4,,54.51828517,8.63090251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdI,25849,Pellworm,Alte-Kirch-Chaussee,5,,54.51361688,8.6182033
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdJ,25849,Pellworm,Alte-Kirch-Chaussee,6,,54.51631803,8.61804756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdK,25849,Pellworm,Alter Kirchenweg,1,,54.51793377,8.59379256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdL,25849,Pellworm,Alter Kirchenweg,2,,54.5181486,8.59394222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdM,25849,Pellworm,Alter Kirchenweg,4,,54.51878167,8.59401337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdN,25849,Pellworm,Bupheverweg,1,,54.53614695,8.6752064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdO,25849,Pellworm,Bupheverweg,1,a,54.5329166,8.67556852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdP,25849,Pellworm,Bupheverweg,10,,54.54627799,8.67766313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdQ,25849,Pellworm,Bupheverweg,11,,54.54622447,8.67868076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdR,25849,Pellworm,Bupheverweg,12,,54.54646839,8.67773365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdS,25849,Pellworm,Bupheverweg,13,,54.54658271,8.67779262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdT,25849,Pellworm,Bupheverweg,14,,54.546831,8.67785357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdU,25849,Pellworm,Bupheverweg,15,,54.54720486,8.67801046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdV,25849,Pellworm,Bupheverweg,16,,54.54908717,8.68116451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdW,25849,Pellworm,Bupheverweg,17,,54.54847995,8.68399019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdX,25849,Pellworm,Bupheverweg,18,,54.54909227,8.68444932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdY,25849,Pellworm,Bupheverweg,19,,54.54868546,8.68735714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdZ,25849,Pellworm,Bupheverweg,2,,54.5378531,8.67610195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdv,25849,Pellworm,Alte Kirche,1,,54.51568438,8.59331422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdw,25849,Pellworm,Alte Kirche,2,,54.51570271,8.59284153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdx,25849,Pellworm,Alte Kirche,3,,54.51570009,8.59267237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdy,25849,Pellworm,Alte Kirche,4,,54.51536277,8.59290916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePdz,25849,Pellworm,Alte Kirche,5,,54.51535806,8.59311286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe0,25849,Pellworm,Bupheverweg,20,,54.54887142,8.68788925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe1,25849,Pellworm,Bupheverweg,21,,54.54944491,8.68870169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe2,25849,Pellworm,Bupheverweg,22,,54.54953506,8.69130333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe3,25849,Pellworm,Bupheverweg,23,,54.54966604,8.69497374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe4,25849,Pellworm,Bupheverweg,24,,54.54910791,8.69609802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe5,25849,Pellworm,Bupheverweg,25,,54.54979077,8.69894289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe6,25849,Pellworm,Bupheverweg,26,,54.5488076,8.69855405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe7,25849,Pellworm,Bupheverweg,27,,54.54708665,8.69858623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe8,25849,Pellworm,Bupheverweg,28,,54.5462197,8.69716177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePe9,25849,Pellworm,Bupheverweg,3,,54.53979555,8.67616639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeB,25849,Pellworm,Deichgrafenweg,29,,54.52509874,8.6851772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeC,25849,Pellworm,Deichgrafenweg,3,,54.52319446,8.68607089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeD,25849,Pellworm,Deichgrafenweg,30,,54.52491348,8.68509354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeE,25849,Pellworm,Deichgrafenweg,31,,54.5246764,8.68496109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeF,25849,Pellworm,Deichgrafenweg,32,,54.52447138,8.6848682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeG,25849,Pellworm,Deichgrafenweg,4,,54.52312747,8.68649893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeH,25849,Pellworm,Deichgrafenweg,5,,54.52312568,8.68680464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeI,25849,Pellworm,Deichgrafenweg,6,,54.52313468,8.6872432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeJ,25849,Pellworm,Deichgrafenweg,7,,54.52337782,8.68704343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeK,25849,Pellworm,Deichgrafenweg,8,,54.52346976,8.68669457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeL,25849,Pellworm,Deichgrafenweg,9,,54.52363365,8.68627352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeM,25849,Pellworm,Grüner Deich,1,,54.53616101,8.65484635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeN,25849,Pellworm,Grüner Deich,2,,54.54011826,8.65515198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeO,25849,Pellworm,Grüner Deich,3,,54.54161305,8.65522057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeP,25849,Pellworm,Grüner Deich,4,,54.54242182,8.65468691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeQ,25849,Pellworm,Grüner Deich,5,,54.54289326,8.65525363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeR,25849,Pellworm,Hensebekstraße,1,,54.52698085,8.68382739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeS,25849,Pellworm,Hensebekstraße,2,,54.52617105,8.68364817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeT,25849,Pellworm,Hooger Fähre,1,,54.52824467,8.6108129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeU,25849,Pellworm,Hooger Fähre,2,,54.53021956,8.60791469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeV,25849,Pellworm,Hooger Fähre,3,,54.53001551,8.60384553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeW,25849,Pellworm,Hooger Fähre,4,,54.53228259,8.60108986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeX,25849,Pellworm,Hooger Fähre,5,,54.53270248,8.59989096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeY,25849,Pellworm,Hooger Fähre,6,,54.53303953,8.59885565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeZ,25849,Pellworm,Hooger Fähre,7,,54.5332135,8.59848741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePea,25849,Pellworm,Bupheverweg,4,,54.54304768,8.67600313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeb,25849,Pellworm,Bupheverweg,5,,54.54310262,8.67573161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePec,25849,Pellworm,Bupheverweg,6,,54.54314837,8.67546136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePed,25849,Pellworm,Bupheverweg,7,,54.54353618,8.67596669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePee,25849,Pellworm,Bupheverweg,8,,54.54349795,8.6762988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePef,25849,Pellworm,Bupheverweg,9,,54.54385227,8.67633046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeg,25849,Pellworm,Deichgrafenweg,1,,54.5231665,8.68536423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeh,25849,Pellworm,Deichgrafenweg,10,,54.52346291,8.68556872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePei,25849,Pellworm,Deichgrafenweg,11,,54.52366996,8.68575128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePej,25849,Pellworm,Deichgrafenweg,12,,54.52387583,8.68583995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePek,25849,Pellworm,Deichgrafenweg,13,,54.5241121,8.68578589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePel,25849,Pellworm,Deichgrafenweg,14,,54.52402284,8.68632428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePem,25849,Pellworm,Deichgrafenweg,15,,54.52421309,8.68631186
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePen,25849,Pellworm,Deichgrafenweg,16,,54.52441624,8.68656265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeo,25849,Pellworm,Deichgrafenweg,17,,54.52465226,8.68656523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePep,25849,Pellworm,Deichgrafenweg,18,,54.52485312,8.68684388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeq,25849,Pellworm,Deichgrafenweg,19,,54.52507785,8.68689846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePer,25849,Pellworm,Deichgrafenweg,2,,54.52320109,8.68569667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePes,25849,Pellworm,Deichgrafenweg,20,,54.52493742,8.68644309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePeu,25849,Pellworm,Deichgrafenweg,22,,54.52473548,8.68619696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePev,25849,Pellworm,Deichgrafenweg,23,,54.52456818,8.68610406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePew,25849,Pellworm,Deichgrafenweg,24,,54.52432208,8.68616355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePey,25849,Pellworm,Deichgrafenweg,26,,54.5250645,8.68551141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf0,25849,Pellworm,Hooger Fähre,8,,54.53240505,8.5957115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf1,25849,Pellworm,Hooger Fähre,9,,54.53061517,8.59624955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf2,25849,Pellworm,Ilgrofweg,10,,54.52507746,8.68403902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf5,25849,Pellworm,In de See,3,,54.52788997,8.66381288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf6,25849,Pellworm,Junkersmitteldeich,1,,54.51485867,8.67965999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf7,25849,Pellworm,Junkersmitteldeich,10,,54.51304193,8.67255027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf8,25849,Pellworm,Junkersmitteldeich,11,,54.51289582,8.67185486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePf9,25849,Pellworm,Junkersmitteldeich,12,,54.51281059,8.67154493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfA,25849,Pellworm,Kaydeich,15,,54.50274988,8.65382278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfB,25849,Pellworm,Kaydeich,15,a,54.50213032,8.65534097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfC,25849,Pellworm,Kaydeich,16,,54.49594786,8.659756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfD,25849,Pellworm,Kaydeich,17,,54.49589221,8.66028534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfE,25849,Pellworm,Kaydeich,18,,54.49460739,8.66002214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfF,25849,Pellworm,Kaydeich,19,,54.49393033,8.66042516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfG,25849,Pellworm,Kaydeich,2,,54.50502865,8.65164303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfH,25849,Pellworm,Kaydeich,2,a,54.50489473,8.65158842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfI,25849,Pellworm,Kaydeich,3,,54.50475603,8.65164374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfJ,25849,Pellworm,Kaydeich,4,,54.50450699,8.65187412
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfK,25849,Pellworm,Kaydeich,5,,54.5043413,8.65197878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfL,25849,Pellworm,Kaydeich,6,,54.50392702,8.65168782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfM,25849,Pellworm,Kaydeich,6,a,54.50217651,8.6539357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfN,25849,Pellworm,Kaydeich,6,b,54.50205662,8.65410098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfO,25849,Pellworm,Kaydeich,6,c,54.50193525,8.65427286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfP,25849,Pellworm,Kaydeich,6,d,54.50181787,8.65443889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfQ,25849,Pellworm,Kaydeich,7,,54.50396387,8.65218761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfR,25849,Pellworm,Kaydeich,8,,54.50373791,8.65255515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfS,25849,Pellworm,Kaydeich,9,,54.50353805,8.65271239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfT,25849,Pellworm,Klostermitteldeich,1,,54.51578723,8.61150992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfU,25849,Pellworm,Klostermitteldeich,10,,54.51640611,8.6030381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfV,25849,Pellworm,Klostermitteldeich,10,a,54.51736665,8.6018404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfW,25849,Pellworm,Klostermitteldeich,11,,54.51755989,8.59930391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfX,25849,Pellworm,Klostermitteldeich,12,,54.5174263,8.59832725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfY,25849,Pellworm,Klostermitteldeich,13,,54.51747335,8.59752876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfZ,25849,Pellworm,Klostermitteldeich,14,,54.51710086,8.59493442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfa,25849,Pellworm,Junkersmitteldeich,13,,54.51249073,8.67028602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfb,25849,Pellworm,Junkersmitteldeich,14,,54.51201953,8.66841149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfc,25849,Pellworm,Junkersmitteldeich,15,,54.51164365,8.66717424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfd,25849,Pellworm,Junkersmitteldeich,16,,54.51161381,8.66706485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfe,25849,Pellworm,Junkersmitteldeich,17,,54.51157118,8.66691251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePff,25849,Pellworm,Junkersmitteldeich,18,,54.51152323,8.66672956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfg,25849,Pellworm,Junkersmitteldeich,19,,54.51143885,8.66646455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfh,25849,Pellworm,Junkersmitteldeich,2,,54.51427523,8.6770571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfi,25849,Pellworm,Junkersmitteldeich,20,,54.5115645,8.66507392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfj,25849,Pellworm,Junkersmitteldeich,21,,54.51096202,8.66477076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfk,25849,Pellworm,Junkersmitteldeich,22,,54.51093093,8.66464148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfo,25849,Pellworm,Junkersmitteldeich,3,,54.51385104,8.67542506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfp,25849,Pellworm,Junkersmitteldeich,5,,54.51355702,8.67445365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfq,25849,Pellworm,Junkersmitteldeich,6,,54.51328133,8.6734946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfr,25849,Pellworm,Junkersmitteldeich,7,,54.51377269,8.67239811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfs,25849,Pellworm,Junkersmitteldeich,8,,54.51310787,8.67282581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePft,25849,Pellworm,Junkersmitteldeich,9,,54.51306367,8.67264861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfu,25849,Pellworm,Kaydeich,1,,54.50520273,8.65166141
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfv,25849,Pellworm,Kaydeich,10,,54.5034099,8.6528862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfw,25849,Pellworm,Kaydeich,11,,54.50328949,8.65306748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfx,25849,Pellworm,Kaydeich,12,,54.50316956,8.65324601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfy,25849,Pellworm,Kaydeich,13,,54.50306506,8.65339857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePfz,25849,Pellworm,Kaydeich,14,,54.50292367,8.65358673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg0,25849,Pellworm,Klostermitteldeich,15,,54.51765249,8.59365895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg1,25849,Pellworm,Klostermitteldeich,15,a,54.51773938,8.59254145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg2,25849,Pellworm,Klostermitteldeich,16,,54.51775496,8.59221817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg3,25849,Pellworm,Klostermitteldeich,17,,54.51777178,8.59161146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg4,25849,Pellworm,Klostermitteldeich,18,,54.5178018,8.59101519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg7,25849,Pellworm,Klostermitteldeich,2,,54.51653403,8.60984257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePg8,25849,Pellworm,Klostermitteldeich,3,,54.51686242,8.60888078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgA,25849,Pellworm,Liliencronweg,18,,54.5138399,8.64529359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgB,25849,Pellworm,Liliencronweg,19,,54.5148159,8.64590586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgC,25849,Pellworm,Liliencronweg,2,,54.50833139,8.65053125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgD,25849,Pellworm,Liliencronweg,21,,54.51589757,8.64561348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgE,25849,Pellworm,Liliencronweg,22,,54.51742118,8.64438758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgF,25849,Pellworm,Liliencronweg,23,,54.51800289,8.64916031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgG,25849,Pellworm,Liliencronweg,24,,54.51869068,8.64363184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgH,25849,Pellworm,Liliencronweg,26,a,54.51861178,8.64278832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgI,25849,Pellworm,Liliencronweg,27,,54.51849884,8.64164914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgJ,25849,Pellworm,Liliencronweg,28,,54.51981833,8.64174643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgK,25849,Pellworm,Liliencronweg,3,,54.50931696,8.65287584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgL,25849,Pellworm,Liliencronweg,3,a,54.5090372,8.65349115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgM,25849,Pellworm,Liliencronweg,4,,54.5096458,8.65032882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgN,25849,Pellworm,Liliencronweg,5,,54.50970427,8.65230161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgO,25849,Pellworm,Liliencronweg,6,,54.50939512,8.64952431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgP,25849,Pellworm,Liliencronweg,7,,54.51078406,8.65110589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgQ,25849,Pellworm,Liliencronweg,8,,54.51045022,8.64831382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgR,25849,Pellworm,Liliencronweg,9,,54.51137085,8.65001584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgS,25849,Pellworm,Norderhaffdeich,1,,54.539736,8.69165612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgT,25849,Pellworm,Norderhaffdeich,10,,54.54562303,8.64833718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgU,25849,Pellworm,Norderhaffdeich,11,,54.54558013,8.64607597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgV,25849,Pellworm,Norderhaffdeich,12,,54.54539894,8.64474968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgW,25849,Pellworm,Norderhaffdeich,2,,54.54094225,8.68372054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgX,25849,Pellworm,Norderhaffdeich,3,,54.54159968,8.68058106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgY,25849,Pellworm,Norderhaffdeich,4,,54.54288302,8.67286808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgZ,25849,Pellworm,Norderhaffdeich,5,,54.54327249,8.66999455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePga,25849,Pellworm,Klostermitteldeich,4,a,54.5162621,8.60781841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgb,25849,Pellworm,Klostermitteldeich,5,,54.51739999,8.60730759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgc,25849,Pellworm,Klostermitteldeich,6,,54.51727485,8.60533987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgd,25849,Pellworm,Klostermitteldeich,7,,54.51588908,8.60476565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePge,25849,Pellworm,Klostermitteldeich,8,,54.51745197,8.60475769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgf,25849,Pellworm,Klostermitteldeich,8,a,54.51722736,8.6034271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgg,25849,Pellworm,Liebesallee,1,,54.51613174,8.68475361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgh,25849,Pellworm,Liebesallee,10,,54.51554684,8.68676051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgi,25849,Pellworm,Liebesallee,11,,54.51551377,8.68692241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgj,25849,Pellworm,Liebesallee,12,,54.51547448,8.6870908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgk,25849,Pellworm,Liebesallee,13,,54.51534193,8.68753778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgm,25849,Pellworm,Liebesallee,4,,54.51605496,8.68500851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgn,25849,Pellworm,Liebesallee,5,,54.51590076,8.68516963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgo,25849,Pellworm,Liebesallee,6,,54.51604142,8.6853418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgp,25849,Pellworm,Liebesallee,8,,54.51561937,8.68651128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgq,25849,Pellworm,Liebesallee,9,,54.51557767,8.68664927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgr,25849,Pellworm,Liliencronweg,1,,54.50837959,8.65236234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgs,25849,Pellworm,Liliencronweg,10,,54.51212079,8.64963298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgt,25849,Pellworm,Liliencronweg,11,,54.51248098,8.64877196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgu,25849,Pellworm,Liliencronweg,12,,54.51284306,8.64852815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgv,25849,Pellworm,Liliencronweg,13,,54.51297017,8.64911487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgw,25849,Pellworm,Liliencronweg,14,,54.51300401,8.64926325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgx,25849,Pellworm,Liliencronweg,15,,54.51609472,8.65716161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgy,25849,Pellworm,Liliencronweg,16,,54.51637601,8.66050303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePgz,25849,Pellworm,Liliencronweg,17,,54.51347864,8.64762949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh0,25849,Pellworm,Norderhaffdeich,6,,54.5447888,8.66227753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh1,25849,Pellworm,Norderhaffdeich,7,,54.54503186,8.66097656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh3,25849,Pellworm,Norderhaffdeich,8,,54.54549524,8.65144678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh4,25849,Pellworm,Nordermitteldeich,1,,54.53238287,8.6815749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh5,25849,Pellworm,Nordermitteldeich,10,,54.53208722,8.67578676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh6,25849,Pellworm,Nordermitteldeich,11,,54.53209649,8.67548564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh7,25849,Pellworm,Nordermitteldeich,12,,54.53208954,8.67514787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh8,25849,Pellworm,Nordermitteldeich,13,,54.53208785,8.67503673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePh9,25849,Pellworm,Nordermitteldeich,15,,54.53211852,8.67410555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhA,25849,Pellworm,Nordermitteldeich,39,,54.53352457,8.65992223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhB,25849,Pellworm,Nordermitteldeich,4,,54.53188928,8.6792661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhC,25849,Pellworm,Nordermitteldeich,40,,54.53381272,8.65998274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhD,25849,Pellworm,Nordermitteldeich,40,a,54.53376483,8.65948705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhE,25849,Pellworm,Nordermitteldeich,41,,54.53396685,8.65915114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhF,25849,Pellworm,Nordermitteldeich,42,,54.53409475,8.65907305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhG,25849,Pellworm,Nordermitteldeich,43,,54.53402942,8.65864757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhH,25849,Pellworm,Nordermitteldeich,44,,54.53426183,8.65845772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhI,25849,Pellworm,Nordermitteldeich,44,a,54.53423567,8.65823212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhJ,25849,Pellworm,Nordermitteldeich,45,,54.5350088,8.65661987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhK,25849,Pellworm,Nordermitteldeich,46,,54.53330387,8.65520932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhL,25849,Pellworm,Nordermitteldeich,47,,54.53525744,8.65603473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhM,25849,Pellworm,Nordermitteldeich,48,,54.53606568,8.65334764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhN,25849,Pellworm,Nordermitteldeich,48,a,54.53618965,8.65309626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhO,25849,Pellworm,Nordermitteldeich,48,b,54.53623503,8.65300265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhP,25849,Pellworm,Nordermitteldeich,48,c,54.53636349,8.6527253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhQ,25849,Pellworm,Nordermitteldeich,48,d,54.53650416,8.65252199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhR,25849,Pellworm,Nordermitteldeich,49,,54.53656537,8.65223162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhS,25849,Pellworm,Nordermitteldeich,5,,54.53164269,8.67871193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhV,25849,Pellworm,Nordermitteldeich,52,,54.53752854,8.65101812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhW,25849,Pellworm,Nordermitteldeich,52,a,54.53746487,8.65119932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhX,25849,Pellworm,Nordermitteldeich,53,,54.53786338,8.65021611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhY,25849,Pellworm,Nordermitteldeich,54,,54.53790443,8.65003672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhZ,25849,Pellworm,Nordermitteldeich,55,,54.53796589,8.64966608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhb,25849,Pellworm,Nordermitteldeich,17,,54.53213317,8.67346433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhc,25849,Pellworm,Nordermitteldeich,18,,54.53214971,8.67323895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhd,25849,Pellworm,Nordermitteldeich,19,,54.53209577,8.67179957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhf,25849,Pellworm,Nordermitteldeich,2,,54.53185299,8.68023455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhg,25849,Pellworm,Nordermitteldeich,20,,54.53204462,8.67087331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhh,25849,Pellworm,Nordermitteldeich,22,,54.53205561,8.66872158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhi,25849,Pellworm,Nordermitteldeich,23,,54.532073,8.66670388
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhj,25849,Pellworm,Nordermitteldeich,23,a,54.53208164,8.66718472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhk,25849,Pellworm,Nordermitteldeich,24,,54.53207603,8.66657816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhl,25849,Pellworm,Nordermitteldeich,25,,54.53209044,8.66585343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhm,25849,Pellworm,Nordermitteldeich,26,,54.53212199,8.66556728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhn,25849,Pellworm,Nordermitteldeich,27,,54.53213212,8.66531552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePho,25849,Pellworm,Nordermitteldeich,28,,54.53217349,8.6649328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhp,25849,Pellworm,Nordermitteldeich,29,,54.53235718,8.66391816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhq,25849,Pellworm,Nordermitteldeich,3,,54.53185762,8.68010627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhr,25849,Pellworm,Nordermitteldeich,30,,54.53246534,8.66337905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhs,25849,Pellworm,Nordermitteldeich,31,,54.53251626,8.6632014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePht,25849,Pellworm,Nordermitteldeich,32,,54.53265855,8.66285646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhu,25849,Pellworm,Nordermitteldeich,33,,54.53290457,8.66216808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhv,25849,Pellworm,Nordermitteldeich,34,,54.53293943,8.66205928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhw,25849,Pellworm,Nordermitteldeich,35,,54.53312843,8.66164447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhx,25849,Pellworm,Nordermitteldeich,36,,54.53281828,8.66125441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhy,25849,Pellworm,Nordermitteldeich,37,,54.53329175,8.66117704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePhz,25849,Pellworm,Nordermitteldeich,38,,54.53373895,8.66027216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi0,25849,Pellworm,Nordermitteldeich,56,,54.53812709,8.64876686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi1,25849,Pellworm,Nordermitteldeich,57,,54.53654053,8.64787645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi2,25849,Pellworm,Nordermitteldeich,58,,54.53819079,8.64818777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi3,25849,Pellworm,Nordermitteldeich,58,a,54.53835021,8.64761724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi4,25849,Pellworm,Nordermitteldeich,59,,54.53840162,8.64733031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi5,25849,Pellworm,Nordermitteldeich,6,,54.53195399,8.67796074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi6,25849,Pellworm,Nordermitteldeich,60,,54.53844698,8.64699199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi7,25849,Pellworm,Nordermitteldeich,61,,54.53851038,8.64653735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi8,25849,Pellworm,Nordermitteldeich,62,,54.53853299,8.64640437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePi9,25849,Pellworm,Nordermitteldeich,63,,54.53856856,8.64516199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiA,25849,Pellworm,Osterschütting,8,,54.50210808,8.62028892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiB,25849,Pellworm,Osterschütting,9,,54.502751,8.61948061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiC,25849,Pellworm,Ostersiel,1,,54.51802967,8.68616705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiD,25849,Pellworm,Ostersiel,10,,54.51727568,8.68522636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiE,25849,Pellworm,Ostersiel,11,,54.51701348,8.6853371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiF,25849,Pellworm,Ostersiel,12,,54.51682205,8.68518689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiG,25849,Pellworm,Ostersiel,13,,54.51672047,8.68510728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiH,25849,Pellworm,Ostersiel,14,,54.51656642,8.68488793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiI,25849,Pellworm,Ostersiel,15,,54.51637919,8.68440489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiJ,25849,Pellworm,Ostersiel,16,,54.51592405,8.68404723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiK,25849,Pellworm,Ostersiel,17,,54.51616011,8.68348726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiM,25849,Pellworm,Ostersiel,19,,54.51606827,8.68313761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiN,25849,Pellworm,Ostersiel,2,,54.51789251,8.68613662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiO,25849,Pellworm,Ostersiel,20,,54.51565174,8.68362844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiP,25849,Pellworm,Ostersiel,21,,54.51548174,8.68374266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiQ,25849,Pellworm,Ostersiel,22,,54.5153071,8.68376284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiR,25849,Pellworm,Ostersiel,23,,54.51512301,8.68369119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiT,25849,Pellworm,Ostersiel,25,,54.51542135,8.68339224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiU,25849,Pellworm,Ostersiel,26,,54.51545152,8.6830495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiV,25849,Pellworm,Ostersiel,27,,54.51537478,8.68272993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiW,25849,Pellworm,Ostersiel,28,,54.51528049,8.68249443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiX,25849,Pellworm,Ostersiel,29,,54.51521111,8.68222157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiY,25849,Pellworm,Ostersiel,3,,54.51763084,8.68595687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiZ,25849,Pellworm,Ostersiel,31,,54.51541855,8.68151789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePia,25849,Pellworm,Nordermitteldeich,64,,54.53647119,8.64558992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePib,25849,Pellworm,Nordermitteldeich,65,,54.54041677,8.64448176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePic,25849,Pellworm,Nordermitteldeich,67,,54.53871665,8.64394292
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePid,25849,Pellworm,Nordermitteldeich,69,,54.5388877,8.64194877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePie,25849,Pellworm,Nordermitteldeich,7,,54.52982103,8.67721108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePif,25849,Pellworm,Nordermitteldeich,70,,54.53878433,8.6400636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePig,25849,Pellworm,Nordermitteldeich,71,,54.53706544,8.64070915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePih,25849,Pellworm,Nordermitteldeich,71,a,54.53809799,8.63833832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePii,25849,Pellworm,Nordermitteldeich,8,,54.53204442,8.67714183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePij,25849,Pellworm,Nordermitteldeich,9,,54.53206603,8.67651596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePik,25849,Pellworm,Nordermitteldeich,9,a,54.53210451,8.67620002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePil,25849,Pellworm,Osterschütting,1,,54.49832779,8.62927741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePim,25849,Pellworm,Osterschütting,10,,54.50348894,8.61821774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePin,25849,Pellworm,Osterschütting,11,,54.50448256,8.61770934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePio,25849,Pellworm,Osterschütting,12,,54.50565919,8.61690282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePip,25849,Pellworm,Osterschütting,14,,54.51188103,8.61428845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiq,25849,Pellworm,Osterschütting,14,a,54.50897841,8.61417772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePir,25849,Pellworm,Osterschütting,15,,54.51132125,8.61002199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePis,25849,Pellworm,Osterschütting,16,,54.5139203,8.61176486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePit,25849,Pellworm,Osterschütting,17,,54.51384551,8.61197866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiu,25849,Pellworm,Osterschütting,18,,54.51384551,8.61197866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiv,25849,Pellworm,Osterschütting,2,,54.49988693,8.62460428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiw,25849,Pellworm,Osterschütting,3,,54.4998861,8.62396808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePix,25849,Pellworm,Osterschütting,5,,54.50033077,8.62115169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiy,25849,Pellworm,Osterschütting,5,a,54.50070074,8.62295416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePiz,25849,Pellworm,Osterschütting,7,,54.50132139,8.62247666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj0,25849,Pellworm,Ostersiel,32,,54.51531532,8.68118198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj1,25849,Pellworm,Ostersiel,33,,54.51518399,8.68074317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj2,25849,Pellworm,Ostersiel,34,,54.51533804,8.67987723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj3,25849,Pellworm,Ostersiel,35,,54.51627658,8.6789776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj4,25849,Pellworm,Ostersiel,4,,54.51767588,8.68550493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj5,25849,Pellworm,Ostersiel,5,,54.51752476,8.68580932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj6,25849,Pellworm,Ostersiel,6,,54.51744133,8.68571582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj7,25849,Pellworm,Ostersiel,8,,54.51748221,8.6853955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj8,25849,Pellworm,Ostersiel,9,,54.51724138,8.68546568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePj9,25849,Pellworm,Ostertilli,1,,54.51002235,8.66132288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjA,25849,Pellworm,Parlament,4,a,54.52576314,8.60747455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjB,25849,Pellworm,Parlament,5,,54.5256667,8.60531126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjC,25849,Pellworm,Parlament,6,,54.52567587,8.60446557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjD,25849,Pellworm,Parlament,7,,54.52598607,8.60302362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjE,25849,Pellworm,Parlament,8,,54.52594327,8.60246932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjF,25849,Pellworm,Parlament,9,,54.52615913,8.59993564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjG,25849,Pellworm,Rungholtweg,1,,54.52245745,8.68530731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjH,25849,Pellworm,Rungholtweg,2,,54.52268406,8.68471183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjI,25849,Pellworm,Rungholtweg,3,,54.52272902,8.68532504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjJ,25849,Pellworm,Rungholtweg,4,,54.52247956,8.68565028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjK,25849,Pellworm,Rungholtweg,5,,54.52265629,8.68567622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjL,25849,Pellworm,Rungholtweg,6,,54.5224757,8.68605724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjM,25849,Pellworm,Rungholtweg,7,,54.52266175,8.68612103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjN,25849,Pellworm,Schardeich,1,,54.53058686,8.63478612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjO,25849,Pellworm,Schardeich,10,,54.52641881,8.62016198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjP,25849,Pellworm,Schardeich,11,,54.52645274,8.61931671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjQ,25849,Pellworm,Schardeich,12,,54.52645549,8.6191622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjR,25849,Pellworm,Schardeich,13,,54.52478938,8.61718057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjS,25849,Pellworm,Schardeich,14,,54.52653019,8.61763494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjT,25849,Pellworm,Schardeich,15,,54.52653414,8.61754751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjU,25849,Pellworm,Schardeich,2,,54.53054486,8.63467465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjV,25849,Pellworm,Schardeich,3,,54.53026241,8.63401023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjW,25849,Pellworm,Schardeich,4,,54.52816215,8.62817935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjX,25849,Pellworm,Schardeich,5,,54.52733044,8.62765625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjY,25849,Pellworm,Schardeich,6,,54.53053183,8.62648734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjZ,25849,Pellworm,Schardeich,7,,54.52643486,8.62384487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePja,25849,Pellworm,Ostertilli,10,,54.5085553,8.65696797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjb,25849,Pellworm,Ostertilli,11,,54.50843437,8.65650271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjc,25849,Pellworm,Ostertilli,12,,54.50830734,8.65599108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjd,25849,Pellworm,Ostertilli,13,,54.50828062,8.65572288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePje,25849,Pellworm,Ostertilli,15,,54.50821216,8.65519379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjf,25849,Pellworm,Ostertilli,16,,54.5080218,8.65497848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjg,25849,Pellworm,Ostertilli,2,,54.50957821,8.66096226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjh,25849,Pellworm,Ostertilli,3,,54.50950935,8.65982746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePji,25849,Pellworm,Ostertilli,4,,54.50932633,8.65922043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjj,25849,Pellworm,Ostertilli,6,,54.50920345,8.65897051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjk,25849,Pellworm,Ostertilli,6,a,54.50913182,8.65877746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjl,25849,Pellworm,Ostertilli,6,b,54.50910281,8.6586928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjm,25849,Pellworm,Ostertilli,6,c,54.50907413,8.65860939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjn,25849,Pellworm,Ostertilli,6,d,54.50904231,8.65851711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjo,25849,Pellworm,Ostertilli,7,,54.5089155,8.658032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjp,25849,Pellworm,Ostertilli,8,,54.5088069,8.6577817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjq,25849,Pellworm,Ostertilli,8,a,54.50898175,8.65754637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjr,25849,Pellworm,Ostertilli,9,,54.50870186,8.65744712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjs,25849,Pellworm,Parlament,1,,54.52564965,8.61030787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjt,25849,Pellworm,Parlament,10,,54.52688004,8.59579344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePju,25849,Pellworm,Parlament,11,,54.52749854,8.59354848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjv,25849,Pellworm,Parlament,12,,54.52754435,8.59335387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjw,25849,Pellworm,Parlament,13,,54.52818441,8.59014756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjx,25849,Pellworm,Parlament,14,,54.52447517,8.58938028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjy,25849,Pellworm,Parlament,3,,54.52387873,8.60804634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePjz,25849,Pellworm,Parlament,4,,54.52602011,8.60728043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk2,25849,Pellworm,Schluthweg,1,,54.53470569,8.61901954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk3,25849,Pellworm,Schluthweg,2,,54.53466268,8.61532281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk4,25849,Pellworm,Schluthweg,2,a,54.53413839,8.61443796
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk5,25849,Pellworm,Schluthweg,3,,54.53359061,8.60534865
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk6,25849,Pellworm,Schluthweg,4,,54.53359815,8.60315359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk7,25849,Pellworm,Schulstraße,1,,54.53101795,8.66471181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk8,25849,Pellworm,Schulstraße,1,a,54.53096306,8.66429678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePk9,25849,Pellworm,Schulstraße,11,,54.52245177,8.64272588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkA,25849,Pellworm,Süderkoogweg,6,,54.49931126,8.6686876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkB,25849,Pellworm,Süderkoogweg,7,,54.49695067,8.66456538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkC,25849,Pellworm,Süderkoogweg,8,,54.49690906,8.66420174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkD,25849,Pellworm,Süderkoogweg,9,,54.49651057,8.66601407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkE,25849,Pellworm,Südermitteldeich,1,,54.50519603,8.65112583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkF,25849,Pellworm,Südermitteldeich,10,,54.50470446,8.64563521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkG,25849,Pellworm,Südermitteldeich,12,,54.50428794,8.64357072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkH,25849,Pellworm,Südermitteldeich,13,,54.5069649,8.63854982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkI,25849,Pellworm,Südermitteldeich,14,,54.50332879,8.63944939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkJ,25849,Pellworm,Südermitteldeich,15,,54.50325486,8.6392136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkK,25849,Pellworm,Südermitteldeich,16,,54.50255542,8.63614846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkL,25849,Pellworm,Südermitteldeich,17,,54.50251038,8.6359651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkM,25849,Pellworm,Südermitteldeich,18,,54.50200392,8.63562855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkN,25849,Pellworm,Südermitteldeich,19,,54.50208613,8.6344482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkO,25849,Pellworm,Südermitteldeich,2,,54.50524087,8.65091163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkP,25849,Pellworm,Südermitteldeich,20,,54.50164155,8.63451587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkQ,25849,Pellworm,Südermitteldeich,21,,54.49855628,8.63027906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkR,25849,Pellworm,Südermitteldeich,3,,54.50556679,8.65071007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkS,25849,Pellworm,Südermitteldeich,3,a,54.50546791,8.64976676
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkT,25849,Pellworm,Südermitteldeich,4,,54.50544764,8.6493162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkU,25849,Pellworm,Südermitteldeich,5,,54.50543519,8.64917746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkV,25849,Pellworm,Südermitteldeich,6,,54.50537707,8.64853114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkW,25849,Pellworm,Südermitteldeich,7,,54.50505001,8.6467263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkX,25849,Pellworm,Südermitteldeich,8,,54.50497353,8.64639919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkY,25849,Pellworm,Südermitteldeich,9,,54.50485472,8.64606686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkZ,25849,Pellworm,Süderoog,1,,54.46233524,8.55137212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePka,25849,Pellworm,Schulstraße,2,,54.52924003,8.65290592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkb,25849,Pellworm,Schulstraße,3,,54.52838793,8.65227251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkc,25849,Pellworm,Schulstraße,3,a,54.52902764,8.64715526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkd,25849,Pellworm,Schulstraße,4,,54.52576432,8.6525641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePke,25849,Pellworm,Schulstraße,6,,54.52602942,8.64576831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkf,25849,Pellworm,Schulstraße,7,,54.52376797,8.65438149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkg,25849,Pellworm,Schulstraße,8,,54.5236766,8.64674715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkh,25849,Pellworm,Schulstraße,9,,54.52268514,8.65185053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePki,25849,Pellworm,Seegarden,1,,54.51695231,8.67064979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkj,25849,Pellworm,Seegarden,1,a,54.51688444,8.67199602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkk,25849,Pellworm,Seegarden,2,,54.5171366,8.67287227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkl,25849,Pellworm,Seegarden,2,a,54.5172568,8.67321428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkm,25849,Pellworm,Seegarden,3,,54.51756358,8.67422493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkn,25849,Pellworm,Seegarden,4,,54.5177236,8.67473892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePko,25849,Pellworm,Seegarden,5,,54.51781352,8.67511028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkp,25849,Pellworm,Seegarden,6,,54.51798448,8.67556782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkq,25849,Pellworm,Seegarden,7,,54.51827829,8.67655636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkr,25849,Pellworm,Stürenburger Weg,1,,54.51367643,8.68123093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePks,25849,Pellworm,Stürenburger Weg,2,,54.51309512,8.68082018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkt,25849,Pellworm,Stürenburger Weg,3,,54.51256584,8.68075043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePku,25849,Pellworm,Süderkoogweg,1,,54.50689258,8.65579267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkv,25849,Pellworm,Süderkoogweg,10,,54.49611267,8.6673993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkw,25849,Pellworm,Süderkoogweg,12,,54.49569894,8.66695298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkx,25849,Pellworm,Süderkoogweg,3,,54.50372689,8.65961903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePky,25849,Pellworm,Süderkoogweg,4,,54.50213493,8.66080662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePkz,25849,Pellworm,Süderkoogweg,5,,54.49952701,8.66443784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl0,25849,Pellworm,Süderwisch,1,,54.50855459,8.65824923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl1,25849,Pellworm,Süderwisch,3,,54.50842543,8.65847638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl2,25849,Pellworm,Süderwisch,4,,54.50823773,8.65861355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl3,25849,Pellworm,Süderwisch,5,,54.50828014,8.65898876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl4,25849,Pellworm,Süderwisch,6,,54.5083353,8.65939713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl5,25849,Pellworm,Süderwisch,7,,54.50866152,8.65910527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl6,25849,Pellworm,Süderwisch,8,,54.50891288,8.65890248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl7,25849,Pellworm,Süderwisch,9,,54.50877387,8.65848685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl8,25849,Pellworm,Südfall,1,,54.46475654,8.72242866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePl9,25849,Pellworm,Tammensiel,1,,54.5188991,8.6857893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlA,25849,Pellworm,Tammensiel,34,,54.52437656,8.68266712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlB,25849,Pellworm,Tammensiel,34,a,54.52452212,8.68246961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlC,25849,Pellworm,Tammensiel,35,,54.52455859,8.683174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlD,25849,Pellworm,Tammensiel,37,,54.52466568,8.68262634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlE,25849,Pellworm,Tammensiel,38,,54.5247587,8.68247065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlG,25849,Pellworm,Tammensiel,39,,54.52485865,8.68309146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlH,25849,Pellworm,Tammensiel,41,,54.52522183,8.68244748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlK,25849,Pellworm,Tammensiel,8,,54.52237968,8.68436518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlL,25849,Pellworm,Tammensiel,9,,54.5221729,8.68397786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlM,25849,Pellworm,Tammwarft,1,,54.5048593,8.60097289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlN,25849,Pellworm,Tammwarft,10,,54.50496085,8.59978905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlO,25849,Pellworm,Tammwarft,11,,54.50349627,8.60302189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlP,25849,Pellworm,Tammwarft,2,,54.50483127,8.60075916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlQ,25849,Pellworm,Tammwarft,3,,54.50519074,8.6008784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlR,25849,Pellworm,Tammwarft,4,,54.5051858,8.60079206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlS,25849,Pellworm,Tammwarft,5,,54.50518141,8.60069645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlT,25849,Pellworm,Tammwarft,6,,54.50520054,8.60045484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlU,25849,Pellworm,Tammwarft,6,a,54.50537625,8.60088347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlV,25849,Pellworm,Tammwarft,7,,54.50518901,8.60023068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlW,25849,Pellworm,Tammwarft,8,,54.50517748,8.60002774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlX,25849,Pellworm,Tammwarft,9,,54.50517642,8.59990149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlY,25849,Pellworm,Tammwarftweg,1,,54.50826023,8.61387016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlZ,25849,Pellworm,Tammwarftweg,2,,54.50775745,8.61249219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePla,25849,Pellworm,Tammensiel,10,,54.52249076,8.68357371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlb,25849,Pellworm,Tammensiel,11,,54.52227307,8.68332387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlc,25849,Pellworm,Tammensiel,13,,54.52264365,8.68391081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePld,25849,Pellworm,Tammensiel,14,,54.52248949,8.68277507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePle,25849,Pellworm,Tammensiel,15,,54.52273876,8.68285987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlf,25849,Pellworm,Tammensiel,17,,54.5228717,8.68303809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlg,25849,Pellworm,Tammensiel,19,,54.52294696,8.68278036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlh,25849,Pellworm,Tammensiel,2,,54.51911929,8.68583734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePli,25849,Pellworm,Tammensiel,20,,54.52310114,8.6832721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePll,25849,Pellworm,Tammensiel,21,,54.5231486,8.68293266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlm,25849,Pellworm,Tammensiel,22,,54.5231486,8.68293266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePln,25849,Pellworm,Tammensiel,23,,54.5231486,8.68293266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlo,25849,Pellworm,Tammensiel,24,,54.52335471,8.68288666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlp,25849,Pellworm,Tammensiel,25,,54.52348551,8.68323413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlq,25849,Pellworm,Tammensiel,25,a,54.52331611,8.68358727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlr,25849,Pellworm,Tammensiel,26,,54.52355491,8.68281741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePls,25849,Pellworm,Tammensiel,26,a,54.52357644,8.68246811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlt,25849,Pellworm,Tammensiel,27,,54.52364695,8.68310311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlu,25849,Pellworm,Tammensiel,28,,54.52382257,8.68331449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlv,25849,Pellworm,Tammensiel,29,,54.52379688,8.68268258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlw,25849,Pellworm,Tammensiel,3,,54.51918248,8.68581104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlx,25849,Pellworm,Tammensiel,30,,54.52397533,8.68328557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePly,25849,Pellworm,Tammensiel,31,,54.52410724,8.68273317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePlz,25849,Pellworm,Tammensiel,33,,54.52430777,8.68320545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm0,25849,Pellworm,Tammwarftweg,3,,54.50813695,8.61264636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm1,25849,Pellworm,Tammwarftweg,4,,54.50809352,8.61204713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm2,25849,Pellworm,Tammwarftweg,5,,54.50880139,8.61115332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm3,25849,Pellworm,Tammwarftweg,6,,54.51013932,8.60498061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm4,25849,Pellworm,Tammwarftweg,7,,54.50613741,8.60227971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm5,25849,Pellworm,Tüterland,1,,54.50473507,8.63205288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm6,25849,Pellworm,Tüterland,2,,54.50940541,8.63098281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm7,25849,Pellworm,Tüterland,3,,54.51367225,8.62775061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm8,25849,Pellworm,Untjehörnweg,1,,54.49808754,8.6303293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePm9,25849,Pellworm,Untjehörnweg,2,,54.49470165,8.63307953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmA,25849,Pellworm,Ütermarkermitteldeich,6,,54.52633218,8.67885531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmB,25849,Pellworm,Ütermarkermitteldeich,7,,54.52700299,8.68218358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmC,25849,Pellworm,Ütermarkermitteldeich,7,a,54.52750508,8.68214094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmD,25849,Pellworm,Ütermarkermitteldeich,8,,54.52806938,8.68211284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmE,25849,Pellworm,Ütermarkermitteldeich,9,,54.52804947,8.68270788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmF,25849,Pellworm,Ütermarkermitteldeich,9,a,54.52861974,8.68263872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmG,25849,Pellworm,Ütermarkerweg,1,,54.52215163,8.6859956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmH,25849,Pellworm,Ütermarkerweg,10,,54.53019059,8.6906048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmI,25849,Pellworm,Ütermarkerweg,11,,54.53087282,8.69398601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmJ,25849,Pellworm,Ütermarkerweg,12,,54.53686841,8.69436726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmK,25849,Pellworm,Ütermarkerweg,13,,54.53841852,8.69512178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmL,25849,Pellworm,Ütermarkerweg,2,,54.5222047,8.68672508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmM,25849,Pellworm,Ütermarkerweg,3,,54.52226313,8.68714749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmN,25849,Pellworm,Ütermarkerweg,5,,54.52229532,8.68748383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmO,25849,Pellworm,Ütermarkerweg,6,,54.52239787,8.68781056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmP,25849,Pellworm,Ütermarkerweg,6,a,54.5224514,8.68819639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmQ,25849,Pellworm,Ütermarkerweg,7,,54.52273309,8.68901424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmR,25849,Pellworm,Ütermarkerweg,8,,54.52331583,8.68904295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmS,25849,Pellworm,Ütermarkerweg,9,,54.52921338,8.68995428
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmT,25849,Pellworm,Uthlandestraße,1,,54.520341,8.68407496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmU,25849,Pellworm,Uthlandestraße,12,,54.5171343,8.68395878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmV,25849,Pellworm,Uthlandestraße,13,,54.51689256,8.68400733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmW,25849,Pellworm,Uthlandestraße,14,,54.51669601,8.68386781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmX,25849,Pellworm,Uthlandestraße,15,,54.51646831,8.68372384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmY,25849,Pellworm,Uthlandestraße,16,,54.51647207,8.68400118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmZ,25849,Pellworm,Uthlandestraße,2,,54.52019472,8.68410628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePma,25849,Pellworm,Untjehörnweg,3,,54.4918559,8.63706295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmb,25849,Pellworm,Untjehörnweg,4,,54.49050434,8.63872321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmc,25849,Pellworm,Untjehörnweg,5,,54.49049233,8.63891299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmd,25849,Pellworm,Untjehörnweg,7,,54.49616067,8.62429347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePme,25849,Pellworm,Ütermarkermitteldeich,1,,54.5254489,8.68244096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmf,25849,Pellworm,Ütermarkermitteldeich,10,,54.5283236,8.68217507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmg,25849,Pellworm,Ütermarkermitteldeich,11,,54.52852759,8.68219037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmh,25849,Pellworm,Ütermarkermitteldeich,12,,54.528895,8.68215794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmi,25849,Pellworm,Ütermarkermitteldeich,13,,54.52913589,8.68214244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmj,25849,Pellworm,Ütermarkermitteldeich,14,,54.5289732,8.68264512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmk,25849,Pellworm,Ütermarkermitteldeich,15,,54.52949161,8.68213855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePml,25849,Pellworm,Ütermarkermitteldeich,16,,54.5297813,8.68213633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmm,25849,Pellworm,Ütermarkermitteldeich,17,,54.53005019,8.68207693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmn,25849,Pellworm,Ütermarkermitteldeich,18,,54.53052985,8.68266177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmo,25849,Pellworm,Ütermarkermitteldeich,19,,54.53424893,8.68678077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmp,25849,Pellworm,Ütermarkermitteldeich,2,,54.52559798,8.68235879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmq,25849,Pellworm,Ütermarkermitteldeich,20,,54.53106654,8.68218633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmr,25849,Pellworm,Ütermarkermitteldeich,21,,54.53101279,8.68185959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePms,25849,Pellworm,Ütermarkermitteldeich,22,,54.53133035,8.68166993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmt,25849,Pellworm,Ütermarkermitteldeich,23,,54.5314575,8.68130246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmu,25849,Pellworm,Ütermarkermitteldeich,24,,54.53158323,8.68138217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmv,25849,Pellworm,Ütermarkermitteldeich,25,,54.53172275,8.68121313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmw,25849,Pellworm,Ütermarkermitteldeich,3,,54.52590983,8.68231841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmx,25849,Pellworm,Ütermarkermitteldeich,3,a,54.5261642,8.68228646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmy,25849,Pellworm,Ütermarkermitteldeich,4,,54.5276698,8.68269075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePmz,25849,Pellworm,Ütermarkermitteldeich,5,,54.52640355,8.68225183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn0,25849,Pellworm,Uthlandestraße,3,,54.51978583,8.68366625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn1,25849,Pellworm,Uthlandestraße,3,a,54.51953545,8.68318112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn2,25849,Pellworm,Uthlandestraße,4,,54.51981287,8.68406674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn3,25849,Pellworm,Uthlandestraße,49,,54.5177027,8.68485781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn4,25849,Pellworm,Uthlandestraße,5,,54.52003704,8.68484513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn5,25849,Pellworm,Uthlandestraße,50,,54.51746139,8.68491129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn6,25849,Pellworm,Uthlandestraße,51,,54.51759247,8.68451576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn7,25849,Pellworm,Uthlandestraße,52,,54.51707139,8.6847556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn8,25849,Pellworm,Uthlandestraße,53,,54.51722531,8.68444674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePn9,25849,Pellworm,Uthlandestraße,6,,54.51903519,8.68406425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnA,25849,Pellworm,Westermühle,6,,54.52126661,8.61378719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnB,25849,Pellworm,Westermühle,7,,54.52029103,8.61399125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnC,25849,Pellworm,Westermühle,8,,54.51990771,8.61967218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnD,25849,Pellworm,Westermühle,9,,54.51917242,8.61566235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnE,25849,Pellworm,Westerschütting,10,,54.49771206,8.61268443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnF,25849,Pellworm,Westerschütting,11,,54.49595514,8.61406015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnG,25849,Pellworm,Westerschütting,2,,54.50444832,8.61582766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnH,25849,Pellworm,Westerschütting,3,,54.50448506,8.61562106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnI,25849,Pellworm,Westerschütting,3,a,54.50436956,8.61536252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnJ,25849,Pellworm,Westerschütting,4,,54.50393797,8.61459963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnK,25849,Pellworm,Westerschütting,5,,54.50392382,8.61339203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnL,25849,Pellworm,Westerschütting,6,,54.50361438,8.60984151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnM,25849,Pellworm,Westerschütting,7,,54.50324058,8.60868695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnN,25849,Pellworm,Westerschütting,7,a,54.50329488,8.6079732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnO,25849,Pellworm,Westerschütting,9,,54.50347169,8.60717823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnP,25849,Pellworm,Westertilli,1,,54.50785139,8.65414019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnQ,25849,Pellworm,Westertilli,10,,54.50736694,8.65256512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnR,25849,Pellworm,Westertilli,11,,54.50732146,8.65249136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnS,25849,Pellworm,Westertilli,13,,54.50724438,8.65238565
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnT,25849,Pellworm,Westertilli,13,a,54.50729289,8.65232741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnU,25849,Pellworm,Westertilli,14,,54.50693207,8.65254887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnV,25849,Pellworm,Westertilli,15,,54.5069882,8.65211173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnW,25849,Pellworm,Westertilli,16,,54.50688995,8.65200231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnY,25849,Pellworm,Westertilli,17,,54.50678017,8.65189259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePna,25849,Pellworm,Uthlandestraße,7,,54.51957172,8.68472587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnb,25849,Pellworm,Uthlandestraße,7,a,54.51933757,8.68478041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnd,25849,Pellworm,Waldhusen,1,,54.52204977,8.64158187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePne,25849,Pellworm,Waldhusen,10,,54.53012929,8.63521177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnf,25849,Pellworm,Waldhusen,11,,54.53108106,8.63527258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePng,25849,Pellworm,Waldhusen,12,,54.53099392,8.63526859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnh,25849,Pellworm,Waldhusen,13,,54.53272033,8.63542364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePni,25849,Pellworm,Waldhusen,14,,54.53458462,8.63516147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnj,25849,Pellworm,Waldhusen,15,,54.53507056,8.63517266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnk,25849,Pellworm,Waldhusen,16,,54.53595009,8.63510752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnl,25849,Pellworm,Waldhusen,17,,54.53658098,8.63499757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnm,25849,Pellworm,Waldhusen,3,a,54.52278845,8.64142054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnn,25849,Pellworm,Waldhusen,4,,54.52264717,8.63942692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePno,25849,Pellworm,Waldhusen,4,a,54.52302938,8.64039836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnp,25849,Pellworm,Waldhusen,5,,54.5229567,8.6338942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnq,25849,Pellworm,Waldhusen,6,,54.52406928,8.63795269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnr,25849,Pellworm,Waldhusen,8,,54.5295837,8.63691589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePns,25849,Pellworm,Waldhusen,9,,54.52861616,8.63477809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnt,25849,Pellworm,Westermühle,1,,54.52656162,8.61272443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnu,25849,Pellworm,Westermühle,10,,54.51897906,8.61452107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnv,25849,Pellworm,Westermühle,11,,54.51835372,8.6133823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnw,25849,Pellworm,Westermühle,2,,54.52651035,8.61195167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnx,25849,Pellworm,Westermühle,3,,54.52641709,8.61124125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePny,25849,Pellworm,Westermühle,4,,54.52450933,8.61138925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePnz,25849,Pellworm,Westermühle,5,,54.5235306,8.61292818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo3,25849,Pellworm,Westertilli,19,,54.50665226,8.6517557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo4,25849,Pellworm,Westertilli,20,,54.50654074,8.65167007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo5,25849,Pellworm,Westertilli,21,,54.50630997,8.65150442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo6,25849,Pellworm,Westertilli,22,,54.50620542,8.65143338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo7,25849,Pellworm,Westertilli,23,,54.50596947,8.6513378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo8,25849,Pellworm,Westertilli,24,,54.50567971,8.65124288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePo9,25849,Pellworm,Westertilli,25,,54.50553578,8.65121142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoA,25849,Pellworm,Königswiese,9,,54.51681969,8.68639654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoa,25849,Pellworm,Westertilli,27,,54.50554474,8.65341473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePob,25849,Pellworm,Westertilli,3,,54.50777644,8.6533311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoc,25849,Pellworm,Westertilli,4,,54.50769928,8.65338089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePod,25849,Pellworm,Westertilli,5,,54.50764927,8.65313526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoe,25849,Pellworm,Westertilli,6,,54.50763152,8.65304518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePof,25849,Pellworm,Westertilli,7,,54.50759086,8.65288375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePog,25849,Pellworm,Westertilli,8,,54.50754023,8.65278252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoh,25849,Pellworm,Westertilli,9,,54.50746912,8.65267544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoi,25849,Pellworm,Westerweg,1,,54.49652952,8.64868854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoj,25849,Pellworm,Westerweg,2,,54.49372145,8.65001013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePok,25849,Pellworm,Westerweg,3,,54.49340643,8.65008339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePol,25849,Pellworm,Westerweg,4,,54.49330026,8.65294697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePom,25849,Pellworm,Königswiese,1,,54.516518,8.6859011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePon,25849,Pellworm,Königswiese,10,,54.51683238,8.68624518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoo,25849,Pellworm,Königswiese,11,,54.51690026,8.68627994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePop,25849,Pellworm,Königswiese,12,,54.51696432,8.68633938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoq,25849,Pellworm,Königswiese,13,,54.51703799,8.68643254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePor,25849,Pellworm,Königswiese,14,,54.51643431,8.68647534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePos,25849,Pellworm,Königswiese,15,,54.51613953,8.68635326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePot,25849,Pellworm,Königswiese,2,,54.51655755,8.68578929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePou,25849,Pellworm,Königswiese,3,,54.51659337,8.6862262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePov,25849,Pellworm,Königswiese,4,,54.5166271,8.6861287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePow,25849,Pellworm,Königswiese,5,,54.51667331,8.68603898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePox,25849,Pellworm,Königswiese,6,,54.51670546,8.68594606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoy,25849,Pellworm,Königswiese,7,,54.5166607,8.68649334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003ePoz,25849,Pellworm,Königswiese,8,,54.5167409,8.68644452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00058Xoo,25849,Pellworm,Waldhusen,7,,54.52670448,8.63743397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FNyB,25849,Pellworm,Waldhusen,3,,54.52220329,8.64204885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JKKe,25849,Pellworm,Deichgrafenweg,25,c,54.5248265,8.6855084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JKKk,25849,Pellworm,Deichgrafenweg,25,b,54.52467425,8.68530859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005JKKq,25849,Pellworm,Deichgrafenweg,25,a,54.52447486,8.68535587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005TTYS,25849,Pellworm,Ütermarkerweg,1,a,54.52213855,8.68539532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Tn7R,25849,Pellworm,Süderkoogweg,11,,54.49570492,8.66662661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Tyb4,25849,Pellworm,Ostersiel,7,,54.51742527,8.68581072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aZjf,25849,Pellworm,Junkersmitteldeich,23,,54.51027514,8.66448639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aZjj,25849,Pellworm,Junkersmitteldeich,24,,54.50984064,8.66560188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aZjn,25849,Pellworm,Junkersmitteldeich,25,,54.51085372,8.66302409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aZjs,25849,Pellworm,Junkersmitteldeich,26,,54.51115265,8.66226928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvwD,25849,Pellworm,Westertilli,27,a,54.50558552,8.65187652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvwr,25849,Pellworm,Westertilli,18,a,54.50674906,8.65236928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvwv,25849,Pellworm,Westertilli,18,,54.50656396,8.65222034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvwz,25849,Pellworm,Westertilli,26,,54.50549706,8.65150194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005bvx0,25849,Pellworm,Westertilli,27,b,54.50558844,8.65197425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cNwg,25849,Pellworm,Nordermitteldeich,50,,54.53704253,8.65187899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cQxB,25849,Pellworm,Nordermitteldeich,51,,54.53716135,8.65165348
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cYS5,25849,Pellworm,In de See,2,a,54.52394653,8.66869762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005cZiO,25849,Pellworm,In de See,2,,54.51941767,8.66716403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jd2j,25849,Pellworm,Nordermitteldeich,16,,54.52960874,8.6724013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oV9Y,25849,Pellworm,Uthlandestraße,10,,54.51746094,8.68400212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oVa3,25849,Pellworm,Uthlandestraße,9,,54.51809223,8.68428157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oVcM,25849,Pellworm,Uthlandestraße,3,b,54.51974439,8.68302338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005osGQ,25849,Pellworm,Nordermitteldeich,28,a,54.53267974,8.66497817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oxHB,25849,Pellworm,Ostersiel,18,b,54.51579958,8.68337526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oxHo,25849,Pellworm,Liebesallee,10,a,54.51552906,8.68682053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005oxHv,25849,Pellworm,Liebesallee,2,,54.51610234,8.68485314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005pNlB,25849,Pellworm,Ostersiel,24,,54.51515838,8.68337347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q48f,25849,Pellworm,Ostertilli,11,a,54.50845727,8.65660963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q5lX,25849,Pellworm,Liliencronweg,26,,54.51864899,8.64302783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005q6YI,25849,Pellworm,Nordermitteldeich,18,a,54.53212401,8.67225131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005r8c9,25849,Pellworm,Grüner Deich,6,,54.54531317,8.65459477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xHFc,25849,Pellworm,Tammensiel,42,a,54.52362341,8.68423118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006K6Kp,25849,Pellworm,Ütermarkermitteldeich,18,a,54.53032759,8.68210263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsc,25849,Pellworm,Tammensiel,43,a,54.523819,8.68460962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsd,25849,Pellworm,Tammensiel,43,b,54.52388983,8.68457449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPse,25849,Pellworm,Tammensiel,43,c,54.5239572,8.68452672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsf,25849,Pellworm,Tammensiel,44,a,54.5241414,8.68433163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsg,25849,Pellworm,Tammensiel,44,b,54.52420052,8.68426787
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsh,25849,Pellworm,Tammensiel,44,c,54.52425745,8.68418972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsi,25849,Pellworm,Tammensiel,45,a,54.52399056,8.68390539
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsj,25849,Pellworm,Tammensiel,45,b,54.52407949,8.68389854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsk,25849,Pellworm,Tammensiel,45,c,54.52415471,8.68388663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UPsl,25849,Pellworm,Tammensiel,45,d,54.52424816,8.6838646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006UpNc,25849,Pellworm,Ilgrofweg,7,,54.52518878,8.68624061
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Y7I9,25849,Pellworm,Ilgrofweg,6,,54.52531966,8.68580001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Y7If,25849,Pellworm,Ilgrofweg,5,,54.52547448,8.68532091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yv5q,25849,Pellworm,Alte Kirche,7,,54.51374258,8.59388032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Yv5v,25849,Pellworm,Alte Kirche,6,,54.51405957,8.59368543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azs5,25849,Pellworm,Kaydeich 15e,35,,54.497026,8.65860759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azs8,25849,Pellworm,Kaydeich 15e,37,,54.49742255,8.65840228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azsA,25849,Pellworm,Kaydeich 15e,36,,54.49722975,8.65854277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azsN,25849,Pellworm,Kaydeich 15e,33,,54.49727457,8.65835314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azsn,25849,Pellworm,Kaydeich 15e,34,,54.49739966,8.65828838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azt0,25849,Pellworm,Kaydeich 15e,32,,54.4971207,8.65843282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azt5,25849,Pellworm,Kaydeich 15e,29,,54.49694803,8.65725305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006aztF,25849,Pellworm,Kaydeich 15e,27,,54.49710159,8.65702485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006aztg,25849,Pellworm,Kaydeich 15e,31,,54.49693753,8.65852763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006aztn,25849,Pellworm,Kaydeich 15e,28,,54.49674424,8.65731908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azts,25849,Pellworm,Kaydeich 15e,30,,54.49711449,8.6571439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azu2,25849,Pellworm,Kaydeich 15e,26,,54.49692115,8.65710425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azuN,25849,Pellworm,Kaydeich 15e,21,,54.49647566,8.65603176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azuW,25849,Pellworm,Kaydeich 15e,20,,54.49704892,8.65551587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azud,25849,Pellworm,Kaydeich 15e,23,,54.49680347,8.65593093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azuk,25849,Pellworm,Kaydeich 15e,25,,54.49673708,8.65726147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azur,25849,Pellworm,Kaydeich 15e,22,,54.49663245,8.65600886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azuy,25849,Pellworm,Kaydeich 15e,24,,54.49691578,8.6558449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azv5,25849,Pellworm,Kaydeich 15e,16,,54.49772205,8.65854393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azvE,25849,Pellworm,Kaydeich 15e,17,,54.49650779,8.65595316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azvP,25849,Pellworm,Kaydeich 15e,14,,54.49745964,8.65789087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azva,25849,Pellworm,Kaydeich 15e,19,,54.49684124,8.65565479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azvo,25849,Pellworm,Kaydeich 15e,18,,54.49667953,8.65585459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azvz,25849,Pellworm,Kaydeich 15e,15,,54.49758213,8.65822909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azw3,25849,Pellworm,Kaydeich 15e,11,,54.49722466,8.65676857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azwK,25849,Pellworm,Kaydeich 15e,9,,54.49720577,8.65603156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azwc,25849,Pellworm,Kaydeich 15e,13,,54.49736849,8.65755451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azwt,25849,Pellworm,Kaydeich 15e,10,,54.49725867,8.65639533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azww,25849,Pellworm,Kaydeich 15e,12,,54.49728997,8.65718234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azx3,25849,Pellworm,Kaydeich 15e,7,,54.49805497,8.65785755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azx6,25849,Pellworm,Kaydeich 15e,38,,54.49729725,8.65556156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azxL,25849,Pellworm,Kaydeich 15e,5,,54.49794463,8.65712196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azxk,25849,Pellworm,Kaydeich 15e,8,,54.49808649,8.65821678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azxp,25849,Pellworm,Kaydeich 15e,6,,54.49800862,8.65747585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azy3,25849,Pellworm,Kaydeich 15e,2,,54.4975963,8.65613298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azy8,25849,Pellworm,Kaydeich 15e,4,,54.49785362,8.65675891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azyx,25849,Pellworm,Kaydeich 15e,1,,54.49747189,8.65576188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006azyy,25849,Pellworm,Kaydeich 15e,3,,54.49774109,8.65641182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bE5D,25849,Pellworm,Ilgrofweg,8,,54.52539129,8.68456506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006bE5G,25849,Pellworm,Ilgrofweg,9,,54.52501786,8.68459323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006fZtH,25849,Pellworm,Tammensiel,42,b,54.52380054,8.68414192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qLPK,25849,Pellworm,Tammensiel,5,,54.5215134,8.68597174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qLPl,25849,Pellworm,Klostermitteldeich,20,,54.51784687,8.59008547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qLPp,25849,Pellworm,Schulstraße,10,,54.522599,8.64350434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qLPt,25849,Pellworm,Tammensiel,40,,54.52496046,8.68246164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qLPx,25849,Pellworm,Tammensiel,4,,54.52063256,8.68520584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qM49,25849,Pellworm,Tammensiel,7,,54.52177476,8.68482758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qM4U,25849,Pellworm,Klostermitteldeich,19,,54.51778757,8.59052108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006qM4i,25849,Pellworm,Tammensiel,6,,54.5216878,8.68459184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006zlng,25849,Pellworm,Liebesallee,3,,54.51616229,8.68492098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00070ZEm,25849,Pellworm,Südermitteldeich,11,,54.50452333,8.64545132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00072wQX,25849,Pellworm,Alter Kirchenweg,3,,54.5183799,8.5938145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007AKro,25849,Pellworm,Seegarden,1,b,54.51676929,8.67160856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007Kpab,25849,Pellworm,Klostermitteldeich,3,a,54.51703933,8.60808687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YfTH,25849,Pellworm,Uthlandestraße,44,,54.51808728,8.68541739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YfTJ,25849,Pellworm,Uthlandestraße,42,,54.51831554,8.68502075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YfTL,25849,Pellworm,Uthlandestraße,46,,54.51791809,8.68522627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YfTN,25849,Pellworm,Uthlandestraße,47,,54.51803224,8.68468432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007yN8V,25849,Pellworm,Seegarden,2,b,54.51735221,8.6735833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AXfi,25849,Pellworm,Ütermarkermitteldeich,5,a,54.52659326,8.68227757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DzY4,25849,Pellworm,Ostersiel,18,e,54.51587797,8.68366719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DzY7,25849,Pellworm,Ostersiel,18,d,54.51581468,8.68368052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DzYg,25849,Pellworm,Ostersiel,18,c,54.51583703,8.68351199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DzYj,25849,Pellworm,Ostersiel,18,a,54.51586072,8.6833461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008J0sA,25849,Pellworm,Alte Kirche,1,a,54.51649859,8.59383954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008JIvF,25849,Pellworm,Nordermitteldeich,15,a,54.53212111,8.67399769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008KBKJ,25849,Pellworm,Westerschütting,1,,54.50448106,8.61599144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bYA3,25849,Pellworm,Schardeich,8,,54.52637181,8.62130674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008bYIH,25849,Pellworm,Schardeich,9,,54.5243209,8.62144348

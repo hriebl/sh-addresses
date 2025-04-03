@@ -1,0 +1,23 @@
+# Amtliche Adressen für die Postleitzahl 25890
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007r1TW,25890,Risum-Lindholm,Dorfstraße,84,a,54.75257001,8.84563064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007r1TX,25890,Risum-Lindholm,Dorfstraße,85,a,54.75255005,8.84575621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007r2J8,25890,Risum-Lindholm,Wegacker,8,a,54.78830808,8.87039991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ruCn,25890,Risum-Lindholm,Sjipwai,36,a,54.91417124,8.32255587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ruCo,25890,Risum-Lindholm,Sjipwai,36,b,54.9142087,8.32255638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z60G,25890,Risum-Lindholm,Nuurhörn,7,a,54.87341469,8.44338076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z60H,25890,Risum-Lindholm,Nuurhörn,7,b,54.87349619,8.44340556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z6b0,25890,Risum-Lindholm,Raanwai,75,a,54.84272064,8.29312661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z6b1,25890,Risum-Lindholm,Raanwai,75,b,54.84261975,8.2930331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ikpx,25890,Risum-Lindholm,Theodor-Storm-Straße,14,c,54.91575705,8.31291592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ikpy,25890,Risum-Lindholm,Theodor-Storm-Straße,14,d,54.91576258,8.31297834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jcAU,25890,Risum-Lindholm,Koogweg,2,,54.89400529,8.33342369
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jcAZ,25890,Risum-Lindholm,Koogweg,4,,54.89398674,8.33358743

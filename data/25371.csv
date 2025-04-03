@@ -1,0 +1,402 @@
+# Amtliche Adressen für die Postleitzahl 25371
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9A,25371,Seestermühe,Am Altenfeldsdeich,14,,53.70418049,9.56045101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9B,25371,Seestermühe,Am Altenfeldsdeich,14,a,53.70431682,9.55999357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9C,25371,Seestermühe,Am Altenfeldsdeich,15,,53.70420913,9.56100395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9D,25371,Seestermühe,Am Altenfeldsdeich,16,,53.70445045,9.55959751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9E,25371,Seestermühe,Am Altenfeldsdeich,18,,53.70458642,9.5592578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9F,25371,Seestermühe,Am Altenfeldsdeich,2,,53.703925,9.56372664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9G,25371,Seestermühe,Am Altenfeldsdeich,2,a,53.70414877,9.56339035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9H,25371,Seestermühe,Am Altenfeldsdeich,2,b,53.70412056,9.56318417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9I,25371,Seestermühe,Am Altenfeldsdeich,2,c,53.70411041,9.56364041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9J,25371,Seestermühe,Am Altenfeldsdeich,20,,53.70477199,9.55885177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9K,25371,Seestermühe,Am Altenfeldsdeich,22,,53.70488862,9.55867996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9L,25371,Seestermühe,Am Altenfeldsdeich,23,,53.70537728,9.5585652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9M,25371,Seestermühe,Am Altenfeldsdeich,24,,53.7053099,9.5580779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9N,25371,Seestermühe,Am Altenfeldsdeich,25,,53.7055005,9.55821469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9O,25371,Seestermühe,Am Altenfeldsdeich,26,,53.70553909,9.55771953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9P,25371,Seestermühe,Am Altenfeldsdeich,27,,53.70569775,9.55794611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9Q,25371,Seestermühe,Am Altenfeldsdeich,28,,53.70574812,9.55740368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9R,25371,Seestermühe,Am Altenfeldsdeich,29,,53.70595319,9.55769256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9S,25371,Seestermühe,Am Altenfeldsdeich,29,b,53.70627536,9.55707904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9T,25371,Seestermühe,Am Altenfeldsdeich,29,c,53.70646029,9.5568682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9U,25371,Seestermühe,Am Altenfeldsdeich,29,d,53.70668866,9.55668845
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9V,25371,Seestermühe,Am Altenfeldsdeich,3,,53.70433346,9.56356883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9W,25371,Seestermühe,Am Altenfeldsdeich,30,,53.70612361,9.5569423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9X,25371,Seestermühe,Am Altenfeldsdeich,31,,53.70690213,9.55655437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9Y,25371,Seestermühe,Am Altenfeldsdeich,32,,53.7064128,9.55660401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9Z,25371,Seestermühe,Am Altenfeldsdeich,33,,53.70711828,9.55636081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9s,25371,Seestermühe,Achtern Dieck,1,,53.7029416,9.56236859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9t,25371,Seestermühe,Achtern Dieck,3,,53.70255193,9.56249035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9u,25371,Seestermühe,Achtern Dieck,5,,53.70131552,9.56286901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9v,25371,Seestermühe,Am Altenfeldsdeich,1,,53.70400001,9.56406736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9w,25371,Seestermühe,Am Altenfeldsdeich,10,,53.70409114,9.56103327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9x,25371,Seestermühe,Am Altenfeldsdeich,11,,53.70463339,9.56166019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9y,25371,Seestermühe,Am Altenfeldsdeich,12,,53.70409966,9.5607852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049T9z,25371,Seestermühe,Am Altenfeldsdeich,13,,53.70440361,9.56109047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta0,25371,Seestermühe,Am Altenfeldsdeich,34,,53.70661589,9.55636032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta1,25371,Seestermühe,Am Altenfeldsdeich,35,,53.70736967,9.55610062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta2,25371,Seestermühe,Am Altenfeldsdeich,36,,53.7068777,9.55607487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta3,25371,Seestermühe,Am Altenfeldsdeich,38,,53.70720266,9.55573636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta4,25371,Seestermühe,Am Altenfeldsdeich,39,,53.70758771,9.55582195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta5,25371,Seestermühe,Am Altenfeldsdeich,4,,53.7041453,9.56287156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta6,25371,Seestermühe,Am Altenfeldsdeich,40,,53.70768096,9.55511436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta7,25371,Seestermühe,Am Altenfeldsdeich,41,,53.70775527,9.55551253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta8,25371,Seestermühe,Am Altenfeldsdeich,42,,53.70812438,9.55453254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ta9,25371,Seestermühe,Am Altenfeldsdeich,43,,53.70788789,9.55529342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaA,25371,Seestermühe,Am Altenfeldsdeich,64,,53.71180623,9.55465887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaB,25371,Seestermühe,Am Altenfeldsdeich,65,,53.7096708,9.55386277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaC,25371,Seestermühe,Am Altenfeldsdeich,67,,53.70986798,9.55399767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaD,25371,Seestermühe,Am Altenfeldsdeich,7,,53.70440594,9.56228395
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaE,25371,Seestermühe,Am Altenfeldsdeich,8,,53.70416514,9.56116745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaF,25371,Seestermühe,Am Altenfeldsdeich,9,,53.70452676,9.56197264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaG,25371,Seestermühe,Am Burggraben,1,,53.70648813,9.56885866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaH,25371,Seestermühe,Am Burggraben,2,,53.70628152,9.568647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaI,25371,Seestermühe,Am Burggraben,3,,53.70662447,9.56898624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaJ,25371,Seestermühe,Am Burggraben,4,,53.70621233,9.56900964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaK,25371,Seestermühe,Am Burggraben,6,,53.70640942,9.56914115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaL,25371,Seestermühe,Am Burggraben,8,,53.70653239,9.56933243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaM,25371,Seestermühe,Am Neuenfeldsdeich,1,,53.70342584,9.56291738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaN,25371,Seestermühe,Am Neuenfeldsdeich,10,,53.7020733,9.56310193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaO,25371,Seestermühe,Am Neuenfeldsdeich,11,,53.7019976,9.56331214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaP,25371,Seestermühe,Am Neuenfeldsdeich,11,a,53.70215814,9.56324773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaQ,25371,Seestermühe,Am Neuenfeldsdeich,12,,53.70170487,9.56327963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaR,25371,Seestermühe,Am Neuenfeldsdeich,13,,53.7017461,9.56355318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaS,25371,Seestermühe,Am Neuenfeldsdeich,14,,53.70109934,9.56345377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaT,25371,Seestermühe,Am Neuenfeldsdeich,15,,53.70156481,9.56359008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaU,25371,Seestermühe,Am Neuenfeldsdeich,16,,53.70060993,9.56362278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaV,25371,Seestermühe,Am Neuenfeldsdeich,17,,53.70134814,9.56365205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaW,25371,Seestermühe,Am Neuenfeldsdeich,18,,53.70039057,9.56370719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaX,25371,Seestermühe,Am Neuenfeldsdeich,19,,53.70102395,9.56374002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaY,25371,Seestermühe,Am Neuenfeldsdeich,19,a,53.70083387,9.56379821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TaZ,25371,Seestermühe,Am Neuenfeldsdeich,19,b,53.70063868,9.56389232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taa,25371,Seestermühe,Am Altenfeldsdeich,44,,53.7089552,9.55372362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tab,25371,Seestermühe,Am Altenfeldsdeich,45,,53.70799557,9.55510399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tac,25371,Seestermühe,Am Altenfeldsdeich,46,,53.70917979,9.55361391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tad,25371,Seestermühe,Am Altenfeldsdeich,46,a,53.70946563,9.55349517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tae,25371,Seestermühe,Am Altenfeldsdeich,47,,53.70815867,9.55500542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taf,25371,Seestermühe,Am Altenfeldsdeich,48,,53.70967531,9.55349874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tag,25371,Seestermühe,Am Altenfeldsdeich,49,,53.70828248,9.55483079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tah,25371,Seestermühe,Am Altenfeldsdeich,5,,53.70436622,9.56298782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tai,25371,Seestermühe,Am Altenfeldsdeich,50,,53.70995411,9.55346537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taj,25371,Seestermühe,Am Altenfeldsdeich,50,a,53.71001609,9.55347419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tak,25371,Seestermühe,Am Altenfeldsdeich,51,,53.70838425,9.55461992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tal,25371,Seestermühe,Am Altenfeldsdeich,52,,53.71014042,9.55362281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tam,25371,Seestermühe,Am Altenfeldsdeich,53,,53.7085291,9.55446837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tan,25371,Seestermühe,Am Altenfeldsdeich,54,a,53.71027905,9.55365901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tao,25371,Seestermühe,Am Altenfeldsdeich,54,b,53.71035379,9.55366563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tap,25371,Seestermühe,Am Altenfeldsdeich,55,,53.70873371,9.55418534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taq,25371,Seestermühe,Am Altenfeldsdeich,56,,53.71053173,9.5534375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tar,25371,Seestermühe,Am Altenfeldsdeich,56,b,53.71067177,9.5538779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tas,25371,Seestermühe,Am Altenfeldsdeich,57,,53.70890478,9.55407065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tat,25371,Seestermühe,Am Altenfeldsdeich,58,,53.71104106,9.55345882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tau,25371,Seestermühe,Am Altenfeldsdeich,59,,53.70909234,9.55396748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tav,25371,Seestermühe,Am Altenfeldsdeich,6,,53.70404107,9.5619056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taw,25371,Seestermühe,Am Altenfeldsdeich,6,a,53.70417772,9.5615421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tax,25371,Seestermühe,Am Altenfeldsdeich,60,,53.71139247,9.55401474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tay,25371,Seestermühe,Am Altenfeldsdeich,61,,53.70927406,9.5538854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Taz,25371,Seestermühe,Am Altenfeldsdeich,63,,53.70947147,9.5538766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb0,25371,Seestermühe,Am Neuenfeldsdeich,2,,53.70322881,9.56269246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb1,25371,Seestermühe,Am Neuenfeldsdeich,20,,53.7000176,9.5638318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb2,25371,Seestermühe,Am Neuenfeldsdeich,21,,53.70042176,9.56402232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb3,25371,Seestermühe,Am Neuenfeldsdeich,22,,53.69965735,9.56401461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb4,25371,Seestermühe,Am Neuenfeldsdeich,23,,53.70019478,9.56411023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb5,25371,Seestermühe,Am Neuenfeldsdeich,24,,53.69923331,9.56421072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb6,25371,Seestermühe,Am Neuenfeldsdeich,25,,53.69998378,9.56413769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb7,25371,Seestermühe,Am Neuenfeldsdeich,25,a,53.69973729,9.56424509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb8,25371,Seestermühe,Am Neuenfeldsdeich,26,,53.69869375,9.56442728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tb9,25371,Seestermühe,Am Neuenfeldsdeich,27,,53.69933092,9.56443126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbA,25371,Seestermühe,Am Neuenfeldsdeich,50,,53.6950486,9.5658397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbB,25371,Seestermühe,Am Neuenfeldsdeich,52,,53.69444806,9.56611119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbC,25371,Seestermühe,Am Neuenfeldsdeich,54,,53.69421776,9.56622784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbD,25371,Seestermühe,Am Neuenfeldsdeich,55,,53.69422083,9.5664296
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbE,25371,Seestermühe,Am Neuenfeldsdeich,56,,53.69390716,9.56645477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbF,25371,Seestermühe,Am Neuenfeldsdeich,58,,53.6936516,9.56661098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbG,25371,Seestermühe,Am Neuenfeldsdeich,59,,53.69333943,9.56685335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbH,25371,Seestermühe,Am Neuenfeldsdeich,6,,53.70262707,9.56287118
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbI,25371,Seestermühe,Am Neuenfeldsdeich,61,,53.69296039,9.56713527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbJ,25371,Seestermühe,Am Neuenfeldsdeich,63,,53.69270195,9.56741361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbK,25371,Seestermühe,Am Neuenfeldsdeich,65,,53.6924138,9.56761143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbL,25371,Seestermühe,Am Neuenfeldsdeich,7,,53.70234515,9.56322459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbM,25371,Seestermühe,Am Neuenfeldsdeich,8,,53.70239443,9.56293642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbN,25371,Seestermühe,Dorfstraße,1,,53.70340426,9.56341627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbO,25371,Seestermühe,Dorfstraße,10,,53.70414507,9.56496313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbP,25371,Seestermühe,Dorfstraße,101,,53.70162896,9.58171293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbQ,25371,Seestermühe,Dorfstraße,12,,53.70421387,9.56535888
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbR,25371,Seestermühe,Dorfstraße,14,,53.70438602,9.56629047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbS,25371,Seestermühe,Dorfstraße,15,,53.70388273,9.56828146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbU,25371,Seestermühe,Dorfstraße,16,a,53.70416604,9.56823759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbV,25371,Seestermühe,Dorfstraße,17,,53.7038978,9.56873525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbW,25371,Seestermühe,Dorfstraße,18,,53.70422904,9.56866426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbX,25371,Seestermühe,Dorfstraße,19,,53.70357764,9.56969762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbY,25371,Seestermühe,Dorfstraße,2,,53.70374626,9.56301621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TbZ,25371,Seestermühe,Dorfstraße,20,,53.70409777,9.56952869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tba,25371,Seestermühe,Am Neuenfeldsdeich,28,,53.6983482,9.5645492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbb,25371,Seestermühe,Am Neuenfeldsdeich,29,,53.69883951,9.56463597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbc,25371,Seestermühe,Am Neuenfeldsdeich,3,,53.70314461,9.56307838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbd,25371,Seestermühe,Am Neuenfeldsdeich,30,,53.69803704,9.56466427
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbe,25371,Seestermühe,Am Neuenfeldsdeich,31,,53.69855312,9.56475385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbf,25371,Seestermühe,Am Neuenfeldsdeich,32,,53.69789896,9.56471197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbg,25371,Seestermühe,Am Neuenfeldsdeich,33,,53.69829366,9.56486069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbh,25371,Seestermühe,Am Neuenfeldsdeich,33,a,53.69823959,9.56488396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbi,25371,Seestermühe,Am Neuenfeldsdeich,34,,53.69754299,9.56486239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbj,25371,Seestermühe,Am Neuenfeldsdeich,35,,53.69750564,9.56516377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbk,25371,Seestermühe,Am Neuenfeldsdeich,36,,53.69714431,9.56502544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbl,25371,Seestermühe,Am Neuenfeldsdeich,37,,53.6971846,9.56529052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbm,25371,Seestermühe,Am Neuenfeldsdeich,38,,53.69694325,9.56510279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbn,25371,Seestermühe,Am Neuenfeldsdeich,39,,53.69690026,9.56539415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbo,25371,Seestermühe,Am Neuenfeldsdeich,4,,53.70283025,9.56282829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbp,25371,Seestermühe,Am Neuenfeldsdeich,40,,53.69664504,9.56520706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbq,25371,Seestermühe,Am Neuenfeldsdeich,41,,53.69656184,9.56552581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbr,25371,Seestermühe,Am Neuenfeldsdeich,41,a,53.69636119,9.56559182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbs,25371,Seestermühe,Am Neuenfeldsdeich,42,,53.69621899,9.56538499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbt,25371,Seestermühe,Am Neuenfeldsdeich,43,,53.69612522,9.56569571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbu,25371,Seestermühe,Am Neuenfeldsdeich,44,,53.69597258,9.56548374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbv,25371,Seestermühe,Am Neuenfeldsdeich,45,,53.69575603,9.56576856
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbw,25371,Seestermühe,Am Neuenfeldsdeich,46,,53.69571406,9.56561638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbx,25371,Seestermühe,Am Neuenfeldsdeich,47,,53.69550263,9.56593525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tby,25371,Seestermühe,Am Neuenfeldsdeich,48,,53.69532331,9.56573969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tbz,25371,Seestermühe,Am Neuenfeldsdeich,5,,53.70272063,9.56320891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc0,25371,Seestermühe,Dorfstraße,21,,53.70373654,9.57005426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc1,25371,Seestermühe,Dorfstraße,22,,53.70410378,9.5698741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc2,25371,Seestermühe,Dorfstraße,22,a,53.70407395,9.57003226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc3,25371,Seestermühe,Dorfstraße,23,,53.70343609,9.57072466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc4,25371,Seestermühe,Dorfstraße,24,,53.70402492,9.57020405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc5,25371,Seestermühe,Dorfstraße,25,,53.70342203,9.57098802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc6,25371,Seestermühe,Dorfstraße,27,,53.7032757,9.5714038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc8,25371,Seestermühe,Dorfstraße,29,,53.7031619,9.5717484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tc9,25371,Seestermühe,Dorfstraße,3,,53.70349746,9.56377584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcA,25371,Seestermühe,Dorfstraße,68,a,53.7018436,9.58117643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcB,25371,Seestermühe,Dorfstraße,69,,53.70152979,9.57821958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcC,25371,Seestermühe,Dorfstraße,7,,53.70359332,9.56434211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcD,25371,Seestermühe,Dorfstraße,70,,53.70191026,9.58145469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcE,25371,Seestermühe,Dorfstraße,71,,53.70146872,9.57845533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcF,25371,Seestermühe,Dorfstraße,73,,53.70141151,9.57871919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcG,25371,Seestermühe,Dorfstraße,75,,53.70137527,9.57895866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcH,25371,Seestermühe,Dorfstraße,77,,53.70131782,9.57922693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcI,25371,Seestermühe,Dorfstraße,79,,53.70125641,9.57943205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcJ,25371,Seestermühe,Dorfstraße,8,,53.70395639,9.56424775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcK,25371,Seestermühe,Dorfstraße,81,,53.70108301,9.57956807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcL,25371,Seestermühe,Dorfstraße,83,,53.70104591,9.5796717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcM,25371,Seestermühe,Dorfstraße,85,,53.70088973,9.57974862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcN,25371,Seestermühe,Dorfstraße,87,,53.70085018,9.57985791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcO,25371,Seestermühe,Dorfstraße,89,,53.70124368,9.57981544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcP,25371,Seestermühe,Dorfstraße,9,,53.70385677,9.56514524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcQ,25371,Seestermühe,Dorfstraße,91,,53.70113992,9.58035848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcR,25371,Seestermühe,Dorfstraße,93,,53.70135599,9.58087161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcS,25371,Seestermühe,Dorfstraße,97,,53.7014528,9.58134088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcT,25371,Seestermühe,Dorfstraße,99,,53.70153071,9.58156996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcU,25371,Seestermühe,Im Esch,1,,53.69189172,9.56714273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcV,25371,Seestermühe,Im Esch,1,a,53.69214841,9.56784713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcW,25371,Seestermühe,Im Esch,10,,53.69174753,9.56490838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcX,25371,Seestermühe,Im Esch,12,,53.69158162,9.56413208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcY,25371,Seestermühe,Im Esch,14,,53.69150837,9.5638519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TcZ,25371,Seestermühe,Im Esch,14,a,53.69145759,9.56360315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tca,25371,Seestermühe,Dorfstraße,30,,53.70392198,9.57039789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcb,25371,Seestermühe,Dorfstraße,31,,53.70308266,9.57205297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcc,25371,Seestermühe,Dorfstraße,32,,53.70380363,9.57071199
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcd,25371,Seestermühe,Dorfstraße,34,,53.70364927,9.57105094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tce,25371,Seestermühe,Dorfstraße,36,,53.70356084,9.57142074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcf,25371,Seestermühe,Dorfstraße,4,,53.70379679,9.56342494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcg,25371,Seestermühe,Dorfstraße,40,,53.70335905,9.57259658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tch,25371,Seestermühe,Dorfstraße,42,,53.70329742,9.57290709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tci,25371,Seestermühe,Dorfstraße,44,,53.70317985,9.57315644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcj,25371,Seestermühe,Dorfstraße,46,,53.70300667,9.57369553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcl,25371,Seestermühe,Dorfstraße,48,,53.70290419,9.57411088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcm,25371,Seestermühe,Dorfstraße,5,,53.70351766,9.56407167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcn,25371,Seestermühe,Dorfstraße,50,,53.70275242,9.57440434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tco,25371,Seestermühe,Dorfstraße,50,a,53.70263798,9.57474087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcp,25371,Seestermühe,Dorfstraße,51,,53.70225374,9.57529128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcq,25371,Seestermühe,Dorfstraße,52,,53.70250605,9.57523887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcr,25371,Seestermühe,Dorfstraße,53,,53.70219211,9.57550142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcs,25371,Seestermühe,Dorfstraße,55,,53.70211012,9.57576108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tct,25371,Seestermühe,Dorfstraße,56,,53.70233697,9.57619682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcu,25371,Seestermühe,Dorfstraße,57,,53.70197101,9.57594088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcv,25371,Seestermühe,Dorfstraße,58,,53.70201764,9.57684674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcw,25371,Seestermühe,Dorfstraße,60,,53.70166022,9.57924825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcx,25371,Seestermühe,Dorfstraße,65,,53.70165962,9.57761991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcy,25371,Seestermühe,Dorfstraße,67,,53.70160506,9.57787857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tcz,25371,Seestermühe,Dorfstraße,68,,53.70161404,9.58092467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td0,25371,Seestermühe,Im Esch,16,,53.68891286,9.56230053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td1,25371,Seestermühe,Im Esch,17,,53.68674743,9.56299076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td2,25371,Seestermühe,Im Esch,17,a,53.68654416,9.56308234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td3,25371,Seestermühe,Im Esch,19,,53.68528197,9.5640045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td4,25371,Seestermühe,Im Esch,2,,53.69217606,9.56735668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td5,25371,Seestermühe,Im Esch,20,,53.68210442,9.56820464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td6,25371,Seestermühe,Im Esch,20,a,53.68193112,9.56978819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td7,25371,Seestermühe,Im Esch,20,b,53.68197805,9.56878286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td8,25371,Seestermühe,Im Esch,21,,53.68482353,9.56379037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Td9,25371,Seestermühe,Im Esch,22,,53.68199756,9.57238894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdA,25371,Seestermühe,In Appelhoff,13,,53.7028131,9.56408447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdB,25371,Seestermühe,In Appelhoff,14,,53.70164874,9.56559308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdC,25371,Seestermühe,In Appelhoff,15,,53.70286093,9.564441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdD,25371,Seestermühe,In Appelhoff,16,,53.70160641,9.56518833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdE,25371,Seestermühe,In Appelhoff,17,,53.70292708,9.56478421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdF,25371,Seestermühe,In Appelhoff,18,,53.7015564,9.5648814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdG,25371,Seestermühe,In Appelhoff,19,,53.70242619,9.56503641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdH,25371,Seestermühe,In Appelhoff,2,,53.70339777,9.56539588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdI,25371,Seestermühe,In Appelhoff,20,,53.70147873,9.56462758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdJ,25371,Seestermühe,In Appelhoff,21,,53.70223408,9.56521145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdK,25371,Seestermühe,In Appelhoff,22,,53.70144052,9.56422683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdL,25371,Seestermühe,In Appelhoff,23,,53.70201768,9.56536873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdM,25371,Seestermühe,In Appelhoff,24,,53.70174388,9.56412681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdN,25371,Seestermühe,In Appelhoff,25,,53.7018589,9.56535047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdO,25371,Seestermühe,In Appelhoff,26,,53.70193373,9.5641044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdP,25371,Seestermühe,In Appelhoff,27,,53.7017967,9.5647121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdQ,25371,Seestermühe,In Appelhoff,28,,53.70211768,9.56402367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdR,25371,Seestermühe,In Appelhoff,29,,53.70197411,9.56457122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdS,25371,Seestermühe,In Appelhoff,3,,53.70315539,9.56460541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdT,25371,Seestermühe,In Appelhoff,30,,53.70229922,9.56406015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdU,25371,Seestermühe,In Appelhoff,31,,53.70219897,9.56468377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdV,25371,Seestermühe,In Appelhoff,33,,53.70237668,9.56453854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdW,25371,Seestermühe,In Appelhoff,4,,53.70306099,9.56528572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdX,25371,Seestermühe,In Appelhoff,5,,53.70312186,9.56431775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdY,25371,Seestermühe,In Appelhoff,6,,53.70229803,9.565776
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TdZ,25371,Seestermühe,In Appelhoff,7,,53.7030316,9.5639855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tda,25371,Seestermühe,Im Esch,22,a,53.68209999,9.57296416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdb,25371,Seestermühe,Im Esch,24,,53.68217656,9.57324071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdc,25371,Seestermühe,Im Esch,4,,53.69218966,9.56681789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdd,25371,Seestermühe,Im Esch,6,,53.69205305,9.56619278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tde,25371,Seestermühe,Im Esch,8,,53.69190965,9.56557774
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdf,25371,Seestermühe,Im Felde,1,,53.71525268,9.57809979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdg,25371,Seestermühe,In de Hörn,1,,53.70180522,9.58230146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdh,25371,Seestermühe,In de Hörn,1,a,53.70185975,9.58223561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdi,25371,Seestermühe,In de Hörn,10,,53.70151109,9.58363011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdj,25371,Seestermühe,In de Hörn,12,,53.70152792,9.58394806
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdk,25371,Seestermühe,In de Hörn,14,,53.7015533,9.58426974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdl,25371,Seestermühe,In de Hörn,16,,53.70164008,9.58478207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdm,25371,Seestermühe,In de Hörn,16,a,53.70141603,9.58459696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdn,25371,Seestermühe,In de Hörn,2,,53.70146668,9.58259344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdo,25371,Seestermühe,In de Hörn,3,,53.70170873,9.5827135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdp,25371,Seestermühe,In de Hörn,4,,53.70146658,9.58285933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdq,25371,Seestermühe,In de Hörn,5,,53.70170136,9.5829341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdr,25371,Seestermühe,In de Hörn,6,,53.70146937,9.58309622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tds,25371,Seestermühe,In de Hörn,8,,53.70148621,9.58336912
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdt,25371,Seestermühe,In de Huck,2,,53.71159354,9.55358028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdu,25371,Seestermühe,In de Huck,3,,53.71186464,9.55403616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdv,25371,Seestermühe,In de Huck,5,,53.711994,9.55426207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdw,25371,Seestermühe,In Appelhoff,1,,53.70343473,9.56488829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdx,25371,Seestermühe,In Appelhoff,10,,53.70190683,9.56598268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdy,25371,Seestermühe,In Appelhoff,11,,53.70272561,9.56384599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tdz,25371,Seestermühe,In Appelhoff,12,,53.70164615,9.56606466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te0,25371,Seestermühe,In Appelhoff,9,,53.7029892,9.56371425
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te1,25371,Seestermühe,Mühlendeich,1,,53.71190152,9.55550944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te2,25371,Seestermühe,Mühlendeich,10,,53.71325626,9.55689096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te3,25371,Seestermühe,Mühlendeich,12,,53.71355801,9.55797093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te4,25371,Seestermühe,Mühlendeich,14,,53.71376046,9.55849374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te5,25371,Seestermühe,Mühlendeich,16,,53.71405208,9.55922622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te6,25371,Seestermühe,Mühlendeich,18,,53.71441993,9.56025827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te7,25371,Seestermühe,Mühlendeich,2,,53.71199062,9.55492133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te8,25371,Seestermühe,Mühlendeich,20,,53.71466912,9.56098958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Te9,25371,Seestermühe,Mühlendeich,22,,53.71491316,9.5617729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeA,25371,Seestermühe,Nörn,3,,53.70434867,9.56418196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeB,25371,Seestermühe,Op de Weddern,10,,53.70495256,9.5602876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeC,25371,Seestermühe,Op de Weddern,11,,53.70470978,9.55994549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeD,25371,Seestermühe,Op de Weddern,12,,53.70503067,9.55994272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeE,25371,Seestermühe,Op de Weddern,13,,53.70477874,9.55965646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeF,25371,Seestermühe,Op de Weddern,14,,53.70509567,9.55965942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeG,25371,Seestermühe,Op de Weddern,15,,53.70484646,9.55928828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeH,25371,Seestermühe,Op de Weddern,16,,53.70519389,9.55927377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeI,25371,Seestermühe,Op de Weddern,18,,53.70524519,9.55904684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeJ,25371,Seestermühe,Op de Weddern,2,,53.70469779,9.56139859
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeK,25371,Seestermühe,Op de Weddern,4,,53.70476338,9.56109579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeL,25371,Seestermühe,Op de Weddern,6,,53.70481706,9.56087195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeM,25371,Seestermühe,Op de Weddern,7,,53.70456149,9.56052122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeN,25371,Seestermühe,Op de Weddern,8,,53.70489311,9.56054447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeO,25371,Seestermühe,Op de Weddern,9,,53.70463022,9.56025355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeP,25371,Seestermühe,Schallenhaus,1,,53.70884192,9.5318028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeQ,25371,Seestermühe,Schlickburg,41,,53.69181717,9.57982145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeR,25371,Seestermühe,Schlickburg,43,,53.69238032,9.58033448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeS,25371,Seestermühe,Schlickburg,49,,53.69417195,9.58309216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeT,25371,Seestermühe,Schulstraße,1,,53.70514478,9.5669583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeU,25371,Seestermühe,Schulstraße,10,,53.70578766,9.56815295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeV,25371,Seestermühe,Schulstraße,12,,53.70595908,9.5682928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeW,25371,Seestermühe,Schulstraße,14,,53.70611444,9.56840695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeX,25371,Seestermühe,Schulstraße,15,,53.70745948,9.56873482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeY,25371,Seestermühe,Schulstraße,16,,53.70756941,9.56967138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049TeZ,25371,Seestermühe,Schulstraße,18,,53.70783442,9.56953155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tea,25371,Seestermühe,Mühlendeich,24,,53.71509799,9.56242387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teb,25371,Seestermühe,Mühlendeich,25,,53.71508665,9.56277719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tec,25371,Seestermühe,Mühlendeich,26,,53.7152884,9.56313167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ted,25371,Seestermühe,Mühlendeich,27,,53.71506302,9.5632736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tee,25371,Seestermühe,Mühlendeich,28,,53.71535396,9.56337208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tef,25371,Seestermühe,Mühlendeich,29,,53.71529199,9.5637986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teg,25371,Seestermühe,Mühlendeich,3,,53.71206851,9.55573462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teh,25371,Seestermühe,Mühlendeich,30,,53.71547191,9.56370406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tei,25371,Seestermühe,Mühlendeich,32,,53.71557266,9.56412675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tej,25371,Seestermühe,Mühlendeich,34,,53.71563848,9.56438975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tek,25371,Seestermühe,Mühlendeich,35,,53.71565547,9.56485232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tel,25371,Seestermühe,Mühlendeich,36,,53.7158815,9.56542008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tem,25371,Seestermühe,Mühlendeich,36,a,53.71597127,9.56599514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ten,25371,Seestermühe,Mühlendeich,38,,53.71599433,9.56649601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teo,25371,Seestermühe,Mühlendeich,40,,53.71606633,9.56684739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tep,25371,Seestermühe,Mühlendeich,42,,53.71609404,9.5674823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teq,25371,Seestermühe,Mühlendeich,5,,53.71229136,9.55646858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ter,25371,Seestermühe,Mühlendeich,8,,53.71293126,9.55605448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tes,25371,Seestermühe,Nörn,1,,53.70567289,9.5657172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tet,25371,Seestermühe,Nörn,1,a,53.70555298,9.56574447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Teu,25371,Seestermühe,Nörn,1,b,53.70557821,9.56645568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tev,25371,Seestermühe,Nörn,1,c,53.70550537,9.56624832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tew,25371,Seestermühe,Nörn,1,d,53.70548638,9.56610286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tex,25371,Seestermühe,Nörn,1,e,53.70542126,9.56616719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tey,25371,Seestermühe,Nörn,1,f,53.70542445,9.5663256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tez,25371,Seestermühe,Nörn,1,g,53.70547835,9.56651655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf0,25371,Seestermühe,Schulstraße,2,,53.7047357,9.56728652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf1,25371,Seestermühe,Schulstraße,20,,53.70824061,9.56937255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf2,25371,Seestermühe,Schulstraße,22,,53.70846853,9.56802699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf3,25371,Seestermühe,Schulstraße,24,,53.70835761,9.56789957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf4,25371,Seestermühe,Schulstraße,26,,53.70828822,9.56783134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf5,25371,Seestermühe,Schulstraße,28,,53.70819928,9.56775377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf6,25371,Seestermühe,Schulstraße,3,,53.70534529,9.56754339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf7,25371,Seestermühe,Schulstraße,30,,53.70822951,9.56737966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf8,25371,Seestermühe,Schulstraße,4,,53.70499608,9.56772898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tf9,25371,Seestermühe,Schulstraße,6,,53.70544483,9.56864905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfa,25371,Seestermühe,Schulstraße,6,a,53.70502887,9.56988843
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfb,25371,Seestermühe,Schulstraße,8,,53.70559348,9.56810143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfc,25371,Seestermühe,Stiegstück,1,,53.71178758,9.55546795
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfd,25371,Seestermühe,Stiegstück,3,,53.7116807,9.55622667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfe,25371,Seestermühe,Stiegstück,5,,53.71161067,9.55663892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tff,25371,Seestermühe,Stiegstück,7,,53.71144896,9.55719008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfg,25371,Seestermühe,Stiegstück,9,,53.7114387,9.55753431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Tfh,25371,Seestermühe,Störenhaus,1,,53.71602833,9.54007251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6lM,25371,Seestermühe,Kuhle,21,,53.71728568,9.52756712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004a6lN,25371,Seestermühe,Kuhle,22,,53.71738581,9.52706854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005FNCw,25371,Seestermühe,Nörn,2,a,53.70468993,9.56468056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Qb0S,25371,Seestermühe,Am Neuenfeldsdeich,19,c,53.70084881,9.56394704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005STQt,25371,Seestermühe,Am Neuenfeldsdeich,25,b,53.6995608,9.56433174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KXk3,25371,Seestermühe,Schlickburg,41,a,53.69220623,9.57978077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006WYiC,25371,Seestermühe,Am Altenfeldsdeich,42,b,53.70867541,9.5539034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006YUn8,25371,Seestermühe,Mühlendeich,44,,53.71615919,9.56774171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006t1IQ,25371,Seestermühe,Im Esch,19,a,53.68615265,9.56322615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006wLTD,25371,Seestermühe,Dorfstraße,13,,53.70362503,9.56779387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006xrQs,25371,Seestermühe,Dorfstraße,47,,53.70248166,9.57434483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000768sS,25371,Seestermühe,Mühlendeich,18,a,53.71445465,9.56037822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QYWo,25371,Seestermühe,Dorfstraße,52,a,53.70322598,9.57469367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QYWs,25371,Seestermühe,Dorfstraße,54,a,53.70341409,9.57531949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007QYWx,25371,Seestermühe,Dorfstraße,54,,53.70262922,9.57540971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007WEKY,25371,Seestermühe,Am Altenfeldsdeich,29,a,53.70619995,9.55741139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ar1Q,25371,Seestermühe,Im Esch,16,a,53.68821575,9.5621946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007qlpg,25371,Seestermühe,Dorfstraße,11,,53.70365431,9.56739698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083pb9,25371,Seestermühe,Stiegstück,11,,53.71095521,9.55843755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083rus,25371,Seestermühe,Schulstraße,1,a,53.70451064,9.56720592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083rut,25371,Seestermühe,Schulstraße,1,b,53.70452519,9.56720078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083ruu,25371,Seestermühe,Schulstraße,1,c,53.70459778,9.56715364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ffcD,25371,Seestermühe,Dorfstraße,30,a,53.7038935,9.57050871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008nHh9,25371,Seestermühe,Nörn,2,b,53.7045106,9.56429941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2A,25371,Seestermühe,Schulstraße,2,a,53.70458697,9.56745564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2B,25371,Seestermühe,Schulstraße,2,b,53.70460905,9.56759864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2C,25371,Seestermühe,Schulstraße,2,c,53.70462182,9.56775689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2D,25371,Seestermühe,Schulstraße,2,d,53.70462171,9.56790282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2E,25371,Seestermühe,Schulstraße,2,e,53.70460601,9.56805658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2F,25371,Seestermühe,Schulstraße,2,f,53.70458093,9.56820844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2G,25371,Seestermühe,Schulstraße,2,g,53.70455774,9.56834857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2H,25371,Seestermühe,Schulstraße,2,h,53.70453141,9.5685077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008np2z,25371,Seestermühe,Dorfstraße,16,,53.70415718,9.56768292

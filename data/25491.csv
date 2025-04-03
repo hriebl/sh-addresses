@@ -1,0 +1,531 @@
+# Amtliche Adressen für die Postleitzahl 25491
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA0,25491,Hetlingen,Hauptstraße,65,,53.61052195,9.62934048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA1,25491,Hetlingen,Hauptstraße,66,,53.60929394,9.63133182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA2,25491,Hetlingen,Hauptstraße,68,,53.60933664,9.63113781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA3,25491,Hetlingen,Hauptstraße,7,,53.60754581,9.63852637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA4,25491,Hetlingen,Hauptstraße,70,,53.60940903,9.6308688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA5,25491,Hetlingen,Hauptstraße,71,,53.61150839,9.62913315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA6,25491,Hetlingen,Hauptstraße,72,,53.60948326,9.63061564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA7,25491,Hetlingen,Hauptstraße,73,,53.61172388,9.62914921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA8,25491,Hetlingen,Hauptstraße,74,,53.60954261,9.63027889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KA9,25491,Hetlingen,Hauptstraße,74,a,53.60970534,9.63045892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAA,25491,Hetlingen,Holmer Straße,15,,53.6093968,9.64131838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAB,25491,Hetlingen,Holmer Straße,17,,53.60949758,9.64161299
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAC,25491,Hetlingen,Holmer Straße,19,,53.60961455,9.64194349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAD,25491,Hetlingen,Idenburg,2,,53.60123884,9.64878459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAE,25491,Hetlingen,Krugstraße,1,,53.60717032,9.63809966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAF,25491,Hetlingen,Krugstraße,11,,53.60602315,9.6386151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAG,25491,Hetlingen,Krugstraße,2,,53.60691534,9.63797748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAH,25491,Hetlingen,Krugstraße,3,,53.60713452,9.63817379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAI,25491,Hetlingen,Krugstraße,4,,53.60681873,9.63814076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAJ,25491,Hetlingen,Krugstraße,5,,53.60678385,9.63841994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAK,25491,Hetlingen,Krugstraße,6,,53.60666071,9.63790581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAL,25491,Hetlingen,Krugstraße,7,,53.6065986,9.63834913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAM,25491,Hetlingen,Krugstraße,8,,53.60636867,9.6378747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAN,25491,Hetlingen,Krugstraße,9,,53.60631989,9.63814231
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAO,25491,Hetlingen,Op den Barg,1,,53.60698107,9.63873708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAP,25491,Hetlingen,Op den Barg,10,,53.60720696,9.63986571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAQ,25491,Hetlingen,Op den Barg,11,,53.60733402,9.63960968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAR,25491,Hetlingen,Op den Barg,3,,53.60709155,9.63893747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAS,25491,Hetlingen,Op den Barg,4,,53.60685593,9.63913068
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAT,25491,Hetlingen,Op den Barg,5,,53.60719904,9.63913379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAU,25491,Hetlingen,Op den Barg,6,,53.60697308,9.63936092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAV,25491,Hetlingen,Op den Barg,7,,53.60729387,9.63930717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAW,25491,Hetlingen,Op den Barg,8,,53.60710652,9.6395616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAX,25491,Hetlingen,Op den Barg,9,,53.60749043,9.63936271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAY,25491,Hetlingen,Op de Weid,1,,53.60891898,9.63002256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAZ,25491,Hetlingen,Op de Weid,10,,53.6078579,9.62936612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAa,25491,Hetlingen,Hauptstraße,74,b,53.60979415,9.63054773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAb,25491,Hetlingen,Hauptstraße,74,f,53.61014808,9.63099959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAc,25491,Hetlingen,Hauptstraße,75,,53.61190615,9.6291768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAd,25491,Hetlingen,Hauptstraße,76,,53.6095982,9.63010354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAf,25491,Hetlingen,Hauptstraße,77,,53.61207649,9.62910216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAg,25491,Hetlingen,Hauptstraße,78,,53.60981502,9.62991455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAh,25491,Hetlingen,Hauptstraße,79,,53.61223602,9.62908327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAi,25491,Hetlingen,Hauptstraße,8,,53.60765628,9.63827403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAj,25491,Hetlingen,Hauptstraße,80,,53.61019869,9.62979984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAk,25491,Hetlingen,Hauptstraße,81,,53.61243146,9.62902584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAl,25491,Hetlingen,Hauptstraße,82,,53.61019869,9.62979984
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAm,25491,Hetlingen,Hauptstraße,83,,53.61243146,9.62902584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAn,25491,Hetlingen,Hauptstraße,84,,53.61055897,9.62977603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAo,25491,Hetlingen,Hauptstraße,85,,53.61261746,9.62899019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAp,25491,Hetlingen,Hauptstraße,86,,53.61055897,9.62977603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAq,25491,Hetlingen,Hauptstraße,87,,53.61279271,9.62891994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAr,25491,Hetlingen,Hauptstraße,88,,53.61085078,9.62971119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAs,25491,Hetlingen,Hauptstraße,89,,53.61308678,9.62884329
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAt,25491,Hetlingen,Hauptstraße,9,,53.60743346,9.63838221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAu,25491,Hetlingen,Hauptstraße,90,,53.61124274,9.62961628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAv,25491,Hetlingen,Hauptstraße,92,,53.6116338,9.62953119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAw,25491,Hetlingen,Hetlinger Schanze,6,,53.60383308,9.62463711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAy,25491,Hetlingen,Holmer Straße,10,,53.61248751,9.6530815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KAz,25491,Hetlingen,Holmer Straße,13,,53.60933082,9.64113681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB0,25491,Hetlingen,Op de Weid,11,,53.60843001,9.63033019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB1,25491,Hetlingen,Op de Weid,12,,53.60786544,9.62985707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB2,25491,Hetlingen,Op de Weid,13,,53.60842163,9.63000638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB3,25491,Hetlingen,Op de Weid,15,,53.60811695,9.63016548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB4,25491,Hetlingen,Op de Weid,16,,53.60771826,9.63068959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB5,25491,Hetlingen,Op de Weid,17,,53.6079887,9.63050241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB6,25491,Hetlingen,Op de Weid,18,,53.60738763,9.63054708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB7,25491,Hetlingen,Op de Weid,2,,53.60870438,9.62902126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB8,25491,Hetlingen,Op de Weid,3,,53.6086807,9.62995284
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KB9,25491,Hetlingen,Op de Weid,4,,53.60851336,9.62908532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBA,25491,Hetlingen,Sandstücken,4,,53.61222083,9.63027822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBB,25491,Hetlingen,Sandstücken,5,,53.61237527,9.63002612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBC,25491,Hetlingen,Sandstücken,6,,53.61239732,9.63052375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBD,25491,Hetlingen,Sandstücken,7,,53.61252403,9.63020462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBE,25491,Hetlingen,Sandstücken,8,,53.61254139,9.63067781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBF,25491,Hetlingen,Sandstücken,9,,53.6126636,9.63036253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBG,25491,Hetlingen,Sandweg,1,,53.61140204,9.62997489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBH,25491,Hetlingen,Sandweg,10,,53.61173763,9.63084903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBI,25491,Hetlingen,Sandweg,12,,53.61189601,9.63104682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBJ,25491,Hetlingen,Sandweg,12,a,53.61173065,9.6313514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBK,25491,Hetlingen,Sandweg,14,,53.6119155,9.63154091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBL,25491,Hetlingen,Sandweg,16,,53.61200421,9.63141078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBM,25491,Hetlingen,Sandweg,18,,53.61207606,9.63125171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBN,25491,Hetlingen,Sandweg,2,,53.61113025,9.63012823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBO,25491,Hetlingen,Sandweg,20,,53.61217246,9.63101592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBP,25491,Hetlingen,Sandweg,22,,53.61224998,9.63083492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBQ,25491,Hetlingen,Sandweg,3,,53.61152156,9.63012822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBR,25491,Hetlingen,Sandweg,3,a,53.61162065,9.63025349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBS,25491,Hetlingen,Sandweg,4,,53.6112851,9.63030448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBT,25491,Hetlingen,Sandweg,5,,53.61180823,9.63048633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBU,25491,Hetlingen,Sandweg,6,,53.61144179,9.63048587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBV,25491,Hetlingen,Sandweg,7,,53.61191989,9.63062804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBW,25491,Hetlingen,Sandweg,8,,53.61157186,9.63065419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBX,25491,Hetlingen,Schulstraße,1,,53.60745432,9.63546536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBY,25491,Hetlingen,Schulstraße,2,,53.60731978,9.63492484
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBZ,25491,Hetlingen,Schulstraße,3,,53.60731998,9.63522713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBa,25491,Hetlingen,Op de Weid,5,,53.60859911,9.63054005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBb,25491,Hetlingen,Op de Weid,6,a,53.6086217,9.62955808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBc,25491,Hetlingen,Op de Weid,6,b,53.60844445,9.62956965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBd,25491,Hetlingen,Op de Weid,7,,53.60862147,9.63081025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBe,25491,Hetlingen,Op de Weid,8,,53.60817261,9.62952515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBf,25491,Hetlingen,Op de Weid,9,,53.60840325,9.6306333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBg,25491,Hetlingen,Opn Feld,1,,53.61028133,9.63055884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBh,25491,Hetlingen,Opn Feld,21,,53.61133541,9.63217293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBi,25491,Hetlingen,Opn Feld,4,,53.60997458,9.63070948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBj,25491,Hetlingen,Opn Feld,6,,53.61009382,9.6308013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBk,25491,Hetlingen,Röbenkamp,1,,53.60924728,9.63307767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBl,25491,Hetlingen,Röbenkamp,10,,53.61009677,9.63247701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBm,25491,Hetlingen,Röbenkamp,2,,53.60949757,9.63308658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBn,25491,Hetlingen,Röbenkamp,3,,53.60940304,9.63266953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBo,25491,Hetlingen,Röbenkamp,4,,53.609622,9.6328803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBp,25491,Hetlingen,Röbenkamp,5,,53.60951511,9.63241737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBq,25491,Hetlingen,Röbenkamp,6,,53.60974386,9.63269093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBr,25491,Hetlingen,Röbenkamp,7,,53.60961862,9.63219679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBs,25491,Hetlingen,Röbenkamp,8,,53.6098596,9.63247475
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBt,25491,Hetlingen,Röbenkamp,9,,53.60973716,9.63195768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBu,25491,Hetlingen,Sandstücken,1,,53.61209552,9.62966415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBv,25491,Hetlingen,Sandstücken,10,,53.61267873,9.63085171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBw,25491,Hetlingen,Sandstücken,11,,53.61278925,9.63052109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBx,25491,Hetlingen,Sandstücken,12,,53.61282387,9.63104037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBy,25491,Hetlingen,Sandstücken,2,,53.61205709,9.63008137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KBz,25491,Hetlingen,Sandstücken,3,,53.61223824,9.62986222
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC0,25491,Hetlingen,Schulstraße,4,,53.60682957,9.63471273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC1,25491,Hetlingen,Schulstraße,4,a,53.60685992,9.63424355
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC2,25491,Hetlingen,Schulstraße,6,,53.60656255,9.63456724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC3,25491,Hetlingen,Schulstraße,7,,53.60699826,9.63536002
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC4,25491,Hetlingen,Schulstraße,9,,53.60672251,9.63510606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC5,25491,Hetlingen,Strieb'n,4,,53.60790399,9.6362047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC6,25491,Hetlingen,Strieb'n,6,,53.60805503,9.6363581
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KC7,25491,Hetlingen,Strieb'n,8,,53.60821548,9.63651848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuA,25491,Hetlingen,Achter de Höf,1,,53.60765494,9.63394981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuB,25491,Hetlingen,Achter de Höf,2,,53.60782404,9.63358848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuC,25491,Hetlingen,Achter de Höf,3,,53.60740409,9.63434098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuD,25491,Hetlingen,Achter de Höf,5,,53.60728429,9.63398815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuE,25491,Hetlingen,Achter de Höf,8,,53.60682946,9.63309255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuF,25491,Hetlingen,Achter de Kark,1,,53.60870904,9.63549763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuG,25491,Hetlingen,Achter de Kark,10,,53.609506,9.63738612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuH,25491,Hetlingen,Achter de Kark,11,,53.60998093,9.63696642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuI,25491,Hetlingen,Achter de Kark,12,,53.60940123,9.63753111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuJ,25491,Hetlingen,Achter de Kark,13,,53.61013765,9.63709362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuK,25491,Hetlingen,Achter de Kark,14,,53.6095839,9.63763723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuL,25491,Hetlingen,Achter de Kark,15,,53.61001485,9.63736077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuM,25491,Hetlingen,Achter de Kark,16,,53.60975758,9.63779104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuN,25491,Hetlingen,Achter de Kark,18,,53.60985803,9.63759122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuO,25491,Hetlingen,Achter de Kark,2,,53.60833479,9.63554399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuP,25491,Hetlingen,Achter de Kark,3,,53.60904563,9.6356142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuQ,25491,Hetlingen,Achter de Kark,4,,53.60918523,9.63624784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuR,25491,Hetlingen,Achter de Kark,5,,53.60923714,9.63592274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuS,25491,Hetlingen,Achter de Kark,6,,53.60913972,9.63646907
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuT,25491,Hetlingen,Achter de Kark,7,,53.60948099,9.6363761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuV,25491,Hetlingen,Achter de Kark,8,,53.60933815,9.6367016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuW,25491,Hetlingen,Achter de Kark,8,a,53.60928952,9.63678028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuX,25491,Hetlingen,Achter de Kark,9,,53.60982842,9.63671386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuY,25491,Hetlingen,Achtern Diek,1,,53.60692803,9.63719264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KuZ,25491,Hetlingen,Achtern Diek,10,,53.60676381,9.63582497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv0,25491,Hetlingen,Achtern Diek,10,a,53.60654299,9.63588593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv1,25491,Hetlingen,Achtern Diek,10,b,53.60651294,9.63532825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv2,25491,Hetlingen,Achtern Diek,14,,53.60644383,9.63396419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv3,25491,Hetlingen,Achtern Diek,16,,53.60647633,9.63340166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv5,25491,Hetlingen,Achtern Diek,2,,53.60695931,9.63690895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv6,25491,Hetlingen,Achtern Diek,3,,53.60656631,9.6371023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv7,25491,Hetlingen,Achtern Diek,4,,53.60675842,9.63630587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv8,25491,Hetlingen,Achtern Diek,8,,53.6065562,9.63654661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kv9,25491,Hetlingen,Am Brückenreth,2,,53.60834252,9.63878353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvA,25491,Hetlingen,Blink,24,,53.60707381,9.64198778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvB,25491,Hetlingen,Blink,25,,53.60819879,9.6404851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvC,25491,Hetlingen,Blink,26,,53.60717053,9.6422815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvD,25491,Hetlingen,Blink,28,,53.60731951,9.64251748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvE,25491,Hetlingen,Blink,28,a,53.60753775,9.64285929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvF,25491,Hetlingen,Blink,28,b,53.60775321,9.64308781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvG,25491,Hetlingen,Blink,28,c,53.6080351,9.64292556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvH,25491,Hetlingen,Blink,28,d,53.6079612,9.64266542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvI,25491,Hetlingen,Blink,28,e,53.60774218,9.64242372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvJ,25491,Hetlingen,Blink,3,,53.60785583,9.64052601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvK,25491,Hetlingen,Blink,30,,53.60756194,9.64204683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvL,25491,Hetlingen,Blink,32,,53.60771452,9.64193502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvM,25491,Hetlingen,Blink,34,,53.60798414,9.64174049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvN,25491,Hetlingen,Blink,34,a,53.60806949,9.6420445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvO,25491,Hetlingen,Blink,34,b,53.60820872,9.64232497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvP,25491,Hetlingen,Blink,34,c,53.60832853,9.64259109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvQ,25491,Hetlingen,Blink,34,d,53.60856904,9.64236074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvR,25491,Hetlingen,Blink,34,e,53.60846131,9.64211123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvS,25491,Hetlingen,Blink,34,f,53.60829842,9.64185488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvT,25491,Hetlingen,Blink,36,,53.60816498,9.64155571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvU,25491,Hetlingen,Blink,38,,53.60829434,9.6412719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvV,25491,Hetlingen,Blink,4,,53.60794006,9.63975797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvW,25491,Hetlingen,Blink,40,,53.60848586,9.64119583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvX,25491,Hetlingen,Blink,40,a,53.60866527,9.64162241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvY,25491,Hetlingen,Blink,40,b,53.60872273,9.64193712
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KvZ,25491,Hetlingen,Blink,40,c,53.6089153,9.64165065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kva,25491,Hetlingen,Bandrieterstroot,1,,53.61089833,9.63040654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvb,25491,Hetlingen,Bandrieterstroot,1,a,53.61081604,9.63021302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvc,25491,Hetlingen,Bandrieterstroot,10,,53.61120616,9.63118943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvd,25491,Hetlingen,Bandrieterstroot,12,,53.61141283,9.63158562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kve,25491,Hetlingen,Bandrieterstroot,14,,53.61161752,9.63186313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvf,25491,Hetlingen,Bandrieterstroot,2,,53.61039534,9.63001515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvg,25491,Hetlingen,Bandrieterstroot,4,,53.61056272,9.63033233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvh,25491,Hetlingen,Bandrieterstroot,4,a,53.61063855,9.63057391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvi,25491,Hetlingen,Bandrieterstroot,6,,53.61083619,9.63064608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvj,25491,Hetlingen,Bandrieterstroot,8,,53.61099297,9.63089347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvk,25491,Hetlingen,Blink,1,,53.60801555,9.64018731
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvl,25491,Hetlingen,Blink,10,,53.60755799,9.6403051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvm,25491,Hetlingen,Blink,11,,53.60718452,9.64125885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvn,25491,Hetlingen,Blink,12,,53.60742673,9.64048298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvo,25491,Hetlingen,Blink,13,,53.60738736,9.64185928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvp,25491,Hetlingen,Blink,14,,53.60729563,9.64063808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvq,25491,Hetlingen,Blink,15,,53.60755705,9.64165071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvr,25491,Hetlingen,Blink,16,,53.60710089,9.64087928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvs,25491,Hetlingen,Blink,17,,53.60770684,9.64147268
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvt,25491,Hetlingen,Blink,18,,53.60680643,9.64115375
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvu,25491,Hetlingen,Blink,19,,53.60788349,9.64125983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvv,25491,Hetlingen,Blink,2,,53.60806204,9.63959783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvw,25491,Hetlingen,Blink,20,,53.60689522,9.64144134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvx,25491,Hetlingen,Blink,21,,53.60802346,9.64111218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvy,25491,Hetlingen,Blink,22,,53.6069803,9.6417318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kvz,25491,Hetlingen,Blink,23,,53.60829197,9.6407938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw0,25491,Hetlingen,Blink,40,d,53.60890921,9.64134435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw1,25491,Hetlingen,Blink,40,e,53.60887186,9.64124125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw2,25491,Hetlingen,Blink,42,,53.60869824,9.64088993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw3,25491,Hetlingen,Blink,44,,53.60859219,9.64070557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw4,25491,Hetlingen,Blink,46,,53.60846958,9.64045634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw5,25491,Hetlingen,Blink,48,,53.60840728,9.6402502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw6,25491,Hetlingen,Blink,5,,53.60768962,9.6405947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw7,25491,Hetlingen,Blink,50,,53.60826393,9.64001509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw8,25491,Hetlingen,Blink,6,,53.60781315,9.63998134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kw9,25491,Hetlingen,Blink,7,,53.60752143,9.64101229
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwA,25491,Hetlingen,Cranz,20,a,53.61204902,9.62867499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwB,25491,Hetlingen,Cranz,21,,53.61185255,9.62767261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwC,25491,Hetlingen,Cranz,22,,53.61228409,9.62856041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwD,25491,Hetlingen,Cranz,23,,53.61191219,9.62769526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwE,25491,Hetlingen,Cranz,23,a,53.61176375,9.62714681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwF,25491,Hetlingen,Cranz,25,,53.61200823,9.62733386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwG,25491,Hetlingen,Cranz,27,,53.61208389,9.62735522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwH,25491,Hetlingen,Cranz,29,,53.61238128,9.62728514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwI,25491,Hetlingen,Cranz,3,,53.61076976,9.62828454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwJ,25491,Hetlingen,Cranz,31,,53.61220704,9.62775039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwK,25491,Hetlingen,Cranz,33,,53.61225663,9.6277556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwL,25491,Hetlingen,Cranz,35,,53.61263392,9.6274656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwM,25491,Hetlingen,Cranz,35,a,53.61277388,9.62834717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwN,25491,Hetlingen,Cranz,35,b,53.61287182,9.62835379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwO,25491,Hetlingen,Cranz,35,c,53.61301846,9.62830979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwP,25491,Hetlingen,Cranz,35,d,53.61314121,9.62839409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwQ,25491,Hetlingen,Cranz,35,e,53.61318925,9.62773749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwR,25491,Hetlingen,Cranz,35,f,53.61320991,9.62760187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwS,25491,Hetlingen,Cranz,35,g,53.61304468,9.62764059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwT,25491,Hetlingen,Cranz,35,h,53.61306148,9.62750935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwU,25491,Hetlingen,Cranz,35,i,53.61289536,9.62759136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwV,25491,Hetlingen,Cranz,35,k,53.61290765,9.62749491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwW,25491,Hetlingen,Cranz,37,,53.61235196,9.62820109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwX,25491,Hetlingen,Cranz,39,,53.61343674,9.62773828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwY,25491,Hetlingen,Cranz,39,a,53.61331898,9.62810493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KwZ,25491,Hetlingen,Cranz,4,,53.61107841,9.62879862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwa,25491,Hetlingen,Blink,8,,53.60768711,9.64015092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwb,25491,Hetlingen,Blink,9,,53.60731888,9.64107281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwc,25491,Hetlingen,Bredenstücken,1,,53.60987235,9.63358365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwd,25491,Hetlingen,Bredenstücken,11,,53.61060331,9.63316365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwe,25491,Hetlingen,Bredenstücken,2,,53.61002874,9.63400683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwf,25491,Hetlingen,Bredenstücken,3,,53.60999065,9.63329585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwg,25491,Hetlingen,Bredenstücken,4,,53.61016771,9.63370431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwh,25491,Hetlingen,Bredenstücken,5,,53.61011882,9.63302877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwi,25491,Hetlingen,Bredenstücken,6,,53.61042689,9.63343713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwj,25491,Hetlingen,Bredenstücken,7,,53.61029618,9.63284724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwk,25491,Hetlingen,Bredenstücken,8,,53.61060072,9.63344918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwl,25491,Hetlingen,Bredenstücken,9,,53.61044005,9.63308436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwn,25491,Hetlingen,Cranz,1,,53.61082796,9.62860807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwo,25491,Hetlingen,Cranz,10,,53.61141847,9.62810057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwp,25491,Hetlingen,Cranz,11,,53.6111202,9.62769708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwq,25491,Hetlingen,Cranz,12,,53.61158823,9.62790172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwr,25491,Hetlingen,Cranz,12,a,53.61163666,9.62847351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kws,25491,Hetlingen,Cranz,13,,53.61129243,9.62763995
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwt,25491,Hetlingen,Cranz,14,,53.61177889,9.62792035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwu,25491,Hetlingen,Cranz,15,,53.61134785,9.62762366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwv,25491,Hetlingen,Cranz,17,,53.61136002,9.62728903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kww,25491,Hetlingen,Cranz,18,,53.61196216,9.62801013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwx,25491,Hetlingen,Cranz,19,,53.61162519,9.62767043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwy,25491,Hetlingen,Cranz,19,a,53.6114726,9.62710059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kwz,25491,Hetlingen,Cranz,20,,53.61203736,9.62855047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx0,25491,Hetlingen,Cranz,4,a,53.61101725,9.62855721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx1,25491,Hetlingen,Cranz,41,,53.61354612,9.62820382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx2,25491,Hetlingen,Cranz,41,a,53.61372587,9.62795226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx3,25491,Hetlingen,Cranz,43,,53.61369756,9.62829026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx4,25491,Hetlingen,Cranz,45,,53.61410626,9.62830892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx5,25491,Hetlingen,Cranz,5,,53.61073593,9.62805151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx6,25491,Hetlingen,Cranz,5,a,53.6103655,9.62772035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx7,25491,Hetlingen,Cranz,6,,53.61101015,9.62826429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx8,25491,Hetlingen,Cranz,7,,53.61069925,9.62736172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kx9,25491,Hetlingen,Cranz,7,b,53.61090257,9.62713817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxA,25491,Hetlingen,Eckhorst,5,a,53.61453379,9.62934264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxB,25491,Hetlingen,Eckhorst,6,,53.61369131,9.62942306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxC,25491,Hetlingen,Eckhorst,7,,53.61482925,9.62901738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxD,25491,Hetlingen,Eckhorst,7,a,53.61480594,9.62948895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxE,25491,Hetlingen,Eckhorst,8,,53.61391234,9.6295437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxF,25491,Hetlingen,Eckhorst,9,,53.61522139,9.62869191
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxG,25491,Hetlingen,Eckhorst,9,a,53.61511004,9.62946143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxH,25491,Hetlingen,Eckhorst,9,b,53.61523655,9.6296999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxI,25491,Hetlingen,Eckhorst,9,c,53.61538216,9.6298139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxJ,25491,Hetlingen,Feldhoff,1,,53.6100397,9.63460893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxK,25491,Hetlingen,Feldhoff,2,,53.61015,9.63483256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxL,25491,Hetlingen,Feldhoff,3,,53.61022157,9.63514761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxM,25491,Hetlingen,Feldhoff,4,,53.61034004,9.63493043
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxN,25491,Hetlingen,Feldhoff,5,,53.61048006,9.63468056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxO,25491,Hetlingen,Feldhoff,6,,53.61062707,9.63449842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxP,25491,Hetlingen,Feldhoff,7,,53.61044535,9.63434558
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxQ,25491,Hetlingen,Feldhoff,8,,53.61030464,9.63414276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxR,25491,Hetlingen,Feldhoff,9,,53.61010372,9.63438841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxS,25491,Hetlingen,Feldstroot,1,,53.60947894,9.6334625
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxT,25491,Hetlingen,Feldstroot,2,,53.60924823,9.63367886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxU,25491,Hetlingen,Feldstroot,3,,53.6096832,9.63383903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxV,25491,Hetlingen,Feldstroot,4,,53.60937241,9.63389471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxW,25491,Hetlingen,Feldstroot,5,,53.60990752,9.6341426
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxX,25491,Hetlingen,Feldstroot,6,,53.60950807,9.63407767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxY,25491,Hetlingen,Feldstroot,7,,53.60990373,9.63480541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KxZ,25491,Hetlingen,Feldstroot,8,,53.60961806,9.63434067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxa,25491,Hetlingen,Cranz,8,,53.61123527,9.62800261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxb,25491,Hetlingen,Cranz,9,,53.61100511,9.62760478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxc,25491,Hetlingen,Cranz,9,a,53.61084476,9.62770615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxd,25491,Hetlingen,Deicheck,1,,53.60665738,9.63958164
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxe,25491,Hetlingen,Deicheck,10,,53.60625763,9.63977445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxf,25491,Hetlingen,Deicheck,12,,53.60615246,9.64001051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxg,25491,Hetlingen,Deicheck,14,,53.60634246,9.64028662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxh,25491,Hetlingen,Deicheck,16,,53.60650282,9.64050894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxi,25491,Hetlingen,Deicheck,18,,53.60666624,9.64073756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxj,25491,Hetlingen,Deicheck,2,,53.60670293,9.63871433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxk,25491,Hetlingen,Deicheck,3,,53.60656633,9.64006614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxl,25491,Hetlingen,Deicheck,4,,53.60650873,9.63914001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxm,25491,Hetlingen,Deicheck,5,,53.6067758,9.64011317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxn,25491,Hetlingen,Deicheck,6,,53.6064105,9.6393639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxo,25491,Hetlingen,Deicheck,7,,53.60691196,9.64033397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxp,25491,Hetlingen,Deicheck,8,,53.60633315,9.63962769
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxq,25491,Hetlingen,Eckhorst,1,,53.61341682,9.62884335
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxr,25491,Hetlingen,Eckhorst,10,,53.6142569,9.62974197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxs,25491,Hetlingen,Eckhorst,11,,53.615582,9.62990038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxt,25491,Hetlingen,Eckhorst,13,,53.61556737,9.62919216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxu,25491,Hetlingen,Eckhorst,2,,53.61337738,9.6296144
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxv,25491,Hetlingen,Eckhorst,3,,53.61404612,9.62899555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxw,25491,Hetlingen,Eckhorst,3,a,53.61363412,9.62890342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxx,25491,Hetlingen,Eckhorst,3,b,53.61382213,9.62883136
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxy,25491,Hetlingen,Eckhorst,4,,53.61345963,9.62933722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kxz,25491,Hetlingen,Eckhorst,5,,53.61449619,9.62874169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky0,25491,Hetlingen,Gartenweg,1,,53.60849553,9.63150053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky2,25491,Hetlingen,Gartenweg,2,,53.60894388,9.63132575
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky3,25491,Hetlingen,Gartenweg,3,,53.6083269,9.63149082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky4,25491,Hetlingen,Gartenweg,4,,53.60865347,9.63118466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky5,25491,Hetlingen,Gartenweg,4,a,53.60856323,9.63122465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky6,25491,Hetlingen,Gartenweg,5,,53.60808243,9.63148891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky7,25491,Hetlingen,Gartenweg,6,,53.60836441,9.63104169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky8,25491,Hetlingen,Gartenweg,8,,53.60813397,9.63109159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Ky9,25491,Hetlingen,Grashofsland,1,,53.6154802,9.6307963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyA,25491,Hetlingen,Haferland,13,,53.60941139,9.63880822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyB,25491,Hetlingen,Haferland,14,,53.60975867,9.63963211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyC,25491,Hetlingen,Haferland,15,,53.60923927,9.63872124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyD,25491,Hetlingen,Haferland,16,,53.60984723,9.63928626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyE,25491,Hetlingen,Haferland,17,,53.60900502,9.63871519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyF,25491,Hetlingen,Haferland,18,a,53.61001594,9.63879313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyG,25491,Hetlingen,Haferland,18,b,53.60998997,9.63890897
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyH,25491,Hetlingen,Haferland,19,,53.60878573,9.63897728
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyI,25491,Hetlingen,Haferland,2,,53.60907669,9.64034904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyJ,25491,Hetlingen,Haferland,20,,53.60983868,9.63885108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyK,25491,Hetlingen,Haferland,21,,53.60908949,9.63924861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyL,25491,Hetlingen,Haferland,22,,53.60963497,9.63865701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyM,25491,Hetlingen,Haferland,23,,53.60925813,9.63932714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyN,25491,Hetlingen,Haferland,24,,53.60948992,9.63852887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyO,25491,Hetlingen,Haferland,26,,53.60931933,9.63838347
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyP,25491,Hetlingen,Haferland,28,,53.60903799,9.63832232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyQ,25491,Hetlingen,Haferland,3,,53.60915342,9.63987088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyR,25491,Hetlingen,Haferland,30,,53.60889044,9.63836569
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyS,25491,Hetlingen,Haferland,32,,53.60871449,9.63854994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyT,25491,Hetlingen,Haferland,34,,53.60858721,9.63871935
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyU,25491,Hetlingen,Haferland,36,,53.60854996,9.63911592
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyV,25491,Hetlingen,Haferland,38,,53.60867037,9.63933534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyW,25491,Hetlingen,Haferland,4,,53.6093374,9.6403547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyX,25491,Hetlingen,Haferland,40,,53.60875192,9.63958705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyY,25491,Hetlingen,Haferland,42,,53.60890646,9.63975146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KyZ,25491,Hetlingen,Haferland,44,,53.60901192,9.6396124
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kya,25491,Hetlingen,Grashofsland,10,,53.61622426,9.63193087
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyb,25491,Hetlingen,Grashofsland,10,a,53.61610654,9.63219096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyc,25491,Hetlingen,Grashofsland,2,,53.61526941,9.63092601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyd,25491,Hetlingen,Grashofsland,2,a,53.61516722,9.63144022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kye,25491,Hetlingen,Grashofsland,3,,53.61572278,9.63095727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyf,25491,Hetlingen,Grashofsland,4,,53.61556393,9.63116858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyg,25491,Hetlingen,Grashofsland,4,a,53.61537842,9.63151423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyh,25491,Hetlingen,Grashofsland,4,b,53.61533001,9.6317197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyi,25491,Hetlingen,Grashofsland,5,,53.61605403,9.63118049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyj,25491,Hetlingen,Grashofsland,6,,53.61578682,9.63127404
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyk,25491,Hetlingen,Grashofsland,6,a,53.6157313,9.631696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyl,25491,Hetlingen,Grashofsland,6,b,53.61563209,9.63187985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kym,25491,Hetlingen,Grashofsland,7,,53.61626002,9.63128885
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyn,25491,Hetlingen,Grashofsland,8,,53.61604987,9.63143153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyo,25491,Hetlingen,Grashofsland,8,a,53.61596969,9.63184149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyp,25491,Hetlingen,Grashofsland,8,b,53.61590078,9.63203356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyq,25491,Hetlingen,Grüner Damm,1,,53.61257158,9.64951225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyr,25491,Hetlingen,Grüner Damm,10,,53.62095999,9.64823187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kys,25491,Hetlingen,Grüner Damm,14,,53.62263614,9.64735784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyt,25491,Hetlingen,Grüner Damm,8,,53.61877884,9.64805887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyu,25491,Hetlingen,Grüner Damm,9,,53.61832018,9.64755498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyv,25491,Hetlingen,Grüner Damm,9,a,53.61825167,9.64731406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyw,25491,Hetlingen,Haferland,1,,53.60896206,9.64005829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyx,25491,Hetlingen,Haferland,10,,53.60965268,9.64014185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyy,25491,Hetlingen,Haferland,11,,53.60961918,9.63915721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kyz,25491,Hetlingen,Haferland,12,,53.60968439,9.6397959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz0,25491,Hetlingen,Haferland,5,,53.6094311,9.64000851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz1,25491,Hetlingen,Haferland,6,,53.60947396,9.64057871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz2,25491,Hetlingen,Haferland,7,,53.60950693,9.63972089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz3,25491,Hetlingen,Haferland,8,,53.60960598,9.64075159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz4,25491,Hetlingen,Haferland,9,,53.60956654,9.63945423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz5,25491,Hetlingen,Hauptstraße,1,,53.60789139,9.63902588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz6,25491,Hetlingen,Hauptstraße,102,,53.61290324,9.62997349
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz7,25491,Hetlingen,Hauptstraße,104,,53.61273536,9.62932551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz8,25491,Hetlingen,Hauptstraße,106,,53.61299054,9.62924904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kz9,25491,Hetlingen,Hauptstraße,12,,53.60753305,9.63811932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzA,25491,Hetlingen,Hauptstraße,39,,53.60830241,9.63349939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzB,25491,Hetlingen,Hauptstraße,4,,53.60781969,9.63847363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzC,25491,Hetlingen,Hauptstraße,41,,53.60844372,9.63313937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzD,25491,Hetlingen,Hauptstraße,42,,53.60846309,9.63484097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzE,25491,Hetlingen,Hauptstraße,43,,53.60854868,9.63283915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzF,25491,Hetlingen,Hauptstraße,44,,53.60841426,9.63427875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzG,25491,Hetlingen,Hauptstraße,45,,53.60864681,9.63253828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzH,25491,Hetlingen,Hauptstraße,46,,53.60853612,9.63395208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzI,25491,Hetlingen,Hauptstraße,47,,53.60873331,9.63224079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzJ,25491,Hetlingen,Hauptstraße,48,,53.60868686,9.63366077
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzK,25491,Hetlingen,Hauptstraße,49,,53.60879745,9.63197583
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzL,25491,Hetlingen,Hauptstraße,5,,53.60760418,9.63859896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzM,25491,Hetlingen,Hauptstraße,50,,53.60880425,9.63341289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzN,25491,Hetlingen,Hauptstraße,51,,53.60895104,9.63171713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzO,25491,Hetlingen,Hauptstraße,52,,53.60888717,9.63320206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzP,25491,Hetlingen,Hauptstraße,53,,53.60901525,9.63108552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzQ,25491,Hetlingen,Hauptstraße,55,,53.60909088,9.63079371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzR,25491,Hetlingen,Hauptstraße,56,,53.60891752,9.63273695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzS,25491,Hetlingen,Hauptstraße,57,,53.60916071,9.6305503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzT,25491,Hetlingen,Hauptstraße,58,,53.60896217,9.63251154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzU,25491,Hetlingen,Hauptstraße,59,,53.60922787,9.63029405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzV,25491,Hetlingen,Hauptstraße,60,,53.60906428,9.6321874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzW,25491,Hetlingen,Hauptstraße,61,,53.60928638,9.63009145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzX,25491,Hetlingen,Hauptstraße,62,,53.6091446,9.63186684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzY,25491,Hetlingen,Hauptstraße,63,,53.61017139,9.62935267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049KzZ,25491,Hetlingen,Hauptstraße,64,,53.6092501,9.63155104
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kza,25491,Hetlingen,Hauptstraße,14,,53.60723734,9.63760082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzb,25491,Hetlingen,Hauptstraße,16,,53.60723032,9.63737526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzc,25491,Hetlingen,Hauptstraße,17,,53.60723733,9.63666224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzd,25491,Hetlingen,Hauptstraße,17,a,53.60728227,9.63656652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kze,25491,Hetlingen,Hauptstraße,18,,53.60727245,9.63700976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzf,25491,Hetlingen,Hauptstraße,19,,53.60732824,9.63619023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzg,25491,Hetlingen,Hauptstraße,2,,53.60793378,9.63865878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzh,25491,Hetlingen,Hauptstraße,20,,53.60733218,9.63687915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzi,25491,Hetlingen,Hauptstraße,21,,53.60747625,9.63599036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzj,25491,Hetlingen,Hauptstraße,22,,53.60744663,9.63663241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzk,25491,Hetlingen,Hauptstraße,23,,53.60745684,9.63570252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzl,25491,Hetlingen,Hauptstraße,24,,53.60747954,9.63652716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzm,25491,Hetlingen,Hauptstraße,25,,53.60757116,9.63508358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzn,25491,Hetlingen,Hauptstraße,26,,53.60754376,9.63635115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzo,25491,Hetlingen,Hauptstraße,27,,53.60771806,9.63487904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzp,25491,Hetlingen,Hauptstraße,28,,53.60767045,9.6361161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzq,25491,Hetlingen,Hauptstraße,29,,53.60783551,9.63466093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzr,25491,Hetlingen,Hauptstraße,3,,53.60776026,9.63879925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzs,25491,Hetlingen,Hauptstraße,30,,53.60776983,9.63557718
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzt,25491,Hetlingen,Hauptstraße,31,,53.60793269,9.63443829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzu,25491,Hetlingen,Hauptstraße,32,,53.60808365,9.63597473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzv,25491,Hetlingen,Hauptstraße,34,,53.60782991,9.63534756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzw,25491,Hetlingen,Hauptstraße,35,,53.6080623,9.63426073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzx,25491,Hetlingen,Hauptstraße,36,,53.60782991,9.63534756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzy,25491,Hetlingen,Hauptstraße,37,,53.60823864,9.63395864
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00049Kzz,25491,Hetlingen,Hauptstraße,38,,53.60804089,9.63522371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004RRgv,25491,Hetlingen,Am Heuhafen,2,,53.60075984,9.62591964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004Xpnc,25491,Hetlingen,Opn Feld,19,,53.61121028,9.63192966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AVa8,25491,Hetlingen,Cranz,37,c,53.61259965,9.62777703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005K8mn,25491,Hetlingen,Achter de Kark,2,a,53.6085615,9.63574038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005KJ9q,25491,Hetlingen,Cranz,37,b,53.61261042,9.62799111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RapV,25491,Hetlingen,Hauptstraße,68,a,53.60935323,9.63106023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005RapZ,25491,Hetlingen,Hauptstraße,98,,53.61255284,9.62962714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Raq4,25491,Hetlingen,Hauptstraße,100,,53.61274858,9.6297413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XkvG,25491,Hetlingen,Holmer Straße,10,a,53.61242427,9.65322386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XkvH,25491,Hetlingen,Holmer Straße,10,b,53.61244324,9.65337261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XkvI,25491,Hetlingen,Holmer Straße,10,c,53.61234061,9.65343802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005hBZ1,25491,Hetlingen,Achter de Kark,14,a,53.60955403,9.637739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uXpJ,25491,Hetlingen,Cranz,37,a,53.6125717,9.62834526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005vKQR,25491,Hetlingen,Achtern Diek,18,,53.60656679,9.63340598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005xNLa,25491,Hetlingen,Grüner Damm,3,,53.61315377,9.64804535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006G0Je,25491,Hetlingen,Eckhorst,26,,53.61727721,9.63240505
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006Kd0I,25491,Hetlingen,Achtern Diek,16,a,53.60647969,9.63353913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nMd1,25491,Hetlingen,Idenburg,1,,53.60068991,9.64853695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006pQAW,25491,Hetlingen,Cranz,11,a,53.61109388,9.62696305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ueYV,25491,Hetlingen,Cranz,13,a,53.61132363,9.62685533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7rB,25491,Hetlingen,Potenhoff,4,,53.61626132,9.63013423
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7ry,25491,Hetlingen,Potenhoff,6,,53.61630249,9.6298689
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7tN,25491,Hetlingen,Potenhoff,1,,53.61595001,9.6299699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7ti,25491,Hetlingen,Potenhoff,3,,53.61579521,9.62981674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7tq,25491,Hetlingen,Potenhoff,2,,53.61612878,9.63004981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7tt,25491,Hetlingen,Potenhoff,7,,53.61595729,9.62965389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7tw,25491,Hetlingen,Potenhoff,8,,53.61614408,9.62977971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006v7u6,25491,Hetlingen,Potenhoff,5,,53.61584934,9.629398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00078bX3,25491,Hetlingen,Gartenweg,7,,53.60796459,9.63125253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007YwkY,25491,Hetlingen,Hauptstraße,108,,53.61311163,9.6292694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aCCo,25491,Hetlingen,Opn Feld,2,,53.60988678,9.63036735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRE,25491,Hetlingen,Klaus-Groth-Straße,15,,53.60844237,9.64422532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRH,25491,Hetlingen,Klaus-Groth-Straße,17,,53.60823964,9.64392286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRL,25491,Hetlingen,Klaus-Groth-Straße,19,,53.60807269,9.64365567
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRP,25491,Hetlingen,Klaus-Groth-Straße,21,,53.60799522,9.64338302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRT,25491,Hetlingen,Klaus-Groth-Straße,2,,53.60952054,9.64314605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRY,25491,Hetlingen,Klaus-Groth-Straße,4,,53.60929481,9.64277178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRd,25491,Hetlingen,Klaus-Groth-Straße,1,,53.60977589,9.64389679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRh,25491,Hetlingen,Klaus-Groth-Straße,3,,53.60941634,9.64368239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRl,25491,Hetlingen,Klaus-Groth-Straße,5,,53.60942108,9.64424393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRp,25491,Hetlingen,Klaus-Groth-Straße,7,,53.60910173,9.64395765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRt,25491,Hetlingen,Klaus-Groth-Straße,9,,53.60899696,9.64415734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRy,25491,Hetlingen,Klaus-Groth-Straße,11,,53.60882168,9.64439838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBRz,25491,Hetlingen,Klaus-Groth-Straße,13,,53.60864247,9.64439804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBS1,25491,Hetlingen,Klaus-Groth-Straße,6,,53.60926466,9.64237476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBS5,25491,Hetlingen,Klaus-Groth-Straße,10,,53.60895205,9.64276331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBS9,25491,Hetlingen,Klaus-Groth-Straße,12,,53.60923348,9.64322402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSB,25491,Hetlingen,Klaus-Groth-Straße,26,,53.60844462,9.64331628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSF,25491,Hetlingen,Klaus-Groth-Straße,28,,53.60829339,9.64353578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSd,25491,Hetlingen,Klaus-Groth-Straße,14,,53.60902746,9.64353721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSh,25491,Hetlingen,Klaus-Groth-Straße,16,,53.60877983,9.64293882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSl,25491,Hetlingen,Klaus-Groth-Straße,18,,53.60860852,9.64309873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSp,25491,Hetlingen,Klaus-Groth-Straße,20,,53.60885194,9.64370183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSt,25491,Hetlingen,Klaus-Groth-Straße,22,,53.60874786,9.64395275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007cBSx,25491,Hetlingen,Klaus-Groth-Straße,24,,53.60847839,9.64394848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ceoM,25491,Hetlingen,Klaus-Groth-Straße,8,,53.60911856,9.64259119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00083UzJ,25491,Hetlingen,Bandrieterstroot,3,,53.61122779,9.63090861
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AXEm,25491,Hetlingen,Cranz,14,b,53.61185302,9.62855869
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AXEq,25491,Hetlingen,Cranz,14,a,53.61184007,9.62845066

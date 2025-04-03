@@ -1,0 +1,732 @@
+# Amtliche Adressen für die Postleitzahl 24644
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSA,24644,Krogaspe,Achtern Knick,2,,54.13021742,9.92811929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSB,24644,Krogaspe,Achtern Knick,3,,54.13043871,9.92802494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSC,24644,Krogaspe,Achtern Knick,4,,54.1304741,9.92836564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSD,24644,Krogaspe,Achtern Knick,5,,54.1306996,9.9282103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSE,24644,Krogaspe,Achtern Knick,6,,54.13071559,9.92866142
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSF,24644,Krogaspe,Am Bast,3,,54.12683308,9.93765991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSG,24644,Krogaspe,Am Bast,7,,54.12644996,9.93835696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSH,24644,Krogaspe,Am Bast,9,,54.126246,9.93858075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSI,24644,Krogaspe,Am Gerätehaus,1,,54.13245922,9.93152295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSJ,24644,Krogaspe,Am Gerätehaus,2,,54.13234081,9.93175591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSK,24644,Krogaspe,Am Gerätehaus,3,,54.13277191,9.93119598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSL,24644,Krogaspe,Am Gerätehaus,4,,54.13253674,9.93184698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSM,24644,Krogaspe,Am Gerätehaus,5,,54.13278564,9.93151295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSN,24644,Krogaspe,Amalienhof,1,,54.1096349,9.91582306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSO,24644,Krogaspe,Amalienhof,2,,54.1100293,9.91574548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSQ,24644,Krogaspe,Am Aalbek,10,,54.12116041,9.94760934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSS,24644,Krogaspe,Am Aalbek,20,,54.12145502,9.94719365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSY,24644,Krogaspe,Bast-Hof,1,,54.12337502,9.93508923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSZ,24644,Krogaspe,Bast-Hof,3,,54.12302251,9.93439918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZSz,24644,Krogaspe,Achtern Knick,1,,54.13018803,9.9277764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT0,24644,Krogaspe,Bast-Weg,1,,54.12706187,9.93740717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT1,24644,Krogaspe,Dickweg,2,a,54.1332298,9.92966076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT2,24644,Krogaspe,Dickweg,2,b,54.13318744,9.92957259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT3,24644,Krogaspe,Dickweg,6,,54.133309,9.92885733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT4,24644,Krogaspe,Dickweg,8,,54.13332984,9.92871968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT5,24644,Krogaspe,Dohrkamp,1,,54.13269119,9.92442589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT6,24644,Krogaspe,Dohrkamp,10,,54.13328469,9.92493818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT7,24644,Krogaspe,Dohrkamp,11,,54.13371429,9.92467784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT8,24644,Krogaspe,Dohrkamp,12,,54.13347998,9.92502308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZT9,24644,Krogaspe,Dohrkamp,14,,54.13364831,9.92509969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTA,24644,Krogaspe,Hauptstraße,34,,54.13144783,9.92912807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTB,24644,Krogaspe,Hauptstraße,34,a,54.13099638,9.92871158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTC,24644,Krogaspe,Hauptstraße,34,b,54.13095637,9.92912789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTD,24644,Krogaspe,Hauptstraße,35,,54.13172448,9.92991512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTE,24644,Krogaspe,Hauptstraße,36,a,54.13128456,9.92952244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTF,24644,Krogaspe,Hauptstraße,36,b,54.13142012,9.92970109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTG,24644,Krogaspe,Hauptstraße,38,,54.13129392,9.92995924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTH,24644,Krogaspe,Hauptstraße,39,,54.13165351,9.93052075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTI,24644,Krogaspe,Hauptstraße,44,,54.13119323,9.93084837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTJ,24644,Krogaspe,Hauptstraße,48,a,54.1307105,9.93194811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTK,24644,Krogaspe,Hauptstraße,48,b,54.13075947,9.93102057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTL,24644,Krogaspe,Hauptstraße,51,,54.13071587,9.93252523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTM,24644,Krogaspe,Hauptstraße,6,,54.13238811,9.92339686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTN,24644,Krogaspe,Hauptstraße,68,,54.12796347,9.93409182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTO,24644,Krogaspe,Hauptstraße,7,,54.13268956,9.9238564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTP,24644,Krogaspe,Hauptstraße,74,,54.12768554,9.9361297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTQ,24644,Krogaspe,Hauptstraße,76,,54.12733391,9.9369599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTR,24644,Krogaspe,Hauptstraße,8,,54.13230858,9.92369015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTS,24644,Krogaspe,Hauptstraße,89,,54.12607922,9.94014568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTT,24644,Krogaspe,Heinrichshof,1,,54.12188452,9.91144435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTW,24644,Krogaspe,Hof Farrenfeld,1,,54.11056399,9.93117829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTX,24644,Krogaspe,Rabenhorst,1,a,54.11546677,9.91297643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTY,24644,Krogaspe,Rabenhorst,1,b,54.1153644,9.91288871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTZ,24644,Krogaspe,Rabenhorst,1,c,54.11532691,9.91276992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTa,24644,Krogaspe,Dohrkamp,2,,54.13255356,9.92479302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTb,24644,Krogaspe,Dohrkamp,3,,54.13290553,9.92445857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTc,24644,Krogaspe,Dohrkamp,4,,54.13272292,9.92482509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTd,24644,Krogaspe,Dohrkamp,5,,54.13312,9.92448071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTe,24644,Krogaspe,Dohrkamp,6,,54.13288924,9.92491639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTf,24644,Krogaspe,Dohrkamp,7,,54.13335408,9.92454179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTg,24644,Krogaspe,Dohrkamp,8,,54.13306234,9.92497588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTh,24644,Krogaspe,Dohrkamp,9,,54.13354435,9.92455114
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTi,24644,Krogaspe,Forellensee,1,,54.11464553,9.93717021
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTj,24644,Krogaspe,Golfpark Krogaspe,1,,54.11671732,9.93375464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTk,24644,Krogaspe,Hahnkamper Weg,29,,54.13256033,9.93680715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTl,24644,Krogaspe,Hahnkamper Weg,31,,54.13272661,9.936753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTm,24644,Krogaspe,Hahnkamper Weg,31,a,54.13282815,9.9367694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTn,24644,Krogaspe,Hahnkamper Weg,39,,54.13368581,9.9370703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTo,24644,Krogaspe,Hahnkamper Weg,41,,54.13404988,9.93712486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTp,24644,Krogaspe,Hahnkamper Weg,7,,54.12978062,9.9358037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTq,24644,Krogaspe,Hauptstraße,10,,54.13223782,9.92387799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTr,24644,Krogaspe,Hauptstraße,12,,54.13215397,9.92419042
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTs,24644,Krogaspe,Hauptstraße,14,,54.1322256,9.92453137
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTt,24644,Krogaspe,Hauptstraße,2,,54.13235921,9.9221937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTu,24644,Krogaspe,Hauptstraße,23,,54.13229136,9.92715603
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTv,24644,Krogaspe,Hauptstraße,27,,54.13207549,9.92803875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTw,24644,Krogaspe,Hauptstraße,29,,54.13203953,9.92865311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTx,24644,Krogaspe,Hauptstraße,32,,54.13157988,9.92866644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTy,24644,Krogaspe,Hauptstraße,33,,54.13171446,9.92934062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZTz,24644,Krogaspe,Hauptstraße,33,a,54.13166739,9.92962359
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU0,24644,Krogaspe,Hof Seeblick,1,,54.11216579,9.93644976
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU1,24644,Krogaspe,Hof Vossberg,1,,54.11694549,9.93507506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU2,24644,Krogaspe,Hof Vossberg,3,,54.1167336,9.93566871
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU3,24644,Krogaspe,Huskoppel,1,,54.13268834,9.92945371
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU4,24644,Krogaspe,Huskoppel,2,,54.13287858,9.92978411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU5,24644,Krogaspe,Huskoppel,2,a,54.13289305,9.92969275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU6,24644,Krogaspe,Huskoppel,2,b,54.13293216,9.92949841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU7,24644,Krogaspe,Huskoppel,3,a,54.13272015,9.92909895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU8,24644,Krogaspe,Huskoppel,3,b,54.13276172,9.92897615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZU9,24644,Krogaspe,Huskoppel,4,a,54.13297864,9.92922205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUA,24644,Krogaspe,Ossenweg,21,,54.13013087,9.93091441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUB,24644,Krogaspe,Ossenweg,3,,54.1301621,9.92729754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUC,24644,Krogaspe,Ossenweg,6,,54.12986954,9.92735814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUD,24644,Krogaspe,Ossenweg,8,,54.12985523,9.92772654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUE,24644,Krogaspe,Peilhaus,1,,54.10786643,9.92756433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUF,24644,Krogaspe,Posten 4,4,,54.11817891,9.93341968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUG,24644,Krogaspe,Posten 6,6,,54.1272911,9.91994238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUH,24644,Krogaspe,Ringstraße,1,,54.13194778,9.92895011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUI,24644,Krogaspe,Ringstraße,11,,54.13313309,9.92999727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUJ,24644,Krogaspe,Ringstraße,12,,54.13310022,9.93045383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUK,24644,Krogaspe,Ringstraße,14,,54.13323874,9.93087908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUL,24644,Krogaspe,Ringstraße,15,,54.13377124,9.93150416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUM,24644,Krogaspe,Ringstraße,16,,54.13338585,9.93119553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUN,24644,Krogaspe,Ringstraße,17,,54.13379713,9.93195447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUO,24644,Krogaspe,Ringstraße,18,,54.13330725,9.93162289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUP,24644,Krogaspe,Ringstraße,19,,54.13381096,9.93235419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUQ,24644,Krogaspe,Ringstraße,20,,54.1335529,9.9324156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUR,24644,Krogaspe,Ringstraße,21,,54.13351814,9.93289314
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUS,24644,Krogaspe,Ringstraße,22,,54.13339459,9.93254684
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUT,24644,Krogaspe,Ringstraße,23,,54.13338602,9.93299677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUU,24644,Krogaspe,Ringstraße,24,,54.13310504,9.93242745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUV,24644,Krogaspe,Ringstraße,27,,54.13289482,9.93284424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUW,24644,Krogaspe,Ringstraße,28,,54.13279323,9.93234846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUX,24644,Krogaspe,Ringstraße,30,,54.13253654,9.93234011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUY,24644,Krogaspe,Ringstraße,32,,54.13233285,9.93228007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUZ,24644,Krogaspe,Ringstraße,35,,54.13188089,9.93223863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUa,24644,Krogaspe,Huskoppel,4,b,54.13299186,9.92913817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUb,24644,Krogaspe,Huskoppel,5,,54.13281151,9.92868944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUc,24644,Krogaspe,Huskoppel,6,,54.13301993,9.92884035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUd,24644,Krogaspe,Looper Weg,3,,54.13360115,9.93019457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUe,24644,Krogaspe,Looper Weg,37,,54.13947985,9.92761313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUf,24644,Krogaspe,Looper Weg,4,,54.13375796,9.93046919
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUg,24644,Krogaspe,Looper Weg,47,,54.14051293,9.92684975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUh,24644,Krogaspe,Neuer Weg,1,,54.13220375,9.93340973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUi,24644,Krogaspe,Neuer Weg,15,,54.13212972,9.93554351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUj,24644,Krogaspe,Neuer Weg,17,,54.13207617,9.93631663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUk,24644,Krogaspe,Neuer Weg,18,,54.13172237,9.93580991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUl,24644,Krogaspe,Neuer Weg,2,,54.13205546,9.93260302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUm,24644,Krogaspe,Neuer Weg,3,,54.13213278,9.93385053
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUn,24644,Krogaspe,Neuer Weg,4,,54.13200857,9.93283276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUo,24644,Krogaspe,Neuer Weg,5,,54.13206361,9.93462485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUp,24644,Krogaspe,Neuer Weg,6,,54.13179558,9.93341687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUq,24644,Krogaspe,Neuer Weg,6,a,54.13173605,9.93307422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUr,24644,Krogaspe,Neuer Weg,7,,54.13211951,9.93508851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUs,24644,Krogaspe,Neuer Weg,8,,54.1318469,9.93372346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUt,24644,Krogaspe,Neuer Weg,9,,54.13223094,9.93527607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUu,24644,Krogaspe,Ossenweg,1,,54.13017784,9.92678303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUv,24644,Krogaspe,Ossenweg,10,,54.12976068,9.92807323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUw,24644,Krogaspe,Ossenweg,12,,54.12988052,9.92866254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUx,24644,Krogaspe,Ossenweg,14,,54.12987872,9.92919119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUy,24644,Krogaspe,Ossenweg,16,,54.12984983,9.92949992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZUz,24644,Krogaspe,Ossenweg,2,,54.12972419,9.92714692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV0,24644,Krogaspe,Ringstraße,37,,54.13168638,9.93216889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV1,24644,Krogaspe,Ringstraße,39,,54.13147029,9.93227987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV2,24644,Krogaspe,Ringstraße,40,,54.13132097,9.93179715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV3,24644,Krogaspe,Ringstraße,41,,54.13122712,9.93203808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV4,24644,Krogaspe,Ringstraße,41,a,54.13126396,9.93220069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV5,24644,Krogaspe,Ringstraße,5,,54.13226393,9.92922391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV6,24644,Krogaspe,Schulstraße,10,,54.13208805,9.93136273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV7,24644,Krogaspe,Schulstraße,2,,54.1321767,9.92986413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV8,24644,Krogaspe,Schulstraße,2,a,54.13211502,9.93013011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZV9,24644,Krogaspe,Schulstraße,3,,54.13234703,9.93040278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVa,24644,Krogaspe,Schulstraße,4,,54.13204517,9.93040135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVb,24644,Krogaspe,Schulstraße,7,,54.13232573,9.93093082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVc,24644,Krogaspe,Schulstraße,8,,54.13208557,9.93100094
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVd,24644,Krogaspe,Wasbeker Weg,10,,54.13089859,9.92599148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVe,24644,Krogaspe,Wasbeker Weg,11,,54.13044277,9.92700023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVf,24644,Krogaspe,Wasbeker Weg,17,,54.12975018,9.92625337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVg,24644,Krogaspe,Wasbeker Weg,19,,54.12955663,9.92602799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVh,24644,Krogaspe,Wasbeker Weg,21,,54.12909269,9.92567285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVi,24644,Krogaspe,Wasbeker Weg,21,a,54.12922381,9.92577525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVj,24644,Krogaspe,Wasbeker Weg,5,,54.13106148,9.92810243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVk,24644,Krogaspe,Wasbeker Weg,6,,54.13129185,9.92703168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVl,24644,Krogaspe,Wasbeker Weg,60,,54.12393062,9.92621734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVm,24644,Krogaspe,Wasbeker Weg,64,,54.1235631,9.92623802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVn,24644,Krogaspe,Wasbeker Weg,7,,54.13095732,9.92753009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVo,24644,Krogaspe,Wasbeker Weg,8,,54.13110755,9.925579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVp,24644,Krogaspe,Wasbeker Weg,9,,54.13075152,9.92730669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVq,24644,Krogaspe,Wasbeker Weg,9,a,54.1306045,9.92717372
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVr,24644,Krogaspe,Wasbeker Weg,9,b,54.13082255,9.92738166
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVs,24644,Krogaspe,Wiesenweg,2,,54.13404255,9.93270788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVt,24644,Krogaspe,Wiesenweg,4,,54.1342634,9.9326187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVu,24644,Krogaspe,Wiesenweg,5,,54.13430078,9.93228749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVv,24644,Krogaspe,Wilhelmsruh,1,,54.11652875,9.94456108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVw,24644,Krogaspe,Wilhelmsruh,2,,54.11647131,9.94494632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZVx,24644,Krogaspe,Wilhelmsruh,3,,54.11612277,9.94535081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1c8,24644,Krogaspe,Dorfstraße,1,,54.14830254,9.94907693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1c9,24644,Krogaspe,Dorfstraße,10,,54.14936778,9.95059362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cA,24644,Krogaspe,Hauptstraße,13,,54.14778589,9.95188091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cB,24644,Krogaspe,Hauptstraße,14,,54.14800194,9.95079755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cC,24644,Krogaspe,Hauptstraße,16,,54.14798339,9.95024663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cD,24644,Krogaspe,Hauptstraße,19,,54.14771912,9.94961821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cE,24644,Krogaspe,Hauptstraße,2,,54.14828257,9.95544503
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cF,24644,Krogaspe,Hauptstraße,20,,54.14799829,9.94909785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cG,24644,Krogaspe,Hauptstraße,22,,54.14799545,9.9486616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cH,24644,Krogaspe,Hauptstraße,23,,54.14780375,9.94809914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cI,24644,Krogaspe,Hauptstraße,24,,54.14797754,9.94799635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cJ,24644,Krogaspe,Hauptstraße,25,,54.14780969,9.94784926
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cK,24644,Krogaspe,Hauptstraße,26,,54.148098,9.94737408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cL,24644,Krogaspe,Hauptstraße,27,,54.14782793,9.94730705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cM,24644,Krogaspe,Hauptstraße,29,,54.14745261,9.94712074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cN,24644,Krogaspe,Hauptstraße,3,,54.14829001,9.95458542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cO,24644,Krogaspe,Hauptstraße,30,,54.14809166,9.94607237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cP,24644,Krogaspe,Hauptstraße,32,,54.14802607,9.94547431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cQ,24644,Krogaspe,Hauptstraße,33,,54.14779726,9.94507874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cR,24644,Krogaspe,Hauptstraße,35,,54.14772688,9.94461823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cS,24644,Krogaspe,Hauptstraße,36,,54.14793728,9.94415691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cT,24644,Krogaspe,Hauptstraße,37,,54.14771844,9.94430542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cU,24644,Krogaspe,Hauptstraße,38,,54.1479296,9.94375471
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cV,24644,Krogaspe,Hauptstraße,4,,54.14827638,9.95429099
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cW,24644,Krogaspe,Hauptstraße,42,,54.14791518,9.94344791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cX,24644,Krogaspe,Hauptstraße,44,,54.14792509,9.94318952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cY,24644,Krogaspe,Hauptstraße,6,,54.14826158,9.95403297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cZ,24644,Krogaspe,Hauptstraße,8,,54.14821987,9.95331961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ca,24644,Krogaspe,Dorfstraße,11,,54.14932867,9.94987788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cb,24644,Krogaspe,Dorfstraße,15,a,54.14956811,9.94973608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cc,24644,Krogaspe,Dorfstraße,15,b,54.14956811,9.94973608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cd,24644,Krogaspe,Dorfstraße,15,c,54.14956811,9.94973608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ce,24644,Krogaspe,Dorfstraße,3,,54.14849458,9.94886758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cf,24644,Krogaspe,Dorfstraße,5,,54.14908622,9.94919639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cg,24644,Krogaspe,Dorfstraße,6,,54.14843389,9.95040542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ch,24644,Krogaspe,Dorfstraße,7,,54.14883933,9.94974116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ci,24644,Krogaspe,Dorfstraße,8,,54.14933532,9.9515646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cj,24644,Krogaspe,Dorfstraße,9,,54.14914657,9.94997847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ck,24644,Krogaspe,Am Aalberg,2,,54.14344113,9.96975807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cl,24644,Krogaspe,Am Aalberg,4,,54.14386595,9.96996726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cm,24644,Krogaspe,Ellhorn,1,,54.13827394,9.97106244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cn,24644,Krogaspe,Ellhorn,10,,54.13615497,9.97213487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1co,24644,Krogaspe,Ellhorn,11,,54.13596478,9.97180797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cp,24644,Krogaspe,Ellhorn,2,,54.13823821,9.97041163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cq,24644,Krogaspe,Ellhorn,2,a,54.14016725,9.96965317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cr,24644,Krogaspe,Ellhorn,3,,54.13635537,9.96987126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cs,24644,Krogaspe,Ellhorn,5,,54.13634161,9.97115098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1ct,24644,Krogaspe,Ellhorn,6,,54.13641461,9.97143075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cu,24644,Krogaspe,Ellhorn,9,,54.13632572,9.97222791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cv,24644,Krogaspe,Hauptstraße,1,,54.14806629,9.95779288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cw,24644,Krogaspe,Hauptstraße,10,,54.14818373,9.95275025
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cx,24644,Krogaspe,Hauptstraße,11,,54.14782381,9.95247996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cy,24644,Krogaspe,Hauptstraße,11,a,54.14758269,9.95254469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1cz,24644,Krogaspe,Hauptstraße,12,,54.14815549,9.95193723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d0,24644,Krogaspe,Höllenkamp,1,,54.1475793,9.93867618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d1,24644,Krogaspe,Höllenkamp,1,a,54.14774452,9.93848659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d2,24644,Krogaspe,Höllenkamp,2,,54.14889063,9.93802039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d3,24644,Krogaspe,Höllenkamp,3,,54.14881496,9.93749548
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d4,24644,Krogaspe,Koppelkamp,2,,54.14728759,9.95311058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d5,24644,Krogaspe,Koppelkamp,4,,54.14699676,9.95313523
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d6,24644,Krogaspe,Looper Holz,1,,54.14587818,9.97251172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d7,24644,Krogaspe,Looper Holz,2,,54.14646536,9.97211669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d8,24644,Krogaspe,Alter Schönbeker Weg,1,,54.1489068,9.95599065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1d9,24644,Krogaspe,Sorfell,1,,54.14743852,9.94855256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1da,24644,Krogaspe,Sorfell,5,,54.14645058,9.94803246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1db,24644,Krogaspe,Sorfell,6,,54.14641391,9.94768399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1dc,24644,Krogaspe,Sorfell,7,,54.14631194,9.94819334
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1dd,24644,Krogaspe,Appelhofweg,12,,54.14686916,9.94987714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1de,24644,Krogaspe,Appelhofweg,14,,54.14653054,9.94998071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1df,24644,Krogaspe,Appelhofweg,19,,54.1459779,9.95178873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1dg,24644,Krogaspe,Appelhofweg,2,,54.14780917,9.94919368
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c1dh,24644,Krogaspe,Appelhofweg,21,,54.14576391,9.95245852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mA,24644,Krogaspe,Am Sandkamp,3,,54.13945567,9.89040417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mB,24644,Krogaspe,Am Sandkamp,4,,54.1392814,9.89015204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mC,24644,Krogaspe,Am Sandkamp,6,,54.13906654,9.89035027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mD,24644,Krogaspe,Am Sandkamp,9,,54.13901416,9.89108578
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mE,24644,Krogaspe,Am Teich,1,,54.14030551,9.89502515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mF,24644,Krogaspe,Am Teich,11,,54.14016526,9.89693173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mG,24644,Krogaspe,Bahnhofstraße,1,,54.13700046,9.90468792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mH,24644,Krogaspe,Bahnhofstraße,12,,54.13806962,9.90344291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mI,24644,Krogaspe,Bahnhofstraße,14,,54.13828511,9.90309252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mJ,24644,Krogaspe,Bahnhofstraße,16,,54.13839574,9.90301008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mK,24644,Krogaspe,Bahnhofstraße,18,,54.13855298,9.90284717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mL,24644,Krogaspe,Bahnhofstraße,2,,54.1370683,9.90521915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mM,24644,Krogaspe,Bahnhofstraße,20,,54.13873009,9.90267691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mN,24644,Krogaspe,Bahnhofstraße,21,,54.13873603,9.90220476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mO,24644,Krogaspe,Bahnhofstraße,22,,54.13892116,9.90255905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mP,24644,Krogaspe,Bahnhofstraße,24,,54.13910317,9.90242183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mQ,24644,Krogaspe,Bahnhofstraße,25,,54.13914812,9.90204456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mR,24644,Krogaspe,Bahnhofstraße,26,,54.13937992,9.90213801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mS,24644,Krogaspe,Bahnhofstraße,28,,54.13973494,9.90169006
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mT,24644,Krogaspe,Bahnhofstraße,29,,54.13948331,9.90093841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mU,24644,Krogaspe,Bahnhofstraße,3,,54.13705125,9.90460429
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mV,24644,Krogaspe,Bahnhofstraße,30,,54.13986123,9.9014639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mW,24644,Krogaspe,Bahnhofstraße,32,,54.13996462,9.90129487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mX,24644,Krogaspe,Bahnhofstraße,34,,54.14015123,9.90108295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mY,24644,Krogaspe,Bahnhofstraße,36,,54.14010207,9.9008312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mZ,24644,Krogaspe,Bahnhofstraße,38,,54.14007902,9.90055985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ml,24644,Krogaspe,Am Sandkamp,1,,54.1396657,9.89044023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mm,24644,Krogaspe,Am Sandkamp,1,a,54.13966006,9.89006991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mn,24644,Krogaspe,Am Sandkamp,10,,54.13886635,9.8907757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mo,24644,Krogaspe,Am Sandkamp,12,,54.13875799,9.89097466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mp,24644,Krogaspe,Am Sandkamp,13,,54.1387255,9.8915928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mq,24644,Krogaspe,Am Sandkamp,14,,54.1386517,9.89115962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mr,24644,Krogaspe,Am Sandkamp,16,,54.13854298,9.89134842
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ms,24644,Krogaspe,Am Sandkamp,17,,54.13866827,9.89190413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mt,24644,Krogaspe,Am Sandkamp,18,,54.1384798,9.89160245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mu,24644,Krogaspe,Am Sandkamp,18,a,54.13829171,9.89127985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mv,24644,Krogaspe,Am Sandkamp,19,,54.13814524,9.89221103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mw,24644,Krogaspe,Am Sandkamp,2,,54.13937929,9.88995972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mx,24644,Krogaspe,Am Sandkamp,21,,54.13771645,9.89230839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9my,24644,Krogaspe,Am Sandkamp,24,,54.13770088,9.89189816
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9mz,24644,Krogaspe,Am Sandkamp,26,,54.13724728,9.89116652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n0,24644,Krogaspe,Bahnhofstraße,4,,54.13717112,9.90491157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n1,24644,Krogaspe,Bahnhofstraße,40,,54.14013483,9.9002922
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n2,24644,Krogaspe,Bahnhofstraße,42,,54.14020256,9.90003619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n3,24644,Krogaspe,Bahnhofstraße,44,,54.14034282,9.89976541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n4,24644,Krogaspe,Bahnhofstraße,46,,54.14049215,9.89950273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n5,24644,Krogaspe,Bahnhofstraße,48,a,54.14073419,9.89913188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n6,24644,Krogaspe,Bahnhofstraße,48,b,54.14066596,9.89925003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n7,24644,Krogaspe,Bahnhofstraße,50,,54.14091391,9.89886232
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n8,24644,Krogaspe,Bahnhofstraße,52,,54.14107911,9.89859143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9n9,24644,Krogaspe,Bahnhofstraße,54,,54.14124301,9.89834519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nA,24644,Krogaspe,Birkenweg,21,a,54.13474472,9.90614535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nB,24644,Krogaspe,Birkenweg,3,,54.13622044,9.90439275
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nC,24644,Krogaspe,Birkenweg,5,,54.13614224,9.90439732
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nD,24644,Krogaspe,Birkenweg,7,,54.13590208,9.90441543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nE,24644,Krogaspe,Birkenweg,9,,54.13570321,9.90466582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nF,24644,Krogaspe,Birkenweg,9,a,54.1357018,9.90502424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nG,24644,Krogaspe,Blodenberg,10,,54.13782178,9.89381951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nH,24644,Krogaspe,Blodenberg,11,,54.13806018,9.89368295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nI,24644,Krogaspe,Blodenberg,12,,54.13774123,9.89409878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nJ,24644,Krogaspe,Blodenberg,14,,54.13776104,9.89419465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nK,24644,Krogaspe,Blodenberg,16,,54.13773436,9.89452274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nL,24644,Krogaspe,Blodenberg,18,,54.13753196,9.89506265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nM,24644,Krogaspe,Blodenberg,2,,54.13808607,9.89261521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nN,24644,Krogaspe,Blodenberg,20,,54.13747042,9.89582456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nO,24644,Krogaspe,Blodenberg,27,,54.13782983,9.89634677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nP,24644,Krogaspe,Blodenberg,3,,54.13844187,9.89245411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nQ,24644,Krogaspe,Blodenberg,4,,54.13799709,9.89293561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nR,24644,Krogaspe,Blodenberg,5,,54.13827438,9.89298434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nS,24644,Krogaspe,Blodenberg,6,,54.13792673,9.89335802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nT,24644,Krogaspe,Blodenberg,8,,54.13780402,9.89373182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nU,24644,Krogaspe,Blodenberg,9,,54.13809097,9.89356422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nV,24644,Krogaspe,Blodenberg,9,a,54.13856568,9.89360029
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nW,24644,Krogaspe,Dorfstraße,1,,54.14055656,9.89115228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nX,24644,Krogaspe,Dorfstraße,1,a,54.1403871,9.89176992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nY,24644,Krogaspe,Dorfstraße,1,b,54.14030487,9.89217135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nZ,24644,Krogaspe,Dorfstraße,10,,54.14019534,9.88922538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9na,24644,Krogaspe,Bahnhofstraße,54,a,54.14127616,9.89819185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nb,24644,Krogaspe,Bahnhofstraße,56,a,54.14146886,9.89833987
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nc,24644,Krogaspe,Bahnhofstraße,56,b,54.14161916,9.89802877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nd,24644,Krogaspe,Bahnhofstraße,60,,54.14190211,9.89737876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ne,24644,Krogaspe,Bahnhofstraße,79,,54.14378862,9.89405273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nf,24644,Krogaspe,Bahnhofstraße,8,,54.13777308,9.9041616
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ng,24644,Krogaspe,Birkenhof,2,,54.14038998,9.87072805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nh,24644,Krogaspe,Birkenhof,4,,54.14052335,9.86995759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ni,24644,Krogaspe,Birkenhof,6,,54.13965673,9.86693889
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nj,24644,Krogaspe,Birkenweg,1,,54.13637314,9.90439972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nk,24644,Krogaspe,Birkenweg,10,,54.13544488,9.90453473
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nl,24644,Krogaspe,Birkenweg,11,,54.1354783,9.9049015
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nm,24644,Krogaspe,Birkenweg,12,,54.13537797,9.90460508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nn,24644,Krogaspe,Birkenweg,12,a,54.13524783,9.90474482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9no,24644,Krogaspe,Birkenweg,13,,54.1351986,9.90519269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9np,24644,Krogaspe,Birkenweg,13,a,54.13529354,9.90509452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nq,24644,Krogaspe,Birkenweg,14,,54.13511067,9.90487729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nr,24644,Krogaspe,Birkenweg,15,,54.13514787,9.90524608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ns,24644,Krogaspe,Birkenweg,16,,54.13489702,9.90510879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nt,24644,Krogaspe,Birkenweg,16,a,54.13495083,9.90505337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nu,24644,Krogaspe,Birkenweg,17,,54.13504192,9.90582465
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nv,24644,Krogaspe,Birkenweg,18,,54.1348373,9.90517027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nw,24644,Krogaspe,Birkenweg,18,a,54.13462658,9.90501444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nx,24644,Krogaspe,Birkenweg,19,,54.13499316,9.90587253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ny,24644,Krogaspe,Birkenweg,20,,54.13473952,9.905517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9nz,24644,Krogaspe,Birkenweg,21,,54.13478141,9.90563411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o0,24644,Krogaspe,Dorfstraße,10,a,54.14028192,9.88930999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o1,24644,Krogaspe,Dorfstraße,11,,54.13998197,9.88918959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o2,24644,Krogaspe,Dorfstraße,12,,54.14039728,9.88898589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o3,24644,Krogaspe,Dorfstraße,13,,54.14018811,9.8884399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o4,24644,Krogaspe,Dorfstraße,13,a,54.14006871,9.88876451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o5,24644,Krogaspe,Dorfstraße,13,b,54.13981968,9.88857303
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o6,24644,Krogaspe,Dorfstraße,13,c,54.13957698,9.888217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o7,24644,Krogaspe,Dorfstraße,13,e,54.13932755,9.88773205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o8,24644,Krogaspe,Dorfstraße,13,f,54.1396513,9.88797378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9o9,24644,Krogaspe,Dorfstraße,14,,54.14059596,9.88824069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oA,24644,Krogaspe,Dorfstraße,6,,54.14024348,9.89003785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oB,24644,Krogaspe,Dorfstraße,6,a,54.14033277,9.88992714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oC,24644,Krogaspe,Dorfstraße,7,,54.13992156,9.89052007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oD,24644,Krogaspe,Dorfstraße,8,,54.14014479,9.88976759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oE,24644,Krogaspe,Dorfstraße,9,,54.13987505,9.88936561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oF,24644,Krogaspe,Dorfstraße,9,a,54.13960919,9.88903096
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oG,24644,Krogaspe,Forsthaus,1,,54.11454074,9.86082504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oH,24644,Krogaspe,Forsthaus,2,,54.11546561,9.86167822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oI,24644,Krogaspe,Gang,1,,54.14150747,9.88891952
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oJ,24644,Krogaspe,Gang,2,b,54.14181403,9.88895892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oK,24644,Krogaspe,Gang,4,,54.14164531,9.88843447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oL,24644,Krogaspe,Gang,5,,54.14130764,9.88832378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oM,24644,Krogaspe,Gang,8,,54.1413724,9.88762673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oN,24644,Krogaspe,Hauptstraße,1,,54.14314833,9.88936892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oO,24644,Krogaspe,Hauptstraße,10,,54.14229754,9.88891687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oP,24644,Krogaspe,Hauptstraße,10,a,54.14225575,9.8889343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oQ,24644,Krogaspe,Hauptstraße,102,,54.13660051,9.90404047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oR,24644,Krogaspe,Hauptstraße,105,,54.13668371,9.90537109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oS,24644,Krogaspe,Hauptstraße,106,,54.13634286,9.90576989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oT,24644,Krogaspe,Hauptstraße,11,,54.14217929,9.88977826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oU,24644,Krogaspe,Hauptstraße,110,,54.13620907,9.90643709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oV,24644,Krogaspe,Hauptstraße,12,,54.14204432,9.88895185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oW,24644,Krogaspe,Hauptstraße,15,,54.14177636,9.88960155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oX,24644,Krogaspe,Hauptstraße,17,,54.1417783,9.89042576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oY,24644,Krogaspe,Hauptstraße,2,,54.1430454,9.88869224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oZ,24644,Krogaspe,Hauptstraße,21,,54.14128027,9.89032226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oa,24644,Krogaspe,Dorfstraße,15,,54.14035274,9.88795745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ob,24644,Krogaspe,Dorfstraße,17,,54.14039742,9.88775254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oc,24644,Krogaspe,Dorfstraße,18,,54.14103476,9.88814153
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9od,24644,Krogaspe,Dorfstraße,19,,54.14059376,9.88749444
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oe,24644,Krogaspe,Dorfstraße,2,,54.14065447,9.89068814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9of,24644,Krogaspe,Dorfstraße,22,,54.14121332,9.88745442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9og,24644,Krogaspe,Dorfstraße,24,,54.14136142,9.88651491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oh,24644,Krogaspe,Dorfstraße,25,,54.14071954,9.88594098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oi,24644,Krogaspe,Dorfstraße,26,,54.14122714,9.88604715
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oj,24644,Krogaspe,Dorfstraße,26,a,54.14167039,9.88595353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ok,24644,Krogaspe,Dorfstraße,26,b,54.14173684,9.88671791
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ol,24644,Krogaspe,Dorfstraße,28,,54.1412485,9.88548834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9om,24644,Krogaspe,Dorfstraße,29,,54.14095107,9.88490882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9on,24644,Krogaspe,Dorfstraße,3,,54.14037088,9.8907802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oo,24644,Krogaspe,Dorfstraße,3,a,54.1400634,9.89160215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9op,24644,Krogaspe,Dorfstraße,3,b,54.14019935,9.89115572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oq,24644,Krogaspe,Dorfstraße,31,,54.14077927,9.88416876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9or,24644,Krogaspe,Dorfstraße,31,a,54.14069071,9.88436171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9os,24644,Krogaspe,Dorfstraße,32,,54.14130876,9.8841022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ot,24644,Krogaspe,Dorfstraße,33,,54.14091881,9.88375182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ou,24644,Krogaspe,Dorfstraße,34,,54.14131876,9.8835784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ov,24644,Krogaspe,Dorfstraße,34,a,54.14122867,9.88371981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ow,24644,Krogaspe,Dorfstraße,36,,54.14166502,9.88360264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ox,24644,Krogaspe,Dorfstraße,4,,54.14052162,9.89049758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oy,24644,Krogaspe,Dorfstraße,4,a,54.14038531,9.89028716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9oz,24644,Krogaspe,Dorfstraße,5,,54.14017888,9.8905607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p0,24644,Krogaspe,Hauptstraße,22,,54.14105808,9.88997017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p1,24644,Krogaspe,Hauptstraße,24,,54.14088169,9.89036703
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p2,24644,Krogaspe,Hauptstraße,25,,54.14115504,9.89116657
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p3,24644,Krogaspe,Hauptstraße,25,a,54.14125721,9.89111883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p4,24644,Krogaspe,Hauptstraße,25,b,54.14131448,9.89140058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p5,24644,Krogaspe,Hauptstraße,27,,54.1410457,9.89176624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p6,24644,Krogaspe,Hauptstraße,28,,54.14079633,9.89179577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p7,24644,Krogaspe,Hauptstraße,29,,54.14107037,9.8924501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p8,24644,Krogaspe,Hauptstraße,30,,54.14074625,9.89191621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9p9,24644,Krogaspe,Hauptstraße,31,,54.14100059,9.89279115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pA,24644,Krogaspe,Hauptstraße,83,,54.13740048,9.90110127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pB,24644,Krogaspe,Hauptstraße,85,,54.1373238,9.90138128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pC,24644,Krogaspe,Hauptstraße,87,,54.13712738,9.90162481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pD,24644,Krogaspe,Hauptstraße,89,,54.13714651,9.90200997
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pE,24644,Krogaspe,Hauptstraße,9,a,54.14243378,9.88926446
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pF,24644,Krogaspe,Hauptstraße,9,b,54.14236467,9.88925975
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pG,24644,Krogaspe,Hauptstraße,9,c,54.14231115,9.8892916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pH,24644,Krogaspe,Hauptstraße,91,,54.13707551,9.90230385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pI,24644,Krogaspe,Hauptstraße,93,,54.13700097,9.90262411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pJ,24644,Krogaspe,Hauptstraße,95,,54.13699431,9.90289487
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pK,24644,Krogaspe,Hauptstraße,97,,54.13691098,9.90316772
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pL,24644,Krogaspe,Hauptstraße,98,,54.1367379,9.90312982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pM,24644,Krogaspe,Hauptstraße,99,,54.13681527,9.90367808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pN,24644,Krogaspe,Haus Langenhorst,1,,54.11488071,9.89337752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pO,24644,Krogaspe,Heidehof,1,,54.12852945,9.89725767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pP,24644,Krogaspe,Heidehof,3,,54.12828424,9.89773773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pQ,24644,Krogaspe,Hof Fahrenseck,1,,54.12314292,9.89301669
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pR,24644,Krogaspe,Hof Fahrenseck,2,,54.12287533,9.89291036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pS,24644,Krogaspe,Hof Langenhorst,2,,54.11531786,9.89721466
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pT,24644,Krogaspe,Hof Langenhorst,3,,54.11367953,9.89723067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pU,24644,Krogaspe,Iloo-Weg,1,,54.1406099,9.88712812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pV,24644,Krogaspe,Iloo-Weg,10,,54.14014498,9.88634833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pW,24644,Krogaspe,Iloo-Weg,11,,54.13952922,9.88652828
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pX,24644,Krogaspe,Iloo-Weg,11,a,54.13933286,9.88715341
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pY,24644,Krogaspe,Iloo-Weg,12,,54.13999842,9.88616183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pZ,24644,Krogaspe,Iloo-Weg,13,,54.13926418,9.88629277
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pa,24644,Krogaspe,Hauptstraße,33,,54.14092831,9.89309664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pb,24644,Krogaspe,Hauptstraße,34,,54.14072406,9.89286748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pc,24644,Krogaspe,Hauptstraße,35,,54.1408615,9.89326439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pd,24644,Krogaspe,Hauptstraße,36,,54.14043798,9.89281028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pe,24644,Krogaspe,Hauptstraße,37,,54.14072795,9.8935531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pf,24644,Krogaspe,Hauptstraße,38,,54.14049682,9.89336983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pg,24644,Krogaspe,Hauptstraße,38,a,54.14015907,9.89309474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ph,24644,Krogaspe,Hauptstraße,39,,54.1407477,9.89377353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pi,24644,Krogaspe,Hauptstraße,4,,54.14280063,9.88866687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pj,24644,Krogaspe,Hauptstraße,40,,54.14025747,9.89382024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pk,24644,Krogaspe,Hauptstraße,41,,54.14059495,9.89393437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pl,24644,Krogaspe,Hauptstraße,42,,54.13997635,9.8934159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pm,24644,Krogaspe,Hauptstraße,43,,54.14047428,9.89418071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pn,24644,Krogaspe,Hauptstraße,45,,54.14037511,9.89445304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9po,24644,Krogaspe,Hauptstraße,47,,54.14035249,9.89475399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pp,24644,Krogaspe,Hauptstraße,47,a,54.14041834,9.89481886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pq,24644,Krogaspe,Hauptstraße,5,,54.14274477,9.8890668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pr,24644,Krogaspe,Hauptstraße,53,,54.13991186,9.89535103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pt,24644,Krogaspe,Hauptstraße,59,,54.13903206,9.8965797
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pu,24644,Krogaspe,Hauptstraße,6,,54.14265749,9.88872602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pv,24644,Krogaspe,Hauptstraße,62,,54.13854758,9.8965593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pw,24644,Krogaspe,Hauptstraße,63,,54.13873896,9.89713898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9px,24644,Krogaspe,Hauptstraße,7,,54.14261196,9.88923145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9py,24644,Krogaspe,Hauptstraße,81,a,54.13751777,9.90067005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9pz,24644,Krogaspe,Hauptstraße,81,b,54.13774704,9.90064841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q0,24644,Krogaspe,Iloo-Weg,16,,54.13972373,9.88596226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q1,24644,Krogaspe,Iloo-Weg,16,a,54.13977669,9.88584524
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q2,24644,Krogaspe,Iloo-Weg,16,b,54.13979648,9.88604649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q3,24644,Krogaspe,Iloo-Weg,18,,54.13970411,9.88544058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q4,24644,Krogaspe,Iloo-Weg,2,,54.14081109,9.88676543
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q5,24644,Krogaspe,Iloo-Weg,20,,54.13952157,9.88583056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q6,24644,Krogaspe,Iloo-Weg,38,,54.13704484,9.88366773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q7,24644,Krogaspe,Iloo-Weg,4,,54.14063489,9.88678481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q8,24644,Krogaspe,Iloo-Weg,46,,54.13529139,9.88159168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9q9,24644,Krogaspe,Iloo-Weg,5,,54.14024434,9.88696066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qA,24644,Krogaspe,Kreuzweg,13,,54.13831975,9.88955187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qB,24644,Krogaspe,Kreuzweg,15,,54.13819758,9.88940994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qC,24644,Krogaspe,Kreuzweg,17,,54.13812086,9.88918189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qD,24644,Krogaspe,Kreuzweg,2,,54.13878746,9.89003937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qE,24644,Krogaspe,Kreuzweg,3,,54.13846582,9.89043909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qF,24644,Krogaspe,Kreuzweg,4,,54.13884574,9.88977051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qG,24644,Krogaspe,Kreuzweg,5,,54.13834924,9.89063853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qH,24644,Krogaspe,Kreuzweg,5,a,54.13827239,9.89088515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qI,24644,Krogaspe,Kreuzweg,6,,54.13863312,9.88969479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qJ,24644,Krogaspe,Kreuzweg,7,,54.13821781,9.89038532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qK,24644,Krogaspe,Kreuzweg,8,,54.1384919,9.88929717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qL,24644,Krogaspe,Kreuzweg,9,,54.13832505,9.89012821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qM,24644,Krogaspe,Kuckucksweg,1,,54.13967779,9.90213766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qN,24644,Krogaspe,Kuckucksweg,2,,54.13931807,9.90292511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qO,24644,Krogaspe,Kuckucksweg,3,,54.13963403,9.90241393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qP,24644,Krogaspe,Kuckucksweg,5,,54.13952471,9.902752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qQ,24644,Krogaspe,Kuckucksweg,7,,54.13950284,9.90301534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qR,24644,Krogaspe,Ligusterweg,1,,54.14195057,9.89396675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qS,24644,Krogaspe,Ligusterweg,10,,54.14297345,9.8937643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qT,24644,Krogaspe,Ligusterweg,11,,54.14288679,9.89346379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qU,24644,Krogaspe,Ligusterweg,11,a,54.14262391,9.89328537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qV,24644,Krogaspe,Ligusterweg,12,,54.14318639,9.89324197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qW,24644,Krogaspe,Ligusterweg,13,,54.14281855,9.89317323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qX,24644,Krogaspe,Ligusterweg,15,,54.14299546,9.89290353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qY,24644,Krogaspe,Ligusterweg,2,,54.14211716,9.89423881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qZ,24644,Krogaspe,Ligusterweg,2,a,54.14227739,9.89410692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qa,24644,Krogaspe,Iloo-Weg,50,,54.13470539,9.8801127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qb,24644,Krogaspe,Iloo-Weg,50,a,54.13464986,9.88005942
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qc,24644,Krogaspe,Iloo-Weg,51,,54.13382102,9.8815143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qd,24644,Krogaspe,Iloo-Weg,53,,54.13371613,9.88147857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qe,24644,Krogaspe,Iloo-Weg,6,,54.14047443,9.88666513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qf,24644,Krogaspe,Iloo-Weg,7,,54.13998264,9.88661748
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qg,24644,Krogaspe,Iloo-Weg,8,,54.14033029,9.88649739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qh,24644,Krogaspe,Iloo-Weg,9,,54.13972119,9.88669351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qi,24644,Krogaspe,Karlshof,1,,54.12011758,9.89938929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qj,24644,Krogaspe,Kastanienweg,1,,54.14164602,9.89271969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qk,24644,Krogaspe,Kastanienweg,10,,54.14235615,9.89216708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ql,24644,Krogaspe,Kastanienweg,12,,54.14233515,9.89182246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qm,24644,Krogaspe,Kastanienweg,14,,54.14229352,9.89147101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qn,24644,Krogaspe,Kastanienweg,2,a,54.14199627,9.89297516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qo,24644,Krogaspe,Kastanienweg,2,b,54.14203073,9.89308998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qp,24644,Krogaspe,Kastanienweg,3,,54.14180861,9.89256932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qq,24644,Krogaspe,Kastanienweg,4,a,54.14212723,9.89279506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qr,24644,Krogaspe,Kastanienweg,4,b,54.14216721,9.89292305
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qs,24644,Krogaspe,Kastanienweg,5,,54.14198964,9.89239584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qt,24644,Krogaspe,Kastanienweg,6,,54.14227375,9.89257579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qu,24644,Krogaspe,Kastanienweg,7,,54.14216624,9.89224081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qv,24644,Krogaspe,Kastanienweg,8,,54.14248641,9.89260394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qw,24644,Krogaspe,Kastanienweg,8,a,54.14277252,9.89253595
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qx,24644,Krogaspe,Kastanienweg,9,,54.14201587,9.89170055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qy,24644,Krogaspe,Kreuzweg,1,,54.13864542,9.89023903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9qz,24644,Krogaspe,Kreuzweg,11,,54.13847739,9.88989707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r0,24644,Krogaspe,Ligusterweg,3,,54.14210982,9.89380894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r1,24644,Krogaspe,Ligusterweg,4,,54.14244796,9.8939498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r2,24644,Krogaspe,Ligusterweg,5,,54.1422243,9.89369655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r3,24644,Krogaspe,Ligusterweg,6,,54.14265948,9.89381649
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r4,24644,Krogaspe,Ligusterweg,7,,54.14236216,9.89358899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r5,24644,Krogaspe,Ligusterweg,8,,54.14287799,9.89398598
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r6,24644,Krogaspe,Ligusterweg,9,,54.14251738,9.89345572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r7,24644,Krogaspe,Marienstraße,1,,54.13789169,9.89172274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r8,24644,Krogaspe,Marienstraße,1,a,54.13783622,9.89143041
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9r9,24644,Krogaspe,Marienstraße,10,,54.13778141,9.89009552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rA,24644,Krogaspe,Martenskamp,2,,54.13990276,9.89455047
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rB,24644,Krogaspe,Martenskamp,20,,54.13863201,9.89420834
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rC,24644,Krogaspe,Martenskamp,21,,54.13837845,9.89543591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rD,24644,Krogaspe,Martenskamp,22,,54.13847487,9.89438151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rE,24644,Krogaspe,Martenskamp,23,,54.13818801,9.89534377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rF,24644,Krogaspe,Martenskamp,24,,54.1384407,9.89487482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rG,24644,Krogaspe,Martenskamp,25,,54.13810462,9.89583159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rH,24644,Krogaspe,Martenskamp,26,,54.13821798,9.89472964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rI,24644,Krogaspe,Martenskamp,27,,54.13792248,9.89568525
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rJ,24644,Krogaspe,Martenskamp,28,,54.13825389,9.8942076
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rK,24644,Krogaspe,Martenskamp,29,,54.13794526,9.89525884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rL,24644,Krogaspe,Martenskamp,3,,54.13958488,9.89474537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rM,24644,Krogaspe,Martenskamp,30,,54.13810288,9.89426468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rN,24644,Krogaspe,Martenskamp,32,,54.13797162,9.89476973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rO,24644,Krogaspe,Martenskamp,4,,54.1399335,9.89423788
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rP,24644,Krogaspe,Martenskamp,5,,54.13943912,9.89452055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rQ,24644,Krogaspe,Martenskamp,6,,54.13969362,9.89430127
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rR,24644,Krogaspe,Martenskamp,7,,54.13924302,9.89437161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rS,24644,Krogaspe,Martenskamp,8,,54.13956465,9.89412933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rT,24644,Krogaspe,Martenskamp,9,,54.13900973,9.89453202
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rU,24644,Krogaspe,Westerfelder Weg,1,,54.13922318,9.88965563
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rV,24644,Krogaspe,Westerfelder Weg,10,,54.13895896,9.8883241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rW,24644,Krogaspe,Westerfelder Weg,10,a,54.13888948,9.88870862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rX,24644,Krogaspe,Westerfelder Weg,10,b,54.13866982,9.88859063
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rY,24644,Krogaspe,Westerfelder Weg,12,,54.13851644,9.88864364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rZ,24644,Krogaspe,Westerfelder Weg,12,a,54.13833802,9.88868513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ra,24644,Krogaspe,Marienstraße,11,,54.13747963,9.89002504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rb,24644,Krogaspe,Marienstraße,12,,54.13773174,9.88979267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rc,24644,Krogaspe,Marienstraße,13,,54.13743536,9.88974129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rd,24644,Krogaspe,Marienstraße,14,,54.13767562,9.88945894
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9re,24644,Krogaspe,Marienstraße,15,,54.13738583,9.88943992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rf,24644,Krogaspe,Marienstraße,15,a,54.1373215,9.88950452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rg,24644,Krogaspe,Marienstraße,2,,54.13816169,9.89173491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rh,24644,Krogaspe,Marienstraße,3,,54.13770249,9.89118257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ri,24644,Krogaspe,Marienstraße,4,,54.13805438,9.89140107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rj,24644,Krogaspe,Marienstraße,5,,54.13762241,9.89091915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rk,24644,Krogaspe,Marienstraße,6,,54.13800151,9.8910538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rl,24644,Krogaspe,Marienstraße,6,a,54.13792323,9.89071761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rm,24644,Krogaspe,Marienstraße,7,,54.13757471,9.89062181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rn,24644,Krogaspe,Marienstraße,8,,54.13782484,9.89040781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ro,24644,Krogaspe,Marienstraße,9,,54.13755836,9.89029157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rp,24644,Krogaspe,Martenskamp,1,,54.13973618,9.89488506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rq,24644,Krogaspe,Martenskamp,10,,54.13930939,9.89405713
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rr,24644,Krogaspe,Martenskamp,11,,54.13903138,9.89492406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rs,24644,Krogaspe,Martenskamp,12,,54.13926787,9.89368532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rt,24644,Krogaspe,Martenskamp,13,,54.13889921,9.8952059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ru,24644,Krogaspe,Martenskamp,14,,54.13908241,9.89392872
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rv,24644,Krogaspe,Martenskamp,15,,54.13857668,9.89541675
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rw,24644,Krogaspe,Martenskamp,16,,54.13866251,9.89491457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rx,24644,Krogaspe,Martenskamp,17,,54.13852729,9.89579632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ry,24644,Krogaspe,Martenskamp,18,,54.13879793,9.89449886
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9rz,24644,Krogaspe,Martenskamp,19,,54.13830106,9.89594085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s0,24644,Krogaspe,Westerfelder Weg,14,,54.13817541,9.88871957
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s1,24644,Krogaspe,Westerfelder Weg,14,a,54.13800251,9.88874457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s2,24644,Krogaspe,Westerfelder Weg,16,,54.13787713,9.88886737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s3,24644,Krogaspe,Westerfelder Weg,18,a,54.13768323,9.8889058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s4,24644,Krogaspe,Westerfelder Weg,18,b,54.13757507,9.88897844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s5,24644,Krogaspe,Westerfelder Weg,2,,54.13946133,9.88941091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s6,24644,Krogaspe,Westerfelder Weg,20,,54.13731226,9.88904812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s7,24644,Krogaspe,Westerfelder Weg,22,,54.13712833,9.8890274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s8,24644,Krogaspe,Westerfelder Weg,23,,54.13695885,9.8896514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9s9,24644,Krogaspe,Westerfelder Weg,27,,54.1364789,9.88990844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sA,24644,Krogaspe,Zum Dickmoor,8,a,54.14153665,9.89403302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sB,24644,Krogaspe,Zum Dickmoor,9,,54.14174962,9.89305411
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sC,24644,Krogaspe,Zum Schwarzen Berg,1,,54.14088552,9.88330591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sD,24644,Krogaspe,Zum Schwarzen Berg,10,,54.14034522,9.88160035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sE,24644,Krogaspe,Zum Schwarzen Berg,2,,54.14088186,9.88267551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sF,24644,Krogaspe,Zum Schwarzen Berg,3,,54.14068004,9.88317113
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sG,24644,Krogaspe,Zum Schwarzen Berg,4,,54.14066222,9.8823609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sH,24644,Krogaspe,Zum Schwarzen Berg,5,,54.14060181,9.88284632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sI,24644,Krogaspe,Zum Schwarzen Berg,6,,54.14047902,9.88219066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sJ,24644,Krogaspe,Zum Schwarzen Berg,7,,54.14035325,9.88251289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sK,24644,Krogaspe,Zum Schwarzen Berg,8,,54.14036544,9.88192928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sL,24644,Krogaspe,Zum Schwarzen Berg,9,,54.14000636,9.8819658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sM,24644,Krogaspe,Zum Schwarzen Berg,9,a,54.14016566,9.8822472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sN,24644,Krogaspe,Zum Sportplatz,10,,54.1435021,9.89092455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sO,24644,Krogaspe,Zum Sportplatz,12,,54.14292219,9.89146291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sP,24644,Krogaspe,Zum Sportplatz,14,,54.1436775,9.89190459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sQ,24644,Krogaspe,Zum Sportplatz,2,,54.14332027,9.88963242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sR,24644,Krogaspe,Zum Sportplatz,20,,54.14407531,9.89242677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sS,24644,Krogaspe,Zum Sportplatz,9,,54.1438157,9.89026072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sa,24644,Krogaspe,Westerfelder Weg,3,,54.13905047,9.88936645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sb,24644,Krogaspe,Westerfelder Weg,4,,54.13926699,9.88925171
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sc,24644,Krogaspe,Westerfelder Weg,46,,54.13247472,9.88961122
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sd,24644,Krogaspe,Westerfelder Weg,48,,54.13213112,9.88942692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9se,24644,Krogaspe,Westerfelder Weg,5,,54.1389852,9.88917158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sf,24644,Krogaspe,Westerfelder Weg,55,,54.13035456,9.88714116
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sg,24644,Krogaspe,Westerfelder Weg,6,,54.13911218,9.88885826
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sh,24644,Krogaspe,Westerfelder Weg,7,,54.13872184,9.88901674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9si,24644,Krogaspe,Westerfelder Weg,8,,54.13900669,9.88860591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sj,24644,Krogaspe,Zum Dickmoor,1,,54.14126238,9.89213189
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sk,24644,Krogaspe,Zum Dickmoor,10,,54.14173698,9.89419188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sl,24644,Krogaspe,Zum Dickmoor,11,,54.14179276,9.89336253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sm,24644,Krogaspe,Zum Dickmoor,12,,54.14180512,9.8946024
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sn,24644,Krogaspe,Zum Dickmoor,13,,54.14206669,9.89473775
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9so,24644,Krogaspe,Zum Dickmoor,14,,54.14184684,9.89487789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sp,24644,Krogaspe,Zum Dickmoor,15,,54.14209691,9.89501933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sq,24644,Krogaspe,Zum Dickmoor,16,,54.14188746,9.89527152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sr,24644,Krogaspe,Zum Dickmoor,17,,54.14213736,9.89529664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9ss,24644,Krogaspe,Zum Dickmoor,18,,54.1419854,9.89561683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9su,24644,Krogaspe,Zum Dickmoor,19,,54.14220445,9.89562983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sv,24644,Krogaspe,Zum Dickmoor,20,,54.14224954,9.89687526
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sw,24644,Krogaspe,Zum Dickmoor,3,,54.14145721,9.8921905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sx,24644,Krogaspe,Zum Dickmoor,3,a,54.14147512,9.89247624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sy,24644,Krogaspe,Zum Dickmoor,6,,54.14144582,9.89325155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002c9sz,24644,Krogaspe,Zum Dickmoor,8,,54.14153307,9.89364589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SRW6,24644,Krogaspe,Appelhofweg,4,,54.14769631,9.94934909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004SRW7,24644,Krogaspe,Appelhofweg,4,a,54.14756553,9.94939306
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GATS,24644,Krogaspe,Ringstraße,31,,54.13229823,9.93262789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GDLW,24644,Krogaspe,Dorfstraße,17,a,54.1401611,9.88758521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GMIx,24644,Krogaspe,Westerfelder Weg,56,a,54.13080415,9.88692007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GMIy,24644,Krogaspe,Westerfelder Weg,56,b,54.13064926,9.88667786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NBUe,24644,Krogaspe,Hauptstraße,17,a,54.14769681,9.9503722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005NBUj,24644,Krogaspe,Hauptstraße,17,,54.1477189,9.95077012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mVnt,24644,Krogaspe,Looper Holz,10,,54.14665351,9.96873468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sgd8,24644,Krogaspe,Ossenweg,2,a,54.12995141,9.92653844
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063mTS,24644,Krogaspe,Hauptstraße,21,,54.14779091,9.94838735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063mTY,24644,Krogaspe,Sorfell,2,,54.14769222,9.94869902
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DDNq,24644,Krogaspe,Am Teich,8,,54.13988869,9.89617377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006DP18,24644,Krogaspe,Hauptstraße,15,,54.14777445,9.95147827
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XGE8,24644,Krogaspe,Ligusterweg,6,a,54.14273411,9.89406272
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XGTy,24644,Krogaspe,Zum Sportplatz,6,,54.14295903,9.89048874
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XGzc,24644,Krogaspe,Am Teich,6,,54.13991566,9.89592749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT23,24644,Krogaspe,Innenkoppel,2,,54.13885473,9.89280433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT27,24644,Krogaspe,Innenkoppel,4,,54.13876573,9.89309398
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2B,24644,Krogaspe,Innenkoppel,10,,54.13934721,9.89275764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2F,24644,Krogaspe,Innenkoppel,11,,54.13976701,9.89220304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2J,24644,Krogaspe,Innenkoppel,14,,54.13978057,9.89254593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2N,24644,Krogaspe,Innenkoppel,16,,54.1397222,9.89283462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2S,24644,Krogaspe,Innenkoppel,18,,54.13966279,9.8930741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2b,24644,Krogaspe,Innenkoppel,6,,54.13893389,9.89303215
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2l,24644,Krogaspe,Innenkoppel,7,,54.13945928,9.89193282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2t,24644,Krogaspe,Innenkoppel,8,,54.13930854,9.89301112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006XT2x,24644,Krogaspe,Innenkoppel,9,,54.13962135,9.89205683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006mVnB,24644,Krogaspe,Alter Schönbeker Weg,3,,54.14872805,9.95575818
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006nX6V,24644,Krogaspe,Dohrkamp,3,a,54.13283777,9.92442723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006q7Jc,24644,Krogaspe,Hauptstraße,55,,54.1396006,9.89578638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4gr,24644,Krogaspe,Hauptstraße,30,,54.13200854,9.92644691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4ni,24644,Krogaspe,Peerweid,1,,54.13241458,9.92594702
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4nm,24644,Krogaspe,Peerweid,3,,54.13269242,9.9259662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4nq,24644,Krogaspe,Peerweid,5,,54.13273101,9.92556123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4nu,24644,Krogaspe,Peerweid,7,,54.13290515,9.92558579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007M4nz,24644,Krogaspe,Peerweid,9,,54.13284153,9.92605901
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007MCCH,24644,Krogaspe,Dorfstraße,29,a,54.14096316,9.88438013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ad9X,24644,Krogaspe,Innenkoppel,3,,54.13929826,9.89242921
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007aksR,24644,Krogaspe,Alter Schönbeker Weg,2,,54.14883662,9.95600906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007k69y,24644,Krogaspe,Hauptstraße,2,a,54.14830302,9.95493056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007l0be,24644,Krogaspe,Hauptstraße,9,,54.13247811,9.92529696
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lUyd,24644,Krogaspe,Heinrichshof,3,,54.12217936,9.91305694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lUyi,24644,Krogaspe,Heinrichshof,2,,54.12282731,9.91433711
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lrMJ,24644,Krogaspe,Hauptstraße,2,a,54.14352012,9.88878553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lryK,24644,Krogaspe,Blodenberg,29,,54.13807929,9.8963925
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ls7G,24644,Krogaspe,Innenkoppel,5,,54.13938901,9.8921281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ls7K,24644,Krogaspe,Innenkoppel,12,,54.13949535,9.89231253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ls7O,24644,Krogaspe,Innenkoppel,13,,54.13992994,9.89228233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ls7W,24644,Krogaspe,Innenkoppel,20,,54.13954812,9.89326248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ls7Y,24644,Krogaspe,Innenkoppel,20,a,54.1395174,9.89335422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007lsjl,24644,Krogaspe,Langwedeler Weg,3,a,54.21419978,9.88975036
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089p5L,24644,Krogaspe,Hauptstraße,11,,54.13242653,9.92560072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089p5O,24644,Krogaspe,Peerweid,6,,54.13255066,9.92692008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089pKN,24644,Krogaspe,Hauptstraße,24,a,54.14085707,9.89061486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00089pKQ,24644,Krogaspe,Bahnhofstraße,58,,54.14167941,9.8975276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AknR,24644,Krogaspe,Peerweid,10,,54.13277648,9.92676658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008AknW,24644,Krogaspe,Peerweid,2,,54.13235349,9.92615246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008D64X,24644,Krogaspe,Dorfstraße,6,a,54.14858617,9.95061253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GNMd,24644,Krogaspe,Birkenweg,20,a,54.1347795,9.90539255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GNMe,24644,Krogaspe,Birkenweg,20,b,54.13479078,9.90544664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008GNMf,24644,Krogaspe,Birkenweg,20,c,54.13480353,9.9055078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09n,24644,Krogaspe,Dorfstraße,9,b,54.13981924,9.88950234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09o,24644,Krogaspe,Dorfstraße,9,c,54.13975583,9.88955182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09p,24644,Krogaspe,Dorfstraße,9,d,54.13971793,9.88945108
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09q,24644,Krogaspe,Dorfstraße,9,e,54.13968185,9.88935518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09r,24644,Krogaspe,Dorfstraße,9,f,54.13968088,9.88923971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008L09s,24644,Krogaspe,Dorfstraße,9,g,54.13978349,9.88930357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008gObe,24644,Krogaspe,Peerweid,8,,54.13266984,9.92682028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008jX2S,24644,Krogaspe,Dorfstraße,2,,54.14830594,9.94959587

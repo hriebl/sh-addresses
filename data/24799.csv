@@ -1,0 +1,661 @@
+# Amtliche Adressen für die Postleitzahl 24799
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYA,24799,Friedrichsholm,An de Barg,2,,54.34995952,9.39005192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYB,24799,Friedrichsholm,An de Kreisstroot,1,,54.34740216,9.40357249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYC,24799,Friedrichsholm,An de Kreisstroot,3,,54.34757199,9.4035851
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYD,24799,Friedrichsholm,An de Kreisstroot,3,a,54.34765777,9.40369489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYE,24799,Friedrichsholm,An de Kreisstroot,5,,54.34868072,9.40545379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYF,24799,Friedrichsholm,Eckstroot,1,,54.34882156,9.39798089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYG,24799,Friedrichsholm,Haubarg,1,,54.35177388,9.3897233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYH,24799,Friedrichsholm,Haubarg,2,,54.35188336,9.38846771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYI,24799,Friedrichsholm,Haubarg,4,,54.35156162,9.38598672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYJ,24799,Friedrichsholm,Bäckerbarg,1,,54.34877652,9.39673072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYK,24799,Friedrichsholm,Bäckerbarg,2,,54.34881127,9.39704125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYL,24799,Friedrichsholm,Bäckerbarg,4,,54.34861167,9.39698139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYM,24799,Friedrichsholm,Bäckerbarg,6,,54.34854004,9.3969743
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYN,24799,Friedrichsholm,Molerstieg,1,,54.34977952,9.39923867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYO,24799,Friedrichsholm,Molerstieg,2,,54.34939647,9.39975485
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYP,24799,Friedrichsholm,Molerstieg,3,,54.34997236,9.39906841
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYQ,24799,Friedrichsholm,Molerstieg,4,,54.34962672,9.39964991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYR,24799,Friedrichsholm,Molerstieg,6,,54.34981635,9.39955915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYW,24799,Friedrichsholm,Osterkoog,1,,54.34964119,9.4002608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYX,24799,Friedrichsholm,Osterkoog,2,,54.3493136,9.40063245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYY,24799,Friedrichsholm,Osterkoog,4,,54.34929172,9.40125442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYZ,24799,Friedrichsholm,Osterkoog,6,,54.34988204,9.40044636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfYz,24799,Friedrichsholm,An de Barg,1,,54.34971984,9.39033418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ0,24799,Friedrichsholm,Sandkuhle,1,,54.34902707,9.39075662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ1,24799,Friedrichsholm,Sandkuhle,10,,54.34869082,9.39073945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ2,24799,Friedrichsholm,Sandkuhle,11,,54.34886284,9.39111639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ3,24799,Friedrichsholm,Sandkuhle,12,,54.34871264,9.39034107
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ4,24799,Friedrichsholm,Sandkuhle,13,,54.34861165,9.39105131
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ5,24799,Friedrichsholm,Sandkuhle,17,,54.34846358,9.39063405
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ6,24799,Friedrichsholm,Sandkuhle,19,,54.34847745,9.39028752
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ7,24799,Friedrichsholm,Sandkuhle,2,,54.34963386,9.39075067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ8,24799,Friedrichsholm,Sandkuhle,3,,54.3490436,9.39036944
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZ9,24799,Friedrichsholm,Sandkuhle,4,,54.34945042,9.39088263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZA,24799,Friedrichsholm,Dörpstraat,11,a,54.32065067,9.39857887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZB,24799,Friedrichsholm,Dörpstraat,13,,54.32070674,9.3979624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZC,24799,Friedrichsholm,Dörpstraat,13,a,54.32058056,9.3979662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZD,24799,Friedrichsholm,Dörpstraat,13,b,54.32058056,9.3979662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZE,24799,Friedrichsholm,Dörpstraat,13,c,54.32058238,9.39772959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZF,24799,Friedrichsholm,Dörpstraat,13,d,54.32058056,9.3979662
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZG,24799,Friedrichsholm,Dörpstraat,15,,54.32073962,9.39472832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZH,24799,Friedrichsholm,Dörpstraat,2,,54.32093206,9.40064056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZI,24799,Friedrichsholm,Dörpstraat,4,,54.32096454,9.39945623
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZJ,24799,Friedrichsholm,Dörpstraat,5,,54.32064261,9.40003574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZK,24799,Friedrichsholm,Dörpstraat,6,,54.32118142,9.39474947
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZL,24799,Friedrichsholm,Dörpstraat,6,a,54.32123639,9.39475432
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZN,24799,Friedrichsholm,Dörpstraat,8,,54.32147346,9.38729804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZO,24799,Friedrichsholm,Dörpstraat,9,,54.3198581,9.39915337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZP,24799,Friedrichsholm,Flönbarg,10,,54.31806434,9.39964434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZQ,24799,Friedrichsholm,Flönbarg,2,,54.31874776,9.38932629
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZR,24799,Friedrichsholm,Flönbarg,3,,54.31897917,9.39686105
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZS,24799,Friedrichsholm,Flönbarg,4,,54.31882632,9.38974985
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZT,24799,Friedrichsholm,Flönbarg,5,,54.31867737,9.39786311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZU,24799,Friedrichsholm,Flönbarg,6,,54.31878743,9.39467064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZV,24799,Friedrichsholm,Flönbarg,7,,54.31812332,9.40077214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZW,24799,Friedrichsholm,Flönbarg,8,,54.31880501,9.39533557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZX,24799,Friedrichsholm,Königsberger Straße,1,,54.32102357,9.40177301
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZY,24799,Friedrichsholm,Königsberger Straße,1,a,54.32120498,9.40179673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZZ,24799,Friedrichsholm,Königsberger Straße,3,,54.32139689,9.40182528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZa,24799,Friedrichsholm,Sandkuhle,5,,54.34949072,9.39160698
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZb,24799,Friedrichsholm,Sandkuhle,6,,54.3493035,9.39086666
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZc,24799,Friedrichsholm,Sandkuhle,7,,54.34930728,9.39123626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZd,24799,Friedrichsholm,Sandkuhle,8,,54.34927251,9.39037264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZe,24799,Friedrichsholm,Sandkuhle,9,,54.34909702,9.39116815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZf,24799,Friedrichsholm,Wienweg,2,,54.34691443,9.38724932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZg,24799,Friedrichsholm,Wienweg,4,,54.34638648,9.38712023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZh,24799,Friedrichsholm,Wienweg,6,,54.34639491,9.38667482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZi,24799,Friedrichsholm,Hölken,1,,54.34058907,9.38379126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZk,24799,Friedrichsholm,Hölken,13,,54.33976867,9.37760458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZl,24799,Friedrichsholm,Hölken,2,,54.34093614,9.38432655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZm,24799,Friedrichsholm,Hölken,3,,54.34033321,9.38389392
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZn,24799,Friedrichsholm,Hölken,4,,54.3407569,9.38454546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZo,24799,Friedrichsholm,Hölken,5,,54.34027378,9.3812915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZp,24799,Friedrichsholm,Hölken,6,,54.34060333,9.38475814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZq,24799,Friedrichsholm,Hölken,7,,54.34034579,9.38067978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZr,24799,Friedrichsholm,Hölken,9,,54.34017067,9.37993254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZs,24799,Friedrichsholm,Johannisberg,1,,54.34399875,9.38822627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZt,24799,Friedrichsholm,Johannisberg,2,,54.3445678,9.38784175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZu,24799,Friedrichsholm,Johannisberg,3,,54.34365385,9.38811741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZv,24799,Friedrichsholm,Johannisberg,4,,54.3443031,9.38746352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZw,24799,Friedrichsholm,Johannisberg,5,,54.34362779,9.38618269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZx,24799,Friedrichsholm,Johannisberg,6,,54.34399579,9.38729483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZy,24799,Friedrichsholm,Johannisberg,7,,54.34348374,9.38414082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NfZz,24799,Friedrichsholm,Dörpstraat,11,,54.3206566,9.39923382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng00,24799,Friedrichsholm,Königsberger Straße,5,,54.32163422,9.40185302
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng01,24799,Friedrichsholm,Königsberger Straße,7,,54.32195555,9.40184433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng02,24799,Friedrichsholm,Königsberger Straße,9,,54.32216413,9.40199019
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng06,24799,Friedrichsholm,Süderholmer Weg,10,,54.31859684,9.40140634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng07,24799,Friedrichsholm,Süderholmer Weg,12,,54.31841764,9.40131346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng08,24799,Friedrichsholm,Süderholmer Weg,14,,54.31817388,9.40132656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng09,24799,Friedrichsholm,Süderholmer Weg,2,,54.31947786,9.40145512
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0A,24799,Friedrichsholm,Osterende,4,,54.34789154,9.39989067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0B,24799,Friedrichsholm,Osterende,5,,54.3481632,9.4002619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0C,24799,Friedrichsholm,Osterende,6,,54.34785928,9.40036964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0D,24799,Friedrichsholm,Osterende,7,,54.34808926,9.40066048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0E,24799,Friedrichsholm,Osterende,8,,54.34771201,9.40072771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0F,24799,Friedrichsholm,Osterende,9,,54.34789311,9.40121235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0H,24799,Friedrichsholm,Sandschleuse,2,,54.32156274,9.38603356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0I,24799,Friedrichsholm,Sandschleuse,4,,54.32109496,9.38546716
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0J,24799,Friedrichsholm,Sandschleuse,6,,54.32040449,9.3843467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0K,24799,Friedrichsholm,Sandschleuse,6,a,54.3206208,9.38420459
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0M,24799,Friedrichsholm,Süderende,10,,54.34722776,9.39832027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0N,24799,Friedrichsholm,Süderende,10,a,54.34581361,9.39811288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0O,24799,Friedrichsholm,Süderende,10,b,54.34602368,9.39815326
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0P,24799,Friedrichsholm,Süderende,11,,54.34618768,9.39865074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0Q,24799,Friedrichsholm,Süderende,11,a,54.34594583,9.39861628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0R,24799,Friedrichsholm,Süderende,11,b,54.34569777,9.39859613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0S,24799,Friedrichsholm,Süderende,12,,54.34529075,9.39834101
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0T,24799,Friedrichsholm,Süderende,13,,54.34490962,9.39921972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0U,24799,Friedrichsholm,Süderende,14,,54.3446917,9.39795504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0V,24799,Friedrichsholm,Süderende,2,,54.34813526,9.39834004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0W,24799,Friedrichsholm,Süderende,3,,54.34790693,9.39867193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0X,24799,Friedrichsholm,Süderende,4,,54.34786987,9.39835717
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0Y,24799,Friedrichsholm,Süderende,5,,54.34763513,9.39863784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0Z,24799,Friedrichsholm,Süderende,6,,54.34771393,9.39836194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0a,24799,Friedrichsholm,Süderholmer Weg,4,,54.31928822,9.40143321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0b,24799,Friedrichsholm,Süderholmer Weg,6,,54.31908527,9.40141932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0c,24799,Friedrichsholm,Süderholmer Weg,8,,54.31882718,9.40147968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0d,24799,Friedrichsholm,Ostersee,1,,54.34931377,9.39718764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0e,24799,Friedrichsholm,Ostersee,11,,54.34894927,9.40113573
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0f,24799,Friedrichsholm,Ostersee,13,,54.34885865,9.40150491
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0g,24799,Friedrichsholm,Ostersee,15,,54.34906052,9.40168833
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0h,24799,Friedrichsholm,Ostersee,17,,54.34873884,9.40238067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0i,24799,Friedrichsholm,Ostersee,19,,54.3486203,9.40293521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0j,24799,Friedrichsholm,Ostersee,21,,54.34848501,9.40358836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0k,24799,Friedrichsholm,Ostersee,23,,54.34837141,9.40433234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0l,24799,Friedrichsholm,Ostersee,25,,54.3490928,9.40522814
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0m,24799,Friedrichsholm,Ostersee,27,,54.34849365,9.40496549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0n,24799,Friedrichsholm,Ostersee,3,,54.34931239,9.39769472
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0o,24799,Friedrichsholm,Ostersee,4,,54.34862039,9.40151477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0p,24799,Friedrichsholm,Ostersee,5,,54.3492011,9.39879651
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0q,24799,Friedrichsholm,Ostersee,6,,54.34824043,9.40345899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0r,24799,Friedrichsholm,Ostersee,7,,54.34920729,9.39917946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0s,24799,Friedrichsholm,Ostersee,9,,54.34911409,9.40002362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0u,24799,Friedrichsholm,Osterende,10,,54.34722361,9.40261093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0v,24799,Friedrichsholm,Osterende,11,,54.34778125,9.40172257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0w,24799,Friedrichsholm,Osterende,12,,54.34710238,9.40290257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0x,24799,Friedrichsholm,Osterende,13,,54.34738258,9.4030134
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0y,24799,Friedrichsholm,Osterende,2,,54.3480831,9.39975802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng0z,24799,Friedrichsholm,Osterende,3,,54.34836847,9.39986741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng10,24799,Friedrichsholm,Süderende,7,,54.3471634,9.39859434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng11,24799,Friedrichsholm,Süderende,8,,54.34746411,9.39833695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng12,24799,Friedrichsholm,Süderende,9,,54.34675893,9.39860781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng13,24799,Friedrichsholm,Umleitungsdeich,1,,54.3531709,9.41328838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng14,24799,Friedrichsholm,Umleitungsdeich,11,,54.36015026,9.41086391
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng15,24799,Friedrichsholm,Umleitungsdeich,11,a,54.36380501,9.40444745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng16,24799,Friedrichsholm,Umleitungsdeich,3,,54.35716867,9.4100048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng17,24799,Friedrichsholm,Umleitungsdeich,5,,54.35727026,9.41020681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng18,24799,Friedrichsholm,Umleitungsdeich,7,,54.35879001,9.40989601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng19,24799,Friedrichsholm,Umleitungsdeich,7,a,54.35865793,9.41001175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1A,24799,Friedrichsholm,Westersee,14,,54.34990776,9.39279961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1B,24799,Friedrichsholm,Westersee,15,,54.35022797,9.38750073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1C,24799,Friedrichsholm,Westersee,16,,54.35000052,9.39236606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1D,24799,Friedrichsholm,Westersee,17,,54.35029208,9.38681064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1E,24799,Friedrichsholm,Westersee,17,a,54.34989639,9.38601001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1F,24799,Friedrichsholm,Westersee,17,b,54.3494627,9.38578773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1G,24799,Friedrichsholm,Westersee,18,,54.35007468,9.39194789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1H,24799,Friedrichsholm,Westersee,19,,54.3492487,9.38456709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1I,24799,Friedrichsholm,Westersee,2,,54.34934682,9.39669756
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1J,24799,Friedrichsholm,Westersee,20,,54.35013062,9.39142979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1K,24799,Friedrichsholm,Westersee,21,,54.34894718,9.38445402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1L,24799,Friedrichsholm,Westersee,22,,54.35025391,9.3909169
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1M,24799,Friedrichsholm,Westersee,22,a,54.35037934,9.39063185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1N,24799,Friedrichsholm,Westersee,23,,54.34876589,9.38440792
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1O,24799,Friedrichsholm,Westersee,24,,54.35044523,9.39026687
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1P,24799,Friedrichsholm,Westersee,25,,54.3485984,9.38442401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1Q,24799,Friedrichsholm,Westersee,26,,54.35079784,9.38936046
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1R,24799,Friedrichsholm,Westersee,27,,54.34827622,9.38406899
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1S,24799,Friedrichsholm,Westersee,28,,54.35076603,9.38886498
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1T,24799,Friedrichsholm,Westersee,29,,54.34760552,9.38376257
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1U,24799,Friedrichsholm,Westersee,3,,54.34945854,9.3938022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1V,24799,Friedrichsholm,Westersee,3,c,54.34973271,9.39235648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1X,24799,Friedrichsholm,Westersee,31,,54.34737407,9.38365928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1Y,24799,Friedrichsholm,Westersee,32,,54.35057116,9.3871438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1Z,24799,Friedrichsholm,Westersee,32,a,54.35063906,9.38658212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1a,24799,Friedrichsholm,Umleitungsdeich,9,,54.35865918,9.41131673
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1b,24799,Friedrichsholm,Westerende,1,,54.34827426,9.39775836
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1c,24799,Friedrichsholm,Westerende,10,,54.34852149,9.39551757
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1d,24799,Friedrichsholm,Westerende,11,,54.34797405,9.39449452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1e,24799,Friedrichsholm,Westerende,11,a,54.34806614,9.39480632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1f,24799,Friedrichsholm,Westerende,12,,54.3483201,9.39471839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1g,24799,Friedrichsholm,Westerende,13,,54.34784644,9.39414574
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1h,24799,Friedrichsholm,Westerende,14,,54.34574736,9.38880434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1i,24799,Friedrichsholm,Westerende,15,,54.34749132,9.39337999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1j,24799,Friedrichsholm,Westerende,2,,54.34848314,9.39802608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1k,24799,Friedrichsholm,Westerende,3,,54.3482537,9.39743497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1l,24799,Friedrichsholm,Westerende,4,,54.34857193,9.39773551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1m,24799,Friedrichsholm,Westerende,5,,54.34835006,9.39709353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1n,24799,Friedrichsholm,Westerende,6,,54.34853376,9.3974147
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1o,24799,Friedrichsholm,Westerende,7,,54.34826623,9.39669996
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1p,24799,Friedrichsholm,Westerende,8,,54.34856394,9.39646932
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1q,24799,Friedrichsholm,Westerende,9,,54.34821121,9.39556161
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1r,24799,Friedrichsholm,Westersee,1,,54.3492196,9.3952218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1s,24799,Friedrichsholm,Westersee,1,a,54.34917334,9.39481653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1t,24799,Friedrichsholm,Westersee,1,b,54.34942414,9.39425093
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1u,24799,Friedrichsholm,Westersee,10,,54.34971758,9.39392242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1v,24799,Friedrichsholm,Westersee,11,,54.350098,9.39049679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1w,24799,Friedrichsholm,Westersee,12,,54.34981672,9.39309665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1x,24799,Friedrichsholm,Westersee,13,,54.35026883,9.39004908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1y,24799,Friedrichsholm,Westersee,13,a,54.35042876,9.38825468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng1z,24799,Friedrichsholm,Westersee,13,b,54.35025436,9.38881599
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng20,24799,Friedrichsholm,Westersee,34,,54.35040658,9.38632701
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng21,24799,Friedrichsholm,Westersee,36,,54.35009172,9.38569495
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng22,24799,Friedrichsholm,Westersee,38,,54.34987162,9.38515688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng23,24799,Friedrichsholm,Westersee,4,,54.34942559,9.39583226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng25,24799,Friedrichsholm,Westersee,40,,54.34954949,9.38454652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng26,24799,Friedrichsholm,Westersee,42,,54.34920719,9.3841139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng27,24799,Friedrichsholm,Westersee,44,,54.34886926,9.38397361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng28,24799,Friedrichsholm,Westersee,44,a,54.34865734,9.38381413
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng29,24799,Friedrichsholm,Westersee,46,,54.34820309,9.38359705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2a,24799,Friedrichsholm,Westersee,48,,54.34773718,9.38340489
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2b,24799,Friedrichsholm,Westersee,5,,54.34981542,9.3920435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2c,24799,Friedrichsholm,Westersee,5,a,54.34985243,9.39160958
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2d,24799,Friedrichsholm,Westersee,50,,54.34718739,9.38308729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2e,24799,Friedrichsholm,Westersee,52,,54.34698073,9.38303288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2f,24799,Friedrichsholm,Westersee,54,,54.34628924,9.38268522
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2g,24799,Friedrichsholm,Westersee,56,,54.34592076,9.38258916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2h,24799,Friedrichsholm,Westersee,58,,54.34556537,9.38237883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2i,24799,Friedrichsholm,Westersee,6,,54.34954996,9.39517376
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2j,24799,Friedrichsholm,Westersee,60,,54.34524866,9.38230983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2k,24799,Friedrichsholm,Westersee,60,b,54.34458966,9.38161018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2l,24799,Friedrichsholm,Westersee,62,,54.34374677,9.38085511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2m,24799,Friedrichsholm,Westersee,64,,54.34383969,9.37162187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2n,24799,Friedrichsholm,Westersee,7,,54.34999136,9.39108266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2o,24799,Friedrichsholm,Westersee,8,,54.34967449,9.39425705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002Ng2p,24799,Friedrichsholm,Westersee,9,,54.35004527,9.3907559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002NkoF,24799,Friedrichsholm,Umleitungsdeich,1,,54.35190825,9.41455852
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHA,24799,Friedrichsholm,Dorfstraße,18,,54.32056088,9.40840875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHB,24799,Friedrichsholm,Dorfstraße,19,,54.32029742,9.40698357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHC,24799,Friedrichsholm,Dorfstraße,2,,54.31880704,9.41205031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHD,24799,Friedrichsholm,Dorfstraße,20,,54.3206703,9.40815089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHE,24799,Friedrichsholm,Dorfstraße,21,,54.32025037,9.4062414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHF,24799,Friedrichsholm,Dorfstraße,22,,54.32061393,9.40800552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHG,24799,Friedrichsholm,Dorfstraße,23,,54.32042197,9.40520064
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHH,24799,Friedrichsholm,Dorfstraße,24,,54.32065108,9.40734658
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHI,24799,Friedrichsholm,Dorfstraße,25,,54.32046792,9.40379536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHJ,24799,Friedrichsholm,Dorfstraße,25,a,54.32041292,9.4028133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHK,24799,Friedrichsholm,Dorfstraße,26,,54.32058169,9.40665677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHL,24799,Friedrichsholm,Dorfstraße,27,,54.3205708,9.40247439
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHM,24799,Friedrichsholm,Dorfstraße,28,,54.32056132,9.40580741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHN,24799,Friedrichsholm,Dorfstraße,29,,54.32059958,9.40211509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHO,24799,Friedrichsholm,Dorfstraße,3,,54.31898169,9.41140352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHP,24799,Friedrichsholm,Dorfstraße,30,,54.32063688,9.40541527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHQ,24799,Friedrichsholm,Dorfstraße,32,,54.3206639,9.40491618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHR,24799,Friedrichsholm,Dorfstraße,34,,54.32067036,9.40475678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHS,24799,Friedrichsholm,Dorfstraße,36,,54.32109701,9.40406072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHT,24799,Friedrichsholm,Dorfstraße,38,,54.32071246,9.40345151
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHU,24799,Friedrichsholm,Dorfstraße,4,,54.31892254,9.4119553
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHV,24799,Friedrichsholm,Dorfstraße,40,,54.32078354,9.40295318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHW,24799,Friedrichsholm,Dorfstraße,42,,54.32081005,9.40265545
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHX,24799,Friedrichsholm,Dorfstraße,44,,54.32089282,9.40231139
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHY,24799,Friedrichsholm,Dorfstraße,46,,54.32089252,9.40224674
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHZ,24799,Friedrichsholm,Dorfstraße,48,,54.32089932,9.40218065
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHl,24799,Friedrichsholm,Bahnhofstraße,1,,54.32086505,9.40674454
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHm,24799,Friedrichsholm,Bahnhofstraße,3,,54.32109552,9.40675291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHn,24799,Friedrichsholm,Bahnhofstraße,3,a,54.32127224,9.40671879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHo,24799,Friedrichsholm,Bahnhofstraße,3,b,54.32132379,9.40672815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHp,24799,Friedrichsholm,Bahnhofstraße,5,,54.32150502,9.40672504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHq,24799,Friedrichsholm,Bahnhofstraße,7,,54.32176434,9.40674178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHr,24799,Friedrichsholm,Dorfstraße,1,,54.31882897,9.41155904
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHs,24799,Friedrichsholm,Dorfstraße,10,,54.32066572,9.41146992
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHt,24799,Friedrichsholm,Dorfstraße,11,,54.32030534,9.40866074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHu,24799,Friedrichsholm,Dorfstraße,12,,54.32048847,9.41015192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHv,24799,Friedrichsholm,Dorfstraße,13,,54.32030961,9.40854632
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHw,24799,Friedrichsholm,Dorfstraße,14,,54.3205267,9.40922644
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHx,24799,Friedrichsholm,Dorfstraße,15,,54.3203076,9.40815
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHy,24799,Friedrichsholm,Dorfstraße,16,,54.32058917,9.40892749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRHz,24799,Friedrichsholm,Dorfstraße,17,,54.32005015,9.40735813
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI0,24799,Friedrichsholm,Dorfstraße,5,,54.3202763,9.41041635
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI1,24799,Friedrichsholm,Dorfstraße,50,,54.32149085,9.39875135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI2,24799,Friedrichsholm,Dorfstraße,6,,54.31986935,9.41154449
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI3,24799,Friedrichsholm,Dorfstraße,7,,54.32025765,9.40956613
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI4,24799,Friedrichsholm,Dorfstraße,8,,54.32039371,9.4115441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI5,24799,Friedrichsholm,Dorfstraße,9,,54.3203036,9.4090725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI6,24799,Friedrichsholm,Königsberger Straße,10,,54.32368103,9.40378327
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI7,24799,Friedrichsholm,Königsberger Straße,11,,54.32293091,9.4026071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI8,24799,Friedrichsholm,Königsberger Straße,12,,54.32375837,9.40377311
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRI9,24799,Friedrichsholm,Königsberger Straße,13,,54.32317386,9.40288855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIA,24799,Friedrichsholm,Siedlungsstraße,18,,54.3223396,9.40570133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIB,24799,Friedrichsholm,Siedlungsstraße,19,,54.32232134,9.40760339
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIC,24799,Friedrichsholm,Siedlungsstraße,2,,54.32265382,9.40285218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRID,24799,Friedrichsholm,Siedlungsstraße,20,,54.32231901,9.40604667
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIE,24799,Friedrichsholm,Siedlungsstraße,21,,54.32218818,9.40842352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIF,24799,Friedrichsholm,Siedlungsstraße,22,,54.32227172,9.4063766
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIG,24799,Friedrichsholm,Siedlungsstraße,23,,54.32216021,9.40859488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIH,24799,Friedrichsholm,Siedlungsstraße,24,,54.32218563,9.40670461
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRII,24799,Friedrichsholm,Siedlungsstraße,25,,54.32219496,9.40901204
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIJ,24799,Friedrichsholm,Siedlungsstraße,26,,54.32208939,9.40728317
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIK,24799,Friedrichsholm,Siedlungsstraße,27,,54.3220914,9.40947013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIL,24799,Friedrichsholm,Siedlungsstraße,28,,54.32208608,9.40761807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIM,24799,Friedrichsholm,Siedlungsstraße,29,,54.32126698,9.41173572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIN,24799,Friedrichsholm,Siedlungsstraße,3,,54.32287524,9.40352469
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIO,24799,Friedrichsholm,Siedlungsstraße,30,,54.32203012,9.40800179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIP,24799,Friedrichsholm,Siedlungsstraße,31,,54.32116552,9.41230111
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIQ,24799,Friedrichsholm,Siedlungsstraße,32,,54.32194413,9.4082807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIR,24799,Friedrichsholm,Siedlungsstraße,33,,54.32114813,9.41289001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIS,24799,Friedrichsholm,Siedlungsstraße,4,,54.32264541,9.40318132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIT,24799,Friedrichsholm,Siedlungsstraße,5,,54.32285661,9.40384621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIU,24799,Friedrichsholm,Siedlungsstraße,6,,54.32261155,9.40345986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIV,24799,Friedrichsholm,Siedlungsstraße,7,,54.32285243,9.40391121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIW,24799,Friedrichsholm,Siedlungsstraße,8,,54.32258188,9.40378308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIX,24799,Friedrichsholm,Siedlungsstraße,9,,54.32282307,9.40448158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIa,24799,Friedrichsholm,Königsberger Straße,14,,54.32388651,9.40391643
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIb,24799,Friedrichsholm,Königsberger Straße,15,,54.32326797,9.40300092
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIc,24799,Friedrichsholm,Königsberger Straße,17,,54.32361345,9.40330438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRId,24799,Friedrichsholm,Königsberger Straße,2,,54.3229932,9.40315577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIe,24799,Friedrichsholm,Königsberger Straße,4,,54.32328297,9.40339109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIf,24799,Friedrichsholm,Königsberger Straße,6,,54.32340582,9.40350221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIg,24799,Friedrichsholm,Königsberger Straße,8,,54.32356791,9.40363639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIh,24799,Friedrichsholm,Lütten Weg,1,,54.32118617,9.40394467
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIi,24799,Friedrichsholm,Lütten Weg,2,,54.32141727,9.40412165
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIj,24799,Friedrichsholm,Sandkuhle,1,,54.32268989,9.40559443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIk,24799,Friedrichsholm,Sandkuhle,3,,54.3229022,9.40559513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIl,24799,Friedrichsholm,Sandkuhle,5,,54.32313818,9.40563216
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIm,24799,Friedrichsholm,Sandkuhle,7,,54.32335985,9.40560088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIn,24799,Friedrichsholm,Sandkuhle,9,,54.32362167,9.40573358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIo,24799,Friedrichsholm,Süderholmer Weg,1,,54.31978885,9.40192802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIp,24799,Friedrichsholm,Süderholmer Weg,1,a,54.31997623,9.4020514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIq,24799,Friedrichsholm,Süderholmer Weg,3,,54.31921645,9.40189109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIr,24799,Friedrichsholm,Süderholmer Weg,5,,54.31375679,9.40409794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIs,24799,Friedrichsholm,Süderholmer Weg,7,,54.31371229,9.40506909
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIt,24799,Friedrichsholm,Siedlungsstraße,1,,54.32288506,9.40342417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIu,24799,Friedrichsholm,Siedlungsstraße,10,,54.32255147,9.40410464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIv,24799,Friedrichsholm,Siedlungsstraße,12,,54.32249673,9.40440389
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIw,24799,Friedrichsholm,Siedlungsstraße,14,,54.32247685,9.40488048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIx,24799,Friedrichsholm,Siedlungsstraße,15,,54.32249863,9.40640515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIy,24799,Friedrichsholm,Siedlungsstraße,16,,54.32240867,9.40530402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bRIz,24799,Friedrichsholm,Siedlungsstraße,17,,54.32240312,9.40701049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWj1,24799,Friedrichsholm,Hohner Fähre,1,,54.28635859,9.39808924
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjA,24799,Friedrichsholm,Dorfstraße,12,,54.30423209,9.43158067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjB,24799,Friedrichsholm,Dorfstraße,13,,54.30453518,9.43307051
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjC,24799,Friedrichsholm,Dorfstraße,14,,54.30402144,9.43237198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjD,24799,Friedrichsholm,Dorfstraße,15,,54.30432664,9.43365451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjE,24799,Friedrichsholm,Dorfstraße,17,,54.30426732,9.43414755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjF,24799,Friedrichsholm,Dorfstraße,18,,54.30412632,9.43326988
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjG,24799,Friedrichsholm,Dorfstraße,19,,54.3042314,9.43465168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjH,24799,Friedrichsholm,Dorfstraße,2,,54.30383787,9.42786174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjI,24799,Friedrichsholm,Dorfstraße,20,,54.30410513,9.43344208
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjJ,24799,Friedrichsholm,Dorfstraße,20,a,54.30365953,9.43309527
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjK,24799,Friedrichsholm,Dorfstraße,21,,54.304109,9.43526013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjL,24799,Friedrichsholm,Dorfstraße,22,,54.30406036,9.43386734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjM,24799,Friedrichsholm,Dorfstraße,22,a,54.30396781,9.43408755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjN,24799,Friedrichsholm,Dorfstraße,24,,54.30392133,9.43455447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjO,24799,Friedrichsholm,Dorfstraße,26,,54.30393461,9.43497003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjP,24799,Friedrichsholm,Dorfstraße,3,,54.30427942,9.42943645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjQ,24799,Friedrichsholm,Dorfstraße,3,a,54.30436514,9.42988455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjR,24799,Friedrichsholm,Dorfstraße,4,,54.30385817,9.42851115
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjS,24799,Friedrichsholm,Dorfstraße,5,,54.30440658,9.4303037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjT,24799,Friedrichsholm,Dorfstraße,6,,54.30411065,9.4294908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjU,24799,Friedrichsholm,Dorfstraße,7,,54.30445962,9.43076224
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjV,24799,Friedrichsholm,Dorfstraße,8,,54.30417757,9.43010542
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjW,24799,Friedrichsholm,Dorfstraße,9,,54.30446924,9.43112707
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjX,24799,Friedrichsholm,Hauptstraße,1,,54.29688047,9.43044838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjY,24799,Friedrichsholm,Hauptstraße,10,,54.29988358,9.42843086
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjZ,24799,Friedrichsholm,Hauptstraße,11,,54.29845352,9.42881959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjl,24799,Friedrichsholm,Am Schulhof,1,,54.30315163,9.42780838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjm,24799,Friedrichsholm,Am Schulhof,2,,54.30290846,9.42771075
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjn,24799,Friedrichsholm,Am Schulhof,3,,54.30309564,9.42811848
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjo,24799,Friedrichsholm,Am Schulhof,4,,54.30288044,9.42808555
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjp,24799,Friedrichsholm,Am Schulhof,5,,54.30317609,9.42848004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjq,24799,Friedrichsholm,Am Schulhof,6,,54.3028743,9.42856381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjr,24799,Friedrichsholm,Birkenweg,1,,54.30171176,9.427655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjs,24799,Friedrichsholm,Birkenweg,2,,54.30151528,9.42775956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjt,24799,Friedrichsholm,Birkenweg,3,,54.30179654,9.42842723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWju,24799,Friedrichsholm,Birkenweg,4,,54.30159231,9.42846307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjv,24799,Friedrichsholm,Birkenweg,5,,54.30185454,9.42875179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjw,24799,Friedrichsholm,Birkenweg,6,,54.30162223,9.42885058
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjx,24799,Friedrichsholm,Dorfstraße,1,,54.30422003,9.42896998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjy,24799,Friedrichsholm,Dorfstraße,10,,54.30414331,9.43056409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWjz,24799,Friedrichsholm,Dorfstraße,11,,54.30457291,9.43197974
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk0,24799,Friedrichsholm,Hauptstraße,11,b,54.29927685,9.42837123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk1,24799,Friedrichsholm,Hauptstraße,12,,54.30018847,9.42837249
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk2,24799,Friedrichsholm,Hauptstraße,12,a,54.30048018,9.42814357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk3,24799,Friedrichsholm,Hauptstraße,13,,54.2995065,9.42819234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk4,24799,Friedrichsholm,Hauptstraße,13,a,54.29990541,9.42794013
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk5,24799,Friedrichsholm,Hauptstraße,14,,54.30045309,9.42879709
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk6,24799,Friedrichsholm,Hauptstraße,15,,54.30001132,9.42732026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk7,24799,Friedrichsholm,Hauptstraße,16,,54.30077179,9.42798402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk8,24799,Friedrichsholm,Hauptstraße,17,,54.30019737,9.42759589
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWk9,24799,Friedrichsholm,Hauptstraße,18,,54.30099418,9.42786119
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkA,24799,Friedrichsholm,Catharinenweg,6,,54.29875151,9.42998646
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkB,24799,Friedrichsholm,Claus-Groth-Straße,1,,54.29825657,9.4296665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkC,24799,Friedrichsholm,Claus-Groth-Straße,2,,54.29805818,9.4298188
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkD,24799,Friedrichsholm,Claus-Groth-Straße,3,,54.29845045,9.43002421
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkE,24799,Friedrichsholm,Claus-Groth-Straße,3,a,54.29836723,9.43005744
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkF,24799,Friedrichsholm,Claus-Groth-Straße,4,a,54.29808708,9.43012344
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkG,24799,Friedrichsholm,Claus-Groth-Straße,4,b,54.29799774,9.4301572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkH,24799,Friedrichsholm,Knüll,1,,54.29735722,9.43079343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkI,24799,Friedrichsholm,Knüll,2,,54.2972295,9.43093159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkJ,24799,Friedrichsholm,Knüll,3,,54.29756044,9.43146585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkK,24799,Friedrichsholm,Knüll,4,,54.29725759,9.43196656
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkL,24799,Friedrichsholm,Knüll,5,,54.29752214,9.43188937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkM,24799,Friedrichsholm,Lehmkuhle,1,,54.30107899,9.42700982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkN,24799,Friedrichsholm,Lehmkuhle,10,,54.30305382,9.42659205
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkO,24799,Friedrichsholm,Lehmkuhle,11,,54.30249606,9.42560022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkP,24799,Friedrichsholm,Lehmkuhle,12,,54.30297986,9.42698097
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkQ,24799,Friedrichsholm,Lehmkuhle,13,,54.30300431,9.42551726
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkR,24799,Friedrichsholm,Lehmkuhle,15,,54.30312913,9.42549618
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkS,24799,Friedrichsholm,Lehmkuhle,2,,54.30142345,9.42690714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkT,24799,Friedrichsholm,Lehmkuhle,3,,54.30122363,9.42666011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkU,24799,Friedrichsholm,Lehmkuhle,4,,54.30157179,9.42659081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkV,24799,Friedrichsholm,Lehmkuhle,5,,54.30154566,9.4259968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkW,24799,Friedrichsholm,Lehmkuhle,6,,54.30173836,9.42623652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkX,24799,Friedrichsholm,Lehmkuhle,7,,54.30187339,9.42578989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkY,24799,Friedrichsholm,Lehmkuhle,8,,54.30291911,9.42602838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkZ,24799,Friedrichsholm,Lehmkuhle,9,,54.30209659,9.42570291
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWka,24799,Friedrichsholm,Hauptstraße,19,,54.30056471,9.42748809
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkb,24799,Friedrichsholm,Hauptstraße,2,,54.29673462,9.43115541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkc,24799,Friedrichsholm,Hauptstraße,20,,54.30115411,9.428385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkd,24799,Friedrichsholm,Hauptstraße,21,,54.30323021,9.42734514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWke,24799,Friedrichsholm,Hauptstraße,22,,54.30114635,9.42783456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkf,24799,Friedrichsholm,Hauptstraße,22,a,54.30119867,9.42798293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkg,24799,Friedrichsholm,Hauptstraße,23,,54.30337109,9.42738962
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkh,24799,Friedrichsholm,Hauptstraße,24,,54.3018397,9.42758316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWki,24799,Friedrichsholm,Hauptstraße,25,,54.30364485,9.42730193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkj,24799,Friedrichsholm,Hauptstraße,25,a,54.30399877,9.42686419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkk,24799,Friedrichsholm,Hauptstraße,26,,54.30342367,9.42783896
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkl,24799,Friedrichsholm,Hauptstraße,27,,54.30446656,9.4268597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkm,24799,Friedrichsholm,Hauptstraße,28,,54.30415831,9.42761501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkn,24799,Friedrichsholm,Hauptstraße,3,,54.2971233,9.43007358
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWko,24799,Friedrichsholm,Hauptstraße,4,,54.29761854,9.4300408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkp,24799,Friedrichsholm,Hauptstraße,5,,54.29729186,9.42988394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkq,24799,Friedrichsholm,Hauptstraße,6,,54.29927709,9.42922264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkr,24799,Friedrichsholm,Hauptstraße,6,a,54.29939296,9.42965724
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWks,24799,Friedrichsholm,Hauptstraße,6,b,54.29940738,9.42974514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkt,24799,Friedrichsholm,Hauptstraße,7,,54.29752709,9.42967455
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWku,24799,Friedrichsholm,Hauptstraße,9,,54.29789055,9.42940762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkv,24799,Friedrichsholm,Hauptstraße,9,a,54.29770167,9.42933027
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkw,24799,Friedrichsholm,Catharinenweg,1,,54.29889183,9.42921668
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkx,24799,Friedrichsholm,Catharinenweg,2,,54.29870397,9.42941509
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWky,24799,Friedrichsholm,Catharinenweg,3,,54.29900456,9.42982528
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWkz,24799,Friedrichsholm,Catharinenweg,4,,54.29876161,9.42963175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl0,24799,Friedrichsholm,Lütten Moor,1,,54.30690413,9.44114665
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl1,24799,Friedrichsholm,Lütten Moor,1,a,54.30687273,9.44136156
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl2,24799,Friedrichsholm,Pöttchereiweg,1,,54.30205971,9.42658451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl3,24799,Friedrichsholm,Pöttchereiweg,2,,54.30175705,9.42538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl4,24799,Friedrichsholm,Pöttchereiweg,3,,54.30158986,9.4250536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl5,24799,Friedrichsholm,Pöttchereiweg,4,,54.30180311,9.42502564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl6,24799,Friedrichsholm,Pöttchereiweg,6,,54.2999826,9.41078197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl7,24799,Friedrichsholm,Rosenweg,1,,54.30249737,9.42755243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl8,24799,Friedrichsholm,Rosenweg,2,,54.30219027,9.42756176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWl9,24799,Friedrichsholm,Rosenweg,3,,54.30242582,9.42784615
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlA,24799,Friedrichsholm,Schrammoor,31,,54.30298953,9.44029714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlB,24799,Friedrichsholm,Schrammoor,32,,54.30395101,9.43613287
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlC,24799,Friedrichsholm,Schrammoor,33,,54.30280957,9.43994954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlD,24799,Friedrichsholm,Schrammoor,35,,54.30316419,9.43914084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlE,24799,Friedrichsholm,Schrammoor,37,,54.303244,9.43859146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlF,24799,Friedrichsholm,Schrammoor,39,,54.30346947,9.43772954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlG,24799,Friedrichsholm,Schrammoor,4,,54.30453318,9.43665109
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlH,24799,Friedrichsholm,Schrammoor,41,,54.30347709,9.43727671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlI,24799,Friedrichsholm,Schrammoor,43,,54.30357843,9.43685566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlJ,24799,Friedrichsholm,Schrammoor,45,,54.30360404,9.43642607
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlK,24799,Friedrichsholm,Schrammoor,45,a,54.30331125,9.43600453
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlL,24799,Friedrichsholm,Schrammoor,47,,54.30369915,9.4357278
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlM,24799,Friedrichsholm,Schrammoor,49,,54.3038572,9.43534456
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlN,24799,Friedrichsholm,Schrammoor,6,,54.30467927,9.4369547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlO,24799,Friedrichsholm,Schrammoor,8,,54.30502355,9.43735837
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlP,24799,Friedrichsholm,Schrammoor,9,,54.3055788,9.43749571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWla,24799,Friedrichsholm,Rosenweg,4,,54.3022059,9.42801882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlb,24799,Friedrichsholm,Rosenweg,5,,54.30246288,9.42822798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlc,24799,Friedrichsholm,Rosenweg,6,,54.3022353,9.42833218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWld,24799,Friedrichsholm,Rosenweg,7,,54.3025302,9.42865887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWle,24799,Friedrichsholm,Rosenweg,8,,54.30232808,9.42871056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlf,24799,Friedrichsholm,Schrammoor,1,,54.30412357,9.43553492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlg,24799,Friedrichsholm,Schrammoor,10,,54.30539799,9.43786923
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlh,24799,Friedrichsholm,Schrammoor,11,,54.30551355,9.43729079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWli,24799,Friedrichsholm,Schrammoor,13,,54.30584341,9.43801246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlj,24799,Friedrichsholm,Schrammoor,14,,54.30566233,9.44004436
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlk,24799,Friedrichsholm,Schrammoor,15,,54.30613277,9.43845181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWll,24799,Friedrichsholm,Schrammoor,16,,54.30555585,9.44057596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlm,24799,Friedrichsholm,Schrammoor,17,,54.30637664,9.4388239
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWln,24799,Friedrichsholm,Schrammoor,18,,54.30545213,9.44076112
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlo,24799,Friedrichsholm,Schrammoor,2,,54.30435681,9.43625286
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlp,24799,Friedrichsholm,Schrammoor,20,,54.30483336,9.4430653
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlq,24799,Friedrichsholm,Schrammoor,20,a,54.30497224,9.4428601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlr,24799,Friedrichsholm,Schrammoor,21,,54.30613032,9.43942149
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWls,24799,Friedrichsholm,Schrammoor,22,,54.30441251,9.44345568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlt,24799,Friedrichsholm,Schrammoor,24,,54.30429283,9.44381821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlu,24799,Friedrichsholm,Schrammoor,25,,54.30465622,9.44382332
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlv,24799,Friedrichsholm,Schrammoor,26,,54.30301724,9.44221378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlw,24799,Friedrichsholm,Schrammoor,27,,54.30492337,9.44450312
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlx,24799,Friedrichsholm,Schrammoor,28,,54.3038196,9.43662488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWly,24799,Friedrichsholm,Schrammoor,29,,54.30444071,9.44407754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bWlz,24799,Friedrichsholm,Schrammoor,30,,54.30397801,9.43663177
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bYPQ,24799,Friedrichsholm,Hohner Fähre,2,,54.28692693,9.3971039
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFN,24799,Friedrichsholm,Königsberg,1,,54.34172668,9.43393659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFO,24799,Friedrichsholm,Königsberg,2,,54.34213656,9.43337195
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFP,24799,Friedrichsholm,Königsberg,3,,54.34151441,9.42943799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFQ,24799,Friedrichsholm,Königsberg,4,,54.34182636,9.42019479
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFR,24799,Friedrichsholm,Königsberg,6,,54.33947346,9.41743273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFS,24799,Friedrichsholm,Königsberg,6,a,54.3393214,9.41729521
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFT,24799,Friedrichsholm,Dorfstraße,1,,54.33303704,9.48287678
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFU,24799,Friedrichsholm,Dorfstraße,1,a,54.33315607,9.48245708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFV,24799,Friedrichsholm,Dorfstraße,1,b,54.33320127,9.48212049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFW,24799,Friedrichsholm,Dorfstraße,1,c,54.33325697,9.48177867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFX,24799,Friedrichsholm,Dorfstraße,1,d,54.3334146,9.48143157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFY,24799,Friedrichsholm,Dorfstraße,1,e,54.33348162,9.48107417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZFZ,24799,Friedrichsholm,Dorfstraße,1,f,54.33420569,9.47781898
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG0,24799,Friedrichsholm,Dorfstraße,1,g,54.3343005,9.47737609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG1,24799,Friedrichsholm,Dorfstraße,10,,54.33536339,9.47343478
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG2,24799,Friedrichsholm,Dorfstraße,11,,54.33475657,9.47398807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG3,24799,Friedrichsholm,Dorfstraße,12,,54.33528622,9.47279032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG4,24799,Friedrichsholm,Dorfstraße,12,a,54.33521724,9.47265737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG5,24799,Friedrichsholm,Dorfstraße,13,,54.33479918,9.47349012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG6,24799,Friedrichsholm,Dorfstraße,14,,54.33529147,9.47159576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG7,24799,Friedrichsholm,Dorfstraße,14,d,54.33537367,9.46916497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG8,24799,Friedrichsholm,Dorfstraße,14,e,54.33533771,9.46870514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZG9,24799,Friedrichsholm,Dorfstraße,15,,54.33486334,9.47229393
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGA,24799,Friedrichsholm,Dorfstraße,4,,54.33326938,9.48395367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGB,24799,Friedrichsholm,Dorfstraße,41,,54.33614266,9.45887881
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGC,24799,Friedrichsholm,Dorfstraße,43,,54.33612884,9.4583353
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGD,24799,Friedrichsholm,Dorfstraße,45,,54.3362173,9.45737803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGE,24799,Friedrichsholm,Dorfstraße,47,,54.33628299,9.45680462
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGF,24799,Friedrichsholm,Dorfstraße,49,,54.33636183,9.45646424
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGG,24799,Friedrichsholm,Dorfstraße,49,a,54.33635292,9.45634867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGH,24799,Friedrichsholm,Dorfstraße,5,,54.33446201,9.47635688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGI,24799,Friedrichsholm,Dorfstraße,6,,54.33328056,9.48338961
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGJ,24799,Friedrichsholm,Dorfstraße,6,a,54.33328998,9.4832556
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGK,24799,Friedrichsholm,Dorfstraße,6,b,54.33345908,9.48234855
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGL,24799,Friedrichsholm,Dorfstraße,6,c,54.33353568,9.48185307
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGM,24799,Friedrichsholm,Dorfstraße,7,,54.33457076,9.47573807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGN,24799,Friedrichsholm,Dorfstraße,7,a,54.3346091,9.47547854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGO,24799,Friedrichsholm,Dorfstraße,8,,54.3338041,9.48013697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGP,24799,Friedrichsholm,Dorfstraße,8,a,54.3343652,9.47802374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGQ,24799,Friedrichsholm,Dorfstraße,8,b,54.33447804,9.47743319
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGR,24799,Friedrichsholm,Dorfstraße,8,c,54.3345663,9.47692691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGS,24799,Friedrichsholm,Dorfstraße,8,d,54.33499396,9.4745994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGT,24799,Friedrichsholm,Dorfstraße,8,e,54.33507697,9.4740383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGU,24799,Friedrichsholm,Dorfstraße,9,,54.33465589,9.4749235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGV,24799,Friedrichsholm,Dorfstraße,9,a,54.33467735,9.47475345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGa,24799,Friedrichsholm,Dorfstraße,16,,54.33522881,9.46788606
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGb,24799,Friedrichsholm,Dorfstraße,16,a,54.33528025,9.46742493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGc,24799,Friedrichsholm,Dorfstraße,16,b,54.33554238,9.46513308
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGd,24799,Friedrichsholm,Dorfstraße,17,,54.33498662,9.47198045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGe,24799,Friedrichsholm,Dorfstraße,18,,54.33707576,9.45510552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGf,24799,Friedrichsholm,Dorfstraße,19,,54.3349157,9.4709964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGg,24799,Friedrichsholm,Dorfstraße,19,a,54.33504129,9.47092878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGh,24799,Friedrichsholm,Dorfstraße,2,,54.33320595,9.48466328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGi,24799,Friedrichsholm,Dorfstraße,20,,54.33741325,9.45426328
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGj,24799,Friedrichsholm,Dorfstraße,21,,54.33508599,9.47039794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGk,24799,Friedrichsholm,Dorfstraße,22,,54.33852394,9.44890356
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGl,24799,Friedrichsholm,Dorfstraße,23,,54.33504053,9.46967915
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGm,24799,Friedrichsholm,Dorfstraße,23,a,54.33505208,9.46947633
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGn,24799,Friedrichsholm,Dorfstraße,24,,54.33874747,9.44805488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGo,24799,Friedrichsholm,Dorfstraße,25,,54.33492349,9.4681884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGp,24799,Friedrichsholm,Dorfstraße,25,a,54.33505926,9.4686903
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGq,24799,Friedrichsholm,Dorfstraße,26,,54.33962928,9.44566313
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGr,24799,Friedrichsholm,Dorfstraße,27,,54.33498222,9.46707994
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGs,24799,Friedrichsholm,Dorfstraße,29,,54.33514723,9.46451882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGt,24799,Friedrichsholm,Dorfstraße,3,,54.33435012,9.47696298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGu,24799,Friedrichsholm,Dorfstraße,3,a,54.33438331,9.47677433
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGv,24799,Friedrichsholm,Dorfstraße,31,,54.33494834,9.46393878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGw,24799,Friedrichsholm,Dorfstraße,33,,54.33506906,9.46242255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGx,24799,Friedrichsholm,Dorfstraße,35,,54.33532483,9.46200681
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGy,24799,Friedrichsholm,Dorfstraße,37,,54.33559999,9.46123448
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bZGz,24799,Friedrichsholm,Dorfstraße,39,,54.3359322,9.45951324
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003AZa7,24799,Friedrichsholm,Westersee,3,b,54.34963156,9.3928158
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0003FrGR,24799,Friedrichsholm,Osterende,3,a,54.3492938,9.3982419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFAN,24799,Friedrichsholm,Sandkuhle,10,,54.32355688,9.40604804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFAR,24799,Friedrichsholm,Sandkuhle,8,,54.32334199,9.40607031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFAV,24799,Friedrichsholm,Sandkuhle,6,,54.32312199,9.40600338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004KFB0,24799,Friedrichsholm,Sandkuhle,4,,54.32294368,9.40590476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004R6wR,24799,Friedrichsholm,Osterende,2,a,54.34811792,9.39918441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004lejW,24799,Friedrichsholm,Königsberg,4,a,54.34172136,9.41989279
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005141u,24799,Friedrichsholm,Westersee,17,c,54.3495083,9.38521981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBC,24799,Friedrichsholm,Kirchendamm,18,a,54.27178798,9.41901576
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBF,24799,Friedrichsholm,Kirchendamm,8,,54.27533709,9.41392255
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBI,24799,Friedrichsholm,Kirchendamm,7,,54.27184449,9.41948793
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBL,24799,Friedrichsholm,Kirchendamm,10,,54.27486532,9.41406419
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBO,24799,Friedrichsholm,Kirchendamm,20,,54.26980496,9.41964967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBR,24799,Friedrichsholm,Kirchendamm,14,,54.27447194,9.41483671
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBU,24799,Friedrichsholm,Kirchendamm,22,,54.26962927,9.41881617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBX,24799,Friedrichsholm,Kirchendamm,16,,54.27415219,9.4151049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBh,24799,Friedrichsholm,Kirchendamm,2,,54.28029741,9.41457767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBk,24799,Friedrichsholm,Kirchendamm,1,,54.28133331,9.41617346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBn,24799,Friedrichsholm,Kirchendamm,3,,54.27902327,9.4165854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBq,24799,Friedrichsholm,Kirchendamm,5,,54.27372496,9.41671408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBt,24799,Friedrichsholm,Kirchendamm,4,,54.27734266,9.41439162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBw,24799,Friedrichsholm,Kirchendamm,18,,54.27208426,9.41868138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QBz,24799,Friedrichsholm,Kirchendamm,6,,54.27566915,9.41411183
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QC3,24799,Friedrichsholm,Kirchendamm,9,,54.26972795,9.4109677
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QC6,24799,Friedrichsholm,Kirchendamm,11,,54.26953247,9.41088422
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00053QC9,24799,Friedrichsholm,Kirchendamm,12,,54.2746627,9.41429777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057ZaR,24799,Friedrichsholm,Johannisberg,3,a,54.34260987,9.3876321
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057k9L,24799,Friedrichsholm,Süderholmer Weg,2,a,54.319666,9.40156835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005GeNH,24799,Friedrichsholm,Süderende,10,c,54.34560098,9.39812916
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PvIf,24799,Friedrichsholm,Westersee,30,a,54.35061258,9.38788966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005PvIg,24799,Friedrichsholm,Westersee,30,b,54.35059107,9.3877488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Va0A,24799,Friedrichsholm,Hauptstraße,8,,54.29968491,9.42948014
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005XvJP,24799,Friedrichsholm,Schrammoor,7,,54.30529744,9.43717316
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aVkP,24799,Friedrichsholm,Dorfstraße,16,c,54.33548172,9.46491812
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005avOE,24799,Friedrichsholm,Westersee,4,c,54.34945054,9.3955504
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005dw9K,24799,Friedrichsholm,Ossenholm,1,a,54.32192399,9.38172225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005iIrZ,24799,Friedrichsholm,An der Aue,1,,54.34541512,9.41333619
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jFI9,24799,Friedrichsholm,Westersee,52,a,54.34672264,9.38269551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005jhgG,24799,Friedrichsholm,Westersee,1,c,54.34916794,9.39554038
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005qVQV,24799,Friedrichsholm,Johannisberg,9,,54.34359939,9.38322978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005sfaF,24799,Friedrichsholm,Dorfstraße,14,c,54.33535603,9.46958805
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005uNOK,24799,Friedrichsholm,Westersee,3,a,54.34950264,9.39334965
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wjr9,24799,Friedrichsholm,Osterende,1,b,54.34837588,9.39906584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wjrC,24799,Friedrichsholm,Ostersee,2,c,54.3487845,9.39915977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005wjrx,24799,Friedrichsholm,Osterende,1,,54.34844709,9.39844781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00060BRA,24799,Friedrichsholm,Osterende,1,a,54.34842818,9.39881276
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00063Urf,24799,Friedrichsholm,Siedlungsstraße,15,a,54.32247818,9.40654849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00065JWZ,24799,Friedrichsholm,Dörpstraat,11,b,54.32029681,9.3991759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00066qY7,24799,Friedrichsholm,Süderholmer Weg,16,,54.31328804,9.40315293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006KYTs,24799,Friedrichsholm,Osterkoog,3,,54.34996685,9.4001031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006NqBo,24799,Friedrichsholm,Westersee,48,a,54.34795007,9.3834499
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ReHW,24799,Friedrichsholm,Schrammoor,33,a,54.30306698,9.43982784
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006RyIe,24799,Friedrichsholm,Westersee,15,a,54.35031799,9.38776294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006W70Y,24799,Friedrichsholm,Dorfstraße,10,a,54.33565668,9.47337045
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006b0Rn,24799,Friedrichsholm,Flönbarg,1,,54.31916456,9.3907738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006iVrW,24799,Friedrichsholm,Ossenholm,1,,54.3222641,9.38108221
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sXZF,24799,Friedrichsholm,Ossenholm,2,a,54.32189995,9.38248079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sXZG,24799,Friedrichsholm,Ossenholm,2,b,54.32189995,9.38248079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sXZH,24799,Friedrichsholm,Ossenholm,2,c,54.32195311,9.38228719
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sXZI,24799,Friedrichsholm,Ossenholm,2,d,54.32189995,9.38248079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006sXZJ,24799,Friedrichsholm,Ossenholm,2,e,54.32189995,9.38248079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006tUTe,24799,Friedrichsholm,Siedlungsstraße,7,a,54.32346081,9.40428088
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00071Xwj,24799,Friedrichsholm,Westerende,14,a,54.34529698,9.38847506
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007BCYC,24799,Friedrichsholm,Schrammoor,27,a,54.3049381,9.44415537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TRBB,24799,Friedrichsholm,Osterkoog,5,,54.35015675,9.39951746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007TUDw,24799,Friedrichsholm,Osterende,2,b,54.34821625,9.39872742
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZObB,24799,Friedrichsholm,Westersee,35,,54.34686661,9.38357637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZObT,24799,Friedrichsholm,Westersee,21,a,54.34894991,9.38455212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZObU,24799,Friedrichsholm,Westersee,23,a,54.34874696,9.38456496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZObV,24799,Friedrichsholm,Westersee,25,a,54.34858104,9.38459857
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZOd1,24799,Friedrichsholm,Westersee,4,a,54.34942888,9.39603706
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZOd3,24799,Friedrichsholm,Westersee,4,b,54.34951913,9.3960705
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007ZOd9,24799,Friedrichsholm,Ostersee,2,,54.34907809,9.3979866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007u032,24799,Friedrichsholm,Johannisberg,10,,54.34272652,9.38697345
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007z3yS,24799,Friedrichsholm,Königsberger Straße,2,a,54.32125104,9.40215408
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081iqH,24799,Friedrichsholm,Schrammoor,5,,54.30487216,9.43671261
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081iqI,24799,Friedrichsholm,Schrammoor,5,a,54.30493655,9.43680738
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00081iqJ,24799,Friedrichsholm,Schrammoor,5,b,54.30500875,9.43691363
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BxEh,24799,Friedrichsholm,Westerende,10,c,54.34841916,9.39511955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008BxEj,24799,Friedrichsholm,Westerende,10,d,54.34850623,9.39512764
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Dhtu,24799,Friedrichsholm,Westerende,10,e,54.34868653,9.39515737
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Dhtv,24799,Friedrichsholm,Westerende,10,f,54.348766,9.39515883
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuaP,24799,Friedrichsholm,Westerende,10,a,54.34862411,9.39557807
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008DuaQ,24799,Friedrichsholm,Westerende,10,b,54.34871673,9.39561559
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IjuQ,24799,Friedrichsholm,An den Holzkoppeln,4,,54.30388523,9.50762004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IjuT,24799,Friedrichsholm,An den Holzkoppeln,7,,54.30373985,9.50823517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IjuW,24799,Friedrichsholm,An den Holzkoppeln,8,,54.30338601,9.50807959
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008IjuZ,24799,Friedrichsholm,An den Holzkoppeln,6,,54.30347919,9.50753621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Ijv2,24799,Friedrichsholm,An den Holzkoppeln,5,,54.30381061,9.50783873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Ijv6,24799,Friedrichsholm,An den Holzkoppeln,1,,54.30384902,9.50663602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Ijv9,24799,Friedrichsholm,An den Holzkoppeln,2,,54.30373274,9.50691914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008Ijvf,24799,Friedrichsholm,An den Holzkoppeln,3,,54.30362209,9.50718838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008dcaZ,24799,Friedrichsholm,Siedlungsstraße,11,,54.32274688,9.40491759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008oCM4,24799,Friedrichsholm,Kirchendamm,24,a,54.26912657,9.41780608
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008oCM5,24799,Friedrichsholm,Kirchendamm,24,b,54.26922971,9.41787117

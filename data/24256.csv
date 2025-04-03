@@ -1,0 +1,660 @@
+# Amtliche Adressen für die Postleitzahl 24256
+#
+# Heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für
+# Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter
+# der CC-BY-4.0-Lizenz.
+#
+# Datenquelle: © GeoBasis-DE/LVermGeo SH/CC BY 4.0
+# Mehr Informationen: https://github.com/hriebl/sh-addresses
+# Stichtag: 03.04.2025
+uri,plz,stadt,strasse,nummer,zusatz,lat,lon
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002MzJd,24256,Schlesen,Redder am See,19,,54.3221069,10.32668943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqA,24256,Schlesen,Bargkoppel,14,,54.32077766,10.33476145
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqB,24256,Schlesen,Bargkoppel,16,,54.32077275,10.3345181
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqC,24256,Schlesen,Bargkoppel,3,,54.32047588,10.33572927
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqD,24256,Schlesen,Bargkoppel,5,,54.32044416,10.33542661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqE,24256,Schlesen,Bargkoppel,6,,54.32070346,10.33603298
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqF,24256,Schlesen,Bargkoppel,7,,54.32048452,10.33512823
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqG,24256,Schlesen,Bargkoppel,8,,54.32071944,10.33565394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqH,24256,Schlesen,Bargkoppel,9,,54.32048188,10.3348056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqI,24256,Schlesen,Barten,2,,54.30625441,10.33171641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqJ,24256,Schlesen,Barten,4,,54.3050207,10.33161135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqK,24256,Schlesen,Barten,6,,54.30513709,10.3319839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqL,24256,Schlesen,Barten,8,,54.30516905,10.33237778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqM,24256,Schlesen,Dorfstraße,1,,54.32164051,10.32990245
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqN,24256,Schlesen,Dorfstraße,10,,54.32137146,10.33110143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqO,24256,Schlesen,Dorfstraße,11,,54.32189583,10.33305476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqP,24256,Schlesen,Dorfstraße,12,,54.32142213,10.33153054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqQ,24256,Schlesen,Dorfstraße,13,,54.32169801,10.33349037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqR,24256,Schlesen,Dorfstraße,14,,54.32134053,10.33201785
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqS,24256,Schlesen,Dorfstraße,15,,54.32170023,10.33363799
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqT,24256,Schlesen,Dorfstraße,15,a,54.32183017,10.33391945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqU,24256,Schlesen,Dorfstraße,16,,54.32138767,10.33237878
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqV,24256,Schlesen,Dorfstraße,17,,54.32215859,10.33450549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqW,24256,Schlesen,Dorfstraße,18,,54.32131372,10.33325564
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqX,24256,Schlesen,Dorfstraße,19,,54.32256139,10.33433624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqY,24256,Schlesen,Dorfstraße,2,,54.32130125,10.32931017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqZ,24256,Schlesen,Dorfstraße,20,,54.32134916,10.33351382
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqw,24256,Schlesen,Bargkoppel,1,,54.32050662,10.33600517
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqx,24256,Schlesen,Bargkoppel,10,,54.32070912,10.33534072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqy,24256,Schlesen,Bargkoppel,11,,54.32048356,10.33452754
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJqz,24256,Schlesen,Bargkoppel,12,,54.32070765,10.33508634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr0,24256,Schlesen,Dorfstraße,21,,54.32267213,10.33451267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr1,24256,Schlesen,Dorfstraße,22,,54.32146892,10.33374143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr2,24256,Schlesen,Dorfstraße,3,,54.32162775,10.33006691
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr3,24256,Schlesen,Dorfstraße,4,,54.32137808,10.33016401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr4,24256,Schlesen,Dorfstraße,5,,54.32180017,10.33080125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr5,24256,Schlesen,Dorfstraße,5,a,54.32217453,10.33105749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr6,24256,Schlesen,Dorfstraße,6,,54.32135472,10.33052686
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr7,24256,Schlesen,Dorfstraße,7,,54.32167538,10.33149893
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr8,24256,Schlesen,Dorfstraße,7,a,54.32186088,10.33167438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJr9,24256,Schlesen,Dorfstraße,7,b,54.322174,10.3314399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrA,24256,Schlesen,Klint,21,,54.32107711,10.33810551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrB,24256,Schlesen,Klint,22,,54.32023159,10.33714011
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrC,24256,Schlesen,Klint,23,,54.32103583,10.33778755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrD,24256,Schlesen,Klint,23,a,54.32101129,10.33766568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrE,24256,Schlesen,Klint,25,,54.32078576,10.33730264
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrF,24256,Schlesen,Klint,27,,54.32059121,10.33736973
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrG,24256,Schlesen,Klint,29,,54.32045908,10.33744867
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrH,24256,Schlesen,Klint,3,,54.32169532,10.33591535
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrI,24256,Schlesen,Klint,4,,54.32142209,10.33455357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrJ,24256,Schlesen,Klint,5,,54.321668,10.33636557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrK,24256,Schlesen,Klint,6,,54.32138884,10.33487357
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrL,24256,Schlesen,Klint,6,a,54.32136537,10.33512723
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrM,24256,Schlesen,Klint,6,b,54.32136112,10.33537493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrN,24256,Schlesen,Klint,7,,54.32176541,10.33624242
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrO,24256,Schlesen,Klint,8,,54.32136258,10.33563798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrP,24256,Schlesen,Klint,9,,54.32178679,10.33673184
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrQ,24256,Schlesen,Lindenweg,1,,54.32236374,10.33535999
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrR,24256,Schlesen,Lindenweg,10,,54.32214397,10.33550945
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrS,24256,Schlesen,Lindenweg,12,,54.32207963,10.33587477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrT,24256,Schlesen,Lindenweg,14,,54.32210476,10.33610917
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrU,24256,Schlesen,Lindenweg,2,,54.32161864,10.33500537
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrV,24256,Schlesen,Lindenweg,3,,54.32235476,10.3356941
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrW,24256,Schlesen,Lindenweg,4,,54.3216976,10.33500877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrX,24256,Schlesen,Lindenweg,5,,54.32234963,10.3359767
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrY,24256,Schlesen,Lindenweg,6,,54.32190122,10.33502968
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrZ,24256,Schlesen,Lindenweg,7,,54.32237657,10.33625288
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJra,24256,Schlesen,Dorfstraße,8,,54.32141602,10.33084322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrb,24256,Schlesen,Dorfstraße,9,,54.32176595,10.33223248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrc,24256,Schlesen,Fargauer Straße,1,,54.3207654,10.34124679
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrd,24256,Schlesen,Friesenhof,1,,54.30696817,10.34438394
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJre,24256,Schlesen,Friesenhof,2,,54.30694944,10.34741084
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrf,24256,Schlesen,Friesenhof,4,,54.30794645,10.35132054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrg,24256,Schlesen,Friesenhof,4,a,54.30777218,10.35133682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrh,24256,Schlesen,Friesenhof,6,,54.30795111,10.35144882
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJri,24256,Schlesen,Friesenhof,8,,54.30795712,10.35161594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrj,24256,Schlesen,Klint,1,,54.32157771,10.33561409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrk,24256,Schlesen,Klint,10,,54.32128456,10.33623641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrm,24256,Schlesen,Klint,13,,54.32117695,10.33735252
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrn,24256,Schlesen,Klint,14,,54.32103552,10.3365824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJro,24256,Schlesen,Klint,15,,54.32128655,10.33786782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrp,24256,Schlesen,Klint,16,a,54.3208652,10.3365914
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrq,24256,Schlesen,Klint,16,b,54.32090189,10.33689362
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrr,24256,Schlesen,Klint,16,c,54.32072683,10.33694591
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrs,24256,Schlesen,Klint,17,,54.32131837,10.33802154
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrt,24256,Schlesen,Klint,18,,54.32051808,10.33687746
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJru,24256,Schlesen,Klint,19,,54.32141462,10.3385262
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrv,24256,Schlesen,Klint,19,a,54.32115469,10.338378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrw,24256,Schlesen,Klint,2,,54.32144456,10.33442044
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrx,24256,Schlesen,Klint,2,a,54.32148624,10.33404143
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJry,24256,Schlesen,Klint,2,b,54.32142012,10.33403464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJrz,24256,Schlesen,Klint,20,,54.3204059,10.33693
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs0,24256,Schlesen,Lindenweg,8,,54.32208482,10.33517377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs1,24256,Schlesen,Neuenkrug,1,,54.30835388,10.32652634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs5,24256,Schlesen,Redder am See,1,,54.32170083,10.32879285
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs6,24256,Schlesen,Redder am See,10,,54.32219373,10.32808721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs7,24256,Schlesen,Redder am See,11,,54.32199697,10.32779034
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs8,24256,Schlesen,Redder am See,13,,54.32202562,10.32764352
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJs9,24256,Schlesen,Redder am See,14,,54.32229464,10.32737441
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsA,24256,Schlesen,Redder am See,6,,54.32199397,10.32909819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsB,24256,Schlesen,Redder am See,7,,54.32168104,10.32747531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsC,24256,Schlesen,Redder am See,8,,54.32216159,10.32853178
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsD,24256,Schlesen,Redder am See,9,,54.32194615,10.32797212
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsE,24256,Schlesen,Schwanort,1,,54.32255453,10.32396333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsF,24256,Schlesen,Schwanort,2,,54.32256976,10.32387026
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsG,24256,Schlesen,Schwanort,3,,54.32276578,10.32384333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsH,24256,Schlesen,Schwanort,4,,54.32287539,10.32364304
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsI,24256,Schlesen,Seebrook,1,,54.32093587,10.32857943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsJ,24256,Schlesen,Seebrook,10,,54.31699905,10.3286121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsK,24256,Schlesen,Seebrook,11,,54.31938579,10.32899409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsL,24256,Schlesen,Seebrook,11,a,54.31919652,10.32901566
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsM,24256,Schlesen,Seebrook,13,,54.31893222,10.32926054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsN,24256,Schlesen,Seebrook,15,,54.31869773,10.32931401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsO,24256,Schlesen,Seebrook,17,,54.31839302,10.3294647
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsP,24256,Schlesen,Seebrook,19,,54.31821468,10.32944531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsQ,24256,Schlesen,Seebrook,2,,54.31797473,10.32924138
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsR,24256,Schlesen,Seebrook,2,a,54.31838561,10.32908219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsS,24256,Schlesen,Seebrook,2,b,54.31817167,10.32912403
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsT,24256,Schlesen,Seebrook,21,,54.31807203,10.32957387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsU,24256,Schlesen,Seebrook,21,a,54.31791042,10.3296817
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsV,24256,Schlesen,Seebrook,23,,54.31775024,10.32993175
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsW,24256,Schlesen,Seebrook,27,,54.3174628,10.3299009
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsX,24256,Schlesen,Seebrook,29,,54.31718901,10.32994464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsY,24256,Schlesen,Seebrook,3,,54.32038012,10.32842451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsZ,24256,Schlesen,Seebrook,3,a,54.32069109,10.32831437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsa,24256,Schlesen,Redder am See,16,,54.3223524,10.32700513
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsb,24256,Schlesen,Redder am See,16,a,54.3225412,10.32718768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsc,24256,Schlesen,Redder am See,17,,54.32205464,10.32695981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsd,24256,Schlesen,Redder am See,18,,54.32237593,10.32684269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJse,24256,Schlesen,Redder am See,18,a,54.3227878,10.32679694
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsf,24256,Schlesen,Redder am See,2,,54.32179885,10.32933399
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsg,24256,Schlesen,Redder am See,20,,54.32266626,10.32649594
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsh,24256,Schlesen,Redder am See,21,,54.32225086,10.3265082
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsi,24256,Schlesen,Redder am See,22,,54.3225167,10.3260244
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsj,24256,Schlesen,Redder am See,23,,54.3222777,10.32637237
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsk,24256,Schlesen,Redder am See,24,,54.32280051,10.32582323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsl,24256,Schlesen,Redder am See,25,,54.32236278,10.32602494
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsm,24256,Schlesen,Redder am See,26,,54.32265259,10.3255217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsn,24256,Schlesen,Redder am See,27,,54.32238108,10.3257123
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJso,24256,Schlesen,Redder am See,27,a,54.32240115,10.32536763
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsp,24256,Schlesen,Redder am See,28,,54.32260539,10.32524407
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsq,24256,Schlesen,Redder am See,28,a,54.32276766,10.32518294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsr,24256,Schlesen,Redder am See,29,,54.32243982,10.32503971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJss,24256,Schlesen,Redder am See,3,,54.32179877,10.32843203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJst,24256,Schlesen,Redder am See,30,,54.32262865,10.32492008
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsu,24256,Schlesen,Redder am See,31,,54.3225154,10.32454079
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsv,24256,Schlesen,Redder am See,32,,54.32273616,10.32459295
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsw,24256,Schlesen,Redder am See,33,,54.32259165,10.32422876
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsx,24256,Schlesen,Redder am See,34,,54.32274501,10.32448858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsy,24256,Schlesen,Redder am See,4,,54.32183936,10.32922095
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJsz,24256,Schlesen,Redder am See,5,,54.32182003,10.3283253
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt0,24256,Schlesen,Seebrook,33,,54.31715029,10.32941511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt1,24256,Schlesen,Seebrook,35,,54.31708696,10.32928238
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt2,24256,Schlesen,Seebrook,37,,54.31698782,10.32905779
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt3,24256,Schlesen,Seebrook,39,,54.316929,10.32893406
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt4,24256,Schlesen,Seebrook,4,,54.31777774,10.32906309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt5,24256,Schlesen,Seebrook,4,a,54.31766301,10.32937179
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt6,24256,Schlesen,Seebrook,41,,54.3167328,10.3285642
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt7,24256,Schlesen,Seebrook,5,,54.32010367,10.32872005
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt8,24256,Schlesen,Seebrook,6,,54.31734884,10.32922735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJt9,24256,Schlesen,Seebrook,7,,54.3199557,10.32889584
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJta,24256,Schlesen,Seebrook,8,,54.31714326,10.32886516
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJtb,24256,Schlesen,Seebrook,9,,54.31951164,10.32893777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJtc,24256,Schlesen,Selkau,1,,54.29854671,10.33591117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJtd,24256,Schlesen,Selkau,2,,54.29881133,10.33547982
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJte,24256,Schlesen,Selkau,3,,54.29885233,10.33537562
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJtf,24256,Schlesen,Selkau,4,,54.2982202,10.33385351
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJtg,24256,Schlesen,Selkau,5,,54.29893587,10.33276905
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJth,24256,Schlesen,Selkau,6,,54.29904439,10.33291541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bJti,24256,Schlesen,Selkau,7,,54.2995446,10.33518194
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7A,24256,Schlesen,Am See,15,,54.34560263,10.34806206
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7B,24256,Schlesen,Am See,17,,54.34547231,10.34811549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7C,24256,Schlesen,Am See,2,,54.34508938,10.34734771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7D,24256,Schlesen,Am See,3,,54.34522981,10.34695233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7E,24256,Schlesen,Am See,4,,54.34538888,10.34734547
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7F,24256,Schlesen,Am See,5,,54.34540519,10.34692765
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7G,24256,Schlesen,Am See,6,,54.34532309,10.34768167
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7H,24256,Schlesen,Am See,7,,54.34555595,10.34686939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7I,24256,Schlesen,Am See,8,,54.34522308,10.34801059
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7J,24256,Schlesen,Am See,9,,54.34575728,10.34686554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7K,24256,Schlesen,Brook,2,,54.34450461,10.34611955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7L,24256,Schlesen,Brook,4,,54.34490184,10.34561977
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7M,24256,Schlesen,Charlottentaler Straße,1,,54.34319291,10.3469971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7N,24256,Schlesen,Charlottentaler Straße,10,,54.34206867,10.34799672
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7O,24256,Schlesen,Charlottentaler Straße,11,,54.34098747,10.35028377
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7P,24256,Schlesen,Charlottentaler Straße,12,,54.34176537,10.34851016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7Q,24256,Schlesen,Charlottentaler Straße,13,,54.34088188,10.35043627
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7R,24256,Schlesen,Charlottentaler Straße,15,,54.34083824,10.35078966
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7S,24256,Schlesen,Charlottentaler Straße,2,,54.34299842,10.3467078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7T,24256,Schlesen,Charlottentaler Straße,3,,54.34299804,10.34739235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7U,24256,Schlesen,Charlottentaler Straße,4,,54.3426306,10.34685704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7V,24256,Schlesen,Charlottentaler Straße,6,,54.34242433,10.34689217
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7W,24256,Schlesen,Charlottentaler Straße,7,,54.34191594,10.34925281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7X,24256,Schlesen,Charlottentaler Straße,8,,54.34212916,10.34778468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7Y,24256,Schlesen,Charlottentaler Straße,9,,54.34118091,10.3500168
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7Z,24256,Schlesen,Dorfstraße,1,,54.34482868,10.34902037
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7v,24256,Schlesen,Am Kamp,1,,54.34627439,10.3547012
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7w,24256,Schlesen,Am Kamp,2,,54.3460829,10.35467384
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7x,24256,Schlesen,Am See,1,,54.34505876,10.34698162
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7y,24256,Schlesen,Am See,11,,54.34567451,10.34729235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL7z,24256,Schlesen,Am See,13,,54.34564145,10.34760639
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL80,24256,Schlesen,Dorfstraße,10,,54.34392093,10.34663638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL81,24256,Schlesen,Dorfstraße,11,,54.34400782,10.34701481
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL82,24256,Schlesen,Dorfstraße,12,,54.34370671,10.34653829
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL83,24256,Schlesen,Dorfstraße,13,,54.34357452,10.34690074
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL84,24256,Schlesen,Dorfstraße,14,,54.34356997,10.34647294
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL85,24256,Schlesen,Dorfstraße,15,,54.34277506,10.34623259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL86,24256,Schlesen,Dorfstraße,16,,54.34334565,10.34635951
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL87,24256,Schlesen,Dorfstraße,17,,54.34256621,10.34582315
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL88,24256,Schlesen,Dorfstraße,18,,54.34307248,10.34610969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL89,24256,Schlesen,Dorfstraße,18,b,54.34284608,10.34580438
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8A,24256,Schlesen,Dorfstraße,7,,54.34460206,10.34818396
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8B,24256,Schlesen,Dorfstraße,8,,54.34401232,10.34666477
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8C,24256,Schlesen,Dorfstraße,9,,54.34456357,10.34807227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8D,24256,Schlesen,Dorfstraße,9,a,54.34436013,10.34753016
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8E,24256,Schlesen,Erlengrund,1,a,54.34473695,10.34663515
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8F,24256,Schlesen,Erlengrund,1,b,54.34479234,10.34659609
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8G,24256,Schlesen,Erlengrund,2,,54.34494146,10.34649225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8H,24256,Schlesen,Erlengrund,3,,54.34510796,10.34605256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8I,24256,Schlesen,Erlengrund,4,,54.34531001,10.34624993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8J,24256,Schlesen,Großer Hof,1,,54.34417432,10.34816659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8K,24256,Schlesen,Großer Hof,2,,54.34412006,10.34769749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8L,24256,Schlesen,Großer Hof,3,,54.34395953,10.34826176
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8M,24256,Schlesen,Großer Hof,4,a,54.34395749,10.34776414
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8N,24256,Schlesen,Großer Hof,4,b,54.34389155,10.34779415
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8O,24256,Schlesen,Großer Hof,5,,54.34379684,10.3484159
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8P,24256,Schlesen,Großer Hof,6,,54.3436996,10.34786519
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8Q,24256,Schlesen,Großer Hof,7,,54.34429629,10.34862263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8R,24256,Schlesen,Großer Hof,9,,54.34435233,10.34891023
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8S,24256,Schlesen,Grubben,10,,54.34786376,10.35332476
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8T,24256,Schlesen,Grubben,12,,54.34808516,10.35347824
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8U,24256,Schlesen,Grubben,12,a,54.34816187,10.35360488
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8V,24256,Schlesen,Grubben,2,,54.346906,10.35269579
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8W,24256,Schlesen,Grubben,4,,54.34712954,10.35289383
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8X,24256,Schlesen,Grubben,6,,54.34737271,10.35315032
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8Y,24256,Schlesen,Grubben,8,,54.34762372,10.35329373
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8Z,24256,Schlesen,Jabek,1,,54.34250844,10.34191596
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8a,24256,Schlesen,Dorfstraße,19,a,54.34222755,10.34634546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8b,24256,Schlesen,Dorfstraße,19,b,54.34218292,10.34606507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8c,24256,Schlesen,Dorfstraße,2,,54.34523175,10.34958866
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8d,24256,Schlesen,Dorfstraße,20,,54.34269534,10.34555863
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8e,24256,Schlesen,Dorfstraße,20,a,54.3425308,10.34527789
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8f,24256,Schlesen,Dorfstraße,21,,54.3422718,10.34557056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8g,24256,Schlesen,Dorfstraße,22,,54.34232285,10.34469443
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8h,24256,Schlesen,Dorfstraße,23,,54.34224974,10.34509514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8i,24256,Schlesen,Dorfstraße,24,,54.34229503,10.34452135
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8j,24256,Schlesen,Dorfstraße,25,,54.3421769,10.3448331
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8k,24256,Schlesen,Dorfstraße,26,,54.34233123,10.34407929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8l,24256,Schlesen,Dorfstraße,27,,54.34205771,10.3445501
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8m,24256,Schlesen,Dorfstraße,28,,54.34194246,10.34370201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8n,24256,Schlesen,Dorfstraße,3,,54.34467202,10.34869621
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8o,24256,Schlesen,Dorfstraße,30,,54.34173964,10.34383825
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8q,24256,Schlesen,Dorfstraße,32,,54.34158611,10.34392464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8s,24256,Schlesen,Dorfstraße,34,,54.34141015,10.34408708
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8t,24256,Schlesen,Dorfstraße,36,,54.34124738,10.34416401
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8u,24256,Schlesen,Dorfstraße,38,,54.34107777,10.34428697
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8v,24256,Schlesen,Dorfstraße,4,,54.34490131,10.34849146
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8w,24256,Schlesen,Dorfstraße,40,,54.34089729,10.34436085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8x,24256,Schlesen,Dorfstraße,42,,54.34069718,10.34447091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8y,24256,Schlesen,Dorfstraße,5,,54.34463863,10.34829117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL8z,24256,Schlesen,Dorfstraße,6,,54.34443771,10.34728786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL90,24256,Schlesen,Jabek,1,a,54.34272514,10.34258133
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL91,24256,Schlesen,Jabek,2,,54.34081301,10.33090248
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL92,24256,Schlesen,Schulstraße,1,,54.3442343,10.34647435
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL93,24256,Schlesen,Schulstraße,3,,54.34459626,10.34682758
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL94,24256,Schlesen,Schulstraße,7,,54.34479934,10.34799336
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL95,24256,Schlesen,Veer Löwen,1,,54.34344639,10.3471364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL96,24256,Schlesen,Wischhof,1,,54.34268064,10.34402117
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL97,24256,Schlesen,Wischhof,10,,54.34309906,10.34458001
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL98,24256,Schlesen,Wischhof,11,,54.3434496,10.34371103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL99,24256,Schlesen,Wischhof,12,,54.34318384,10.34513986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9a,24256,Schlesen,Wischhof,13,,54.34363603,10.34406736
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9b,24256,Schlesen,Wischhof,15,,54.34346331,10.34440948
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9c,24256,Schlesen,Wischhof,17,,54.34329739,10.3447682
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9d,24256,Schlesen,Wischhof,19,,54.34327996,10.34559397
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9e,24256,Schlesen,Wischhof,2,,54.34273152,10.34447054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9f,24256,Schlesen,Wischhof,21,,54.34347155,10.34577913
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9g,24256,Schlesen,Wischhof,3,,54.34285332,10.34379981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9h,24256,Schlesen,Wischhof,4,,54.34287806,10.34423254
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9i,24256,Schlesen,Wischhof,5,,54.34305369,10.34364577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9j,24256,Schlesen,Wischhof,6,,54.34314544,10.34398928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9k,24256,Schlesen,Wischhof,7,,54.3431981,10.34370281
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9l,24256,Schlesen,Wischhof,8,,54.34331069,10.3441854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bL9m,24256,Schlesen,Wischhof,9,,54.34324448,10.34373354
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRA,24256,Schlesen,Am See,24,,54.3142065,10.38260612
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRB,24256,Schlesen,Am See,26,,54.31404879,10.38235895
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRC,24256,Schlesen,Am See,28,,54.31383165,10.38236227
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRD,24256,Schlesen,Am See,30,,54.31365638,10.38228223
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRE,24256,Schlesen,Am See,32,,54.31346501,10.38222201
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRF,24256,Schlesen,Am See,4,,54.31635721,10.38359209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRG,24256,Schlesen,Am See,6,,54.31626883,10.38355157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRH,24256,Schlesen,Am See,8,,54.31607871,10.38337972
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRI,24256,Schlesen,Am Hang,2,,54.33208497,10.41516549
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRJ,24256,Schlesen,Am Hang,4,,54.33178058,10.41505561
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRK,24256,Schlesen,Am Hang,6,,54.33152486,10.41501072
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRL,24256,Schlesen,Biesterfeld,1,,54.3334175,10.4159098
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRM,24256,Schlesen,Biesterfeld,1,a,54.33335843,10.41553157
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRN,24256,Schlesen,Biesterfeld,10,,54.3335324,10.41720062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRO,24256,Schlesen,Biesterfeld,11,,54.33415628,10.41745209
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRP,24256,Schlesen,Biesterfeld,12,,54.33367209,10.4173781
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRQ,24256,Schlesen,Biesterfeld,13,,54.3342134,10.41775741
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRR,24256,Schlesen,Biesterfeld,14,,54.33381388,10.41756699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRS,24256,Schlesen,Biesterfeld,16,,54.33392525,10.41779128
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRT,24256,Schlesen,Biesterfeld,18,,54.33415074,10.41830654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRU,24256,Schlesen,Biesterfeld,2,a,54.3330578,10.41567258
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRV,24256,Schlesen,Biesterfeld,2,b,54.33300039,10.41571749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRW,24256,Schlesen,Biesterfeld,20,,54.33419247,10.4183946
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRX,24256,Schlesen,Biesterfeld,22,,54.33414524,10.41882474
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRY,24256,Schlesen,Biesterfeld,3,,54.33354213,10.41633661
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRZ,24256,Schlesen,Biesterfeld,3,a,54.33364351,10.41590721
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRr,24256,Schlesen,Am See,10,,54.31586692,10.38339431
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRs,24256,Schlesen,Am See,12,,54.31565557,10.38324727
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRt,24256,Schlesen,Am See,14,,54.31537065,10.38316801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRu,24256,Schlesen,Am See,16,,54.31526068,10.38311989
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRv,24256,Schlesen,Am See,18,,54.31506306,10.38295538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRw,24256,Schlesen,Am See,2,,54.31656749,10.3837091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRx,24256,Schlesen,Am See,2,a,54.31662794,10.38359004
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRy,24256,Schlesen,Am See,20,,54.31486305,10.38284983
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLRz,24256,Schlesen,Am See,22,,54.31445137,10.38278028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS0,24256,Schlesen,Biesterfeld,4,,54.33310377,10.41601838
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS1,24256,Schlesen,Biesterfeld,5,,54.33363739,10.41647722
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS2,24256,Schlesen,Biesterfeld,6,,54.33319666,10.41642269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS3,24256,Schlesen,Biesterfeld,6,a,54.33317501,10.41628654
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS4,24256,Schlesen,Biesterfeld,7,,54.33376075,10.41671641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS5,24256,Schlesen,Biesterfeld,8,,54.33328718,10.41678953
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS6,24256,Schlesen,Biesterfeld,9,,54.33396173,10.41714267
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS7,24256,Schlesen,Bökenbarg,1,,54.32695354,10.41615751
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS8,24256,Schlesen,Bökenbarg,2,,54.32580967,10.41611081
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLS9,24256,Schlesen,Bökenbarg,4,,54.32589967,10.41614847
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSA,24256,Schlesen,Dorfstraße,31,b,54.3188766,10.37806971
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSB,24256,Schlesen,Dorfstraße,32,,54.31861204,10.37991602
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSC,24256,Schlesen,Dorfstraße,33,,54.31888122,10.37778346
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSD,24256,Schlesen,Dorfstraße,34,,54.31869195,10.37984839
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSE,24256,Schlesen,Dorfstraße,35,,54.31889461,10.37740588
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSF,24256,Schlesen,Dorfstraße,35,a,54.31891556,10.37715017
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSG,24256,Schlesen,Dorfstraße,36,,54.31895068,10.37956663
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSH,24256,Schlesen,Dorfstraße,37,,54.31893343,10.37675554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSI,24256,Schlesen,Dorfstraße,38,,54.31904663,10.37910271
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSJ,24256,Schlesen,Dorfstraße,4,,54.31745789,10.38405993
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSK,24256,Schlesen,Dorfstraße,4,a,54.3172952,10.38373664
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSL,24256,Schlesen,Dorfstraße,40,,54.31909996,10.37873862
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSM,24256,Schlesen,Dorfstraße,40,a,54.31920941,10.37841386
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSN,24256,Schlesen,Dorfstraße,42,,54.31919966,10.37795342
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSO,24256,Schlesen,Dorfstraße,44,,54.31916946,10.37754385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSP,24256,Schlesen,Dorfstraße,46,,54.3192549,10.37724533
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSQ,24256,Schlesen,Dorfstraße,48,,54.31924835,10.37587172
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSR,24256,Schlesen,Dorfstraße,5,,54.31721949,10.38307858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSS,24256,Schlesen,Dorfstraße,50,,54.31929462,10.37540452
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLST,24256,Schlesen,Dorfstraße,52,,54.31928359,10.37509786
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSU,24256,Schlesen,Dorfstraße,54,,54.31936001,10.37465198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSV,24256,Schlesen,Dorfstraße,7,,54.3172446,10.38277641
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSW,24256,Schlesen,Dorfstraße,8,,54.31744673,10.38324551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSX,24256,Schlesen,Dorfstraße,8,a,54.31771922,10.38323246
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSY,24256,Schlesen,Dorfstraße,9,,54.31711638,10.38216877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSZ,24256,Schlesen,Friedrichsfelde,1,,54.31875195,10.36320557
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSa,24256,Schlesen,Dorfstraße,1,,54.31711954,10.3837323
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSb,24256,Schlesen,Dorfstraße,10,,54.31749651,10.38283908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSc,24256,Schlesen,Dorfstraße,10,a,54.3177746,10.38294078
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSd,24256,Schlesen,Dorfstraße,11,,54.31738165,10.3818875
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSe,24256,Schlesen,Dorfstraße,12,,54.31759569,10.38228243
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSf,24256,Schlesen,Dorfstraße,13,,54.3174566,10.38163468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSg,24256,Schlesen,Dorfstraße,14,,54.31762035,10.38215777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSh,24256,Schlesen,Dorfstraße,15,,54.31761494,10.38123273
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSi,24256,Schlesen,Dorfstraße,16,,54.31775947,10.3819445
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSj,24256,Schlesen,Dorfstraße,16,a,54.31801265,10.38203749
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSk,24256,Schlesen,Dorfstraße,16,b,54.31832081,10.38211418
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSl,24256,Schlesen,Dorfstraße,17,,54.3176744,10.38081906
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSm,24256,Schlesen,Dorfstraße,18,,54.31790747,10.38157636
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSn,24256,Schlesen,Dorfstraße,18,a,54.31844667,10.38104978
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSo,24256,Schlesen,Dorfstraße,18,b,54.31851382,10.38147057
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSp,24256,Schlesen,Dorfstraße,18,c,54.31832183,10.38145447
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSq,24256,Schlesen,Dorfstraße,2,,54.31731465,10.38404601
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSr,24256,Schlesen,Dorfstraße,20,,54.31804202,10.38091483
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSs,24256,Schlesen,Dorfstraße,22,,54.31820648,10.38070207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSt,24256,Schlesen,Dorfstraße,24,,54.31830658,10.38040089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSu,24256,Schlesen,Dorfstraße,26,,54.31846825,10.38017695
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSv,24256,Schlesen,Dorfstraße,28,,54.31859725,10.38021031
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSw,24256,Schlesen,Dorfstraße,29,,54.31878849,10.378572
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSx,24256,Schlesen,Dorfstraße,3,,54.31688426,10.38351187
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSy,24256,Schlesen,Dorfstraße,30,,54.31872566,10.38006174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLSz,24256,Schlesen,Dorfstraße,31,a,54.31887248,10.37819374
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT0,24256,Schlesen,Friedrichsfelde,1,a,54.31878742,10.36411297
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT1,24256,Schlesen,Friesenhof,3,,54.30851188,10.34978554
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT2,24256,Schlesen,Grotenhof,1,,54.31778184,10.37713659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT3,24256,Schlesen,Grotenhof,10,,54.31825935,10.37774265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT4,24256,Schlesen,Grotenhof,11,,54.31828528,10.37718256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT5,24256,Schlesen,Grotenhof,12,,54.31823764,10.37802022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT6,24256,Schlesen,Grotenhof,13,,54.31830774,10.37674234
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT7,24256,Schlesen,Grotenhof,14,,54.31850985,10.37670365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT8,24256,Schlesen,Grotenhof,15,,54.31849261,10.37705333
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLT9,24256,Schlesen,Grotenhof,16,,54.31846398,10.37739507
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTA,24256,Schlesen,Im Dorf,14,,54.33001696,10.41501821
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTB,24256,Schlesen,Im Dorf,15,,54.32872089,10.41536458
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTC,24256,Schlesen,Im Dorf,16,,54.33025703,10.41479877
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTD,24256,Schlesen,Im Dorf,17,,54.32830493,10.41484322
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTE,24256,Schlesen,Im Dorf,18,,54.33045282,10.41482981
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTF,24256,Schlesen,Im Dorf,19,,54.32780396,10.41414263
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTG,24256,Schlesen,Im Dorf,2,,54.32806456,10.41847236
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTH,24256,Schlesen,Im Dorf,20,,54.33069423,10.41500963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTI,24256,Schlesen,Im Dorf,21,,54.3281509,10.41367049
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTJ,24256,Schlesen,Im Dorf,23,,54.32827087,10.41442417
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTK,24256,Schlesen,Im Dorf,24,,54.33124354,10.41506802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTL,24256,Schlesen,Im Dorf,25,,54.3284846,10.41435536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTM,24256,Schlesen,Im Dorf,26,,54.33262474,10.41499226
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTN,24256,Schlesen,Im Dorf,27,,54.3286542,10.41467611
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTO,24256,Schlesen,Im Dorf,28,,54.33284174,10.41509934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTP,24256,Schlesen,Im Dorf,29,,54.32879509,10.41476052
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTQ,24256,Schlesen,Im Dorf,3,,54.32788861,10.41758203
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTR,24256,Schlesen,Im Dorf,30,,54.33342502,10.41486129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTS,24256,Schlesen,Im Dorf,31,,54.32910107,10.4150783
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTT,24256,Schlesen,Im Dorf,33,,54.32949223,10.41493991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTU,24256,Schlesen,Im Dorf,35,,54.3295923,10.41488197
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTV,24256,Schlesen,Im Dorf,37,,54.32987994,10.41468688
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTW,24256,Schlesen,Im Dorf,39,,54.33008669,10.41448536
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTX,24256,Schlesen,Im Dorf,4,,54.32812897,10.41741586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTY,24256,Schlesen,Im Dorf,4,a,54.32842643,10.41694934
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTZ,24256,Schlesen,Im Dorf,41,,54.33025768,10.41437699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTa,24256,Schlesen,Grotenhof,17,,54.31850639,10.37761755
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTb,24256,Schlesen,Grotenhof,18,,54.31843535,10.37792228
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTc,24256,Schlesen,Grotenhof,19,,54.31844708,10.37818699
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTd,24256,Schlesen,Grotenhof,2,,54.31774544,10.3776163
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTe,24256,Schlesen,Grotenhof,20,,54.31777159,10.37869571
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTf,24256,Schlesen,Grotenhof,21,,54.3177178,10.37837155
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTg,24256,Schlesen,Grotenhof,22,,54.31797476,10.37868771
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTh,24256,Schlesen,Grotenhof,23,,54.31791134,10.3783464
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTi,24256,Schlesen,Grotenhof,24,,54.31814188,10.37876493
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTj,24256,Schlesen,Grotenhof,25,,54.31804852,10.37836482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTk,24256,Schlesen,Grotenhof,26,,54.31841855,10.37885879
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTl,24256,Schlesen,Grotenhof,27,,54.31820015,10.37838387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTm,24256,Schlesen,Grotenhof,29,,54.31835558,10.37853626
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTn,24256,Schlesen,Grotenhof,3,,54.31781165,10.37663655
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTo,24256,Schlesen,Grotenhof,4,,54.3177648,10.37786938
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTp,24256,Schlesen,Grotenhof,5,,54.3179285,10.37721577
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTq,24256,Schlesen,Grotenhof,6,,54.31791391,10.37759801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTr,24256,Schlesen,Grotenhof,7,,54.31795265,10.37693218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTs,24256,Schlesen,Grotenhof,8,,54.31783548,10.37776586
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTt,24256,Schlesen,Grotenhof,9,,54.31799918,10.37657735
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTu,24256,Schlesen,Hochkamp,1,,54.31947341,10.36660486
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTv,24256,Schlesen,Im Dorf,1,,54.32788937,10.41771269
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTw,24256,Schlesen,Im Dorf,10,,54.32919009,10.41556734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTx,24256,Schlesen,Im Dorf,11,,54.32859092,10.41571085
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTy,24256,Schlesen,Im Dorf,12,,54.32964588,10.41516309
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLTz,24256,Schlesen,Im Dorf,13,,54.32867076,10.41550091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU0,24256,Schlesen,Im Dorf,43,,54.33034916,10.41433367
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU1,24256,Schlesen,Im Dorf,45,,54.33055102,10.41416949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU2,24256,Schlesen,Im Dorf,47,,54.33071942,10.41428597
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU3,24256,Schlesen,Im Dorf,57,a,54.33176476,10.41437892
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU4,24256,Schlesen,Im Dorf,57,b,54.33182322,10.41438235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU5,24256,Schlesen,Im Dorf,57,c,54.33188952,10.41438624
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU6,24256,Schlesen,Im Dorf,59,,54.33249682,10.41449148
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU7,24256,Schlesen,Im Dorf,6,,54.32870801,10.41682991
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU8,24256,Schlesen,Im Dorf,6,a,54.3287805,10.41642648
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLU9,24256,Schlesen,Im Dorf,6,b,54.32884687,10.41559798
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUA,24256,Schlesen,Legbank,2,,54.34569492,10.41553538
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUB,24256,Schlesen,Legbank,3,,54.34535362,10.41630777
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUC,24256,Schlesen,Legbank,4,,54.34533108,10.41729508
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUD,24256,Schlesen,Legbank,5,,54.34563182,10.4166628
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUE,24256,Schlesen,Legbank,6,,54.3456957,10.41655532
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUF,24256,Schlesen,Moor,2,,54.31777996,10.36899066
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUG,24256,Schlesen,Moor,4,,54.31769633,10.3688778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUH,24256,Schlesen,Moor,6,,54.31751307,10.36866193
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUI,24256,Schlesen,Moor,8,,54.31741765,10.36859887
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUJ,24256,Schlesen,Mühlenweg,1,,54.3317448,10.4124873
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUK,24256,Schlesen,Mühlenweg,1,a,54.33186322,10.41342585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUL,24256,Schlesen,Mühlenweg,1,b,54.3318336,10.41301385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUM,24256,Schlesen,Mühlenweg,3,,54.33172281,10.41231794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUN,24256,Schlesen,Mühlenweg,5,,54.33195458,10.41004192
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUO,24256,Schlesen,Mühlenweg,5,a,54.33181767,10.41064739
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUP,24256,Schlesen,Mühlenweg,5,b,54.33186918,10.41025534
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUQ,24256,Schlesen,Neu-Sophienhof,1,,54.34840031,10.39285054
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUR,24256,Schlesen,Neu-Sophienhof,11,,54.34994323,10.39229035
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUS,24256,Schlesen,Neu-Sophienhof,13,,54.35014163,10.39247338
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUT,24256,Schlesen,Neu-Sophienhof,15,,54.35020445,10.39254073
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUU,24256,Schlesen,Neu-Sophienhof,17,,54.35070979,10.39306637
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUV,24256,Schlesen,Neu-Sophienhof,19,,54.3516728,10.394129
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUW,24256,Schlesen,Neu-Sophienhof,2,,54.34849645,10.39344761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUX,24256,Schlesen,Neu-Sophienhof,3,,54.34847482,10.39275091
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUY,24256,Schlesen,Neu-Sophienhof,4,a,54.35016022,10.39326457
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUZ,24256,Schlesen,Neu-Sophienhof,4,b,54.35024881,10.39336173
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUa,24256,Schlesen,Im Dorf,7,,54.32837438,10.41627529
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUb,24256,Schlesen,Im Dorf,7,a,54.3284012,10.4161928
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUc,24256,Schlesen,Im Dorf,8,,54.32891288,10.41548174
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUd,24256,Schlesen,Im Dorf,9,,54.32849365,10.4159891
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUe,24256,Schlesen,Knüll,1,,54.31889797,10.3759638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUf,24256,Schlesen,Knüll,10,,54.3179439,10.37559282
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUg,24256,Schlesen,Knüll,11,,54.31687877,10.37567434
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUh,24256,Schlesen,Knüll,12,,54.31776532,10.37554587
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUi,24256,Schlesen,Knüll,13,,54.31679209,10.37564325
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUj,24256,Schlesen,Knüll,14,,54.31757684,10.37563152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUk,24256,Schlesen,Knüll,15,,54.3165042,10.37538753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUl,24256,Schlesen,Knüll,18,,54.31718143,10.37545745
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUm,24256,Schlesen,Knüll,19,,54.31601628,10.37532936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUn,24256,Schlesen,Knüll,2,,54.31896122,10.3755943
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUo,24256,Schlesen,Knüll,20,,54.31693988,10.37533385
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUp,24256,Schlesen,Knüll,21,,54.31573745,10.37455381
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUq,24256,Schlesen,Knüll,22,,54.31676082,10.37517003
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUr,24256,Schlesen,Knüll,24,,54.31652124,10.37501949
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUs,24256,Schlesen,Knüll,26,,54.3163493,10.37438071
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUt,24256,Schlesen,Knüll,28,,54.31615685,10.37425366
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUu,24256,Schlesen,Knüll,3,,54.31863349,10.37591056
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUv,24256,Schlesen,Knüll,30,,54.31567591,10.37399437
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUw,24256,Schlesen,Knüll,5,,54.31816319,10.3758849
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUx,24256,Schlesen,Knüll,8,,54.31819259,10.37558007
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUy,24256,Schlesen,Knüll,9,,54.31709116,10.37582714
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLUz,24256,Schlesen,Legbank,1,,54.34574536,10.41540614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV0,24256,Schlesen,Neu-Sophienhof,5,,54.34962599,10.39197283
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV1,24256,Schlesen,Neu-Sophienhof,6,,54.35073261,10.39388733
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV2,24256,Schlesen,Neu-Sophienhof,7,,54.34967918,10.39203318
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV3,24256,Schlesen,Neu-Sophienhof,8,,54.35224215,10.39515853
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV4,24256,Schlesen,Neu-Sophienhof,9,,54.34986411,10.39220502
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV5,24256,Schlesen,Redder,1,,54.31775334,10.38015132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV6,24256,Schlesen,Redder,11,,54.31745508,10.37820568
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV7,24256,Schlesen,Redder,13,,54.31753512,10.3762196
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV8,24256,Schlesen,Redder,13,a,54.31728519,10.37652
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLV9,24256,Schlesen,Redder,13,b,54.3174815,10.37697622
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVA,24256,Schlesen,Sophienhof,8,,54.34178224,10.40635986
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVB,24256,Schlesen,Sophienhof,9,,54.34295538,10.40514614
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVC,24256,Schlesen,Zur Schleuse,10,,54.32184511,10.38821762
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVD,24256,Schlesen,Zur Schleuse,12,,54.32190068,10.38830106
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVE,24256,Schlesen,Zur Schleuse,2,,54.31756671,10.38417089
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVF,24256,Schlesen,Zur Schleuse,4,,54.31775621,10.38436969
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVG,24256,Schlesen,Zur Schleuse,6,,54.32105962,10.38685933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVH,24256,Schlesen,Zur Schleuse,8,,54.32135661,10.38715929
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVI,24256,Schlesen,Zur Schleuse,8,a,54.32147111,10.38758753
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVJ,24256,Schlesen,Zur Schleuse,8,b,54.32170588,10.38792552
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVa,24256,Schlesen,Redder,2,,54.31779244,10.37971211
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVb,24256,Schlesen,Redder,3,,54.31757427,10.38004692
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVc,24256,Schlesen,Redder,4,,54.31754823,10.37948659
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVd,24256,Schlesen,Redder,5,,54.31740108,10.37982259
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVe,24256,Schlesen,Redder,7,,54.31720535,10.37911778
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVf,24256,Schlesen,Redder,7,a,54.31721864,10.37966022
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVg,24256,Schlesen,Redder,9,,54.31738743,10.3785364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVh,24256,Schlesen,Seekamp,1,,54.30589316,10.38079233
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVi,24256,Schlesen,Seekamp,2,,54.30633758,10.38071954
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVj,24256,Schlesen,Seekamp,3,,54.30608132,10.38023132
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVk,24256,Schlesen,Sophienhof,1,,54.34373332,10.41029235
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVl,24256,Schlesen,Sophienhof,10,,54.34402174,10.40428963
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVm,24256,Schlesen,Sophienhof,11,,54.34304023,10.40517497
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVn,24256,Schlesen,Sophienhof,12,,54.34315901,10.40588804
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVo,24256,Schlesen,Sophienhof,14,,54.34303415,10.40661956
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVp,24256,Schlesen,Sophienhof,16,,54.34297418,10.40778062
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVq,24256,Schlesen,Sophienhof,17,,54.34327357,10.408028
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVr,24256,Schlesen,Sophienhof,18,,54.34304986,10.4080379
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVs,24256,Schlesen,Sophienhof,19,,54.34335754,10.408121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVt,24256,Schlesen,Sophienhof,2,,54.34366999,10.410225
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVu,24256,Schlesen,Sophienhof,21,,54.34354783,10.40896152
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVw,24256,Schlesen,Sophienhof,4,,54.34228383,10.40865729
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVx,24256,Schlesen,Sophienhof,5,,54.34279027,10.40697939
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVy,24256,Schlesen,Sophienhof,6,,54.34244198,10.40679822
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0002bLVz,24256,Schlesen,Sophienhof,7,,54.34183258,10.40649121
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JDET,24256,Schlesen,Dorfstraße,33,,54.34148783,10.34454182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0004JDEW,24256,Schlesen,Dorfstraße,35,,54.34109173,10.34470496
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MC,24256,Schlesen,Salzau,6,,54.3296513,10.38375482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MD,24256,Schlesen,Salzauer Mühle,3,,54.33664979,10.38073761
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MI,24256,Schlesen,Salzau,8,,54.33118178,10.38436256
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MJ,24256,Schlesen,Salzauer Mühle,1,,54.33568277,10.38112617
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MO,24256,Schlesen,Salzau,3,,54.33176311,10.38188343
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MP,24256,Schlesen,Salzauer Mühle,2,,54.33535549,10.38238182
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MU,24256,Schlesen,Salzau,10,,54.33214391,10.38414998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503MV,24256,Schlesen,Salzauer Mühle,4,,54.33520897,10.3826518
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503Mr,24256,Schlesen,Salzau,1,,54.3304487,10.37670241
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503Mu,24256,Schlesen,Salzau,2,,54.32764122,10.37940247
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503Mx,24256,Schlesen,Salzau,4,,54.32964222,10.38256955
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503N0,24256,Schlesen,Salzau,12,a,54.33294801,10.38451409
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503N1,24256,Schlesen,Salzau,12,b,54.33302782,10.38450531
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503N5,24256,Schlesen,Salzauer Mühle,7,a,54.3329262,10.38250289
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503N8,24256,Schlesen,Salzauer Mühle,7,,54.33267781,10.38280482
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK000503Nb,24256,Schlesen,Salzauer Mühle,5,,54.33450286,10.38272936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00057PXE,24256,Schlesen,Knüll,26,a,54.3163574,10.37479967
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005AUgb,24256,Schlesen,Knüll,7,,54.31777785,10.37600638
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005CI9s,24256,Schlesen,Ziegelhof,1,,54.32803086,10.31048265
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z3s9,24256,Schlesen,Georgenfelde,1,,54.32978138,10.33432835
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005Z3sa,24256,Schlesen,Georgenfelde,2,,54.32947575,10.33730416
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005aCq3,24256,Schlesen,Dorfstraße,15,b,54.32221642,10.33369832
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005chW1,24256,Schlesen,Bargkoppel,4,,54.32070977,10.33652998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxT2,24256,Schlesen,Lüttsche Koppel,2,,54.32095467,10.32977266
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxTL,24256,Schlesen,Lüttsche Koppel,8,,54.32033874,10.33004585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxTb,24256,Schlesen,Lüttsche Koppel,4,,54.32070597,10.32985337
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxTv,24256,Schlesen,Lüttsche Koppel,6,,54.32054263,10.3298858
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxU3,24256,Schlesen,Lüttsche Koppel,11,,54.32024675,10.33057605
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxUV,24256,Schlesen,Lüttsche Koppel,7,,54.32046662,10.33050387
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxUf,24256,Schlesen,Lüttsche Koppel,13,,54.3203516,10.33100551
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxUg,24256,Schlesen,Lüttsche Koppel,5,,54.32069244,10.33082185
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxUv,24256,Schlesen,Lüttsche Koppel,9,,54.32054342,10.33090492
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxUw,24256,Schlesen,Lüttsche Koppel,3,,54.32067523,10.33040854
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxV4,24256,Schlesen,Lüttsche Koppel,1,,54.32106782,10.32994102
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVC,24256,Schlesen,Lüttsche Koppel,10,,54.32018404,10.33014908
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVH,24256,Schlesen,Lüttsche Koppel,15,,54.32000395,10.33072593
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVI,24256,Schlesen,Lüttsche Koppel,17,,54.32008455,10.33098585
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVO,24256,Schlesen,Lüttsche Koppel,23,,54.31995875,10.33133544
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVR,24256,Schlesen,Lüttsche Koppel,14,,54.31982598,10.33033819
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005gxVa,24256,Schlesen,Lüttsche Koppel,16,,54.31961477,10.330442
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005mAfz,24256,Schlesen,Mühlenweg,3,a,54.33173529,10.41112126
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0005rAEb,24256,Schlesen,Sophienhof,13,,54.34354485,10.40624207
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068MSS,24256,Schlesen,Lüttsche Koppel,19,,54.31981867,10.33071683
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068MST,24256,Schlesen,Lüttsche Koppel,21,,54.31985765,10.33103747
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00068MTj,24256,Schlesen,Lüttsche Koppel,12,,54.31999978,10.33023808
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006BQM0,24256,Schlesen,Dorfstraße,1,a,54.32199032,10.32977546
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006CdR4,24256,Schlesen,Im Dorf,24,a,54.33233985,10.41597511
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006E7fA,24256,Schlesen,Dorfstraße,17,a,54.32233514,10.33432734
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3AN,24256,Schlesen,Ottenhof,8,,54.34204575,10.37172685
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3AO,24256,Schlesen,Ottenhof,9,,54.34202626,10.37158704
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3At,24256,Schlesen,Ottenhof,1,,54.34236116,10.37467378
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Au,24256,Schlesen,Ottenhof,2,,54.34220847,10.37295803
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Av,24256,Schlesen,Ottenhof,3,,54.34219498,10.37286055
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Aw,24256,Schlesen,Ottenhof,4,,54.3421592,10.37259759
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Ax,24256,Schlesen,Ottenhof,5,,54.3421464,10.37250541
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Ay,24256,Schlesen,Ottenhof,6,,54.34210249,10.37218801
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006O3Az,24256,Schlesen,Ottenhof,7,,54.34235866,10.37177998
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006OCTE,24256,Schlesen,Sophienhof,12,a,54.34314533,10.40596811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006rDwi,24256,Schlesen,Im Dorf,22,,54.3309445,10.4151219
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006vDaU,24256,Schlesen,Dorfstraße,27,,54.31882285,10.37907067
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ymEY,24256,Schlesen,Fernhausen,2,,54.33585826,10.31572964
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ymF3,24256,Schlesen,Fernhausen,1,,54.33557647,10.31621218
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ymv0,24256,Schlesen,Christinenhof,1,,54.32976608,10.31668768
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yni0,24256,Schlesen,Faulengraben,1,a,54.33121563,10.33312293
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yni1,24256,Schlesen,Faulengraben,1,b,54.33121889,10.33303514
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006yni2,24256,Schlesen,Faulengraben,1,c,54.33120794,10.33294103
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ynis,24256,Schlesen,Spliesteich,1,a,54.32998495,10.3337365
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0006ynit,24256,Schlesen,Spliesteich,1,b,54.33006386,10.33341937
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075ZAp,24256,Schlesen,Dorfstraße,13,a,54.32217698,10.33292979
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075hXB,24256,Schlesen,Klint,12,a,54.32118893,10.33621918
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK00075i99,24256,Schlesen,Klint,12,,54.32099859,10.33598884
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DK9C,24256,Schlesen,Münstertal,1,,54.32196928,10.35363361
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DK9D,24256,Schlesen,Münstertal,3,,54.32237408,10.35344811
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007DK9E,24256,Schlesen,Münstertal,3,a,54.32243599,10.3531725
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007L6GL,24256,Schlesen,Seebrook,37,a,54.31683537,10.32930214
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007LOy5,24256,Schlesen,Salzau,4,a,54.33024372,10.38266018
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007OX2U,24256,Schlesen,Sophienhof,3,a,54.34310072,10.409468
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007OX2Z,24256,Schlesen,Sophienhof,3,b,54.34300577,10.40980451
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36g,24256,Schlesen,Dorfstraße,26,a,54.34233821,10.34347802
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36j,24256,Schlesen,Charlottental,1,,54.33254434,10.35933069
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36m,24256,Schlesen,Charlottental,2,,54.33319654,10.35850048
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36p,24256,Schlesen,Charlottental,3,,54.33342764,10.35837645
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36s,24256,Schlesen,Charlottental,4,,54.33332954,10.35734198
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36v,24256,Schlesen,Charlottental,5,,54.33273363,10.35777782
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007P36y,24256,Schlesen,Charlottental,6,,54.33315405,10.3583251
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007VguV,24256,Schlesen,Knüll,6,,54.31844138,10.37557936
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007bB8T,24256,Schlesen,Dorfstraße,25,,54.31858788,10.37943846
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vgbN,24256,Schlesen,Hütten,2,,54.30703626,10.35700402
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vgbS,24256,Schlesen,Hütten,1,,54.30720779,10.3574831
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007vgbT,24256,Schlesen,Hütten,3,,54.3075743,10.35823933
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0007wamh,24256,Schlesen,Dorfstraße,44,,54.34050842,10.34471794
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008axrn,24256,Schlesen,Sophienhof,13,a,54.34382092,10.4063364
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008axro,24256,Schlesen,Sophienhof,13,b,54.34383924,10.40572274
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008k8tA,24256,Schlesen,Veer Löwen,4,,54.34346197,10.34742582
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008k8ty,24256,Schlesen,Veer Löwen,2,,54.34345294,10.34725773
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008k8tz,24256,Schlesen,Veer Löwen,3,,54.3434577,10.34734634
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008ke5w,24256,Schlesen,Dorfstraße,2,a,54.34516996,10.34944125
+https://registry.gdi-de.org/id/de.sh.inspire.ad.alkis/Address_DESHPDHK0008mBTy,24256,Schlesen,Dorfstraße,3,a,54.32194936,10.33008713
