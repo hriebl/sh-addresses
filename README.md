@@ -2,7 +2,11 @@
 
 Amtliche Adressen für Schleswig-Holstein [pro Postleitzahl im CSV-Format](data), heruntergeladen aus dem INSPIRE WFS-Downloaddienst des Landesamtes für Vermessung und Geoinformation Schleswig-Holstein. Die Daten stehen unter der CC-BY-4.0-Lizenz (© GeoBasis-DE/LVermGeo SH/CC BY 4.0).
 
-Der Harvester ist in Python geschrieben. Er splittet die Queries, um nur so viele Ergebnisse abzufragen, wie der WFS-Dienst pro Query erlaubt. Die Ergebnisse werden in einer SQLite-Datenbank zwischengespeichert und abschließend in je eine CSV-Datei pro Postleitzahl geschrieben.
+Der [Harvester](harvester) ist in Python geschrieben. Er teilt die Queries so auf, dass die Obergrenze an Ergebnissen pro Query eingehalten wird, wie vom WFS-Dienst vorgegeben. Die Ergebnisse werden erst in einer SQLite-Datenbank zwischengespeichert und anschließend in mehrere CSV-Dateien geschrieben.
+
+Die Adressen sind georeferenziert im Koordinatenreferenzsystem EPSG:4326 und lassen sich so auf einer Karte darstellen:
+
+![Kartendarstellung der Adressen](assets/map.png)
 
 ## Installation
 
